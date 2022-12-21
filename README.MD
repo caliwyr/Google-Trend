@@ -5,9 +5,4 @@
  
 Last Update 21-12-2022 , 15:02:07
 
-Country List :
-VIETNAM.json
-
-
-
-© Abdul Muttaqin 
+© Caliwyr
