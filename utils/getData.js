@@ -51,7 +51,7 @@ ${file}
 
 
 
-© Abdul Muttaqin 
+© Caliwyr
 `, 'UTF-8',
       {
         'flags': 'w+'
