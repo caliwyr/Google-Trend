@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2022 , 16:13:50",
+  "lastUpdate": "23-12-2022 , 16:37:03",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "為替ドル",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%82%BA%E6%9B%BF%E3%83%89%E3%83%AB",
-        "pubdate": "Wed, 21 Dec 2022 09:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "あき竹城",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%82%E3%81%8D%E7%AB%B9%E5%9F%8E",
         "pubdate": "Tue, 20 Dec 2022 17:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "矢沢永吉",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9F%A2%E6%B2%A2%E6%B0%B8%E5%90%89",
         "pubdate": "Tue, 20 Dec 2022 16:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "円高",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%86%86%E9%AB%98",
+        "pubdate": "Tue, 20 Dec 2022 21:00:00 +0900"
       }
     ]
   ]
