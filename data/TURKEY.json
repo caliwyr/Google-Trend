@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-12-2022 , 23:58:46",
+  "lastUpdate": "23-12-2022 , 01:27:35",
   "data": [
+    [
+      {
+        "title": "TRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT",
+        "pubdate": "Fri, 23 Dec 2022 03:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Vural Avar kimdir",
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United",
         "pubdate": "Thu, 22 Dec 2022 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Semra Güzel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Semra%20G%C3%BCzel",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0300"
       }
     ]
   ]

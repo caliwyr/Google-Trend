@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2022 , 23:58:32",
+  "lastUpdate": "23-12-2022 , 01:27:20",
   "data": [
     [
       {
@@ -66,30 +66,9 @@
     ],
     [
       {
-        "title": "Arthur Lira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arthur%20Lira",
-        "pubdate": "Thu, 22 Dec 2022 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Nuuvem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nuuvem",
         "pubdate": "Thu, 22 Dec 2022 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Galatasaray",
-        "pubdate": "Thu, 22 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia",
-        "pubdate": "Thu, 22 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -101,8 +80,29 @@
     ],
     [
       {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia",
+        "pubdate": "Thu, 22 Dec 2022 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
+        "pubdate": "Thu, 22 Dec 2022 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Haaland",
+        "pubdate": "Thu, 22 Dec 2022 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City f.c.",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City%20f.c.",
         "pubdate": "Thu, 22 Dec 2022 13:00:00 -0500"
       }
     ],
@@ -111,6 +111,13 @@
         "title": "Cida Gonçalves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cida%20Gon%C3%A7alves",
         "pubdate": "Thu, 22 Dec 2022 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Thu, 22 Dec 2022 18:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ministério da Defesa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minist%C3%A9rio%20da%20Defesa",
         "pubdate": "Thu, 22 Dec 2022 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Moreirense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Moreirense",
-        "pubdate": "Thu, 22 Dec 2022 16:00:00 -0500"
       }
     ]
   ]
