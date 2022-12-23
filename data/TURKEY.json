@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-12-2022 , 01:27:35",
+  "lastUpdate": "23-12-2022 , 02:27:08",
   "data": [
     [
       {
         "title": "TRT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT",
         "pubdate": "Fri, 23 Dec 2022 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Canlı TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Canl%C4%B1%20TV",
+        "pubdate": "Fri, 23 Dec 2022 00:00:00 +0300"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Manchester City - Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City%20-%20Liverpool",
+        "title": "Manchester City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City%20%20Liverpool",
         "pubdate": "Thu, 22 Dec 2022 18:00:00 +0300"
       }
     ],
@@ -83,13 +90,6 @@
         "title": "Fenerbahçe Beko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Beko",
         "pubdate": "Thu, 22 Dec 2022 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "TRT Haber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Haber",
-        "pubdate": "Thu, 22 Dec 2022 19:00:00 +0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United",
-        "pubdate": "Thu, 22 Dec 2022 00:00:00 +0300"
+        "title": "Semra Güzel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Semra%20G%C3%BCzel",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0300"
       }
     ]
   ]

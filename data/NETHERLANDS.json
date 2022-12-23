@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2022 , 01:27:29",
+  "lastUpdate": "23-12-2022 , 02:27:04",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Tilburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tilburg",
-        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Danny Jansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Danny%20Jansen",
         "pubdate": "Thu, 22 Dec 2022 18:00:00 +0100"
@@ -82,6 +75,13 @@
       {
         "title": "Irene Schouten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
+        "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schietpartij Tilburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Tilburg",
         "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
       }
     ],
