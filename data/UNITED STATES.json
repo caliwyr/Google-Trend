@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2022 , 23:55:38",
+  "lastUpdate": "24-12-2022 , 01:00:10",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "LastPass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LastPass",
         "pubdate": "Fri, 23 Dec 2022 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Charles Sobhraj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Charles%20Sobhraj",
+        "pubdate": "Fri, 23 Dec 2022 15:00:00 -0800"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Scott Minerd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scott%20Minerd",
+        "pubdate": "Thu, 22 Dec 2022 09:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Alice in Borderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alice%20in%20Borderland",
         "pubdate": "Thu, 22 Dec 2022 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Boston Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20Celtics",
-        "pubdate": "Thu, 22 Dec 2022 06:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tennessee Titans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20Titans",
-        "pubdate": "Thu, 22 Dec 2022 23:00:00 -0800"
       }
     ]
   ]
