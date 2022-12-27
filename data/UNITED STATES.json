@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2022 , 02:05:38",
+  "lastUpdate": "27-12-2022 , 02:39:07",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Colts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
+        "pubdate": "Mon, 26 Dec 2022 17:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Whoopi Goldberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Whoopi%20Goldberg",
         "pubdate": "Mon, 26 Dec 2022 08:00:00 -0800"
@@ -41,6 +48,13 @@
         "title": "Aaron Gordon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Gordon",
         "pubdate": "Mon, 26 Dec 2022 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Brett Rypien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brett%20Rypien",
+        "pubdate": "Mon, 26 Dec 2022 15:00:00 -0800"
       }
     ],
     [
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Rams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
-        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Russell Wilson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
         "pubdate": "Sun, 25 Dec 2022 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Boxing Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boxing%20Day",
-        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0800"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boxing%20Day",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Epic Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Epic%20Games",
         "pubdate": "Sun, 25 Dec 2022 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Broncos vs Rams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Broncos%20vs%20Rams",
+        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0800"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "76ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#76ers",
-        "pubdate": "Sun, 25 Dec 2022 15:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Devin Booker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Devin%20Booker",
         "pubdate": "Sun, 25 Dec 2022 22:00:00 -0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Trace McSorley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trace%20McSorley",
-        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Cruise",
-        "pubdate": "Sun, 25 Dec 2022 20:00:00 -0800"
+        "title": "Luka Doncic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luka%20Doncic",
+        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0800"
       }
     ]
   ]
