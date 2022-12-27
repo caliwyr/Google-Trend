@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2022 , 07:33:53",
+  "lastUpdate": "27-12-2022 , 07:43:12",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "坂本花織",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9D%82%E6%9C%AC%E8%8A%B1%E7%B9%94",
-        "pubdate": "Sun, 25 Dec 2022 00:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "島田高志郎",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B3%B6%E7%94%B0%E9%AB%98%E5%BF%97%E9%83%8E",
         "pubdate": "Sun, 25 Dec 2022 22:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "坂本花織",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9D%82%E6%9C%AC%E8%8A%B1%E7%B9%94",
         "pubdate": "Fri, 23 Dec 2022 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "Steam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Steam",
+        "pubdate": "Fri, 23 Dec 2022 22:00:00 +0900"
       }
     ]
   ]
