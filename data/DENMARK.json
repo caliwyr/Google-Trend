@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2022 , 23:54:29",
+  "lastUpdate": "28-12-2022 , 00:53:44",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
         "pubdate": "Tue, 27 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Umami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Umami",
+        "pubdate": "Tue, 27 Dec 2022 10:00:00 +0100"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Kalvin Phillips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kalvin%20Phillips",
-        "pubdate": "Tue, 27 Dec 2022 12:00:00 +0100"
+        "title": "Clara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clara",
+        "pubdate": "Tue, 27 Dec 2022 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Clara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clara",
-        "pubdate": "Tue, 27 Dec 2022 22:00:00 +0100"
+        "title": "Kalvin Phillips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kalvin%20Phillips",
+        "pubdate": "Tue, 27 Dec 2022 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "BMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BMI",
         "pubdate": "Mon, 26 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The holiday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20holiday",
-        "pubdate": "Mon, 26 Dec 2022 10:00:00 +0100"
       }
     ]
   ]
