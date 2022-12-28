@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-12-2022 , 00:53:50",
+  "lastUpdate": "28-12-2022 , 02:07:23",
   "data": [
-    [
-      {
-        "title": "Skoghøy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skogh%C3%B8y",
-        "pubdate": "Wed, 28 Dec 2022 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Manchester United",
@@ -139,6 +132,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Mon, 26 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NBA",
+        "pubdate": "Mon, 26 Dec 2022 06:00:00 +0100"
       }
     ]
   ]

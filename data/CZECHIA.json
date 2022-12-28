@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-12-2022 , 00:53:44",
+  "lastUpdate": "28-12-2022 , 02:07:18",
   "data": [
+    [
+      {
+        "title": "Bohuš záhorský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohu%C5%A1%20z%C3%A1horsk%C3%BD",
+        "pubdate": "Tue, 27 Dec 2022 21:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Korunní princ",
@@ -31,20 +38,6 @@
     ],
     [
       {
-        "title": "Šíleně smutná princezna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0%C3%ADlen%C4%9B%20smutn%C3%A1%20princezna",
-        "pubdate": "Tue, 27 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Silene smutna princezna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Silene%20smutna%20princezna",
-        "pubdate": "Tue, 27 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "S tebou mě baví svět",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20tebou%20m%C4%9B%20bav%C3%AD%20sv%C4%9Bt",
         "pubdate": "Tue, 27 Dec 2022 15:00:00 +0100"
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Pyšná princezna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Py%C5%A1n%C3%A1%20princezna",
-        "pubdate": "Tue, 27 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Postřižiny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Post%C5%99i%C5%BEiny",
         "pubdate": "Tue, 27 Dec 2022 22:00:00 +0100"
@@ -76,6 +62,13 @@
         "title": "Pod Jezevčí skálou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pod%20Jezev%C4%8D%C3%AD%20sk%C3%A1lou",
         "pubdate": "Tue, 27 Dec 2022 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marian Jurečka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marian%20Jure%C4%8Dka",
+        "pubdate": "Tue, 27 Dec 2022 12:00:00 +0100"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Buffalo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Buffalo",
-        "pubdate": "Tue, 27 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hokej.cz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej.cz",
         "pubdate": "Tue, 27 Dec 2022 01:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Davos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Davos",
+        "pubdate": "Tue, 27 Dec 2022 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Patrick Swayze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrick%20Swayze",
         "pubdate": "Mon, 26 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sbohem a šáteček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sbohem%20a%20%C5%A1%C3%A1te%C4%8Dek",
+        "pubdate": "Mon, 26 Dec 2022 14:00:00 +0100"
       }
     ]
   ]
