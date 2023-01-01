@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-12-2022 , 23:53:58",
+  "lastUpdate": "01-01-2023 , 00:58:03",
   "data": [
+    [
+      {
+        "title": "Brian May",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brian%20May",
+        "pubdate": "Sun, 01 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Viaplay",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sat, 31 Dec 2022 17:00:00 +0100"
+        "title": "Jonas Gahr Støre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Gahr%20St%C3%B8re",
+        "pubdate": "Sat, 31 Dec 2022 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jonas Gahr Støre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Gahr%20St%C3%B8re",
-        "pubdate": "Sat, 31 Dec 2022 18:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sat, 31 Dec 2022 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tate",
         "pubdate": "Fri, 30 Dec 2022 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Al%20Nassr",
-        "pubdate": "Fri, 30 Dec 2022 21:00:00 +0100"
       }
     ]
   ]
