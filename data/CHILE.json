@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2023 , 00:53:33",
+  "lastUpdate": "04-01-2023 , 02:11:30",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "U de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile",
+        "pubdate": "Tue, 03 Jan 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Universidad catolica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
         "pubdate": "Tue, 03 Jan 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Pontificia universidad Católica de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pontificia%20universidad%20Cat%C3%B3lica%20de%20Chile",
+        "pubdate": "Tue, 03 Jan 2023 10:00:00 -0300"
       }
     ],
     [
@@ -89,13 +103,6 @@
       {
         "title": "USS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#USS",
-        "pubdate": "Tue, 03 Jan 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Pontificia universidad Católica de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pontificia%20universidad%20Cat%C3%B3lica%20de%20Chile",
         "pubdate": "Tue, 03 Jan 2023 10:00:00 -0300"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "SAE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SAE",
+        "pubdate": "Tue, 03 Jan 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Cae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cae",
         "pubdate": "Tue, 03 Jan 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Universidad Austral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20Austral",
-        "pubdate": "Tue, 03 Jan 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "San sebastian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20sebastian",
-        "pubdate": "Tue, 03 Jan 2023 13:00:00 -0300"
       }
     ]
   ]

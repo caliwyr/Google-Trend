@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2023 , 00:53:41",
+  "lastUpdate": "04-01-2023 , 02:11:39",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
+        "pubdate": "Wed, 04 Jan 2023 07:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Aston Villa – Wolves",
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Arsenal – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%E2%80%93%20Newcastle",
-        "pubdate": "Tue, 03 Jan 2023 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Everton – Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%E2%80%93%20Brighton",
-        "pubdate": "Tue, 03 Jan 2023 04:00:00 +0700"
+        "title": "Lãi suất",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%A3i%20su%E1%BA%A5t",
+        "pubdate": "Wed, 04 Jan 2023 07:00:00 +0700"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Man Utd – Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%E2%80%93%20Bournemouth",
         "pubdate": "Tue, 03 Jan 2023 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Everton – Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%E2%80%93%20Brighton",
+        "pubdate": "Tue, 03 Jan 2023 04:00:00 +0700"
       }
     ],
     [
@@ -66,8 +73,15 @@
     ],
     [
       {
-        "title": "Hành Trình Công Lý tập 37",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0nh%20Tr%C3%ACnh%20C%C3%B4ng%20L%C3%BD%20t%E1%BA%ADp%2037",
+        "title": "Quân sự",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%C3%A2n%20s%E1%BB%B1",
+        "pubdate": "Tue, 03 Jan 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Hành trình công lý tập 37",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0nh%20tr%C3%ACnh%20c%C3%B4ng%20l%C3%BD%20t%E1%BA%ADp%2037",
         "pubdate": "Tue, 03 Jan 2023 06:00:00 +0700"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Fap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fap",
         "pubdate": "Tue, 03 Jan 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Celine%20Dion",
-        "pubdate": "Tue, 03 Jan 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Marseille",
-        "pubdate": "Tue, 03 Jan 2023 07:00:00 +0700"
       }
     ]
   ]

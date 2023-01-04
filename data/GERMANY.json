@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2023 , 00:53:34",
+  "lastUpdate": "04-01-2023 , 02:11:32",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
+        "pubdate": "Wed, 04 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ken Block",
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Christine Lambrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christine%20Lambrecht",
+        "pubdate": "Mon, 02 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jeremy Renner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jeremy%20Renner",
         "pubdate": "Mon, 02 Jan 2023 09:00:00 +0100"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Lambrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lambrecht",
-        "pubdate": "Mon, 02 Jan 2023 10:00:00 +0100"
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "pubdate": "Mon, 02 Jan 2023 11:00:00 +0100"
       }
     ],
     [
@@ -97,6 +111,13 @@
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#China",
         "pubdate": "Mon, 02 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sophia Thomalla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sophia%20Thomalla",
+        "pubdate": "Mon, 02 Jan 2023 17:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Apple Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Aktie",
         "pubdate": "Mon, 02 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Amazon Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Aktie",
-        "pubdate": "Mon, 02 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Davie Selke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Davie%20Selke",
-        "pubdate": "Mon, 02 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gabriel Clemens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gabriel%20Clemens",
-        "pubdate": "Sun, 01 Jan 2023 18:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2023 , 00:53:35",
+  "lastUpdate": "04-01-2023 , 02:11:32",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
+        "pubdate": "Wed, 04 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Fejős Éva",
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Nótár mary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3t%C3%A1r%20mary",
+        "title": "Nótár Mary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3t%C3%A1r%20Mary",
         "pubdate": "Tue, 03 Jan 2023 06:00:00 +0100"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Bitcoin árfolyam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin%20%C3%A1rfolyam",
-        "pubdate": "Tue, 03 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luka Modrić",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luka%20Modri%C4%87",
         "pubdate": "Tue, 03 Jan 2023 00:00:00 +0100"
       }
     ]

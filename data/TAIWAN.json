@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2023 , 00:53:40",
+  "lastUpdate": "04-01-2023 , 02:11:38",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "地震",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
+        "pubdate": "Tue, 03 Jan 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "丟丟妹",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%9F%E4%B8%9F%E5%A6%B9",
         "pubdate": "Tue, 03 Jan 2023 12:00:00 +0800"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "韋禮安",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%8B%E7%A6%AE%E5%AE%89",
-        "pubdate": "Tue, 03 Jan 2023 08:00:00 +0800"
+        "title": "次世代疫苗",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%96%AB%E8%8B%97",
+        "pubdate": "Tue, 03 Jan 2023 19:00:00 +0800"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "邱莉莉",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%82%B1%E8%8E%89%E8%8E%89",
         "pubdate": "Tue, 03 Jan 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "韋禮安",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%8B%E7%A6%AE%E5%AE%89",
+        "pubdate": "Tue, 03 Jan 2023 08:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "鷹眼",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B7%B9%E7%9C%BC",
         "pubdate": "Tue, 03 Jan 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "陳鴻文",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E9%B4%BB%E6%96%87",
-        "pubdate": "Tue, 03 Jan 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "朝代戲院",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%9D%E4%BB%A3%E6%88%B2%E9%99%A2",
-        "pubdate": "Tue, 03 Jan 2023 10:00:00 +0800"
       }
     ]
   ]
