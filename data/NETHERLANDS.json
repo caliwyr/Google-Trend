@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-01-2023 , 11:37:25",
+  "lastUpdate": "05-01-2023 , 11:46:40",
   "data": [
     [
       {
         "title": "Kerstcircus Haarlem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kerstcircus%20Haarlem",
         "pubdate": "Thu, 05 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Charlie Hebdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Charlie%20Hebdo",
+        "pubdate": "Thu, 05 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Romijn Conen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Romijn%20Conen",
-        "pubdate": "Tue, 03 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sarah Neutkens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sarah%20Neutkens",
         "pubdate": "Mon, 02 Jan 2023 22:00:00 +0100"
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Happy New Year!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Happy%20New%20Year!",
-        "pubdate": "Sun, 01 Jan 2023 00:00:00 +0100"
+        "title": "Postcode Loterij",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Postcode%20Loterij",
+        "pubdate": "Sun, 01 Jan 2023 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Postcode Loterij",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Postcode%20Loterij",
-        "pubdate": "Sun, 01 Jan 2023 01:00:00 +0100"
+        "title": "Darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
+        "pubdate": "Sun, 01 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Paus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paus",
-        "pubdate": "Sat, 31 Dec 2022 11:00:00 +0100"
+        "title": "New Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#New%20Year",
+        "pubdate": "Sun, 01 Jan 2023 00:00:00 +0100"
       }
     ]
   ]
