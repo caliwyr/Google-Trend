@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2023 , 23:53:36",
+  "lastUpdate": "07-01-2023 , 00:45:34",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Idaho Murders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Idaho%20Murders",
+        "title": "Idaho murders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Idaho%20murders",
         "pubdate": "Sat, 07 Jan 2023 00:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "The Pale Blue Eye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Pale%20Blue%20Eye",
-        "pubdate": "Sat, 07 Jan 2023 02:00:00 +1300"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Châteauroux vs PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ch%C3%A2teauroux%20vs%20PSG",
         "pubdate": "Sat, 07 Jan 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "The Pale Blue Eye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Pale%20Blue%20Eye",
+        "pubdate": "Sat, 07 Jan 2023 02:00:00 +1300"
       }
     ],
     [
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Chelsea vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Man%20City",
-        "pubdate": "Fri, 06 Jan 2023 08:00:00 +1300"
+        "title": "Man United vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20United%20vs%20Everton",
+        "pubdate": "Fri, 06 Jan 2023 19:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Man United vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20United%20vs%20Everton",
-        "pubdate": "Fri, 06 Jan 2023 19:00:00 +1300"
+        "title": "Chelsea vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Man%20City",
+        "pubdate": "Fri, 06 Jan 2023 08:00:00 +1300"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Up in the air",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Up%20in%20the%20air",
-        "pubdate": "Fri, 06 Jan 2023 20:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "IND vs SL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20SL",
         "pubdate": "Fri, 06 Jan 2023 16:00:00 +1300"
@@ -139,6 +132,13 @@
         "title": "Ginny and Georgia season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ginny%20and%20Georgia%20season%202",
         "pubdate": "Thu, 05 Jan 2023 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crystal%20Palace%20vs%20Tottenham",
+        "pubdate": "Thu, 05 Jan 2023 10:00:00 +1300"
       }
     ]
   ]

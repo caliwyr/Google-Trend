@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-01-2023 , 23:53:39",
+  "lastUpdate": "07-01-2023 , 00:45:37",
   "data": [
+    [
+      {
+        "title": "Francoise Hardy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Francoise%20Hardy",
+        "pubdate": "Sat, 07 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Gianluca Vialli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gianluca%20Vialli",
         "pubdate": "Fri, 06 Jan 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Massachusetts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Massachusetts",
+        "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -17,8 +31,15 @@
     ],
     [
       {
-        "title": "Massachusetts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Massachusetts",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Fri, 06 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leopard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leopard",
         "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
       }
     ],
@@ -31,8 +52,8 @@
     ],
     [
       {
-        "title": "Leopard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leopard",
+        "title": "Puma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Puma",
         "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
       }
     ],
@@ -45,30 +66,9 @@
     ],
     [
       {
-        "title": "Puma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Puma",
-        "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Noah Schnapp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Noah%20Schnapp",
         "pubdate": "Fri, 06 Jan 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Châteauroux - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ch%C3%A2teauroux%20-%20PSG",
-        "pubdate": "Fri, 06 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gianluca Vialli tot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gianluca%20Vialli%20tot",
-        "pubdate": "Fri, 06 Jan 2023 17:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Gianluca Vialli tot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gianluca%20Vialli%20tot",
+        "pubdate": "Fri, 06 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Coronavirus Variante XBB.1.5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coronavirus%20Variante%20XBB.1.5",
         "pubdate": "Fri, 06 Jan 2023 09:00:00 +0100"
@@ -104,6 +111,13 @@
         "title": "ManUnited gegen Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ManUnited%20gegen%20Everton",
         "pubdate": "Fri, 06 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eric Clapton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eric%20Clapton",
+        "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "The Pale Blue Eye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Pale%20Blue%20Eye",
         "pubdate": "Fri, 06 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "3 Könige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#3%20K%C3%B6nige",
-        "pubdate": "Fri, 06 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eric Clapton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eric%20Clapton",
-        "pubdate": "Fri, 06 Jan 2023 23:00:00 +0100"
       }
     ]
   ]
