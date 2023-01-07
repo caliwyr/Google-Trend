@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2023 , 00:45:34",
+  "lastUpdate": "07-01-2023 , 02:04:01",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Idaho murders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Idaho%20murders",
-        "pubdate": "Sat, 07 Jan 2023 00:00:00 +1300"
+        "title": "The Pale Blue Eye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Pale%20Blue%20Eye",
+        "pubdate": "Sat, 07 Jan 2023 02:00:00 +1300"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "The Pale Blue Eye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Pale%20Blue%20Eye",
-        "pubdate": "Sat, 07 Jan 2023 02:00:00 +1300"
+        "title": "Idaho Murders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Idaho%20Murders",
+        "pubdate": "Sat, 07 Jan 2023 00:00:00 +1300"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Juicy Fest Tauranga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Juicy%20Fest%20Tauranga",
-        "pubdate": "Fri, 06 Jan 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Stuart McCutcheon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stuart%20McCutcheon",
         "pubdate": "Fri, 06 Jan 2023 21:00:00 +1300"
@@ -139,6 +132,13 @@
         "title": "Crystal Palace vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crystal%20Palace%20vs%20Tottenham",
         "pubdate": "Thu, 05 Jan 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Twitter",
+        "pubdate": "Thu, 05 Jan 2023 01:00:00 +1300"
       }
     ]
   ]
