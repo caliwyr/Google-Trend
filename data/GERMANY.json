@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-01-2023 , 04:54:55",
+  "lastUpdate": "08-01-2023 , 05:10:21",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
         "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Günther Jauch Wer wird Millionär",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCnther%20Jauch%20Wer%20wird%20Million%C3%A4r",
+        "pubdate": "Sat, 07 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -20,27 +27,6 @@
         "title": "Promi Darts WM 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Promi%20Darts%20WM%202023",
         "pubdate": "Sat, 07 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Katharina Hennig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katharina%20Hennig",
-        "pubdate": "Sat, 07 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Peter Wright",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Wright",
-        "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wer wird Millionär Günther Jauch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wer%20wird%20Million%C3%A4r%20G%C3%BCnther%20Jauch",
-        "pubdate": "Sat, 07 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serie%20A",
         "pubdate": "Wed, 04 Jan 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trade Republic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trade%20Republic",
+        "pubdate": "Wed, 04 Jan 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ken Block",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ken%20Block",
+        "pubdate": "Tue, 03 Jan 2023 05:00:00 +0100"
       }
     ]
   ]
