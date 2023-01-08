@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-01-2023 , 06:40:46",
+  "lastUpdate": "08-01-2023 , 06:50:05",
   "data": [
-    [
-      {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
-        "pubdate": "Sat, 07 Jan 2023 10:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "NFL",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Jacksonville Jaguars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jacksonville%20Jaguars",
-        "pubdate": "Sat, 07 Jan 2023 12:00:00 -0800"
+        "title": "Chiefs vs Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Raiders",
+        "pubdate": "Sat, 07 Jan 2023 11:00:00 -0800"
       }
     ],
     [
@@ -31,6 +24,20 @@
     ],
     [
       {
+        "title": "Jacksonville Jaguars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jacksonville%20Jaguars",
+        "pubdate": "Sat, 07 Jan 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
+        "pubdate": "Sat, 07 Jan 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Liverpool vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool%20vs%20Wolves",
         "pubdate": "Sat, 07 Jan 2023 12:00:00 -0800"
@@ -38,23 +45,16 @@
     ],
     [
       {
-        "title": "Davis vs Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davis%20vs%20Garcia",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Joshua Dobbs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joshua%20Dobbs",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 -0800"
+        "title": "Tank' Davis fight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tank'%20Davis%20fight",
+        "pubdate": "Sat, 07 Jan 2023 17:00:00 -0800"
       }
     ],
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Sat, 07 Jan 2023 09:00:00 -0800"
+        "pubdate": "Sat, 07 Jan 2023 15:00:00 -0800"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Derrick Henry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Derrick%20Henry",
         "pubdate": "Sat, 07 Jan 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Terminator actor Earl Boen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Terminator%20actor%20Earl%20Boen",
-        "pubdate": "Sat, 07 Jan 2023 11:00:00 -0800"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Victoria Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victoria%20Lee",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "TCU vs Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TCU%20vs%20Georgia",
         "pubdate": "Sat, 07 Jan 2023 10:00:00 -0800"
@@ -104,6 +90,13 @@
         "title": "Wednesday Season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wednesday%20Season%202",
         "pubdate": "Sat, 07 Jan 2023 01:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Victoria Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victoria%20Lee",
+        "pubdate": "Sat, 07 Jan 2023 18:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Davante Adams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davante%20Adams",
         "pubdate": "Sat, 07 Jan 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Tristan Thompson mom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tristan%20Thompson%20mom",
+        "pubdate": "Sat, 07 Jan 2023 06:00:00 -0800"
       }
     ]
   ]
