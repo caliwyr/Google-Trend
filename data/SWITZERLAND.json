@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-01-2023 , 01:26:18",
+  "lastUpdate": "12-01-2023 , 02:31:04",
   "data": [
     [
       {
         "title": "Jeff Beck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jeff%20Beck",
         "pubdate": "Thu, 12 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Supercopa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Supercopa",
+        "pubdate": "Thu, 12 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Supercopa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Supercopa",
-        "pubdate": "Thu, 12 Jan 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tatjana Patitz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tatjana%20Patitz",
         "pubdate": "Wed, 11 Jan 2023 19:00:00 +0100"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
-        "pubdate": "Wed, 11 Jan 2023 20:00:00 +0100"
+        "title": "Lützerath",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L%C3%BCtzerath",
+        "pubdate": "Wed, 11 Jan 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lützerath",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L%C3%BCtzerath",
-        "pubdate": "Wed, 11 Jan 2023 10:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
+        "pubdate": "Wed, 11 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Trevor Noah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trevor%20Noah",
         "pubdate": "Wed, 11 Jan 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "König Konstantin II",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#K%C3%B6nig%20Konstantin%20II",
+        "pubdate": "Wed, 11 Jan 2023 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "HCD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HCD",
         "pubdate": "Wed, 11 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ke Huy Quan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ke%20Huy%20Quan",
-        "pubdate": "Wed, 11 Jan 2023 16:00:00 +0100"
       }
     ]
   ]
