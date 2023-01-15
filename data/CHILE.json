@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-01-2023 , 23:54:58",
+  "lastUpdate": "15-01-2023 , 01:05:05",
   "data": [
     [
       {
         "title": "Brighton vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20vs%20Liverpool",
         "pubdate": "Sat, 14 Jan 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-Nassr",
+        "pubdate": "Sat, 14 Jan 2023 19:00:00 -0300"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Inter  Hellas Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Hellas%20Verona",
+        "title": "Inter vs Hellas Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20vs%20Hellas%20Verona",
         "pubdate": "Sat, 14 Jan 2023 17:00:00 -0300"
       }
     ],
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Nottingham Forest vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nottingham%20Forest%20vs%20Leicester%20City",
-        "pubdate": "Sat, 14 Jan 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Wolves vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wolves%20vs%20West%20Ham",
-        "pubdate": "Sat, 14 Jan 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Girona vs Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona%20vs%20Sevilla",
         "pubdate": "Sat, 14 Jan 2023 15:00:00 -0300"
@@ -66,16 +59,30 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-Nassr",
+        "title": "Padel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Padel",
+        "pubdate": "Sat, 14 Jan 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Supercopa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Supercopa",
         "pubdate": "Sat, 14 Jan 2023 19:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Padel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Padel",
-        "pubdate": "Sat, 14 Jan 2023 17:00:00 -0300"
+        "title": "Real Sociedad vs Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Sociedad%20vs%20Athletic",
+        "pubdate": "Sat, 14 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "A que hora es el Miss Universo 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#A%20que%20hora%20es%20el%20Miss%20Universo%202023",
+        "pubdate": "Sat, 14 Jan 2023 21:00:00 -0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Real Sociedad vs Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Sociedad%20vs%20Athletic",
-        "pubdate": "Sat, 14 Jan 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Manchester United vs Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20vs%20Manchester%20City",
         "pubdate": "Fri, 13 Jan 2023 19:00:00 -0300"
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Casio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Casio",
-        "pubdate": "Fri, 13 Jan 2023 20:00:00 -0300"
+        "title": "Boca Juniors vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20vs%20Everton",
+        "pubdate": "Fri, 13 Jan 2023 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Boca Juniors vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20vs%20Everton",
-        "pubdate": "Fri, 13 Jan 2023 22:00:00 -0300"
+        "title": "Casio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Casio",
+        "pubdate": "Fri, 13 Jan 2023 20:00:00 -0300"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Aston Villa  Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20Leeds",
+        "title": "Aston Villa - Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20-%20Leeds",
         "pubdate": "Fri, 13 Jan 2023 18:00:00 -0300"
       }
     ]

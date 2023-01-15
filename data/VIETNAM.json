@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "14-01-2023 , 23:55:09",
+  "lastUpdate": "15-01-2023 , 01:05:12",
   "data": [
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal",
-        "pubdate": "Sun, 15 Jan 2023 02:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Đen Vâu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90en%20V%C3%A2u",
+        "pubdate": "Sun, 15 Jan 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea – Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20%E2%80%93%20Crystal%20Palace",
         "pubdate": "Sun, 15 Jan 2023 00:00:00 +0700"
       }
     ],
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Mai Phương thúy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mai%20Ph%C6%B0%C6%A1ng%20th%C3%BAy",
+        "pubdate": "Sun, 15 Jan 2023 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Miley%20Cyrus",
+        "pubdate": "Sun, 15 Jan 2023 06:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Burnley – Coventry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Burnley%20%E2%80%93%20Coventry",
         "pubdate": "Sun, 15 Jan 2023 02:00:00 +0700"
@@ -31,16 +45,9 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20League",
-        "pubdate": "Sat, 14 Jan 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Bóng đá Việt Nam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam",
-        "pubdate": "Sat, 14 Jan 2023 17:00:00 +0700"
+        "title": "Bảng xếp hạng Ngoại hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Sat, 14 Jan 2023 22:00:00 +0700"
       }
     ],
     [
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Bóng đá Việt Nam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam",
+        "pubdate": "Sat, 14 Jan 2023 17:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "VTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#VTV",
         "pubdate": "Sat, 14 Jan 2023 17:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal",
+        "pubdate": "Sat, 14 Jan 2023 21:00:00 +0700"
       }
     ],
     [
@@ -73,9 +94,23 @@
     ],
     [
       {
-        "title": "Tottenham – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham%20%E2%80%93%20Arsenal",
-        "pubdate": "Sat, 14 Jan 2023 21:00:00 +0700"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Serie%20A",
+        "pubdate": "Sat, 14 Jan 2023 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Inter – Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20%E2%80%93%20Verona",
+        "pubdate": "Sat, 14 Jan 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Chung kết Miss Universe 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chung%20k%E1%BA%BFt%20Miss%20Universe%202022",
+        "pubdate": "Sat, 14 Jan 2023 20:00:00 +0700"
       }
     ],
     [
@@ -94,8 +129,8 @@
     ],
     [
       {
-        "title": "Acmilan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Acmilan",
+        "title": "Real Sociedad – Ath Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Sociedad%20%E2%80%93%20Ath%20Bilbao",
         "pubdate": "Sat, 14 Jan 2023 23:00:00 +0700"
       }
     ],
@@ -104,41 +139,6 @@
         "title": "Lens – Auxerre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lens%20%E2%80%93%20Auxerre",
         "pubdate": "Sat, 14 Jan 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad – Ath Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Sociedad%20%E2%80%93%20Ath%20Bilbao",
-        "pubdate": "Sat, 14 Jan 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Gió mùa đông bắc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%B3%20m%C3%B9a%20%C4%91%C3%B4ng%20b%E1%BA%AFc",
-        "pubdate": "Sat, 14 Jan 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund",
-        "pubdate": "Sat, 14 Jan 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ngày ông Công ông Táo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%20%C3%B4ng%20C%C3%B4ng%20%C3%B4ng%20T%C3%A1o",
-        "pubdate": "Sat, 14 Jan 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Anh Tú Diệu Nhi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20T%C3%BA%20Di%E1%BB%87u%20Nhi",
-        "pubdate": "Sat, 14 Jan 2023 12:00:00 +0700"
       }
     ]
   ]

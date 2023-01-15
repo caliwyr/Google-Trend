@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-01-2023 , 23:55:00",
+  "lastUpdate": "15-01-2023 , 01:05:06",
   "data": [
+    [
+      {
+        "title": "Getaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Getaway",
+        "pubdate": "Sun, 15 Jan 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Premier League",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Napoli – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Napoli%20%E2%80%93%20Juventus",
-        "pubdate": "Sat, 14 Jan 2023 00:00:00 +0200"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DAZN",
+        "pubdate": "Sat, 14 Jan 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DAZN",
-        "pubdate": "Sat, 14 Jan 2023 21:00:00 +0200"
+        "title": "Napoli – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Napoli%20%E2%80%93%20Juventus",
+        "pubdate": "Sat, 14 Jan 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Aston Villa – Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aston%20Villa%20%E2%80%93%20Leeds",
-        "pubdate": "Sat, 14 Jan 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Miley Cyrus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miley%20Cyrus",
         "pubdate": "Sat, 14 Jan 2023 15:00:00 +0200"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Everton – Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Southampton",
-        "pubdate": "Sat, 14 Jan 2023 20:00:00 +0200"
+        "title": "Aston Villa – Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aston%20Villa%20%E2%80%93%20Leeds",
+        "pubdate": "Sat, 14 Jan 2023 00:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Liam Hemsworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liam%20Hemsworth",
         "pubdate": "Sat, 14 Jan 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Everton – Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Southampton",
+        "pubdate": "Sat, 14 Jan 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kraken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kraken",
         "pubdate": "Fri, 13 Jan 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Turmion Kätilöt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Turmion%20K%C3%A4til%C3%B6t",
-        "pubdate": "Fri, 13 Jan 2023 19:00:00 +0200"
       }
     ]
   ]
