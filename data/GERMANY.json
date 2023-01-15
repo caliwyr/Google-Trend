@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2023 , 01:05:06",
+  "lastUpdate": "15-01-2023 , 02:23:19",
   "data": [
     [
       {
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "Formel E",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%20E",
+        "title": "Formel-E",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-E",
         "pubdate": "Sat, 14 Jan 2023 21:00:00 +0100"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Dschungelcamp 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dschungelcamp%202023",
-        "pubdate": "Fri, 13 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dschungelcamp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dschungelcamp",
         "pubdate": "Fri, 13 Jan 2023 21:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Eva Högl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eva%20H%C3%B6gl",
-        "pubdate": "Fri, 13 Jan 2023 21:00:00 +0100"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla",
+        "pubdate": "Fri, 13 Jan 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Fri, 13 Jan 2023 20:00:00 +0100"
       }
     ]
   ]

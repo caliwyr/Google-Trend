@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "15-01-2023 , 01:05:04",
+  "lastUpdate": "15-01-2023 , 02:23:15",
   "data": [
     [
       {
         "title": "Brighton  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brighton%20%20Liverpool",
         "pubdate": "Sat, 14 Jan 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River",
-        "pubdate": "Sat, 14 Jan 2023 20:00:00 -0300"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
+        "pubdate": "Sat, 14 Jan 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Girona vs Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Girona%20vs%20Sevilla",
         "pubdate": "Sat, 14 Jan 2023 14:00:00 -0300"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Everton  Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20%20Southampton",
-        "pubdate": "Sat, 14 Jan 2023 14:00:00 -0300"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
+        "pubdate": "Sat, 14 Jan 2023 12:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
-        "pubdate": "Sat, 14 Jan 2023 12:00:00 -0300"
+        "title": "Everton  Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20%20Southampton",
+        "pubdate": "Sat, 14 Jan 2023 14:00:00 -0300"
       }
     ],
     [
@@ -101,6 +101,20 @@
     ],
     [
       {
+        "title": "Millonarios FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Millonarios%20FC",
+        "pubdate": "Sat, 14 Jan 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Colon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colon",
+        "pubdate": "Sat, 14 Jan 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Brentford vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brentford%20vs%20Bournemouth",
         "pubdate": "Sat, 14 Jan 2023 18:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Horacio Guarany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Horacio%20Guarany",
         "pubdate": "Sat, 14 Jan 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sky Rojo temporada 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sky%20Rojo%20temporada%203",
-        "pubdate": "Sat, 14 Jan 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lana%20Del%20Rey",
-        "pubdate": "Sat, 14 Jan 2023 18:00:00 -0300"
       }
     ]
   ]
