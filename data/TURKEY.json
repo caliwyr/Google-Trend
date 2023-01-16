@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-01-2023 , 11:00:04",
+  "lastUpdate": "16-01-2023 , 11:17:02",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG",
-        "pubdate": "Mon, 16 Jan 2023 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Seçil çiftci",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Di Maria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Di%20Maria",
-        "pubdate": "Mon, 16 Jan 2023 02:00:00 +0300"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG",
+        "pubdate": "Mon, 16 Jan 2023 00:00:00 +0300"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Di Maria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Di%20Maria",
+        "pubdate": "Mon, 16 Jan 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Şule Yüksel Şenler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eule%20Y%C3%BCksel%20%C5%9Eenler",
         "pubdate": "Mon, 16 Jan 2023 12:00:00 +0300"
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSV",
+        "title": "Süper Lig gol krallığı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCper%20Lig%20gol%20krall%C4%B1%C4%9F%C4%B1",
         "pubdate": "Mon, 16 Jan 2023 01:00:00 +0300"
       }
     ],
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Astor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Astor",
+        "pubdate": "Mon, 16 Jan 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Genel seçim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Genel%20se%C3%A7im",
         "pubdate": "Mon, 16 Jan 2023 09:00:00 +0300"
@@ -83,6 +90,13 @@
         "title": "Pınar Deniz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#P%C4%B1nar%20Deniz",
         "pubdate": "Mon, 16 Jan 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSV",
+        "pubdate": "Mon, 16 Jan 2023 01:00:00 +0300"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Ankara Büyükşehir Belediye başkanı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ankara%20B%C3%BCy%C3%BCk%C5%9Fehir%20Belediye%20ba%C5%9Fkan%C4%B1",
+        "title": "Ankara Büyükşehir Belediye Başkanı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ankara%20B%C3%BCy%C3%BCk%C5%9Fehir%20Belediye%20Ba%C5%9Fkan%C4%B1",
         "pubdate": "Mon, 16 Jan 2023 09:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Real Madrid-Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid-Barcelona",
         "pubdate": "Sun, 15 Jan 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Son depremler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
-        "pubdate": "Sun, 15 Jan 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Son dakika deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
-        "pubdate": "Sun, 15 Jan 2023 07:00:00 +0300"
       }
     ]
   ]
