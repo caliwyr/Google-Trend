@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2023 , 19:00:29",
+  "lastUpdate": "16-01-2023 , 19:16:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Blue Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Blue%20Monday",
         "pubdate": "Mon, 16 Jan 2023 07:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Gina Lollobrigida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gina%20Lollobrigida",
+        "pubdate": "Mon, 16 Jan 2023 12:00:00 -0600"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Rennes  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rennes%20%20PSG",
+        "pubdate": "Sun, 15 Jan 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Atalanta vs Salernitana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atalanta%20vs%20Salernitana",
         "pubdate": "Sun, 15 Jan 2023 11:00:00 -0600"
@@ -55,6 +69,13 @@
         "title": "Bengals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals",
         "pubdate": "Sun, 15 Jan 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atalanta",
+        "pubdate": "Sun, 15 Jan 2023 11:00:00 -0600"
       }
     ],
     [
@@ -94,15 +115,8 @@
     ],
     [
       {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atalanta",
-        "pubdate": "Sun, 15 Jan 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Kings League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kings%20League",
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Australian%20Open",
         "pubdate": "Sun, 15 Jan 2023 15:00:00 -0600"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Australian%20Open",
-        "pubdate": "Sun, 15 Jan 2023 15:00:00 -0600"
+        "title": "Kings League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kings%20League",
+        "pubdate": "Sun, 15 Jan 2023 22:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Almería vs Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Almer%C3%ADa%20vs%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 15 Jan 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Roma vs Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20vs%20Fiorentina",
-        "pubdate": "Sun, 15 Jan 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Hotspanish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hotspanish",
-        "pubdate": "Sun, 15 Jan 2023 19:00:00 -0600"
+        "title": "Getafe vs RCD Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Getafe%20vs%20RCD%20Espanyol",
+        "pubdate": "Sun, 15 Jan 2023 08:00:00 -0600"
       }
     ]
   ]
