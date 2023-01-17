@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2023 , 23:56:46",
+  "lastUpdate": "17-01-2023 , 01:17:14",
   "data": [
     [
       {
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Australian%20Open",
+        "title": "Brandenburger Tor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brandenburger%20Tor",
         "pubdate": "Mon, 16 Jan 2023 07:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brandenburger Tor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brandenburger%20Tor",
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Australian%20Open",
         "pubdate": "Mon, 16 Jan 2023 07:00:00 +0100"
       }
     ],
@@ -41,20 +41,6 @@
         "title": "Matteo Messina Denaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matteo%20Messina%20Denaro",
         "pubdate": "Mon, 16 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
-        "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Florian Teichtmeister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Teichtmeister",
-        "pubdate": "Mon, 16 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,30 +59,9 @@
     ],
     [
       {
-        "title": "König Konstantin II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6nig%20Konstantin%20II",
-        "pubdate": "Mon, 16 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nuovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nuovo",
-        "pubdate": "Mon, 16 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fürth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCrth",
-        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pedro Pascal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pedro%20Pascal",
-        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
+        "title": "Strack-Zimmermann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
+        "pubdate": "Mon, 16 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -108,9 +73,16 @@
     ],
     [
       {
-        "title": "Gravis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gravis",
-        "pubdate": "Mon, 16 Jan 2023 14:00:00 +0100"
+        "title": "Pedro Pascal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pedro%20Pascal",
+        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fürth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCrth",
+        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -139,6 +111,34 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
         "pubdate": "Sun, 15 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neubauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neubauer",
+        "pubdate": "Sun, 15 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ocean Race",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ocean%20Race",
+        "pubdate": "Sun, 15 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
+        "pubdate": "Sat, 14 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nachfolger Lambrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nachfolger%20Lambrecht",
+        "pubdate": "Sat, 14 Jan 2023 20:00:00 +0100"
       }
     ]
   ]

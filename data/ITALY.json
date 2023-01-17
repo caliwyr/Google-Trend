@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "16-01-2023 , 23:56:47",
+  "lastUpdate": "17-01-2023 , 01:17:15",
   "data": [
+    [
+      {
+        "title": "Giornale di Sicilia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giornale%20di%20Sicilia",
+        "pubdate": "Tue, 17 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trapani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trapani",
+        "pubdate": "Tue, 17 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Davide Grande Fratello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Davide%20Grande%20Fratello",
+        "pubdate": "Tue, 17 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Blue Monday",
@@ -13,6 +34,20 @@
         "title": "Dipartimento della protezione civile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dipartimento%20della%20protezione%20civile",
         "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martedì",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marted%C3%AC",
+        "pubdate": "Mon, 16 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Genoa  Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa%20%20Venezia",
+        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -38,13 +73,6 @@
     ],
     [
       {
-        "title": "Allerta meteo Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allerta%20meteo%20Napoli",
-        "pubdate": "Mon, 16 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Salernitana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana",
         "pubdate": "Mon, 16 Jan 2023 13:00:00 +0100"
@@ -66,23 +94,16 @@
     ],
     [
       {
-        "title": "Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa",
-        "pubdate": "Mon, 16 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Martedì",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marted%C3%AC",
-        "pubdate": "Mon, 16 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Napoli-Cremonese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Cremonese",
         "pubdate": "Mon, 16 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zlatan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zlatan",
+        "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,16 +122,9 @@
     ],
     [
       {
-        "title": "Zlatan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zlatan",
-        "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Spacey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kevin%20Spacey",
-        "pubdate": "Mon, 16 Jan 2023 05:00:00 +0100"
+        "title": "Peci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Peci",
+        "pubdate": "Mon, 16 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Eni obbligazioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eni%20obbligazioni",
-        "pubdate": "Mon, 16 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Francesca Vecchioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesca%20Vecchioni",
-        "pubdate": "Mon, 16 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Comune di Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Comune%20di%20Napoli",
-        "pubdate": "Mon, 16 Jan 2023 16:00:00 +0100"
+        "title": "Kevin Spacey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kevin%20Spacey",
+        "pubdate": "Mon, 16 Jan 2023 05:00:00 +0100"
       }
     ]
   ]
