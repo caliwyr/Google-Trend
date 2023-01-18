@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2023 , 01:16:53",
+  "lastUpdate": "18-01-2023 , 02:30:18",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Mark van den Boogaart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20van%20den%20Boogaart",
-        "pubdate": "Tue, 17 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Tue, 17 Jan 2023 18:00:00 +0100"
@@ -54,13 +47,6 @@
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
-        "pubdate": "Tue, 17 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Polar low",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Polar%20low",
         "pubdate": "Tue, 17 Jan 2023 23:00:00 +0100"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Sun, 15 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Sun, 15 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FORTUNA SITTARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FORTUNA%20SITTARD",
+        "pubdate": "Sun, 15 Jan 2023 21:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2023 , 01:16:49",
+  "lastUpdate": "18-01-2023 , 02:30:14",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Nico Parker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nico%20Parker",
         "pubdate": "Tue, 17 Jan 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bianca Censori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bianca%20Censori",
+        "pubdate": "Tue, 17 Jan 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Australian Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Australian%20Open",
         "pubdate": "Mon, 16 Jan 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trial By Fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trial%20By%20Fire",
-        "pubdate": "Mon, 16 Jan 2023 22:00:00 +0200"
       }
     ]
   ]
