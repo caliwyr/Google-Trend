@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "17-01-2023 , 23:56:23",
+  "lastUpdate": "18-01-2023 , 01:16:48",
   "data": [
-    [
-      {
-        "title": "Zdeněk Šarapatka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20%C5%A0arapatka",
-        "pubdate": "Tue, 17 Jan 2023 07:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Ondřej Brzobohatý",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Brzobohat%C3%BD",
         "pubdate": "Tue, 17 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zdeněk Šarapatka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20%C5%A0arapatka",
+        "pubdate": "Tue, 17 Jan 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Greta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Greta",
+        "pubdate": "Tue, 17 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mamma Mia!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mamma%20Mia!",
         "pubdate": "Tue, 17 Jan 2023 20:00:00 +0100"
@@ -59,16 +66,23 @@
     ],
     [
       {
-        "title": "Igor Orozovič",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Igor%20Orozovi%C4%8D",
-        "pubdate": "Tue, 17 Jan 2023 15:00:00 +0100"
+        "title": "Poslanecká sněmovna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poslaneck%C3%A1%20sn%C4%9Bmovna",
+        "pubdate": "Tue, 17 Jan 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Poslanecká sněmovna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poslaneck%C3%A1%20sn%C4%9Bmovna",
-        "pubdate": "Tue, 17 Jan 2023 11:00:00 +0100"
+        "title": "Regina Řandová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Regina%20%C5%98andov%C3%A1",
+        "pubdate": "Tue, 17 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Odvolání",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Odvol%C3%A1n%C3%AD",
+        "pubdate": "Tue, 17 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Gina Lollobrigida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gina%20Lollobrigida",
         "pubdate": "Mon, 16 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vojtěch Dyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vojt%C4%9Bch%20Dyk",
-        "pubdate": "Mon, 16 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blue Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Blue%20Monday",
-        "pubdate": "Mon, 16 Jan 2023 09:00:00 +0100"
       }
     ]
   ]

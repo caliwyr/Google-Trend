@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "17-01-2023 , 23:56:24",
+  "lastUpdate": "18-01-2023 , 01:16:50",
   "data": [
+    [
+      {
+        "title": "Handball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-WM",
+        "pubdate": "Wed, 18 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Thunberg",
+        "pubdate": "Wed, 18 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Dieter Thomas Heck",
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
-        "pubdate": "Tue, 17 Jan 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bonn - Alte Freunde, neue Feinde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bonn%20-%20Alte%20Freunde,%20neue%20Feinde",
         "pubdate": "Tue, 17 Jan 2023 20:00:00 +0100"
@@ -31,23 +38,16 @@
     ],
     [
       {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
+        "pubdate": "Tue, 17 Jan 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ryerson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ryerson",
         "pubdate": "Tue, 17 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pistorius Verteidigungsminister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pistorius%20Verteidigungsminister",
-        "pubdate": "Tue, 17 Jan 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Novak%20Djokovic",
-        "pubdate": "Tue, 17 Jan 2023 14:00:00 +0100"
       }
     ],
     [
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Australian%20Open",
-        "pubdate": "Mon, 16 Jan 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Deutschland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
         "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brendan Fraser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brendan%20Fraser",
-        "pubdate": "Mon, 16 Jan 2023 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Saarland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Saarland",
         "pubdate": "Mon, 16 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Davos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Davos",
+        "pubdate": "Mon, 16 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cosa Nostra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cosa%20Nostra",
+        "pubdate": "Mon, 16 Jan 2023 15:00:00 +0100"
       }
     ]
   ]
