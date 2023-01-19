@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "18-01-2023 , 23:54:52",
+  "lastUpdate": "19-01-2023 , 01:01:50",
   "data": [
+    [
+      {
+        "title": "Jimmie Åkesson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
+        "pubdate": "Thu, 19 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
         "pubdate": "Wed, 18 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Wed, 18 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -59,20 +73,6 @@
     ],
     [
       {
-        "title": "Äkta vara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%84kta%20vara",
-        "pubdate": "Wed, 18 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Crystal%20Palace",
-        "pubdate": "Wed, 18 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Napoli",
         "pubdate": "Wed, 18 Jan 2023 07:00:00 +0100"
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Handbolls-VM 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Handbolls-VM%202023",
-        "pubdate": "Tue, 17 Jan 2023 14:00:00 +0100"
+        "title": "Magdalena Andersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magdalena%20Andersson",
+        "pubdate": "Wed, 18 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Väsby Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4sby%20Hockey",
+        "pubdate": "Wed, 18 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joakim Lundell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joakim%20Lundell",
         "pubdate": "Tue, 17 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Azelio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Azelio",
-        "pubdate": "Tue, 17 Jan 2023 19:00:00 +0100"
       }
     ]
   ]
