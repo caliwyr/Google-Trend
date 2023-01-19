@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "19-01-2023 , 08:51:10",
+  "lastUpdate": "19-01-2023 , 09:01:44",
   "data": [
     [
       {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brad%20Pitt",
         "pubdate": "Thu, 19 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jacinda%20Ardern",
+        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Occident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Occident",
+        "pubdate": "Thu, 19 Jan 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Énergie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89nergie",
+        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -24,15 +45,15 @@
     ],
     [
       {
-        "title": "Énergie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89nergie",
-        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
+        "title": "Julian Alaphilippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Alaphilippe",
+        "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jacinda Ardern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jacinda%20Ardern",
+        "title": "Harley-Davidson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Harley-Davidson",
         "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
       }
     ],
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Harley-Davidson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Harley-Davidson",
-        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
+        "title": "Julian Sands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Sands",
+        "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Margot%20Robbie",
         "pubdate": "Wed, 18 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG%20Al-Nassr",
-        "pubdate": "Wed, 18 Jan 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "JPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#JPL",
-        "pubdate": "Wed, 18 Jan 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bende van Nijvel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bende%20van%20Nijvel",
-        "pubdate": "Wed, 18 Jan 2023 12:00:00 +0100"
       }
     ]
   ]
