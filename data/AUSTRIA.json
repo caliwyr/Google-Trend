@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "26-01-2023 , 23:53:48",
+  "lastUpdate": "27-01-2023 , 00:54:48",
   "data": [
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ajax",
+        "pubdate": "Fri, 27 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Baerbock",
+        "pubdate": "Fri, 27 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Richard Lugner Opernball",
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Tesla Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla%20Aktie",
-        "pubdate": "Thu, 26 Jan 2023 19:00:00 +0100"
+        "title": "Strompreisbremse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Strompreisbremse",
+        "pubdate": "Thu, 26 Jan 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Strompreisbremse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Strompreisbremse",
-        "pubdate": "Thu, 26 Jan 2023 20:00:00 +0100"
+        "title": "Tesla Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla%20Aktie",
+        "pubdate": "Thu, 26 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Die Füchsin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20F%C3%BCchsin",
+        "pubdate": "Thu, 26 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marita Kramer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marita%20Kramer",
         "pubdate": "Thu, 26 Jan 2023 08:00:00 +0100"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Denso Kasius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Denso%20Kasius",
-        "pubdate": "Thu, 26 Jan 2023 15:00:00 +0100"
+        "title": "Kobe Bryant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kobe%20Bryant",
+        "pubdate": "Thu, 26 Jan 2023 16:00:00 +0100"
       }
     ],
     [
@@ -97,13 +118,6 @@
         "title": "Regaip kandili 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regaip%20kandili%202023",
         "pubdate": "Thu, 26 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kobe Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kobe%20Bryant",
-        "pubdate": "Thu, 26 Jan 2023 16:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Neil Patrick Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neil%20Patrick%20Harris",
         "pubdate": "Thu, 26 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Malinois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Malinois",
-        "pubdate": "Thu, 26 Jan 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Moshammer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Moshammer",
-        "pubdate": "Thu, 26 Jan 2023 23:00:00 +0100"
       }
     ]
   ]
