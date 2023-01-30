@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2023 , 23:55:58",
+  "lastUpdate": "30-01-2023 , 01:06:55",
   "data": [
     [
       {
@@ -10,23 +10,9 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
-        "pubdate": "Sun, 29 Jan 2023 16:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Bubble tea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bubble%20tea",
         "pubdate": "Sun, 29 Jan 2023 00:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Live Score",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Live%20Score",
-        "pubdate": "Sun, 29 Jan 2023 19:30:00 +0530"
       }
     ],
     [
@@ -62,6 +48,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
         "pubdate": "Sun, 29 Jan 2023 17:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "IND बनाम NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE%20NZ",
+        "pubdate": "Sun, 29 Jan 2023 19:30:00 +0530"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Amrit Udyan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Amrit%20Udyan",
-        "pubdate": "Sun, 29 Jan 2023 10:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tottenham",
         "pubdate": "Sun, 29 Jan 2023 10:30:00 +0530"
@@ -139,6 +125,20 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bayern%20Munich",
         "pubdate": "Sun, 29 Jan 2023 10:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Roman Reigns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Roman%20Reigns",
+        "pubdate": "Sun, 29 Jan 2023 20:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Weather i-N Delhi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Weather%20i-N%20Delhi",
+        "pubdate": "Sun, 29 Jan 2023 23:30:00 +0530"
       }
     ]
   ]

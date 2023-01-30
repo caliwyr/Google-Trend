@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-01-2023 , 23:56:04",
+  "lastUpdate": "30-01-2023 , 01:06:59",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sun, 29 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Annie Wersching",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annie%20Wersching",
+        "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Annie Wersching",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annie%20Wersching",
-        "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
+        "title": "Ebba Andersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Andersson",
+        "pubdate": "Sun, 29 Jan 2023 18:00:00 +0100"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Prix d'Amérique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prix%20d'Am%C3%A9rique",
         "pubdate": "Sun, 29 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+        "pubdate": "Sun, 29 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Amin Sarr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amin%20Sarr",
         "pubdate": "Sat, 28 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ska",
-        "pubdate": "Sat, 28 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#James%20Bond",
-        "pubdate": "Sat, 28 Jan 2023 11:00:00 +0100"
       }
     ]
   ]
