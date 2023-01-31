@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "30-01-2023 , 23:57:24",
+  "lastUpdate": "31-01-2023 , 01:25:29",
   "data": [
     [
       {
-        "title": "台積電ADR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BBADR",
+        "title": "美股指數",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B8",
+        "pubdate": "Tue, 31 Jan 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "台指期",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E6%8C%87%E6%9C%9F",
         "pubdate": "Tue, 31 Jan 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "王躍霖",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E8%BA%8D%E9%9C%96",
+        "pubdate": "Tue, 31 Jan 2023 08:00:00 +0800"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "玉山銀行",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C",
+        "pubdate": "Mon, 30 Jan 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "日幣",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%97%A5%E5%B9%A3",
         "pubdate": "Mon, 30 Jan 2023 17:00:00 +0800"
@@ -118,27 +139,6 @@
         "title": "永豐銀行",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B0%B8%E8%B1%90%E9%8A%80%E8%A1%8C",
         "pubdate": "Mon, 30 Jan 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "勞保局",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8B%9E%E4%BF%9D%E5%B1%80",
-        "pubdate": "Mon, 30 Jan 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "花旗",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8A%B1%E6%97%97",
-        "pubdate": "Mon, 30 Jan 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "華南銀行",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8F%AF%E5%8D%97%E9%8A%80%E8%A1%8C",
-        "pubdate": "Mon, 30 Jan 2023 10:00:00 +0800"
       }
     ]
   ]
