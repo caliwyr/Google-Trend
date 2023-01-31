@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-01-2023 , 01:25:16",
+  "lastUpdate": "31-01-2023 , 02:35:18",
   "data": [
-    [
-      {
-        "title": "Nick Offerman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nick%20Offerman",
-        "pubdate": "Mon, 30 Jan 2023 01:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Canasta basica",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Nick Offerman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nick%20Offerman",
+        "pubdate": "Mon, 30 Jan 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Lisa Loring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lisa%20Loring",
         "pubdate": "Mon, 30 Jan 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal vs Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20vs%20Rayo%20Vallecano",
+        "pubdate": "Mon, 30 Jan 2023 18:00:00 -0300"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
-        "pubdate": "Mon, 30 Jan 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal vs Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20vs%20Rayo%20Vallecano",
-        "pubdate": "Mon, 30 Jan 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "German Garmendia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#German%20Garmendia",
         "pubdate": "Mon, 30 Jan 2023 01:00:00 -0300"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Facundo Jones Huala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Facundo%20Jones%20Huala",
+        "pubdate": "Mon, 30 Jan 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Trabajo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Trabajo",
         "pubdate": "Mon, 30 Jan 2023 01:00:00 -0300"
@@ -97,13 +97,6 @@
         "title": "Darío Osorio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dar%C3%ADo%20Osorio",
         "pubdate": "Mon, 30 Jan 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Facundo Jones Huala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Facundo%20Jones%20Huala",
-        "pubdate": "Mon, 30 Jan 2023 18:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese",
         "pubdate": "Mon, 30 Jan 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Hijos del desierto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hijos%20del%20desierto",
+        "pubdate": "Mon, 30 Jan 2023 21:00:00 -0300"
       }
     ]
   ]
