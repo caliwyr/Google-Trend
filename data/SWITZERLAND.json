@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "01-02-2023 , 01:02:34",
+  "lastUpdate": "01-02-2023 , 02:38:15",
   "data": [
-    [
-      {
-        "title": "Juliette Schoppmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juliette%20Schoppmann",
-        "pubdate": "Wed, 01 Feb 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Thun gegen Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun%20gegen%20Luzern",
-        "pubdate": "Tue, 31 Jan 2023 19:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Helene Hegemann",
@@ -27,6 +13,13 @@
         "title": "UBS-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UBS-Aktie",
         "pubdate": "Tue, 31 Jan 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Tue, 31 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Arouca - Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arouca%20-%20Benfica",
+        "title": "Arouca  Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arouca%20%20Benfica",
         "pubdate": "Tue, 31 Jan 2023 22:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Cindy Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cindy%20Williams",
         "pubdate": "Tue, 31 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vitinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vitinha",
+        "pubdate": "Tue, 31 Jan 2023 20:00:00 +0100"
       }
     ]
   ]

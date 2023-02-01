@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 01:02:25",
+  "lastUpdate": "01-02-2023 , 02:38:08",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Vladimír Polívka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20Pol%C3%ADvka",
+        "pubdate": "Tue, 31 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marie Kondo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marie%20Kondo",
         "pubdate": "Tue, 31 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Markéta Plánková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Pl%C3%A1nkov%C3%A1",
+        "pubdate": "Tue, 31 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "Sebevražda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sebevra%C5%BEda",
         "pubdate": "Tue, 31 Jan 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manželské etudy Zuzana a Vladimír",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%C5%BEelsk%C3%A9%20etudy%20Zuzana%20a%20Vladim%C3%ADr",
-        "pubdate": "Tue, 31 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Enigma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Enigma",
         "pubdate": "Mon, 30 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Plat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plat",
-        "pubdate": "Mon, 30 Jan 2023 07:00:00 +0100"
       }
     ]
   ]

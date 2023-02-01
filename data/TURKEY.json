@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 01:02:34",
+  "lastUpdate": "01-02-2023 , 02:38:15",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Beşiktaş",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F",
+        "pubdate": "Tue, 31 Jan 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Alanyaspor - Sivasspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20-%20Sivasspor",
         "pubdate": "Tue, 31 Jan 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "GALATASARAY ÜMRANİYESPOR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#GALATASARAY%20%C3%9CMRAN%C4%B0YESPOR",
+        "pubdate": "Tue, 31 Jan 2023 21:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Devlet Bahçeli Sinan Ateş",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli%20Sinan%20Ate%C5%9F",
         "pubdate": "Tue, 31 Jan 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Gökçeada Belediye Başkanı Ünal Çetin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%B6k%C3%A7eada%20Belediye%20Ba%C5%9Fkan%C4%B1%20%C3%9Cnal%20%C3%87etin",
-        "pubdate": "Tue, 31 Jan 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Filiz Akın",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Filiz%20Ak%C4%B1n",
-        "pubdate": "Tue, 31 Jan 2023 11:00:00 +0300"
       }
     ]
   ]

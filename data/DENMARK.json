@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-02-2023 , 01:02:26",
+  "lastUpdate": "01-02-2023 , 02:38:08",
   "data": [
+    [
+      {
+        "title": "Irma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Irma",
+        "pubdate": "Tue, 31 Jan 2023 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Roskilde Festival 2023",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "BMW iX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BMW%20iX",
-        "pubdate": "Tue, 31 Jan 2023 13:00:00 +0100"
+        "title": "Enzo Fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enzo%20Fernandez",
+        "pubdate": "Tue, 31 Jan 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Enzo Fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enzo%20Fernandez",
-        "pubdate": "Tue, 31 Jan 2023 14:00:00 +0100"
+        "title": "BMW iX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BMW%20iX",
+        "pubdate": "Tue, 31 Jan 2023 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lisa Loring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lisa%20Loring",
         "pubdate": "Mon, 30 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arch",
-        "pubdate": "Mon, 30 Jan 2023 22:00:00 +0100"
       }
     ]
   ]
