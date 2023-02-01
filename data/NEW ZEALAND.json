@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 23:46:53",
+  "lastUpdate": "01-02-2023 , 23:56:34",
   "data": [
     [
       {
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSG",
+        "pubdate": "Thu, 02 Feb 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Montpellier vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Montpellier%20vs%20PSG",
+        "pubdate": "Thu, 02 Feb 2023 11:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Alec Baldwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alec%20Baldwin",
         "pubdate": "Thu, 02 Feb 2023 00:00:00 +1300"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Montpellier vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Montpellier%20vs%20PSG",
-        "pubdate": "Thu, 02 Feb 2023 11:00:00 +1300"
+        "title": "Wakanda Forever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wakanda%20Forever",
+        "pubdate": "Thu, 02 Feb 2023 12:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Cunk on Earth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cunk%20on%20Earth",
         "pubdate": "Wed, 01 Feb 2023 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Enzo Fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Enzo%20Fernandez",
-        "pubdate": "Wed, 01 Feb 2023 13:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Simon Cowell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Simon%20Cowell",
-        "pubdate": "Wed, 01 Feb 2023 00:00:00 +1300"
       }
     ]
   ]

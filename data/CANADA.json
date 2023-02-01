@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 23:46:48",
+  "lastUpdate": "01-02-2023 , 23:56:28",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
+        "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "FOMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FOMC",
         "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
@@ -69,13 +76,6 @@
         "title": "Vaughan Mills",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vaughan%20Mills",
         "pubdate": "Wed, 01 Feb 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Meta stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
-        "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
       }
     ],
     [
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Groundhog Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Groundhog%20Day",
+        "pubdate": "Wed, 01 Feb 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "February",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#February",
+        "pubdate": "Wed, 01 Feb 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Green comet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20comet",
         "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
@@ -108,20 +122,6 @@
     ],
     [
       {
-        "title": "Ottawa Senators",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
-        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Babylon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Babylon",
-        "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ozzy Osbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ozzy%20Osbourne",
         "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Josh Sills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Sills",
+        "title": "Lily Allen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lily%20Allen",
         "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "John Herdman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Herdman",
-        "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
+        "title": "Ottawa Senators",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
+        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
       }
     ]
   ]
