@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-02-2023 , 23:56:38",
+  "lastUpdate": "02-02-2023 , 01:17:18",
   "data": [
+    [
+      {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samsung",
+        "pubdate": "Wed, 01 Feb 2023 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Charlotte Kalla",
@@ -10,23 +17,9 @@
     ],
     [
       {
-        "title": "Samsung S23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samsung%20S23",
-        "pubdate": "Wed, 01 Feb 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ola Bini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ola%20Bini",
         "pubdate": "Wed, 01 Feb 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samsung",
-        "pubdate": "Wed, 01 Feb 2023 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alicia Vikander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alicia%20Vikander",
         "pubdate": "Tue, 31 Jan 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ebba Busch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
+        "pubdate": "Tue, 31 Jan 2023 19:00:00 +0100"
       }
     ]
   ]

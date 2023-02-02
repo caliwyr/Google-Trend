@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-02-2023 , 23:56:36",
+  "lastUpdate": "02-02-2023 , 01:17:17",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
-        "pubdate": "Thu, 02 Feb 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ligue 1",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Samsung",
-        "pubdate": "Wed, 01 Feb 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Calendar ortodox februarie 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calendar%20ortodox%20februarie%202023",
         "pubdate": "Wed, 01 Feb 2023 12:00:00 +0200"
@@ -45,9 +31,23 @@
     ],
     [
       {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Samsung",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PENNY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PENNY",
         "pubdate": "Wed, 01 Feb 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andreea balan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20balan",
+        "pubdate": "Wed, 01 Feb 2023 23:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Pamela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pamela",
         "pubdate": "Wed, 01 Feb 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andreea balan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20balan",
-        "pubdate": "Wed, 01 Feb 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexander%20Zverev",
         "pubdate": "Wed, 01 Feb 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hulk Hogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hulk%20Hogan",
+        "pubdate": "Wed, 01 Feb 2023 21:00:00 +0200"
       }
     ]
   ]

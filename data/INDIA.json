@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 23:56:32",
+  "lastUpdate": "02-02-2023 , 01:17:14",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
         "pubdate": "Wed, 01 Feb 2023 23:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "England vs South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20South%20Africa",
+        "pubdate": "Wed, 01 Feb 2023 16:30:00 +0530"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Samsung S23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Samsung%20S23",
-        "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
+        "title": "BUDGET 2023 In Hindi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BUDGET%202023%20In%20Hindi",
+        "pubdate": "Wed, 01 Feb 2023 13:30:00 +0530"
       }
     ],
     [
@@ -66,23 +73,16 @@
     ],
     [
       {
-        "title": "Adani Enterprises",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani%20Enterprises",
+        "title": "Samsung S23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Samsung%20S23",
         "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Budget 2023 Hindi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Budget%202023%20Hindi",
-        "pubdate": "Wed, 01 Feb 2023 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "England at South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20at%20South%20Africa",
-        "pubdate": "Wed, 01 Feb 2023 18:30:00 +0530"
+        "title": "Adani Enterprises",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani%20Enterprises",
+        "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "ITC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ITC",
-        "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Credit Suisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Credit%20Suisse",
         "pubdate": "Wed, 01 Feb 2023 18:30:00 +0530"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "BTS' Yet To Come in Cinemas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTS'%20Yet%20To%20Come%20in%20Cinemas",
+        "title": "BTS: Yet to Come in Cinemas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTS:%20Yet%20to%20Come%20in%20Cinemas",
+        "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "ITC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ITC",
         "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
       }
     ]

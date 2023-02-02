@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2023 , 23:56:38",
+  "lastUpdate": "02-02-2023 , 01:17:19",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#FOMC",
+        "pubdate": "Thu, 02 Feb 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "新唐",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%94%90",
+        "pubdate": "Thu, 02 Feb 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "富邦Costco聯名卡",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AF%8C%E9%82%A6Costco%E8%81%AF%E5%90%8D%E5%8D%A1",
         "pubdate": "Wed, 01 Feb 2023 09:00:00 +0800"
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ford",
-        "pubdate": "Wed, 01 Feb 2023 16:00:00 +0800"
+        "title": "麥當勞優惠",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0",
+        "pubdate": "Wed, 01 Feb 2023 13:00:00 +0800"
       }
     ],
     [
       {
-        "title": "麥當勞優惠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%84%AA%E6%83%A0",
-        "pubdate": "Wed, 01 Feb 2023 13:00:00 +0800"
+        "title": "Ford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ford",
+        "pubdate": "Wed, 01 Feb 2023 16:00:00 +0800"
       }
     ],
     [
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "國民年金",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91",
+        "pubdate": "Wed, 01 Feb 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "AMD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AMD",
         "pubdate": "Wed, 01 Feb 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "日統客運",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%97%A5%E7%B5%B1%E5%AE%A2%E9%81%8B",
+        "pubdate": "Wed, 01 Feb 2023 08:00:00 +0800"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "邱莉莉",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%82%B1%E8%8E%89%E8%8E%89",
         "pubdate": "Wed, 01 Feb 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "胡歌結婚",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%83%A1%E6%AD%8C%E7%B5%90%E5%A9%9A",
-        "pubdate": "Tue, 31 Jan 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "跑跑卡丁車",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B7%91%E8%B7%91%E5%8D%A1%E4%B8%81%E8%BB%8A",
-        "pubdate": "Tue, 31 Jan 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "泰達幣",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B3%B0%E9%81%94%E5%B9%A3",
-        "pubdate": "Tue, 31 Jan 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "美股指數",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B8",
-        "pubdate": "Tue, 31 Jan 2023 07:00:00 +0800"
       }
     ]
   ]
