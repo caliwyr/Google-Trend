@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-02-2023 , 23:55:09",
+  "lastUpdate": "03-02-2023 , 01:06:40",
   "data": [
     [
       {
-        "title": "Iris Klein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iris%20Klein",
+        "title": "Peter Klein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Klein",
         "pubdate": "Thu, 02 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lenningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lenningen",
-        "pubdate": "Thu, 02 Feb 2023 17:00:00 +0100"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Recklinghausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Recklinghausen",
+        "pubdate": "Thu, 02 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "EZB-Zinsentscheid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
         "pubdate": "Thu, 02 Feb 2023 10:00:00 +0100"
@@ -45,30 +45,9 @@
     ],
     [
       {
-        "title": "Recklinghausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Recklinghausen",
-        "pubdate": "Thu, 02 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Trade Republic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trade%20Republic",
         "pubdate": "Thu, 02 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nancy Faeser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nancy%20Faeser",
-        "pubdate": "Thu, 02 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Darts Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts%20Premier%20League",
-        "pubdate": "Thu, 02 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,6 +66,13 @@
     ],
     [
       {
+        "title": "Robbie Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robbie%20Williams",
+        "pubdate": "Thu, 02 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Meta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Meta",
         "pubdate": "Thu, 02 Feb 2023 07:00:00 +0100"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Jerks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jerks",
-        "pubdate": "Thu, 02 Feb 2023 10:00:00 +0100"
+        "title": "Reschke Fernsehen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reschke%20Fernsehen",
+        "pubdate": "Thu, 02 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beyonce",
         "pubdate": "Wed, 01 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed",
+        "pubdate": "Wed, 01 Feb 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wolfspeed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolfspeed",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 +0100"
       }
     ]
   ]
