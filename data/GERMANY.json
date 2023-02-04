@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2023 , 00:51:58",
+  "lastUpdate": "04-02-2023 , 02:06:11",
   "data": [
     [
       {
@@ -17,30 +17,16 @@
     ],
     [
       {
-        "title": "Leopard 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leopard%201",
-        "pubdate": "Fri, 03 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spionage-Ballon: US-A China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spionage-Ballon:%20US-A%20China",
-        "pubdate": "Fri, 03 Feb 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Skispringen Willingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skispringen%20Willingen",
+        "title": "Willingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Willingen",
         "pubdate": "Fri, 03 Feb 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Joe Kaeser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Kaeser",
-        "pubdate": "Fri, 03 Feb 2023 00:00:00 +0100"
+        "title": "Spionageballon: US-A China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spionageballon:%20US-A%20China",
+        "pubdate": "Fri, 03 Feb 2023 12:00:00 +0100"
       }
     ],
     [
@@ -48,6 +34,13 @@
         "title": "Manuel Neuer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manuel%20Neuer",
         "pubdate": "Fri, 03 Feb 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joe Kaeser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Kaeser",
+        "pubdate": "Fri, 03 Feb 2023 00:00:00 +0100"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "SV Darmstadt 98",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SV%20Darmstadt%2098",
+        "pubdate": "Fri, 03 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Depeche-Mode",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Depeche-Mode",
         "pubdate": "Fri, 03 Feb 2023 18:00:00 +0100"
@@ -83,13 +83,6 @@
         "title": "Fritz Bauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fritz%20Bauer",
         "pubdate": "Fri, 03 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vermisste Julia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vermisste%20Julia",
-        "pubdate": "Fri, 03 Feb 2023 00:00:00 +0100"
       }
     ],
     [
@@ -108,37 +101,44 @@
     ],
     [
       {
-        "title": "Anja Reschke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anja%20Reschke",
-        "pubdate": "Thu, 02 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mason Greenwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mason%20Greenwood",
-        "pubdate": "Thu, 02 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sally Perel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sally%20Perel",
-        "pubdate": "Thu, 02 Feb 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "EZB Leitzins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB%20Leitzins",
-        "pubdate": "Thu, 02 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tuberkulose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuberkulose",
         "pubdate": "Thu, 02 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Reschke Fernsehen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reschke%20Fernsehen",
+        "pubdate": "Thu, 02 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Samsung Galaxy S23 Ultra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samsung%20Galaxy%20S23%20Ultra",
+        "pubdate": "Wed, 01 Feb 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tom Brady",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Brady",
+        "pubdate": "Wed, 01 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beyonce",
+        "pubdate": "Wed, 01 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tony Marshall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tony%20Marshall",
+        "pubdate": "Wed, 01 Feb 2023 17:00:00 +0100"
       }
     ]
   ]
