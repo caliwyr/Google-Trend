@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-02-2023 , 00:30:55",
+  "lastUpdate": "06-02-2023 , 02:00:48",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#UFC",
+        "pubdate": "Mon, 06 Feb 2023 08:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Dream Maker",
@@ -27,6 +34,13 @@
         "title": "Mallorca vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mallorca%20vs%20Real%20Madrid",
         "pubdate": "Mon, 06 Feb 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Pacers vs Cavaliers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pacers%20vs%20Cavaliers",
+        "pubdate": "Mon, 06 Feb 2023 08:00:00 +0800"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Manny Villar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Manny%20Villar",
+        "pubdate": "Sun, 05 Feb 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Bulls vs Trail Blazers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bulls%20vs%20Trail%20Blazers",
         "pubdate": "Sun, 05 Feb 2023 11:00:00 +0800"
@@ -94,9 +115,16 @@
     ],
     [
       {
-        "title": "Manny Villar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Manny%20Villar",
-        "pubdate": "Sun, 05 Feb 2023 14:00:00 +0800"
+        "title": "Arron Villaflor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Arron%20Villaflor",
+        "pubdate": "Sun, 05 Feb 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Premier%20League",
+        "pubdate": "Sun, 05 Feb 2023 02:00:00 +0800"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Nuggets Vs Hawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nuggets%20Vs%20Hawks",
         "pubdate": "Sun, 05 Feb 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "PewDiePie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PewDiePie",
-        "pubdate": "Sun, 05 Feb 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Pistons vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pistons%20vs%20Suns",
-        "pubdate": "Sun, 05 Feb 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bernard Arnault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bernard%20Arnault",
-        "pubdate": "Sun, 05 Feb 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Man%20United%20vs%20Crystal%20Palace",
-        "pubdate": "Sun, 05 Feb 2023 01:00:00 +0800"
       }
     ]
   ]
