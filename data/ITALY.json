@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-02-2023 , 01:03:15",
+  "lastUpdate": "07-02-2023 , 02:18:39",
   "data": [
+    [
+      {
+        "title": "Ultime notizie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ultime%20notizie",
+        "pubdate": "Tue, 07 Feb 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Europa",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Rai news 24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai%20news%2024",
+        "pubdate": "Tue, 07 Feb 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Notizie ANSA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Notizie%20ANSA",
         "pubdate": "Tue, 07 Feb 2023 00:00:00 +0100"
@@ -24,16 +38,9 @@
     ],
     [
       {
-        "title": "Fantasanremo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fantasanremo",
-        "pubdate": "Mon, 06 Feb 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hogwarts Legacy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hogwarts%20Legacy",
-        "pubdate": "Mon, 06 Feb 2023 16:00:00 +0100"
+        "pubdate": "Mon, 06 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Blackout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blackout",
+        "pubdate": "Mon, 06 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rosa Chemical",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rosa%20Chemical",
         "pubdate": "Mon, 06 Feb 2023 20:00:00 +0100"
@@ -61,13 +75,6 @@
       {
         "title": "O bag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#O%20bag",
-        "pubdate": "Mon, 06 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blackout",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blackout",
         "pubdate": "Mon, 06 Feb 2023 22:00:00 +0100"
       }
     ],
@@ -101,8 +108,15 @@
     ],
     [
       {
-        "title": "Palermo Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20Calcio",
+        "title": "Fantasanremo 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fantasanremo%202023",
+        "pubdate": "Mon, 06 Feb 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palermo calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20calcio",
         "pubdate": "Mon, 06 Feb 2023 16:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Paola e Chiara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20e%20Chiara",
         "pubdate": "Mon, 06 Feb 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sky TG24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sky%20TG24",
-        "pubdate": "Mon, 06 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Opzione donna pensione",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Opzione%20donna%20pensione",
-        "pubdate": "Mon, 06 Feb 2023 17:00:00 +0100"
       }
     ]
   ]
