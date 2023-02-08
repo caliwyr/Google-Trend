@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "07-02-2023 , 23:55:59",
+  "lastUpdate": "08-02-2023 , 01:12:50",
   "data": [
     [
       {
         "title": "SC Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
         "pubdate": "Tue, 07 Feb 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andre Braun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andre%20Braun",
-        "pubdate": "Tue, 07 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gruner und Jahr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gruner%20und%20Jahr",
-        "pubdate": "Tue, 07 Feb 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bard",
-        "pubdate": "Tue, 07 Feb 2023 09:00:00 +0100"
       }
     ],
     [
@@ -38,16 +17,23 @@
     ],
     [
       {
-        "title": "Leopard-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leopard-1",
-        "pubdate": "Tue, 07 Feb 2023 19:00:00 +0100"
+        "title": "Gruner und Jahr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gruner%20und%20Jahr",
+        "pubdate": "Tue, 07 Feb 2023 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alexander Nübel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20N%C3%BCbel",
-        "pubdate": "Tue, 07 Feb 2023 15:00:00 +0100"
+        "title": "Andre Braun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andre%20Braun",
+        "pubdate": "Tue, 07 Feb 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leopard-1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leopard-1",
+        "pubdate": "Tue, 07 Feb 2023 19:00:00 +0100"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Alexander Nübel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20N%C3%BCbel",
+        "pubdate": "Tue, 07 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "WWE RAW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WWE%20RAW",
         "pubdate": "Tue, 07 Feb 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Google Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Bard",
+        "pubdate": "Tue, 07 Feb 2023 11:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Biathlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
-        "pubdate": "Mon, 06 Feb 2023 08:00:00 +0100"
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
+        "pubdate": "Mon, 06 Feb 2023 20:00:00 +0100"
       }
     ]
   ]

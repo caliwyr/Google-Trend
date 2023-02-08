@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-02-2023 , 23:55:58",
+  "lastUpdate": "08-02-2023 , 01:12:49",
   "data": [
+    [
+      {
+        "title": "MMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MMA",
+        "pubdate": "Wed, 08 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Honda Civic",
@@ -12,6 +19,13 @@
       {
         "title": "Vesna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesna",
+        "pubdate": "Tue, 07 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tomáš Jeřábek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Je%C5%99%C3%A1bek",
         "pubdate": "Tue, 07 Feb 2023 22:00:00 +0100"
       }
     ],
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Štefan margita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0tefan%20margita",
+        "pubdate": "Tue, 07 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladimir%20Putin",
         "pubdate": "Tue, 07 Feb 2023 22:00:00 +0100"
@@ -69,13 +90,6 @@
         "title": "Tomáš Macháč",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Mach%C3%A1%C4%8D",
         "pubdate": "Tue, 07 Feb 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ondřej malý",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20mal%C3%BD",
-        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0100"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Lubomír Štrougal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lubom%C3%ADr%20%C5%A0trougal",
+        "pubdate": "Mon, 06 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Beyonce",
         "pubdate": "Mon, 06 Feb 2023 10:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Michal Sýkora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20S%C3%BDkora",
-        "pubdate": "Mon, 06 Feb 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Květa Pacovská",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kv%C4%9Bta%20Pacovsk%C3%A1",
-        "pubdate": "Mon, 06 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jitka Sedláčková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jitka%20Sedl%C3%A1%C4%8Dkov%C3%A1",
-        "pubdate": "Mon, 06 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rose Leslie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rose%20Leslie",
-        "pubdate": "Mon, 06 Feb 2023 12:00:00 +0100"
+        "title": "Jana Maláčová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Mal%C3%A1%C4%8Dov%C3%A1",
+        "pubdate": "Mon, 06 Feb 2023 17:00:00 +0100"
       }
     ]
   ]
