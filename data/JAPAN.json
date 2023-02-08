@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-02-2023 , 03:57:10",
+  "lastUpdate": "08-02-2023 , 04:20:37",
   "data": [
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Teams",
-        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0900"
+        "title": "Teams 障害",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Teams%20%E9%9A%9C%E5%AE%B3",
+        "pubdate": "Wed, 08 Feb 2023 10:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Bing",
+        "pubdate": "Wed, 08 Feb 2023 12:00:00 +0900"
       }
     ],
     [
@@ -47,6 +54,13 @@
       {
         "title": "ホグワーツレガシー",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9B%E3%82%B0%E3%83%AF%E3%83%BC%E3%83%84%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC",
+        "pubdate": "Mon, 06 Feb 2023 15:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "クロちゃん",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93",
         "pubdate": "Mon, 06 Feb 2023 15:00:00 +0900"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "松山ケンイチ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%BE%E5%B1%B1%E3%82%B1%E3%83%B3%E3%82%A4%E3%83%81",
         "pubdate": "Sun, 05 Feb 2023 23:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "愛知県知事選挙",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "荒井秘書官",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%8D%92%E4%BA%95%E7%A7%98%E6%9B%B8%E5%AE%98",
-        "pubdate": "Sat, 04 Feb 2023 10:00:00 +0900"
       }
     ]
   ]
