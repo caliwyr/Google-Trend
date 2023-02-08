@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2023 , 10:57:50",
+  "lastUpdate": "08-02-2023 , 11:15:31",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Märtha Louise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#M%C3%A4rtha%20Louise",
-        "pubdate": "Tue, 07 Feb 2023 18:00:00 +0100"
+        "title": "Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bing",
+        "pubdate": "Tue, 07 Feb 2023 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bing",
-        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0100"
+        "title": "Märtha Louise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#M%C3%A4rtha%20Louise",
+        "pubdate": "Tue, 07 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
+        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nordic Semiconductor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordic%20Semiconductor",
         "pubdate": "Tue, 07 Feb 2023 13:00:00 +0100"
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
-        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Reality-TV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reality-TV",
         "pubdate": "Tue, 07 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Salman Rushdie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salman%20Rushdie",
-        "pubdate": "Tue, 07 Feb 2023 06:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Salman Rushdie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salman%20Rushdie",
+        "pubdate": "Tue, 07 Feb 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OnePlus 11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OnePlus%2011",
         "pubdate": "Tue, 07 Feb 2023 21:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Lihkku beivviin!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lihkku%20beivviin!",
-        "pubdate": "Mon, 06 Feb 2023 07:00:00 +0100"
+        "title": "Jordskjelv Tyrkia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jordskjelv%20Tyrkia",
+        "pubdate": "Mon, 06 Feb 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gaziantep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaziantep",
-        "pubdate": "Mon, 06 Feb 2023 08:00:00 +0100"
+        "title": "Lihkku beivviin!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lihkku%20beivviin!",
+        "pubdate": "Mon, 06 Feb 2023 07:00:00 +0100"
       }
     ]
   ]
