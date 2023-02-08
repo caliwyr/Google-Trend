@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2023 , 01:12:54",
+  "lastUpdate": "08-02-2023 , 02:32:46",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Dizzie Tunes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dizzie%20Tunes",
-        "pubdate": "Tue, 07 Feb 2023 15:00:00 +0100"
+        "title": "Märtha Louise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#M%C3%A4rtha%20Louise",
+        "pubdate": "Tue, 07 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Reese Witherspoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reese%20Witherspoon",
         "pubdate": "Tue, 07 Feb 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dmitrij Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dmitrij%20Medvedev",
+        "pubdate": "Tue, 07 Feb 2023 09:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Grammy-s 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grammy-s%202023",
         "pubdate": "Mon, 06 Feb 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Madonna",
-        "pubdate": "Mon, 06 Feb 2023 20:00:00 +0100"
       }
     ]
   ]

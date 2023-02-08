@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2023 , 01:12:46",
+  "lastUpdate": "08-02-2023 , 02:32:37",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Leandro Paredes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leandro%20Paredes",
+        "pubdate": "Tue, 07 Feb 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Leptospirosis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leptospirosis",
         "pubdate": "Tue, 07 Feb 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fenómeno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fen%C3%B3meno",
+        "pubdate": "Tue, 07 Feb 2023 22:00:00 -0300"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "El angel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20angel",
-        "pubdate": "Tue, 07 Feb 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Lionel Messi PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lionel%20Messi%20PSG",
         "pubdate": "Tue, 07 Feb 2023 17:00:00 -0300"
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Leandro Paredes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leandro%20Paredes",
-        "pubdate": "Tue, 07 Feb 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Paredes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paredes",
-        "pubdate": "Tue, 07 Feb 2023 13:00:00 -0300"
+        "title": "El angel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20angel",
+        "pubdate": "Tue, 07 Feb 2023 01:00:00 -0300"
       }
     ],
     [
@@ -115,22 +115,8 @@
     ],
     [
       {
-        "title": "Venezuela sub-20 vs Uruguay sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Venezuela%20sub-20%20vs%20Uruguay%20sub-20",
-        "pubdate": "Tue, 07 Feb 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Administración Federal de Ingresos Públicos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Administraci%C3%B3n%20Federal%20de%20Ingresos%20P%C3%BAblicos",
-        "pubdate": "Tue, 07 Feb 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Impuesto Inmobiliario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Impuesto%20Inmobiliario",
+        "title": "Impuesto inmobiliario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Impuesto%20inmobiliario",
         "pubdate": "Tue, 07 Feb 2023 21:00:00 -0300"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Perpetua en Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Perpetua%20en%20Argentina",
         "pubdate": "Mon, 06 Feb 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flamengo",
+        "pubdate": "Mon, 06 Feb 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Terremoto en Turquía",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Terremoto%20en%20Turqu%C3%ADa",
+        "pubdate": "Mon, 06 Feb 2023 06:00:00 -0300"
       }
     ]
   ]

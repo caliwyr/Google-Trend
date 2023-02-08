@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-02-2023 , 01:12:46",
+  "lastUpdate": "08-02-2023 , 02:32:36",
   "data": [
     [
       {
         "title": "Powerball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
         "pubdate": "Tue, 07 Feb 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kareem Abdul-Jabbar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kareem%20Abdul-Jabbar",
+        "pubdate": "Tue, 07 Feb 2023 15:00:00 -0800"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Kim Pegula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kim%20Pegula",
-        "pubdate": "Tue, 07 Feb 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Joe Rogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Rogan",
-        "pubdate": "Tue, 07 Feb 2023 15:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Sheffield United vs Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sheffield%20United%20vs%20Wrexham",
         "pubdate": "Tue, 07 Feb 2023 14:00:00 -0800"
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "Ant-Man Quantumania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ant-Man%20Quantumania",
-        "pubdate": "Tue, 07 Feb 2023 12:00:00 -0800"
+        "title": "Bard AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bard%20AI",
+        "pubdate": "Tue, 07 Feb 2023 07:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Kareem Abdul-Jabbar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kareem%20Abdul-Jabbar",
-        "pubdate": "Tue, 07 Feb 2023 15:00:00 -0800"
+        "title": "Ant-Man Quantumania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ant-Man%20Quantumania",
+        "pubdate": "Tue, 07 Feb 2023 12:00:00 -0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Ben Affleck Grammys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ben%20Affleck%20Grammys",
+        "title": "Rosa Parks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rosa%20Parks",
         "pubdate": "Mon, 06 Feb 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "BBBY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#BBBY",
+        "pubdate": "Mon, 06 Feb 2023 18:00:00 -0800"
       }
     ]
   ]
