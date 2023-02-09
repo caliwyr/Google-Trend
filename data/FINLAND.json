@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2023 , 23:57:16",
+  "lastUpdate": "09-02-2023 , 01:23:13",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pro",
-        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0200"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Wed, 08 Feb 2023 18:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Bing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bing",
         "pubdate": "Wed, 08 Feb 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pro",
+        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bard",
         "pubdate": "Tue, 07 Feb 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PewDiePie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PewDiePie",
-        "pubdate": "Tue, 07 Feb 2023 21:00:00 +0200"
       }
     ]
   ]
