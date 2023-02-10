@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2023 , 23:53:07",
+  "lastUpdate": "10-02-2023 , 00:48:07",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "שביתה ביום שני",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%91%D7%99%D7%AA%D7%94%20%D7%91%D7%99%D7%95%D7%9D%20%D7%A9%D7%A0%D7%99",
-        "pubdate": "Thu, 09 Feb 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Al%20Nassr",
         "pubdate": "Thu, 09 Feb 2023 23:00:00 +0200"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "אדווה דדון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%93%D7%95%D7%95%D7%94%20%D7%93%D7%93%D7%95%D7%9F",
-        "pubdate": "Thu, 09 Feb 2023 16:00:00 +0200"
+        "title": "שביתה ביום שני",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%91%D7%99%D7%AA%D7%94%20%D7%91%D7%99%D7%95%D7%9D%20%D7%A9%D7%A0%D7%99",
+        "pubdate": "Thu, 09 Feb 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "רעידת אדמה בישראל",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%A2%D7%99%D7%93%D7%AA%20%D7%90%D7%93%D7%9E%D7%94%20%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
         "pubdate": "Wed, 08 Feb 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "רעידת אדמה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%A2%D7%99%D7%93%D7%AA%20%D7%90%D7%93%D7%9E%D7%94",
+        "pubdate": "Wed, 08 Feb 2023 18:00:00 +0200"
       }
     ]
   ]
