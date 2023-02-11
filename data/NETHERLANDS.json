@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "10-02-2023 , 23:57:07",
+  "lastUpdate": "11-02-2023 , 01:18:29",
   "data": [
     [
       {
-        "title": "AZ-Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ-Excelsior",
-        "pubdate": "Fri, 10 Feb 2023 20:00:00 +0100"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Fri, 10 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rihanna",
         "pubdate": "Fri, 10 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MVV",
+        "pubdate": "Fri, 10 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ticketmaster",
         "pubdate": "Tue, 07 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Tue, 07 Feb 2023 21:00:00 +0100"
       }
     ]
   ]

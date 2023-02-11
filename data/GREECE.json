@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2023 , 23:57:04",
+  "lastUpdate": "11-02-2023 , 01:18:25",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Πλειστηριασμοι",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%B9",
+        "pubdate": "Fri, 10 Feb 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Αθλητικά",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CE%BA%CE%AC",
         "pubdate": "Fri, 10 Feb 2023 00:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "Λενα ζευγαρα",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B5%CE%BD%CE%B1%20%CE%B6%CE%B5%CF%85%CE%B3%CE%B1%CF%81%CE%B1",
         "pubdate": "Fri, 10 Feb 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Πλειστηριασμοι",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%B9",
-        "pubdate": "Fri, 10 Feb 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Αμμοχωστοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BC%CE%BC%CE%BF%CF%87%CF%89%CF%83%CF%84%CE%BF%CF%83",
-        "pubdate": "Fri, 10 Feb 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Μιχαλησ χατζηγιαννησ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B9%CF%87%CE%B1%CE%BB%CE%B7%CF%83%20%CF%87%CE%B1%CF%84%CE%B6%CE%B7%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7%CF%83",
         "pubdate": "Fri, 10 Feb 2023 13:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Τηλεθέρμανση",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%B7%CE%BB%CE%B5%CE%B8%CE%AD%CF%81%CE%BC%CE%B1%CE%BD%CF%83%CE%B7",
-        "pubdate": "Fri, 10 Feb 2023 03:00:00 +0200"
+        "title": "Γαλάζια Πατρίδα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B1%CE%BB%CE%AC%CE%B6%CE%B9%CE%B1%20%CE%A0%CE%B1%CF%84%CF%81%CE%AF%CE%B4%CE%B1",
+        "pubdate": "Fri, 10 Feb 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Αγρίνιο",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%B3%CF%81%CE%AF%CE%BD%CE%B9%CE%BF",
+        "pubdate": "Fri, 10 Feb 2023 18:00:00 +0200"
       }
     ]
   ]

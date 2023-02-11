@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-02-2023 , 23:57:08",
+  "lastUpdate": "11-02-2023 , 01:18:31",
   "data": [
+    [
+      {
+        "title": "Operação Maré Negra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Opera%C3%A7%C3%A3o%20Mar%C3%A9%20Negra",
+        "pubdate": "Sat, 11 Feb 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Braga-Benfica",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Preço combustíveis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20combust%C3%ADveis",
-        "pubdate": "Fri, 10 Feb 2023 12:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Milan  Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan%20%20Torino",
         "pubdate": "Fri, 10 Feb 2023 20:00:00 +0000"
@@ -38,16 +38,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo golos Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cristiano%20Ronaldo%20golos%20Al%20Nassr",
-        "pubdate": "Fri, 10 Feb 2023 08:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
-        "pubdate": "Fri, 10 Feb 2023 03:00:00 +0000"
+        "title": "Preço combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20combust%C3%ADveis",
+        "pubdate": "Fri, 10 Feb 2023 12:00:00 +0000"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Cristiano Ronaldo golos Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cristiano%20Ronaldo%20golos%20Al%20Nassr",
+        "pubdate": "Fri, 10 Feb 2023 08:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "MEO Sudoeste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MEO%20Sudoeste",
         "pubdate": "Fri, 10 Feb 2023 12:00:00 +0000"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Antena 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
-        "pubdate": "Fri, 10 Feb 2023 16:00:00 +0000"
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Fri, 10 Feb 2023 03:00:00 +0000"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Charles III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Charles%20III",
-        "pubdate": "Fri, 10 Feb 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Carlos Saura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Saura",
         "pubdate": "Fri, 10 Feb 2023 19:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "José Castelo Branco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jos%C3%A9%20Castelo%20Branco",
         "pubdate": "Fri, 10 Feb 2023 22:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sporting  Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20%20Porto",
+        "pubdate": "Fri, 10 Feb 2023 00:00:00 +0000"
       }
     ]
   ]
