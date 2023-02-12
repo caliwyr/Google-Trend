@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "11-02-2023 , 23:55:35",
+  "lastUpdate": "12-02-2023 , 01:13:17",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid",
         "pubdate": "Sat, 11 Feb 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "U de Chile  Magallanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile%20%20Magallanes",
-        "pubdate": "Sat, 11 Feb 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "U de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile",
-        "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Al-Ahly vs Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-Ahly%20vs%20Flamengo",
-        "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
       }
     ],
     [
@@ -38,6 +17,13 @@
     ],
     [
       {
+        "title": "U de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile",
+        "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Tito fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tito%20fernandez",
         "pubdate": "Sat, 11 Feb 2023 17:00:00 -0300"
@@ -45,8 +31,8 @@
     ],
     [
       {
-        "title": "Mónaco  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#M%C3%B3naco%20%20PSG",
+        "title": "Al-ahly vs Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-ahly%20vs%20Flamengo",
         "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
       }
     ],
@@ -55,6 +41,13 @@
         "title": "Almería vs Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Almer%C3%ADa%20vs%20Betis",
         "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
+        "pubdate": "Sat, 11 Feb 2023 10:00:00 -0300"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "West Ham  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham%20%20Chelsea",
-        "pubdate": "Sat, 11 Feb 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "The Last of Us serie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#The%20Last%20of%20Us%20serie",
         "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
@@ -104,6 +90,13 @@
         "title": "Gabriel Boric",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gabriel%20Boric",
         "pubdate": "Sat, 11 Feb 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Everton  Coquimbo Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20%20Coquimbo%20Unido",
+        "pubdate": "Sat, 11 Feb 2023 21:00:00 -0300"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Super%20Bowl",
+        "pubdate": "Sat, 11 Feb 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Watford Blackburn Rovers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Watford%20Blackburn%20Rovers",
         "pubdate": "Sat, 11 Feb 2023 14:00:00 -0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Avianca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Avianca",
-        "pubdate": "Sat, 11 Feb 2023 10:00:00 -0300"
+        "title": "Lecce vs Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lecce%20vs%20Roma",
+        "pubdate": "Sat, 11 Feb 2023 16:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Magic Mike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magic%20Mike",
-        "pubdate": "Sat, 11 Feb 2023 00:00:00 -0300"
+        "title": "Avianca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Avianca",
+        "pubdate": "Sat, 11 Feb 2023 10:00:00 -0300"
       }
     ]
   ]
