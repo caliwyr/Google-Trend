@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "12-02-2023 , 04:52:44",
+  "lastUpdate": "12-02-2023 , 05:07:24",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
         "pubdate": "Sun, 12 Feb 2023 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool – Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%E2%80%93%20Everton",
-        "pubdate": "Sun, 12 Feb 2023 04:00:00 +0700"
       }
     ],
     [
@@ -45,15 +38,15 @@
     ],
     [
       {
-        "title": "Bayern – Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20%E2%80%93%20Bochum",
+        "title": "Monaco – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Monaco%20%E2%80%93%20PSG",
         "pubdate": "Sat, 11 Feb 2023 11:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Monaco – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Monaco%20%E2%80%93%20PSG",
+        "title": "Bayern – Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20%E2%80%93%20Bochum",
         "pubdate": "Sat, 11 Feb 2023 11:00:00 +0700"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Brunei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brunei",
         "pubdate": "Sat, 11 Feb 2023 20:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ansu Fati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ansu%20Fati",
+        "pubdate": "Sat, 11 Feb 2023 15:00:00 +0700"
       }
     ]
   ]

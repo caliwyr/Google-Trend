@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "12-02-2023 , 04:52:31",
+  "lastUpdate": "12-02-2023 , 05:07:15",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UFC",
+        "pubdate": "Sun, 12 Feb 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brad%20Pitt",
         "pubdate": "Sun, 12 Feb 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gerard Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gerard%20Butler",
+        "pubdate": "Sun, 12 Feb 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Cristo Redentor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristo%20Redentor",
+        "pubdate": "Sun, 12 Feb 2023 01:00:00 -0300"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Southampton vs Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Southampton%20vs%20Wolves",
-        "pubdate": "Sat, 11 Feb 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Club atlético Talleres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20atl%C3%A9tico%20Talleres",
         "pubdate": "Sat, 11 Feb 2023 21:00:00 -0300"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Southampton vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Southampton%20vs%20Wolves",
+        "pubdate": "Sat, 11 Feb 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bournemouth vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bournemouth%20vs%20Newcastle",
         "pubdate": "Sat, 11 Feb 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Crystal%20Palace%20-%20Brighton",
-        "pubdate": "Sat, 11 Feb 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cerro  Guaraní",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cerro%20%20Guaran%C3%AD",
-        "pubdate": "Sat, 11 Feb 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Racing de cordoba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20de%20cordoba",
-        "pubdate": "Sat, 11 Feb 2023 18:00:00 -0300"
       }
     ]
   ]
