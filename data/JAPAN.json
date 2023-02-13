@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "13-02-2023 , 04:59:40",
+  "lastUpdate": "13-02-2023 , 05:20:07",
   "data": [
+    [
+      {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NFL",
+        "pubdate": "Mon, 13 Feb 2023 13:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "看護師国家試験",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9C%8B%E8%AD%B7%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93",
         "pubdate": "Sun, 12 Feb 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "横浜流星",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A8%AA%E6%B5%9C%E6%B5%81%E6%98%9F",
+        "pubdate": "Sun, 12 Feb 2023 19:00:00 +0900"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "東京 雪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E4%BA%AC%20%E9%9B%AA",
+        "pubdate": "Thu, 09 Feb 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "王将戦",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8E%8B%E5%B0%86%E6%88%A6",
         "pubdate": "Thu, 09 Feb 2023 13:00:00 +0900"
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "藤井聡太羽生善治王将戦",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E4%BA%95%E8%81%A1%E5%A4%AA%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB%E7%8E%8B%E5%B0%86%E6%88%A6",
+        "pubdate": "Thu, 09 Feb 2023 20:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "世界樹の迷宮",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%AE%E8%BF%B7%E5%AE%AE",
         "pubdate": "Thu, 09 Feb 2023 15:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "ハライチ岩井",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8F%E3%83%A9%E3%82%A4%E3%83%81%E5%B2%A9%E4%BA%95",
-        "pubdate": "Thu, 09 Feb 2023 09:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Teams",
-        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "東芝買収",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E8%8A%9D%E8%B2%B7%E5%8F%8E",
-        "pubdate": "Wed, 08 Feb 2023 07:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "Bing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Bing",
-        "pubdate": "Wed, 08 Feb 2023 12:00:00 +0900"
       }
     ]
   ]
