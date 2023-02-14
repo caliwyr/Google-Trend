@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2023 , 23:49:06",
+  "lastUpdate": "14-02-2023 , 23:58:01",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20Zealand",
         "pubdate": "Tue, 14 Feb 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Happy Valentine's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Happy%20Valentine's%20Day",
+        "pubdate": "Tue, 14 Feb 2023 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Chris Stapleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chris%20Stapleton",
         "pubdate": "Mon, 13 Feb 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Blake%20Lively",
-        "pubdate": "Mon, 13 Feb 2023 14:00:00 +0100"
       }
     ]
   ]

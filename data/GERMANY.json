@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-02-2023 , 23:49:07",
+  "lastUpdate": "14-02-2023 , 23:58:02",
   "data": [
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
+        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Amazon Prime",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Diana Amft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Diana%20Amft",
-        "pubdate": "Tue, 14 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marburg-Virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marburg-Virus",
         "pubdate": "Tue, 14 Feb 2023 08:00:00 +0100"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Choupo-Moting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Choupo-Moting",
+        "pubdate": "Tue, 14 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kylian%20Mbapp%C3%A9",
         "pubdate": "Tue, 14 Feb 2023 20:00:00 +0100"
@@ -90,6 +97,13 @@
         "title": "PSG gegen Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG%20gegen%20Bayern",
         "pubdate": "Mon, 13 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Valentinstag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valentinstag",
+        "pubdate": "Mon, 13 Feb 2023 17:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Moldau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
-        "pubdate": "Mon, 13 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Krieg ukraine Russland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Krieg%20ukraine%20Russland",
         "pubdate": "Mon, 13 Feb 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Super Bowl 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Super%20Bowl%202023",
-        "pubdate": "Sun, 12 Feb 2023 16:00:00 +0100"
       }
     ]
   ]
