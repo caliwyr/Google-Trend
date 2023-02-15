@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2023 , 23:57:58",
+  "lastUpdate": "15-02-2023 , 01:39:57",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Moldova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moldova",
-        "pubdate": "Wed, 15 Feb 2023 04:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Cocaine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cocaine",
         "pubdate": "Wed, 15 Feb 2023 10:00:00 +1100"
@@ -62,6 +55,13 @@
         "title": "Iggy Azalea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iggy%20Azalea",
         "pubdate": "Wed, 15 Feb 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Moldova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moldova",
+        "pubdate": "Wed, 15 Feb 2023 04:00:00 +1100"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Michigan State University",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michigan%20State%20University",
+        "pubdate": "Tue, 14 Feb 2023 23:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Islam Makhachev IV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Islam%20Makhachev%20IV",
+        "pubdate": "Tue, 14 Feb 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Brianna Ghey death",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brianna%20Ghey%20death",
         "pubdate": "Tue, 14 Feb 2023 03:00:00 +1100"
@@ -125,20 +139,6 @@
         "title": "Joe Westerman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Westerman",
         "pubdate": "Tue, 14 Feb 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Michigan State University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michigan%20State%20University",
-        "pubdate": "Tue, 14 Feb 2023 23:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Paul Rudd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paul%20Rudd",
-        "pubdate": "Tue, 14 Feb 2023 03:00:00 +1100"
       }
     ]
   ]
