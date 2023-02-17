@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2023 , 23:48:14",
+  "lastUpdate": "17-02-2023 , 23:57:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Michael Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Jordan",
         "pubdate": "Fri, 17 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kisvárda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisv%C3%A1rda",
+        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Hangya és a Darázs: Kvantumánia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hangya%20%C3%A9s%20a%20Dar%C3%A1zs:%20Kvantum%C3%A1nia",
+        "pubdate": "Fri, 17 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Demencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demencia",
         "pubdate": "Fri, 17 Feb 2023 06:00:00 +0100"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Kisvárda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisv%C3%A1rda",
-        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
+        "pubdate": "Fri, 17 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Alpine F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alpine%20F1",
         "pubdate": "Fri, 17 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
-        "pubdate": "Fri, 17 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Susan Wojcicki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Susan%20Wojcicki",
-        "pubdate": "Fri, 17 Feb 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Genshin Impact",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Genshin%20Impact",
         "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
@@ -101,15 +101,15 @@
     ],
     [
       {
-        "title": "Nádai Anikó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A1dai%20Anik%C3%B3",
-        "pubdate": "Fri, 17 Feb 2023 20:00:00 +0100"
+        "title": "Susan Wojcicki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Susan%20Wojcicki",
+        "pubdate": "Fri, 17 Feb 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Hangya és a Darázs: Kvantumánia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hangya%20%C3%A9s%20a%20Dar%C3%A1zs:%20Kvantum%C3%A1nia",
+        "title": "Nádai Anikó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A1dai%20Anik%C3%B3",
         "pubdate": "Fri, 17 Feb 2023 20:00:00 +0100"
       }
     ],
