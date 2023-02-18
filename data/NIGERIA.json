@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2023 , 23:57:45",
+  "lastUpdate": "18-02-2023 , 01:34:33",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Ojota",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ojota",
+        "pubdate": "Fri, 17 Feb 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Iyabo Ojo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Iyabo%20Ojo",
         "pubdate": "Fri, 17 Feb 2023 09:00:00 +0100"
@@ -27,13 +34,6 @@
         "title": "Rema Holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rema%20Holiday",
         "pubdate": "Fri, 17 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ojota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ojota",
-        "pubdate": "Fri, 17 Feb 2023 12:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Politician",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Politician",
-        "pubdate": "Fri, 17 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Harmattan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Harmattan",
         "pubdate": "Fri, 17 Feb 2023 16:00:00 +0100"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Girona",
-        "pubdate": "Fri, 17 Feb 2023 23:00:00 +0100"
+        "title": "Politician",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Politician",
+        "pubdate": "Fri, 17 Feb 2023 10:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CBN portal to deposit old notes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CBN%20portal%20to%20deposit%20old%20notes",
         "pubdate": "Thu, 16 Feb 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juventus vs Nantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus%20vs%20Nantes",
+        "pubdate": "Thu, 16 Feb 2023 15:00:00 +0100"
       }
     ]
   ]

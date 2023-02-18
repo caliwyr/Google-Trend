@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2023 , 23:57:41",
+  "lastUpdate": "18-02-2023 , 01:34:30",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Michael Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Jordan",
         "pubdate": "Fri, 17 Feb 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kisvárda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisv%C3%A1rda",
-        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Kisvárda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisv%C3%A1rda",
+        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
         "pubdate": "Fri, 17 Feb 2023 22:00:00 +0100"
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Cserhalmi György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserhalmi%20Gy%C3%B6rgy",
+        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Alpine F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alpine%20F1",
         "pubdate": "Fri, 17 Feb 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Soros György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Soros%20Gy%C3%B6rgy",
+        "pubdate": "Fri, 17 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -94,23 +108,16 @@
     ],
     [
       {
-        "title": "Genshin Impact",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Genshin%20Impact",
-        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Susan Wojcicki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Susan%20Wojcicki",
-        "pubdate": "Fri, 17 Feb 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nádai Anikó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A1dai%20Anik%C3%B3",
         "pubdate": "Fri, 17 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Genshin Impact",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Genshin%20Impact",
+        "pubdate": "Fri, 17 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Susan Wojcicki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Susan%20Wojcicki",
+        "pubdate": "Fri, 17 Feb 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "AS Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AS%20Roma",
         "pubdate": "Fri, 17 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona–man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93man%20utd",
-        "pubdate": "Thu, 16 Feb 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus–nantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus%E2%80%93nantes",
-        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ]
   ]
