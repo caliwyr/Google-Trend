@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2023 , 11:51:26",
+  "lastUpdate": "18-02-2023 , 12:08:16",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Jeff Beck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jeff%20Beck",
         "pubdate": "Fri, 17 Feb 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tim Lobinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tim%20Lobinger",
-        "pubdate": "Fri, 17 Feb 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal – Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Manchester%20City",
         "pubdate": "Wed, 15 Feb 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dortmund%20%E2%80%93%20Chelsea",
+        "pubdate": "Wed, 15 Feb 2023 22:00:00 +0200"
       }
     ]
   ]
