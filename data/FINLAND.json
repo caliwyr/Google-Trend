@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2023 , 01:25:48",
+  "lastUpdate": "20-02-2023 , 02:40:01",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Tottenham – West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20West%20Ham",
-        "pubdate": "Sun, 19 Feb 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mac McClung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mac%20McClung",
         "pubdate": "Sun, 19 Feb 2023 12:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea",
-        "pubdate": "Sun, 19 Feb 2023 11:00:00 +0200"
+        "title": "Tottenham – West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20West%20Ham",
+        "pubdate": "Sun, 19 Feb 2023 19:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Barcelona – Cádiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20C%C3%A1diz",
         "pubdate": "Sun, 19 Feb 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea",
+        "pubdate": "Sun, 19 Feb 2023 11:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Robin Hood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin%20Hood",
         "pubdate": "Sun, 19 Feb 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Selena%20Gomez",
-        "pubdate": "Sun, 19 Feb 2023 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Christian Atsu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Christian%20Atsu",
         "pubdate": "Sat, 18 Feb 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle United – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20Liverpool",
+        "pubdate": "Sat, 18 Feb 2023 19:00:00 +0200"
       }
     ]
   ]

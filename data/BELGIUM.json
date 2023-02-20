@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-02-2023 , 01:25:46",
+  "lastUpdate": "20-02-2023 , 02:40:00",
   "data": [
-    [
-      {
-        "title": "RTV Oost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTV%20Oost",
-        "pubdate": "Mon, 20 Feb 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Paris-sg – Lille",
@@ -27,6 +20,13 @@
         "title": "Kortrijk  Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk%20%20Anderlecht",
         "pubdate": "Sun, 19 Feb 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aalst carnaval 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aalst%20carnaval%202023",
+        "pubdate": "Sun, 19 Feb 2023 11:00:00 +0100"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "KAA Gent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
         "pubdate": "Sun, 19 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carnaval Aalst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carnaval%20Aalst",
-        "pubdate": "Sun, 19 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lens – Nantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Nantes",
         "pubdate": "Sun, 19 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
+        "pubdate": "Sun, 19 Feb 2023 08:00:00 +0100"
       }
     ]
   ]
