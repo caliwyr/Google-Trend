@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2023 , 23:56:12",
+  "lastUpdate": "21-02-2023 , 01:17:16",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Son Heung-min",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Son%20Heung-min",
+        "pubdate": "Mon, 20 Feb 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Cagayan Valley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cagayan%20Valley",
         "pubdate": "Mon, 20 Feb 2023 13:00:00 +0800"
@@ -48,13 +55,6 @@
         "title": "Richard Belzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Richard%20Belzer",
         "pubdate": "Mon, 20 Feb 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Son Heung-min",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Son%20Heung-min",
-        "pubdate": "Mon, 20 Feb 2023 18:00:00 +0800"
       }
     ],
     [
@@ -94,22 +94,15 @@
     ],
     [
       {
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Olivia%20Rodrigo",
+        "pubdate": "Mon, 20 Feb 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Rebel Wilson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Rebel%20Wilson",
-        "pubdate": "Mon, 20 Feb 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dolly de Leon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dolly%20de%20Leon",
-        "pubdate": "Mon, 20 Feb 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Firearm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Firearm",
         "pubdate": "Mon, 20 Feb 2023 13:00:00 +0800"
       }
     ],
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Surigao del Norte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Surigao%20del%20Norte",
-        "pubdate": "Mon, 20 Feb 2023 12:00:00 +0800"
+        "title": "Dolly de Leon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dolly%20de%20Leon",
+        "pubdate": "Mon, 20 Feb 2023 15:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Barcelona vs Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Barcelona%20vs%20C%C3%A1diz",
-        "pubdate": "Mon, 20 Feb 2023 10:00:00 +0800"
+        "title": "Firearm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Firearm",
+        "pubdate": "Mon, 20 Feb 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Surigao del Norte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Surigao%20del%20Norte",
+        "pubdate": "Mon, 20 Feb 2023 12:00:00 +0800"
       }
     ]
   ]
