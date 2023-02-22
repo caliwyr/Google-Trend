@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2023 , 01:39:26",
+  "lastUpdate": "22-02-2023 , 02:40:22",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Guns N' Roses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guns%20N'%20Roses",
         "pubdate": "Tue, 21 Feb 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Napoli",
+        "pubdate": "Tue, 21 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Iggy Azalea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iggy%20Azalea",
         "pubdate": "Mon, 20 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atomic Heart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Atomic%20Heart",
-        "pubdate": "Mon, 20 Feb 2023 12:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2023 , 01:39:25",
+  "lastUpdate": "22-02-2023 , 02:40:21",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Mardi Gras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mardi%20Gras",
-        "pubdate": "Tue, 21 Feb 2023 04:00:00 +0100"
+        "title": "Tom Boonen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Boonen",
+        "pubdate": "Tue, 21 Feb 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tom Boonen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Boonen",
-        "pubdate": "Tue, 21 Feb 2023 09:00:00 +0100"
+        "title": "Mardi Gras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mardi%20Gras",
+        "pubdate": "Tue, 21 Feb 2023 04:00:00 +0100"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Poutine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Poutine",
+        "pubdate": "Tue, 21 Feb 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bella Ramsey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bella%20Ramsey",
         "pubdate": "Tue, 21 Feb 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Président",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pr%C3%A9sident",
+        "pubdate": "Tue, 21 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Charlie Hebdo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charlie%20Hebdo",
         "pubdate": "Tue, 21 Feb 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Guinness",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guinness",
-        "pubdate": "Tue, 21 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Mon, 20 Feb 2023 10:00:00 +0100"
       }
     ]
   ]
