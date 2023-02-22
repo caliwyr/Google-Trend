@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2023 , 23:58:14",
+  "lastUpdate": "22-02-2023 , 01:39:31",
   "data": [
     [
       {
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "TVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
-        "pubdate": "Tue, 21 Feb 2023 18:00:00 +0100"
+        "title": "Goldie Hawn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Goldie%20Hawn",
+        "pubdate": "Tue, 21 Feb 2023 14:00:00 +0100"
       }
     ],
     [
@@ -96,6 +96,13 @@
       {
         "title": "Aryna Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Aryna%20Sabalenka",
+        "pubdate": "Tue, 21 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "303. Bitwa o Anglię",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#303.%20Bitwa%20o%20Angli%C4%99",
         "pubdate": "Tue, 21 Feb 2023 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joe%20Biden",
         "pubdate": "Mon, 20 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Putin",
-        "pubdate": "Mon, 20 Feb 2023 21:00:00 +0100"
       }
     ]
   ]
