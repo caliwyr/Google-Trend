@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-02-2023 , 01:14:57",
+  "lastUpdate": "26-02-2023 , 02:41:40",
   "data": [
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Nassr",
+        "pubdate": "Sun, 26 Feb 2023 09:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Mason Greenwood",
@@ -132,13 +139,6 @@
         "title": "We Have a Ghost",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#We%20Have%20a%20Ghost",
         "pubdate": "Fri, 24 Feb 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Sons of the Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sons%20of%20the%20Forest",
-        "pubdate": "Fri, 24 Feb 2023 12:00:00 +0800"
       }
     ]
   ]
