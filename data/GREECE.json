@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-02-2023 , 19:55:23",
+  "lastUpdate": "28-02-2023 , 20:14:32",
   "data": [
+    [
+      {
+        "title": "Σταση εργασιασ μετρο",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%84%CE%B1%CF%83%CE%B7%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CE%B1%CF%83%20%CE%BC%CE%B5%CF%84%CF%81%CE%BF",
+        "pubdate": "Tue, 28 Feb 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Piraeus",
@@ -13,13 +20,6 @@
         "title": "Απόκριεσ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%80%CF%8C%CE%BA%CF%81%CE%B9%CE%B5%CF%83",
         "pubdate": "Tue, 28 Feb 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Σταση εργασιασ μετρο",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%84%CE%B1%CF%83%CE%B7%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CE%B1%CF%83%20%CE%BC%CE%B5%CF%84%CF%81%CE%BF",
-        "pubdate": "Tue, 28 Feb 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "ΑΣΕΠ ΕΞΕΤΑΣΤΙΚΑ ΚΕΝΤΡΑ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%A3%CE%95%CE%A0%20%CE%95%CE%9E%CE%95%CE%A4%CE%91%CE%A3%CE%A4%CE%99%CE%9A%CE%91%20%CE%9A%CE%95%CE%9D%CE%A4%CE%A1%CE%91",
-        "pubdate": "Tue, 28 Feb 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Μαρια μπεη",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B1%CF%81%CE%B9%CE%B1%20%CE%BC%CF%80%CE%B5%CE%B7",
         "pubdate": "Tue, 28 Feb 2023 00:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Courteney Cox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Courteney%20Cox",
-        "pubdate": "Tue, 28 Feb 2023 18:00:00 +0200"
+        "title": "Γενικό Επιτελείο Εθνικής Άμυνας",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%95%CF%80%CE%B9%CF%84%CE%B5%CE%BB%CE%B5%CE%AF%CE%BF%20%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CE%AE%CF%82%20%CE%86%CE%BC%CF%85%CE%BD%CE%B1%CF%82",
+        "pubdate": "Tue, 28 Feb 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Γενικό Επιτελείο Εθνικής Άμυνας",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%95%CF%80%CE%B9%CF%84%CE%B5%CE%BB%CE%B5%CE%AF%CE%BF%20%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CE%AE%CF%82%20%CE%86%CE%BC%CF%85%CE%BD%CE%B1%CF%82",
+        "title": "Ιβάν Σαββίδης",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%99%CE%B2%CE%AC%CE%BD%20%CE%A3%CE%B1%CE%B2%CE%B2%CE%AF%CE%B4%CE%B7%CF%82",
         "pubdate": "Tue, 28 Feb 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Δημήτρης Αλεξάνδρου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%20%CE%91%CE%BB%CE%B5%CE%BE%CE%AC%CE%BD%CE%B4%CF%81%CE%BF%CF%85",
+        "pubdate": "Tue, 28 Feb 2023 10:00:00 +0200"
       }
     ]
   ]

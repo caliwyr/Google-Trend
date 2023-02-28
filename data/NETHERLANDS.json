@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2023 , 19:55:25",
+  "lastUpdate": "28-02-2023 , 20:14:35",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "STAP-budget",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#STAP-budget",
         "pubdate": "Mon, 27 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Venus Jupiter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Venus%20Jupiter",
-        "pubdate": "Mon, 27 Feb 2023 20:00:00 +0100"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Ten Hag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ten%20Hag",
-        "pubdate": "Sun, 26 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sat, 25 Feb 2023 13:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Fri, 24 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
+        "pubdate": "Thu, 23 Feb 2023 14:00:00 +0100"
       }
     ]
   ]

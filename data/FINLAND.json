@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2023 , 19:55:22",
+  "lastUpdate": "28-02-2023 , 20:14:31",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Aurora borealis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aurora%20borealis",
+        "pubdate": "Mon, 27 Feb 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Suicide Squad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Suicide%20Squad",
         "pubdate": "Mon, 27 Feb 2023 22:00:00 +0200"
@@ -54,13 +61,6 @@
       {
         "title": "Moldova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moldova",
-        "pubdate": "Mon, 27 Feb 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aurora borealis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aurora%20borealis",
         "pubdate": "Mon, 27 Feb 2023 10:00:00 +0200"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Aurora forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aurora%20forecast",
-        "pubdate": "Mon, 27 Feb 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Madonna",
         "pubdate": "Mon, 27 Feb 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Loris Karius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loris%20Karius",
         "pubdate": "Mon, 27 Feb 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
+        "pubdate": "Mon, 27 Feb 2023 14:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2023 , 19:55:22",
+  "lastUpdate": "28-02-2023 , 20:14:32",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Rentner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rentner",
-        "pubdate": "Mon, 27 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
         "pubdate": "Mon, 27 Feb 2023 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Picasso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Picasso",
         "pubdate": "Mon, 27 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pokemon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pokemon",
+        "pubdate": "Mon, 27 Feb 2023 20:00:00 +0100"
       }
     ]
   ]
