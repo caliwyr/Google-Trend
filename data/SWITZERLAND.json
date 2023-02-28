@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "27-02-2023 , 23:51:11",
+  "lastUpdate": "28-02-2023 , 00:28:27",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Mon, 27 Feb 2023 15:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Basler Fasnacht 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Basler%20Fasnacht%202023",
         "pubdate": "Mon, 27 Feb 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Basler Fasnacht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Basler%20Fasnacht",
+        "pubdate": "Mon, 27 Feb 2023 07:00:00 +0100"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Dune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dune",
+        "pubdate": "Mon, 27 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Timo Meier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Timo%20Meier",
         "pubdate": "Mon, 27 Feb 2023 00:00:00 +0100"
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dune",
-        "pubdate": "Mon, 27 Feb 2023 21:00:00 +0100"
+        "title": "Paris Saint-Germain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris%20Saint-Germain",
+        "pubdate": "Mon, 27 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tyson%20Fury",
+        "pubdate": "Mon, 27 Feb 2023 00:00:00 +0100"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "François Hadji-Lazaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fran%C3%A7ois%20Hadji-Lazaro",
-        "pubdate": "Mon, 27 Feb 2023 09:00:00 +0100"
+        "title": "Steven Seagal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steven%20Seagal",
+        "pubdate": "Mon, 27 Feb 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Steven Seagal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steven%20Seagal",
-        "pubdate": "Mon, 27 Feb 2023 20:00:00 +0100"
+        "title": "François Hadji-Lazaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fran%C3%A7ois%20Hadji-Lazaro",
+        "pubdate": "Mon, 27 Feb 2023 09:00:00 +0100"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Chicago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chicago",
+        "pubdate": "Mon, 27 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dilbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dilbert",
         "pubdate": "Mon, 27 Feb 2023 13:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
         "pubdate": "Mon, 27 Feb 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SAG Awards 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SAG%20Awards%202023",
-        "pubdate": "Mon, 27 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cher",
-        "pubdate": "Mon, 27 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Steen Olsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steen%20Olsen",
-        "pubdate": "Mon, 27 Feb 2023 18:00:00 +0100"
       }
     ]
   ]
