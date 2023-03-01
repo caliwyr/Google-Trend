@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2023 , 03:57:33",
+  "lastUpdate": "01-03-2023 , 04:22:05",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Nordlys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordlys",
+        "pubdate": "Mon, 27 Feb 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Mon, 27 Feb 2023 15:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Machete",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Machete",
         "pubdate": "Mon, 27 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Storm Reid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Storm%20Reid",
-        "pubdate": "Mon, 27 Feb 2023 19:00:00 +0100"
       }
     ]
   ]

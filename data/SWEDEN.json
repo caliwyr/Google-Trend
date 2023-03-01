@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2023 , 03:57:36",
+  "lastUpdate": "01-03-2023 , 04:22:07",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Sophie Elise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophie%20Elise",
+        "pubdate": "Mon, 27 Feb 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "IFK Luleå",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Lule%C3%A5",
         "pubdate": "Mon, 27 Feb 2023 20:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Gais mot IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais%20mot%20IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 26 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Badou Jack",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Badou%20Jack",
-        "pubdate": "Sun, 26 Feb 2023 21:00:00 +0100"
       }
     ]
   ]
