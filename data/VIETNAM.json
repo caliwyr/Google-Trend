@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-03-2023 , 22:57:13",
+  "lastUpdate": "02-03-2023 , 23:17:49",
   "data": [
-    [
-      {
-        "title": "Real",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real",
-        "pubdate": "Fri, 03 Mar 2023 00:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Võ Nguyên Giáp",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Thứ hạng của Ngoại hạng Anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%A9%20h%E1%BA%A1ng%20c%E1%BB%A7a%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "title": "Bảng xếp hạng Ngoại Hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20Ngo%E1%BA%A1i%20H%E1%BA%A1ng%20Anh",
         "pubdate": "Thu, 02 Mar 2023 07:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Bảng xếp hạng Ngoại Hạng Anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20Ngo%E1%BA%A1i%20H%E1%BA%A1ng%20Anh",
-        "pubdate": "Thu, 02 Mar 2023 07:00:00 +0700"
+        "title": "Ngoại hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Thu, 02 Mar 2023 10:00:00 +0700"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Xăng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%C4%83ng",
-        "pubdate": "Thu, 02 Mar 2023 07:00:00 +0700"
+        "title": "Ket qua bong da anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20bong%20da%20anh",
+        "pubdate": "Thu, 02 Mar 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Just Fontaine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Just%20Fontaine",
+        "pubdate": "Thu, 02 Mar 2023 13:00:00 +0700"
       }
     ]
   ]

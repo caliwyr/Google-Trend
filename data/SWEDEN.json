@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-03-2023 , 22:57:11",
+  "lastUpdate": "02-03-2023 , 23:17:47",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Thu, 02 Mar 2023 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Thu, 02 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "First Aid Kit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#First%20Aid%20Kit",
         "pubdate": "Wed, 01 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Åland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%85land",
-        "pubdate": "Wed, 01 Mar 2023 21:00:00 +0100"
       }
     ]
   ]

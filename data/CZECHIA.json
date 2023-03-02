@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2023 , 22:57:05",
+  "lastUpdate": "02-03-2023 , 23:17:39",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Copa%20del%20Rey",
+        "pubdate": "Thu, 02 Mar 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
         "pubdate": "Thu, 02 Mar 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sports",
+        "pubdate": "Thu, 02 Mar 2023 22:00:00 +0100"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Liam Hemsworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liam%20Hemsworth",
         "pubdate": "Thu, 02 Mar 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sports",
-        "pubdate": "Thu, 02 Mar 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Banger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Banger",
         "pubdate": "Wed, 01 Mar 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tenerife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tenerife",
-        "pubdate": "Wed, 01 Mar 2023 23:00:00 +0100"
       }
     ]
   ]
