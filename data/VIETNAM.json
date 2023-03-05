@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-03-2023 , 01:40:52",
+  "lastUpdate": "05-03-2023 , 02:52:49",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Stuttgart – Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Stuttgart%20%E2%80%93%20Bayern",
         "pubdate": "Sat, 04 Mar 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool – Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%E2%80%93%20Man%20utd",
-        "pubdate": "Sat, 04 Mar 2023 23:00:00 +0700"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Phạm Nhật Vượng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng",
-        "pubdate": "Sat, 04 Mar 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Almería – Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Almer%C3%ADa%20%E2%80%93%20Villarreal",
         "pubdate": "Sat, 04 Mar 2023 21:00:00 +0700"
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Trợ cấp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%E1%BB%A3%20c%E1%BA%A5p",
+        "pubdate": "Sat, 04 Mar 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Vụ bé trai 17 tháng tuổi tử vong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%E1%BB%A5%20b%C3%A9%20trai%2017%20th%C3%A1ng%20tu%E1%BB%95i%20t%E1%BB%AD%20vong",
         "pubdate": "Sat, 04 Mar 2023 18:00:00 +0700"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Lịch bóng đá U20 Việt Nam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20b%C3%B3ng%20%C4%91%C3%A1%20U20%20Vi%E1%BB%87t%20Nam",
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brighton",
         "pubdate": "Sat, 04 Mar 2023 23:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brighton",
-        "pubdate": "Sat, 04 Mar 2023 23:00:00 +0700"
+        "title": "Đừng làm mẹ cáu tập cuối",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%ABng%20l%C3%A0m%20m%E1%BA%B9%20c%C3%A1u%20t%E1%BA%ADp%20cu%E1%BB%91i",
+        "pubdate": "Sat, 04 Mar 2023 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Wellington – Newcastle Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Wellington%20%E2%80%93%20Newcastle%20Jets",
+        "pubdate": "Sat, 04 Mar 2023 10:00:00 +0700"
       }
     ]
   ]

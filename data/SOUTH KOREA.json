@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-03-2023 , 01:40:50",
+  "lastUpdate": "05-03-2023 , 02:52:48",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "블랙핑크",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC",
+        "pubdate": "Sun, 05 Mar 2023 01:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "정명석",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%95%EB%AA%85%EC%84%9D",
         "pubdate": "Sat, 04 Mar 2023 00:00:00 +0900"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Bing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#Bing",
-        "pubdate": "Sat, 04 Mar 2023 10:00:00 +0900"
+        "title": "로또1057",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901057",
+        "pubdate": "Sat, 04 Mar 2023 23:00:00 +0900"
       }
     ],
     [
       {
-        "title": "로또1057",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901057",
-        "pubdate": "Sat, 04 Mar 2023 23:00:00 +0900"
+        "title": "Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#Bing",
+        "pubdate": "Sat, 04 Mar 2023 10:00:00 +0900"
       }
     ],
     [
@@ -73,22 +80,15 @@
     ],
     [
       {
-        "title": "황교안",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EA%B5%90%EC%95%88",
-        "pubdate": "Sat, 04 Mar 2023 12:00:00 +0900"
+        "title": "브레이브걸스",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%EA%B1%B8%EC%8A%A4",
+        "pubdate": "Sat, 04 Mar 2023 14:00:00 +0900"
       }
     ],
     [
       {
         "title": "청바지",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%AD%EB%B0%94%EC%A7%80",
-        "pubdate": "Sat, 04 Mar 2023 14:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "브레이브걸스",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%EA%B1%B8%EC%8A%A4",
         "pubdate": "Sat, 04 Mar 2023 14:00:00 +0900"
       }
     ],
@@ -104,13 +104,6 @@
         "title": "대구광역시",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C",
         "pubdate": "Sat, 04 Mar 2023 12:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "김민선",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%AF%BC%EC%84%A0",
-        "pubdate": "Sat, 04 Mar 2023 14:00:00 +0900"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "박지원",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%A7%80%EC%9B%90",
         "pubdate": "Fri, 03 Mar 2023 08:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "황영웅 하차",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EC%98%81%EC%9B%85%20%ED%95%98%EC%B0%A8",
+        "pubdate": "Fri, 03 Mar 2023 13:00:00 +0900"
       }
     ]
   ]
