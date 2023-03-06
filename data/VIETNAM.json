@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "05-03-2023 , 23:51:36",
+  "lastUpdate": "06-03-2023 , 00:32:26",
   "data": [
     [
       {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
-        "pubdate": "Mon, 06 Mar 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
         "pubdate": "Mon, 06 Mar 2023 00:00:00 +0700"
       }
     ],
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Roma – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Roma%20%E2%80%93%20Juventus",
+        "pubdate": "Sun, 05 Mar 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Betis – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Betis%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Sun, 05 Mar 2023 12:00:00 +0700"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Roma – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Roma%20%E2%80%93%20Juventus",
-        "pubdate": "Sun, 05 Mar 2023 15:00:00 +0700"
+        "title": "Inter – Lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20%E2%80%93%20Lecce",
+        "pubdate": "Sun, 05 Mar 2023 14:00:00 +0700"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Quỳnh Châu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BB%B3nh%20Ch%C3%A2u",
         "pubdate": "Sun, 05 Mar 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Brentford – Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brentford%20%E2%80%93%20Fulham",
+        "pubdate": "Sun, 05 Mar 2023 05:00:00 +0700"
       }
     ],
     [
@@ -125,13 +132,6 @@
         "title": "Phil Foden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Phil%20Foden",
         "pubdate": "Sun, 05 Mar 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Xổ số miền nam ngày 5 tháng 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20nam%20ng%C3%A0y%205%20th%C3%A1ng%203",
-        "pubdate": "Sun, 05 Mar 2023 20:00:00 +0700"
       }
     ],
     [
