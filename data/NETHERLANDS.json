@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2023 , 00:32:21",
+  "lastUpdate": "06-03-2023 , 02:12:12",
   "data": [
     [
       {
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Les Miserables",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Les%20Miserables",
+        "title": "Les miserables",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Les%20miserables",
         "pubdate": "Sun, 05 Mar 2023 23:00:00 +0100"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Leclerc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leclerc",
         "pubdate": "Sun, 05 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jan Kooijman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20Kooijman",
-        "pubdate": "Sun, 05 Mar 2023 19:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "UFC 285",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20285",
-        "pubdate": "Sat, 04 Mar 2023 10:00:00 +0100"
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Bol",
+        "pubdate": "Sat, 04 Mar 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jake Gyllenhaal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Gyllenhaal",
+        "pubdate": "Sat, 04 Mar 2023 22:00:00 +0100"
       }
     ]
   ]
