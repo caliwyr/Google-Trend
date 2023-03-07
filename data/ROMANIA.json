@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 00:30:26",
+  "lastUpdate": "07-03-2023 , 02:17:05",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bruce%20Willis",
         "pubdate": "Mon, 06 Mar 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
+        "pubdate": "Mon, 06 Mar 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "CFR Călători",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20C%C4%83l%C4%83tori",
-        "pubdate": "Mon, 06 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Salah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Salah",
         "pubdate": "Mon, 06 Mar 2023 08:00:00 +0200"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "UTA Arad vs FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20vs%20FCSB",
-        "pubdate": "Sun, 05 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
         "pubdate": "Sun, 05 Mar 2023 20:00:00 +0200"
@@ -132,6 +125,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
         "pubdate": "Sun, 05 Mar 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Sun, 05 Mar 2023 21:00:00 +0200"
       }
     ],
     [
