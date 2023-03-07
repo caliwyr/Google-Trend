@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 23:49:39",
+  "lastUpdate": "07-03-2023 , 23:58:55",
   "data": [
     [
       {
@@ -10,23 +10,16 @@
     ],
     [
       {
-        "title": "Avril Lavigne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avril%20Lavigne",
-        "pubdate": "Tue, 07 Mar 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
-        "pubdate": "Tue, 07 Mar 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Benfica vs Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benfica%20vs%20Club%20Brugge",
         "pubdate": "Tue, 07 Mar 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Avril Lavigne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avril%20Lavigne",
+        "pubdate": "Tue, 07 Mar 2023 15:00:00 +0800"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
-        "pubdate": "Mon, 06 Mar 2023 04:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "International Women's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#International%20Women's%20Day",
         "pubdate": "Mon, 06 Mar 2023 15:00:00 +0800"
@@ -90,6 +76,13 @@
         "title": "Chelsea vs Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea%20vs%20Dortmund",
         "pubdate": "Mon, 06 Mar 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
+        "pubdate": "Mon, 06 Mar 2023 04:00:00 +0800"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Star Awards 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Awards%202023",
-        "pubdate": "Mon, 06 Mar 2023 14:00:00 +0800"
+        "title": "Holi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Holi",
+        "pubdate": "Mon, 06 Mar 2023 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Holi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Holi",
-        "pubdate": "Mon, 06 Mar 2023 19:00:00 +0800"
+        "title": "Star Awards 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Awards%202023",
+        "pubdate": "Mon, 06 Mar 2023 14:00:00 +0800"
       }
     ],
     [
@@ -129,15 +122,22 @@
     ],
     [
       {
-        "title": "VietJet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#VietJet",
-        "pubdate": "Mon, 06 Mar 2023 21:00:00 +0800"
+        "title": "Liverpool vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Man%20United",
+        "pubdate": "Sun, 05 Mar 2023 01:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Liverpool vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Man%20United",
+        "title": "Bahrain gp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bahrain%20gp",
+        "pubdate": "Sun, 05 Mar 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "UFC 285",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC%20285",
         "pubdate": "Sun, 05 Mar 2023 01:00:00 +0800"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 23:49:27",
+  "lastUpdate": "07-03-2023 , 23:58:45",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Tom Brady",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Brady",
-        "pubdate": "Tue, 07 Mar 2023 04:00:00 -0800"
+        "title": "Daniel Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
+        "pubdate": "Tue, 07 Mar 2023 06:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Daniel Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
-        "pubdate": "Tue, 07 Mar 2023 06:00:00 -0800"
+        "title": "Tom Brady",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Brady",
+        "pubdate": "Tue, 07 Mar 2023 04:00:00 -0800"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico",
         "pubdate": "Tue, 07 Mar 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Endometriosis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Endometriosis",
-        "pubdate": "Tue, 07 Mar 2023 13:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Willis",
         "pubdate": "Mon, 06 Mar 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Avril Lavigne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Avril%20Lavigne",
+        "pubdate": "Mon, 06 Mar 2023 18:00:00 -0800"
       }
     ]
   ]
