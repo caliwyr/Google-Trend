@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 15:51:55",
+  "lastUpdate": "07-03-2023 , 16:08:00",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Nezaměstnanost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nezam%C4%9Bstnanost",
+        "pubdate": "Tue, 07 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brentford – Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brentford%20%E2%80%93%20Fulham",
         "pubdate": "Tue, 07 Mar 2023 07:00:00 +0100"
@@ -48,13 +55,6 @@
         "title": "Emma Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Stone",
         "pubdate": "Tue, 07 Mar 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ivana hlouzkova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20hlouzkova",
-        "pubdate": "Mon, 06 Mar 2023 16:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Herečka Ivana Hloužková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Here%C4%8Dka%20Ivana%20Hlou%C5%BEkov%C3%A1",
+        "pubdate": "Mon, 06 Mar 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nela Slováková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nela%20Slov%C3%A1kov%C3%A1",
         "pubdate": "Mon, 06 Mar 2023 17:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Rodičovský příspěvek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rodi%C4%8Dovsk%C3%BD%20p%C5%99%C3%ADsp%C4%9Bvek",
         "pubdate": "Mon, 06 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Křetínský",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#K%C5%99et%C3%ADnsk%C3%BD",
-        "pubdate": "Mon, 06 Mar 2023 21:00:00 +0100"
       }
     ]
   ]

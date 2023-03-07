@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-03-2023 , 15:51:57",
+  "lastUpdate": "07-03-2023 , 16:08:01",
   "data": [
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
-        "pubdate": "Tue, 07 Mar 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Avril Lavigne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Avril%20Lavigne",
         "pubdate": "Tue, 07 Mar 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
+        "pubdate": "Tue, 07 Mar 2023 02:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Leni Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leni%20Klum",
         "pubdate": "Tue, 07 Mar 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frauentag 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauentag%202023",
+        "pubdate": "Tue, 07 Mar 2023 15:00:00 +0100"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Gary Rossington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gary%20Rossington",
-        "pubdate": "Mon, 06 Mar 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Julian Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Nagelsmann",
-        "pubdate": "Mon, 06 Mar 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Peggy March",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peggy%20March",
         "pubdate": "Mon, 06 Mar 2023 00:00:00 +0100"
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Bachmut Ukraine-Krieg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bachmut%20Ukraine-Krieg",
-        "pubdate": "Mon, 06 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Frauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauentag",
         "pubdate": "Mon, 06 Mar 2023 10:00:00 +0100"
@@ -111,6 +97,13 @@
         "title": "Weltfrauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weltfrauentag",
         "pubdate": "Mon, 06 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gary Rossington Lynyrd Skynyrd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gary%20Rossington%20Lynyrd%20Skynyrd",
+        "pubdate": "Mon, 06 Mar 2023 20:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sun, 05 Mar 2023 20:00:00 +0100"
+        "title": "Ob Wahl Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ob%20Wahl%20Frankfurt",
+        "pubdate": "Sun, 05 Mar 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ob Wahl Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ob%20Wahl%20Frankfurt",
-        "pubdate": "Sun, 05 Mar 2023 18:00:00 +0100"
+        "title": "PFAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PFAS",
+        "pubdate": "Sun, 05 Mar 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Münster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnster",
+        "pubdate": "Sun, 05 Mar 2023 22:00:00 +0100"
       }
     ]
   ]

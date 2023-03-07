@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 15:51:53",
+  "lastUpdate": "07-03-2023 , 16:07:58",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Interest rate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rate",
+        "pubdate": "Tue, 07 Mar 2023 15:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "The Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Finals",
         "pubdate": "Tue, 07 Mar 2023 19:00:00 +1100"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Kari Lake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kari%20Lake",
-        "pubdate": "Tue, 07 Mar 2023 18:00:00 +1100"
+        "title": "Figma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Figma",
+        "pubdate": "Tue, 07 Mar 2023 23:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Moon phase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moon%20phase",
         "pubdate": "Mon, 06 Mar 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 +1100"
       }
     ]
   ]
