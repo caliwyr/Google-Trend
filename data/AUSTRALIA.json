@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 12:49:56",
+  "lastUpdate": "07-03-2023 , 13:15:55",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Vietnam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vietnam",
-        "pubdate": "Tue, 07 Mar 2023 14:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Renee Gracie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renee%20Gracie",
         "pubdate": "Tue, 07 Mar 2023 19:00:00 +1100"
@@ -52,8 +45,29 @@
     ],
     [
       {
+        "title": "Vietnam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vietnam",
+        "pubdate": "Tue, 07 Mar 2023 14:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea vs Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Dortmund",
+        "pubdate": "Tue, 07 Mar 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Champions%20League",
+        "pubdate": "Tue, 07 Mar 2023 23:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "The Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Finals",
         "pubdate": "Tue, 07 Mar 2023 19:00:00 +1100"
       }
     ],
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "The Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Finals",
-        "pubdate": "Tue, 07 Mar 2023 19:00:00 +1100"
+        "title": "Purim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Purim",
+        "pubdate": "Tue, 07 Mar 2023 13:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Purim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Purim",
-        "pubdate": "Tue, 07 Mar 2023 13:00:00 +1100"
+        "title": "Kari Lake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kari%20Lake",
+        "pubdate": "Tue, 07 Mar 2023 18:00:00 +1100"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Women's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20Day",
+        "pubdate": "Tue, 07 Mar 2023 23:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "RBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
         "pubdate": "Mon, 06 Mar 2023 17:00:00 +1100"
@@ -118,27 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Mon, 06 Mar 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Moon phase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moon%20phase",
-        "pubdate": "Mon, 06 Mar 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Gary Rossington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gary%20Rossington",
-        "pubdate": "Mon, 06 Mar 2023 20:00:00 +1100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 12:50:05",
+  "lastUpdate": "07-03-2023 , 13:16:04",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Avril Lavigne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Avril%20Lavigne",
+        "pubdate": "Tue, 07 Mar 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Benfica vs Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benfica%20vs%20Club%20Brugge",
         "pubdate": "Tue, 07 Mar 2023 12:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Avril Lavigne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Avril%20Lavigne",
-        "pubdate": "Tue, 07 Mar 2023 12:00:00 +0100"
+        "title": "Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bank",
+        "pubdate": "Tue, 07 Mar 2023 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lakers vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lakers%20vs%20Warriors",
         "pubdate": "Mon, 06 Mar 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vary",
-        "pubdate": "Mon, 06 Mar 2023 18:00:00 +0100"
       }
     ]
   ]
