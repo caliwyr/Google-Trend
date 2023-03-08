@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-03-2023 , 23:50:09",
+  "lastUpdate": "08-03-2023 , 23:59:25",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Région de Bruxelles-Capitale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#R%C3%A9gion%20de%20Bruxelles-Capitale",
+        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Scream 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Scream%206",
         "pubdate": "Wed, 08 Mar 2023 14:00:00 +0100"
@@ -83,13 +90,6 @@
         "title": "Brussels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brussels",
         "pubdate": "Wed, 08 Mar 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Région de Bruxelles-Capitale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#R%C3%A9gion%20de%20Bruxelles-Capitale",
-        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Doctor-sleep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Doctor-sleep",
-        "pubdate": "Wed, 08 Mar 2023 21:00:00 +0100"
+        "title": "Musiala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Musiala",
+        "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
       }
     ]
   ]

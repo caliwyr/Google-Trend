@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-03-2023 , 23:50:13",
+  "lastUpdate": "08-03-2023 , 23:59:28",
   "data": [
-    [
-      {
-        "title": "Nőnapi köszöntő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91napi%20k%C3%B6sz%C3%B6nt%C5%91",
-        "pubdate": "Wed, 08 Mar 2023 11:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Schadl György",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schadl%20Gy%C3%B6rgy",
         "pubdate": "Wed, 08 Mar 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tottenham",
+        "pubdate": "Wed, 08 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Pihenőidő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pihen%C5%91id%C5%91",
-        "pubdate": "Wed, 08 Mar 2023 07:00:00 +0100"
+        "title": "Korda György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
+        "pubdate": "Wed, 08 Mar 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Korda György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
-        "pubdate": "Wed, 08 Mar 2023 16:00:00 +0100"
+        "title": "Pihenőidő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pihen%C5%91id%C5%91",
+        "pubdate": "Wed, 08 Mar 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen",
+        "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dér Heni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9r%20Heni",
         "pubdate": "Wed, 08 Mar 2023 23:00:00 +0100"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen",
+        "title": "Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anna",
         "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
       }
     ],
@@ -69,13 +76,6 @@
         "title": "Pau Gasol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pau%20Gasol",
         "pubdate": "Wed, 08 Mar 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anna",
-        "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "Időutazás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Id%C5%91utaz%C3%A1s",
-        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Munch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Munch",
         "pubdate": "Wed, 08 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica FC Bruges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica%20FC%20Bruges",
-        "pubdate": "Wed, 08 Mar 2023 07:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Benfica FC Bruges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica%20FC%20Bruges",
+        "pubdate": "Wed, 08 Mar 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Körtvélyessy Kinga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6rtv%C3%A9lyessy%20Kinga",
         "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Új Szó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Aj%20Sz%C3%B3",
+        "pubdate": "Wed, 08 Mar 2023 15:00:00 +0100"
       }
     ]
   ]
