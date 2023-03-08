@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-03-2023 , 23:58:58",
+  "lastUpdate": "08-03-2023 , 01:52:06",
   "data": [
+    [
+      {
+        "title": "The beach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20beach",
+        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Chelsea vs Dortmund",
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Talia Mar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Talia%20Mar",
-        "pubdate": "Tue, 07 Mar 2023 16:00:00 +0000"
+        "title": "Eddie Izzard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Eddie%20Izzard",
+        "pubdate": "Tue, 07 Mar 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Eddie Izzard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Eddie%20Izzard",
-        "pubdate": "Tue, 07 Mar 2023 18:00:00 +0000"
+        "title": "Talia Mar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Talia%20Mar",
+        "pubdate": "Tue, 07 Mar 2023 16:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Azores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Azores",
         "pubdate": "Tue, 07 Mar 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "David Attenborough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Attenborough",
-        "pubdate": "Tue, 07 Mar 2023 11:00:00 +0000"
       }
     ]
   ]

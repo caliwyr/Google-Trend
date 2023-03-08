@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 23:58:46",
+  "lastUpdate": "08-03-2023 , 01:51:50",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Tue, 07 Mar 2023 17:00:00 -0500"
+        "title": "Criciúma x Catarinense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Catarinense",
+        "pubdate": "Tue, 07 Mar 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Tue, 07 Mar 2023 14:00:00 -0500"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Big Brother Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Big%20Brother%20Brasil",
         "pubdate": "Tue, 07 Mar 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Criciúma x Catarinense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Catarinense",
-        "pubdate": "Tue, 07 Mar 2023 13:00:00 -0500"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
-        "pubdate": "Tue, 07 Mar 2023 14:00:00 -0500"
+        "title": "CSA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
+        "pubdate": "Tue, 07 Mar 2023 17:00:00 -0500"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "CSA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
-        "pubdate": "Tue, 07 Mar 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Leo Stronda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leo%20Stronda",
         "pubdate": "Tue, 07 Mar 2023 10:00:00 -0500"
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Maria Bonita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maria%20Bonita",
-        "pubdate": "Tue, 07 Mar 2023 09:00:00 -0500"
+        "title": "Aranha-armadeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aranha-armadeira",
+        "pubdate": "Tue, 07 Mar 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Aranha-armadeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aranha-armadeira",
-        "pubdate": "Tue, 07 Mar 2023 13:00:00 -0500"
+        "title": "Maria Bonita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maria%20Bonita",
+        "pubdate": "Tue, 07 Mar 2023 09:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fórmula 1!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#F%C3%B3rmula%201!",
         "pubdate": "Tue, 07 Mar 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Tue, 07 Mar 2023 19:00:00 -0500"
       }
     ]
   ]

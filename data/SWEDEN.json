@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 23:58:56",
+  "lastUpdate": "08-03-2023 , 01:52:03",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Chelsea Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea%20Dortmund",
-        "pubdate": "Tue, 07 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hammarby Fotboll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
         "pubdate": "Tue, 07 Mar 2023 20:00:00 +0100"
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "P4 Väst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P4%20V%C3%A4st",
-        "pubdate": "Tue, 07 Mar 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Humana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Humana",
         "pubdate": "Tue, 07 Mar 2023 18:00:00 +0100"
@@ -97,13 +83,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
         "pubdate": "Mon, 06 Mar 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Mon, 06 Mar 2023 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Vasaloppet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasaloppet",
         "pubdate": "Sun, 05 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Sun, 05 Mar 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nils van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nils%20van%20der%20Poel",
+        "pubdate": "Sun, 05 Mar 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+        "pubdate": "Sun, 05 Mar 2023 00:00:00 +0100"
       }
     ]
   ]

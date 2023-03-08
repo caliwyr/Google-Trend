@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "07-03-2023 , 23:58:56",
+  "lastUpdate": "08-03-2023 , 01:52:04",
   "data": [
-    [
-      {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Fed",
-        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "歐冠",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AD%90%E5%86%A0",
         "pubdate": "Wed, 08 Mar 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Fed",
+        "pubdate": "Wed, 08 Mar 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "鮑爾",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AE%91%E7%88%BE",
+        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0800"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "東元",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%B1%E5%85%83",
-        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0800"
+        "title": "小松菜奈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88",
+        "pubdate": "Wed, 08 Mar 2023 01:00:00 +0800"
       }
     ],
     [
       {
-        "title": "美股新聞",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E8%82%A1%E6%96%B0%E8%81%9E",
-        "pubdate": "Wed, 08 Mar 2023 07:00:00 +0800"
+        "title": "東元",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%B1%E5%85%83",
+        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "大魯閣",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%A7%E9%AD%AF%E9%96%A3",
         "pubdate": "Mon, 06 Mar 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "台積電股價",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 +0800"
       }
     ]
   ]
