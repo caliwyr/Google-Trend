@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "08-03-2023 , 23:59:31",
+  "lastUpdate": "09-03-2023 , 01:55:07",
   "data": [
     [
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-        "pubdate": "Wed, 08 Mar 2023 21:00:00 +0100"
+        "pubdate": "Wed, 08 Mar 2023 20:00:00 +0100"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "8.mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#8.mars",
-        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rec Solar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rec%20Solar",
         "pubdate": "Wed, 08 Mar 2023 17:00:00 +0100"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Sonos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sonos",
-        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
+        "title": "Kyle Walker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Walker",
+        "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kyle Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Walker",
-        "pubdate": "Wed, 08 Mar 2023 22:00:00 +0100"
+        "title": "Sonos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sonos",
+        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Chelsea-Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea-Dortmund",
-        "pubdate": "Tue, 07 Mar 2023 22:00:00 +0100"
+        "title": "Holi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holi",
+        "pubdate": "Tue, 07 Mar 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Holi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holi",
-        "pubdate": "Tue, 07 Mar 2023 09:00:00 +0100"
+        "title": "The Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Finals",
+        "pubdate": "Tue, 07 Mar 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20Dortmund",
+        "pubdate": "Tue, 07 Mar 2023 23:00:00 +0100"
       }
     ]
   ]

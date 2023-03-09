@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-03-2023 , 23:59:29",
+  "lastUpdate": "09-03-2023 , 01:55:05",
   "data": [
+    [
+      {
+        "title": "Dog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dog",
+        "pubdate": "Thu, 09 Mar 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Tottenham vs Milan",
@@ -73,16 +80,9 @@
     ],
     [
       {
-        "title": "Mikey Johnston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mikey%20Johnston",
-        "pubdate": "Wed, 08 Mar 2023 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Ireland rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20rugby",
-        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0000"
+        "title": "Hibernian vs Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hibernian%20vs%20Rangers",
+        "pubdate": "Wed, 08 Mar 2023 21:00:00 +0000"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Mikey Johnston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mikey%20Johnston",
+        "pubdate": "Wed, 08 Mar 2023 13:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "MH370",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#MH370",
         "pubdate": "Wed, 08 Mar 2023 19:00:00 +0000"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Kane",
-        "pubdate": "Wed, 08 Mar 2023 13:00:00 +0000"
+        "title": "Ireland rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20rugby",
+        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0000"
       }
     ],
     [
@@ -115,16 +122,9 @@
     ],
     [
       {
-        "title": "Hibernian vs Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hibernian%20vs%20Rangers",
-        "pubdate": "Wed, 08 Mar 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Welfare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Welfare",
-        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0000"
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Kane",
+        "pubdate": "Wed, 08 Mar 2023 13:00:00 +0000"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Gene Hackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gene%20Hackman",
-        "pubdate": "Wed, 08 Mar 2023 15:00:00 +0000"
+        "title": "Welfare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Welfare",
+        "pubdate": "Wed, 08 Mar 2023 18:00:00 +0000"
       }
     ]
   ]

@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "08-03-2023 , 23:59:25",
+  "lastUpdate": "09-03-2023 , 01:55:00",
   "data": [
-    [
-      {
-        "title": "Gene Hackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gene%20Hackman",
-        "pubdate": "Thu, 09 Mar 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lionel%20Messi",
-        "pubdate": "Thu, 09 Mar 2023 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Cyclone Freddy",
@@ -45,16 +31,23 @@
     ],
     [
       {
-        "title": "Florence and the Machine Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florence%20and%20the%20Machine%20Melbourne",
-        "pubdate": "Thu, 09 Mar 2023 08:00:00 +1100"
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Celtic",
+        "pubdate": "Thu, 09 Mar 2023 10:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Celtic",
-        "pubdate": "Thu, 09 Mar 2023 10:00:00 +1100"
+        "title": "Glen Powell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Glen%20Powell",
+        "pubdate": "Thu, 09 Mar 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Florence and the Machine Melbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florence%20and%20the%20Machine%20Melbourne",
+        "pubdate": "Thu, 09 Mar 2023 08:00:00 +1100"
       }
     ],
     [
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Holi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Holi",
-        "pubdate": "Wed, 08 Mar 2023 14:00:00 +1100"
+        "title": "MH370",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MH370",
+        "pubdate": "Wed, 08 Mar 2023 21:00:00 +1100"
       }
     ],
     [
       {
-        "title": "MH370",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MH370",
-        "pubdate": "Wed, 08 Mar 2023 21:00:00 +1100"
+        "title": "Holi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Holi",
+        "pubdate": "Wed, 08 Mar 2023 14:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Sweeney",
         "pubdate": "Wed, 08 Mar 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Pau Gasol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pau%20Gasol",
+        "pubdate": "Wed, 08 Mar 2023 17:00:00 +1100"
       }
     ]
   ]
