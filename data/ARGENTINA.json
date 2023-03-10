@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-03-2023 , 00:56:48",
+  "lastUpdate": "10-03-2023 , 02:33:12",
   "data": [
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Europa%20League",
+        "title": "Manchester United vs Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United%20vs%20Betis",
         "pubdate": "Thu, 09 Mar 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Juventus vs Friburgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus%20vs%20Friburgo",
-        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0300"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus",
+        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bruce%20Willis",
         "pubdate": "Thu, 09 Mar 2023 08:00:00 -0300"
@@ -45,30 +45,9 @@
     ],
     [
       {
-        "title": "Hacha Ludueña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hacha%20Ludue%C3%B1a",
-        "pubdate": "Thu, 09 Mar 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Club Atlético River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20Atl%C3%A9tico%20River%20Plate",
-        "pubdate": "Thu, 09 Mar 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla vs Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20vs%20Fenerbah%C3%A7e",
+        "title": "Huracán vs Sporting Cristal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hurac%C3%A1n%20vs%20Sporting%20Cristal",
         "pubdate": "Thu, 09 Mar 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Indian Wells",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Indian%20Wells",
-        "pubdate": "Thu, 09 Mar 2023 00:00:00 -0300"
       }
     ],
     [
@@ -80,16 +59,37 @@
     ],
     [
       {
-        "title": "Imagine Dragons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Imagine%20Dragons",
-        "pubdate": "Thu, 09 Mar 2023 19:00:00 -0300"
+        "title": "Hacha Ludueña",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hacha%20Ludue%C3%B1a",
+        "pubdate": "Thu, 09 Mar 2023 10:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Asignación Universal por Hijo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Asignaci%C3%B3n%20Universal%20por%20Hijo",
-        "pubdate": "Thu, 09 Mar 2023 09:00:00 -0300"
+        "title": "Sevilla vs Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20vs%20Fenerbah%C3%A7e",
+        "pubdate": "Thu, 09 Mar 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Club Atlético River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20Atl%C3%A9tico%20River%20Plate",
+        "pubdate": "Thu, 09 Mar 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Indian Wells",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Indian%20Wells",
+        "pubdate": "Thu, 09 Mar 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Imagine Dragons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Imagine%20Dragons",
+        "pubdate": "Thu, 09 Mar 2023 19:00:00 -0300"
       }
     ],
     [
@@ -101,9 +101,16 @@
     ],
     [
       {
-        "title": "Leverkusen vs Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leverkusen%20vs%20Ferencv%C3%A1ros",
-        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0300"
+        "title": "Asignación Universal por Hijo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Asignaci%C3%B3n%20Universal%20por%20Hijo",
+        "pubdate": "Thu, 09 Mar 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Diego Schwartzman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Diego%20Schwartzman",
+        "pubdate": "Thu, 09 Mar 2023 22:00:00 -0300"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Leverkusen vs Ferencváros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leverkusen%20vs%20Ferencv%C3%A1ros",
+        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barracas Central vs Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20vs%20Independiente",
+        "pubdate": "Thu, 09 Mar 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Kendall Jenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kendall%20Jenner",
         "pubdate": "Thu, 09 Mar 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bruno Zapelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bruno%20Zapelli",
-        "pubdate": "Thu, 09 Mar 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Christophe Galtier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Christophe%20Galtier",
-        "pubdate": "Thu, 09 Mar 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Huracán vs Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hurac%C3%A1n%20vs%20Sporting%20Cristal",
-        "pubdate": "Thu, 09 Mar 2023 18:00:00 -0300"
       }
     ]
   ]
