@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-03-2023 , 01:26:13",
+  "lastUpdate": "12-03-2023 , 02:36:23",
   "data": [
     [
       {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund",
         "pubdate": "Sun, 12 Mar 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brendan Fraser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brendan%20Fraser",
+        "pubdate": "Sun, 12 Mar 2023 02:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Shazam!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shazam!",
         "pubdate": "Sat, 11 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Soldeu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Soldeu",
-        "pubdate": "Sat, 11 Mar 2023 10:00:00 +0100"
       }
     ]
   ]

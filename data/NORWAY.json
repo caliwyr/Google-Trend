@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2023 , 01:26:18",
+  "lastUpdate": "12-03-2023 , 02:36:34",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Crystal%20Palace",
-        "pubdate": "Sat, 11 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dag Erik Oksvold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Erik%20Oksvold",
         "pubdate": "Sat, 11 Mar 2023 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Holmenkollen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holmenkollen",
         "pubdate": "Fri, 10 Mar 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Blake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Robert%20Blake",
+        "pubdate": "Fri, 10 Mar 2023 07:00:00 +0100"
       }
     ]
   ]
