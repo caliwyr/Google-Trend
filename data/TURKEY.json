@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-03-2023 , 23:57:09",
+  "lastUpdate": "12-03-2023 , 01:26:21",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "AZ Alkmaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AZ%20Alkmaar",
         "pubdate": "Sun, 12 Mar 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Dries Mertens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dries%20Mertens",
+        "pubdate": "Sun, 12 Mar 2023 03:00:00 +0300"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "6284 SAYILI KANUN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#6284%20SAYILI%20KANUN",
-        "pubdate": "Sat, 11 Mar 2023 14:00:00 +0300"
+        "title": "Adana deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20deprem",
+        "pubdate": "Sat, 11 Mar 2023 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Adana deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20deprem",
-        "pubdate": "Sat, 11 Mar 2023 23:00:00 +0300"
+        "title": "6284 SAYILI KANUN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#6284%20SAYILI%20KANUN",
+        "pubdate": "Sat, 11 Mar 2023 14:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schalke  Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Schalke%20%20Borussia%20Dortmund",
         "pubdate": "Sat, 11 Mar 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Şanlıurfaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor",
-        "pubdate": "Sat, 11 Mar 2023 15:00:00 +0300"
       }
     ]
   ]

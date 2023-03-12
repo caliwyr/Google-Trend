@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-03-2023 , 23:57:08",
+  "lastUpdate": "12-03-2023 , 01:26:20",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "로또1058회",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901058%ED%9A%8C",
         "pubdate": "Sat, 11 Mar 2023 23:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "소녀시대",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80",
+        "pubdate": "Sat, 11 Mar 2023 16:00:00 +0900"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "야구",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%BC%EA%B5%AC",
+        "title": "야구 한일전",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%BC%EA%B5%AC%20%ED%95%9C%EC%9D%BC%EC%A0%84",
         "pubdate": "Fri, 10 Mar 2023 09:00:00 +0900"
       }
     ],
@@ -110,13 +117,6 @@
       {
         "title": "이정후",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A0%95%ED%9B%84",
-        "pubdate": "Fri, 10 Mar 2023 22:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "더글로리 결말",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8D%94%EA%B8%80%EB%A1%9C%EB%A6%AC%20%EA%B2%B0%EB%A7%90",
         "pubdate": "Fri, 10 Mar 2023 22:00:00 +0900"
       }
     ],
