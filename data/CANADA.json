@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-03-2023 , 23:57:23",
+  "lastUpdate": "14-03-2023 , 01:13:08",
   "data": [
+    [
+      {
+        "title": "Amqui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amqui",
+        "pubdate": "Mon, 13 Mar 2023 17:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Pedro Pascal",
@@ -17,8 +24,22 @@
     ],
     [
       {
-        "title": "Drake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drake",
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20price",
+        "pubdate": "Mon, 13 Mar 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "The Banshees of Inisherin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Banshees%20of%20Inisherin",
+        "pubdate": "Mon, 13 Mar 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Drake tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drake%20tour",
         "pubdate": "Mon, 13 Mar 2023 15:00:00 -0400"
       }
     ],
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Amqui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amqui",
-        "pubdate": "Mon, 13 Mar 2023 17:00:00 -0400"
+        "title": "Hunter Schafer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hunter%20Schafer",
+        "pubdate": "Mon, 13 Mar 2023 13:00:00 -0400"
       }
     ],
     [
@@ -45,23 +66,16 @@
     ],
     [
       {
-        "title": "Hunter Schafer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hunter%20Schafer",
-        "pubdate": "Mon, 13 Mar 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin",
-        "pubdate": "Mon, 13 Mar 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Parks Canada reservations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Parks%20Canada%20reservations",
         "pubdate": "Mon, 13 Mar 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Milan vs Salernitana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Milan%20vs%20Salernitana",
+        "pubdate": "Mon, 13 Mar 2023 17:00:00 -0400"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Gold price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gold%20price",
-        "pubdate": "Mon, 13 Mar 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "HSBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#HSBC",
         "pubdate": "Mon, 13 Mar 2023 10:00:00 -0400"
@@ -94,9 +101,23 @@
     ],
     [
       {
-        "title": "Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
-        "pubdate": "Mon, 13 Mar 2023 11:00:00 -0400"
+        "title": "Gold price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gold%20price",
+        "pubdate": "Mon, 13 Mar 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Genevieve Guilbault",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Genevieve%20Guilbault",
+        "pubdate": "Mon, 13 Mar 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sabres vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sabres%20vs%20Maple%20Leafs",
+        "pubdate": "Mon, 13 Mar 2023 20:00:00 -0400"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Pedro Pascal movies and TV shows",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pedro%20Pascal%20movies%20and%20TV%20shows",
-        "pubdate": "Mon, 13 Mar 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Commonwealth Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Commonwealth%20Day",
         "pubdate": "Mon, 13 Mar 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Kaia Gerber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kaia%20Gerber",
-        "pubdate": "Mon, 13 Mar 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Academy Award for best supporting actress",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Academy%20Award%20for%20best%20supporting%20actress",
-        "pubdate": "Mon, 13 Mar 2023 01:00:00 -0400"
       }
     ]
   ]
