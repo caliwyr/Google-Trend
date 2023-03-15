@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-03-2023 , 23:55:32",
+  "lastUpdate": "15-03-2023 , 01:07:09",
   "data": [
+    [
+      {
+        "title": "GroenLinks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GroenLinks",
+        "pubdate": "Wed, 15 Mar 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "StemWijzer",
@@ -27,13 +34,6 @@
         "title": "Marco Borsato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marco%20Borsato",
         "pubdate": "Tue, 14 Mar 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Water Natuurlijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Water%20Natuurlijk",
-        "pubdate": "Tue, 14 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Jong Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
-        "pubdate": "Tue, 14 Mar 2023 20:00:00 +0100"
+        "title": "NLZiet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NLZiet",
+        "pubdate": "Tue, 14 Mar 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "NLZiet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NLZiet",
-        "pubdate": "Tue, 14 Mar 2023 14:00:00 +0100"
+        "title": "Chantal Janzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chantal%20Janzen",
+        "pubdate": "Tue, 14 Mar 2023 23:00:00 +0100"
       }
     ],
     [
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Mark Rutte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "title": "Vandaag Inside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vandaag%20Inside",
         "pubdate": "Mon, 13 Mar 2023 07:00:00 +0100"
       }
     ],
@@ -103,21 +103,7 @@
       {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Mon, 13 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hotels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hotels",
-        "pubdate": "Mon, 13 Mar 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roxeanne Hazes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roxeanne%20Hazes",
-        "pubdate": "Mon, 13 Mar 2023 10:00:00 +0100"
+        "pubdate": "Mon, 13 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jesse Klaver",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jesse%20Klaver",
         "pubdate": "Mon, 13 Mar 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "WIND",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WIND",
+        "pubdate": "Mon, 13 Mar 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Everything Everywhere All at Once",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Everything%20Everywhere%20All%20at%20Once",
+        "pubdate": "Sun, 12 Mar 2023 23:00:00 +0100"
       }
     ]
   ]

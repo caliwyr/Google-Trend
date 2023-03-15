@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-03-2023 , 23:55:25",
+  "lastUpdate": "15-03-2023 , 01:07:04",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "NAPLAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NAPLAN",
+        "pubdate": "Wed, 15 Mar 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Ted Lasso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ted%20Lasso",
         "pubdate": "Wed, 15 Mar 2023 09:00:00 +1100"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Real Madrid vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Liverpool",
+        "title": "Bangladesh vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bangladesh%20vs%20England",
         "pubdate": "Wed, 15 Mar 2023 01:00:00 +1100"
       }
     ],
@@ -52,9 +59,44 @@
     ],
     [
       {
+        "title": "Real Madrid vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Liverpool",
+        "pubdate": "Wed, 15 Mar 2023 01:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Credit Suisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Credit%20Suisse",
         "pubdate": "Wed, 15 Mar 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "GPT-4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GPT-4",
+        "pubdate": "Wed, 15 Mar 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Ides of March",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ides%20of%20March",
+        "pubdate": "Wed, 15 Mar 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "El Nino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#El%20Nino",
+        "pubdate": "Wed, 15 Mar 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Splendour in the Grass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Splendour%20in%20the%20Grass",
+        "pubdate": "Wed, 15 Mar 2023 11:00:00 +1100"
       }
     ],
     [
@@ -97,48 +139,6 @@
         "title": "Pi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pi",
         "pubdate": "Tue, 14 Mar 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Suns",
-        "pubdate": "Tue, 14 Mar 2023 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Morgan Freeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Morgan%20Freeman",
-        "pubdate": "Tue, 14 Mar 2023 06:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin",
-        "pubdate": "Tue, 14 Mar 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Vivid Sydney 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vivid%20Sydney%202023",
-        "pubdate": "Tue, 14 Mar 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Western Power",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Western%20Power",
-        "pubdate": "Tue, 14 Mar 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Gun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gun",
-        "pubdate": "Tue, 14 Mar 2023 11:00:00 +1100"
       }
     ]
   ]

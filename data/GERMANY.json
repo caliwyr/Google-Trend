@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "14-03-2023 , 23:55:28",
+  "lastUpdate": "15-03-2023 , 01:07:06",
   "data": [
+    [
+      {
+        "title": "Lindsay Lohan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindsay%20Lohan",
+        "pubdate": "Wed, 15 Mar 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Dax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
         "pubdate": "Tue, 14 Mar 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "3. Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
+        "pubdate": "Tue, 14 Mar 2023 20:00:00 +0100"
       }
     ],
     [
@@ -19,13 +33,6 @@
       {
         "title": "Denise Herrmann-Wick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Denise%20Herrmann-Wick",
-        "pubdate": "Tue, 14 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "VfL Osnabrück",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
         "pubdate": "Tue, 14 Mar 2023 20:00:00 +0100"
       }
     ],
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Kaufhof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kaufhof",
+        "pubdate": "Mon, 13 Mar 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dow Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dow%20Jones",
         "pubdate": "Mon, 13 Mar 2023 13:00:00 +0100"
@@ -66,15 +80,8 @@
     ],
     [
       {
-        "title": "Hugh Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hugh%20Grant",
-        "pubdate": "Mon, 13 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ZDF heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF%20heute",
+        "title": "ZDFheute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDFheute",
         "pubdate": "Mon, 13 Mar 2023 17:00:00 +0100"
       }
     ],
@@ -83,6 +90,13 @@
         "title": "Börse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%B6rse",
         "pubdate": "Mon, 13 Mar 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hugh Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hugh%20Grant",
+        "pubdate": "Mon, 13 Mar 2023 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Brendan Fraser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brendan%20Fraser",
         "pubdate": "Sat, 11 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sat, 11 Mar 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20Dortmund",
-        "pubdate": "Sat, 11 Mar 2023 23:00:00 +0100"
       }
     ]
   ]
