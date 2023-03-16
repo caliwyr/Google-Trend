@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-03-2023 , 01:08:48",
+  "lastUpdate": "16-03-2023 , 02:19:11",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Lindsay Lohan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindsay%20Lohan",
         "pubdate": "Wed, 15 Mar 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Wendler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Wendler",
-        "pubdate": "Wed, 15 Mar 2023 07:00:00 +0100"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Ralf Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralf%20Schumacher",
-        "pubdate": "Wed, 15 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Wed, 15 Mar 2023 07:00:00 +0100"
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Freudenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freudenberg",
-        "pubdate": "Tue, 14 Mar 2023 22:00:00 +0100"
+        "title": "Michael Wendler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Wendler",
+        "pubdate": "Tue, 14 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "ZDF heute",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF%20heute",
         "pubdate": "Mon, 13 Mar 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oscars 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscars%202023",
+        "pubdate": "Sun, 12 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Polizei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei",
+        "pubdate": "Sun, 12 Mar 2023 11:00:00 +0100"
       }
     ]
   ]
