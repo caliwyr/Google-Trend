@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-03-2023 , 01:11:44",
+  "lastUpdate": "20-03-2023 , 02:27:01",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
-        "pubdate": "Mon, 20 Mar 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Leverkusen gegen Bayern",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Polizeiruf heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizeiruf%20heute",
-        "pubdate": "Sun, 19 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eintracht Braunschweig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
         "pubdate": "Sun, 19 Mar 2023 13:00:00 +0100"
@@ -66,16 +52,16 @@
     ],
     [
       {
-        "title": "Terence Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Terence%20Hill",
-        "pubdate": "Sun, 19 Mar 2023 09:00:00 +0100"
+        "title": "Polizeiruf 110",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizeiruf%20110",
+        "pubdate": "Sun, 19 Mar 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mariupol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mariupol",
-        "pubdate": "Sun, 19 Mar 2023 13:00:00 +0100"
+        "title": "Terence Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Terence%20Hill",
+        "pubdate": "Sun, 19 Mar 2023 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Sat, 18 Mar 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "1. FC Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20FC%20K%C3%B6ln",
+        "pubdate": "Sat, 18 Mar 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin%20news",
+        "pubdate": "Sat, 18 Mar 2023 11:00:00 +0100"
       }
     ]
   ]
