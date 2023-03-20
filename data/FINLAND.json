@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-03-2023 , 23:55:47",
+  "lastUpdate": "20-03-2023 , 01:11:43",
   "data": [
+    [
+      {
+        "title": "Mariupol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariupol",
+        "pubdate": "Mon, 20 Mar 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Minna Canth",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Credit Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Credit%20Suisse",
-        "pubdate": "Sun, 19 Mar 2023 21:00:00 +0200"
+        "title": "PSG – Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Rennes",
+        "pubdate": "Sun, 19 Mar 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSG – Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Rennes",
-        "pubdate": "Sun, 19 Mar 2023 18:00:00 +0200"
+        "title": "Credit Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Credit%20Suisse",
+        "pubdate": "Sun, 19 Mar 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Al-Nassr – Abha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Al-Nassr%20%E2%80%93%20Abha",
         "pubdate": "Sat, 18 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Southampton – Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Southampton%20%E2%80%93%20Tottenham",
-        "pubdate": "Sat, 18 Mar 2023 18:00:00 +0200"
       }
     ]
   ]
