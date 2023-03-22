@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "22-03-2023 , 00:31:57",
+  "lastUpdate": "22-03-2023 , 01:52:09",
   "data": [
-    [
-      {
-        "title": "Waloryzacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Waloryzacja",
-        "pubdate": "Tue, 21 Mar 2023 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Amanda Bynes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amanda%20Bynes",
         "pubdate": "Tue, 21 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Waloryzacja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Waloryzacja",
+        "pubdate": "Tue, 21 Mar 2023 10:00:00 +0100"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Sonia Bohosiewicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sonia%20Bohosiewicz",
-        "pubdate": "Tue, 21 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Su-35",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Su-35",
         "pubdate": "Tue, 21 Mar 2023 17:00:00 +0100"
@@ -59,23 +52,16 @@
     ],
     [
       {
+        "title": "Sonia Bohosiewicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sonia%20Bohosiewicz",
+        "pubdate": "Tue, 21 Mar 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Agencja Restrukturyzacji i Modernizacji Rolnictwa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agencja%20Restrukturyzacji%20i%20Modernizacji%20Rolnictwa",
         "pubdate": "Tue, 21 Mar 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Generał Nil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Genera%C5%82%20Nil",
-        "pubdate": "Tue, 21 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Karta nauczyciela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Karta%20nauczyciela",
-        "pubdate": "Tue, 21 Mar 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,13 +94,6 @@
     ],
     [
       {
-        "title": "Finlandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Finlandia",
-        "pubdate": "Tue, 21 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "CD Projekt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CD%20Projekt",
         "pubdate": "Tue, 21 Mar 2023 16:00:00 +0100"
@@ -129,16 +108,37 @@
     ],
     [
       {
-        "title": "Chorzów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chorz%C3%B3w",
-        "pubdate": "Tue, 21 Mar 2023 09:00:00 +0100"
+        "title": "Rafał Brzozowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafa%C5%82%20Brzozowski",
+        "pubdate": "Tue, 21 Mar 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rafał Brzozowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafa%C5%82%20Brzozowski",
-        "pubdate": "Tue, 21 Mar 2023 20:00:00 +0100"
+        "title": "Puchatek: Krew i miód",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchatek:%20Krew%20i%20mi%C3%B3d",
+        "pubdate": "Tue, 21 Mar 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gary Oldman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gary%20Oldman",
+        "pubdate": "Tue, 21 Mar 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dawid Kubacki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dawid%20Kubacki",
+        "pubdate": "Mon, 20 Mar 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bruce%20Willis",
+        "pubdate": "Mon, 20 Mar 2023 13:00:00 +0100"
       }
     ]
   ]

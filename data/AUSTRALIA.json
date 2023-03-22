@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-03-2023 , 00:31:50",
+  "lastUpdate": "22-03-2023 , 01:52:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Emma Chamberlain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emma%20Chamberlain",
-        "pubdate": "Wed, 22 Mar 2023 06:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Gwyneth Paltrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gwyneth%20Paltrow",
         "pubdate": "Wed, 22 Mar 2023 10:00:00 +1100"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Emma Chamberlain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emma%20Chamberlain",
+        "pubdate": "Wed, 22 Mar 2023 06:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Earthquake",
         "pubdate": "Wed, 22 Mar 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Twice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Twice",
+        "pubdate": "Wed, 22 Mar 2023 11:00:00 +1100"
       }
     ],
     [
@@ -55,6 +62,20 @@
         "title": "Roy Hodgson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roy%20Hodgson",
         "pubdate": "Wed, 22 Mar 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hamilton",
+        "pubdate": "Wed, 22 Mar 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lizzo",
+        "pubdate": "Wed, 22 Mar 2023 11:00:00 +1100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Equinox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Equinox",
         "pubdate": "Tue, 21 Mar 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blake%20Lively",
-        "pubdate": "Tue, 21 Mar 2023 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Samoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Samoa",
-        "pubdate": "Tue, 21 Mar 2023 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "2023 Saudi Arabian Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#2023%20Saudi%20Arabian%20Grand%20Prix",
-        "pubdate": "Tue, 21 Mar 2023 14:00:00 +1100"
       }
     ]
   ]
