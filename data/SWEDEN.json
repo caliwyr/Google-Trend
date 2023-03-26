@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2023 , 00:50:38",
+  "lastUpdate": "26-03-2023 , 02:05:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Tilda Swinton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tilda%20Swinton",
         "pubdate": "Sat, 25 Mar 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Charlotte Kalla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlotte%20Kalla",
+        "pubdate": "Sat, 25 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Reese Witherspoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reese%20Witherspoon",
-        "pubdate": "Fri, 24 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zlatan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
-        "pubdate": "Fri, 24 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Färjestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
         "pubdate": "Fri, 24 Mar 2023 10:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Kulusevski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kulusevski",
-        "pubdate": "Fri, 24 Mar 2023 21:00:00 +0100"
+        "title": "Sverige fotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20fotboll",
+        "pubdate": "Fri, 24 Mar 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Reese Witherspoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reese%20Witherspoon",
+        "pubdate": "Fri, 24 Mar 2023 22:00:00 +0100"
       }
     ]
   ]

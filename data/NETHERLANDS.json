@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-03-2023 , 00:50:35",
+  "lastUpdate": "26-03-2023 , 02:05:01",
   "data": [
+    [
+      {
+        "title": "Daniel Radcliffe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Daniel%20Radcliffe",
+        "pubdate": "Sun, 26 Mar 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Zomertijd",
@@ -20,6 +27,13 @@
         "title": "Reese Witherspoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Reese%20Witherspoon",
         "pubdate": "Sat, 25 Mar 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Theo Maassen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Theo%20Maassen",
+        "pubdate": "Sat, 25 Mar 2023 12:00:00 +0100"
       }
     ],
     [
@@ -73,6 +87,20 @@
     ],
     [
       {
+        "title": "Ronald Koeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronald%20Koeman",
+        "pubdate": "Fri, 24 Mar 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dirk de Wachter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dirk%20de%20Wachter",
+        "pubdate": "Fri, 24 Mar 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "RTV Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Utrecht",
         "pubdate": "Fri, 24 Mar 2023 18:00:00 +0100"
@@ -101,44 +129,16 @@
     ],
     [
       {
-        "title": "Wijnaldum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wijnaldum",
+        "title": "Frankrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frankrijk",
         "pubdate": "Fri, 24 Mar 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Naaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Naaz",
-        "pubdate": "Fri, 24 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cillessen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cillessen",
-        "pubdate": "Fri, 24 Mar 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Frankrijk - Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frankrijk%20-%20Nederland",
-        "pubdate": "Thu, 23 Mar 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Acda en De Munnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acda%20en%20De%20Munnik",
-        "pubdate": "Thu, 23 Mar 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Candida auris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Candida%20auris",
-        "pubdate": "Wed, 22 Mar 2023 10:00:00 +0100"
+        "title": "Wijnaldum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wijnaldum",
+        "pubdate": "Fri, 24 Mar 2023 21:00:00 +0100"
       }
     ]
   ]
