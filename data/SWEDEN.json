@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-03-2023 , 23:54:28",
+  "lastUpdate": "29-03-2023 , 01:01:06",
   "data": [
-    [
-      {
-        "title": "Frölunda Färjestad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20F%C3%A4rjestad",
-        "pubdate": "Tue, 28 Mar 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bojan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bojan",
         "pubdate": "Tue, 28 Mar 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frölunda Färjestad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20F%C3%A4rjestad",
+        "pubdate": "Tue, 28 Mar 2023 11:00:00 +0200"
       }
     ],
     [
@@ -61,6 +61,13 @@
       {
         "title": "Jesper Karlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jesper%20Karlsson",
+        "pubdate": "Mon, 27 Mar 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gy%C3%B6keres",
         "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
       }
     ],
@@ -69,13 +76,6 @@
         "title": "Sverige FOTBOLL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20FOTBOLL",
         "pubdate": "Mon, 27 Mar 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gyökeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gy%C3%B6keres",
-        "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Fredrik Ljungberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Ljungberg",
+        "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UL",
         "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
@@ -104,13 +111,6 @@
         "title": "Amanda Bynes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amanda%20Bynes",
         "pubdate": "Mon, 27 Mar 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ebba Andersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Andersson",
-        "pubdate": "Mon, 27 Mar 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Friends Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Friends%20Arena",
-        "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
+        "title": "Svea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svea",
+        "pubdate": "Mon, 27 Mar 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Svea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svea",
-        "pubdate": "Mon, 27 Mar 2023 11:00:00 +0200"
+        "title": "Nashville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nashville",
+        "pubdate": "Mon, 27 Mar 2023 23:00:00 +0200"
       }
     ]
   ]
