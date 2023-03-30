@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2023 , 20:45:44",
+  "lastUpdate": "30-03-2023 , 20:55:05",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Argentina vs Curaçao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina%20vs%20Cura%C3%A7ao",
+        "title": "Argentina vs curaçao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina%20vs%20cura%C3%A7ao",
         "pubdate": "Wed, 29 Mar 2023 01:00:00 +0100"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Payday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Payday",
-        "pubdate": "Wed, 29 Mar 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tinubu birthday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tinubu%20birthday",
         "pubdate": "Wed, 29 Mar 2023 23:00:00 +0100"
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "Payday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Payday",
+        "pubdate": "Wed, 29 Mar 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arsene Wenger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsene%20Wenger",
         "pubdate": "Wed, 29 Mar 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Canada vs Honduras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Canada%20vs%20Honduras",
+        "pubdate": "Wed, 29 Mar 2023 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Germany vs Belgium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Germany%20vs%20Belgium",
         "pubdate": "Tue, 28 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Morocco vs Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Morocco%20vs%20Peru",
-        "pubdate": "Tue, 28 Mar 2023 21:00:00 +0100"
       }
     ]
   ]
