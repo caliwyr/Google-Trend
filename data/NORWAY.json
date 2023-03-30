@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2023 , 21:48:30",
+  "lastUpdate": "30-03-2023 , 21:57:49",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Odd Nerdrum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20Nerdrum",
+        "pubdate": "Thu, 30 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Woke",
         "pubdate": "Wed, 29 Mar 2023 19:00:00 +0200"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#EM",
-        "pubdate": "Wed, 29 Mar 2023 00:00:00 +0200"
+        "title": "Sval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sval",
+        "pubdate": "Wed, 29 Mar 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kirkens Nødhjelp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kirkens%20N%C3%B8dhjelp",
         "pubdate": "Tue, 28 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonas Gahr Støre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Gahr%20St%C3%B8re",
-        "pubdate": "Tue, 28 Mar 2023 21:00:00 +0200"
       }
     ]
   ]
