@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "30-03-2023 , 12:45:44",
+  "lastUpdate": "30-03-2023 , 13:09:13",
   "data": [
     [
       {
         "title": "Will Tura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Will%20Tura",
+        "pubdate": "Thu, 30 Mar 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jutta Leerdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jutta%20Leerdam",
         "pubdate": "Thu, 30 Mar 2023 08:00:00 +0200"
       }
     ],
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Asteroid%20City",
-        "pubdate": "Thu, 30 Mar 2023 03:00:00 +0200"
+        "title": "Alexandra Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexandra%20Grant",
+        "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Visma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Visma",
+        "pubdate": "Thu, 30 Mar 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Johan Museeuw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johan%20Museeuw",
-        "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
+        "title": "Asteroid City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Asteroid%20City",
+        "pubdate": "Thu, 30 Mar 2023 03:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alexandra Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexandra%20Grant",
-        "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
+        "title": "Johan Museeuw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johan%20Museeuw",
+        "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
       }
     ],
     [
@@ -75,7 +89,7 @@
       {
         "title": "L'équipe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%A9quipe",
-        "pubdate": "Wed, 29 Mar 2023 10:00:00 +0200"
+        "pubdate": "Wed, 29 Mar 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sport",
-        "pubdate": "Wed, 29 Mar 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coely",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coely",
-        "pubdate": "Wed, 29 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "L'Equipe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'Equipe",
-        "pubdate": "Wed, 29 Mar 2023 09:00:00 +0200"
+        "title": "Chatbot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chatbot",
+        "pubdate": "Wed, 29 Mar 2023 01:00:00 +0200"
       }
     ]
   ]
