@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2023 , 10:48:27",
+  "lastUpdate": "30-03-2023 , 10:57:42",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Alexander Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Alexander%20Hamilton",
+        "pubdate": "Wed, 29 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Namibia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Namibia",
         "pubdate": "Wed, 29 Mar 2023 06:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Celine Dion news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celine%20Dion%20news",
         "pubdate": "Tue, 28 Mar 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
-        "pubdate": "Tue, 28 Mar 2023 22:00:00 +0200"
       }
     ]
   ]
