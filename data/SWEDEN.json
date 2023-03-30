@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "30-03-2023 , 15:43:52",
+  "lastUpdate": "30-03-2023 , 15:53:16",
   "data": [
+    [
+      {
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Färjestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
         "pubdate": "Thu, 30 Mar 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Dahlberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Dahlberg",
+        "pubdate": "Thu, 30 Mar 2023 15:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Luleå Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lule%C3%A5%20Hockey",
-        "pubdate": "Wed, 29 Mar 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Klimatpolitiska rådet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klimatpolitiska%20r%C3%A5det",
         "pubdate": "Wed, 29 Mar 2023 12:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Frölunda Färjestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20F%C3%A4rjestad",
         "pubdate": "Tue, 28 Mar 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Succession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Succession",
-        "pubdate": "Tue, 28 Mar 2023 00:00:00 +0200"
       }
     ]
   ]
