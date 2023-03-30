@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-03-2023 , 07:49:01",
+  "lastUpdate": "30-03-2023 , 07:58:17",
   "data": [
+    [
+      {
+        "title": "Projota",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Projota",
+        "pubdate": "Thu, 30 Mar 2023 02:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Cruzeiro",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "REMO X PAYSANDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#REMO%20X%20PAYSANDU",
+        "pubdate": "Wed, 29 Mar 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
         "pubdate": "Wed, 29 Mar 2023 15:00:00 -0500"
@@ -27,13 +41,6 @@
         "title": "Bragantino x Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino%20x%20Cruzeiro",
         "pubdate": "Wed, 29 Mar 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
-        "pubdate": "Wed, 29 Mar 2023 14:00:00 -0500"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Ana Maria Braga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ana%20Maria%20Braga",
         "pubdate": "Wed, 29 Mar 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Folha de pagamento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Folha%20de%20pagamento",
-        "pubdate": "Wed, 29 Mar 2023 15:00:00 -0500"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Bulls x Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bulls%20x%20Lakers",
-        "pubdate": "Wed, 29 Mar 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "OMS muda recomendação",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#OMS%20muda%20recomenda%C3%A7%C3%A3o",
         "pubdate": "Wed, 29 Mar 2023 17:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Amaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amaro",
         "pubdate": "Wed, 29 Mar 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Salvador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Salvador",
+        "pubdate": "Wed, 29 Mar 2023 07:00:00 -0500"
       }
     ]
   ]

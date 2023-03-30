@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-03-2023 , 07:49:06",
+  "lastUpdate": "30-03-2023 , 07:58:24",
   "data": [
     [
       {
         "title": "Jeremy Renner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jeremy%20Renner",
         "pubdate": "Thu, 30 Mar 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cláudio Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udio%20Ramos",
+        "pubdate": "Thu, 30 Mar 2023 08:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Rui Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Costa",
-        "pubdate": "Wed, 29 Mar 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rafael leao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20leao",
         "pubdate": "Wed, 29 Mar 2023 19:00:00 +0100"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Notiçias ao Minuto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Noti%C3%A7ias%20ao%20Minuto",
-        "pubdate": "Wed, 29 Mar 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hoquei em patins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
         "pubdate": "Wed, 29 Mar 2023 20:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Asteroid City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Asteroid%20City",
+        "pubdate": "Wed, 29 Mar 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
         "pubdate": "Wed, 29 Mar 2023 19:00:00 +0100"
       }
     ]
