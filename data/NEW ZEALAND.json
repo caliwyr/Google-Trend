@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-03-2023 , 13:42:36",
+  "lastUpdate": "30-03-2023 , 13:52:14",
   "data": [
     [
       {
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Keanu%20Reeves",
         "pubdate": "Fri, 31 Mar 2023 00:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Jason Ritter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jason%20Ritter",
+        "pubdate": "Fri, 31 Mar 2023 01:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Murray Tingey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Murray%20Tingey",
         "pubdate": "Tue, 28 Mar 2023 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Stratford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stratford",
-        "pubdate": "Tue, 28 Mar 2023 12:00:00 +1300"
       }
     ]
   ]

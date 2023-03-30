@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2023 , 13:42:39",
+  "lastUpdate": "30-03-2023 , 13:52:18",
   "data": [
     [
       {
@@ -17,15 +17,8 @@
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Tesla",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Toyota Crown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Toyota%20Crown",
+        "title": "TOYOTA CROWN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TOYOTA%20CROWN",
         "pubdate": "Thu, 30 Mar 2023 16:00:00 +0800"
       }
     ],
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "特斯拉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%89%B9%E6%96%AF%E6%8B%89",
-        "pubdate": "Thu, 30 Mar 2023 19:00:00 +0800"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Tesla",
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sony ZV-E1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Sony%20ZV-E1",
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0800"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Sony ZV-E1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Sony%20ZV-E1",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0800"
+        "title": "Model S",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Model%20S",
+        "pubdate": "Thu, 30 Mar 2023 13:00:00 +0800"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "秦嵐",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%A7%A6%E5%B5%90",
+        "pubdate": "Thu, 30 Mar 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "韓國瑜",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
         "pubdate": "Thu, 30 Mar 2023 17:00:00 +0800"
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "帕金森氏症",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B8%95%E9%87%91%E6%A3%AE%E6%B0%8F%E7%97%87",
-        "pubdate": "Thu, 30 Mar 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "啟碁",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%95%9F%E7%A2%81",
         "pubdate": "Thu, 30 Mar 2023 17:00:00 +0800"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "嘉賓",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%98%89%E8%B3%93",
-        "pubdate": "Thu, 30 Mar 2023 16:00:00 +0800"
+        "title": "帕金森氏症",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B8%95%E9%87%91%E6%A3%AE%E6%B0%8F%E7%97%87",
+        "pubdate": "Thu, 30 Mar 2023 02:00:00 +0800"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "陳庭妮",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E5%BA%AD%E5%A6%AE",
-        "pubdate": "Wed, 29 Mar 2023 13:00:00 +0800"
+        "title": "嘉賓",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%98%89%E8%B3%93",
+        "pubdate": "Thu, 30 Mar 2023 16:00:00 +0800"
       }
     ]
   ]
