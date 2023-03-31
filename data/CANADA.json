@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 17:47:13",
+  "lastUpdate": "31-03-2023 , 17:56:34",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Edmonton Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Oilers",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
         "pubdate": "Fri, 31 Mar 2023 06:00:00 -0400"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Kraft Hockeyville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraft%20Hockeyville",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 -0400"
+        "title": "Akwesasne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Akwesasne",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Akwesasne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Akwesasne",
-        "pubdate": "Fri, 31 Mar 2023 09:00:00 -0400"
+        "title": "Kraft Hockeyville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraft%20Hockeyville",
+        "pubdate": "Fri, 31 Mar 2023 10:00:00 -0400"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
-        "pubdate": "Fri, 31 Mar 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Megan Thee Stallion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Megan%20Thee%20Stallion",
         "pubdate": "Fri, 31 Mar 2023 06:00:00 -0400"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "John Leguizamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Leguizamo",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 -0400"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
+        "pubdate": "Fri, 31 Mar 2023 02:00:00 -0400"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "LFO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LFO",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "John Leguizamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Leguizamo",
+        "pubdate": "Fri, 31 Mar 2023 10:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Blue Jays",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays",
         "pubdate": "Thu, 30 Mar 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "MLB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLB",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 -0400"
       }
     ]
   ]
