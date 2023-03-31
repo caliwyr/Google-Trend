@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 11:43:55",
+  "lastUpdate": "31-03-2023 , 11:53:22",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "König Charles III Bundestag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6nig%20Charles%20III%20Bundestag",
-        "pubdate": "Thu, 30 Mar 2023 00:00:00 +0200"
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Berlin Volksentscheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin%20Volksentscheid",
-        "pubdate": "Sun, 26 Mar 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stefanie Heinzmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefanie%20Heinzmann",
         "pubdate": "Sun, 26 Mar 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "RBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RBB",
         "pubdate": "Sun, 26 Mar 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zeitumstellung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zeitumstellung",
+        "pubdate": "Sat, 25 Mar 2023 10:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 11:44:01",
+  "lastUpdate": "31-03-2023 , 11:53:28",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "CPTPP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPTPP",
+        "pubdate": "Fri, 31 Mar 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "MLB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MLB",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 +0800"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "CPTPP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPTPP",
-        "pubdate": "Fri, 31 Mar 2023 16:00:00 +0800"
+        "title": "Erling Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Erling%20Haaland",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Murder Mystery 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Murder%20Mystery%202",
+        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0800"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Viduthalai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Viduthalai",
+        "pubdate": "Thu, 30 Mar 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Candida auris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Candida%20auris",
         "pubdate": "Thu, 30 Mar 2023 04:00:00 +0800"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Viduthalai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Viduthalai",
-        "pubdate": "Thu, 30 Mar 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Bird Paradise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bird%20Paradise",
         "pubdate": "Thu, 30 Mar 2023 20:00:00 +0800"
@@ -124,20 +138,6 @@
       {
         "title": "Ram Navami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ram%20Navami",
-        "pubdate": "Thu, 30 Mar 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jho Low",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jho%20Low",
-        "pubdate": "Thu, 30 Mar 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lamborghini Revuelto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lamborghini%20Revuelto",
         "pubdate": "Thu, 30 Mar 2023 14:00:00 +0800"
       }
     ]
