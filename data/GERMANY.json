@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-03-2023 , 21:45:47",
+  "lastUpdate": "31-03-2023 , 21:55:06",
   "data": [
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
+        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "2. Bundesliga",
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "Bayern Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Dortmund",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
+        "title": "Eschweiler Explosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eschweiler%20Explosion",
+        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eschweiler Explosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eschweiler%20Explosion",
-        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
+        "title": "49-Euro-Ticket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#49-Euro-Ticket",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Timon Krause",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Timon%20Krause",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Fussball Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20Bundesliga",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
+        "title": "Kate William",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kate%20William",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kate William",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kate%20William",
-        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
+        "title": "Rogue One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rogue%20One",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Nils Petersen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nils%20Petersen",
         "pubdate": "Wed, 29 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reno",
-        "pubdate": "Wed, 29 Mar 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#King%20Charles",
-        "pubdate": "Wed, 29 Mar 2023 15:00:00 +0200"
       }
     ]
   ]
