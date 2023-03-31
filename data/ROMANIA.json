@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 16:42:44",
+  "lastUpdate": "31-03-2023 , 16:51:50",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "SUPERLIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SUPERLIGA",
+        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Murder mystery 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Murder%20mystery%202",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 +0300"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Liga 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%202",
-        "pubdate": "Thu, 30 Mar 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Kvitova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kvitova",
         "pubdate": "Thu, 30 Mar 2023 12:00:00 +0300"
@@ -90,6 +90,13 @@
         "title": "Alex Velea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Velea",
         "pubdate": "Thu, 30 Mar 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Otelul galati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Otelul%20galati",
+        "pubdate": "Thu, 30 Mar 2023 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sergio Ramos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sergio%20Ramos",
         "pubdate": "Thu, 30 Mar 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rybakina",
-        "pubdate": "Thu, 30 Mar 2023 00:00:00 +0300"
       }
     ]
   ]
