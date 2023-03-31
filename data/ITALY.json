@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "31-03-2023 , 13:45:55",
+  "lastUpdate": "31-03-2023 , 13:55:15",
   "data": [
     [
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#F1",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stormy Daniels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stormy%20Daniels",
-        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stormy%20Daniels",
+        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gwyneth Paltrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gwyneth%20Paltrow",
         "pubdate": "Fri, 31 Mar 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Agrigento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Agrigento",
+        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Agrigento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Agrigento",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
+        "title": "Massimo Giletti Sofia Goggia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Giletti%20Sofia%20Goggia",
+        "pubdate": "Fri, 31 Mar 2023 06:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Massimo Giletti Sofia Goggia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Giletti%20Sofia%20Goggia",
-        "pubdate": "Fri, 31 Mar 2023 06:00:00 +0200"
+        "title": "Coca Cola Zero Pinguini Tattici Nucleari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coca%20Cola%20Zero%20Pinguini%20Tattici%20Nucleari",
+        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Mussolini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mussolini",
+        "pubdate": "Thu, 30 Mar 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Avengers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Avengers",
         "pubdate": "Thu, 30 Mar 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neymar",
         "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Giacomo Urtis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giacomo%20Urtis",
-        "pubdate": "Thu, 30 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anac",
-        "pubdate": "Thu, 30 Mar 2023 22:00:00 +0200"
       }
     ]
   ]
