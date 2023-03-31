@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 06:42:24",
+  "lastUpdate": "31-03-2023 , 06:51:47",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Vincent van Gogh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vincent%20van%20Gogh",
         "pubdate": "Thu, 30 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Věra Mikulcová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Mikulcov%C3%A1",
+        "pubdate": "Thu, 30 Mar 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Zlatá labuť",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlat%C3%A1%20labu%C5%A5",
+        "pubdate": "Wed, 29 Mar 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lucie Bílá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20B%C3%ADl%C3%A1",
         "pubdate": "Wed, 29 Mar 2023 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "FTMO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FTMO",
         "pubdate": "Wed, 29 Mar 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucie Štěpánková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20%C5%A0t%C4%9Bp%C3%A1nkov%C3%A1",
-        "pubdate": "Wed, 29 Mar 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Terence Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terence%20Hill",
-        "pubdate": "Wed, 29 Mar 2023 22:00:00 +0200"
       }
     ]
   ]
