@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2023 , 23:54:49",
+  "lastUpdate": "31-03-2023 , 00:59:16",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Starlink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Starlink",
         "pubdate": "Fri, 31 Mar 2023 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Indict",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Indict",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Roosters vs Eels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Roosters%20vs%20Eels",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "MLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MLB",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
       }
     ],
     [
@@ -80,6 +94,20 @@
     ],
     [
       {
+        "title": "Israel Adesanya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Israel%20Adesanya",
+        "pubdate": "Thu, 30 Mar 2023 21:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Alexandra Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alexandra%20Grant",
+        "pubdate": "Thu, 30 Mar 2023 21:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Paul O'Grady",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paul%20O'Grady",
         "pubdate": "Wed, 29 Mar 2023 17:00:00 +1300"
@@ -111,34 +139,6 @@
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Argentina",
         "pubdate": "Wed, 29 Mar 2023 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Lizzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lizzo",
-        "pubdate": "Wed, 29 Mar 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Emma Espiner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Emma%20Espiner",
-        "pubdate": "Wed, 29 Mar 2023 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Germany vs Belgium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Germany%20vs%20Belgium",
-        "pubdate": "Wed, 29 Mar 2023 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Stuart Nash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stuart%20Nash",
-        "pubdate": "Tue, 28 Mar 2023 20:00:00 +1300"
       }
     ]
   ]
