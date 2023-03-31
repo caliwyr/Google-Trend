@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-03-2023 , 03:43:27",
+  "lastUpdate": "31-03-2023 , 03:52:48",
   "data": [
-    [
-      {
-        "title": "Til Schweiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
-        "pubdate": "Thu, 30 Mar 2023 17:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "FC Köln",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Inflation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inflation",
-        "pubdate": "Thu, 30 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Schlimmer geht immer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlimmer%20geht%20immer",
         "pubdate": "Thu, 30 Mar 2023 21:00:00 +0200"
@@ -55,13 +41,6 @@
         "title": "Charles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charles",
         "pubdate": "Wed, 29 Mar 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gedeon Burkhard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gedeon%20Burkhard",
-        "pubdate": "Wed, 29 Mar 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,6 +108,13 @@
     ],
     [
       {
+        "title": "Berlin Volksentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin%20Volksentscheid",
+        "pubdate": "Sun, 26 Mar 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Stefanie Heinzmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefanie%20Heinzmann",
         "pubdate": "Sun, 26 Mar 2023 16:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "RBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RBB",
         "pubdate": "Sun, 26 Mar 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zeitumstellung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zeitumstellung",
+        "pubdate": "Sat, 25 Mar 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF",
+        "pubdate": "Sat, 25 Mar 2023 21:00:00 +0100"
       }
     ]
   ]
