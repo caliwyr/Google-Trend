@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 23:48:34",
+  "lastUpdate": "31-03-2023 , 23:57:43",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
+        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Susan Boyle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susan%20Boyle",
         "pubdate": "Wed, 29 Mar 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sander Berge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Berge",
-        "pubdate": "Wed, 29 Mar 2023 09:00:00 +0200"
       }
     ]
   ]
