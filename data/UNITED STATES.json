@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-03-2023 , 10:39:58",
+  "lastUpdate": "31-03-2023 , 10:49:20",
   "data": [
+    [
+      {
+        "title": "IPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#IPL",
+        "pubdate": "Fri, 31 Mar 2023 02:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Trump indictment",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Cubs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cubs",
-        "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
+        "title": "Astros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Astros",
+        "pubdate": "Thu, 30 Mar 2023 12:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Astros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Astros",
-        "pubdate": "Thu, 30 Mar 2023 12:00:00 -0700"
+        "title": "Cubs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cubs",
+        "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Mariners",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariners",
+        "pubdate": "Thu, 30 Mar 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "St. Louis Cardinals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#St.%20Louis%20Cardinals",
         "pubdate": "Thu, 30 Mar 2023 10:00:00 -0700"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Mariners",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariners",
-        "pubdate": "Thu, 30 Mar 2023 15:00:00 -0700"
+        "title": "Texas Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Rangers",
+        "pubdate": "Thu, 30 Mar 2023 10:00:00 -0700"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Mets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mets",
-        "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Padres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Padres",
         "pubdate": "Thu, 30 Mar 2023 13:00:00 -0700"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Texas Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Rangers",
-        "pubdate": "Thu, 30 Mar 2023 10:00:00 -0700"
+        "title": "Mets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mets",
+        "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gwyneth Paltrow verdict",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gwyneth%20Paltrow%20verdict",
         "pubdate": "Thu, 30 Mar 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Detroit Tigers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Tigers",
-        "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
       }
     ]
   ]
