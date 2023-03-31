@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 08:42:12",
+  "lastUpdate": "31-03-2023 , 08:51:26",
   "data": [
     [
       {
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formula%201",
+        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trevor Noah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trevor%20Noah",
+        "pubdate": "Thu, 30 Mar 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gwyneth Paltrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gwyneth%20Paltrow",
         "pubdate": "Thu, 30 Mar 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pierre%20Palmade",
+        "pubdate": "Thu, 30 Mar 2023 09:00:00 +0200"
       }
     ],
     [
@@ -40,6 +61,20 @@
       {
         "title": "HCC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HCC",
+        "pubdate": "Thu, 30 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Implenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Implenia",
+        "pubdate": "Thu, 30 Mar 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Germanys next topmodel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Germanys%20next%20topmodel",
         "pubdate": "Thu, 30 Mar 2023 23:00:00 +0200"
       }
     ],
@@ -69,13 +104,6 @@
         "title": "Sunice Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sunice%20Festival",
         "pubdate": "Thu, 30 Mar 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manta Manta 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manta%20Manta%202",
-        "pubdate": "Thu, 30 Mar 2023 12:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "3CX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#3CX",
         "pubdate": "Thu, 30 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sinner",
-        "pubdate": "Thu, 30 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Asteroid%20City",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marilyn Monroe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marilyn%20Monroe",
-        "pubdate": "Thu, 30 Mar 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Ermotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Ermotti",
-        "pubdate": "Wed, 29 Mar 2023 08:00:00 +0200"
       }
     ]
   ]
