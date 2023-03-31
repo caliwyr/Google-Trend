@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "31-03-2023 , 02:42:42",
+  "lastUpdate": "31-03-2023 , 02:52:43",
   "data": [
     [
       {
         "title": "Andrea Bocelli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andrea%20Bocelli",
+        "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paltrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paltrow",
         "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jonas Gahr Støre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Gahr%20St%C3%B8re",
         "pubdate": "Tue, 28 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freyr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Freyr",
-        "pubdate": "Tue, 28 Mar 2023 16:00:00 +0200"
       }
     ]
   ]
