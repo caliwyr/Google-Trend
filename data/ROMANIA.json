@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-03-2023 , 18:47:30",
+  "lastUpdate": "31-03-2023 , 18:56:48",
   "data": [
+    [
+      {
+        "title": "Liga 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%201",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Donald Trump",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Theo Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Theo%20Rose",
-        "pubdate": "Fri, 31 Mar 2023 07:00:00 +0300"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201",
+        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0300"
+        "title": "Theo Rose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Theo%20Rose",
+        "pubdate": "Fri, 31 Mar 2023 07:00:00 +0300"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "SUPERLIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SUPERLIGA",
+        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Puya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Puya",
         "pubdate": "Fri, 31 Mar 2023 15:00:00 +0300"
@@ -52,15 +66,8 @@
     ],
     [
       {
-        "title": "SuperLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SuperLiga",
-        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Murder mystery 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Murder%20mystery%202",
+        "title": "Murder Mystery 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Murder%20Mystery%202",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 +0300"
       }
     ],
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Știrile PRO TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%C8%98tirile%20PRO%20TV",
+        "title": "Știrile PROTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%C8%98tirile%20PROTV",
         "pubdate": "Fri, 31 Mar 2023 13:00:00 +0300"
       }
     ],
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Otelul galati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Otelul%20galati",
+        "title": "CSA Steaua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSA%20Steaua",
         "pubdate": "Thu, 30 Mar 2023 20:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Florin Dumitrescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florin%20Dumitrescu",
         "pubdate": "Thu, 30 Mar 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dorian Popa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dorian%20Popa",
-        "pubdate": "Thu, 30 Mar 2023 14:00:00 +0300"
       }
     ]
   ]
