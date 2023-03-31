@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "31-03-2023 , 19:48:36",
+  "lastUpdate": "31-03-2023 , 19:57:58",
   "data": [
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trump",
-        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jupiler Pro League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro%20League",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trump",
+        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "The Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Masked%20Singer",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wout van Aert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Brian Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brian%20Wilson",
-        "pubdate": "Fri, 31 Mar 2023 00:00:00 +0200"
+        "title": "Murder Mystery 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Murder%20Mystery%202",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Murder Mystery 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Murder%20Mystery%202",
-        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
+        "title": "Brian Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brian%20Wilson",
+        "pubdate": "Fri, 31 Mar 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Guerre Russie Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guerre%20Russie%20Ukraine",
-        "pubdate": "Fri, 31 Mar 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zaho de Sagazan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zaho%20de%20Sagazan",
         "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
@@ -87,16 +87,23 @@
     ],
     [
       {
-        "title": "Zulte Waregem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
+        "title": "Pro League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pro%20League",
+        "pubdate": "Fri, 31 Mar 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Angele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angele",
-        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
+        "title": "Marseille – Montpellier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Montpellier",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guerre Russie Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guerre%20Russie%20Ukraine",
+        "pubdate": "Fri, 31 Mar 2023 01:00:00 +0200"
       }
     ],
     [
@@ -108,23 +115,16 @@
     ],
     [
       {
+        "title": "Angele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angele",
+        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bart De Wever",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20De%20Wever",
         "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos%20Alcaraz",
-        "pubdate": "Fri, 31 Mar 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foire du Livre Bruxelles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20du%20Livre%20Bruxelles",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Hervé Renard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Herv%C3%A9%20Renard",
-        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos%20Alcaraz",
+        "pubdate": "Fri, 31 Mar 2023 05:00:00 +0200"
       }
     ]
   ]

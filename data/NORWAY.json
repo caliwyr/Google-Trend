@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 19:48:42",
+  "lastUpdate": "31-03-2023 , 19:58:04",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lyngen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyngen",
         "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Reistadløpet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reistadl%C3%B8pet",
-        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
+        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Voice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Voice",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florence%20Pugh",
         "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The voice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20voice",
-        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Susan Boyle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susan%20Boyle",
         "pubdate": "Wed, 29 Mar 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sander Berge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Berge",
+        "pubdate": "Wed, 29 Mar 2023 09:00:00 +0200"
       }
     ]
   ]
