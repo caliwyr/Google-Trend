@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "31-03-2023 , 09:47:34",
+  "lastUpdate": "31-03-2023 , 09:56:56",
   "data": [
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
-        "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "Sri Lanka vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20New%20Zealand",
         "pubdate": "Fri, 31 Mar 2023 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Blackcaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
-        "pubdate": "Fri, 31 Mar 2023 15:00:00 +1300"
+        "title": "Highlanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highlanders",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Highlanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highlanders",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Ice cube",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ice%20cube",
         "pubdate": "Fri, 31 Mar 2023 17:00:00 +1300"
@@ -69,6 +62,13 @@
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
         "pubdate": "Fri, 31 Mar 2023 20:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Cricket NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket%20NZ",
+        "pubdate": "Fri, 31 Mar 2023 18:00:00 +1300"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "MLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MLB",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Jason Ritter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jason%20Ritter",
         "pubdate": "Fri, 31 Mar 2023 01:00:00 +1300"
@@ -94,8 +101,15 @@
     ],
     [
       {
-        "title": "MLB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MLB",
+        "title": "Murder Mystery 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Murder%20Mystery%202",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "New Zealander of the Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealander%20of%20the%20Year",
         "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Murder Mystery 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Murder%20Mystery%202",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Formula 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Today FM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Today%20FM",
         "pubdate": "Thu, 30 Mar 2023 10:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Rabies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rabies",
-        "pubdate": "Thu, 30 Mar 2023 15:00:00 +1300"
       }
     ]
   ]

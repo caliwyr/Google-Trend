@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 09:47:27",
+  "lastUpdate": "31-03-2023 , 09:56:47",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Aaron Judge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Dodgers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
         "pubdate": "Thu, 30 Mar 2023 16:00:00 -0700"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Aaron Judge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Cincinnati Reds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cincinnati%20Reds",
         "pubdate": "Thu, 30 Mar 2023 11:00:00 -0700"
@@ -90,6 +90,13 @@
         "title": "Mariners",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariners",
         "pubdate": "Thu, 30 Mar 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Volpe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anthony%20Volpe",
+        "pubdate": "Thu, 30 Mar 2023 11:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Detroit Tigers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Tigers",
         "pubdate": "Thu, 30 Mar 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
-        "pubdate": "Thu, 30 Mar 2023 20:00:00 -0700"
       }
     ]
   ]
