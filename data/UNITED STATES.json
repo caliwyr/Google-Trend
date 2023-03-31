@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 05:46:19",
+  "lastUpdate": "31-03-2023 , 05:55:32",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-        "pubdate": "Thu, 30 Mar 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Aaron Judge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
         "pubdate": "Thu, 30 Mar 2023 11:00:00 -0700"
@@ -76,6 +69,13 @@
         "title": "Dodgers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
         "pubdate": "Thu, 30 Mar 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
+        "pubdate": "Thu, 30 Mar 2023 19:00:00 -0700"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Padres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Padres",
+        "pubdate": "Thu, 30 Mar 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Texas Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Rangers",
         "pubdate": "Thu, 30 Mar 2023 10:00:00 -0700"
@@ -132,13 +139,6 @@
         "title": "Gwyneth Paltrow verdict",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gwyneth%20Paltrow%20verdict",
         "pubdate": "Thu, 30 Mar 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Clippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clippers",
-        "pubdate": "Thu, 30 Mar 2023 01:00:00 -0700"
       }
     ]
   ]
