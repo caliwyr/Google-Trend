@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 21:55:20",
+  "lastUpdate": "01-04-2023 , 22:10:09",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Voss",
+        "pubdate": "Sat, 01 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Florence Pugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florence%20Pugh",
-        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paltrow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paltrow",
-        "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
+        "title": "Påskekrim NRK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#P%C3%A5skekrim%20NRK",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
       }
     ]
   ]

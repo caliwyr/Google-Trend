@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 21:55:13",
+  "lastUpdate": "01-04-2023 , 22:10:02",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Oostende – Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oostende%20%E2%80%93%20Standard",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronde van Vlaanderen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Vlaanderen",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Standard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20a",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Cercle Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea – Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Aston%20Villa",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,16 +80,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,9 +94,23 @@
     ],
     [
       {
+        "title": "Chelsea – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burnley",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+        "title": "Arsenal  Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%20Leeds",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
