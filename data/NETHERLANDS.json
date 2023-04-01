@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 11:49:47",
+  "lastUpdate": "01-04-2023 , 11:58:58",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Metallica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Metallica",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Barcelona",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Metallica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Metallica",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Gp australie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gp%20australie",
+        "title": "GP australie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20australie",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Groots met een Zachte G",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groots%20met%20een%20Zachte%20G",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Metro Hoek van Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Metro%20Hoek%20van%20Holland",
         "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Wim de Bie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wim%20de%20Bie",
         "pubdate": "Mon, 27 Mar 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gibraltar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gibraltar",
-        "pubdate": "Mon, 27 Mar 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
-        "pubdate": "Mon, 27 Mar 2023 20:00:00 +0200"
       }
     ]
   ]

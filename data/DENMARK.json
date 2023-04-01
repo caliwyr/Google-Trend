@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-04-2023 , 11:49:43",
+  "lastUpdate": "01-04-2023 , 11:58:53",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Brad Pitt",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "SuperLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SuperLiga",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gwyneth Paltrow trial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gwyneth%20Paltrow%20trial",
         "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
@@ -62,13 +76,6 @@
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pil",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lizzo",
         "pubdate": "Thu, 30 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lamborghini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamborghini",
-        "pubdate": "Thu, 30 Mar 2023 11:00:00 +0200"
       }
     ]
   ]
