@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 08:48:19",
+  "lastUpdate": "01-04-2023 , 08:57:39",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "SAT declaración",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#SAT%20declaraci%C3%B3n",
+        "pubdate": "Sat, 01 Apr 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Enrique Alfaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Enrique%20Alfaro",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 -0600"
@@ -26,13 +33,6 @@
       {
         "title": "Lee do-hyun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lee%20do-hyun",
-        "pubdate": "Sat, 01 Apr 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "SAT declaración",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#SAT%20declaraci%C3%B3n",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 -0600"
       }
     ],
@@ -61,7 +61,7 @@
       {
         "title": "Juárez  Puebla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ju%C3%A1rez%20%20Puebla",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 -0600"
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 -0600"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier%20League",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20Liga",
+        "pubdate": "Fri, 31 Mar 2023 15:00:00 -0600"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Liga MX Femenil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX%20Femenil",
         "pubdate": "Fri, 31 Mar 2023 05:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "La LIGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20LIGA",
-        "pubdate": "Fri, 31 Mar 2023 15:00:00 -0600"
       }
     ],
     [
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Serie%20a",
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Serie%20A",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 -0600"
       }
     ],
