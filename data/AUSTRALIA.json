@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "01-04-2023 , 09:42:02",
+  "lastUpdate": "01-04-2023 , 09:51:16",
   "data": [
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Daylight savings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daylight%20savings",
         "pubdate": "Sat, 01 Apr 2023 05:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +1100"
       }
     ],
     [
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonathan%20Majors",
-        "pubdate": "Sat, 01 Apr 2023 02:00:00 +1100"
+        "title": "North Melbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#North%20Melbourne",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Manly vs Knights",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20vs%20Knights",
+        "pubdate": "Sat, 01 Apr 2023 18:00:00 +1100"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Hawthorn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawthorn",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "The Power",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Power",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Ron DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ron%20DeSantis",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +1100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ron%20DeSantis",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +1100"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +1100"
+        "title": "Anthony Joshua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Joshua",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Porter Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Porter%20Davis",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +1100"
       }
     ]

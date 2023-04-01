@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 09:42:03",
+  "lastUpdate": "01-04-2023 , 09:51:18",
   "data": [
     [
       {
@@ -19,13 +19,6 @@
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 -0300"
       }
     ],
@@ -55,6 +48,13 @@
         "title": "Cambio de hora en Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cambio%20de%20hora%20en%20Chile",
         "pubdate": "Fri, 31 Mar 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ñublense  O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense%20%20O'Higgins",
+        "pubdate": "Fri, 31 Mar 2023 19:00:00 -0300"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Michelle Adam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michelle%20Adam",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Arturo jauregui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20jauregui",
         "pubdate": "Fri, 31 Mar 2023 01:00:00 -0300"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "O'Higgins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
-        "pubdate": "Fri, 31 Mar 2023 19:00:00 -0300"
+        "title": "Womad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Womad",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Womad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Womad",
-        "pubdate": "Fri, 31 Mar 2023 17:00:00 -0300"
+        "title": "Misterio a la vista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Misterio%20a%20la%20vista",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stormy%20Daniels",
+        "pubdate": "Fri, 31 Mar 2023 12:00:00 -0300"
       }
     ]
   ]

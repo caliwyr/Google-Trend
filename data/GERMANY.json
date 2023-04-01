@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 09:42:05",
+  "lastUpdate": "01-04-2023 , 09:51:20",
   "data": [
     [
       {
@@ -26,14 +26,7 @@
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
-        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
+        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,23 +38,16 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Dortmund",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Boris Becker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Becker",
-        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
       }
     ],
     [
@@ -80,6 +66,13 @@
     ],
     [
       {
+        "title": "Freddie Mercury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freddie%20Mercury",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kate William",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kate%20William",
         "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
+        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rogue One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rogue%20One",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
@@ -104,13 +104,6 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#La%20Liga",
         "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Til Schweiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
-        "pubdate": "Thu, 30 Mar 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Robert Gallinowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Gallinowski",
         "pubdate": "Wed, 29 Mar 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nils Petersen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nils%20Petersen",
+        "pubdate": "Wed, 29 Mar 2023 18:00:00 +0200"
       }
     ]
   ]
