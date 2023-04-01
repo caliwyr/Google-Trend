@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2023 , 23:57:39",
+  "lastUpdate": "01-04-2023 , 01:21:04",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
         "pubdate": "Fri, 31 Mar 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Borger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borger",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "PIL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PIL",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "GOG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GOG",
         "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
@@ -76,13 +83,6 @@
         "title": "Lion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lion",
         "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
-        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Scarlet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scarlet",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ticketmaster",
+        "pubdate": "Thu, 30 Mar 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lamborghini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamborghini",
         "pubdate": "Thu, 30 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Asteroid%20City",
-        "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
       }
     ]
   ]
