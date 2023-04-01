@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 18:57:07",
+  "lastUpdate": "01-04-2023 , 19:10:51",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie%20a",
+        "title": "Serie-A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie-A",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig gegen Mainz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Leipzig%20gegen%20Mainz",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SV Ried",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SV%20Ried",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
@@ -66,9 +59,23 @@
     ],
     [
       {
-        "title": "Sky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig gegen Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Leipzig%20gegen%20Mainz",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ein Schritt zum Abgrund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ein%20Schritt%20zum%20Abgrund",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Süper Lig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCper%20Lig",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ein schritt zum abgrund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ein%20schritt%20zum%20abgrund",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sri%20Lanka",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Niki Lauda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niki%20Lauda",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+        "title": "Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sri%20Lanka",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "2. Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#2.%20Bundesliga",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+        "title": "Niki Lauda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niki%20Lauda",
+        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

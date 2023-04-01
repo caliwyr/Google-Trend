@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 18:57:17",
+  "lastUpdate": "01-04-2023 , 19:11:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "UTA Arad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bundesliga",
+        "pubdate": "Sat, 01 Apr 2023 03:00:00 +0300"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bundesliga",
-        "pubdate": "Sat, 01 Apr 2023 03:00:00 +0300"
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Meghan Markle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
-        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0300"
+        "title": "Sam Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sam%20Smith",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Delia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Delia",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0300"
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
+        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Hermannstadt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Delia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Delia",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0300"
       }
     ],
     [
@@ -101,44 +122,23 @@
     ],
     [
       {
+        "title": "Armin nicoara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Armin%20nicoara",
+        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter  Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20%20Fiorentina",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Simon Cowell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Simon%20Cowell",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Horoscop 1 aprilie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%201%20aprilie%202023",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cirstea Kvitova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cirstea%20Kvitova",
-        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Donald%20Trump",
-        "pubdate": "Fri, 31 Mar 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrew%20Tate",
-        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "U Craiova 1948 - Petrolul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Craiova%201948%20-%20Petrolul",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0300"
       }
     ]
   ]
