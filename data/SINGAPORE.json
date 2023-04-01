@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "01-04-2023 , 16:53:35",
+  "lastUpdate": "01-04-2023 , 17:06:53",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Crystal%20Palace%20vs%20Leicester%20City",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Man City vs Liverpool",
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sports",
-        "pubdate": "Sat, 01 Apr 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "IPL Live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20Live",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0800"
@@ -52,8 +59,22 @@
     ],
     [
       {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sports",
+        "pubdate": "Sat, 01 Apr 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Brighton vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Brentford",
+        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bournemouth vs Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bournemouth%20vs%20Fulham",
         "pubdate": "Sat, 01 Apr 2023 23:00:00 +0800"
       }
     ],
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "IPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL",
+        "pubdate": "Fri, 31 Mar 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0800"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "IPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL",
-        "pubdate": "Fri, 31 Mar 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Tiong Bahru Bakery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tiong%20Bahru%20Bakery",
         "pubdate": "Fri, 31 Mar 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "IPL 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%202023",
-        "pubdate": "Fri, 31 Mar 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Adam Sandler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adam%20Sandler",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0800"
       }
     ]
   ]
