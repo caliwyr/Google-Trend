@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 04:46:59",
+  "lastUpdate": "01-04-2023 , 04:56:18",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Olympique de Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Flamengo x Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Fluminense",
         "pubdate": "Fri, 31 Mar 2023 18:00:00 -0500"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Olympique de Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
+        "pubdate": "Fri, 31 Mar 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 -0500"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Ciclone bomba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclone%20bomba",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Gwyneth Paltrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gwyneth%20Paltrow",
         "pubdate": "Fri, 31 Mar 2023 17:00:00 -0500"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Ciclone bomba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclone%20bomba",
-        "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
+        "title": "Museu do Ipiranga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Museu%20do%20Ipiranga",
+        "pubdate": "Fri, 31 Mar 2023 18:00:00 -0500"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Piso salarial enfermagem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Piso%20salarial%20enfermagem",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Museu do Ipiranga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Museu%20do%20Ipiranga",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Dia da Mentira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20Mentira",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Dia do Autismo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Autismo",
         "pubdate": "Fri, 31 Mar 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pegando Fogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pegando%20Fogo",
-        "pubdate": "Fri, 31 Mar 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato Francês",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Franc%C3%AAs",
-        "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
       }
     ]
   ]

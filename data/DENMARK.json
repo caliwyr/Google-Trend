@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 04:47:02",
+  "lastUpdate": "01-04-2023 , 04:56:19",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gwyneth Paltrow trial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gwyneth%20Paltrow%20trial",
         "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
@@ -48,20 +55,6 @@
         "title": "Tomb Raider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tomb%20Raider",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
-        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Scarlet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scarlet",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formula%201",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
       }
     ],
     [

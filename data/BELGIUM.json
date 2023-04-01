@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 04:46:59",
+  "lastUpdate": "01-04-2023 , 04:56:18",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Alex Vizorek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alex%20Vizorek",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jupiler Pro League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro%20League",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "OHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stromae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stromae",
+        "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
       }
     ]
   ]
