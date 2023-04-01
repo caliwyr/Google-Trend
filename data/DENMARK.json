@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "01-04-2023 , 13:50:15",
+  "lastUpdate": "01-04-2023 , 13:59:41",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
-        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -31,8 +24,15 @@
     ],
     [
       {
-        "title": "April Fool's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#April%20Fool's",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "April Fools",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#April%20Fools",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
         "pubdate": "Fri, 31 Mar 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Borger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borger",
-        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Murder Mystery 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Murder%20Mystery%202",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
@@ -75,13 +75,6 @@
       {
         "title": "Tomb Raider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tomb%20Raider",
-        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
         "pubdate": "Fri, 31 Mar 2023 23:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Angelina Jolie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie",
         "pubdate": "Thu, 30 Mar 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lizzo",
+        "pubdate": "Thu, 30 Mar 2023 10:00:00 +0200"
       }
     ]
   ]

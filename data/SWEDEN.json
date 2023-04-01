@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 13:50:22",
+  "lastUpdate": "01-04-2023 , 13:59:48",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Kalmar FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Masked Singer 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Masked%20Singer%202023",
         "pubdate": "Fri, 31 Mar 2023 07:00:00 +0200"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-        "pubdate": "Fri, 31 Mar 2023 02:00:00 +0200"
+        "title": "Joakim Lundell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joakim%20Lundell",
+        "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joakim Lundell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joakim%20Lundell",
-        "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "pubdate": "Fri, 31 Mar 2023 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nato",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PTSD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PTSD",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
       }
     ]
   ]

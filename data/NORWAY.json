@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "01-04-2023 , 13:50:19",
+  "lastUpdate": "01-04-2023 , 13:59:46",
   "data": [
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
-        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florence%20Pugh",
         "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Lamborghini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lamborghini",
         "pubdate": "Thu, 30 Mar 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Woke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Woke",
+        "pubdate": "Wed, 29 Mar 2023 19:00:00 +0200"
       }
     ]
   ]
