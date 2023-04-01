@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 22:51:53",
+  "lastUpdate": "01-04-2023 , 23:03:18",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "April Fools",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#April%20Fools",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Elche – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elche%20%E2%80%93%20Barcelona",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0300"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "April Fools",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#April%20Fools",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Khloé Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Khlo%C3%A9%20Kardashian",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Aniston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Aniston",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0300"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "Olivia Dunne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olivia%20Dunne",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Aniston",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0300"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Andre Agassi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andre%20Agassi",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Murder Mystery 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Murder%20Mystery%202",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0300"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
+        "pubdate": "Fri, 31 Mar 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Fri, 31 Mar 2023 09:00:00 +0300"
       }
     ]
