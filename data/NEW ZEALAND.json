@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "01-04-2023 , 07:48:09",
+  "lastUpdate": "01-04-2023 , 07:57:26",
   "data": [
     [
       {
         "title": "Daylight savings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daylight%20savings",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "A-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A-League",
+        "pubdate": "Sat, 01 Apr 2023 11:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Tate",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs vs Blues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20vs%20Blues",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +1300"
       }
     ],
     [
@@ -17,15 +38,8 @@
     ],
     [
       {
-        "title": "Wellington Phoenix vs Melbourne Victory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Melbourne%20Victory",
-        "pubdate": "Sat, 01 Apr 2023 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Reds vs Crusaders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Reds%20vs%20Crusaders",
+        "title": "Crusaders vs Reds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crusaders%20vs%20Reds",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +1300"
       }
     ],
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Bella Ramsey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bella%20Ramsey",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
         "pubdate": "Fri, 31 Mar 2023 13:00:00 +1300"
@@ -117,27 +138,6 @@
       {
         "title": "Murder Mystery 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Murder%20Mystery%202",
-        "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Nz Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nz%20Cricket",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Gwyneth Paltrow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gwyneth%20Paltrow",
-        "pubdate": "Fri, 31 Mar 2023 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Highlanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highlanders",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 +1300"
       }
     ]

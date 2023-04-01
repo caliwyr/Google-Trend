@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 07:48:02",
+  "lastUpdate": "01-04-2023 , 07:57:15",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donald%20Trump",
-        "pubdate": "Fri, 31 Mar 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Misterio a la vista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Misterio%20a%20la%20vista",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Young Miko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Young%20Miko",
         "pubdate": "Fri, 31 Mar 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tatuaje de Otamendi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tatuaje%20de%20Otamendi",
+        "pubdate": "Fri, 31 Mar 2023 02:00:00 -0300"
       }
     ]
   ]
