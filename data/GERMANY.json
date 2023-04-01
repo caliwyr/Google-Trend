@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "01-04-2023 , 06:45:47",
+  "lastUpdate": "01-04-2023 , 06:55:14",
   "data": [
     [
       {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "title": "Formel-1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
         "pubdate": "Sat, 01 Apr 2023 06:00:00 +0200"
       }
     ],
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0200"
+        "title": "Gasheizungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gasheizungen",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Fri, 31 Mar 2023 21:00:00 +0200"
       }
     ],
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Bayern Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Dortmund",
+        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "49-Euro-Ticket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#49-Euro-Ticket",
         "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oscar Pistorius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscar%20Pistorius",
+        "pubdate": "Fri, 31 Mar 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Oscar Pistorius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscar%20Pistorius",
-        "pubdate": "Fri, 31 Mar 2023 16:00:00 +0200"
+        "title": "Gwyneth Paltrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gwyneth%20Paltrow",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Nils Petersen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nils%20Petersen",
         "pubdate": "Wed, 29 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reno",
-        "pubdate": "Wed, 29 Mar 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#King%20Charles",
-        "pubdate": "Wed, 29 Mar 2023 15:00:00 +0200"
       }
     ]
   ]
