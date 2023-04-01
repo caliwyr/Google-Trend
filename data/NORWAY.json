@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 20:53:31",
+  "lastUpdate": "01-04-2023 , 21:06:57",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paltrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paltrow",
         "pubdate": "Thu, 30 Mar 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Asteroid%20City",
-        "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
       }
     ]
   ]

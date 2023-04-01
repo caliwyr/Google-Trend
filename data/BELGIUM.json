@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 20:53:25",
+  "lastUpdate": "01-04-2023 , 21:06:51",
   "data": [
     [
       {
@@ -31,15 +31,8 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20a",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cercle Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -47,13 +40,34 @@
       {
         "title": "Standard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Grand Prix F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20F1",
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20a",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter – Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Fiorentina",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
+        "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "Inter – Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Fiorentina",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+        "title": "Grand Prix F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20F1",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tour des Flandres 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20des%20Flandres%202023",
         "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
@@ -94,9 +122,9 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+        "title": "Arsenal – Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%E2%80%93%20Leeds%20United",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Arsenal  Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%20Leeds",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Burnley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burnley",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gijzeling Roeselare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gijzeling%20Roeselare",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Camille Cerf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Camille%20Cerf",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

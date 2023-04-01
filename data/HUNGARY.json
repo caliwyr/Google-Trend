@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-04-2023 , 20:53:28",
+  "lastUpdate": "01-04-2023 , 21:06:54",
   "data": [
     [
       {
         "title": "Manchester city–liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93liverpool",
         "pubdate": "Sat, 01 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elche–Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elche%E2%80%93Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,16 @@
     ],
     [
       {
-        "title": "Elche–Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elche%E2%80%93Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oscar Pistorius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oscar%20Pistorius",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus–verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus%E2%80%93verona",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lewis%20Hamilton",
-        "pubdate": "Sat, 01 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RB%20Leipzig",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
@@ -115,9 +101,30 @@
     ],
     [
       {
+        "title": "Laliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Laliga",
+        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sonic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sonic",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lewis%20Hamilton",
+        "pubdate": "Sat, 01 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Puskás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s",
         "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Girona–espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93espanyol",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
