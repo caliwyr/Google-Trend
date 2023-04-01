@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-04-2023 , 14:53:06",
+  "lastUpdate": "01-04-2023 , 15:07:13",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Premier%20League",
-        "pubdate": "Sat, 01 Apr 2023 06:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Arsenal",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Quina 6114",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%206114",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 -0500"
+        "title": "Campeonato italiano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20italiano",
+        "pubdate": "Sat, 01 Apr 2023 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Campeonato italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20italiano",
-        "pubdate": "Sat, 01 Apr 2023 07:00:00 -0500"
+        "title": "Quina 6114",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%206114",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 -0500"
       }
     ],
     [
@@ -45,8 +38,15 @@
     ],
     [
       {
-        "title": "City x Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Liverpool",
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Premier%20League",
         "pubdate": "Fri, 31 Mar 2023 18:00:00 -0500"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Campeonato Francês",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Franc%C3%AAs",
-        "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Anvisa marca Fugini Alimentos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Anvisa%20marca%20Fugini%20Alimentos",
         "pubdate": "Fri, 31 Mar 2023 14:00:00 -0500"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "31 de março de 1964",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#31%20de%20mar%C3%A7o%20de%201964",
-        "pubdate": "Fri, 31 Mar 2023 11:00:00 -0500"
+        "title": "Campeonato Espanhol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Espanhol",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ciclone bomba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclone%20bomba",
         "pubdate": "Fri, 31 Mar 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "31 de março de 1964",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#31%20de%20mar%C3%A7o%20de%201964",
+        "pubdate": "Fri, 31 Mar 2023 11:00:00 -0500"
       }
     ]
   ]
