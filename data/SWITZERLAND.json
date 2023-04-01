@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-04-2023 , 10:48:42",
+  "lastUpdate": "01-04-2023 , 10:57:54",
   "data": [
     [
       {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrew%20Tate",
         "pubdate": "Sat, 01 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga",
-        "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
         "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Germany's Next Topmodel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Germany's%20Next%20Topmodel",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
@@ -117,6 +110,13 @@
       {
         "title": "Challenge League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
+        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
         "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "EHC Biel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Biel",
-        "pubdate": "Fri, 31 Mar 2023 00:00:00 +0200"
+        "title": "Zaho de Sagazan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zaho%20de%20Sagazan",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
       }
     ]
   ]
