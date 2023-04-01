@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 12:32:26",
+  "lastUpdate": "01-04-2023 , 12:52:25",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Formel-1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#La%20Liga",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#La%20Liga",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Patrick Juvet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrick%20Juvet",
+        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Osimhen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osimhen",
         "pubdate": "Sat, 01 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Metallica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Metallica",
+        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "RBS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RBS",
         "pubdate": "Fri, 31 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Germany's Next Topmodel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Germany's%20Next%20Topmodel",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Challenge League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
-        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
       }
     ]
   ]

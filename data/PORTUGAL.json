@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-04-2023 , 12:32:25",
+  "lastUpdate": "01-04-2023 , 12:52:23",
   "data": [
+    [
+      {
+        "title": "City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Liverpool",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Premier League",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Pichardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pichardo",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arkansas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arkansas",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0100"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0100"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
+        "pubdate": "Sat, 01 Apr 2023 03:00:00 +0100"
       }
     ],
     [
@@ -48,6 +48,20 @@
         "title": "Rally Azores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rally%20Azores",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jogo Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Sporting",
+        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dia da Mentira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Mentira",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Jogo Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Sporting",
-        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Metropolitano de Lisboa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Metropolitano%20de%20Lisboa",
         "pubdate": "Sat, 01 Apr 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dia da Mentira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Mentira",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Preços combustíveis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20combust%C3%ADveis",
-        "pubdate": "Fri, 31 Mar 2023 14:00:00 +0100"
+        "title": "Dia das mentiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20das%20mentiras",
+        "pubdate": "Fri, 31 Mar 2023 23:00:00 +0100"
       }
     ]
   ]
