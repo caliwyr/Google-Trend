@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 19:48:16",
+  "lastUpdate": "01-04-2023 , 19:57:35",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20a",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "DIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Formel%201",
         "pubdate": "Sat, 01 Apr 2023 02:00:00 +0200"
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brommapojkarna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brommapojkarna",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rumble",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rumble",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andrew%20Tate",
         "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aprilskämt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aprilsk%C3%A4mt",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gwyneth Paltrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gwyneth%20Paltrow",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
       }
     ]
   ]

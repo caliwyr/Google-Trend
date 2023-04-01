@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 19:48:11",
+  "lastUpdate": "01-04-2023 , 19:57:28",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+        "title": "Bayern München–Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen%E2%80%93Dortmund",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern münchen–dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93dortmund",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Chelsea–Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93Aston%20Villa",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elche–Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elche%E2%80%93Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Sonic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sonic",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schalke–leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schalke%E2%80%93leverkusen",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Girona–espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93espanyol",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charles Leclerc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Charles%20Leclerc",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sütő Enikő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%BCt%C5%91%20Enik%C5%91",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

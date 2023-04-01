@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 19:48:14",
+  "lastUpdate": "01-04-2023 , 19:57:32",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+        "title": "Alan Walker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alan%20Walker",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Asteroid City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Asteroid%20City",
         "pubdate": "Thu, 30 Mar 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Belfast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Belfast",
-        "pubdate": "Thu, 30 Mar 2023 23:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 19:48:09",
+  "lastUpdate": "01-04-2023 , 19:57:26",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Brighton  Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Brentford",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OnePlus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OnePlus",
         "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
@@ -41,6 +34,20 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton  Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Brentford",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,23 +73,16 @@
     ],
     [
       {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
-        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
+        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0200"
       }
     ],
     [

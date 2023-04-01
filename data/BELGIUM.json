@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-04-2023 , 19:48:08",
+  "lastUpdate": "01-04-2023 , 19:57:24",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronde van Vlaanderen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Vlaanderen",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
@@ -31,22 +31,8 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20a",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -59,22 +45,36 @@
     ],
     [
       {
-        "title": "Benoît Poelvoorde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beno%C3%AEt%20Poelvoorde",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+        "title": "Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tour des Flandres 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20des%20Flandres%202023",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
+        "title": "Grand Prix F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20F1",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
         "title": "Inter – Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Fiorentina",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+        "title": "Tour des Flandres 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20des%20Flandres%202023",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -97,6 +97,20 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benoît Poelvoorde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beno%C3%AEt%20Poelvoorde",
+        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal  Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%20Leeds",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "F1 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1%202023",
-        "pubdate": "Sat, 01 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Westerlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sandrine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sandrine",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
