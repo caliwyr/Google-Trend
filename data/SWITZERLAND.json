@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-04-2023 , 07:53:25",
+  "lastUpdate": "02-04-2023 , 08:10:02",
   "data": [
-    [
-      {
-        "title": "ZSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
-        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Real Madrid",
@@ -31,6 +24,20 @@
     ],
     [
       {
+        "title": "WrestleMania 39",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WrestleMania%2039",
+        "pubdate": "Sun, 02 Apr 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZSC Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC%20Lions",
+        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marie Wegener",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marie%20Wegener",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
@@ -45,30 +52,9 @@
     ],
     [
       {
-        "title": "WrestleMania 39",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WrestleMania%2039",
-        "pubdate": "Sun, 02 Apr 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LaLiga",
-        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alisha Lehmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alisha%20Lehmann",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
+        "title": "Marlène Schiappa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marl%C3%A8ne%20Schiappa",
+        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,9 +66,30 @@
     ],
     [
       {
-        "title": "Marlène Schiappa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marl%C3%A8ne%20Schiappa",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
+        "title": "FC Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
+        "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alisha Lehmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alisha%20Lehmann",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LaLiga",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DAZN",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20a",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ]
   ]

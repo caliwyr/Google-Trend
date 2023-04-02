@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 07:53:18",
+  "lastUpdate": "02-04-2023 , 08:09:53",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Schalke – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Schalke%20%E2%80%93%20Leverkusen",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SK Slavia Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
@@ -80,9 +87,23 @@
     ],
     [
       {
+        "title": "Formule 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bratři Mašínové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brat%C5%99i%20Ma%C5%A1%C3%ADnov%C3%A9",
         "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Květná neděle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kv%C4%9Btn%C3%A1%20ned%C4%9Ble",
+        "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
+        "title": "Kaley Cuoco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kaley%20Cuoco",
+        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kaley Cuoco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kaley%20Cuoco",
-        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
+        "title": "Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Opel Astra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opel%20Astra",
-        "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alcaraz",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Serie%20A",
-        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lionel%20Messi",
         "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
       }
     ]
