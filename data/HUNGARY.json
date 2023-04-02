@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-04-2023 , 09:58:06",
+  "lastUpdate": "02-04-2023 , 10:16:03",
   "data": [
-    [
-      {
-        "title": "Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hamilton",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kaley Cuoco",
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Bayern münchen–dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93dortmund",
+        "title": "Bayern München–Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen%E2%80%93Dortmund",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ],
@@ -62,6 +55,13 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Újpest–zalaegerszeg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%E2%80%93zalaegerszeg",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Bayern münchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen",
+        "title": "Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Demeter Szilárd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demeter%20Szil%C3%A1rd",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Újpest FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sütő Enikő",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%BCt%C5%91%20Enik%C5%91",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Demeter Szilárd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demeter%20Szil%C3%A1rd",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NATO",
+        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ]
   ]

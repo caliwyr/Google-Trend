@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-04-2023 , 09:58:02",
+  "lastUpdate": "02-04-2023 , 10:16:01",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
+        "pubdate": "Sun, 02 Apr 2023 03:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Jigokuraku",
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Inter de Milão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 -0500"
+        "title": "Domingo de Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Domingo%20de%20Ramos",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 -0500"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Daniel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Daniel",
         "pubdate": "Sat, 01 Apr 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter de Milão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 -0500"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
         "pubdate": "Sat, 01 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Domingo de Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Domingo%20de%20Ramos",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nautico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 -0500"
       }
     ]
   ]

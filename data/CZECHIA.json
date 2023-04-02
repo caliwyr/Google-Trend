@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-04-2023 , 09:58:04",
+  "lastUpdate": "02-04-2023 , 10:16:02",
   "data": [
     [
       {
         "title": "April",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#April",
         "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fiat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fiat",
+        "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -73,9 +87,16 @@
     ],
     [
       {
-        "title": "Schalke – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Schalke%20%E2%80%93%20Leverkusen",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+        "title": "Formule 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Květná neděle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kv%C4%9Btn%C3%A1%20ned%C4%9Ble",
+        "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,16 +108,9 @@
     ],
     [
       {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
+        "title": "SsangYong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SsangYong",
         "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Květná neděle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kv%C4%9Btn%C3%A1%20ned%C4%9Ble",
-        "pubdate": "Sat, 01 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Tom Hanks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Hanks",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kaley Cuoco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kaley%20Cuoco",
         "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tornado",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
+        "title": "Tom Hanks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Hanks",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ]
   ]
