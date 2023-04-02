@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2023 , 23:56:30",
+  "lastUpdate": "02-04-2023 , 01:12:45",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aprilspøk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aprilsp%C3%B8k",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
@@ -31,23 +38,16 @@
     ],
     [
       {
-        "title": "Planica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Planica",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kaley Cuoco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaley%20Cuoco",
         "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Planica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Planica",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
       }
     ],
     [
