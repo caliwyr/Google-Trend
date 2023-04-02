@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-04-2023 , 05:50:59",
+  "lastUpdate": "02-04-2023 , 06:00:14",
   "data": [
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
-        "pubdate": "Sun, 02 Apr 2023 00:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Quinta Brunson",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Red Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Red%20Robinson",
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CF Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CF%20Montreal",
+        "pubdate": "Sun, 02 Apr 2023 01:00:00 -0400"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 04:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bundesliga",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 -0400"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Winnipeg Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
         "pubdate": "Sat, 01 Apr 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
+        "pubdate": "Sat, 01 Apr 2023 14:00:00 -0400"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 -0400"
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1%20qualifying",
+        "pubdate": "Sat, 01 Apr 2023 03:00:00 -0400"
       }
     ],
     [
       {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1%20qualifying",
-        "pubdate": "Sat, 01 Apr 2023 03:00:00 -0400"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Sat, 01 Apr 2023 13:00:00 -0400"
       }
     ],
     [
@@ -115,29 +115,29 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20A",
+        "title": "Lee Do-hyun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lee%20Do-hyun",
+        "pubdate": "Sat, 01 Apr 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20a",
         "pubdate": "Sat, 01 Apr 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rey Mysterio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rey%20Mysterio",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Blue Jays vs Cardinals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20vs%20Cardinals",
-        "pubdate": "Sat, 01 Apr 2023 23:00:00 -0400"
       }
     ],
     [
       {
         "title": "Gamebred Boxing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gamebred%20Boxing",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rey Mysterio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rey%20Mysterio",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 -0400"
       }
     ]
