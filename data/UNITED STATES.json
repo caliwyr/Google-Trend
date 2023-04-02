@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 22:55:47",
+  "lastUpdate": "02-04-2023 , 23:11:32",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Formula%201",
+        "pubdate": "Sun, 02 Apr 2023 01:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Neil Diamond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neil%20Diamond",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Iowa vs LSU score",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iowa%20vs%20LSU%20score",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 -0700"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mavericks",
-        "pubdate": "Sun, 02 Apr 2023 06:00:00 -0700"
+        "title": "Aaron Judge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 -0700"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "The thing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20thing",
         "pubdate": "Sun, 02 Apr 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Zendaya, Tom Holland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zendaya,%20Tom%20Holland",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 -0700"
       }
     ],
     [
@@ -108,27 +129,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG",
         "pubdate": "Sat, 01 Apr 2023 14:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Michael Jordan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michael%20Jordan",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 -0700"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Sat, 01 Apr 2023 07:00:00 -0700"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 22:55:53",
+  "lastUpdate": "02-04-2023 , 23:11:38",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Newcastle vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Newcastle%20vs%20Man%20United",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0800"
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0800"
       }
     ],
     [
@@ -47,7 +47,7 @@
       {
         "title": "Elche vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Elche%20vs%20Barcelona",
-        "pubdate": "Sun, 02 Apr 2023 03:00:00 +0800"
+        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0800"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Graham Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Graham%20Potter",
+        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Juventus vs Verona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Verona",
         "pubdate": "Sun, 02 Apr 2023 05:00:00 +0800"
@@ -94,20 +101,6 @@
     ],
     [
       {
-        "title": "Inter vs Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20vs%20Fiorentina",
-        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20fc",
-        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "MI vs RCB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MI%20vs%20RCB",
         "pubdate": "Sun, 02 Apr 2023 23:00:00 +0800"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "South Africa vs Netherlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#South%20Africa%20vs%20Netherlands",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0800"
+        "title": "Inter vs Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20vs%20Fiorentina",
+        "pubdate": "Sun, 02 Apr 2023 02:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Graham Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Graham%20Potter",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0800"
+        "title": "South Africa vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#South%20Africa%20vs%20Netherlands",
+        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "RR vs SRH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RR%20vs%20SRH",
         "pubdate": "Sun, 02 Apr 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "EPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EPL",
+        "pubdate": "Sat, 01 Apr 2023 05:00:00 +0800"
       }
     ]
   ]

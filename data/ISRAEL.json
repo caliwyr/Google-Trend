@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-04-2023 , 22:55:52",
+  "lastUpdate": "02-04-2023 , 23:11:37",
   "data": [
+    [
+      {
+        "title": "נאפולי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%90%D7%A4%D7%95%D7%9C%D7%99",
+        "pubdate": "Mon, 03 Apr 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "ריאל מדריד",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "אוסקר גלוך",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%A1%D7%A7%D7%A8%20%D7%92%D7%9C%D7%95%D7%9A",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "נועה תשבי",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%95%D7%A2%D7%94%20%D7%AA%D7%A9%D7%91%D7%99",
         "pubdate": "Sun, 02 Apr 2023 20:00:00 +0300"
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "אוסקר גלוך",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%A1%D7%A7%D7%A8%20%D7%92%D7%9C%D7%95%D7%9A",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Newcastle vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Newcastle%20vs%20Man%20United",
         "pubdate": "Sun, 02 Apr 2023 20:00:00 +0300"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "אלית",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%D7%AA",
-        "pubdate": "Sun, 02 Apr 2023 09:00:00 +0300"
+        "title": "שקד אסלן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%A7%D7%93%20%D7%90%D7%A1%D7%9C%D7%9F",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -69,20 +76,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Real%20Madrid",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "שקד אסלן",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%A7%D7%93%20%D7%90%D7%A1%D7%9C%D7%9F",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WrestleMania 39",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#WrestleMania%2039",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0300"
       }
     ],
     [
@@ -129,15 +122,22 @@
     ],
     [
       {
-        "title": "ריבית בנק ישראל",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%99%D7%91%D7%99%D7%AA%20%D7%91%D7%A0%D7%A7%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
+        "title": "אלית",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%D7%AA",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0300"
       }
     ],
     [
       {
         "title": "Palm Sunday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Palm%20Sunday",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "שי ניצן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%99%20%D7%A0%D7%99%D7%A6%D7%9F",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0300"
       }
     ]
