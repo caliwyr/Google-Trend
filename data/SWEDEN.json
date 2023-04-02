@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-04-2023 , 17:53:15",
+  "lastUpdate": "02-04-2023 , 18:08:28",
   "data": [
+    [
+      {
+        "title": "Hammarby Degerfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Degerfors",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "IFK Göteborg",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Hammarby Fotboll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Degerfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+        "title": "Hammarby Fotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
+        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hampus Finndell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hampus%20Finndell",
         "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "IFK Värnamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leo Carlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Carlsson",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cher",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charlotte Kalla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlotte%20Kalla",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

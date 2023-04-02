@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "02-04-2023 , 17:53:17",
+  "lastUpdate": "02-04-2023 , 18:08:29",
   "data": [
     [
       {
-        "title": "Konyaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid,  Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid,%20%20Valladolid",
+        "title": "Real Madrid, Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid,%20Valladolid",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0300"
       }
     ],
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Konyaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor",
+        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Bursaspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bursaspor",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0300"
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Newcastle United - Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Newcastle%20United%20-%20Manchester%20United",
+        "title": "Newcastle United, Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Newcastle%20United,%20Manchester%20United",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0300"
       }
     ],
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Çorum FK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0300"
+        "title": "Şanlıurfaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor",
+        "pubdate": "Sun, 02 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Kurtlar Vadisi Kaos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kurtlar%20Vadisi%20Kaos",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ece Ronay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ece%20Ronay",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rizespor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atalanta",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray",
-        "pubdate": "Sat, 01 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e",
-        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0300"
       }
     ]
   ]
