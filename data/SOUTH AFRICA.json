@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-04-2023 , 15:55:43",
+  "lastUpdate": "02-04-2023 , 16:14:45",
   "data": [
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
+        "title": "Real Madrid vs Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Valladolid",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "West Ham vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Southampton",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Sepsis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sepsis",
+        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rey Mysterio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rey%20Mysterio",
         "pubdate": "Sun, 02 Apr 2023 05:00:00 +0200"
@@ -24,9 +38,30 @@
     ],
     [
       {
-        "title": "Sepsis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sepsis",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
+        "title": "Manchester United f.c.",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United%20f.c.",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Monza vs Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Monza%20vs%20Lazio",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20Cup",
+        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,13 +87,6 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Aston%20Villa",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
@@ -80,13 +108,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
-        "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1 Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20Australia",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
+        "title": "Palm Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Palm%20Sunday",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Palm Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Palm%20Sunday",
-        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WrestleMania 39",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WrestleMania%2039",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ]
   ]

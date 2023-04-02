@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "02-04-2023 , 15:55:43",
+  "lastUpdate": "02-04-2023 , 16:14:45",
   "data": [
     [
       {
-        "title": "Degerfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IFK Norrköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,20 @@
     ],
     [
       {
+        "title": "Sirius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stalin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stalin",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 14:00:00 +0200"
@@ -80,16 +101,16 @@
     ],
     [
       {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Sat, 01 Apr 2023 13:00:00 +0200"
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bundesliga",
         "pubdate": "Sat, 01 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La%20Liga",
-        "pubdate": "Sat, 01 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
