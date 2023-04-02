@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 15:01:46",
+  "lastUpdate": "02-04-2023 , 15:18:17",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
+        "title": "Jirnsum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jirnsum",
+        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jirnsum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jirnsum",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
+        "title": "Sparta Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Feyenoord",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Waylon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Waylon",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Den Bosch  Willem II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Bosch%20%20Willem%20II",
+        "title": "Den Bosch Willem II",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Bosch%20Willem%20II",
         "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
@@ -108,16 +94,23 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
+        "title": "Ronde van Vlaanderen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronde%20van%20Vlaanderen",
+        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ronde van Vlaanderen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronde%20van%20Vlaanderen",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
         "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Sat, 01 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
