@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 21:51:43",
+  "lastUpdate": "02-04-2023 , 22:02:13",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
+        "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emilie Enger Mehl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Enger%20Mehl",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dennis Hauger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dennis%20Hauger",
-        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Summit 2 Senja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Summit%202%20Senja",
         "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sanna%20Marin",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ]

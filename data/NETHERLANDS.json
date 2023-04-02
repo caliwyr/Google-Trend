@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 21:51:43",
+  "lastUpdate": "02-04-2023 , 22:02:12",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lotte Kopecky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lotte%20Kopecky",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Varsity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Varsity",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Den Bosch Willem II",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Bosch%20Willem%20II",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Parijs-Roubaix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+        "title": "Sanna Marin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sanna%20Marin",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Parijs-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AZ  Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Heerenveen",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
