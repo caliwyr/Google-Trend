@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-04-2023 , 12:59:14",
+  "lastUpdate": "02-04-2023 , 13:19:37",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PALM SUNDAY 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PALM%20SUNDAY%202023",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rey Mysterio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rey%20Mysterio",
         "pubdate": "Sun, 02 Apr 2023 05:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+        "title": "Marvin Gaye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marvin%20Gaye",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "PSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
         "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Bayern vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20Dortmund",
-        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "Epl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Epl",
-        "pubdate": "Sat, 01 Apr 2023 11:00:00 +0200"
+        "title": "Bayern vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20Dortmund",
+        "pubdate": "Sat, 01 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
+        "pubdate": "Sat, 01 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "April Fools pranks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#April%20Fools%20pranks",
-        "pubdate": "Sat, 01 Apr 2023 01:00:00 +0200"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0200"
       }
     ]
   ]
