@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-04-2023 , 19:53:05",
+  "lastUpdate": "02-04-2023 , 20:07:32",
   "data": [
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Formule 1",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "Den Bosch Willem II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Bosch%20Willem%20II",
-        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Waylon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Waylon",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
@@ -104,6 +90,13 @@
         "title": "Nyck de Vries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nyck%20de%20Vries",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Parijs-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

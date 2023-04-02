@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 19:53:10",
+  "lastUpdate": "02-04-2023 , 20:07:37",
   "data": [
     [
       {
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan",
-        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
         "pubdate": "Sun, 02 Apr 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ivy League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ivy%20League",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0700"
       }
     ],
     [
@@ -66,9 +52,30 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ivy League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ivy%20League",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Quang Hải",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Quang%20H%E1%BA%A3i",
         "pubdate": "Sun, 02 Apr 2023 06:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Sakamoto Ryuichi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sakamoto%20Ryuichi",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Đen Vâu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90en%20V%C3%A2u",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Pep Guardiola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Pep%20Guardiola",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0700"
       }
     ]
   ]
