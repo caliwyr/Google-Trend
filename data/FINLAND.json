@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 13:57:01",
+  "lastUpdate": "02-04-2023 , 14:12:06",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "April Fools",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#April%20Fools",
         "pubdate": "Sat, 01 Apr 2023 12:00:00 +0300"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Olivia Dunne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olivia%20Dunne",
+        "title": "OLIVIA DUNNE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#OLIVIA%20DUNNE",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Serena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serena",
         "pubdate": "Sat, 01 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Andre Agassi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andre%20Agassi",
+        "pubdate": "Sat, 01 Apr 2023 12:00:00 +0300"
       }
     ]
   ]

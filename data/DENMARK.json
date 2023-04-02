@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 13:57:01",
+  "lastUpdate": "02-04-2023 , 14:12:06",
   "data": [
     [
       {
@@ -62,13 +62,6 @@
         "title": "Brighton  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Brentford",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rumble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rumble",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
+        "pubdate": "Fri, 31 Mar 2023 06:00:00 +0200"
       }
     ]
   ]
