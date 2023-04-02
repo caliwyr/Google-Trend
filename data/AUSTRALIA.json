@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 18:53:12",
+  "lastUpdate": "02-04-2023 , 19:05:58",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Fernando Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fernando%20Alonso",
+        "pubdate": "Sun, 02 Apr 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
         "pubdate": "Sun, 02 Apr 2023 05:00:00 +1000"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Fernando Alonso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fernando%20Alonso",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +1000"
+        "title": "Sharks vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sharks%20vs%20Warriors",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lando%20Norris",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "John Cena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Cena",
-        "pubdate": "Sun, 02 Apr 2023 11:00:00 +1000"
       }
     ]
   ]

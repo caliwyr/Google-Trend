@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-04-2023 , 18:53:20",
+  "lastUpdate": "02-04-2023 , 19:06:08",
   "data": [
     [
       {
         "title": "Wahlen Luzern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
+        "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -17,20 +24,6 @@
     ],
     [
       {
-        "title": "FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Election geneve 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Election%20geneve%202023",
-        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC St.Gallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.Gallen",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "EHC Biel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Biel",
-        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+        "title": "Election geneve 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Election%20geneve%202023",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fcl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fcl",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
+        "title": "EHC Biel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Biel",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "F1 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%202023",
-        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Thüringen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Th%C3%BCringen",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
+        "title": "F1 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%202023",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Kaley Cuoco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kaley%20Cuoco",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Kaley Cuoco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kaley%20Cuoco",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fernando Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fernando%20Alonso",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dimanche des Rameaux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dimanche%20des%20Rameaux",
+        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 18:53:13",
+  "lastUpdate": "02-04-2023 , 19:05:59",
   "data": [
     [
       {
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "James Cameron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Cameron",
+        "pubdate": "Sun, 02 Apr 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "UConn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UConn",
+        "pubdate": "Sun, 02 Apr 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Carter Verhaeghe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carter%20Verhaeghe",
         "pubdate": "Sun, 02 Apr 2023 02:00:00 -0400"
@@ -68,13 +82,6 @@
       {
         "title": "Autism Awareness Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Day",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "James Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Cameron",
         "pubdate": "Sun, 02 Apr 2023 13:00:00 -0400"
       }
     ],
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Australian Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australian%20Grand%20Prix",
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Formula%201",
         "pubdate": "Sat, 01 Apr 2023 03:00:00 -0400"
       }
     ],
@@ -111,6 +118,13 @@
         "title": "Calgary Flames",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
         "pubdate": "Sat, 01 Apr 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sat, 01 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
         "pubdate": "Sat, 01 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rosalie Vaillancourt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rosalie%20Vaillancourt",
-        "pubdate": "Sat, 01 Apr 2023 17:00:00 -0400"
       }
     ]
   ]
