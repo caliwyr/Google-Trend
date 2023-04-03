@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-04-2023 , 09:53:43",
+  "lastUpdate": "03-04-2023 , 10:10:23",
   "data": [
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Mon, 03 Apr 2023 12:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Petteri Orpo",
@@ -10,9 +17,23 @@
     ],
     [
       {
+        "title": "SDP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SDP",
+        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Frederik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Frederik",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Anthony Joshua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anthony%20Joshua",
         "pubdate": "Sun, 02 Apr 2023 09:00:00 +0300"
@@ -69,13 +83,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Sun, 02 Apr 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Stalin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stalin",
-        "pubdate": "Sun, 02 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Khloé Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Khlo%C3%A9%20Kardashian",
         "pubdate": "Sat, 01 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Aniston",
-        "pubdate": "Sat, 01 Apr 2023 00:00:00 +0300"
       }
     ]
   ]

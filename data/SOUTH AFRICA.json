@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-04-2023 , 09:53:49",
+  "lastUpdate": "03-04-2023 , 10:10:29",
   "data": [
-    [
-      {
-        "title": "Tom Pelphrey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Pelphrey",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Presley Chweneyagae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Presley%20Chweneyagae",
         "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Pelphrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Pelphrey",
+        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
-        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "West Ham vs Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Southampton",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
@@ -66,16 +59,23 @@
     ],
     [
       {
-        "title": "WrestleMania 39 Results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WrestleMania%2039%20Results",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
+        "title": "Roma vs Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma%20vs%20Sampdoria",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Roma vs Sampdoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma%20vs%20Sampdoria",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WrestleMania 39 Results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WrestleMania%2039%20Results",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Bulls vs Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bulls%20vs%20Toulouse",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
+        "title": "Roman Reigns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roman%20Reigns",
+        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Roman Reigns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roman%20Reigns",
-        "pubdate": "Sun, 02 Apr 2023 20:00:00 +0200"
+        "title": "Rey Mysterio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rey%20Mysterio",
+        "pubdate": "Sun, 02 Apr 2023 05:00:00 +0200"
       }
     ]
   ]
