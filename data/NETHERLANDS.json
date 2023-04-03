@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-04-2023 , 03:54:12",
+  "lastUpdate": "03-04-2023 , 04:12:01",
   "data": [
-    [
-      {
-        "title": "Burak Yilmaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Burak%20Yilmaz",
-        "pubdate": "Mon, 03 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ajax",
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+        "title": "Grand Prix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix",
+        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ  Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Heerenveen",
+        "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

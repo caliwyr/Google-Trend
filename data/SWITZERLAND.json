@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 03:54:15",
+  "lastUpdate": "03-04-2023 , 04:12:06",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Napoli - MILAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20-%20MILAN",
+        "title": "Napoli Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Milan",
         "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryuichi Sakamoto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ryuichi%20Sakamoto",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "EHC Biel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Biel",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC St.Gallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.Gallen",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "FC St.Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.Gallen",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luzerner Zeitung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luzerner%20Zeitung",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
@@ -97,20 +104,6 @@
         "title": "Thüringen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Th%C3%BCringen",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ryuichi Sakamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ryuichi%20Sakamoto",
-        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sakamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sakamoto",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Florent Pagny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florent%20Pagny",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Flandern-Rundfahrt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flandern-Rundfahrt",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
