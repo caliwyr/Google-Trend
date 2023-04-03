@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 04:56:44",
+  "lastUpdate": "03-04-2023 , 05:13:17",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "IFK Göteborg mot Värnamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20mot%20V%C3%A4rnamo",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Skellefteå AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anthony Joshua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anthony%20Joshua",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Finland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finland",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0200"
+        "title": "Värnamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cher",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+        "title": "Finland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finland",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

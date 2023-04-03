@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 04:56:38",
+  "lastUpdate": "03-04-2023 , 05:13:11",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "KD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KD",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Must read",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Must%20read",
         "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Balenciaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Balenciaga",
-        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0300"
+        "title": "Frederik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Frederik",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Sat, 01 Apr 2023 18:00:00 +0300"
       }
     ]
   ]
