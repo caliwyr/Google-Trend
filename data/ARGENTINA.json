@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 16:52:51",
+  "lastUpdate": "03-04-2023 , 17:06:51",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "3 de abril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#3%20de%20abril",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Vladlen Tatarsky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vladlen%20Tatarsky",
         "pubdate": "Mon, 03 Apr 2023 10:00:00 -0300"
@@ -59,9 +52,23 @@
     ],
     [
       {
+        "title": "Paro de subte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20de%20subte",
+        "pubdate": "Mon, 03 Apr 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Benfica",
         "pubdate": "Mon, 03 Apr 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villarreal",
+        "pubdate": "Mon, 03 Apr 2023 13:00:00 -0300"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "2 de abril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#2%20de%20abril",
-        "pubdate": "Sun, 02 Apr 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Islas Malvinas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Islas%20Malvinas",
         "pubdate": "Sun, 02 Apr 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Domingo de Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Domingo%20de%20Ramos",
-        "pubdate": "Sun, 02 Apr 2023 01:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Islas Malvinas argentinas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Islas%20Malvinas%20argentinas",
         "pubdate": "Sun, 02 Apr 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dia del Autismo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Autismo",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 -0300"
       }
     ]
   ]

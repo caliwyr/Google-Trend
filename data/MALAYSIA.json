@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "03-04-2023 , 16:53:01",
+  "lastUpdate": "03-04-2023 , 17:07:00",
   "data": [
+    [
+      {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Earthquake",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Indonesia earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indonesia%20earthquake",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Napoli vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Napoli%20vs%20Milan",
+        "pubdate": "Mon, 03 Apr 2023 03:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "PSG vs Lyon",
@@ -10,9 +31,9 @@
     ],
     [
       {
-        "title": "Napoli vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Napoli%20vs%20Milan",
-        "pubdate": "Mon, 03 Apr 2023 03:00:00 +0800"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
+        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -38,6 +59,13 @@
     ],
     [
       {
+        "title": "CSK vs LSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CSK%20vs%20LSG",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "My Home Hero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#My%20Home%20Hero",
         "pubdate": "Mon, 03 Apr 2023 11:00:00 +0800"
@@ -48,20 +76,6 @@
         "title": "Stormy Daniels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Stormy%20Daniels",
         "pubdate": "Mon, 03 Apr 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "CSK vs LSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CSK%20vs%20LSG",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lionel%20Messi%20PSG",
-        "pubdate": "Mon, 03 Apr 2023 15:00:00 +0800"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Elche vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Elche%20vs%20Barcelona",
-        "pubdate": "Sun, 02 Apr 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Graham Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Graham%20Potter",
         "pubdate": "Sun, 02 Apr 2023 16:00:00 +0800"
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Elche vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Elche%20vs%20Barcelona",
+        "pubdate": "Sun, 02 Apr 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mu vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu%20vs%20Newcastle",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#West%20Ham%20vs%20Southampton",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Formula%201",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0800"
       }
     ]
   ]
