@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-04-2023 , 22:50:36",
+  "lastUpdate": "03-04-2023 , 23:00:09",
   "data": [
+    [
+      {
+        "title": "Lewis Capaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lewis%20Capaldi",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Finding Michael",
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Palmesøndag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Palmes%C3%B8ndag",
+        "pubdate": "Sun, 02 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Sun, 02 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-        "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Graham Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Graham%20Potter",
-        "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
