@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 07:51:56",
+  "lastUpdate": "03-04-2023 , 08:08:07",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Paris-sg – Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris-sg%20%E2%80%93%20Lyon",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
@@ -66,20 +73,6 @@
     ],
     [
       {
-        "title": "KAS Eupen – Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAS%20Eupen%20%E2%80%93%20Anderlecht",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronde van Vlaanderen (vrouwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Vlaanderen%20(vrouwen",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marathon Paris 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Paris%202023",
         "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Florent Pagny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florent%20Pagny",
         "pubdate": "Sun, 02 Apr 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
-        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,6 +118,20 @@
         "title": "Tim Wellens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tim%20Wellens",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Parijs-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Parijs-Roubaix",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
       }
     ],
     [
