@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-04-2023 , 05:53:33",
+  "lastUpdate": "03-04-2023 , 06:11:11",
   "data": [
-    [
-      {
-        "title": "Burak Yilmaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Burak%20Yilmaz",
-        "pubdate": "Mon, 03 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ajax",
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Fortuna Sittard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
+        "title": "Sanna Marin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sanna%20Marin",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Nyck de Vries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nyck%20de%20Vries",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sanna%20Marin",
-        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "AZ  Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Heerenveen",
         "pubdate": "Sat, 01 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
+        "pubdate": "Sat, 01 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

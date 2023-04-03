@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 05:53:38",
+  "lastUpdate": "03-04-2023 , 06:11:14",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Besiktas",
+        "pubdate": "Mon, 03 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wahlen Luzern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern",
         "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Milan",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
         "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Milan",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Elections geneve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elections%20geneve",
-        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Free Guy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Free%20Guy",
         "pubdate": "Sun, 02 Apr 2023 20:00:00 +0200"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Elections geneve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elections%20geneve",
+        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lewis%20Hamilton",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "The Masked Singer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Masked%20Singer",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florent Pagny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florent%20Pagny",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
