@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-04-2023 , 06:57:37",
+  "lastUpdate": "03-04-2023 , 07:14:32",
   "data": [
     [
       {
         "title": "Grease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grease",
         "pubdate": "Mon, 03 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Les Grands Buffets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Grands%20Buffets",
+        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Lille – Lorient",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lille%20%E2%80%93%20Lorient",
+        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Paris-sg – Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris-sg%20%E2%80%93%20Lyon",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 02 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -34,20 +48,6 @@
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
         "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eupen-Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eupen-Anderlecht",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Sun, 02 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "KAS Eupen – Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAS%20Eupen%20%E2%80%93%20Anderlecht",
         "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ronde van Vlaanderen (vrouwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Vlaanderen%20(vrouwen",
+        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -111,13 +118,6 @@
         "title": "Union Saint-Gilloise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli%20%20Milan",
-        "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
       }
     ],
     [
