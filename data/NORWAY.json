@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 23:59:28",
+  "lastUpdate": "03-04-2023 , 01:33:06",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Senja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Senja",
+        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emilie Enger Mehl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Enger%20Mehl",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Graham Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Graham%20Potter",
+        "pubdate": "Sun, 02 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Kirkenes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kirkenes",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
+        "title": "Kirkenes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kirkenes",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liverpool Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Manchester%20City",
         "pubdate": "Sat, 01 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Summit 2 Senja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Summit%202%20Senja",
-        "pubdate": "Sat, 01 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sanna%20Marin",
-        "pubdate": "Sat, 01 Apr 2023 19:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2023 , 23:59:30",
+  "lastUpdate": "03-04-2023 , 01:33:08",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanna%20Marin",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Halmstad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Halmstad",
-        "pubdate": "Sun, 02 Apr 2023 20:00:00 +0200"
+        "title": "Anders Aukland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Aukland",
+        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Anders Aukland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Aukland",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cher",
+        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
       }
     ]
   ]
