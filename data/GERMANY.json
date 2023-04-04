@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-04-2023 , 15:45:04",
+  "lastUpdate": "04-04-2023 , 15:54:28",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
+        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
-        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cheyenne Ochsenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cheyenne%20Ochsenknecht",
-        "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20live",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
-        "title": "Muriel Baumeister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Muriel%20Baumeister",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
+        "title": "Klaus Teuber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klaus%20Teuber",
+        "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20live",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zugunglück Niederlande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zugungl%C3%BCck%20Niederlande",
+        "pubdate": "Tue, 04 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Verbraucherzentrale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verbraucherzentrale",
-        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
+        "title": "Markus Lanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20Lanz",
+        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Unfall Bad Langensalza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unfall%20Bad%20Langensalza",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ryuichi Sakamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ryuichi%20Sakamoto",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
