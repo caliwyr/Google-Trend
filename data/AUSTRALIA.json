@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-04-2023 , 01:07:13",
+  "lastUpdate": "04-04-2023 , 02:11:28",
   "data": [
     [
       {
         "title": "Everton vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Tottenham",
         "pubdate": "Tue, 04 Apr 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "RBA interest rates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA%20interest%20rates",
+        "pubdate": "Tue, 04 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Chris Hemsworth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Hemsworth",
-        "pubdate": "Tue, 04 Apr 2023 03:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Russell Crowe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Russell%20Crowe",
         "pubdate": "Tue, 04 Apr 2023 09:00:00 +1000"
@@ -52,16 +52,23 @@
     ],
     [
       {
-        "title": "Laura Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Laura%20Woods",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +1000"
+        "title": "Chris Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Hemsworth",
+        "pubdate": "Tue, 04 Apr 2023 03:00:00 +1000"
       }
     ],
     [
       {
-        "title": "RBA interest rates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA%20interest%20rates",
-        "pubdate": "Tue, 04 Apr 2023 10:00:00 +1000"
+        "title": "Blue Beetle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blue%20Beetle",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "BWX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BWX",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +1000"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Masters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masters",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
         "pubdate": "Mon, 03 Apr 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Caitlin Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Caitlin%20Clark",
-        "pubdate": "Mon, 03 Apr 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Curtis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Curtis%20Scott",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +1000"
       }
     ]
   ]
