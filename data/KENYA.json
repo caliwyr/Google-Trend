@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 08:48:31",
+  "lastUpdate": "04-04-2023 , 08:57:46",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "Doge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Doge",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trump",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Everton vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Tottenham",
         "pubdate": "Mon, 03 Apr 2023 06:00:00 +0300"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Raila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila",
-        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0300"
+        "title": "Chelsea vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Liverpool",
+        "pubdate": "Mon, 03 Apr 2023 11:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Sassuolo vs Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sassuolo%20vs%20Torino",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0300"
+        "title": "Raila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila",
+        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0300"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Chelsea vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Liverpool",
-        "pubdate": "Mon, 03 Apr 2023 11:00:00 +0300"
+        "title": "Sassuolo vs Torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sassuolo%20vs%20Torino",
+        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0300"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luis%20Enrique",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0300"
+        "title": "Arsenal Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Premier%20League",
+        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Arsenal Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Premier%20League",
-        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0300"
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luis%20Enrique",
+        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSC",
         "pubdate": "Mon, 03 Apr 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Alligator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alligator",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Chuck Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chuck%20Norris",
-        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0300"
       }
     ]
   ]
