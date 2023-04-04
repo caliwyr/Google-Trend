@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-04-2023 , 12:54:34",
+  "lastUpdate": "04-04-2023 , 13:14:13",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Günther Jauch",
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sanna%20Marin",
-        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sebastian Hoeneß",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sebastian%20Hoene%C3%9F",
         "pubdate": "Mon, 03 Apr 2023 18:00:00 +0200"
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Matcha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matcha",
+        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Militante Veganerin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Militante%20Veganerin",
         "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "WWE WrestleMania 39",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WWE%20WrestleMania%2039",
         "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kindergrundsicherung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kindergrundsicherung",
-        "pubdate": "Sun, 02 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
