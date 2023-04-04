@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 03:54:19",
+  "lastUpdate": "04-04-2023 , 04:12:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Deutschlandticket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschlandticket",
         "pubdate": "Mon, 03 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Postbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Postbank",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kindergrundsicherung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kindergrundsicherung",
         "pubdate": "Sun, 02 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gladbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gladbach",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
