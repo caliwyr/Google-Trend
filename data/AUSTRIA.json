@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-04-2023 , 09:44:56",
+  "lastUpdate": "04-04-2023 , 09:54:22",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Seymour Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Seymour%20Stein",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "News Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#News%20Wien",
-        "pubdate": "Tue, 04 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Marlene Schiappa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marlene%20Schiappa",
-        "pubdate": "Mon, 03 Apr 2023 14:00:00 +0200"
+        "title": "News Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#News%20Wien",
+        "pubdate": "Tue, 04 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "Marlène Schiappa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marl%C3%A8ne%20Schiappa",
+        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ski Austria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Austria",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Austria Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
         "pubdate": "Mon, 03 Apr 2023 12:00:00 +0200"
@@ -59,44 +73,9 @@
     ],
     [
       {
-        "title": "Formel 1 heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201%20heute",
-        "pubdate": "Mon, 03 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ski Austria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Austria",
-        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Meg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meg",
-        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ed Sheeran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ed%20Sheeran",
         "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ligue-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ligue-1",
-        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ölpreis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96lpreis",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -108,9 +87,23 @@
     ],
     [
       {
+        "title": "Ligue-1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ligue-1",
+        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DFB-Pokal",
         "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meg",
+        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eintracht%20Frankfurt",
         "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Höhle der Löwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#H%C3%B6hle%20der%20L%C3%B6wen",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
