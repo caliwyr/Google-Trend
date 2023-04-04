@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "04-04-2023 , 04:47:42",
+  "lastUpdate": "04-04-2023 , 04:57:07",
   "data": [
+    [
+      {
+        "title": "Jenifer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jenifer",
+        "pubdate": "Tue, 04 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Blue Beetle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Blue%20Beetle",
+        "pubdate": "Tue, 04 Apr 2023 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Marseille",
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Finlande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Finlande",
+        "pubdate": "Mon, 03 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Graham Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Graham%20Potter",
         "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Girl in Red",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Girl%20in%20Red",
         "pubdate": "Mon, 03 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ma part du gateau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ma%20part%20du%20gateau",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florent Pagny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Florent%20Pagny",
-        "pubdate": "Sun, 02 Apr 2023 10:00:00 +0200"
       }
     ]
   ]

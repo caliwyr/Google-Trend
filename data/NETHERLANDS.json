@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 04:47:45",
+  "lastUpdate": "04-04-2023 , 04:57:10",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Spakenburg - PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spakenburg%20-%20PSV",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
+        "title": "Goede Vrijdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goede%20Vrijdag",
+        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barry Atsma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barry%20Atsma",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ]
   ]

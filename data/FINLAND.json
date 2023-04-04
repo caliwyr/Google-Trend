@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 04:47:42",
+  "lastUpdate": "04-04-2023 , 04:57:06",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-        "pubdate": "Mon, 03 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Marlene Schiappa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marlene%20Schiappa",
         "pubdate": "Mon, 03 Apr 2023 20:00:00 +0300"
@@ -38,23 +31,9 @@
     ],
     [
       {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "PSG – Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Lyon",
         "pubdate": "Mon, 03 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sri%20Lanka",
-        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -129,6 +108,13 @@
     ],
     [
       {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
+        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Vladlen Tatarsky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vladlen%20Tatarsky",
         "pubdate": "Sun, 02 Apr 2023 21:00:00 +0300"
@@ -139,6 +125,20 @@
         "title": "F1 Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1%20Australia",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KD",
+        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Joshua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anthony%20Joshua",
+        "pubdate": "Sun, 02 Apr 2023 09:00:00 +0300"
       }
     ]
   ]
