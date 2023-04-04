@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-04-2023 , 07:53:04",
+  "lastUpdate": "04-04-2023 , 08:10:48",
   "data": [
     [
       {
         "title": "Stormy Daniels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stormy%20Daniels",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
         "pubdate": "Tue, 04 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Colombia",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Sakamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sakamoto",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
         "pubdate": "Sun, 02 Apr 2023 14:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanna%20Marin",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
       }
     ]
   ]

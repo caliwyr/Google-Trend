@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-04-2023 , 07:52:56",
+  "lastUpdate": "04-04-2023 , 08:10:40",
   "data": [
     [
       {
         "title": "Seymour Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Seymour%20Stein",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "USS Santa Barbara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#USS%20Santa%20Barbara",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Ski Austria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Austria",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meg",
         "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
@@ -69,13 +83,6 @@
         "title": "Ed Sheeran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ed%20Sheeran",
         "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ski Austria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Austria",
-        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Höhle der Löwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#H%C3%B6hle%20der%20L%C3%B6wen",
-        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NATO",
+        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Graham Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Graham%20Potter",
-        "pubdate": "Mon, 03 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NATO",
-        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
+        "title": "Höhle der Löwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#H%C3%B6hle%20der%20L%C3%B6wen",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
