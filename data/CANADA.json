@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 02:47:38",
+  "lastUpdate": "04-04-2023 , 02:57:01",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Donald%20Trump",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Everton vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Everton%20vs%20Tottenham",
         "pubdate": "Mon, 03 Apr 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dogecoin",
+        "pubdate": "Mon, 03 Apr 2023 17:00:00 -0400"
       }
     ],
     [
@@ -59,23 +73,16 @@
     ],
     [
       {
-        "title": "Dogecoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dogecoin",
-        "pubdate": "Mon, 03 Apr 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Oil price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oil%20price",
+        "title": "Oilprice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilprice",
         "pubdate": "Mon, 03 Apr 2023 08:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Matt Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Murray",
-        "pubdate": "Mon, 03 Apr 2023 00:00:00 -0400"
+        "title": "Yellowstone Kevin Costner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowstone%20Kevin%20Costner",
+        "pubdate": "Mon, 03 Apr 2023 18:00:00 -0400"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Yellowstone Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowstone%20Kevin%20Costner",
-        "pubdate": "Mon, 03 Apr 2023 18:00:00 -0400"
+        "title": "Matt Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Murray",
+        "pubdate": "Mon, 03 Apr 2023 00:00:00 -0400"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Japan",
-        "pubdate": "Mon, 03 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "P.E.I. election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#P.E.I.%20election",
         "pubdate": "Mon, 03 Apr 2023 20:00:00 -0400"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Mike Ward",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mike%20Ward",
-        "pubdate": "Mon, 03 Apr 2023 07:00:00 -0400"
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Japan",
+        "pubdate": "Mon, 03 Apr 2023 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Easter Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Easter%20Monday",
-        "pubdate": "Mon, 03 Apr 2023 12:00:00 -0400"
+        "title": "Marjorie Greene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marjorie%20Greene",
+        "pubdate": "Mon, 03 Apr 2023 21:00:00 -0400"
       }
     ]
   ]

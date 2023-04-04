@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 02:47:44",
+  "lastUpdate": "04-04-2023 , 02:57:07",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Holy Tuesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Holy%20Tuesday",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Weather forecast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Weather%20forecast",
+        "pubdate": "Tue, 04 Apr 2023 10:00:00 +0800"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Log",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Log",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Jarred Vanderbilt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jarred%20Vanderbilt",
         "pubdate": "Tue, 04 Apr 2023 02:00:00 +0800"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Log",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Log",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0800"
+        "title": "Kylie Padilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kylie%20Padilla",
+        "pubdate": "Tue, 04 Apr 2023 10:00:00 +0800"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Araw ng Kagitingan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Araw%20ng%20Kagitingan",
+        "pubdate": "Mon, 03 Apr 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Bucks vs 76ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bucks%20vs%2076ers",
         "pubdate": "Mon, 03 Apr 2023 11:00:00 +0800"
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Araw ng Kagitingan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Araw%20ng%20Kagitingan",
-        "pubdate": "Mon, 03 Apr 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Durant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kevin%20Durant",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Maundy Thursday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Maundy%20Thursday",
         "pubdate": "Mon, 03 Apr 2023 11:00:00 +0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Summer McIntosh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Summer%20McIntosh",
-        "pubdate": "Mon, 03 Apr 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "D'Angelo Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#D'Angelo%20Russell",
-        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0800"
+        "title": "Kevin Durant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kevin%20Durant",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0800"
       }
     ]
   ]

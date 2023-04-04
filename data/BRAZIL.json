@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 02:47:38",
+  "lastUpdate": "04-04-2023 , 02:57:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Besouro Azul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besouro%20Azul",
-        "pubdate": "Mon, 03 Apr 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia",
         "pubdate": "Mon, 03 Apr 2023 05:00:00 -0500"
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Novo ensino médio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novo%20ensino%20m%C3%A9dio",
+        "title": "Novo Ensino Médio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novo%20Ensino%20M%C3%A9dio",
         "pubdate": "Mon, 03 Apr 2023 13:00:00 -0500"
       }
     ],
@@ -48,6 +41,13 @@
         "title": "Semana Santa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Semana%20Santa",
         "pubdate": "Mon, 03 Apr 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Calendario ABRIL 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calendario%20ABRIL%202023",
+        "pubdate": "Mon, 03 Apr 2023 12:00:00 -0500"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Calendario ABRIL 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calendario%20ABRIL%202023",
-        "pubdate": "Mon, 03 Apr 2023 16:00:00 -0500"
+        "title": "Patricia Poeta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Patricia%20Poeta",
+        "pubdate": "Mon, 03 Apr 2023 14:00:00 -0500"
       }
     ],
     [
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "Patricia Poeta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Patricia%20Poeta",
+        "title": "Filme Besouro Azul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filme%20Besouro%20Azul",
         "pubdate": "Mon, 03 Apr 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coelho da Páscoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coelho%20da%20P%C3%A1scoa",
-        "pubdate": "Mon, 03 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bibi Perigosa presa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bibi%20Perigosa%20presa",
-        "pubdate": "Mon, 03 Apr 2023 02:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Coelho da Páscoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coelho%20da%20P%C3%A1scoa",
+        "pubdate": "Mon, 03 Apr 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Explosão russia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Explos%C3%A3o%20russia",
         "pubdate": "Mon, 03 Apr 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "IPTU goiania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPTU%20goiania",
+        "pubdate": "Mon, 03 Apr 2023 12:00:00 -0500"
       }
     ]
   ]
