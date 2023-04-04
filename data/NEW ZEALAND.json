@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 21:49:29",
+  "lastUpdate": "04-04-2023 , 21:59:07",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
+        "title": "Time in New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time%20in%20New%20York",
+        "pubdate": "Wed, 05 Apr 2023 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Donald%20Trump",
         "pubdate": "Tue, 04 Apr 2023 21:00:00 +1200"
       }
     ],
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Phillip Schofield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phillip%20Schofield",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 +1200"
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
+        "pubdate": "Tue, 04 Apr 2023 19:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Jacinda Ardern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
-        "pubdate": "Tue, 04 Apr 2023 19:00:00 +1200"
+        "title": "Phillip Schofield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phillip%20Schofield",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 +1200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Transmission Gully",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Transmission%20Gully",
-        "pubdate": "Tue, 04 Apr 2023 12:00:00 +1200"
+        "title": "Bushwhacker Butch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bushwhacker%20Butch",
+        "pubdate": "Tue, 04 Apr 2023 17:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Bushwhacker Butch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bushwhacker%20Butch",
-        "pubdate": "Tue, 04 Apr 2023 17:00:00 +1200"
+        "title": "Transmission Gully",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Transmission%20Gully",
+        "pubdate": "Tue, 04 Apr 2023 12:00:00 +1200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "EziBuy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EziBuy",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Starlink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Starlink",
         "pubdate": "Mon, 03 Apr 2023 15:00:00 +1200"
@@ -125,20 +139,6 @@
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ryuichi%20Sakamoto",
         "pubdate": "Mon, 03 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Marlène Schiappa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marl%C3%A8ne%20Schiappa",
-        "pubdate": "Mon, 03 Apr 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sanna%20Marin",
-        "pubdate": "Mon, 03 Apr 2023 14:00:00 +1200"
       }
     ]
   ]
