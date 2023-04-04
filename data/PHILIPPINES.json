@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 18:48:23",
+  "lastUpdate": "04-04-2023 , 18:57:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ohio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ohio",
         "pubdate": "Wed, 05 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Holy Wednesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Holy%20Wednesday",
+        "pubdate": "Wed, 05 Apr 2023 02:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "MIR4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#MIR4",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Windy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Windy",
-        "pubdate": "Tue, 04 Apr 2023 10:00:00 +0800"
       }
     ]
   ]
