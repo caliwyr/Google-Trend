@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-04-2023 , 19:49:24",
+  "lastUpdate": "04-04-2023 , 19:58:44",
   "data": [
     [
       {
         "title": "Leicester vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20vs%20Aston%20Villa",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Juventus vs Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Inter",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0300"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Leeds vs Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20vs%20Nottingham%20Forest",
+        "title": "Juventus vs Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Inter",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Leeds United vs nottm Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20United%20vs%20nottm%20Forest",
         "pubdate": "Tue, 04 Apr 2023 12:00:00 +0300"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester",
+        "pubdate": "Tue, 04 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Bayern vs Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20vs%20Freiburg",
         "pubdate": "Tue, 04 Apr 2023 16:00:00 +0300"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester",
-        "pubdate": "Tue, 04 Apr 2023 21:00:00 +0300"
+        "title": "Blue Beetle movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blue%20Beetle%20movie",
+        "pubdate": "Tue, 04 Apr 2023 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Blue Beetle movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blue%20Beetle%20movie",
-        "pubdate": "Tue, 04 Apr 2023 18:00:00 +0300"
+        "title": "Al-Adalah vs Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al-Adalah%20vs%20Al-Nassr",
+        "pubdate": "Tue, 04 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Premier%20League",
         "pubdate": "Mon, 03 Apr 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luis%20Enrique",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0300"
       }
     ]
   ]
