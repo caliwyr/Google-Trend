@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-04-2023 , 17:48:25",
+  "lastUpdate": "04-04-2023 , 17:57:57",
   "data": [
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eintracht Frankfurt gegen Union Berlin",
@@ -17,8 +10,22 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Muriel Baumeister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Muriel%20Baumeister",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ed%20Sheeran",
-        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
+        "title": "Zugunglück Niederlande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zugungl%C3%BCck%20Niederlande",
+        "pubdate": "Tue, 04 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Zugunglück Niederlande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zugungl%C3%BCck%20Niederlande",
-        "pubdate": "Tue, 04 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20live",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+        "title": "Ed Sheeran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ed%20Sheeran",
+        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Matcha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matcha",
-        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
+        "title": "Markus Lanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20Lanz",
+        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Militante Veganerin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Militante%20Veganerin",
-        "pubdate": "Sun, 02 Apr 2023 21:00:00 +0200"
+        "title": "Matcha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matcha",
+        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
       }
     ]
   ]
