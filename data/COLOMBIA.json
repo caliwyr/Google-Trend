@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-04-2023 , 23:55:36",
+  "lastUpdate": "04-04-2023 , 01:07:14",
   "data": [
-    [
-      {
-        "title": "Test de personalidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Test%20de%20personalidad",
-        "pubdate": "Mon, 03 Apr 2023 10:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Everton  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Everton%20%20Tottenham",
         "pubdate": "Mon, 03 Apr 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Test de personalidad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Test%20de%20personalidad",
+        "pubdate": "Mon, 03 Apr 2023 10:00:00 -0500"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20United",
         "pubdate": "Mon, 03 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cucuta Deportivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cucuta%20Deportivo",
+        "pubdate": "Mon, 03 Apr 2023 18:00:00 -0500"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Pico y Placa Cartagena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pico%20y%20Placa%20Cartagena",
+        "title": "Pico y placa Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pico%20y%20placa%20Cartagena",
         "pubdate": "Mon, 03 Apr 2023 10:00:00 -0500"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Atletico Huila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atletico%20Huila",
-        "pubdate": "Mon, 03 Apr 2023 07:00:00 -0500"
+        "title": "Alianza Petrolera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alianza%20Petrolera",
+        "pubdate": "Mon, 03 Apr 2023 14:00:00 -0500"
       }
     ],
     [
@@ -76,6 +83,20 @@
         "title": "Vuelta al pais Vasco 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Vuelta%20al%20pais%20Vasco%202023",
         "pubdate": "Mon, 03 Apr 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Huila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atletico%20Huila",
+        "pubdate": "Mon, 03 Apr 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Brasil Sub-17  Colombia Sub-17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Brasil%20Sub-17%20%20Colombia%20Sub-17",
+        "pubdate": "Mon, 03 Apr 2023 19:00:00 -0500"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Napoli vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Napoli%20vs%20Milan",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Atlético Madrid  Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Madrid%20%20Betis",
         "pubdate": "Sun, 02 Apr 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Domingo de ramos 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Domingo%20de%20ramos%202023",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Erupcion volcan Nevado del Ruiz hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Erupcion%20volcan%20Nevado%20del%20Ruiz%20hoy",
-        "pubdate": "Sun, 02 Apr 2023 16:00:00 -0500"
       }
     ]
   ]

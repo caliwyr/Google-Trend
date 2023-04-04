@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 23:55:37",
+  "lastUpdate": "04-04-2023 , 01:07:14",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
         "pubdate": "Tue, 04 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -31,6 +38,20 @@
     ],
     [
       {
+        "title": "Sanjay Shah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sanjay%20Shah",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dogecoin",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alcudia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alcudia",
         "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
@@ -41,13 +62,6 @@
         "title": "Montenegro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Montenegro",
         "pubdate": "Mon, 03 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dogecoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dogecoin",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Finland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Finland",
         "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Max%20Verstappen",
-        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Medina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medina",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
