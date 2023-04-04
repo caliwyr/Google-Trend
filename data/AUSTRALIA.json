@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-04-2023 , 13:46:59",
+  "lastUpdate": "04-04-2023 , 13:56:13",
   "data": [
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Donald%20Trump",
-        "pubdate": "Tue, 04 Apr 2023 15:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Jarryd Hayne",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Donald%20Trump",
+        "pubdate": "Tue, 04 Apr 2023 15:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Everton vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Tottenham",
         "pubdate": "Tue, 04 Apr 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
+        "pubdate": "Tue, 04 Apr 2023 20:00:00 +1000"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Liz Ellis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liz%20Ellis",
+        "pubdate": "Tue, 04 Apr 2023 23:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Blue Beetle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blue%20Beetle",
         "pubdate": "Tue, 04 Apr 2023 11:00:00 +1000"
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Trove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trove",
-        "pubdate": "Tue, 04 Apr 2023 00:00:00 +1000"
+        "title": "Vince McMahon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vince%20McMahon",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Vince McMahon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vince%20McMahon",
-        "pubdate": "Tue, 04 Apr 2023 11:00:00 +1000"
+        "title": "Trove",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trove",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +1000"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Marlene Schiappa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marlene%20Schiappa",
-        "pubdate": "Tue, 04 Apr 2023 05:00:00 +1000"
+        "title": "Renee Geyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renee%20Geyer",
+        "pubdate": "Tue, 04 Apr 2023 19:00:00 +1000"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Renee Geyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renee%20Geyer",
-        "pubdate": "Tue, 04 Apr 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Super Mario Bros. Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20Mario%20Bros.%20Movie",
-        "pubdate": "Tue, 04 Apr 2023 18:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Hugh Jackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hugh%20Jackman",
-        "pubdate": "Tue, 04 Apr 2023 20:00:00 +1000"
+        "title": "Lionel Messi PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lionel%20Messi%20PSG",
+        "pubdate": "Tue, 04 Apr 2023 12:00:00 +1000"
       }
     ]
   ]
