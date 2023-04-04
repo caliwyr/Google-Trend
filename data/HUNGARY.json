@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 14:46:05",
+  "lastUpdate": "04-04-2023 , 14:55:41",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
+        "pubdate": "Tue, 04 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Madeleine%20McCann",
         "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
@@ -34,13 +41,6 @@
         "title": "Újpest FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
         "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MTK Nyíregyháza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MTK%20Ny%C3%ADregyh%C3%A1za",
-        "pubdate": "Tue, 04 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Rost Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rost%20Andrea",
+        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Valencia–Rayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valencia%E2%80%93Rayo",
         "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Polgár Tünde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20T%C3%BCnde",
-        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joker",
         "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Cooky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cooky",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
+        "title": "Polgár Tünde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20T%C3%BCnde",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
       }
     ]
   ]

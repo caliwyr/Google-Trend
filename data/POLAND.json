@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 14:46:10",
+  "lastUpdate": "04-04-2023 , 14:55:44",
   "data": [
     [
       {
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Warner Bros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Warner%20Bros",
+        "title": "Artemis 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Artemis%202",
         "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Madeleine McCann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Madeleine%20McCann",
+        "pubdate": "Tue, 04 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Marlene Schiappa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marlene%20Schiappa",
+        "pubdate": "Mon, 03 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
         "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Koszyk wielkanocny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Koszyk%20wielkanocny",
         "pubdate": "Mon, 03 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tradycje wielkanocne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tradycje%20wielkanocne",
-        "pubdate": "Mon, 03 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kaley Cuoco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kaley%20Cuoco",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
       }
     ]
   ]
