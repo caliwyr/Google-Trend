@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 02:42:53",
+  "lastUpdate": "05-04-2023 , 02:52:11",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Chelsea x Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea%20x%20Liverpool",
         "pubdate": "Tue, 04 Apr 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertadores",
+        "pubdate": "Tue, 04 Apr 2023 21:00:00 -0500"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Liga dos Campeões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20dos%20Campe%C3%B5es",
+        "pubdate": "Tue, 04 Apr 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Union%20Berlin",
         "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brighton",
         "pubdate": "Tue, 04 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Prefeitura de goiania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prefeitura%20de%20goiania",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Aesop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aesop",
-        "pubdate": "Tue, 04 Apr 2023 10:00:00 -0500"
       }
     ]
   ]

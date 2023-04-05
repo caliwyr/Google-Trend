@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 02:43:02",
+  "lastUpdate": "05-04-2023 , 02:52:16",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Chelsea  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea%20%20Liverpool",
         "pubdate": "Tue, 04 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twitter",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "ESPN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ESPN",
-        "pubdate": "Tue, 04 Apr 2023 20:00:00 +0200"
+        "title": "KNVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
+        "pubdate": "Tue, 04 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
       }
     ]
   ]
