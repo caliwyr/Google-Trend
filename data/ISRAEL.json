@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 18:49:28",
+  "lastUpdate": "05-04-2023 , 18:58:48",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "חג פסח",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%92%20%D7%A4%D7%A1%D7%97",
         "pubdate": "Wed, 05 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "מעיין אדם",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A2%D7%99%D7%99%D7%9F%20%D7%90%D7%93%D7%9D",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "ליל הסדר",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%9C%20%D7%94%D7%A1%D7%93%D7%A8",
-        "pubdate": "Wed, 05 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "ליאו מסי",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%90%D7%95%20%D7%9E%D7%A1%D7%99",
         "pubdate": "Wed, 05 Apr 2023 15:00:00 +0300"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "הר הבית",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A8%20%D7%94%D7%91%D7%99%D7%AA",
-        "pubdate": "Wed, 05 Apr 2023 15:00:00 +0300"
+        "title": "ליל הסדר",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%9C%20%D7%94%D7%A1%D7%93%D7%A8",
+        "pubdate": "Wed, 05 Apr 2023 19:00:00 +0300"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "צ'לסי",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6'%D7%9C%D7%A1%D7%99",
         "pubdate": "Wed, 05 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "והיא שעמדה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%95%D7%94%D7%99%D7%90%20%D7%A9%D7%A2%D7%9E%D7%93%D7%94",
-        "pubdate": "Wed, 05 Apr 2023 18:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "הפועל באר שבע",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%91%D7%90%D7%A8%20%D7%A9%D7%91%D7%A2",
         "pubdate": "Tue, 04 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Book Depository",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Book%20Depository",
+        "pubdate": "Tue, 04 Apr 2023 20:00:00 +0300"
       }
     ]
   ]
