@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 13:41:34",
+  "lastUpdate": "05-04-2023 , 13:51:07",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Chelsea vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Liverpool",
-        "pubdate": "Wed, 05 Apr 2023 08:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Book Depository",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Book%20Depository",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 +1200"
@@ -41,6 +34,13 @@
         "title": "Barbie movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barbie%20movie",
         "pubdate": "Wed, 05 Apr 2023 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Liverpool",
+        "pubdate": "Wed, 05 Apr 2023 08:00:00 +1200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
         "pubdate": "Wed, 05 Apr 2023 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
+        "pubdate": "Wed, 05 Apr 2023 11:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jacinda Ardern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
         "pubdate": "Tue, 04 Apr 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Jarryd Hayne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jarryd%20Hayne",
-        "pubdate": "Tue, 04 Apr 2023 21:00:00 +1200"
       }
     ]
   ]
