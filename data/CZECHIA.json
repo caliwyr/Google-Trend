@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 10:48:50",
+  "lastUpdate": "05-04-2023 , 10:58:04",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Book Depository",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Book%20Depository",
+        "pubdate": "Wed, 05 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NATO",
         "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
@@ -34,6 +41,13 @@
         "title": "Kvitova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kvitova",
         "pubdate": "Tue, 04 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Škaredá středa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0kared%C3%A1%20st%C5%99eda",
+        "pubdate": "Tue, 04 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Emil Boček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emil%20Bo%C4%8Dek",
+        "pubdate": "Tue, 04 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Al%20Nassr",
         "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
@@ -94,6 +115,13 @@
     ],
     [
       {
+        "title": "Dylan Moran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dylan%20Moran",
+        "pubdate": "Tue, 04 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
         "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
@@ -111,34 +139,6 @@
         "title": "Aleš Zavoral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ale%C5%A1%20Zavoral",
         "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Poslanecká sněmovna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poslaneck%C3%A1%20sn%C4%9Bmovna",
-        "pubdate": "Tue, 04 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "René - Vězeň svobody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ren%C3%A9%20-%20V%C4%9Bze%C5%88%20svobody",
-        "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jindřich Rajchl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Rajchl",
-        "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Virgin Orbit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Virgin%20Orbit",
-        "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
