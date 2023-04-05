@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 23:59:11",
+  "lastUpdate": "05-04-2023 , 01:16:41",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Tue, 04 Apr 2023 10:00:00 -0500"
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+        "pubdate": "Tue, 04 Apr 2023 10:00:00 -0500"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 -0500"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Copa Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20Libertadores",
+        "pubdate": "Tue, 04 Apr 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Santa Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
         "pubdate": "Tue, 04 Apr 2023 16:00:00 -0500"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 -0500"
+        "title": "Goias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
+        "pubdate": "Tue, 04 Apr 2023 17:00:00 -0500"
       }
     ],
     [
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Goias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
+        "title": "Argentinos Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentinos%20Juniors",
         "pubdate": "Tue, 04 Apr 2023 17:00:00 -0500"
       }
     ],
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Athletic Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletic%20Bilbao",
+        "pubdate": "Tue, 04 Apr 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Prefeitura de goiania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prefeitura%20de%20goiania",
         "pubdate": "Tue, 04 Apr 2023 09:00:00 -0500"
@@ -118,27 +139,6 @@
         "title": "Aesop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aesop",
         "pubdate": "Tue, 04 Apr 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
-        "pubdate": "Tue, 04 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV",
-        "pubdate": "Tue, 04 Apr 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Whindersson Nunes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Whindersson%20Nunes",
-        "pubdate": "Tue, 04 Apr 2023 08:00:00 -0500"
       }
     ]
   ]
