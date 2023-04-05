@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2023 , 22:49:41",
+  "lastUpdate": "05-04-2023 , 22:59:08",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Wed, 05 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sveriges mästerkock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20m%C3%A4sterkock",
         "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Baron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Baron",
-        "pubdate": "Wed, 05 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barca",
         "pubdate": "Wed, 05 Apr 2023 23:00:00 +0200"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+        "title": "Baron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Baron",
+        "pubdate": "Wed, 05 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
       }
     ],
     [
