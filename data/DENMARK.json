@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 22:54:25",
+  "lastUpdate": "06-04-2023 , 23:10:18",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Malta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Malta",
-        "pubdate": "Thu, 06 Apr 2023 12:00:00 +0200"
+        "title": "RB Leipzig  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RB%20Leipzig%20%20Dortmund",
+        "pubdate": "Thu, 06 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Sahara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sahara",
         "pubdate": "Thu, 06 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Malta",
+        "pubdate": "Thu, 06 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Penelope Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Penelope%20Cruz",
+        "pubdate": "Thu, 06 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "West Ham  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Ham%20%20Newcastle",
         "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#HRT",
+        "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -90,20 +111,6 @@
         "title": "7800X3D",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#7800X3D",
         "pubdate": "Thu, 06 Apr 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#HRT",
-        "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RB%20Leipzig%20%20Dortmund",
-        "pubdate": "Thu, 06 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Barbie movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barbie%20movie",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christina Aguilera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christina%20Aguilera",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 +0200"
       }
     ]
   ]

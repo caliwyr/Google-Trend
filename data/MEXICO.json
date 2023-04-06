@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 22:54:32",
+  "lastUpdate": "06-04-2023 , 23:10:22",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LaLiga",
         "pubdate": "Thu, 06 Apr 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Viernes Santo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Viernes%20Santo",
+        "pubdate": "Thu, 06 Apr 2023 16:00:00 -0600"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Turistas secuestrados en Guanajuato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Turistas%20secuestrados%20en%20Guanajuato",
+        "pubdate": "Thu, 06 Apr 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Bowser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bowser",
         "pubdate": "Thu, 06 Apr 2023 14:00:00 -0600"
@@ -66,8 +80,22 @@
     ],
     [
       {
+        "title": "Ceviche de Pescado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ceviche%20de%20Pescado",
+        "pubdate": "Thu, 06 Apr 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Feyenoord-Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord-Ajax",
+        "pubdate": "Wed, 05 Apr 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 -0600"
       }
     ],
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Luna Rosa 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luna%20Rosa%202023",
-        "pubdate": "Wed, 05 Apr 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Super Mario Bros. La película",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Super%20Mario%20Bros.%20La%20pel%C3%ADcula",
         "pubdate": "Wed, 05 Apr 2023 05:00:00 -0600"
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Jueves Santo 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jueves%20Santo%202023",
+        "title": "Luna Rosa 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luna%20Rosa%202023",
         "pubdate": "Wed, 05 Apr 2023 17:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20United",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#RB%20Leipzig%20%20Dortmund",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Whitecaps  LAFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Whitecaps%20%20LAFC",
-        "pubdate": "Wed, 05 Apr 2023 22:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Ley Seca Semana Santa 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ley%20Seca%20Semana%20Santa%202023",
-        "pubdate": "Wed, 05 Apr 2023 22:00:00 -0600"
+        "title": "Jueves Santo 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jueves%20Santo%202023",
+        "pubdate": "Wed, 05 Apr 2023 17:00:00 -0600"
       }
     ]
   ]
