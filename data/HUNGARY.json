@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 12:43:07",
+  "lastUpdate": "06-04-2023 , 13:00:17",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Zacher Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zacher%20G%C3%A1bor",
-        "pubdate": "Thu, 06 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Berlusconi",
         "pubdate": "Thu, 06 Apr 2023 10:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Feyenoord-Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feyenoord-Ajax",
-        "pubdate": "Thu, 06 Apr 2023 02:00:00 +0200"
+        "title": "Dylan Mulvaney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dylan%20Mulvaney",
+        "pubdate": "Thu, 06 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -68,6 +61,13 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
+        "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Messi",
         "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Book Depository",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Book%20Depository",
-        "pubdate": "Wed, 05 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Super Mario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Super%20Mario",
         "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Köllő Babett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6ll%C5%91%20Babett",
         "pubdate": "Wed, 05 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taylor%20Swift",
+        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
