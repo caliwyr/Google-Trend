@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-04-2023 , 13:44:12",
+  "lastUpdate": "06-04-2023 , 13:53:38",
   "data": [
+    [
+      {
+        "title": "Frank Lampard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frank%20Lampard",
+        "pubdate": "Thu, 06 Apr 2023 05:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Strømstad",
@@ -13,13 +20,6 @@
         "title": "Bob Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bob%20Lee",
         "pubdate": "Thu, 06 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Åpningstider påske",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85pningstider%20p%C3%A5ske",
-        "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
         "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Hovden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hovden",
-        "pubdate": "Wed, 05 Apr 2023 09:00:00 +0200"
+        "title": "Masters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Masters",
+        "pubdate": "Wed, 05 Apr 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Masters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Masters",
-        "pubdate": "Wed, 05 Apr 2023 01:00:00 +0200"
+        "title": "Hovden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hovden",
+        "pubdate": "Wed, 05 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Liverpool Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Chelsea",
-        "pubdate": "Wed, 05 Apr 2023 12:00:00 +0200"
+        "title": "Påske åpningstider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#P%C3%A5ske%20%C3%A5pningstider",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jutta%20Leerdam",
         "pubdate": "Tue, 04 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Twitter",
-        "pubdate": "Tue, 04 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
