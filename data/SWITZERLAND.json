@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-04-2023 , 07:42:49",
+  "lastUpdate": "06-04-2023 , 07:52:04",
   "data": [
     [
       {
         "title": "Coupe de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coupe%20de%20France",
         "pubdate": "Thu, 06 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Picasso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Picasso",
+        "pubdate": "Thu, 06 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
         "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -87,8 +94,15 @@
     ],
     [
       {
-        "title": "Super Mario film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20Mario%20film",
+        "title": "Frohe Ostern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frohe%20Ostern",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Super Mario Film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20Mario%20Film",
         "pubdate": "Wed, 05 Apr 2023 07:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Bernard Arnault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernard%20Arnault",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Lugano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
-        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Bayern Julian Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Bayern%20Julian%20Nagelsmann",
-        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
