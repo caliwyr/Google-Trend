@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 09:42:56",
+  "lastUpdate": "06-04-2023 , 09:51:50",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Stromae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stromae",
-        "pubdate": "Tue, 04 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Tue, 04 Apr 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Roger Waters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roger%20Waters",
         "pubdate": "Tue, 04 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
+        "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
