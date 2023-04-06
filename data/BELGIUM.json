@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-04-2023 , 01:50:30",
+  "lastUpdate": "06-04-2023 , 02:22:37",
   "data": [
-    [
-      {
-        "title": "West Ham – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#West%20Ham%20%E2%80%93%20Newcastle",
-        "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Coupe de France",
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United",
+        "title": "Manchester United – Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Brentford",
         "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -62,6 +55,13 @@
         "title": "Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berlusconi",
         "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United",
+        "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Thomas Bangalter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thomas%20Bangalter",
-        "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brooke Shields",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brooke%20Shields",
         "pubdate": "Wed, 05 Apr 2023 19:00:00 +0200"
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "Thomas Bangalter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thomas%20Bangalter",
+        "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grand Prix de l'Escaut 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20de%20l'Escaut%202023",
         "pubdate": "Wed, 05 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Romy Schneider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Romy%20Schneider",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mario Movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mario%20Movie",
         "pubdate": "Wed, 05 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernard Arnault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Arnault",
-        "pubdate": "Wed, 05 Apr 2023 09:00:00 +0200"
       }
     ]
   ]

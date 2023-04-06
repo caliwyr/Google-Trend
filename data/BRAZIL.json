@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 01:50:30",
+  "lastUpdate": "06-04-2023 , 02:22:37",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "America MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
+        "pubdate": "Wed, 05 Apr 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
         "pubdate": "Wed, 05 Apr 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fortaleza x Palestino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Palestino",
+        "pubdate": "Wed, 05 Apr 2023 17:00:00 -0500"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Fortaleza x Palestino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Palestino",
-        "pubdate": "Wed, 05 Apr 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Borussia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
         "pubdate": "Wed, 05 Apr 2023 00:00:00 -0500"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "America MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
-        "pubdate": "Wed, 05 Apr 2023 10:00:00 -0500"
+        "title": "Noticias de hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Noticias%20de%20hoje",
+        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Noticias de hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Noticias%20de%20hoje",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0500"
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
+        "pubdate": "Wed, 05 Apr 2023 12:00:00 -0500"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Super Mario Bros. - O Filme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Super%20Mario%20Bros.%20-%20O%20Filme",
-        "pubdate": "Wed, 05 Apr 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ponte Preta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta",
         "pubdate": "Wed, 05 Apr 2023 17:00:00 -0500"
@@ -101,23 +101,16 @@
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
-        "pubdate": "Wed, 05 Apr 2023 11:00:00 -0500"
+        "title": "Super Mario Bros. - O Filme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Super%20Mario%20Bros.%20-%20O%20Filme",
+        "pubdate": "Wed, 05 Apr 2023 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Jogo do Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
-        "pubdate": "Wed, 05 Apr 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "ESPN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ESPN",
-        "pubdate": "Wed, 05 Apr 2023 18:00:00 -0500"
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+        "pubdate": "Wed, 05 Apr 2023 09:00:00 -0500"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Ultimas noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ultimas%20noticias",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0500"
+        "title": "Jogo do Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
+        "pubdate": "Wed, 05 Apr 2023 06:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 -0500"
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
+        "pubdate": "Wed, 05 Apr 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ESPN",
+        "pubdate": "Wed, 05 Apr 2023 18:00:00 -0500"
       }
     ]
   ]
