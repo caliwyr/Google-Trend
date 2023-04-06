@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 06:48:31",
+  "lastUpdate": "06-04-2023 , 06:57:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
         "pubdate": "Wed, 05 Apr 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "G1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#G1",
+        "pubdate": "Wed, 05 Apr 2023 23:00:00 -0500"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Náutico x Salgueiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#N%C3%A1utico%20x%20Salgueiro",
+        "pubdate": "Wed, 05 Apr 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cerro Porteno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cerro%20Porteno",
         "pubdate": "Wed, 05 Apr 2023 12:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Jogo do Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
         "pubdate": "Wed, 05 Apr 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fluminense football club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20football%20club",
-        "pubdate": "Wed, 05 Apr 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
-        "pubdate": "Wed, 05 Apr 2023 11:00:00 -0500"
       }
     ]
   ]
