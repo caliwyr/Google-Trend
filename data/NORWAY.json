@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 04:49:04",
+  "lastUpdate": "06-04-2023 , 04:58:15",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
-        "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Tue, 04 Apr 2023 21:00:00 +0200"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stormy%20Daniels",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
         "pubdate": "Tue, 04 Apr 2023 10:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "pubdate": "Tue, 04 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pernilla August",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pernilla%20August",
-        "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Lauren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20Lauren",
-        "pubdate": "Tue, 04 Apr 2023 19:00:00 +0200"
       }
     ]
   ]
