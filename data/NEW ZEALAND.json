@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-04-2023 , 21:58:11",
+  "lastUpdate": "06-04-2023 , 22:15:03",
   "data": [
     [
       {
         "title": "Good Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Good%20Friday",
         "pubdate": "Fri, 07 Apr 2023 01:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#McDonald's",
+        "pubdate": "Fri, 07 Apr 2023 09:00:00 +1200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Happy Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Happy%20Easter",
-        "pubdate": "Thu, 06 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "What's open on Good Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#What's%20open%20on%20Good%20Friday",
         "pubdate": "Thu, 06 Apr 2023 19:00:00 +1200"
@@ -73,9 +73,30 @@
     ],
     [
       {
+        "title": "Happy Easter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Happy%20Easter",
+        "pubdate": "Thu, 06 Apr 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Israel Adesanya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Israel%20Adesanya",
         "pubdate": "Thu, 06 Apr 2023 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "What is open on Good Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#What%20is%20open%20on%20Good%20Friday",
+        "pubdate": "Thu, 06 Apr 2023 22:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Hot cross bun recipe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hot%20cross%20bun%20recipe",
+        "pubdate": "Thu, 06 Apr 2023 12:00:00 +1200"
       }
     ],
     [
@@ -90,20 +111,6 @@
         "title": "Dean Cain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dean%20Cain",
         "pubdate": "Thu, 06 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Hot cross bun recipe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hot%20cross%20bun%20recipe",
-        "pubdate": "Thu, 06 Apr 2023 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "What is open on Good Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#What%20is%20open%20on%20Good%20Friday",
-        "pubdate": "Thu, 06 Apr 2023 22:00:00 +1200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lionel%20Messi",
-        "pubdate": "Thu, 06 Apr 2023 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#WSL",
         "pubdate": "Thu, 06 Apr 2023 17:00:00 +1200"
       }
     ]
