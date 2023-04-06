@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-04-2023 , 16:52:21",
+  "lastUpdate": "06-04-2023 , 17:05:52",
   "data": [
     [
       {
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colo%20Colo",
         "pubdate": "Thu, 06 Apr 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Sopa Paraguaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sopa%20Paraguaya",
+        "pubdate": "Thu, 06 Apr 2023 12:00:00 -0300"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Benzema",
+        "pubdate": "Thu, 06 Apr 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
         "pubdate": "Wed, 05 Apr 2023 13:00:00 -0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Cerro Porteño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cerro%20Porte%C3%B1o",
-        "pubdate": "Wed, 05 Apr 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Carpaccio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carpaccio",
-        "pubdate": "Wed, 05 Apr 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Palmeiras",
-        "pubdate": "Wed, 05 Apr 2023 20:00:00 -0300"
+        "title": "Jueves Santo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jueves%20Santo",
+        "pubdate": "Wed, 05 Apr 2023 12:00:00 -0300"
       }
     ]
   ]
