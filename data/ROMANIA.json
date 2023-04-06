@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 00:39:54",
+  "lastUpdate": "06-04-2023 , 01:50:37",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Bob Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bob%20Lee",
-        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Brooke Shields",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brooke%20Shields",
         "pubdate": "Wed, 05 Apr 2023 23:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joe%20Biden",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rupert Murdoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rupert%20Murdoch",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0300"
       }
     ]
   ]
