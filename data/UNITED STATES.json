@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 02:49:49",
+  "lastUpdate": "06-04-2023 , 02:59:09",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Lewis Capaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lewis%20Capaldi",
+        "pubdate": "Wed, 05 Apr 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Hugh Jackman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hugh%20Jackman",
         "pubdate": "Wed, 05 Apr 2023 07:00:00 -0700"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Masters Par 3 Contest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Masters%20Par%203%20Contest",
-        "pubdate": "Wed, 05 Apr 2023 18:00:00 -0700"
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
+        "pubdate": "Wed, 05 Apr 2023 10:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wisconsin Supreme Court election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wisconsin%20Supreme%20Court%20election",
         "pubdate": "Tue, 04 Apr 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-        "pubdate": "Tue, 04 Apr 2023 22:00:00 -0700"
       }
     ]
   ]

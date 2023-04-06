@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2023 , 02:49:58",
+  "lastUpdate": "06-04-2023 , 02:59:19",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "pubdate": "Tue, 04 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Tue, 04 Apr 2023 21:00:00 +0200"
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-        "pubdate": "Tue, 04 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Carl Bildt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Bildt",
         "pubdate": "Tue, 04 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Podme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Podme",
-        "pubdate": "Tue, 04 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Theoz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Theoz",
         "pubdate": "Tue, 04 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Swish",
+        "pubdate": "Tue, 04 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
