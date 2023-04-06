@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-04-2023 , 11:52:24",
+  "lastUpdate": "06-04-2023 , 12:11:59",
   "data": [
+    [
+      {
+        "title": "Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal",
+        "pubdate": "Thu, 06 Apr 2023 06:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "CTV News Ottawa",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Women's World Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Women's%20World%20Hockey",
+        "title": "Tempete verglas quebec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tempete%20verglas%20quebec",
         "pubdate": "Thu, 06 Apr 2023 00:00:00 -0400"
       }
     ],
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Montreal news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal%20news",
-        "pubdate": "Wed, 05 Apr 2023 10:00:00 -0400"
+        "title": "Ottawa news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20news",
+        "pubdate": "Wed, 05 Apr 2023 14:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "WHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHL",
         "pubdate": "Wed, 05 Apr 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Raptors vs Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Celtics",
-        "pubdate": "Wed, 05 Apr 2023 21:00:00 -0400"
       }
     ]
   ]

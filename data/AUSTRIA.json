@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-04-2023 , 11:52:24",
+  "lastUpdate": "06-04-2023 , 12:11:58",
   "data": [
-    [
-      {
-        "title": "Karfreitag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karfreitag",
-        "pubdate": "Thu, 06 Apr 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Reinhard Gerer",
@@ -20,6 +13,13 @@
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sanna%20Marin",
         "pubdate": "Thu, 06 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Neusiedlersee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neusiedlersee",
+        "pubdate": "Thu, 06 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Thu, 06 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rapid Wien gegen Ried",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien%20gegen%20Ried",
         "pubdate": "Wed, 05 Apr 2023 10:00:00 +0200"
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "SK Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid",
-        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
+        "title": "Berlusconi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berlusconi",
+        "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Berlusconi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berlusconi",
-        "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
+        "title": "SK Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Nürnberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#N%C3%BCrnberg",
-        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dominic Thiem Estoril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dominic%20Thiem%20Estoril",
         "pubdate": "Wed, 05 Apr 2023 16:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lionel%20Messi",
-        "pubdate": "Wed, 05 Apr 2023 13:00:00 +0200"
+        "title": "Nürnberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#N%C3%BCrnberg",
+        "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
