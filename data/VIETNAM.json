@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 10:48:53",
+  "lastUpdate": "07-04-2023 , 10:58:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Dota 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dota%202",
         "pubdate": "Fri, 07 Apr 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lee Da In",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lee%20Da%20In",
+        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0700"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Công an nhân dân",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%B4ng%20an%20nh%C3%A2n%20d%C3%A2n",
+        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "MH370",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MH370",
         "pubdate": "Fri, 07 Apr 2023 10:00:00 +0700"
@@ -52,15 +66,8 @@
     ],
     [
       {
-        "title": "BLACKPINK Jisoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#BLACKPINK%20Jisoo",
-        "pubdate": "Fri, 07 Apr 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Trường Nguyệt Tẫn Minh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%87t%20T%E1%BA%ABn%20Minh",
+        "title": "Trường nguyệt tẫn minh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%E1%BB%9Dng%20nguy%E1%BB%87t%20t%E1%BA%ABn%20minh",
         "pubdate": "Thu, 06 Apr 2023 09:00:00 +0700"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leipzig",
-        "pubdate": "Thu, 06 Apr 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "MU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU",
-        "pubdate": "Wed, 05 Apr 2023 18:00:00 +0700"
+        "title": "Trường Giang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%C6%B0%E1%BB%9Dng%20Giang",
+        "pubdate": "Thu, 06 Apr 2023 22:00:00 +0700"
       }
     ]
   ]
