@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-04-2023 , 03:54:43",
+  "lastUpdate": "07-04-2023 , 04:12:56",
   "data": [
-    [
-      {
-        "title": "Happy Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20Easter",
-        "pubdate": "Thu, 06 Apr 2023 11:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Masters",
@@ -20,6 +13,20 @@
         "title": "Lauri Markkanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lauri%20Markkanen",
         "pubdate": "Thu, 06 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Happy Easter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20Easter",
+        "pubdate": "Thu, 06 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Easter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Easter",
+        "pubdate": "Thu, 06 Apr 2023 14:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lewis Capaldi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lewis%20Capaldi",
         "pubdate": "Wed, 05 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-        "pubdate": "Wed, 05 Apr 2023 23:00:00 +0300"
       }
     ]
   ]

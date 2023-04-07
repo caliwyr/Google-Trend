@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "07-04-2023 , 03:54:41",
+  "lastUpdate": "07-04-2023 , 04:12:54",
   "data": [
     [
       {
         "title": "Brisbane weather",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20weather",
         "pubdate": "Fri, 07 Apr 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "McDonald's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#McDonald's",
-        "pubdate": "Fri, 07 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Fentanyl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fentanyl",
+        "pubdate": "Fri, 07 Apr 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Cameron Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cameron%20Smith",
         "pubdate": "Fri, 07 Apr 2023 07:00:00 +1000"
@@ -73,8 +73,29 @@
     ],
     [
       {
+        "title": "Starbucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Starbucks",
+        "pubdate": "Fri, 07 Apr 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "PGA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA",
+        "pubdate": "Fri, 07 Apr 2023 05:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "The Portable Door",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Portable%20Door",
+        "pubdate": "Fri, 07 Apr 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "North Korea nuclear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#North%20Korea%20nuclear",
         "pubdate": "Fri, 07 Apr 2023 05:00:00 +1000"
       }
     ],
@@ -87,30 +108,9 @@
     ],
     [
       {
-        "title": "North Korea nuclear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#North%20Korea%20nuclear",
-        "pubdate": "Fri, 07 Apr 2023 05:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Fentanyl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fentanyl",
-        "pubdate": "Fri, 07 Apr 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "The Portable Door",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Portable%20Door",
-        "pubdate": "Fri, 07 Apr 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "KKR vs RCB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KKR%20vs%20RCB",
-        "pubdate": "Fri, 07 Apr 2023 09:00:00 +1000"
+        "title": "Barton Highway crash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barton%20Highway%20crash",
+        "pubdate": "Fri, 07 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "HRT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#HRT",
         "pubdate": "Fri, 07 Apr 2023 03:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Barton Highway crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barton%20Highway%20crash",
-        "pubdate": "Fri, 07 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cafe",
         "pubdate": "Fri, 07 Apr 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Why is it called Good Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Why%20is%20it%20called%20Good%20Friday",
+        "pubdate": "Fri, 07 Apr 2023 13:00:00 +1000"
       }
     ]
   ]
