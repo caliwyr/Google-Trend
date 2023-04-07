@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 13:54:41",
+  "lastUpdate": "07-04-2023 , 14:09:34",
   "data": [
     [
       {
@@ -31,20 +31,6 @@
     ],
     [
       {
-        "title": "Tiger Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tiger%20Woods",
-        "pubdate": "Fri, 07 Apr 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "McDonald's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#McDonald's",
-        "pubdate": "Fri, 07 Apr 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Weather radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20radar",
         "pubdate": "Fri, 07 Apr 2023 10:00:00 +1000"
@@ -66,6 +52,13 @@
     ],
     [
       {
+        "title": "Rory McIlroy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
+        "pubdate": "Fri, 07 Apr 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bottle shop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bottle%20shop",
         "pubdate": "Fri, 07 Apr 2023 08:00:00 +1000"
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Fish and Chips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fish%20and%20Chips",
-        "pubdate": "Fri, 07 Apr 2023 12:00:00 +1000"
+        "title": "Latrell Mitchell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latrell%20Mitchell",
+        "pubdate": "Fri, 07 Apr 2023 17:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Latrell Mitchell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latrell%20Mitchell",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 +1000"
+        "title": "Fish and Chips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fish%20and%20Chips",
+        "pubdate": "Fri, 07 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Israel",
         "pubdate": "Fri, 07 Apr 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Bolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Bolt",
+        "pubdate": "Fri, 07 Apr 2023 10:00:00 +1000"
       }
     ]
   ]
