@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 09:50:57",
+  "lastUpdate": "07-04-2023 , 10:00:19",
   "data": [
     [
       {
@@ -17,8 +17,22 @@
     ],
     [
       {
+        "title": "Coolio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Coolio",
+        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Berliner Luft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berliner%20Luft",
+        "pubdate": "Fri, 07 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karfreitag Österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karfreitag%20%C3%96sterreich",
         "pubdate": "Fri, 07 Apr 2023 09:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Robert F. Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20F.%20Kennedy",
         "pubdate": "Thu, 06 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marc Terenzi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marc%20Terenzi",
-        "pubdate": "Thu, 06 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Masters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Masters",
-        "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
