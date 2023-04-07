@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 21:52:56",
+  "lastUpdate": "07-04-2023 , 22:06:47",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
         "pubdate": "Fri, 07 Apr 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+        "pubdate": "Fri, 07 Apr 2023 10:00:00 -0500"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "A Paixão de Cristo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#A%20Paix%C3%A3o%20de%20Cristo",
-        "pubdate": "Fri, 07 Apr 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Shopping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shopping",
         "pubdate": "Fri, 07 Apr 2023 12:00:00 -0500"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Quina 6119",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%206119",
-        "pubdate": "Fri, 07 Apr 2023 00:00:00 -0500"
+        "title": "Via Sacra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Via%20Sacra",
+        "pubdate": "Fri, 07 Apr 2023 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "7 de abril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#7%20de%20abril",
-        "pubdate": "Fri, 07 Apr 2023 04:00:00 -0500"
+        "title": "Quina 6119",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%206119",
+        "pubdate": "Fri, 07 Apr 2023 00:00:00 -0500"
       }
     ],
     [
@@ -94,9 +94,30 @@
     ],
     [
       {
+        "title": "7 de abril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#7%20de%20abril",
+        "pubdate": "Fri, 07 Apr 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Championship",
         "pubdate": "Fri, 07 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
+        "pubdate": "Fri, 07 Apr 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Filme Paixão de Cristo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filme%20Paix%C3%A3o%20de%20Cristo",
+        "pubdate": "Fri, 07 Apr 2023 13:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Shazam! 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shazam!%202",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Israel",
-        "pubdate": "Fri, 07 Apr 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia Mundial da saude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20Mundial%20da%20saude",
-        "pubdate": "Fri, 07 Apr 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Procissão do Fogaréu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prociss%C3%A3o%20do%20Fogar%C3%A9u",
-        "pubdate": "Fri, 07 Apr 2023 01:00:00 -0500"
       }
     ]
   ]

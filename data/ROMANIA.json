@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-04-2023 , 21:53:03",
+  "lastUpdate": "07-04-2023 , 22:06:54",
   "data": [
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serie%20A",
-        "pubdate": "Fri, 07 Apr 2023 19:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Dinamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo",
         "pubdate": "Fri, 07 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serie%20A",
+        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli",
+        "pubdate": "Fri, 07 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Frank Lampard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Frank%20Lampard",
         "pubdate": "Fri, 07 Apr 2023 08:00:00 +0300"
@@ -80,15 +87,15 @@
     ],
     [
       {
-        "title": "Mario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mario",
+        "title": "Pep Guardiola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pep%20Guardiola",
         "pubdate": "Fri, 07 Apr 2023 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Pep Guardiola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pep%20Guardiola",
+        "title": "Mario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mario",
         "pubdate": "Fri, 07 Apr 2023 23:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Neversea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neversea",
         "pubdate": "Thu, 06 Apr 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Armin nicoara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Armin%20nicoara",
-        "pubdate": "Thu, 06 Apr 2023 11:00:00 +0300"
       }
     ]
   ]
