@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-04-2023 , 05:54:18",
+  "lastUpdate": "07-04-2023 , 06:13:13",
   "data": [
     [
       {
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taiwan",
         "pubdate": "Fri, 07 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Masters Augusta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Masters%20Augusta",
+        "pubdate": "Fri, 07 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Annecy-Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Annecy-Toulouse",
+        "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Michel Jonasz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Jonasz",
+        "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kylian%20Mbapp%C3%A9",
         "pubdate": "Thu, 06 Apr 2023 06:00:00 +0200"
@@ -48,13 +69,6 @@
         "title": "Picasso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Picasso",
         "pubdate": "Thu, 06 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michel Jonasz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Jonasz",
-        "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -75,13 +89,6 @@
       {
         "title": "Leo mattei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Leo%20mattei",
-        "pubdate": "Thu, 06 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Passengers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Passengers",
         "pubdate": "Thu, 06 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Didier Raoult",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Didier%20Raoult",
+        "pubdate": "Thu, 06 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ramsès II",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rams%C3%A8s%20II",
         "pubdate": "Thu, 06 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jeanne du Barry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeanne%20du%20Barry",
-        "pubdate": "Thu, 06 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Palestine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Palestine",
-        "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
