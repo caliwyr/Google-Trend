@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "07-04-2023 , 19:44:36",
+  "lastUpdate": "07-04-2023 , 19:54:26",
   "data": [
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
+        "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Fentanyl",
@@ -10,9 +24,9 @@
     ],
     [
       {
-        "title": "Salernitana – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salernitana%20%E2%80%93%20Inter",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
+        "title": "The Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Masked%20Singer",
+        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -20,13 +34,6 @@
         "title": "Michel Jonasz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Jonasz",
         "pubdate": "Fri, 07 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Masked Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Masked%20Singer",
-        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Toulouse FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toulouse%20FC",
-        "pubdate": "Fri, 07 Apr 2023 02:00:00 +0200"
+        "title": "Grace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grace",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eddy Merckx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Merckx",
-        "pubdate": "Fri, 07 Apr 2023 14:00:00 +0200"
+        "title": "Rock Werchter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rock%20Werchter",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,20 @@
     ],
     [
       {
+        "title": "Toulouse FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toulouse%20FC",
+        "pubdate": "Fri, 07 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eddy Merckx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Merckx",
+        "pubdate": "Fri, 07 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Championship",
         "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
@@ -94,9 +115,16 @@
     ],
     [
       {
-        "title": "BlackRock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BlackRock",
-        "pubdate": "Fri, 07 Apr 2023 02:00:00 +0200"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -110,34 +138,6 @@
       {
         "title": "Royal Antwerp FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Royal%20Antwerp%20FC",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EA Sports FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EA%20Sports%20FC",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Classement FIFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Classement%20FIFA",
-        "pubdate": "Fri, 07 Apr 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Cattermole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Cattermole",
         "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
       }
     ]

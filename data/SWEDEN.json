@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-04-2023 , 19:44:48",
+  "lastUpdate": "07-04-2023 , 19:54:35",
   "data": [
-    [
-      {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Paul Cattermole",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Jelena Dokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jelena%20Dokic",
-        "pubdate": "Fri, 07 Apr 2023 07:00:00 +0200"
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Fri, 07 Apr 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Björklöven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven",
-        "pubdate": "Fri, 07 Apr 2023 06:00:00 +0200"
+        "title": "Jelena Dokic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jelena%20Dokic",
+        "pubdate": "Fri, 07 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Championship",
-        "pubdate": "Fri, 07 Apr 2023 19:00:00 +0200"
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Wars",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cleo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cleo",
         "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Wed, 05 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
