@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 22:50:40",
+  "lastUpdate": "07-04-2023 , 23:00:01",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Bud Spencer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bud%20Spencer",
+        "pubdate": "Thu, 06 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg",
         "pubdate": "Tue, 04 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Guide Michelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guide%20Michelin",
-        "pubdate": "Tue, 04 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
