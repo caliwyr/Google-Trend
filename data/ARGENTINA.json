@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 18:53:40",
+  "lastUpdate": "07-04-2023 , 19:06:44",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli",
+        "pubdate": "Fri, 07 Apr 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sao Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sao%20Paulo",
         "pubdate": "Fri, 07 Apr 2023 00:00:00 -0300"
@@ -52,6 +59,20 @@
     ],
     [
       {
+        "title": "Viernes Santo frases",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viernes%20Santo%20frases",
+        "pubdate": "Fri, 07 Apr 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lecce  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lecce%20%20Napoli",
+        "pubdate": "Fri, 07 Apr 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Paella de Mariscos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paella%20de%20Mariscos",
         "pubdate": "Fri, 07 Apr 2023 10:00:00 -0300"
@@ -66,8 +87,15 @@
     ],
     [
       {
-        "title": "El exorcista del Papa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20exorcista%20del%20Papa",
+        "title": "Dia Mundial de la Salud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20Mundial%20de%20la%20Salud",
+        "pubdate": "Fri, 07 Apr 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "El exorcista del papa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20exorcista%20del%20papa",
         "pubdate": "Fri, 07 Apr 2023 01:00:00 -0300"
       }
     ],
@@ -83,13 +111,6 @@
         "title": "Lampard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lampard",
         "pubdate": "Fri, 07 Apr 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dia Mundial de la Salud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20Mundial%20de%20la%20Salud",
-        "pubdate": "Fri, 07 Apr 2023 14:00:00 -0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
         "pubdate": "Thu, 06 Apr 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Tigre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tigre",
-        "pubdate": "Thu, 06 Apr 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Huracan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Huracan",
-        "pubdate": "Thu, 06 Apr 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Viernes Santo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viernes%20Santo",
-        "pubdate": "Thu, 06 Apr 2023 18:00:00 -0300"
       }
     ]
   ]
