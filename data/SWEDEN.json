@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-04-2023 , 15:49:43",
+  "lastUpdate": "07-04-2023 , 15:58:03",
   "data": [
-    [
-      {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Fri, 07 Apr 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jelena Dokic",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Djurgården hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20hockey",
-        "pubdate": "Fri, 07 Apr 2023 00:00:00 +0200"
+        "title": "Prins Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prins%20Harry",
+        "pubdate": "Fri, 07 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sveriges mästerkock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20m%C3%A4sterkock",
         "pubdate": "Wed, 05 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona%20Real%20Madrid",
+        "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
