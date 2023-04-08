@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "08-04-2023 , 17:53:18",
+  "lastUpdate": "08-04-2023 , 18:09:23",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taiwan",
         "pubdate": "Sat, 08 Apr 2023 15:00:00 +0300"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "Star Wars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Star%20Wars",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taiwan",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -59,6 +59,20 @@
     ],
     [
       {
+        "title": "Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brentford",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Beck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beck",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Mikko Rantanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mikko%20Rantanen",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 +0300"
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Via Crucis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Via%20Crucis",
+        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Jumbo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jumbo",
         "pubdate": "Fri, 07 Apr 2023 09:00:00 +0300"
@@ -97,13 +118,6 @@
         "title": "Pelicans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
         "pubdate": "Fri, 07 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Via Crucis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Via%20Crucis",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Demi Moore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Demi%20Moore",
         "pubdate": "Fri, 07 Apr 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Good Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Good%20Friday",
-        "pubdate": "Fri, 07 Apr 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Israel",
-        "pubdate": "Fri, 07 Apr 2023 15:00:00 +0300"
       }
     ]
   ]

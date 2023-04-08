@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 17:53:18",
+  "lastUpdate": "08-04-2023 , 18:09:24",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tel Aviv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tel%20Aviv",
         "pubdate": "Sat, 08 Apr 2023 00:00:00 +0200"
@@ -55,6 +48,20 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Niki Lauda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niki%20Lauda",
+        "pubdate": "Sat, 08 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alice Schwarzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Schwarzer",
+        "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
+        "title": "Was ist Karfreitag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Was%20ist%20Karfreitag",
+        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Was ist Karfreitag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Was%20ist%20Karfreitag",
-        "pubdate": "Fri, 07 Apr 2023 11:00:00 +0200"
+        "title": "DFB-Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
+        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Tue, 04 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
-        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
       }
     ]
   ]
