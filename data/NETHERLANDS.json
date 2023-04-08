@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 00:57:05",
+  "lastUpdate": "08-04-2023 , 01:58:11",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Goede Vrijdag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goede%20Vrijdag",
-        "pubdate": "Thu, 06 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Passion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Passion",
         "pubdate": "Thu, 06 Apr 2023 11:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Buddy Vedder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Buddy%20Vedder",
         "pubdate": "Thu, 06 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Walibi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Walibi",
+        "pubdate": "Thu, 06 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
