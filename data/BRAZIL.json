@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 10:55:17",
+  "lastUpdate": "08-04-2023 , 11:08:53",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 -0500"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Fri, 07 Apr 2023 00:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
-        "pubdate": "Fri, 07 Apr 2023 00:00:00 -0500"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Fri, 07 Apr 2023 19:00:00 -0500"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Fri, 07 Apr 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla",
         "pubdate": "Fri, 07 Apr 2023 07:00:00 -0500"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Arthur Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arthur%20Singer",
-        "pubdate": "Fri, 07 Apr 2023 19:00:00 -0500"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Fri, 07 Apr 2023 10:00:00 -0500"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Bacalhau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bacalhau",
         "pubdate": "Fri, 07 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jogo do São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Championship",
         "pubdate": "Fri, 07 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Shazam! 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shazam!%202",
+        "pubdate": "Fri, 07 Apr 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Filmes Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filmes%20Netflix",
+        "pubdate": "Fri, 07 Apr 2023 12:00:00 -0500"
       }
     ]
   ]
