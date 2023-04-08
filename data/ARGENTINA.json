@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-04-2023 , 02:48:44",
+  "lastUpdate": "08-04-2023 , 02:57:55",
   "data": [
-    [
-      {
-        "title": "Monagas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Monagas",
-        "pubdate": "Fri, 07 Apr 2023 14:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Talleres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Monagas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Monagas",
+        "pubdate": "Fri, 07 Apr 2023 14:00:00 -0300"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Lanús - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lan%C3%BAs%20-%20Arsenal",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 -0300"
@@ -52,9 +45,30 @@
     ],
     [
       {
+        "title": "Velez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez",
+        "pubdate": "Fri, 07 Apr 2023 23:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Pad Thai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pad%20Thai",
+        "pubdate": "Fri, 07 Apr 2023 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Torta Red Velvet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Torta%20Red%20Velvet",
         "pubdate": "Fri, 07 Apr 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
+        "pubdate": "Fri, 07 Apr 2023 17:00:00 -0300"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Juan Martino quien es",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juan%20Martino%20quien%20es",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Viernes Santo significado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viernes%20Santo%20significado",
         "pubdate": "Fri, 07 Apr 2023 09:00:00 -0300"
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Timoth%C3%A9e%20Chalamet",
-        "pubdate": "Fri, 07 Apr 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bielsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bielsa",
-        "pubdate": "Fri, 07 Apr 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Banfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mbappe",
-        "pubdate": "Fri, 07 Apr 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Milan  Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milan%20%20Empoli",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 -0300"
+        "title": "Timothée Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Timoth%C3%A9e%20Chalamet",
+        "pubdate": "Fri, 07 Apr 2023 19:00:00 -0300"
       }
     ]
   ]
