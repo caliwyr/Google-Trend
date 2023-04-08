@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-04-2023 , 11:46:43",
+  "lastUpdate": "08-04-2023 , 11:56:01",
   "data": [
+    [
+      {
+        "title": "Picasso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Picasso",
+        "pubdate": "Sat, 08 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Baptiste Giabiconi",
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Maïwenn Le Besco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ma%C3%AFwenn%20Le%20Besco",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Serie%20A",
+        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jeremy Renner accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeremy%20Renner%20accident",
-        "pubdate": "Fri, 07 Apr 2023 19:00:00 +0200"
+        "title": "Maïwenn Le Besco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ma%C3%AFwenn%20Le%20Besco",
+        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,8 +108,15 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Serie%20A",
+        "title": "Jeremy Renner accident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeremy%20Renner%20accident",
+        "pubdate": "Fri, 07 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Adesanya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adesanya",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -111,13 +125,6 @@
         "title": "Jusqu'ici tout va bien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jusqu'ici%20tout%20va%20bien",
         "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adesanya",
-        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Zaho de Sagazan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zaho%20de%20Sagazan",
         "pubdate": "Fri, 07 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pâques",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#P%C3%A2ques",
-        "pubdate": "Fri, 07 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
