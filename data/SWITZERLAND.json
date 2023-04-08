@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 16:50:01",
+  "lastUpdate": "08-04-2023 , 16:59:17",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+        "title": "Picasso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Picasso",
+        "pubdate": "Sat, 08 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Saas-Fee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Saas-Fee",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Militante Veganerin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Militante%20Veganerin",
         "pubdate": "Sat, 08 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Christina Aguilera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christina%20Aguilera",
-        "pubdate": "Sat, 08 Apr 2023 10:00:00 +0200"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+        "pubdate": "Sat, 08 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taiwan",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
+        "title": "Christina Aguilera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christina%20Aguilera",
+        "pubdate": "Sat, 08 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Trentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trentino",
         "pubdate": "Sat, 08 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taiwan",
+        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,9 +87,23 @@
     ],
     [
       {
+        "title": "MXGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MXGP",
+        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lomepal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lomepal",
         "pubdate": "Sat, 08 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -103,42 +138,7 @@
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helene Fischer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Helene%20Fischer",
-        "pubdate": "Fri, 07 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Cattermole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Cattermole",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Klimaaktivisten Gotthard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klimaaktivisten%20Gotthard",
-        "pubdate": "Fri, 07 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freiburg gegen Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Freiburg%20gegen%20Bayern",
-        "pubdate": "Fri, 07 Apr 2023 15:00:00 +0200"
+        "pubdate": "Fri, 07 Apr 2023 19:00:00 +0200"
       }
     ]
   ]
