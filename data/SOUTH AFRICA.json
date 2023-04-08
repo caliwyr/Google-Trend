@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 21:52:33",
+  "lastUpdate": "08-04-2023 , 22:05:41",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Nice vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nice%20vs%20PSG",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid vs Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Villarreal",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
@@ -55,20 +69,6 @@
         "title": "Tottenham vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Brighton",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
-        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Villarreal",
-        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
-        "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Torino vs Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Torino%20vs%20Roma",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Fulham vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20West%20Ham",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
+        "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Liverpool vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Arsenal",
         "pubdate": "Sat, 08 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fulham vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20West%20Ham",
+        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
       }
     ],
     [
