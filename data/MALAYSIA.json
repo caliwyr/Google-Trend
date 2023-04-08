@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-04-2023 , 23:55:27",
+  "lastUpdate": "08-04-2023 , 00:57:04",
   "data": [
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Serie%20A",
-        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Lecce vs Napoli",
@@ -17,8 +10,29 @@
     ],
     [
       {
+        "title": "Salernitana vs Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Salernitana%20vs%20Inter",
+        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Milan vs Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20Empoli",
+        "pubdate": "Sat, 08 Apr 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Middlesbrough vs Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Middlesbrough%20vs%20Burnley",
+        "pubdate": "Sat, 08 Apr 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Paul Cattermole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paul%20Cattermole",
         "pubdate": "Sat, 08 Apr 2023 04:00:00 +0800"
       }
     ],
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "FIFA ranking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20ranking",
-        "pubdate": "Fri, 07 Apr 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Tiger Woods",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tiger%20Woods",
         "pubdate": "Fri, 07 Apr 2023 06:00:00 +0800"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Syamsul Yusof Puteri Sarah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Syamsul%20Yusof%20Puteri%20Sarah",
-        "pubdate": "Fri, 07 Apr 2023 02:00:00 +0800"
+        "title": "FIFA ranking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20ranking",
+        "pubdate": "Fri, 07 Apr 2023 09:00:00 +0800"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Timothee%20Chalamet",
         "pubdate": "Fri, 07 Apr 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Syamsul Yusof Puteri Sarah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Syamsul%20Yusof%20Puteri%20Sarah",
+        "pubdate": "Fri, 07 Apr 2023 02:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "65",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#65",
         "pubdate": "Fri, 07 Apr 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Good Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Good%20Friday",
-        "pubdate": "Thu, 06 Apr 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#West%20Ham%20vs%20Newcastle",
-        "pubdate": "Thu, 06 Apr 2023 03:00:00 +0800"
       }
     ]
   ]

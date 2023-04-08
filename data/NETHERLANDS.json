@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 23:55:28",
+  "lastUpdate": "08-04-2023 , 00:57:05",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Paul Cattermole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20Cattermole",
         "pubdate": "Fri, 07 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serie%20a",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Roda JC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
@@ -76,13 +69,6 @@
         "title": "Parijs-Roubaix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
         "pubdate": "Fri, 07 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,8 +101,8 @@
     ],
     [
       {
-        "title": "Telstar  Jong Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar%20%20Jong%20Ajax",
+        "title": "Beau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beau",
         "pubdate": "Fri, 07 Apr 2023 23:00:00 +0200"
       }
     ],
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Beau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beau",
-        "pubdate": "Fri, 07 Apr 2023 23:00:00 +0200"
+        "title": "Goede Vrijdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goede%20Vrijdag",
+        "pubdate": "Thu, 06 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Goede Vrijdag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goede%20Vrijdag",
-        "pubdate": "Thu, 06 Apr 2023 19:00:00 +0200"
+        "title": "The Passion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Passion",
+        "pubdate": "Thu, 06 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paaspop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paaspop",
+        "pubdate": "Thu, 06 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Buddy Vedder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Buddy%20Vedder",
+        "pubdate": "Thu, 06 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
