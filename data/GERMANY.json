@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-04-2023 , 22:49:21",
+  "lastUpdate": "08-04-2023 , 22:58:36",
   "data": [
-    [
-      {
-        "title": "Freiburg gegen Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20gegen%20Bayern",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Dortmund gegen Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20gegen%20Union%20Berlin",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Freiburg",
+        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Bayern Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Freiburg",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dynamo Dresden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
+        "title": "Julia Beautx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Beautx",
+        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Julia Beautx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Beautx",
-        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Picasso!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Picasso!",
-        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alice Schwarzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Schwarzer",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "DFB-Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
         "pubdate": "Fri, 07 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karfreitag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karfreitag",
+        "pubdate": "Thu, 06 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
+        "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
