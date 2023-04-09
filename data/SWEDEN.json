@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 11:46:17",
+  "lastUpdate": "09-04-2023 , 11:55:27",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+        "pubdate": "Sun, 09 Apr 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
-        "pubdate": "Fri, 07 Apr 2023 13:00:00 +0200"
+        "title": "Paul Cattermole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paul%20Cattermole",
+        "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Paul Cattermole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paul%20Cattermole",
-        "pubdate": "Fri, 07 Apr 2023 18:00:00 +0200"
+        "title": "UFC 287",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20287",
+        "pubdate": "Fri, 07 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Hockey",
-        "pubdate": "Fri, 07 Apr 2023 00:00:00 +0200"
       }
     ]
   ]

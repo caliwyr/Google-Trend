@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-04-2023 , 11:46:12",
+  "lastUpdate": "09-04-2023 , 11:55:22",
   "data": [
     [
       {
         "title": "Joe Alwyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Alwyn",
         "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Urbi et Orbi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Urbi%20et%20Orbi",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Urbi et Orbi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Urbi%20et%20Orbi",
+        "title": "Reviczky Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reviczky%20G%C3%A1bor",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
       }
     ],
@@ -48,13 +55,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
         "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UFC",
-        "pubdate": "Sat, 08 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UFC",
+        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Osasuna–elche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osasuna%E2%80%93elche",
         "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Jákob Zoltán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A1kob%20Zolt%C3%A1n",
-        "pubdate": "Sat, 08 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Torino–roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Torino%E2%80%93roma",
         "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tottenham",
-        "pubdate": "Sat, 08 Apr 2023 19:00:00 +0200"
+        "title": "Jákob Zoltán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A1kob%20Zolt%C3%A1n",
+        "pubdate": "Sat, 08 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
