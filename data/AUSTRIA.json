@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 07:43:52",
+  "lastUpdate": "09-04-2023 , 07:53:08",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
         "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eintracht%20Frankfurt",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Wacker Innsbruck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wacker%20Innsbruck",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Die Militante Veganerin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Militante%20Veganerin",
         "pubdate": "Sun, 09 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Melody Thornton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Melody%20Thornton",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
         "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
-        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taiwan",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Picasso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Picasso",
-        "pubdate": "Sat, 08 Apr 2023 14:00:00 +0200"
       }
     ]
   ]

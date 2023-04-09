@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 07:43:54",
+  "lastUpdate": "09-04-2023 , 07:53:12",
   "data": [
+    [
+      {
+        "title": "Joe Alwyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Alwyn",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Anne Hathaway",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UFC",
+        "pubdate": "Sat, 08 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "G.w.M",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
         "pubdate": "Sat, 08 Apr 2023 19:00:00 +0200"
@@ -69,13 +83,6 @@
         "title": "Grease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Grease",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eva Mendes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eva%20Mendes",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "The Boys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Boys",
         "pubdate": "Sat, 08 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ferencvárosi TC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1rosi%20TC",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
