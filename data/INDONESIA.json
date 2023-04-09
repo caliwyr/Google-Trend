@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 17:53:02",
+  "lastUpdate": "09-04-2023 , 18:08:49",
   "data": [
+    [
+      {
+        "title": "Hunger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hunger",
+        "pubdate": "Mon, 10 Apr 2023 00:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Madrid vs Villarreal",
@@ -12,7 +19,7 @@
       {
         "title": "Persita vs Persib Bandung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita%20vs%20Persib%20Bandung",
-        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0700"
+        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0700"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leeds%20United",
+        "title": "Leeds United vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leeds%20United%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 +0700"
       }
     ],
@@ -83,6 +90,13 @@
         "title": "Top skor Liga 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Top%20skor%20Liga%201",
         "pubdate": "Sun, 09 Apr 2023 23:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "HUT TNI AU 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#HUT%20TNI%20AU%202023",
+        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0700"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Hotel Artemis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hotel%20Artemis",
+        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Leicester",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leicester",
         "pubdate": "Sun, 09 Apr 2023 00:00:00 +0700"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Hotel Artemis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hotel%20Artemis",
-        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "HUT TNI AU 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#HUT%20TNI%20AU%202023",
-        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Arti Paskah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arti%20Paskah",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Anime Yamada-kun to Lv999 no Koi wo Suru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Anime%20Yamada-kun%20to%20Lv999%20no%20Koi%20wo%20Suru",
-        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0700"
       }
     ]
   ]
