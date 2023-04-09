@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "09-04-2023 , 15:55:02",
+  "lastUpdate": "09-04-2023 , 16:13:10",
   "data": [
-    [
-      {
-        "title": "Parijs-Roubaix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
-        "pubdate": "Sun, 09 Apr 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Twente Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente%20Cambuur",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emmen  NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen%20%20NEC",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
-        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,6 +31,13 @@
     ],
     [
       {
+        "title": "Paris Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paris%20Roubaix",
+        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Queen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Queen",
         "pubdate": "Sun, 09 Apr 2023 01:00:00 +0200"
@@ -73,6 +59,20 @@
     ],
     [
       {
+        "title": "Parijs-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ - Sparta Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20-%20Sparta%20Rotterdam",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Make Up Your Mind",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Make%20Up%20Your%20Mind",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Fri, 07 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Parijs-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Roubaix",
+        "pubdate": "Fri, 07 Apr 2023 13:00:00 +0200"
       }
     ]
   ]
