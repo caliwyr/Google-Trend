@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 10:46:02",
+  "lastUpdate": "09-04-2023 , 10:55:14",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "PSV - Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20-%20Excelsior",
-        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
+        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Roubaix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roubaix",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
+        "title": "Marianne Vos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marianne%20Vos",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Graafschap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Thu, 06 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord - Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20-%20Ajax",
+        "pubdate": "Wed, 05 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Klaassen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Klaassen",
+        "pubdate": "Wed, 05 Apr 2023 22:00:00 +0200"
       }
     ]
   ]

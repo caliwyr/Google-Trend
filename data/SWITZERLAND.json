@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 10:46:06",
+  "lastUpdate": "09-04-2023 , 10:55:17",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pâques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#P%C3%A2ques",
         "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Saas-Fee avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Saas-Fee%20avalanche",
-        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
+        "title": "Blake Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blake%20Lively",
+        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blake%20Lively",
-        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
+        "title": "Urbi et Orbi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Urbi%20et%20Orbi",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "FC Sion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
         "pubdate": "Sat, 08 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Saas-Fee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Saas-Fee",
-        "pubdate": "Sat, 08 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Saas-Fee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Saas-Fee",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nice – paris-sg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nice%20%E2%80%93%20paris-sg",
+        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taiwan",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Tel Aviv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tel%20Aviv",
         "pubdate": "Sat, 08 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fc Aarau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fc%20Aarau",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
