@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-04-2023 , 05:54:37",
+  "lastUpdate": "10-04-2023 , 06:13:45",
   "data": [
     [
       {
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
         "pubdate": "Sun, 09 Apr 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "U. de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile",
+        "pubdate": "Sun, 09 Apr 2023 13:00:00 -0400"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Huracán  River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hurac%C3%A1n%20%20River%20Plate",
-        "pubdate": "Sun, 09 Apr 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ñublense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Betis  Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20C%C3%A1diz",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 -0400"
+        "title": "Huracán  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hurac%C3%A1n%20%20River%20Plate",
+        "pubdate": "Sun, 09 Apr 2023 19:00:00 -0400"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-        "pubdate": "Sun, 09 Apr 2023 16:00:00 -0400"
+        "title": "Betis  Cádiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20C%C3%A1diz",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 -0400"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Tomas Barrios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tomas%20Barrios",
+        "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Huachipato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
@@ -125,20 +139,6 @@
         "title": "Manchester City vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20vs",
         "pubdate": "Sun, 09 Apr 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#City",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Boca Juniors  Colón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Col%C3%B3n",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 -0400"
       }
     ]
   ]

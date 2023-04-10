@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 05:54:37",
+  "lastUpdate": "10-04-2023 , 06:13:46",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Happy Easter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Happy%20Easter",
         "pubdate": "Sun, 09 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heather Graham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heather%20Graham",
+        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Leeds  Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leeds%20%20Crystal%20Palace",
-        "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dylan Mulvaney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dylan%20Mulvaney",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Heather Graham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heather%20Graham",
-        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
+        "title": "Leeds  Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leeds%20%20Crystal%20Palace",
+        "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "OnePlus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OnePlus",
         "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man Utd  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20Utd%20%20Everton",
-        "pubdate": "Sat, 08 Apr 2023 14:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 05:54:39",
+  "lastUpdate": "10-04-2023 , 06:13:47",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Joe Alwyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Alwyn",
         "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rózsa György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%B3zsa%20Gy%C3%B6rgy",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hamburg",
-        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Curtis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Curtis",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
+        "title": "Olah Ibolya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Olah%20Ibolya",
+        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

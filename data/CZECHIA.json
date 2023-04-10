@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 05:54:37",
+  "lastUpdate": "10-04-2023 , 06:13:45",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Gump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gump",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hody, hody doprovody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hody,%20hody%20doprovody",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Kellner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kellner",
-        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iveta Bartošová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Iveta%20Barto%C5%A1ov%C3%A1",
         "pubdate": "Sat, 08 Apr 2023 10:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "VELIKONOČNÍ NEDĚLE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#VELIKONO%C4%8CN%C3%8D%20NED%C4%9ALE",
+        "title": "Velikonoční neděle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velikono%C4%8Dn%C3%AD%20ned%C4%9Ble",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Megalodon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megalodon",
+        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
