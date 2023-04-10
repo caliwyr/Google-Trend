@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 18:10:22",
+  "lastUpdate": "10-04-2023 , 18:27:36",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Sagrada familia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sagrada%20familia",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tiger Woods",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tiger%20Woods",
         "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Sagrada familia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sagrada%20familia",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0200"
+        "title": "Fuerteventura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fuerteventura",
+        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Anděl na horách",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#And%C4%9Bl%20na%20hor%C3%A1ch",
         "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fuerteventura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fuerteventura",
-        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Jak si nevzít princeznu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20si%20nevz%C3%ADt%20princeznu",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+        "title": "S čerty nejsou žerty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20%C4%8Derty%20nejsou%20%C5%BEerty",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "S čerty nejsou žerty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20%C4%8Derty%20nejsou%20%C5%BEerty",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
+        "title": "Jak si nevzít princeznu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20si%20nevz%C3%ADt%20princeznu",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Aneta Krejčíková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aneta%20Krej%C4%8D%C3%ADkov%C3%A1",
+        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UFC 287",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20287",
         "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Israel Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Israel%20Adesanya",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Urbi et orbi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Urbi%20et%20orbi",
         "pubdate": "Sun, 09 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SK Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
-        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

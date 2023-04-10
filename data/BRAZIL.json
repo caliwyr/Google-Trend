@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 18:10:21",
+  "lastUpdate": "10-04-2023 , 18:27:34",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Band",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Band",
-        "pubdate": "Mon, 10 Apr 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Copa do Brasil 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil%202023",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 -0500"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "Final Carioca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Final%20Carioca",
+        "title": "Tiradentes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tiradentes",
         "pubdate": "Mon, 10 Apr 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona x Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Girona",
+        "pubdate": "Mon, 10 Apr 2023 11:00:00 -0500"
       }
     ],
     [
@@ -66,8 +66,29 @@
     ],
     [
       {
-        "title": "IZA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IZA",
+        "title": "Nota parana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nota%20parana",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Viih Tube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Viih%20Tube",
+        "pubdate": "Mon, 10 Apr 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wrexham",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Iza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Iza",
         "pubdate": "Mon, 10 Apr 2023 07:00:00 -0500"
       }
     ],
@@ -80,15 +101,15 @@
     ],
     [
       {
-        "title": "Prazo! Imposto de Renda 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prazo!%20Imposto%20de%20Renda%202023",
+        "title": "ABBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABBA",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "ABBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABBA",
+        "title": "Prazo! Imposto de Renda 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prazo!%20Imposto%20de%20Renda%202023",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 -0500"
       }
     ],
@@ -97,13 +118,6 @@
         "title": "JP Azevedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#JP%20Azevedo",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona x Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Girona",
-        "pubdate": "Mon, 10 Apr 2023 11:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20MG",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "FELIZ pascoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FELIZ%20pascoa",
-        "pubdate": "Sun, 09 Apr 2023 05:00:00 -0500"
+        "title": "Folha vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Folha%20vitoria",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 -0500"
       }
     ]
   ]
