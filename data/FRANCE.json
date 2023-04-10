@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 00:39:18",
+  "lastUpdate": "10-04-2023 , 01:48:19",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Marseille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marseille",
-        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
+        "pubdate": "Sun, 09 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Paques",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paques",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nantes – Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes%20%E2%80%93%20Monaco",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "La Rochelle Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle%20Rugby",
+        "title": "La Rochelle rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle%20rugby",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
       }
     ],
@@ -87,15 +80,15 @@
     ],
     [
       {
-        "title": "Bruce Toussaint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruce%20Toussaint",
-        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City",
+        "title": "Pâques",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#P%C3%A2ques",
         "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "La Provence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Provence",
         "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galtier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galtier",
+        "pubdate": "Sun, 09 Apr 2023 06:00:00 +0200"
       }
     ]
   ]
