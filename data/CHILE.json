@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 04:57:06",
+  "lastUpdate": "10-04-2023 , 05:14:26",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Ñublense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
+        "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Betis  Cádiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20C%C3%A1diz",
         "pubdate": "Sun, 09 Apr 2023 11:00:00 -0400"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Conejo de Pascua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Conejo%20de%20Pascua",
-        "pubdate": "Sun, 09 Apr 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 -0400"
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Magallanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 -0400"
+        "title": "Conejo de Pascua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Conejo%20de%20Pascua",
+        "pubdate": "Sun, 09 Apr 2023 02:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Union Española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-        "pubdate": "Sun, 09 Apr 2023 19:00:00 -0400"
+        "title": "Magallanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 -0400"
       }
     ],
     [
@@ -115,15 +115,8 @@
     ],
     [
       {
-        "title": "Ñublense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tomas Barrios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tomas%20Barrios",
+        "title": "Huachipato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Huachipato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
-        "pubdate": "Sun, 09 Apr 2023 17:00:00 -0400"
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#City",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Boca Juniors  Colón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Col%C3%B3n",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 -0400"
       }
     ]
   ]
