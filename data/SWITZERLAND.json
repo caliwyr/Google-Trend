@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 13:50:53",
+  "lastUpdate": "10-04-2023 , 14:00:32",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "FC Lugano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Traumschiff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Traumschiff",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 +0200"
@@ -69,6 +76,13 @@
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
         "pubdate": "Mon, 10 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liverpool gegen Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Arsenal",
         "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charleston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charleston",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
