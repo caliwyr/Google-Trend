@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-04-2023 , 16:02:21",
+  "lastUpdate": "10-04-2023 , 16:26:02",
   "data": [
     [
       {
         "title": "Dalai Lama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalai%20Lama",
         "pubdate": "Mon, 10 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Reus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reus",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Benjamin Ferencz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benjamin%20Ferencz",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Osterspaziergang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Osterspaziergang",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bauer sucht Frau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bauer%20sucht%20Frau",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Schalke%2004",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
