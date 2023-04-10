@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 23:53:04",
+  "lastUpdate": "10-04-2023 , 00:39:26",
   "data": [
+    [
+      {
+        "title": "리버풀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
+        "pubdate": "Mon, 10 Apr 2023 02:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "토트넘",
@@ -27,6 +34,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFC",
         "pubdate": "Sun, 09 Apr 2023 06:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "홍준표",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%8D%EC%A4%80%ED%91%9C",
+        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0900"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "닥터지",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8B%A5%ED%84%B0%EC%A7%80",
         "pubdate": "Fri, 07 Apr 2023 16:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "조민",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EB%AF%BC",
-        "pubdate": "Thu, 06 Apr 2023 12:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "진보당",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%84%EB%B3%B4%EB%8B%B9",
-        "pubdate": "Thu, 06 Apr 2023 10:00:00 +0900"
       }
     ]
   ]

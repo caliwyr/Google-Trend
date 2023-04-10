@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 23:53:05",
+  "lastUpdate": "10-04-2023 , 00:39:26",
   "data": [
+    [
+      {
+        "title": "Paris-Roubaix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris-Roubaix",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Belinda Bencic",
@@ -13,6 +20,20 @@
         "title": "Magnetische Wimpern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Magnetische%20Wimpern",
         "pubdate": "Mon, 10 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cash Truck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cash%20Truck",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lorient – Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lorient%20%E2%80%93%20Marseille",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -80,6 +101,13 @@
     ],
     [
       {
+        "title": "Paques",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paques",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ben-Hur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben-Hur",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
@@ -94,23 +122,9 @@
     ],
     [
       {
-        "title": "Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Easter",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joyeuse paques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joyeuse%20paques",
         "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ManCity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ManCity",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Victoria Swarovski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victoria%20Swarovski",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
-        "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lundi de paques",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lundi%20de%20paques",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
