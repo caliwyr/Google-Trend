@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 13:32:09",
+  "lastUpdate": "10-04-2023 , 13:41:26",
   "data": [
     [
       {
@@ -55,6 +55,20 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Osterhase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Osterhase",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Führerschein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BChrerschein",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Transformers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Transformers",
         "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dynamo Dresden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Traumschiff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Traumschiff",
-        "pubdate": "Sat, 08 Apr 2023 14:00:00 +0200"
       }
     ]
   ]

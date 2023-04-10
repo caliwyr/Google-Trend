@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 13:32:14",
+  "lastUpdate": "10-04-2023 , 13:41:33",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Happy Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Happy%20Easter",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
         "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dog",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Resurrection of Jesus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Resurrection%20of%20Jesus",
+        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
       }
     ]
   ]
