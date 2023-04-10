@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-04-2023 , 21:57:09",
+  "lastUpdate": "10-04-2023 , 22:13:57",
   "data": [
     [
       {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League",
-        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0700"
       }
     ],
     [
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Thói quen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C3%B3i%20quen",
+        "title": "Bóng đá nữ Việt Nam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20n%E1%BB%AF%20Vi%E1%BB%87t%20Nam",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0700"
       }
     ],
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League",
+        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Huỳnh Hiểu Minh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hu%E1%BB%B3nh%20Hi%E1%BB%83u%20Minh",
         "pubdate": "Mon, 10 Apr 2023 13:00:00 +0700"
@@ -62,13 +62,6 @@
         "title": "Grab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Grab",
         "pubdate": "Mon, 10 Apr 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Jisoo BLACKPINK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jisoo%20BLACKPINK",
-        "pubdate": "Mon, 10 Apr 2023 20:00:00 +0700"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Champion League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champion%20League",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0700"
+        "title": "Messi PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Messi%20PSG",
+        "pubdate": "Mon, 10 Apr 2023 07:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG",
         "pubdate": "Sun, 09 Apr 2023 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lễ Phục sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%85%20Ph%E1%BB%A5c%20sinh",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0700"
       }
     ]
   ]
