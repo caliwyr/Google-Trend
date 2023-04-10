@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 12:47:41",
+  "lastUpdate": "10-04-2023 , 13:01:54",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Ostern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ostern",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marseille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Valverde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Valverde",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
         "pubdate": "Sun, 09 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charleston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charleston",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
