@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 07:52:59",
+  "lastUpdate": "10-04-2023 , 08:10:08",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Leeds United vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United%20vs%20Crystal%20Palace",
-        "pubdate": "Mon, 10 Apr 2023 01:00:00 +1000"
+        "title": "Parramatta Eels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parramatta%20Eels",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Geelong vs Hawthorn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20vs%20Hawthorn",
+        "pubdate": "Mon, 10 Apr 2023 14:00:00 +1000"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Phil Mickelson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phil%20Mickelson",
-        "pubdate": "Mon, 10 Apr 2023 08:00:00 +1000"
+        "title": "Leeds United vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United%20vs%20Crystal%20Palace",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Geelong vs Hawthorn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20vs%20Hawthorn",
-        "pubdate": "Mon, 10 Apr 2023 14:00:00 +1000"
+        "title": "Phil Mickelson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phil%20Mickelson",
+        "pubdate": "Mon, 10 Apr 2023 08:00:00 +1000"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Mon, 10 Apr 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Michael Lerner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Lerner",
         "pubdate": "Mon, 10 Apr 2023 15:00:00 +1000"
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
+        "pubdate": "Mon, 10 Apr 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Rudy Gobert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rudy%20Gobert",
         "pubdate": "Mon, 10 Apr 2023 14:00:00 +1000"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marseille",
-        "pubdate": "Mon, 10 Apr 2023 15:00:00 +1000"
+        "title": "ABBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABBA",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Twitter Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Twitter%20Elon%20Musk",
-        "pubdate": "Mon, 10 Apr 2023 00:00:00 +1000"
+        "title": "Dalai Lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dalai%20Lama",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marseille",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 +1000"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "ABBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABBA",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Xavier Cooks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Xavier%20Cooks",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
-        "pubdate": "Sun, 09 Apr 2023 02:00:00 +1000"
+        "title": "Twitter Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Twitter%20Elon%20Musk",
+        "pubdate": "Mon, 10 Apr 2023 00:00:00 +1000"
       }
     ]
   ]

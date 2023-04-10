@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-04-2023 , 07:53:02",
+  "lastUpdate": "10-04-2023 , 08:10:11",
   "data": [
-    [
-      {
-        "title": "Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
-        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "DFB-Pokal",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Ostern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ostern",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
+        "title": "Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
+        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
+        "title": "Mickie Krause",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mickie%20Krause",
+        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VfL Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "VfB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Romy Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Romy%20Schneider",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfL Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Transformers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Transformers",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
+        "title": "Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valverde",
+        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FC Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Schalke%2004",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
+        "title": "Transformers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Transformers",
+        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Dynamo Dresden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taiwan",
-        "pubdate": "Sat, 08 Apr 2023 14:00:00 +0200"
+        "title": "FC Schalke 04",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Schalke%2004",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

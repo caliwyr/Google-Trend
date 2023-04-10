@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 07:53:06",
+  "lastUpdate": "10-04-2023 , 08:10:17",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Jon Rahm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jon%20Rahm",
+        "pubdate": "Mon, 10 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ariana Grande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ariana%20Grande",
         "pubdate": "Mon, 10 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Marseille FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marseille%20FC",
-        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Resurrection of Jesus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Resurrection%20of%20Jesus",
         "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Betis",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+        "title": "Zamalek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zamalek",
+        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
