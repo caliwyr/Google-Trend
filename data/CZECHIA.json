@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 14:55:04",
+  "lastUpdate": "10-04-2023 , 15:10:13",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Anděl na horách",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#And%C4%9Bl%20na%20hor%C3%A1ch",
         "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sharon Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sharon%20Tate",
         "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Al-Nassr",
-        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
