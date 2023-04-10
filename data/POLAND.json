@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 06:58:24",
+  "lastUpdate": "10-04-2023 , 07:15:28",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Śmigus-dyngus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Amigus-dyngus",
+        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taylor%20Swift",
         "pubdate": "Sun, 09 Apr 2023 10:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tom%20Cruise",
-        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Teresa Werner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Teresa%20Werner",
         "pubdate": "Sun, 09 Apr 2023 13:00:00 +0200"
@@ -94,9 +94,23 @@
     ],
     [
       {
-        "title": "Chrystus zmartwychwstał!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chrystus%20zmartwychwsta%C5%82!",
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tom%20Cruise",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chrystus zmartwychwstał",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chrystus%20zmartwychwsta%C5%82",
         "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poniedziałek Wielkanocny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Poniedzia%C5%82ek%20Wielkanocny",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Poniedziałek Wielkanocny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Poniedzia%C5%82ek%20Wielkanocny",
-        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Agnieszka Chylińska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Chyli%C5%84ska",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Ania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ania",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Meghan Markle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Meghan%20Markle",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
       }
     ]
   ]

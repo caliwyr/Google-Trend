@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-04-2023 , 06:58:24",
+  "lastUpdate": "10-04-2023 , 07:15:27",
   "data": [
     [
       {
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eliteserien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
+        "pubdate": "Mon, 10 Apr 2023 03:00:00 +0200"
       }
     ],
     [
@@ -62,20 +69,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
         "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roubaix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roubaix",
-        "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vinni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vinni",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oilers",
         "pubdate": "Sat, 08 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Long covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Long%20covid",
+        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0200"
       }
     ]
   ]

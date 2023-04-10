@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 06:58:19",
+  "lastUpdate": "10-04-2023 , 07:15:23",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Henry Fonda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Fonda",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Britney%20Spears",
         "pubdate": "Sun, 09 Apr 2023 22:00:00 +0300"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Paris-Roubaix 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paris-Roubaix%202023",
+        "title": "PARIS-ROUBAIX 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PARIS-ROUBAIX%202023",
         "pubdate": "Sun, 09 Apr 2023 20:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taiwan",
         "pubdate": "Sat, 08 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Southampton – Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Southampton%20%E2%80%93%20Manchester%20City",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0300"
       }
     ]
   ]
