@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-04-2023 , 13:56:49",
+  "lastUpdate": "11-04-2023 , 14:13:32",
   "data": [
-    [
-      {
-        "title": "Noticias de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
-        "pubdate": "Tue, 11 Apr 2023 01:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Millie Bobby Brown",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Barcelona  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Girona",
-        "pubdate": "Mon, 10 Apr 2023 15:00:00 -0400"
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "pubdate": "Tue, 11 Apr 2023 01:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
-        "pubdate": "Mon, 10 Apr 2023 19:00:00 -0400"
+        "title": "Barcelona  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Girona",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 -0400"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Curico Unido",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curico%20Unido",
         "pubdate": "Mon, 10 Apr 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Union La Calera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20La%20Calera",
-        "pubdate": "Mon, 10 Apr 2023 21:00:00 -0400"
       }
     ],
     [
@@ -94,6 +80,13 @@
     ],
     [
       {
+        "title": "Union La Calera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20La%20Calera",
+        "pubdate": "Mon, 10 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wrexham",
         "pubdate": "Mon, 10 Apr 2023 16:00:00 -0400"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Daniel Palma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniel%20Palma",
-        "pubdate": "Mon, 10 Apr 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Fentanilo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fentanilo",
         "pubdate": "Mon, 10 Apr 2023 18:00:00 -0400"
@@ -139,6 +125,20 @@
         "title": "Baby shower",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Baby%20shower",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bolsillo Familiar Electrónico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolsillo%20Familiar%20Electr%C3%B3nico",
+        "pubdate": "Mon, 10 Apr 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Colo Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 -0400"
       }
     ]
   ]
