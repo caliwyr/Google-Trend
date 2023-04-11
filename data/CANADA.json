@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-04-2023 , 01:48:01",
+  "lastUpdate": "11-04-2023 , 02:22:42",
   "data": [
-    [
-      {
-        "title": "Succession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Succession",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Louisville shooting",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Barcelona vs Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Girona",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 -0400"
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Succession",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 -0400"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Hilary Swank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hilary%20Swank",
         "pubdate": "Mon, 10 Apr 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona vs Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Girona",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Sophie Grenier La Voix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sophie%20Grenier%20La%20Voix",
-        "pubdate": "Mon, 10 Apr 2023 00:00:00 -0400"
+        "title": "RCB vs LSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RCB%20vs%20LSG",
+        "pubdate": "Mon, 10 Apr 2023 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "RCB vs LSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RCB%20vs%20LSG",
-        "pubdate": "Mon, 10 Apr 2023 13:00:00 -0400"
+        "title": "Maple Leafs vs Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Panthers",
+        "pubdate": "Mon, 10 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Maple Leafs vs Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Panthers",
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UEFA%20Champions%20League",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 -0400"
       }
     ],
