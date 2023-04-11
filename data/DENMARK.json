@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 00:30:53",
+  "lastUpdate": "11-04-2023 , 01:48:02",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wrexham",
         "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aldi",
-        "pubdate": "Mon, 10 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Ob",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ob",
+        "title": "OB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
         "pubdate": "Mon, 10 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Monte Carlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Monte%20Carlo",
         "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Constantine Hatzidakis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Constantine%20Hatzidakis",
+        "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
