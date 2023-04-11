@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 18:58:35",
+  "lastUpdate": "11-04-2023 , 19:13:25",
   "data": [
     [
       {
@@ -12,6 +12,20 @@
       {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
+        "pubdate": "Tue, 11 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slope",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
       }
     ],
@@ -55,13 +69,6 @@
         "title": "Wegovy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wegovy",
         "pubdate": "Tue, 11 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sheets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sheets",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Min",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Min",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
