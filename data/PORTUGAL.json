@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-04-2023 , 19:51:17",
+  "lastUpdate": "11-04-2023 , 20:00:59",
   "data": [
     [
       {
         "title": "Bon Jovi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bon%20Jovi",
         "pubdate": "Tue, 11 Apr 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "City-Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City-Bayern",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SLB",
+        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0100"
       }
     ],
     [
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Joao Galamba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Galamba",
-        "pubdate": "Tue, 11 Apr 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "SL Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SL%20Benfica",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fenerbah%C3%A7e",
-        "pubdate": "Tue, 11 Apr 2023 02:00:00 +0100"
+        "title": "Joao Galamba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Galamba",
+        "pubdate": "Tue, 11 Apr 2023 13:00:00 +0100"
       }
     ],
     [
@@ -45,30 +52,16 @@
     ],
     [
       {
-        "title": "Steven Seagal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Steven%20Seagal",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0100"
+        "title": "Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fenerbah%C3%A7e",
+        "pubdate": "Tue, 11 Apr 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Luciana Abreu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luciana%20Abreu",
-        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
-        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo Rebelo de Sousa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
-        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0100"
       }
     ],
     [
@@ -76,6 +69,20 @@
         "title": "Champions League 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions%20League%202023",
         "pubdate": "Tue, 11 Apr 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steven Seagal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Steven%20Seagal",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marcelo Rebelo de Sousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
+        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
-        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "TOTS FIFA 23",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TOTS%20FIFA%2023",
         "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "MC Gui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MC%20Gui",
-        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Louisville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Louisville",
-        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
+        "title": "Canal 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Canal%2011",
+        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0100"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Apoio extraordinário",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Apoio%20extraordin%C3%A1rio",
         "pubdate": "Tue, 11 Apr 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Louisville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Louisville",
+        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
       }
     ],
     [
