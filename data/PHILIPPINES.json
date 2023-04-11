@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 11:58:01",
+  "lastUpdate": "11-04-2023 , 12:32:24",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Millie%20Bobby%20Brown",
+        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jung Chae Yul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jung%20Chae%20Yul",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Windy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Windy",
         "pubdate": "Tue, 11 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "PAGASA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PAGASA",
+        "pubdate": "Tue, 11 Apr 2023 07:00:00 +0800"
       }
     ],
     [
@@ -45,13 +66,6 @@
     ],
     [
       {
-        "title": "PAGASA weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PAGASA%20weather",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Ashley Ortega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ashley%20Ortega",
         "pubdate": "Tue, 11 Apr 2023 06:00:00 +0800"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Kirara Genshin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kirara%20Genshin",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dead Mount Death Play",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dead%20Mount%20Death%20Play",
         "pubdate": "Tue, 11 Apr 2023 15:00:00 +0800"
@@ -90,6 +97,13 @@
         "title": "Lakers vs Timberwolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lakers%20vs%20Timberwolves",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kirara Genshin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kirara%20Genshin",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "NBA Playoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20Playoffs",
         "pubdate": "Mon, 10 Apr 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ariana Grande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ariana%20Grande",
-        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Trail Blazers vs Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Trail%20Blazers%20vs%20Warriors",
-        "pubdate": "Mon, 10 Apr 2023 05:00:00 +0800"
       }
     ]
   ]
