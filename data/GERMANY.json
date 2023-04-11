@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "11-04-2023 , 12:55:22",
+  "lastUpdate": "11-04-2023 , 13:15:41",
   "data": [
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tupperware",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tupperware",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Sven Walser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sven%20Walser",
+        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ulm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ulm",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 +0200"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Champions-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
         "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ],
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Lasse Wellander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lasse%20Wellander",
-        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
+        "title": "Flugzeug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flugzeug",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Hockenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hockenheim",
-        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0200"
+        "title": "Olaf Scholz!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz!",
+        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ABBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ABBA",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -124,7 +131,7 @@
       {
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
+        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Günther Jauch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCnther%20Jauch",
         "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tatort: Nichts als die Wahrheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort:%20Nichts%20als%20die%20Wahrheit",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

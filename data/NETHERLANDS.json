@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 12:55:25",
+  "lastUpdate": "11-04-2023 , 13:15:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nick en Simon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nick%20en%20Simon",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Millie%20Bobby%20Brown",
+        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Laurens Buijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laurens%20Buijs",
         "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,16 @@
     ],
     [
       {
-        "title": "Amstel Gold Race",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amstel%20Gold%20Race",
-        "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
+        "title": "Tweede Paasdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tweede%20Paasdag",
+        "pubdate": "Mon, 10 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hilary Swank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hilary%20Swank",
+        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 09 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marseille",
-        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Limp Bizkit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Limp%20Bizkit",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Fri, 07 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
