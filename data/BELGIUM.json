@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 23:51:48",
+  "lastUpdate": "11-04-2023 , 00:30:51",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "David Goffin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wrexham",
         "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "David Goffin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Bruyne",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Thuin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thuin",
-        "pubdate": "Mon, 10 Apr 2023 20:00:00 +0200"
+        "title": "Les Gold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Gold",
+        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
