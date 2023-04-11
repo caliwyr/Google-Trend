@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-04-2023 , 14:55:05",
+  "lastUpdate": "11-04-2023 , 15:12:08",
   "data": [
+    [
+      {
+        "title": "John Olsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Olsen",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Jon Bon Jovi",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "The voice referendum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20voice%20referendum",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +1000"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 13:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
-        "pubdate": "Tue, 11 Apr 2023 13:00:00 +1000"
+        "title": "The voice referendum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20voice%20referendum",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Gather Round AFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gather%20Round%20AFL",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +1000"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Spotify pie chart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spotify%20pie%20chart",
-        "pubdate": "Tue, 11 Apr 2023 18:00:00 +1000"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Izak Rankine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Izak%20Rankine",
         "pubdate": "Tue, 11 Apr 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Champions%20League",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
         "pubdate": "Tue, 11 Apr 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Gather Round AFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gather%20Round%20AFL",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +1000"
       }
     ],
     [
