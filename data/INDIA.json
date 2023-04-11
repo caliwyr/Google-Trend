@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-04-2023 , 05:54:34",
+  "lastUpdate": "11-04-2023 , 06:13:55",
   "data": [
     [
       {
         "title": "Barcelona vs Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Girona",
         "pubdate": "Tue, 11 Apr 2023 00:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 10:30:00 +0530"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "ATK Mohun Bagan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ATK%20Mohun%20Bagan",
-        "pubdate": "Tue, 11 Apr 2023 08:30:00 +0530"
+        "title": "Delhi High Court",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20High%20Court",
+        "pubdate": "Tue, 11 Apr 2023 10:30:00 +0530"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Succession",
+        "pubdate": "Mon, 10 Apr 2023 22:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Tata Motors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tata%20Motors",
         "pubdate": "Mon, 10 Apr 2023 13:30:00 +0530"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Succession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Succession",
-        "pubdate": "Mon, 10 Apr 2023 22:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
         "pubdate": "Mon, 10 Apr 2023 22:30:00 +0530"
@@ -132,13 +139,6 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lewis%20Hamilton",
         "pubdate": "Mon, 10 Apr 2023 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "GT vs KKR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#GT%20vs%20KKR",
-        "pubdate": "Sun, 09 Apr 2023 01:30:00 +0530"
       }
     ]
   ]

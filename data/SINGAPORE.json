@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 05:54:39",
+  "lastUpdate": "11-04-2023 , 06:14:02",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "IVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IVE",
-        "pubdate": "Tue, 11 Apr 2023 08:00:00 +0800"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0800"
+        "title": "IVE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IVE",
+        "pubdate": "Tue, 11 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Udonis Haslem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Udonis%20Haslem",
-        "pubdate": "Mon, 10 Apr 2023 13:00:00 +0800"
+        "title": "Halimah Yacob",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Halimah%20Yacob",
+        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0800"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Succession",
         "pubdate": "Mon, 10 Apr 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Halimah Yacob",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Halimah%20Yacob",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "COVID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COVID",
+        "title": "Covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Covid",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Star Awards 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Awards%202023",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0800"
       }
     ]
   ]

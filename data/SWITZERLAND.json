@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 05:54:39",
+  "lastUpdate": "11-04-2023 , 06:14:03",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Chinataiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chinataiwan",
+        "title": "China Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#China%20Taiwan",
         "pubdate": "Tue, 11 Apr 2023 01:00:00 +0200"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "HCC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HCC",
-        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Peter Maffay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Maffay",
         "pubdate": "Mon, 10 Apr 2023 21:00:00 +0200"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "HCC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HCC",
+        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Lugano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
         "pubdate": "Mon, 10 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hochwald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hochwald",
+        "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Gemini Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gemini%20Man",
-        "pubdate": "Mon, 10 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dalai Lama Zunge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dalai%20Lama%20Zunge",
+        "title": "ATP Monte-Carlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Monte-Carlo",
         "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
       }
     ]

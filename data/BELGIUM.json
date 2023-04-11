@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 05:54:31",
+  "lastUpdate": "11-04-2023 , 06:13:50",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Comte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Comte",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Huub Oosterhuis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Huub%20Oosterhuis",
         "pubdate": "Mon, 10 Apr 2023 13:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Bruyne",
+        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tupperware",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tupperware",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
       }
     ]
