@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 20:47:44",
+  "lastUpdate": "11-04-2023 , 20:56:57",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Bon Jovi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bon%20Jovi",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +1000"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
+        "pubdate": "Wed, 12 Apr 2023 05:00:00 +1000"
       }
     ],
     [
@@ -20,13 +20,6 @@
         "title": "Beau Is Afraid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beau%20Is%20Afraid",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
-        "pubdate": "Wed, 12 Apr 2023 05:00:00 +1000"
       }
     ],
     [
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "MilkRun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MilkRun",
+        "title": "Milkrun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Milkrun",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 +1000"
       }
     ],
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Gather Round AFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gather%20Round%20AFL",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +1000"
+        "title": "Matildas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+        "pubdate": "Tue, 11 Apr 2023 20:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ethan Ewing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ethan%20Ewing",
         "pubdate": "Tue, 11 Apr 2023 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +1000"
       }
     ]
   ]
