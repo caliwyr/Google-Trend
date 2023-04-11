@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-04-2023 , 16:52:43",
+  "lastUpdate": "11-04-2023 , 17:06:39",
   "data": [
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
-        "pubdate": "Tue, 11 Apr 2023 05:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Millie Bobby Brown",
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Succession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Succession",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Championship",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -76,6 +69,13 @@
         "title": "Halle Berry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Halle%20Berry",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Succession",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,20 @@
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
         "pubdate": "Tue, 11 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jusqu'ici tout va bien serie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jusqu'ici%20tout%20va%20bien%20serie",
+        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LDC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LDC",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Bon Jovi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bon%20Jovi",
+        "pubdate": "Tue, 11 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "MotoGP Marc Marquez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MotoGP%20Marc%20Marquez",
         "pubdate": "Tue, 11 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Furlan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Furlan",
-        "pubdate": "Mon, 10 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dalai lama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dalai%20lama",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lasse Wellander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lasse%20Wellander",
-        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 16:52:52",
+  "lastUpdate": "11-04-2023 , 17:06:47",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macron",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
+        "pubdate": "Tue, 11 Apr 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Al Jaffee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Al%20Jaffee",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macron",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Hilary Swank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hilary%20Swank",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Boer zoekt Vrouw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
         "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC",
         "pubdate": "Sun, 09 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
+        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
