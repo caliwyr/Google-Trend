@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 22:45:10",
+  "lastUpdate": "11-04-2023 , 23:10:11",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Tercer Grado Deportivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tercer%20Grado%20Deportivo",
+        "pubdate": "Tue, 11 Apr 2023 03:00:00 -0600"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Electra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Electra",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Hector Parra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hector%20Parra",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 -0600"
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Bernardo Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bernardo%20Silva",
+        "title": "UEFA Champions League 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UEFA%20Champions%20League%202023",
         "pubdate": "Tue, 11 Apr 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Upamecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Upamecano",
-        "pubdate": "Tue, 11 Apr 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Clima San Luis potosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20San%20Luis%20potosi",
-        "pubdate": "Tue, 11 Apr 2023 13:00:00 -0600"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Tania Rincón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tania%20Rinc%C3%B3n",
-        "pubdate": "Tue, 11 Apr 2023 14:00:00 -0600"
+        "title": "Clima San Luis potosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20San%20Luis%20potosi",
+        "pubdate": "Tue, 11 Apr 2023 13:00:00 -0600"
       }
     ],
     [
@@ -101,9 +101,23 @@
     ],
     [
       {
+        "title": "Tania Rincón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tania%20Rinc%C3%B3n",
+        "pubdate": "Tue, 11 Apr 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Integra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Integra",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Park seo-joon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Park%20seo-joon",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 -0600"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20League",
         "pubdate": "Mon, 10 Apr 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20%20Girona",
-        "pubdate": "Mon, 10 Apr 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Fibrilación Ventricular",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fibrilaci%C3%B3n%20Ventricular",
-        "pubdate": "Mon, 10 Apr 2023 07:00:00 -0600"
       }
     ]
   ]
