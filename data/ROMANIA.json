@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-04-2023 , 10:56:07",
+  "lastUpdate": "11-04-2023 , 11:10:32",
   "data": [
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "FC Barcelona",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Nassr",
-        "pubdate": "Mon, 10 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Survivor România",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Survivor%20Rom%C3%A2nia",
         "pubdate": "Mon, 10 Apr 2023 21:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Hermannstadt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt",
-        "pubdate": "Mon, 10 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "România, te iubesc!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rom%C3%A2nia,%20te%20iubesc!",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Liverpool  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool%20%20Arsenal",
         "pubdate": "Sun, 09 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
+        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0300"
       }
     ]
   ]

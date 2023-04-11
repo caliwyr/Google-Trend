@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 10:56:00",
+  "lastUpdate": "11-04-2023 , 11:10:25",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Succession",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mont-Saint-Michel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mont-Saint-Michel",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
+        "title": "Lasse Wellander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lasse%20Wellander",
+        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lasse Wellander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lasse%20Wellander",
-        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tupperware",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tupperware",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Huub Oosterhuis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Huub%20Oosterhuis",
-        "pubdate": "Mon, 10 Apr 2023 13:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
