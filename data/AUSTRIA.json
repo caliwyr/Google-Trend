@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2023 , 06:58:08",
+  "lastUpdate": "11-04-2023 , 07:15:43",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Tupperware",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tupperware",
+        "pubdate": "Tue, 11 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dachstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dachstein",
+        "pubdate": "Tue, 11 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Djokovic",
         "pubdate": "Mon, 10 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jon Rahm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jon%20Rahm",
-        "pubdate": "Mon, 10 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rudy Gobert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rudy%20Gobert",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
