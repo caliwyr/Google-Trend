@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 03:46:55",
+  "lastUpdate": "12-04-2023 , 03:56:07",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
         "pubdate": "Tue, 11 Apr 2023 02:00:00 +0200"
@@ -55,6 +62,13 @@
         "title": "Költészet napja 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6lt%C3%A9szet%20napja%202023",
         "pubdate": "Tue, 11 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erdős Virág",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erd%C5%91s%20Vir%C3%A1g",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pilinszky János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pilinszky%20J%C3%A1nos",
         "pubdate": "Tue, 11 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kosztolányi Dezső",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kosztol%C3%A1nyi%20Dezs%C5%91",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szentes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentes",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
