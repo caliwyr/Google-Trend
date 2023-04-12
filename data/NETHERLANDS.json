@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 17:50:27",
+  "lastUpdate": "12-04-2023 , 17:59:48",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Anita Ekberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anita%20Ekberg",
-        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brabantse Pijl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brabantse%20Pijl",
         "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "LAKS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#LAKS",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0200"
+        "title": "Anita Ekberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anita%20Ekberg",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Chantal Janzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chantal%20Janzen",
-        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0200"
+        "title": "Floriade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floriade",
+        "pubdate": "Wed, 12 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica",
-        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nick en Simon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nick%20en%20Simon",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
@@ -90,6 +76,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
         "pubdate": "Tue, 11 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20Roma",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Boer zoekt Vrouw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
         "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ]
