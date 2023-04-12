@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 22:45:13",
+  "lastUpdate": "12-04-2023 , 22:54:39",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Haaland",
+        "pubdate": "Wed, 12 Apr 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Roberto Firmino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roberto%20Firmino",
         "pubdate": "Wed, 12 Apr 2023 01:00:00 +0300"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Jung Chae-yul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jung%20Chae-yul",
-        "pubdate": "Wed, 12 Apr 2023 18:00:00 +0300"
+        "title": "Roman Reigns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roman%20Reigns",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Roman Reigns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roman%20Reigns",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
+        "title": "Jung Chae-yul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jung%20Chae-yul",
+        "pubdate": "Wed, 12 Apr 2023 18:00:00 +0300"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Upamecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Upamecano",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Mamelodi Sundowns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mamelodi%20Sundowns",
         "pubdate": "Wed, 12 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Bayern",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "BENFICA vs INTER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#BENFICA%20vs%20INTER",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0300"
+        "title": "Man City vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Bayern",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Milan vs Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Napoli",
         "pubdate": "Tue, 11 Apr 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BENFICA vs INTER",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#BENFICA%20vs%20INTER",
+        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0300"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-04-2023 , 22:45:16",
+  "lastUpdate": "12-04-2023 , 22:54:42",
   "data": [
+    [
+      {
+        "title": "Pablo Escobar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pablo%20Escobar",
+        "pubdate": "Thu, 13 Apr 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Kate Middleton",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Pablo Escobar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pablo%20Escobar",
-        "pubdate": "Thu, 13 Apr 2023 00:00:00 +0300"
+        "title": "Mihai Coadă",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Coad%C4%83",
+        "pubdate": "Thu, 13 Apr 2023 01:00:00 +0300"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Grigore comanescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Grigore%20comanescu",
+        "pubdate": "Wed, 12 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Miel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Miel",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0300"
@@ -55,13 +69,6 @@
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Man City Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20Bayern",
-        "pubdate": "Wed, 12 Apr 2023 02:00:00 +0300"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Man City  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20%20Bayern",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
         "pubdate": "Tue, 11 Apr 2023 16:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jon Bon Jovi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jon%20Bon%20Jovi",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Benfica",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0300"
       }
     ]
   ]
