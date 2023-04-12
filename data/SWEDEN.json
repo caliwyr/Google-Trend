@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-04-2023 , 05:45:40",
+  "lastUpdate": "12-04-2023 , 05:54:49",
   "data": [
+    [
+      {
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amanda%20Bynes",
+        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Champions League",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Erik Karlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erik%20Karlsson",
         "pubdate": "Tue, 11 Apr 2023 08:00:00 +0200"
@@ -76,6 +76,13 @@
         "title": "Tupperware",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tupperware",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Örebro Skellefteå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96rebro%20Skellefte%C3%A5",
+        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dalai Lama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dalai%20Lama",
         "pubdate": "Mon, 10 Apr 2023 13:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Frölunda Växjö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20V%C3%A4xj%C3%B6",
-        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0200"
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Mon, 10 Apr 2023 19:00:00 +0200"
       }
     ]
   ]

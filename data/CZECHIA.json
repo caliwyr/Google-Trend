@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-04-2023 , 05:45:31",
+  "lastUpdate": "12-04-2023 , 05:54:41",
   "data": [
     [
       {
         "title": "ETA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ETA",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jakub Voráček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Vor%C3%A1%C4%8Dek",
+        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Láska je láska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#L%C3%A1ska%20je%20l%C3%A1ska",
-        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
+        "title": "Císařský ostrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#C%C3%ADsa%C5%99sk%C3%BD%20ostrov",
+        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Císařský ostrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#C%C3%ADsa%C5%99sk%C3%BD%20ostrov",
-        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
+        "title": "Láska je láska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#L%C3%A1ska%20je%20l%C3%A1ska",
+        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lasse Wellander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lasse%20Wellander",
         "pubdate": "Mon, 10 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tiger Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tiger%20Woods",
-        "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
       }
     ]
   ]
