@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 13:47:50",
+  "lastUpdate": "12-04-2023 , 13:57:08",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Angela Gheorghiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Angela%20Gheorghiu",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC%20Milan",
         "pubdate": "Wed, 12 Apr 2023 09:00:00 +0300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Angela Gheorghiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Angela%20Gheorghiu",
-        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
+        "title": "Upamecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Upamecano",
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Barcelona  Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Girona",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Petrolul  Mioveni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20%20Mioveni",
-        "pubdate": "Mon, 10 Apr 2023 18:00:00 +0300"
       }
     ]
   ]

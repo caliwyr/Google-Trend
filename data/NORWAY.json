@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 13:47:49",
+  "lastUpdate": "12-04-2023 , 13:57:07",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Benfica",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Succession",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
@@ -111,13 +118,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#CL",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
       }
     ],
     [
