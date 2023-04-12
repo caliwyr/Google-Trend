@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 18:45:27",
+  "lastUpdate": "12-04-2023 , 18:54:50",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Champions%20League",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Blue Jays",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays",
         "pubdate": "Tue, 11 Apr 2023 20:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Trudeau Foundation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trudeau%20Foundation",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Regina Pats",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20Pats",
-        "pubdate": "Tue, 11 Apr 2023 00:00:00 -0400"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-04-2023 , 18:45:30",
+  "lastUpdate": "12-04-2023 , 18:54:54",
   "data": [
     [
       {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ariana%20Grande",
         "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Korda György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
+        "pubdate": "Wed, 12 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Real Madrid-Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid-Chelsea",
+        "title": "Real Madrid Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Chelsea",
         "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Korda György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
-        "pubdate": "Wed, 12 Apr 2023 06:00:00 +0200"
+        "title": "Németh Kristóf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9meth%20Krist%C3%B3f",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arnold%20Schwarzenegger",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Válasz Online",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1lasz%20Online",
         "pubdate": "Wed, 12 Apr 2023 17:00:00 +0200"
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Infláció",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Infl%C3%A1ci%C3%B3",
-        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
+        "title": "Oszvald Marika!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oszvald%20Marika!",
+        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Oszvald Marika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oszvald%20Marika",
-        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0200"
+        "title": "Infláció",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Infl%C3%A1ci%C3%B3",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Juhász Dorka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juh%C3%A1sz%20Dorka",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+        "title": "David Pressman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Pressman",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "David Pressman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Pressman",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aranyosi Péter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aranyosi%20P%C3%A9ter",
         "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Csepregi Éva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csepregi%20%C3%89va",
-        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20City",
-        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
+        "title": "Erdős Virág",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erd%C5%91s%20Vir%C3%A1g",
+        "pubdate": "Tue, 11 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
