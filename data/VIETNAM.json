@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "12-04-2023 , 06:49:33",
+  "lastUpdate": "12-04-2023 , 06:58:49",
   "data": [
     [
       {
-        "title": "Songkran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Songkran",
+        "title": "MC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
         "pubdate": "Wed, 12 Apr 2023 01:00:00 +0700"
       }
     ],
     [
       {
-        "title": "See Tình",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#See%20T%C3%ACnh",
-        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0700"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Songkran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Songkran",
+        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0700"
       }
     ],
     [
@@ -24,9 +31,23 @@
     ],
     [
       {
+        "title": "See Tình",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#See%20T%C3%ACnh",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Chiều cao cân nặng của trẻ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chi%E1%BB%81u%20cao%20c%C3%A2n%20n%E1%BA%B7ng%20c%E1%BB%A7a%20tr%E1%BA%BB",
         "pubdate": "Wed, 12 Apr 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Quang Hải",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Quang%20H%E1%BA%A3i",
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0700"
       }
     ],
     [
@@ -45,6 +66,13 @@
     ],
     [
       {
+        "title": "Ngọc Béo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%E1%BB%8Dc%20B%C3%A9o",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0700"
@@ -59,23 +87,16 @@
     ],
     [
       {
-        "title": "Ngọc Béo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%E1%BB%8Dc%20B%C3%A9o",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Giá xăng hôm nay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay",
-        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Jung Chae Yul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jung%20Chae%20Yul",
         "pubdate": "Tue, 11 Apr 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "YouTube Premium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#YouTube%20Premium",
+        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0700"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "YouTube Premium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#YouTube%20Premium",
-        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Nhật Bản",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%ADt%20B%E1%BA%A3n",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +0700"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Giá xăng dầu hôm nay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay",
+        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "IVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#IVE",
         "pubdate": "Tue, 11 Apr 2023 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Lịch thi đấu Cúp C1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20C%C3%BAp%20C1",
-        "pubdate": "Tue, 11 Apr 2023 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Yoo Ah In",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Yoo%20Ah%20In",
-        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Europa%20League",
-        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0700"
       }
     ]
   ]
