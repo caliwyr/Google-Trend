@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 14:55:21",
+  "lastUpdate": "12-04-2023 , 15:12:40",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Census 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Census%202023",
+        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Benfica vs Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benfica%20vs%20Inter",
         "pubdate": "Tue, 11 Apr 2023 15:00:00 +0100"
@@ -66,20 +73,6 @@
     ],
     [
       {
-        "title": "Johnny Drille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Johnny%20Drille",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Peak Milk Easter Advert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peak%20Milk%20Easter%20Advert",
-        "pubdate": "Tue, 11 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mbadinuju",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mbadinuju",
         "pubdate": "Tue, 11 Apr 2023 22:00:00 +0100"
@@ -94,15 +87,15 @@
     ],
     [
       {
-        "title": "Champions League table",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20table",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0100"
+        "title": "Peak Milk Easter Advert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peak%20Milk%20Easter%20Advert",
+        "pubdate": "Tue, 11 Apr 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "NIBSS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NIBSS",
+        "title": "Johnny Drille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Johnny%20Drille",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +0100"
       }
     ],
@@ -124,6 +117,13 @@
       {
         "title": "Champion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champion",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20table",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +0100"
       }
     ],

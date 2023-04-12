@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 14:55:21",
+  "lastUpdate": "12-04-2023 , 15:12:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "PBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PBA",
         "pubdate": "Wed, 12 Apr 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ariana Grande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ariana%20Grande",
+        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0800"
       }
     ],
     [
@@ -34,6 +41,20 @@
         "title": "Michael Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Michael%20Jordan",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Durant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kevin%20Durant",
+        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Walang pasok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Walang%20pasok",
+        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0800"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bitcoin",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Autism",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Autism",
         "pubdate": "Wed, 12 Apr 2023 21:00:00 +0800"
@@ -83,6 +97,13 @@
         "title": "Laufey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Laufey",
         "pubdate": "Wed, 12 Apr 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bitcoin",
+        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#MrBeast",
-        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "NBA bracket 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20bracket%202023",
-        "pubdate": "Wed, 12 Apr 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Gigi De Lana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gigi%20De%20Lana",
         "pubdate": "Wed, 12 Apr 2023 20:00:00 +0800"
@@ -131,13 +138,6 @@
       {
         "title": "MRT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#MRT",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Memphis Grizzlies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Memphis%20Grizzlies",
         "pubdate": "Wed, 12 Apr 2023 21:00:00 +0800"
       }
     ]
