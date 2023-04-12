@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 12:55:22",
+  "lastUpdate": "12-04-2023 , 13:15:34",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Amazon Prime Video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Video",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shirin David",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shirin%20David",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Amazon Prime Video",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Video",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "GPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GPT",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Tierärztin Dr. Mertens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tier%C3%A4rztin%20Dr.%20Mertens",
-        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+        "title": "Lauterbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lauterbach",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lauterbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lauterbach",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer",
+        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benfica",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Upamecano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Upamecano",
         "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0200"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benfica",
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Marc Terenzi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marc%20Terenzi",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tim Raue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tim%20Raue",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 12:55:27",
+  "lastUpdate": "12-04-2023 , 13:15:39",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC%20Milan",
         "pubdate": "Wed, 12 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Michael Jordan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Michael%20Jordan",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Angela Gheorghiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Angela%20Gheorghiu",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Culita Sterp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Culita%20Sterp",
-        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Pască fără aluat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pasc%C4%83%20f%C4%83r%C4%83%20aluat",
         "pubdate": "Tue, 11 Apr 2023 20:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Petrolul  Mioveni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20%20Mioveni",
         "pubdate": "Mon, 10 Apr 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0300"
       }
     ]
   ]

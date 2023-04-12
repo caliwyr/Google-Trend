@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-04-2023 , 12:55:21",
+  "lastUpdate": "12-04-2023 , 13:15:33",
   "data": [
     [
       {
         "title": "Gagarin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gagarin",
         "pubdate": "Wed, 12 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Soukup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soukup",
+        "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Soukup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soukup",
-        "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
+        "title": "Cool girl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cool%20girl",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Jakub Voráček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Vor%C3%A1%C4%8Dek",
         "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Comic-Con",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Comic-Con",
-        "pubdate": "Wed, 12 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Vitkovice Hradec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vitkovice%20Hradec",
-        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Láska je láska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#L%C3%A1ska%20je%20l%C3%A1ska",
         "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Nina Špitálníková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nina%20%C5%A0pit%C3%A1ln%C3%ADkov%C3%A1",
         "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rušení finančních úřadů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ru%C5%A1en%C3%AD%20finan%C4%8Dn%C3%ADch%20%C3%BA%C5%99ad%C5%AF",
+        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
