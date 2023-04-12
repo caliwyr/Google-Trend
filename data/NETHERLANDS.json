@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "12-04-2023 , 09:53:29",
+  "lastUpdate": "12-04-2023 , 10:09:23",
   "data": [
-    [
-      {
-        "title": "Ariana Grande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ariana%20Grande",
-        "pubdate": "Wed, 12 Apr 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
         "pubdate": "Wed, 12 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Upamecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Upamecano",
-        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -40,7 +26,7 @@
       {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Man%20City",
-        "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
+        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Sven Mislintat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sven%20Mislintat",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nothing But Thieves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nothing%20But%20Thieves",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Lee Towers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lee%20Towers",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Met het Mes op Tafel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20het%20Mes%20op%20Tafel",
+        "pubdate": "Mon, 10 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boer zoekt Vrouw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
