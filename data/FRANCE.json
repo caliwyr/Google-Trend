@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 08:48:26",
+  "lastUpdate": "12-04-2023 , 08:57:44",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "SNUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#SNUS",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Riopy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Riopy",
+        "pubdate": "Wed, 12 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Benjamin Castaldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benjamin%20Castaldi",
-        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ligue des champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
         "pubdate": "Tue, 11 Apr 2023 09:00:00 +0200"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Dalai Lama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dalai%20Lama",
+        "title": "Dalai lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dalai%20lama",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -97,6 +97,13 @@
         "title": "Pierre Richard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Richard",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Declaration impot 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Declaration%20impot%202023",
+        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
         "pubdate": "Tue, 11 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fortuneo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fortuneo",
-        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
