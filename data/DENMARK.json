@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-04-2023 , 14:47:24",
+  "lastUpdate": "13-04-2023 , 14:56:47",
   "data": [
+    [
+      {
+        "title": "NPR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NPR",
+        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Fleet",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Rumble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rumble",
+        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Borax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borax",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Slope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
-        "pubdate": "Tue, 11 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
-        "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
       }
     ]
   ]

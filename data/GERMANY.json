@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-04-2023 , 14:47:25",
+  "lastUpdate": "13-04-2023 , 14:56:48",
   "data": [
+    [
+      {
+        "title": "Döpfner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%B6pfner",
+        "pubdate": "Thu, 13 Apr 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Harry Potter Serie",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Mathias Döpfner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mathias%20D%C3%B6pfner",
-        "pubdate": "Thu, 13 Apr 2023 11:00:00 +0200"
+        "title": "Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
+        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AC%20Milan",
         "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Milan",
-        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Aktenzeichen XY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aktenzeichen%20XY",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
+        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
-        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
+        "title": "Aschaffenburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aschaffenburg",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
