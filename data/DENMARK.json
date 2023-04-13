@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-04-2023 , 13:51:06",
+  "lastUpdate": "13-04-2023 , 14:00:31",
   "data": [
     [
       {
         "title": "Fleet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fleet",
         "pubdate": "Thu, 13 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PFAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PFAS",
+        "pubdate": "Thu, 13 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Borax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borax",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Milan",
+        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "TikTok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
         "pubdate": "Tue, 11 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MESSENGER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MESSENGER",
-        "pubdate": "Tue, 11 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office%20365",
-        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
