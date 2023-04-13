@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-04-2023 , 03:46:52",
+  "lastUpdate": "13-04-2023 , 03:56:17",
   "data": [
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli",
-        "pubdate": "Wed, 12 Apr 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Napoli Milan",
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Osimhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osimhen",
-        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
+        "title": "Aktenzeichen XY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aktenzeichen%20XY",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Aktenzeichen XY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aktenzeichen%20XY",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0200"
+        "title": "Osimhen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osimhen",
+        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Carlo Ancelotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlo%20Ancelotti",
+        "title": "Forrest Gump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Forrest%20Gump",
         "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Forrest Gump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Forrest%20Gump",
-        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
+        "title": "Fitbit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fitbit",
+        "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Myanmar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Myanmar",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
