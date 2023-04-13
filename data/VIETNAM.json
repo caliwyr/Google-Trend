@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2023 , 09:44:24",
+  "lastUpdate": "13-04-2023 , 09:53:54",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "As Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#As%20Roma",
+        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Meghan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Meghan",
         "pubdate": "Thu, 13 Apr 2023 13:00:00 +0700"
@@ -47,13 +54,20 @@
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
-        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0700"
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0700"
       }
     ],
     [
       {
         "title": "Nguyễn Lân Thắng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20L%C3%A2n%20Th%E1%BA%AFng",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Dịch COVID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BB%8Bch%20COVID",
         "pubdate": "Wed, 12 Apr 2023 14:00:00 +0700"
       }
     ],
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Dịch COVID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BB%8Bch%20COVID",
-        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0700"
+        "title": "MC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
+        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Taehyun (TXT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Taehyun%20(TXT",
         "pubdate": "Wed, 12 Apr 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Songkran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Songkran",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Quang Hải",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Quang%20H%E1%BA%A3i",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0700"
       }
     ]
   ]
