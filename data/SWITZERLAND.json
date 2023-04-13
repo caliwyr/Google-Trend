@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "13-04-2023 , 21:43:56",
+  "lastUpdate": "13-04-2023 , 21:53:30",
   "data": [
-    [
-      {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
         "pubdate": "Thu, 13 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sadio mane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sadio%20mane",
-        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Craig Breen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Craig%20Breen",
-        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -38,13 +17,6 @@
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Harry%20Potter",
-        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
@@ -52,9 +24,30 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
+        "title": "Craig Breen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Craig%20Breen",
+        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sadio mane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sadio%20mane",
+        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harry Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Harry%20Potter",
+        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Drake Bell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Drake%20Bell",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
+        "title": "Brienz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brienz",
+        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Dynamo Dresden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dynamo%20Dresden",
-        "pubdate": "Thu, 13 Apr 2023 08:00:00 +0200"
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Macron",
+        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Brigitte Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Macron",
-        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
+        "title": "Dynamo Dresden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dynamo%20Dresden",
+        "pubdate": "Thu, 13 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -129,15 +122,22 @@
     ],
     [
       {
-        "title": "Emmanuel Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emmanuel%20Macron",
-        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Europa%20League",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jamie%20Foxx",
+        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emmanuel Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emmanuel%20Macron",
         "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
       }
     ]
