@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "13-04-2023 , 08:48:22",
+  "lastUpdate": "13-04-2023 , 08:57:30",
   "data": [
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Celine%20Dion",
-        "pubdate": "Thu, 13 Apr 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Floor Jansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
-        "pubdate": "Thu, 13 Apr 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Real Madrid  Chelsea",
@@ -27,6 +13,13 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
         "pubdate": "Wed, 12 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
+        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Xylazine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Xylazine",
-        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fentanyl",
         "pubdate": "Wed, 12 Apr 2023 20:00:00 +0200"
@@ -108,13 +94,6 @@
     ],
     [
       {
-        "title": "City Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#City%20Bayern",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Beyond Paradise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beyond%20Paradise",
         "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Nothing But Thieves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nothing%20But%20Thieves",
         "pubdate": "Mon, 10 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Met het Mes op Tafel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20het%20Mes%20op%20Tafel",
+        "pubdate": "Mon, 10 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boer zoekt Vrouw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
