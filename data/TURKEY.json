@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "13-04-2023 , 02:49:41",
+  "lastUpdate": "13-04-2023 , 02:59:01",
   "data": [
     [
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Napoli",
         "pubdate": "Wed, 12 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Eyüpspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
-        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Erkan Baş",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20Ba%C5%9F",
-        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -31,6 +17,20 @@
     ],
     [
       {
+        "title": "Erkan Baş",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20Ba%C5%9F",
+        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eyüpspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
+        "pubdate": "Wed, 12 Apr 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Manisa FK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manisa%20FK",
         "pubdate": "Wed, 12 Apr 2023 18:00:00 +0300"
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mbappe",
-        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
+        "title": "Eskişehirspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eski%C5%9Fehirspor",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Eczacıbaşı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eczac%C4%B1ba%C5%9F%C4%B1",
-        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
+        "title": "Çöp Adam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87%C3%B6p%20Adam",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "İSTANBUL BARAJ DOLULUK ORANLARI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0STANBUL%20BARAJ%20DOLULUK%20ORANLARI",
         "pubdate": "Wed, 12 Apr 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Eskişehirspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eski%C5%9Fehirspor",
-        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "Çöp Adam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87%C3%B6p%20Adam",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mbappe",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Seren Serengil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Seren%20Serengil",
+        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0300"
       }
     ],
     [
@@ -101,16 +101,16 @@
     ],
     [
       {
-        "title": "Yaramızda Kalsın",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yaram%C4%B1zda%20Kals%C4%B1n",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
+        "title": "Antakya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antakya",
+        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Antakya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antakya",
-        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0300"
+        "title": "Yaramızda Kalsın",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yaram%C4%B1zda%20Kals%C4%B1n",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Eczacıbaşı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eczac%C4%B1ba%C5%9F%C4%B1",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "ABD enflasyon verileri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ABD%20enflasyon%20verileri",
         "pubdate": "Wed, 12 Apr 2023 21:00:00 +0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "RAMAZAN AYI KADİR GECESİ NE ZAMAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#RAMAZAN%20AYI%20KAD%C4%B0R%20GECES%C4%B0%20NE%20ZAMAN",
+        "title": "Ramazan ayı Kadir Gecesi ne zaman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ramazan%20ay%C4%B1%20Kadir%20Gecesi%20ne%20zaman",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Joe Alwyn Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Joe%20Alwyn%20Taylor%20Swift",
-        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0300"
       }
     ]
   ]
