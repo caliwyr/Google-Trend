@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-04-2023 , 12:33:45",
+  "lastUpdate": "13-04-2023 , 12:57:07",
   "data": [
     [
       {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elon%20Musk",
         "pubdate": "Thu, 13 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Solsidan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Solsidan",
+        "pubdate": "Thu, 13 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Snapchat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Snapchat",
         "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Benfica",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
