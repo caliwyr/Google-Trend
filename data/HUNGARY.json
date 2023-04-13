@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2023 , 11:48:19",
+  "lastUpdate": "13-04-2023 , 11:57:48",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Harry Potter sorozat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Potter%20sorozat",
+        "pubdate": "Thu, 13 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real madrid–chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93chelsea",
         "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
@@ -59,23 +66,16 @@
     ],
     [
       {
-        "title": "Amanda Bynes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Amanda%20Bynes",
-        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Majka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
-        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ariana%20Grande",
         "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ferenc pápa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
+        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Németh Kristóf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9meth%20Krist%C3%B3f",
         "pubdate": "Wed, 12 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bódi csabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3di%20csabi",
+        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sophie Marceau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sophie%20Marceau",
         "pubdate": "Wed, 12 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTX 4070",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTX%204070",
-        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
       }
     ]
   ]

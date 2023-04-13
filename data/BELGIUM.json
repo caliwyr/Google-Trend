@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2023 , 11:48:16",
+  "lastUpdate": "13-04-2023 , 11:57:44",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
-        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
+        "title": "Gims",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gims",
+        "pubdate": "Thu, 13 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RTX 4070",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTX%204070",
+        "pubdate": "Thu, 13 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
-        "pubdate": "Wed, 12 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ariana%20Grande",
         "pubdate": "Wed, 12 Apr 2023 12:00:00 +0200"
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Fleche brabanconne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fleche%20brabanconne",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Guillaume Pley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guillaume%20Pley",
         "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Christophe Galtier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christophe%20Galtier",
-        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0200"
+        "title": "Fleche brabanconne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fleche%20brabanconne",
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
         "pubdate": "Wed, 12 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christophe Galtier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christophe%20Galtier",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Vanessa Paradis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vanessa%20Paradis",
-        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0200"
+        "title": "Victor Osimhen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Victor%20Osimhen",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Axelle Red",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Axelle%20Red",
-        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
+        "title": "Vanessa Paradis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vanessa%20Paradis",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

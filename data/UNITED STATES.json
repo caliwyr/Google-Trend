@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-04-2023 , 11:48:14",
+  "lastUpdate": "13-04-2023 , 11:57:43",
   "data": [
+    [
+      {
+        "title": "Fort Lauderdale Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fort%20Lauderdale%20Airport",
+        "pubdate": "Thu, 13 Apr 2023 02:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Real Madrid vs Chelsea",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
-        "pubdate": "Wed, 12 Apr 2023 02:00:00 -0700"
+        "title": "Milan vs Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Milan%20vs%20Napoli",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Milan vs Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Milan%20vs%20Napoli",
-        "pubdate": "Wed, 12 Apr 2023 14:00:00 -0700"
+        "title": "Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
+        "pubdate": "Wed, 12 Apr 2023 02:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dansby Swanson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dansby%20Swanson",
         "pubdate": "Wed, 12 Apr 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-        "pubdate": "Tue, 11 Apr 2023 22:00:00 -0700"
       }
     ]
   ]
