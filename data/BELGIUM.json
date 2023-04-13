@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-04-2023 , 20:49:33",
+  "lastUpdate": "13-04-2023 , 20:58:47",
   "data": [
     [
       {
         "title": "AA Gent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
         "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Union Saint-Gilloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
+        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
+        "title": "Anderlecht - AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20-%20AZ%20Alkmaar",
         "pubdate": "Thu, 13 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
-        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Serres de Laeken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serres%20de%20Laeken",
         "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20Conference%20League",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
+        "title": "Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anna",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,23 +115,23 @@
     ],
     [
       {
-        "title": "ESA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ESA",
-        "pubdate": "Thu, 13 Apr 2023 15:00:00 +0200"
+        "title": "Gent FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20FC",
+        "pubdate": "Thu, 13 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jah Shaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jah%20Shaka",
-        "pubdate": "Thu, 13 Apr 2023 00:00:00 +0200"
+        "title": "Ligue Europa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20Europa",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Station Kortrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Station%20Kortrijk",
-        "pubdate": "Thu, 13 Apr 2023 19:00:00 +0200"
+        "title": "Julia Ituma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julia%20Ituma",
+        "pubdate": "Thu, 13 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jamie%20Foxx",
         "pubdate": "Thu, 13 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ed Westwick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ed%20Westwick",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
