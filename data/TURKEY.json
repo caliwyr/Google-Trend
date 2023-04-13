@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-04-2023 , 05:45:40",
+  "lastUpdate": "13-04-2023 , 05:54:52",
   "data": [
-    [
-      {
-        "title": "NTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#NTV",
-        "pubdate": "Thu, 13 Apr 2023 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "MG",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Europower halka arz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Europower%20halka%20arz",
-        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Erkan Baş",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20Ba%C5%9F",
         "pubdate": "Wed, 12 Apr 2023 23:00:00 +0300"
@@ -52,23 +38,16 @@
     ],
     [
       {
+        "title": "Europower halka arz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Europower%20halka%20arz",
+        "pubdate": "Wed, 12 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Manisa FK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manisa%20FK",
         "pubdate": "Wed, 12 Apr 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Eczacıbaşı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eczac%C4%B1ba%C5%9F%C4%B1",
-        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "İSTANBUL BARAJ DOLULUK ORANLARI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0STANBUL%20BARAJ%20DOLULUK%20ORANLARI",
-        "pubdate": "Wed, 12 Apr 2023 08:00:00 +0300"
       }
     ],
     [
@@ -108,13 +87,6 @@
     ],
     [
       {
-        "title": "Yağış",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ya%C4%9F%C4%B1%C5%9F",
-        "pubdate": "Wed, 12 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Gedson Fernandes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gedson%20Fernandes",
         "pubdate": "Wed, 12 Apr 2023 22:00:00 +0300"
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "İSTANBUL BARAJ DOLULUK ORANLARI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0STANBUL%20BARAJ%20DOLULUK%20ORANLARI",
+        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eczacıbaşı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eczac%C4%B1ba%C5%9F%C4%B1",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BTC",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "RAMAZAN AYI KADİR GECESİ NE ZAMAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#RAMAZAN%20AYI%20KAD%C4%B0R%20GECES%C4%B0%20NE%20ZAMAN",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Joe Alwyn Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Joe%20Alwyn%20Taylor%20Swift",
+        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0300"
       }
     ]
   ]
