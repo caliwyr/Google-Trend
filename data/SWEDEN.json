@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2023 , 22:52:09",
+  "lastUpdate": "13-04-2023 , 23:06:32",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Solsidan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Solsidan",
         "pubdate": "Thu, 13 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,20 @@
     ],
     [
       {
+        "title": "Björklöven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven",
+        "pubdate": "Thu, 13 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Norberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20Norberg",
+        "pubdate": "Thu, 13 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
@@ -45,6 +66,13 @@
     ],
     [
       {
+        "title": "Drake Bell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Drake%20Bell",
+        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
         "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
@@ -52,8 +80,15 @@
     ],
     [
       {
-        "title": "Pentagon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pentagon",
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Conference%20League",
+        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Julia Ituma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julia%20Ituma",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -73,23 +108,9 @@
     ],
     [
       {
-        "title": "Julia Ituma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julia%20Ituma",
-        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frida Karlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frida%20Karlsson",
         "pubdate": "Thu, 13 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Conference%20League",
-        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Björklöven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven",
-        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Absolut vodka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Absolut%20vodka",
         "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Frida Hyvönen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frida%20Hyv%C3%B6nen",
         "pubdate": "Wed, 12 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ariana Grande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ariana%20Grande",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skellefteå AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0200"
       }
     ]
   ]
