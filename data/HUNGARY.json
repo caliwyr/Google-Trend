@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-04-2023 , 22:44:36",
+  "lastUpdate": "14-04-2023 , 22:53:56",
   "data": [
+    [
+      {
+        "title": "Hakimi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hakimi",
+        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tóth andi",
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Pápalátogatás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1pal%C3%A1togat%C3%A1s",
-        "pubdate": "Fri, 14 Apr 2023 23:00:00 +0200"
+        "title": "Tóth Gabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tóth Gabi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+        "title": "Pápalátogatás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1pal%C3%A1togat%C3%A1s",
+        "pubdate": "Fri, 14 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Maróth Miklós",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mar%C3%B3th%20Mikl%C3%B3s",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ilyés Ferenc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ily%C3%A9s%20Ferenc",
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pentagon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pentagon",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cserkuti József",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserkuti%20J%C3%B3zsef",
-        "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Svájci farkas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sv%C3%A1jci%20farkas",
-        "pubdate": "Thu, 13 Apr 2023 07:00:00 +0200"
       }
     ]
   ]
