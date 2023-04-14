@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2023 , 16:56:04",
+  "lastUpdate": "14-04-2023 , 17:10:28",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Eden Gardens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Eden%20Gardens",
+        "pubdate": "Fri, 14 Apr 2023 21:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Céline Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#C%C3%A9line%20Dion",
         "pubdate": "Fri, 14 Apr 2023 08:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Happy Baisakhi Wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Happy%20Baisakhi%20Wishes",
+        "pubdate": "Fri, 14 Apr 2023 09:30:00 +0530"
       }
     ],
     [
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "Happy Baisakhi Wishes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Happy%20Baisakhi%20Wishes",
-        "pubdate": "Fri, 14 Apr 2023 09:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "TANCET result 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TANCET%20result%202023",
         "pubdate": "Fri, 14 Apr 2023 12:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Europa%20League",
-        "pubdate": "Fri, 14 Apr 2023 01:30:00 +0530"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Ambedkar statue Hyderabad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambedkar%20statue%20Hyderabad",
-        "pubdate": "Fri, 14 Apr 2023 12:30:00 +0530"
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Europa%20League",
+        "pubdate": "Fri, 14 Apr 2023 01:30:00 +0530"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Aha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aha",
-        "pubdate": "Fri, 14 Apr 2023 13:30:00 +0530"
+        "title": "Ambedkar statue Hyderabad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambedkar%20statue%20Hyderabad",
+        "pubdate": "Fri, 14 Apr 2023 12:30:00 +0530"
       }
     ],
     [
@@ -94,30 +94,16 @@
     ],
     [
       {
-        "title": "Ambedkar Statue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambedkar%20Statue",
+        "title": "Aha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aha",
         "pubdate": "Fri, 14 Apr 2023 13:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
-        "pubdate": "Fri, 14 Apr 2023 11:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Rudhran Movie Review",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rudhran%20Movie%20Review",
-        "pubdate": "Fri, 14 Apr 2023 17:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "ROG Phone 7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ROG%20Phone%207",
-        "pubdate": "Fri, 14 Apr 2023 14:30:00 +0530"
+        "title": "Ambedkar Statue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambedkar%20Statue",
+        "pubdate": "Fri, 14 Apr 2023 13:30:00 +0530"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "The Last Kingdom movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20Last%20Kingdom%20movie",
-        "pubdate": "Fri, 14 Apr 2023 20:30:00 +0530"
+        "title": "Rudhran Movie Review",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rudhran%20Movie%20Review",
+        "pubdate": "Fri, 14 Apr 2023 17:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Ambedkar Jayanti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambedkar%20Jayanti",
-        "pubdate": "Thu, 13 Apr 2023 11:30:00 +0530"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
+        "pubdate": "Fri, 14 Apr 2023 11:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "ROG Phone 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ROG%20Phone%207",
+        "pubdate": "Fri, 14 Apr 2023 14:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "PAK vs NZ T20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PAK%20vs%20NZ%20T20",
+        "pubdate": "Fri, 14 Apr 2023 21:30:00 +0530"
       }
     ]
   ]
