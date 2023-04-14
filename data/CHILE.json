@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2023 , 07:42:58",
+  "lastUpdate": "14-04-2023 , 07:52:22",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Thu, 13 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Craig Breen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Craig%20Breen",
         "pubdate": "Thu, 13 Apr 2023 13:00:00 -0400"
@@ -55,13 +62,6 @@
         "title": "Roma vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roma%20vs",
         "pubdate": "Thu, 13 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Thu, 13 Apr 2023 21:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate",
-        "pubdate": "Thu, 13 Apr 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Paloma Cuevas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paloma%20Cuevas",
         "pubdate": "Thu, 13 Apr 2023 19:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham",
         "pubdate": "Thu, 13 Apr 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dengue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dengue",
+        "pubdate": "Thu, 13 Apr 2023 20:00:00 -0400"
       }
     ]
   ]
