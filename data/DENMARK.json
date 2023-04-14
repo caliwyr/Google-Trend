@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "14-04-2023 , 11:47:11",
+  "lastUpdate": "14-04-2023 , 11:56:39",
   "data": [
     [
       {
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
+        "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tesla Model Y",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%20Y",
         "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Maileg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maileg",
         "pubdate": "Thu, 13 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ADHD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ADHD",
-        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
