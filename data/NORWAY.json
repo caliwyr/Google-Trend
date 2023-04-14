@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-04-2023 , 18:53:52",
+  "lastUpdate": "14-04-2023 , 19:07:38",
   "data": [
+    [
+      {
+        "title": "Metallica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Metallica",
+        "pubdate": "Fri, 14 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ringsaker kommune",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Metallica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Metallica",
-        "pubdate": "Fri, 14 Apr 2023 13:00:00 +0200"
+        "title": "Renfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Renfield",
+        "pubdate": "Fri, 14 Apr 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Renfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Renfield",
-        "pubdate": "Fri, 14 Apr 2023 09:00:00 +0200"
+        "title": "Jack Nicholson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jack%20Nicholson",
+        "pubdate": "Fri, 14 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Jack Nicholson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jack%20Nicholson",
-        "pubdate": "Fri, 14 Apr 2023 19:00:00 +0200"
+        "title": "Aksel Hennie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aksel%20Hennie",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Craig Breen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Craig%20Breen",
         "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Solsidan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Solsidan",
+        "pubdate": "Thu, 13 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Biden",
         "pubdate": "Thu, 13 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skatteetaten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skatteetaten",
-        "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wegovy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wegovy",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0200"
       }
     ]
   ]
