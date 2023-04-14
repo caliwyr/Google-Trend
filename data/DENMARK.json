@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-04-2023 , 09:43:05",
+  "lastUpdate": "14-04-2023 , 09:52:33",
   "data": [
-    [
-      {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
-        "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Juventus",
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
-        "pubdate": "Thu, 13 Apr 2023 19:00:00 +0200"
+        "title": "John Mayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Mayer",
+        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "John Mayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Mayer",
-        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
+        "pubdate": "Thu, 13 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ADHD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ADHD",
         "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NPR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NPR",
+        "pubdate": "Thu, 13 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
