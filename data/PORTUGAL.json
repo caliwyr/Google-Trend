@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2023 , 12:27:29",
+  "lastUpdate": "14-04-2023 , 12:52:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Maringá  Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maring%C3%A1%20%20Flamengo",
         "pubdate": "Fri, 14 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tesla",
+        "pubdate": "Fri, 14 Apr 2023 13:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Gremio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
-        "pubdate": "Fri, 14 Apr 2023 06:00:00 +0100"
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Radar",
+        "pubdate": "Fri, 14 Apr 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Radar",
-        "pubdate": "Fri, 14 Apr 2023 11:00:00 +0100"
+        "title": "Gremio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
+        "pubdate": "Fri, 14 Apr 2023 06:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Atlético-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG",
-        "pubdate": "Fri, 14 Apr 2023 00:00:00 +0100"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novak%20Djokovic",
+        "pubdate": "Fri, 14 Apr 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Man%20utd",
+        "pubdate": "Fri, 14 Apr 2023 13:00:00 +0100"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Thu, 13 Apr 2023 19:00:00 +0100"
+        "title": "SIC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC",
+        "pubdate": "Thu, 13 Apr 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sporting CP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
-        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0100"
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Thu, 13 Apr 2023 19:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Szczęsny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Szcz%C4%99sny",
-        "pubdate": "Thu, 13 Apr 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mary Quant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mary%20Quant",
-        "pubdate": "Thu, 13 Apr 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma",
-        "pubdate": "Thu, 13 Apr 2023 20:00:00 +0100"
+        "title": "Sporting CP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0100"
       }
     ]
   ]
