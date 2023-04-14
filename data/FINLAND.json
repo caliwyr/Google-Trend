@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2023 , 12:51:55",
+  "lastUpdate": "14-04-2023 , 13:08:46",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Jonathan Toews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jonathan%20Toews",
+        "pubdate": "Fri, 14 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Wasp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wasp",
         "pubdate": "Fri, 14 Apr 2023 08:00:00 +0300"
@@ -41,6 +48,13 @@
         "title": "Mary Quant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mary%20Quant",
         "pubdate": "Fri, 14 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Metallica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Metallica",
+        "pubdate": "Fri, 14 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "NPR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NPR",
         "pubdate": "Thu, 13 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Pernod Ricard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pernod%20Ricard",
-        "pubdate": "Thu, 13 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "The doors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20doors",
-        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0300"
       }
     ]
   ]
