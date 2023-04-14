@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2023 , 10:44:26",
+  "lastUpdate": "14-04-2023 , 10:53:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Maringá  Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maring%C3%A1%20%20Flamengo",
         "pubdate": "Fri, 14 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+        "pubdate": "Fri, 14 Apr 2023 11:00:00 +0100"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Liga Europa Juventus-Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20Europa%20Juventus-Sporting",
+        "pubdate": "Thu, 13 Apr 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
         "pubdate": "Thu, 13 Apr 2023 19:00:00 +0100"
@@ -97,13 +111,6 @@
         "title": "Edite Estrela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Edite%20Estrela",
         "pubdate": "Thu, 13 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Szczęsny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Szcz%C4%99sny",
-        "pubdate": "Thu, 13 Apr 2023 15:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "James rodriguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#James%20rodriguez",
-        "pubdate": "Thu, 13 Apr 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Drake Bell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Drake%20Bell",
         "pubdate": "Thu, 13 Apr 2023 17:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Harry%20Potter",
-        "pubdate": "Thu, 13 Apr 2023 12:00:00 +0100"
+        "title": "James rodriguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#James%20rodriguez",
+        "pubdate": "Thu, 13 Apr 2023 14:00:00 +0100"
       }
     ]
   ]

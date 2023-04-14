@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "14-04-2023 , 10:44:15",
+  "lastUpdate": "14-04-2023 , 10:53:35",
   "data": [
-    [
-      {
-        "title": "Hakimi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hakimi",
-        "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
         "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hugo Cuypers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hugo%20Cuypers",
+        "pubdate": "Fri, 14 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Juventus – Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Sporting",
-        "pubdate": "Fri, 14 Apr 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Animateur Guillaume Pley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Animateur%20Guillaume%20Pley",
         "pubdate": "Fri, 14 Apr 2023 01:00:00 +0200"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Juventus – Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Sporting",
+        "pubdate": "Fri, 14 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zelda: Tears of the Kingdom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zelda:%20Tears%20of%20the%20Kingdom",
         "pubdate": "Fri, 14 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "XDefiant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#XDefiant",
+        "pubdate": "Fri, 14 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "RSC Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSC%20Anderlecht",
         "pubdate": "Fri, 14 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "XDefiant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#XDefiant",
-        "pubdate": "Fri, 14 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Craig Breen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Craig%20Breen",
         "pubdate": "Thu, 13 Apr 2023 16:00:00 +0200"
@@ -94,15 +101,15 @@
     ],
     [
       {
-        "title": "Gent West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20West%20Ham",
-        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "title": "RSCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ligue Europa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20Europa",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent",
-        "pubdate": "Thu, 13 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
