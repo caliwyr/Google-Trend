@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 07:48:55",
+  "lastUpdate": "15-04-2023 , 07:58:14",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "NAC-Willem 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC-Willem%202",
-        "pubdate": "Fri, 14 Apr 2023 19:00:00 +0200"
+        "title": "NAC Willem 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20Willem%202",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anderlecht",
-        "pubdate": "Thu, 13 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macron",
         "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
