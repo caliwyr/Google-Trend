@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 09:42:54",
+  "lastUpdate": "15-04-2023 , 09:52:17",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lazio",
-        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luis Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Gomez",
         "pubdate": "Sat, 15 Apr 2023 08:00:00 +0100"
@@ -31,15 +24,22 @@
     ],
     [
       {
-        "title": "Sam Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sam%20Smith",
-        "pubdate": "Sat, 15 Apr 2023 01:00:00 +0100"
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lazio",
+        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0100"
       }
     ],
     [
       {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Galatasaray",
+        "pubdate": "Sat, 15 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sam Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sam%20Smith",
         "pubdate": "Sat, 15 Apr 2023 01:00:00 +0100"
       }
     ],
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Famalicao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalicao",
-        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0100"
+        "title": "The Script",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Script",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "The Script",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Script",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0100"
+        "title": "Famalicao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalicao",
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Coachella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coachella",
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sadio manè Leroy sane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sadio%20man%C3%A8%20Leroy%20sane",
         "pubdate": "Fri, 14 Apr 2023 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
         "pubdate": "Fri, 14 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Celine%20Dion",
-        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0100"
       }
     ]
   ]
