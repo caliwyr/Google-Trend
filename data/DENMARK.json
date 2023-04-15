@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 03:47:10",
+  "lastUpdate": "15-04-2023 , 03:56:23",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Joy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joy",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
+        "pubdate": "Fri, 14 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Juventus",
         "pubdate": "Fri, 14 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jamie Foxx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jamie%20Foxx",
-        "pubdate": "Fri, 14 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
