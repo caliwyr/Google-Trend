@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 05:44:58",
+  "lastUpdate": "15-04-2023 , 05:54:14",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "NAC Willem 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20Willem%202",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+        "title": "NAC-Willem 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC-Willem%202",
+        "pubdate": "Fri, 14 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "VVV-Venlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV-Venlo",
         "pubdate": "Fri, 14 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bart de Wever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bart%20de%20Wever",
+        "pubdate": "Fri, 14 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Man%20City",
         "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macron",
-        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
       }
     ]
   ]

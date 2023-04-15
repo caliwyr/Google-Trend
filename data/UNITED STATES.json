@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-04-2023 , 05:44:51",
+  "lastUpdate": "15-04-2023 , 05:54:07",
   "data": [
     [
       {
         "title": "Bulls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bulls",
         "pubdate": "Fri, 14 Apr 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Coachella 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coachella%202023",
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 -0700"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arnold%20Schwarzenegger",
+        "pubdate": "Fri, 14 Apr 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Dark and Darker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dark%20and%20Darker",
         "pubdate": "Fri, 14 Apr 2023 12:00:00 -0700"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Miles Bridges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miles%20Bridges",
-        "pubdate": "Fri, 14 Apr 2023 16:00:00 -0700"
+        "title": "Jimmy Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Butler",
+        "pubdate": "Fri, 14 Apr 2023 19:00:00 -0700"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Sam Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sam%20Smith",
         "pubdate": "Fri, 14 Apr 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Rudy Gobert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rudy%20Gobert",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 -0700"
       }
     ],
     [
@@ -94,8 +115,8 @@
     ],
     [
       {
-        "title": "Rudy Gobert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rudy%20Gobert",
+        "title": "Budda Baker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Budda%20Baker",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 -0700"
       }
     ],
@@ -104,13 +125,6 @@
         "title": "Javier Baez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Javier%20Baez",
         "pubdate": "Fri, 14 Apr 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Budda Baker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Budda%20Baker",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Gwen Stefani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gwen%20Stefani",
         "pubdate": "Fri, 14 Apr 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Drake Bell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20Bell",
-        "pubdate": "Thu, 13 Apr 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nima Momeni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nima%20Momeni",
-        "pubdate": "Thu, 13 Apr 2023 10:00:00 -0700"
       }
     ]
   ]
