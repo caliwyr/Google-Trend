@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 13:45:12",
+  "lastUpdate": "15-04-2023 , 13:54:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Let's Dance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Let's%20Dance",
         "pubdate": "Sat, 15 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hansa Rostock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock",
+        "pubdate": "Sat, 15 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,30 @@
     ],
     [
       {
+        "title": "Coachella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Coachella",
+        "pubdate": "Sat, 15 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atomkraftwerke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Atomkraftwerke",
+        "pubdate": "Sat, 15 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schalke gegen Hertha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%20gegen%20Hertha",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "2. Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Bundesliga",
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,13 +94,6 @@
     ],
     [
       {
-        "title": "Mary Quant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mary%20Quant",
-        "pubdate": "Thu, 13 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Metallica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Metallica",
         "pubdate": "Thu, 13 Apr 2023 22:00:00 +0200"
@@ -101,8 +122,8 @@
     ],
     [
       {
-        "title": "Lauterbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lauterbach",
+        "title": "Legalisierung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Legalisierung",
         "pubdate": "Tue, 11 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Tupperware",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tupperware",
         "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Whitney Houston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Whitney%20Houston",
-        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sane",
-        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
-        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
