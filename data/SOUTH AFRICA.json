@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-04-2023 , 20:51:41",
+  "lastUpdate": "15-04-2023 , 21:01:48",
   "data": [
+    [
+      {
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Man City vs Leicester City",
@@ -13,13 +20,6 @@
         "title": "Aston Villa vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa%20vs%20Newcastle",
         "pubdate": "Sat, 15 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sundowns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,9 +45,30 @@
     ],
     [
       {
+        "title": "PSG vs Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Lens",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli vs Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli%20vs%20Verona",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Southampton vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Crystal%20Palace",
         "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cádiz vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#C%C3%A1diz%20vs%20Real%20Madrid",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,30 +87,9 @@
     ],
     [
       {
-        "title": "PSG vs Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Lens",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cádiz vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#C%C3%A1diz%20vs%20Real%20Madrid",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bulls vs Zebre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bulls%20vs%20Zebre",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli vs Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli%20vs%20Verona",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Rangers FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rangers%20FC",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+        "title": "Jamie Foxx news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jamie%20Foxx%20news",
+        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
