@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-04-2023 , 01:36:14",
+  "lastUpdate": "15-04-2023 , 02:22:02",
   "data": [
-    [
-      {
-        "title": "Moody's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Moody's",
-        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "דירוג האשראי של ישראל",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Tesla",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0300"
+        "title": "Moody's Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Moody's%20Israel",
+        "pubdate": "Fri, 14 Apr 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "לורנזו בראון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%95%D7%A8%D7%A0%D7%96%D7%95%20%D7%91%D7%A8%D7%90%D7%95%D7%9F",
-        "pubdate": "Fri, 14 Apr 2023 09:00:00 +0300"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Tesla",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "גלובס",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%9C%D7%95%D7%91%D7%A1",
         "pubdate": "Thu, 13 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "רמי לוי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%9E%D7%99%20%D7%9C%D7%95%D7%99",
+        "pubdate": "Thu, 13 Apr 2023 12:00:00 +0300"
       }
     ]
   ]
