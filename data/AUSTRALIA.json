@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-04-2023 , 22:51:22",
+  "lastUpdate": "15-04-2023 , 23:01:34",
   "data": [
-    [
-      {
-        "title": "Chelsea vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Brighton",
-        "pubdate": "Sun, 16 Apr 2023 01:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Man City vs Leicester City",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Tottenham vs Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Bournemouth",
-        "pubdate": "Sun, 16 Apr 2023 02:00:00 +1000"
+        "title": "Chelsea vs Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Brighton",
+        "pubdate": "Sun, 16 Apr 2023 01:00:00 +1000"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Sudan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sudan",
         "pubdate": "Sun, 16 Apr 2023 04:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Bournemouth",
+        "pubdate": "Sun, 16 Apr 2023 02:00:00 +1000"
       }
     ],
     [
@@ -41,6 +41,20 @@
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lionel%20Messi",
         "pubdate": "Sun, 16 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Creator Clash 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Creator%20Clash%202",
+        "pubdate": "Sun, 16 Apr 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "PSG vs Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG%20vs%20Lens",
+        "pubdate": "Sun, 16 Apr 2023 08:00:00 +1000"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Mikey Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mikey%20Williams",
-        "pubdate": "Sat, 15 Apr 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Newcastle Knights",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20Knights",
         "pubdate": "Sat, 15 Apr 2023 10:00:00 +1000"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Britain's Got Talent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Britain's%20Got%20Talent",
-        "pubdate": "Sat, 15 Apr 2023 18:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MotoGP",
         "pubdate": "Sat, 15 Apr 2023 10:00:00 +1000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Alexander Csergo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alexander%20Csergo",
-        "pubdate": "Sat, 15 Apr 2023 14:00:00 +1000"
+        "title": "Britain's Got Talent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Britain's%20Got%20Talent",
+        "pubdate": "Sat, 15 Apr 2023 18:00:00 +1000"
       }
     ]
   ]
