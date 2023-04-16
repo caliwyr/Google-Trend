@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-04-2023 , 14:52:41",
+  "lastUpdate": "16-04-2023 , 15:06:32",
   "data": [
     [
       {
         "title": "Lille – Montpellier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Montpellier",
         "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Auxerre – Nantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auxerre%20%E2%80%93%20Nantes",
+        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Auxerre – Nantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auxerre%20%E2%80%93%20Nantes",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
+        "title": "Amstel Gold Race 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amstel%20Gold%20Race%202023",
+        "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Clermont – Angers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clermont%20%E2%80%93%20Angers",
+        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Léon Marchand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L%C3%A9on%20Marchand",
         "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
@@ -62,13 +76,6 @@
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Marie%20Le%20Pen",
         "pubdate": "Sat, 15 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cadix – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cadix%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "24 Heures du Mans moto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#24%20Heures%20du%20Mans%20moto",
+        "title": "24 heures du Mans moto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#24%20heures%20du%20Mans%20moto",
         "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -97,13 +104,6 @@
         "title": "Rennes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rennes",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TFC",
-        "pubdate": "Sat, 15 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
+        "title": "Coachella 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coachella%202023",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
