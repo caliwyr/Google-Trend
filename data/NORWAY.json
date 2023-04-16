@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-04-2023 , 22:56:08",
+  "lastUpdate": "16-04-2023 , 23:12:20",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Ødegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
+        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Vålerenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pellegrino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pellegrino",
         "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "OBOS-ligaen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OBOS-ligaen%202023",
-        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
+        "title": "Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Martin Ødegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
+        "title": "OBOS-ligaen 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OBOS-ligaen%202023",
         "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Odd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd",
+        "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Peder Elias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peder%20Elias",
         "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Odd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd",
+        "title": "Dag Otto Lauritzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Otto%20Lauritzen",
         "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "HamKam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Good Mothers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Good%20Mothers",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Start",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Start",
-        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
+        "title": "HamKam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sandefjord Fotball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandefjord%20Fotball",
+        "title": "Start",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Start",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
       }
     ]

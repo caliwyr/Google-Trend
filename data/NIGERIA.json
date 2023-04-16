@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 22:56:08",
+  "lastUpdate": "16-04-2023 , 23:12:20",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lakers",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
         "pubdate": "Sun, 16 Apr 2023 15:00:00 +0100"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Mother's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mother's%20Day",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dino Melaye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dino%20Melaye",
         "pubdate": "Sun, 16 Apr 2023 21:00:00 +0100"
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Mother's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mother's%20Day",
+        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Union%20Berlin",
         "pubdate": "Sun, 16 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kings vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kings%20vs%20Warriors",
+        "pubdate": "Sun, 16 Apr 2023 09:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Adamawa election result",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Adamawa%20election%20result",
         "pubdate": "Sat, 15 Apr 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20Newcastle",
-        "pubdate": "Sat, 15 Apr 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cádiz vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#C%C3%A1diz%20vs%20Real%20Madrid",
-        "pubdate": "Sat, 15 Apr 2023 20:00:00 +0100"
       }
     ]
   ]
