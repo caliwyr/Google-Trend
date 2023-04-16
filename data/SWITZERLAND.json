@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 12:47:42",
+  "lastUpdate": "16-04-2023 , 13:00:25",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Formel-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1",
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201",
         "pubdate": "Sun, 16 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Mike Brant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Brant",
-        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean-Marie%20Le%20Pen",
         "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "FC St. Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.%20Gallen",
-        "pubdate": "Sun, 16 Apr 2023 11:00:00 +0200"
+        "title": "Mike Brant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Brant",
+        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Leonie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leonie",
-        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0200"
+        "title": "Amstel Gold Race",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amstel%20Gold%20Race",
+        "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -87,23 +80,9 @@
     ],
     [
       {
-        "title": "Amstel Gold Race",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amstel%20Gold%20Race",
-        "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTL",
         "pubdate": "Sun, 16 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +101,6 @@
     ],
     [
       {
-        "title": "Bayern gegen Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Hoffenheim",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
         "pubdate": "Sat, 15 Apr 2023 11:00:00 +0200"
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "Bayern gegen Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Hoffenheim",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liga nos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga%20nos",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ute Freudenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ute%20Freudenberg",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Holger%20Rune",
+        "pubdate": "Sat, 15 Apr 2023 13:00:00 +0200"
       }
     ]
   ]
