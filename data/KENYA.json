@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-04-2023 , 11:47:17",
+  "lastUpdate": "16-04-2023 , 11:56:34",
   "data": [
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
+        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Sassuolo vs Juventus",
@@ -41,6 +48,13 @@
         "title": "Jamie Foxx news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jamie%20Foxx%20news",
         "pubdate": "Sun, 16 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Boston Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Boston%20Marathon",
+        "pubdate": "Sun, 16 Apr 2023 14:00:00 +0300"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Napoli vs Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20vs%20Verona",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Inter vs Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20vs%20Monza",
         "pubdate": "Sat, 15 Apr 2023 11:00:00 +0300"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Napoli vs Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20vs%20Verona",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Taifa 1 satellite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Taifa%201%20satellite",
         "pubdate": "Sat, 15 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "EPRA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA",
-        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sheffield%20United",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0300"
       }
     ]
   ]

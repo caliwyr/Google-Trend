@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "16-04-2023 , 11:47:13",
+  "lastUpdate": "16-04-2023 , 11:56:30",
   "data": [
     [
       {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport",
-        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sport.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
-        "pubdate": "Sun, 16 Apr 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sport.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
         "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "Ceny Anděl 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ceny%20And%C4%9Bl%202023",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
+        "pubdate": "Sat, 15 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 +0200"
+        "title": "Ceny Anděl 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ceny%20And%C4%9Bl%202023",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Aston Villa – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aston%20Villa%20%E2%80%93%20Newcastle",
+        "pubdate": "Sat, 15 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AutoGPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AutoGPT",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tottenham – Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Bournemouth",
         "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hakimi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hakimi",
+        "pubdate": "Sat, 15 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
