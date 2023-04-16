@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 18:49:54",
+  "lastUpdate": "16-04-2023 , 18:59:11",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "이제훈",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A0%9C%ED%9B%88",
-        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "수단",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%88%98%EB%8B%A8",
         "pubdate": "Sun, 16 Apr 2023 17:00:00 +0900"
@@ -47,6 +40,13 @@
       {
         "title": "기시다",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%8B%9C%EB%8B%A4",
+        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "이제훈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A0%9C%ED%9B%88",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 +0900"
       }
     ],
