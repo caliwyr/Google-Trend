@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 04:51:36",
+  "lastUpdate": "16-04-2023 , 05:02:55",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "ENQUETE BBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ENQUETE%20BBB",
+        "pubdate": "Sat, 15 Apr 2023 12:00:00 -0500"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Golden State",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Golden%20State",
+        "pubdate": "Sat, 15 Apr 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 -0500"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jogo do Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Alessandra Negrini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alessandra%20Negrini",
         "pubdate": "Sat, 15 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 -0500"
       }
     ]
   ]
