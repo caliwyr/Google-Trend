@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 09:48:06",
+  "lastUpdate": "16-04-2023 , 09:57:26",
   "data": [
     [
       {
@@ -33,13 +33,6 @@
       {
         "title": "Bragantino x Bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino%20x%20Bahia",
-        "pubdate": "Sat, 15 Apr 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Athletico-PR x Goiás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Goi%C3%A1s",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
       }
     ],
@@ -47,6 +40,13 @@
       {
         "title": "Cádiz x Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#C%C3%A1diz%20x%20Real%20Madrid",
+        "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Athletico-PR x Goiás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Goi%C3%A1s",
         "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Jogo do Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
-        "pubdate": "Sat, 15 Apr 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Alessandra Negrini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alessandra%20Negrini",
         "pubdate": "Sat, 15 Apr 2023 15:00:00 -0500"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0500"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 -0500"
       }
     ]
   ]
