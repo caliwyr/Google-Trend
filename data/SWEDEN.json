@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-04-2023 , 13:48:42",
+  "lastUpdate": "16-04-2023 , 13:57:54",
   "data": [
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Kina",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "AIK Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Hammarby",
+        "title": "Växjö Skellefteå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4xj%C3%B6%20Skellefte%C3%A5",
         "pubdate": "Sat, 15 Apr 2023 18:00:00 +0200"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Skellefteå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
-        "pubdate": "Sat, 15 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pontus Jansson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pontus%20Jansson",
         "pubdate": "Fri, 14 Apr 2023 15:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tesla",
         "pubdate": "Fri, 14 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sara Skyttedal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Skyttedal",
-        "pubdate": "Fri, 14 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "E-type",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E-type",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#United",
+        "pubdate": "Fri, 14 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
