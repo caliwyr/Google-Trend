@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 02:43:36",
+  "lastUpdate": "16-04-2023 , 02:52:57",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Il Patriarca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20Patriarca",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester City-Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City-Leicester%20City",
         "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Marco Verratti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Verratti",
         "pubdate": "Sat, 15 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 +0200"
       }
     ]
   ]

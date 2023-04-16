@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 02:43:38",
+  "lastUpdate": "16-04-2023 , 02:52:58",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sat, 15 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rotterdam Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam%20Marathon",
-        "pubdate": "Sat, 15 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Son Mieux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Son%20Mieux",
-        "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Thu, 13 Apr 2023 12:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Man%20City",
         "pubdate": "Tue, 11 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macron",
+        "pubdate": "Tue, 11 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Mon, 10 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
