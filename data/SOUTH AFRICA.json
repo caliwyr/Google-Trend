@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-04-2023 , 02:53:19",
+  "lastUpdate": "17-04-2023 , 03:08:54",
   "data": [
-    [
-      {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevilla",
-        "pubdate": "Mon, 17 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Grizzlies vs Lakers",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Royal AM vs Kaizer Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Royal%20AM%20vs%20Kaizer%20Chiefs",
-        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
+        "title": "Kaizer Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
+        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chelsea vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Brighton",
         "pubdate": "Sat, 15 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG vs Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Lens",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
