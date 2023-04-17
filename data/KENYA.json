@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-04-2023 , 21:55:10",
+  "lastUpdate": "17-04-2023 , 22:10:32",
   "data": [
+    [
+      {
+        "title": "Bybit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bybit",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Leeds United vs Liverpool",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "JKIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKIA",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Frank Lampard Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Frank%20Lampard%20Chelsea",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0300"
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "JKIA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKIA",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Office 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Office%20365",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Outlook",
+        "pubdate": "Mon, 17 Apr 2023 13:00:00 +0300"
       }
     ],
     [
@@ -87,23 +101,9 @@
     ],
     [
       {
-        "title": "Mama Lucy Hospital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mama%20Lucy%20Hospital",
-        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celine%20Dion",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Anthony%20Davis",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0300"
       }
     ],
     [
@@ -115,22 +115,22 @@
     ],
     [
       {
-        "title": "KuCoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KuCoin",
-        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sudan fighting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sudan%20fighting",
-        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Arsenal Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Premier%20League",
+        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Anthony%20Davis",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KuCoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KuCoin",
         "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
       }
     ],
