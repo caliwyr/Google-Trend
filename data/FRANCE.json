@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-04-2023 , 17:59:43",
+  "lastUpdate": "17-04-2023 , 18:23:34",
   "data": [
     [
       {
         "title": "Starship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starship",
         "pubdate": "Mon, 17 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La poste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20poste",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Test",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
+        "title": "Ahmad Jamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ahmad%20Jamal",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -76,13 +69,6 @@
         "title": "AXA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AXA",
         "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ahmad Jamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ahmad%20Jamal",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "CAC40",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAC40",
+        "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ogc Nice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ogc%20Nice",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cote d'Opale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cote%20d'Opale",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ]
   ]

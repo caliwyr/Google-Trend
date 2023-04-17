@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 17:59:40",
+  "lastUpdate": "17-04-2023 , 18:23:31",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Boston Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boston%20Marathon",
+        "pubdate": "Mon, 17 Apr 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "All Ords",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#All%20Ords",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Medicare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Medicare",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Durant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Durant",
-        "pubdate": "Mon, 17 Apr 2023 16:00:00 +1000"
       }
     ]
   ]

@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "17-04-2023 , 17:59:47",
+  "lastUpdate": "17-04-2023 , 18:23:39",
   "data": [
     [
       {
-        "title": "ING",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ING",
+        "title": "Ing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ing",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "RMF FM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF%20FM",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Office 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Office%20365",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "Cwiczenia antyterrorystyczne Warszawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cwiczenia%20antyterrorystyczne%20Warszawa",
+        "title": "Cwiczenia antyterrorystyczne warszawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cwiczenia%20antyterrorystyczne%20warszawa",
         "pubdate": "Mon, 17 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RMF FM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF%20FM",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "BNP Paribas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BNP%20Paribas",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+        "title": "Celine Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Celine%20Dion",
+        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Celine%20Dion",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
+        "title": "BNP Paribas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BNP%20Paribas",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Michał Wójcik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20W%C3%B3jcik",
+        "pubdate": "Mon, 17 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BNP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BNP",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stal Mielec – Miedź",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Mielec%20%E2%80%93%20Mied%C5%BA",
+        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Radio RMF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radio%20RMF",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "GUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GUS",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lex",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BWRX-300",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BWRX-300",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michał Wójcik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20W%C3%B3jcik",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
