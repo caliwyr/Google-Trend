@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 13:03:15",
+  "lastUpdate": "17-04-2023 , 13:24:40",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nuggets",
+        "pubdate": "Mon, 17 Apr 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Clarks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Clarks",
         "pubdate": "Mon, 17 Apr 2023 01:00:00 -0400"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Love Is Blind reunion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Love%20Is%20Blind%20reunion",
+        "title": "Love is Blind reunion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Love%20is%20Blind%20reunion",
         "pubdate": "Sun, 16 Apr 2023 12:00:00 -0400"
       }
     ],
@@ -48,6 +55,13 @@
         "title": "Clippers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Clippers",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Giannis Antetokounmpo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Giannis%20Antetokounmpo",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -80,30 +94,16 @@
     ],
     [
       {
-        "title": "Giannis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Giannis",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Giannis Antetokounmpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Giannis%20Antetokounmpo",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
-        "pubdate": "Sun, 16 Apr 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Alabama shooting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alabama%20shooting",
         "pubdate": "Sun, 16 Apr 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX Starship launch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SpaceX%20Starship%20launch",
+        "pubdate": "Sun, 16 Apr 2023 22:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "SpaceX Starship launch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SpaceX%20Starship%20launch",
-        "pubdate": "Sun, 16 Apr 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Holger Rune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Holger%20Rune",
         "pubdate": "Sun, 16 Apr 2023 08:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Austin Reaves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Austin%20Reaves",
         "pubdate": "Sun, 16 Apr 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
+        "pubdate": "Sun, 16 Apr 2023 16:00:00 -0400"
       }
     ]
   ]
