@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "17-04-2023 , 08:59:25",
+  "lastUpdate": "17-04-2023 , 09:19:14",
   "data": [
+    [
+      {
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lakers",
         "pubdate": "Mon, 17 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tödlicher Unfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%B6dlicher%20Unfall",
-        "pubdate": "Sun, 16 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
+        "title": "Hannover Messe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
         "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
       }
     ],
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Hannover Messe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
+        "title": "Leben leicht gemacht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leben%20leicht%20gemacht",
+        "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Leben leicht gemacht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leben%20leicht%20gemacht",
-        "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
+        "title": "Flensburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flensburg",
+        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Orient-Express",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Orient-Express",
+        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MotoGP",
         "pubdate": "Sat, 15 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
