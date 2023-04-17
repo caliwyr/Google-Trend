@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 01:49:11",
+  "lastUpdate": "17-04-2023 , 02:25:11",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Tatort heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20heute",
-        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
@@ -34,13 +27,6 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dieter Bohlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dieter%20Bohlen",
-        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,16 +73,23 @@
     ],
     [
       {
-        "title": "KSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
-        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
+        "title": "Michael J. Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20J.%20Fox",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Michael J. Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20J.%20Fox",
-        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
+        "title": "Tatort: Verborgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort:%20Verborgen",
+        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hannover Messe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Hannover Messe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
+        "title": "Bayern gegen Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Hoffenheim",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rhein-Neckar Löwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rhein-Neckar%20L%C3%B6wen",
         "pubdate": "Sat, 15 Apr 2023 18:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
+        "title": "Bayern Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Hoffenheim",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
