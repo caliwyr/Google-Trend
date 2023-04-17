@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-04-2023 , 14:52:30",
+  "lastUpdate": "17-04-2023 , 15:07:12",
   "data": [
     [
       {
         "title": "NAV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "K&H",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%26H",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keanu%20Reeves",
+        "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dalai láma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dalai%20l%C3%A1ma",
         "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "K&H",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%26H",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,20 @@
         "title": "KSH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KSH",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SpaceX",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Generali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Generali",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -62,6 +83,13 @@
         "title": "Heti horoszkóp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heti%20horoszk%C3%B3p",
         "pubdate": "Mon, 17 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benedict Cumberbatch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedict%20Cumberbatch",
+        "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Gesztesi Károly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gesztesi%20K%C3%A1roly",
         "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Újpest FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adrien Brody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Adrien%20Brody",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szorcsik Viki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szorcsik%20Viki",
-        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hertha",
-        "pubdate": "Sun, 16 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

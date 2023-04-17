@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 14:52:31",
+  "lastUpdate": "17-04-2023 , 15:07:13",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "UniCredit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#UniCredit",
+        "title": "Unicredit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Unicredit",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poste Italiane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Poste%20Italiane",
+        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Poste italiane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Poste%20italiane",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
+        "title": "Intesa Sanpaolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Intesa%20Sanpaolo",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Starship",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Drive",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
@@ -94,15 +108,15 @@
     ],
     [
       {
-        "title": "Credit Agricole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Credit%20Agricole",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+        "title": "Plenitude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Plenitude",
+        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Starship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Starship",
+        "title": "Credit Agricole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Credit%20Agricole",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Theo Hernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Theo%20Hernandez",
-        "pubdate": "Mon, 17 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nexi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nexi",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eni, Plenitude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eni,%20Plenitude",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
       }
     ]
   ]
