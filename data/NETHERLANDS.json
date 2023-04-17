@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 11:52:57",
+  "lastUpdate": "17-04-2023 , 12:15:18",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "NEC Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC%20Vitesse",
-        "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sun, 16 Apr 2023 17:00:00 +0200"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
-        "pubdate": "Sun, 16 Apr 2023 21:00:00 +0200"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon",
         "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marion Bloem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marion%20Bloem",
-        "pubdate": "Sun, 16 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Marathon Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20Rotterdam",
         "pubdate": "Sat, 15 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 15 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toontje Lager",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Toontje%20Lager",
+        "pubdate": "Sat, 15 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
