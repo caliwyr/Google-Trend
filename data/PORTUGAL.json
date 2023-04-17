@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "17-04-2023 , 21:03:08",
+  "lastUpdate": "17-04-2023 , 21:17:49",
   "data": [
-    [
-      {
-        "title": "Sporting Clube de Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
-        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Joaquim Pessoa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joaquim%20Pessoa",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leeds  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leeds%20%20Liverpool",
+        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rússia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#R%C3%BAssia",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Office",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Office",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Futebol Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20Benfica",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0100"
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Rússia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#R%C3%BAssia",
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Office",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Caixa geral de depósitos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20geral%20de%20dep%C3%B3sitos",
+        "pubdate": "Mon, 17 Apr 2023 02:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Leeds  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leeds%20%20Liverpool",
-        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0100"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
+        "pubdate": "Mon, 17 Apr 2023 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rita Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Lee",
         "pubdate": "Mon, 17 Apr 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hemofilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hemofilia",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0100"
       }
     ]
   ]
