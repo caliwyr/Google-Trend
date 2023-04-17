@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 03:52:17",
+  "lastUpdate": "17-04-2023 , 04:08:12",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "La croisière",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20croisi%C3%A8re",
+        "pubdate": "Mon, 17 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cambuur  Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cambuur%20%20Feyenoord",
         "pubdate": "Mon, 17 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Genk Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20Anderlecht",
+        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "Marathon Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Rotterdam",
         "pubdate": "Sun, 16 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Eden Hazard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eden%20Hazard",
-        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marseille – Troyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Troyes",
         "pubdate": "Sun, 16 Apr 2023 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Jean-Marie Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Marie%20Le%20Pen",
-        "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
+        "title": "Eden Hazard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eden%20Hazard",
+        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
       }
     ]
   ]
