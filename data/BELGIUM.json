@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 18:53:12",
+  "lastUpdate": "17-04-2023 , 19:05:58",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Linkedin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Linkedin",
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LinkedIn",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Teams",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
+        "title": "TOLEDO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TOLEDO",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "TOLEDO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TOLEDO",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Teams",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Keanu%20Reeves",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Mega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mega",
+        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vanzeir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vanzeir",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Keanu Reeves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Keanu%20Reeves",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "SWT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SWT",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Cofidis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cofidis",
         "pubdate": "Mon, 17 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zoom",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
