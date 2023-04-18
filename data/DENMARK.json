@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-04-2023 , 22:00:23",
+  "lastUpdate": "18-04-2023 , 22:18:52",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Napoli",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Polestar 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar%204",
         "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Napoli",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Salling Group",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Salling%20Group",
-        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0200"
+        "title": "Speak No Evil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Speak%20No%20Evil",
+        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Speak No Evil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Speak%20No%20Evil",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
+        "title": "Salling Group",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Salling%20Group",
+        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Tue, 18 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Minecraft Legends",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Minecraft%20Legends",
+        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Slope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office%20365",
         "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ]

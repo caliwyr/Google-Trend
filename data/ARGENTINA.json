@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-04-2023 , 22:00:21",
+  "lastUpdate": "18-04-2023 , 22:18:49",
   "data": [
-    [
-      {
-        "title": "Dolar hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dolar%20hoy",
-        "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Real Madrid",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Boca hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20hoy",
-        "pubdate": "Tue, 18 Apr 2023 07:00:00 -0300"
+        "title": "Dolar hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dolar%20hoy",
+        "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
       }
     ],
     [
@@ -31,15 +24,15 @@
     ],
     [
       {
-        "title": "Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Libertadores",
-        "pubdate": "Tue, 18 Apr 2023 10:00:00 -0300"
+        "title": "Boca hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20hoy",
+        "pubdate": "Tue, 18 Apr 2023 07:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Nassr",
+        "title": "Al Hilal  al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Hilal%20%20al-nassr",
         "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
       }
     ],
@@ -80,16 +73,9 @@
     ],
     [
       {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atletico",
-        "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lisandro martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lisandro%20martinez",
-        "pubdate": "Tue, 18 Apr 2023 15:00:00 -0300"
+        "title": "Copa Libertadores 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Libertadores%202023",
+        "pubdate": "Tue, 18 Apr 2023 08:00:00 -0300"
       }
     ],
     [
@@ -101,16 +87,23 @@
     ],
     [
       {
-        "title": "Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villa",
-        "pubdate": "Tue, 18 Apr 2023 00:00:00 -0300"
+        "title": "Lisandro martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lisandro%20martinez",
+        "pubdate": "Tue, 18 Apr 2023 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Alexandra Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexandra%20Grant",
-        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atletico",
+        "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villa",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 -0300"
       }
     ],
     [
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Paro de colectivos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20de%20colectivos",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 -0300"
+        "title": "Alexandra Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexandra%20Grant",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Atlético Tucumán  Rosario Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Tucum%C3%A1n%20%20Rosario%20Central",
-        "pubdate": "Mon, 17 Apr 2023 22:00:00 -0300"
+        "title": "Accidente Autopista Buenos Aires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Accidente%20Autopista%20Buenos%20Aires",
+        "pubdate": "Tue, 18 Apr 2023 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Godoy Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Godoy%20Cruz",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 -0300"
+        "title": "Cucurella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cucurella",
+        "pubdate": "Tue, 18 Apr 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lanus Godoy Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lanus%20Godoy%20Cruz",
+        "pubdate": "Tue, 18 Apr 2023 15:00:00 -0300"
       }
     ]
   ]

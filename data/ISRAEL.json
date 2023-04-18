@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-04-2023 , 22:00:26",
+  "lastUpdate": "18-04-2023 , 22:18:55",
   "data": [
+    [
+      {
+        "title": "Napoli vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Napoli%20vs%20Milan",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "יד ושם",
@@ -19,7 +26,14 @@
       {
         "title": "שואה",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%95%D7%90%D7%94",
-        "pubdate": "Tue, 18 Apr 2023 10:00:00 +0300"
+        "pubdate": "Tue, 18 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Real%20Madrid",
+        "pubdate": "Tue, 18 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -52,8 +66,8 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Real%20Madrid",
+        "title": "מילאן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%9C%D7%90%D7%9F",
         "pubdate": "Tue, 18 Apr 2023 23:00:00 +0300"
       }
     ],
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "נאפולי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%90%D7%A4%D7%95%D7%9C%D7%99",
+        "title": "צ'לסי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6'%D7%9C%D7%A1%D7%99",
         "pubdate": "Tue, 18 Apr 2023 23:00:00 +0300"
       }
     ],
@@ -104,13 +118,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Liverpool",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "מילאן",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%9C%D7%90%D7%9F",
-        "pubdate": "Tue, 18 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "גוש עציון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%95%D7%A9%20%D7%A2%D7%A6%D7%99%D7%95%D7%9F",
-        "pubdate": "Tue, 18 Apr 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "גולני",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%95%D7%9C%D7%A0%D7%99",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0300"
+        "title": "ניצולי שואה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%99%D7%A6%D7%95%D7%9C%D7%99%20%D7%A9%D7%95%D7%90%D7%94",
+        "pubdate": "Tue, 18 Apr 2023 10:00:00 +0300"
       }
     ]
   ]
