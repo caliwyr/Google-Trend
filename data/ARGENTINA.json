@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "18-04-2023 , 04:58:41",
+  "lastUpdate": "18-04-2023 , 05:16:52",
   "data": [
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Warriors",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Kylie Jenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kylie%20Jenner",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Alexandra Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexandra%20Grant",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "Colon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colon",
+        "pubdate": "Mon, 17 Apr 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Banfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield",
         "pubdate": "Mon, 17 Apr 2023 19:00:00 -0300"
@@ -55,20 +76,6 @@
         "title": "Chacarita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chacarita",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Platense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Platense",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sarmiento  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sarmiento%20%20Arsenal",
-        "pubdate": "Mon, 17 Apr 2023 20:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Atlanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atlanta",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Hemofilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hemofilia",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 -0300"
       }
     ]
   ]
