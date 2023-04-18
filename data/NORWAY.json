@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 10:54:10",
+  "lastUpdate": "18-04-2023 , 11:08:30",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Stavanger Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavanger%20Oilers",
-        "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bing",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Mail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mail",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oslo Børs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20B%C3%B8rs",
+        "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
       }
     ]
   ]
