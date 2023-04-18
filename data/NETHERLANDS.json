@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-04-2023 , 02:59:14",
+  "lastUpdate": "18-04-2023 , 03:19:16",
   "data": [
-    [
-      {
-        "title": "Sunny Bergman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sunny%20Bergman",
-        "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Brand Zoetermeer",
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Joan Franka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joan%20Franka",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Boston Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boston%20Marathon",
         "pubdate": "Mon, 17 Apr 2023 07:00:00 +0200"
@@ -83,6 +69,13 @@
         "title": "AEX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AEX",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jong Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
+        "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amstel Gold Race",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amstel%20Gold%20Race",
+        "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
