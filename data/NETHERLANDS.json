@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-04-2023 , 06:59:18",
+  "lastUpdate": "18-04-2023 , 07:17:12",
   "data": [
+    [
+      {
+        "title": "Lebbis en Jansen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lebbis%20en%20Jansen",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sunny Bergman",
@@ -48,6 +55,13 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joan Franka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joan%20Franka",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ahmad Jamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ahmad%20Jamal",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macklemore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Macklemore",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
