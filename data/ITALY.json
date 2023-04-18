@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-04-2023 , 05:55:09",
+  "lastUpdate": "18-04-2023 , 06:15:20",
   "data": [
-    [
-      {
-        "title": "Marco Mazzoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Mazzoli",
-        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Toni Servillo",
@@ -26,6 +19,13 @@
       {
         "title": "Alvin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alvin",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paolo Noise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paolo%20Noise",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -80,16 +80,9 @@
     ],
     [
       {
-        "title": "UniCredit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#UniCredit",
+        "title": "Unicredit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Unicredit",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli-Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Milan",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Outlook",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Scossa terremoto oggi Umbria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scossa%20terremoto%20oggi%20Umbria",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fascicolo Sanitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fascicolo%20Sanitario",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+        "title": "Napoli-Milan dove vederla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Milan%20dove%20vederla",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
