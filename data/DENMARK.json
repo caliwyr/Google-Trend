@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-04-2023 , 13:57:23",
+  "lastUpdate": "18-04-2023 , 14:17:59",
   "data": [
+    [
+      {
+        "title": "Loblaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Loblaw",
+        "pubdate": "Tue, 18 Apr 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "The Great Pacific Garbage Patch",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "PUMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PUMA",
-        "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
+        "title": "Polestar 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar%204",
+        "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Polestar 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar%204",
-        "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
+        "title": "PUMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PUMA",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "OneDrive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OneDrive",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Canva",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
