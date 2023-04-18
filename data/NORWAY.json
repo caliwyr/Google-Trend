@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "18-04-2023 , 11:57:06",
+  "lastUpdate": "18-04-2023 , 12:30:13",
   "data": [
+    [
+      {
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oilers",
+        "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Polestar 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
         "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polestar 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%203",
+        "pubdate": "Tue, 18 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -17,8 +31,15 @@
     ],
     [
       {
-        "title": "Nav",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nav",
+        "title": "Is",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Is",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NAV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NAV",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -55,6 +76,13 @@
         "title": "Raymond Johansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raymond%20Johansen",
         "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PostNord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PostNord",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Bing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bing",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo kommune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20kommune",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frank Ocean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frank%20Ocean",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mail",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo Børs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20B%C3%B8rs",
-        "pubdate": "Mon, 17 Apr 2023 13:00:00 +0200"
       }
     ]
   ]

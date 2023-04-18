@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 11:57:03",
+  "lastUpdate": "18-04-2023 , 12:30:09",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "title": "DAX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Sturm der Liebe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm%20der%20Liebe",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "G7-Staaten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7-Staaten",
-        "pubdate": "Mon, 17 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -94,23 +87,9 @@
     ],
     [
       {
-        "title": "Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Post",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vitamin B12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vitamin%20B12",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carsten Maschmeyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carsten%20Maschmeyer",
-        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "G7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hannover Messe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
         "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HANNOVER MESSE 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HANNOVER%20MESSE%202023",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starfield",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 11:57:07",
+  "lastUpdate": "18-04-2023 , 12:30:14",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Office",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Office",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Patricia Rite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Patricia%20Rite",
         "pubdate": "Mon, 17 Apr 2023 18:00:00 +0100"
@@ -73,16 +66,23 @@
     ],
     [
       {
-        "title": "Frank Ocean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frank%20Ocean",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0100"
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Office",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lista de produtos IVA zero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lista%20de%20produtos%20IVA%20zero",
+        "title": "Produtos IVA zero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Produtos%20IVA%20zero",
         "pubdate": "Mon, 17 Apr 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frank Ocean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frank%20Ocean",
+        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Mariana Monteiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mariana%20Monteiro",
-        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Filomena Cautela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Filomena%20Cautela",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Finanças Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Finan%C3%A7as%20Portugal",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mariana Monteiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mariana%20Monteiro",
+        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0100"
       }
     ]
   ]
