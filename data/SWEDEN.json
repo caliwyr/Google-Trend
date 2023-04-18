@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 09:52:23",
+  "lastUpdate": "18-04-2023 , 10:07:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Handelsbanken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Handelsbanken",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SL",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SpaceX",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Folktandvården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Folktandv%C3%A5rden",
         "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Skellefteå",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skandia",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vårdcentral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A5rdcentral",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
