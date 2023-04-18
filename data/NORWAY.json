@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-04-2023 , 22:57:25",
+  "lastUpdate": "18-04-2023 , 23:15:24",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -10,23 +17,16 @@
     ],
     [
       {
-        "title": "Polestar 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
-        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polestar 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%203",
-        "pubdate": "Tue, 18 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
         "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polestar 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Chelsea - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20-%20Real%20Madrid",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+        "title": "Polestar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar",
+        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0200"
       }
     ],
     [
