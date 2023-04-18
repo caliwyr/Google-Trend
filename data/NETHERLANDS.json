@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 19:06:58",
+  "lastUpdate": "18-04-2023 , 19:17:52",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Nienke Brinkman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nienke%20Brinkman",
-        "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Purmerend",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Purmerend",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Mon, 17 Apr 2023 20:00:00 +0200"
@@ -97,6 +83,13 @@
         "title": "Amstel Gold Race",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amstel%20Gold%20Race",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mia en Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mia%20en%20Dion",
         "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RKC Waalwijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC%20Waalwijk",
+        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0200"
       }
     ]
   ]

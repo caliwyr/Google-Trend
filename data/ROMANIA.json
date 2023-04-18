@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-04-2023 , 19:07:00",
+  "lastUpdate": "18-04-2023 , 19:17:54",
   "data": [
+    [
+      {
+        "title": "Dinamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo",
+        "pubdate": "Tue, 18 Apr 2023 18:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Survivor",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Horoscop 18 aprilie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2018%20aprilie%202023",
-        "pubdate": "Tue, 18 Apr 2023 07:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Timișoara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Timi%C8%99oara",
         "pubdate": "Tue, 18 Apr 2023 18:00:00 +0300"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Mircea geoana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20geoana",
-        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0300"
+        "title": "Horoscop 18 aprilie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2018%20aprilie%202023",
+        "pubdate": "Tue, 18 Apr 2023 07:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Robert Knepper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Robert%20Knepper",
-        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0300"
+        "title": "Mircea geoana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20geoana",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0300"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Leeds  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leeds%20%20Liverpool",
         "pubdate": "Mon, 17 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dinamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Blue Air",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Blue%20Air",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Super Mario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Super%20Mario",
+        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
       }
     ]
   ]

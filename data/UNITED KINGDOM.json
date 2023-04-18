@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 19:07:04",
+  "lastUpdate": "18-04-2023 , 19:17:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Colin Beattie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Colin%20Beattie",
         "pubdate": "Tue, 18 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jonathan Majors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jonathan%20Majors",
+        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jonathan%20Majors",
-        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0100"
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ozempic",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0100"
       }
     ],
     [
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Danny Graham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Danny%20Graham",
+        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barry",
+        "pubdate": "Tue, 18 Apr 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leeds United vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United%20vs%20Liverpool",
         "pubdate": "Mon, 17 Apr 2023 20:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Companies House",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Companies%20House",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FTSE 100",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#FTSE%20100",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cost of living payment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cost%20of%20living%20payment",
-        "pubdate": "Mon, 17 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Coronation Quiche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Coronation%20Quiche",
-        "pubdate": "Mon, 17 Apr 2023 22:00:00 +0100"
       }
     ]
   ]
