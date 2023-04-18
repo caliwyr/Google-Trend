@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 12:55:07",
+  "lastUpdate": "18-04-2023 , 13:16:00",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Joy Corrigan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joy%20Corrigan",
         "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Legionella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Legionella",
+        "pubdate": "Tue, 18 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teams",
+        "pubdate": "Mon, 17 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kb",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Česká pošta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20po%C5%A1ta",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Cez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cez",
         "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pudilova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pudilova",
-        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anna K",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Anna%20K",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EUR/CZK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#EUR/CZK",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

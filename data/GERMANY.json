@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 12:55:08",
+  "lastUpdate": "18-04-2023 , 13:16:01",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "DAX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "G7-Staaten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7-Staaten",
+        "pubdate": "Mon, 17 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VW ID.7",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW%20ID.7",
         "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
@@ -59,23 +66,16 @@
     ],
     [
       {
-        "title": "Ägypten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%84gypten",
-        "pubdate": "Mon, 17 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tesla-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla-Aktie",
-        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marteria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marteria",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TUI-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#TUI-Aktie",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Carsten Maschmeyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carsten%20Maschmeyer",
+        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Conrad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conrad",
         "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
@@ -111,13 +118,6 @@
         "title": "Amazon Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Aktie",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "G7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ],
     [
