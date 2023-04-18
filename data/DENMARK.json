@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 08:58:44",
+  "lastUpdate": "18-04-2023 , 09:17:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "PUMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PUMA",
         "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ralph Yarl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ralph%20Yarl",
+        "pubdate": "Tue, 18 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office%20365",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "TikTok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
         "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Messenger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Messenger",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Office 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office%20365",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Valorant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valorant",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Economic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
