@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 18:01:00",
+  "lastUpdate": "18-04-2023 , 18:24:40",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Sheffield United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sheffield%20United",
         "pubdate": "Tue, 18 Apr 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bybit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bybit",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Outlook",
         "pubdate": "Mon, 17 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Premier%20League",
-        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0300"
       }
     ]
   ]
