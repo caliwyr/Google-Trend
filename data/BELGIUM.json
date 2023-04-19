@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-04-2023 , 22:47:35",
+  "lastUpdate": "19-04-2023 , 22:56:54",
   "data": [
     [
       {
         "title": "Bayern – Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20Manchester%20City",
         "pubdate": "Wed, 19 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dreamland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dreamland",
-        "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Buitenspeeldag 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Buitenspeeldag%202023",
-        "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
+        "title": "Dreamland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dreamland",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Inter – Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Benfica",
         "pubdate": "Wed, 19 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Buitenspeeldag 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Buitenspeeldag%202023",
+        "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Sportschool Hasselt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sportschool%20Hasselt",
-        "pubdate": "Wed, 19 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Evil%20Dead%20Rise",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Thibaut Courtois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibaut%20Courtois",
-        "pubdate": "Wed, 19 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aaron Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aaron%20Carter",
         "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20munchen",
+        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fox%20News",
+        "pubdate": "Wed, 19 Apr 2023 14:00:00 +0200"
       }
     ]
   ]

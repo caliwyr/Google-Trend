@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 22:47:48",
+  "lastUpdate": "19-04-2023 , 22:57:04",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter",
+        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Konyaspor Adana Demirspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor%20Adana%20Demirspor",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0300"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Kayserispor, Kasımpaşa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor,%20Kas%C4%B1mpa%C5%9Fa",
+        "title": "Kayserispor  Kasımpaşa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor%20%20Kas%C4%B1mpa%C5%9Fa",
         "pubdate": "Wed, 19 Apr 2023 17:00:00 +0300"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Amedspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Amedspor",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0300"
+        "title": "Inter  Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter%20%20Benfica",
+        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Selahattin Demirtaş",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Selahattin%20Demirta%C5%9F",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "INTER - BENFICA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#INTER%20-%20BENFICA",
-        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern",
-        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cristiano%20Ronaldo",
         "pubdate": "Wed, 19 Apr 2023 03:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Fener",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fener",
         "pubdate": "Wed, 19 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Çorum FK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
+        "pubdate": "Wed, 19 Apr 2023 18:00:00 +0300"
       }
     ]
   ]
