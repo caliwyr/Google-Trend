@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 09:56:09",
+  "lastUpdate": "19-04-2023 , 10:14:04",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Fox News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fox%20News",
         "pubdate": "Wed, 19 Apr 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yubico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yubico",
+        "pubdate": "Wed, 19 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alingsås",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alings%C3%A5s",
+        "pubdate": "Tue, 18 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,8 +80,8 @@
     ],
     [
       {
-        "title": "Ericsson Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ericsson%20Aktie",
+        "title": "Ericsson aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ericsson%20aktie",
         "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Mon, 17 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hockeyallsvenskan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hockeyallsvenskan",
-        "pubdate": "Mon, 17 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Mon, 17 Apr 2023 03:00:00 +0200"
       }
     ]
   ]
