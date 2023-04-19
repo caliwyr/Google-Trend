@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 16:49:25",
+  "lastUpdate": "19-04-2023 , 16:58:37",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
+        "pubdate": "Wed, 19 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Loblaw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Loblaw",
-        "pubdate": "Tue, 18 Apr 2023 14:00:00 +0200"
+        "title": "TikTok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
+        "pubdate": "Tue, 18 Apr 2023 02:00:00 +0200"
       }
     ],
     [
       {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
-        "pubdate": "Tue, 18 Apr 2023 02:00:00 +0200"
+        "title": "Loblaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Loblaw",
+        "pubdate": "Tue, 18 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Tue, 18 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dead Island 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dead%20Island%202",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
