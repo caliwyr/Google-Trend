@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 12:43:23",
+  "lastUpdate": "19-04-2023 , 13:01:10",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fox%20News",
-        "pubdate": "Wed, 19 Apr 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aaron Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aaron%20Carter",
         "pubdate": "Wed, 19 Apr 2023 10:00:00 +0100"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Maxine Klibingaitis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Maxine%20Klibingaitis",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0100"
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fox%20News",
+        "pubdate": "Wed, 19 Apr 2023 01:00:00 +0100"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Chris Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chris%20Evans",
         "pubdate": "Wed, 19 Apr 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maxine Klibingaitis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Maxine%20Klibingaitis",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Al%20Nassr",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Colin Beattie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Colin%20Beattie",
         "pubdate": "Tue, 18 Apr 2023 10:00:00 +0100"
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Sunderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sunderland",
-        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20FC",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Al%20Nassr",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Prime drink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Prime%20drink",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ozempic",
         "pubdate": "Tue, 18 Apr 2023 09:00:00 +0100"
       }
     ]

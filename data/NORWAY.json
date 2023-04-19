@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-04-2023 , 12:43:19",
+  "lastUpdate": "19-04-2023 , 13:01:05",
   "data": [
+    [
+      {
+        "title": "Hydra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hydra",
+        "pubdate": "Wed, 19 Apr 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Fox News",
@@ -132,13 +139,6 @@
         "title": "Alexandra Grant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Grant",
         "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Snapchat",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
