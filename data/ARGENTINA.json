@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 08:49:35",
+  "lastUpdate": "19-04-2023 , 08:58:56",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Aracre Antonio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aracre%20Antonio",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Real%20Madrid",
         "pubdate": "Tue, 18 Apr 2023 08:00:00 -0300"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Newell's  Blooming",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's%20%20Blooming",
+        "pubdate": "Tue, 18 Apr 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Estudiantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
         "pubdate": "Tue, 18 Apr 2023 20:00:00 -0300"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Newell's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 -0300"
+        "title": "Copa Sudamericana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Sudamericana",
+        "pubdate": "Tue, 18 Apr 2023 08:00:00 -0300"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Patronato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Patronato",
         "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Copa Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Sudamericana",
-        "pubdate": "Tue, 18 Apr 2023 08:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Diego Schwartzman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Diego%20Schwartzman",
         "pubdate": "Tue, 18 Apr 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Antonio Aracre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Antonio%20Aracre",
+        "pubdate": "Tue, 18 Apr 2023 20:00:00 -0300"
       }
     ]
   ]
