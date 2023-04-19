@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-04-2023 , 00:53:27",
+  "lastUpdate": "19-04-2023 , 02:02:17",
   "data": [
+    [
+      {
+        "title": "Dashcam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dashcam",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -13,6 +20,13 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Napoli",
         "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TikTok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
+        "pubdate": "Tue, 18 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Roger Waters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roger%20Waters",
         "pubdate": "Mon, 17 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
