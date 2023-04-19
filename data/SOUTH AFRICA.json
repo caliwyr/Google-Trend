@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-04-2023 , 17:55:16",
+  "lastUpdate": "19-04-2023 , 18:14:48",
   "data": [
     [
       {
         "title": "PSL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
         "pubdate": "Wed, 19 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Emile Baron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emile%20Baron",
         "pubdate": "Wed, 19 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Sadio Mane Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sadio%20Mane%20Bayern",
         "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gerhard Ackerman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gerhard%20Ackerman",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "Timothee chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Timothee%20chalamet",
+        "title": "Timothee Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Timothee%20Chalamet",
         "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Jacob Zuma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jacob%20Zuma",
         "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ralph Yarl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ralph%20Yarl",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
