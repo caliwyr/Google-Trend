@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 23:54:15",
+  "lastUpdate": "19-04-2023 , 00:53:35",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Chelsea FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zamalek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zamalek",
         "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Ralph Yarl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ralph%20Yarl",
-        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arnold%20Schwarzenegger",
         "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Stoke City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stoke%20City",
-        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
+        "title": "Ralph Yarl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ralph%20Yarl",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Sunderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sunderland",
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
         "pubdate": "Tue, 18 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
+        "title": "Sunderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sunderland",
         "pubdate": "Tue, 18 Apr 2023 23:00:00 +0200"
       }
     ]
