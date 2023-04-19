@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-04-2023 , 20:57:17",
+  "lastUpdate": "19-04-2023 , 21:13:16",
   "data": [
+    [
+      {
+        "title": "Bayern  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20%20Manchester%20City",
+        "pubdate": "Wed, 19 Apr 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Waalse Pijl",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Bayern  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20%20Manchester%20City",
-        "pubdate": "Wed, 19 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RTV Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Utrecht",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Fietshelm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietshelm",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+        "pubdate": "Wed, 19 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Fox News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fox%20News",
         "pubdate": "Wed, 19 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fietshelm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietshelm",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,15 +80,15 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
+        "title": "Chelsea  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea%20%20Real%20Madrid",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea%20%20Real%20Madrid",
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "KNVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
         "pubdate": "Mon, 17 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ASML",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
-        "pubdate": "Mon, 17 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
