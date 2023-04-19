@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 10:57:55",
+  "lastUpdate": "19-04-2023 , 11:13:50",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Suns vs Clippers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Suns%20vs%20Clippers",
         "pubdate": "Wed, 19 Apr 2023 13:00:00 +0800"
@@ -27,13 +34,6 @@
         "title": "Jonathan Majors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jonathan%20Majors",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "COE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0800"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "F1) Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1)%20Singapore",
+        "title": "F1 Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20Singapore",
         "pubdate": "Tue, 18 Apr 2023 15:00:00 +0800"
       }
     ]
