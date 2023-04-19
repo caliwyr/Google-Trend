@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 13:52:18",
+  "lastUpdate": "19-04-2023 , 14:06:25",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Marteria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marteria",
+        "pubdate": "Wed, 19 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fox News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fox%20News",
         "pubdate": "Wed, 19 Apr 2023 08:00:00 +0200"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Marteria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marteria",
-        "pubdate": "Wed, 19 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eishockey schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eishockey%20schweiz",
         "pubdate": "Wed, 19 Apr 2023 08:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Süper Lig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#S%C3%BCper%20Lig",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonathan Majors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jonathan%20Majors",
+        "pubdate": "Wed, 19 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jonathan%20Majors",
+        "title": "Streik Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Streik%20Deutschland",
         "pubdate": "Wed, 19 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Streik Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Streik%20Deutschland",
-        "pubdate": "Wed, 19 Apr 2023 13:00:00 +0200"
+        "title": "Sadio Mané fc Bayern münchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sadio%20Man%C3%A9%20fc%20Bayern%20m%C3%BCnchen",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli",
-        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0200"
+        "title": "Geneve Servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Geneve%20Servette",
+        "pubdate": "Wed, 19 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Milan",
-        "pubdate": "Tue, 18 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
