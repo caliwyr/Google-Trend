@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 05:55:54",
+  "lastUpdate": "19-04-2023 , 06:16:56",
   "data": [
     [
       {
@@ -10,30 +10,23 @@
     ],
     [
       {
-        "title": "Duisburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Duisburg",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Streik Bahn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Bahn",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
+        "title": "Bahnstreik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
+        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
         "title": "FC Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
-        "pubdate": "Tue, 18 Apr 2023 18:00:00 +0200"
+        "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Thomas Tuchel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Tuchel",
-        "pubdate": "Tue, 18 Apr 2023 13:00:00 +0200"
+        "title": "Duisburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Duisburg",
+        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Letzte Generation Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Letzte%20Generation%20Berlin",
+        "pubdate": "Tue, 18 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Polestar 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polestar%204",
         "pubdate": "Tue, 18 Apr 2023 20:00:00 +0200"
@@ -68,13 +68,6 @@
       {
         "title": "DAX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
         "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ],
@@ -90,6 +83,27 @@
         "title": "Elisabeth Lanz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elisabeth%20Lanz",
         "pubdate": "Mon, 17 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starship",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VW ID.7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW%20ID.7",
+        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tesla Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla%20Aktie",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sudan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sudan",
         "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Hoffenheim",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pur",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

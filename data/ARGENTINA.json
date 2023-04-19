@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 05:55:51",
+  "lastUpdate": "19-04-2023 , 06:16:53",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Boca en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20en%20vivo",
+        "title": "NBA playoffs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#NBA%20playoffs",
         "pubdate": "Wed, 19 Apr 2023 00:00:00 -0300"
       }
     ],
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flamengo",
+        "pubdate": "Wed, 19 Apr 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Boston Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boston%20Celtics",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 -0300"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flamengo",
-        "pubdate": "Wed, 19 Apr 2023 01:00:00 -0300"
+        "title": "Aracre Antonio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aracre%20Antonio",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 -0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Barco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barco",
-        "pubdate": "Tue, 18 Apr 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Olimpia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
         "pubdate": "Tue, 18 Apr 2023 16:00:00 -0300"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Warriors",
-        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Neymar",
+        "pubdate": "Tue, 18 Apr 2023 21:00:00 -0300"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "Alexis sanchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexis%20sanchez",
         "pubdate": "Tue, 18 Apr 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Neymar",
-        "pubdate": "Tue, 18 Apr 2023 21:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Warriors",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 -0300"
       }
     ]
   ]

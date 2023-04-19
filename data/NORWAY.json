@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-04-2023 , 05:55:57",
+  "lastUpdate": "19-04-2023 , 06:16:59",
   "data": [
+    [
+      {
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
+        "pubdate": "Wed, 19 Apr 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Chelsea",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Polestar 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
-        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+        "title": "Polestar 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Morten Gamst Pedersen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morten%20Gamst%20Pedersen",
         "pubdate": "Tue, 18 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polestar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar",
+        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "NAV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NAV",
+        "title": "Nav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nav",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -82,6 +96,13 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "pubdate": "Mon, 17 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bente Træen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bente%20Tr%C3%A6en",
         "pubdate": "Mon, 17 Apr 2023 23:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Nordea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordea",
         "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alexandra Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Grant",
-        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Snapchat",
-        "pubdate": "Mon, 17 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Campus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
