@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "20-04-2023 , 17:49:45",
+  "lastUpdate": "20-04-2023 , 17:59:06",
   "data": [
     [
       {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City",
-        "pubdate": "Thu, 20 Apr 2023 00:00:00 +0300"
+        "pubdate": "Thu, 20 Apr 2023 05:00:00 +0300"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "West Ham vs Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham%20vs%20Gent",
+        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Grizzlies vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Grizzlies%20vs%20Lakers",
         "pubdate": "Thu, 20 Apr 2023 08:00:00 +0300"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "West Ham vs Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham%20vs%20Gent",
-        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0300"
+        "title": "DJ Bonez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#DJ%20Bonez",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Solar eclipse 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Solar%20eclipse%202023",
         "pubdate": "Thu, 20 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Boyz to Men",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Boyz%20to%20Men",
+        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0300"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lionel%20Messi",
         "pubdate": "Thu, 20 Apr 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Boyz to Men",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Boyz%20to%20Men",
-        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0300"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Moonbin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moonbin",
-        "pubdate": "Wed, 19 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Sevilla vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sevilla%20vs%20Man%20United",
         "pubdate": "Wed, 19 Apr 2023 23:00:00 +0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Man utd vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20utd%20vs%20Arsenal",
-        "pubdate": "Wed, 19 Apr 2023 21:00:00 +0300"
+        "title": "Moonbin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moonbin",
+        "pubdate": "Wed, 19 Apr 2023 22:00:00 +0300"
       }
     ]
   ]
