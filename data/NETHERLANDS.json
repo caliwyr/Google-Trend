@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-04-2023 , 07:45:03",
+  "lastUpdate": "20-04-2023 , 07:54:17",
   "data": [
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica",
-        "pubdate": "Thu, 20 Apr 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Cleopatra",
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Waalse Pijl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Waalse%20Pijl",
+        "title": "Demi Vollering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Demi%20Vollering",
         "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Amstel Gold Race",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amstel%20Gold%20Race",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
