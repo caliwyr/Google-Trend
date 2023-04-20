@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-04-2023 , 09:45:31",
+  "lastUpdate": "20-04-2023 , 09:54:34",
   "data": [
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Thu, 20 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Eliteserien",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern%20munchen",
         "pubdate": "Wed, 19 Apr 2023 23:00:00 +0200"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Bridget Fonda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bridget%20Fonda",
-        "pubdate": "Wed, 19 Apr 2023 18:00:00 +0200"
+        "title": "LSK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
+        "pubdate": "Wed, 19 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Palmesus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Palmesus",
         "pubdate": "Wed, 19 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bridget Fonda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bridget%20Fonda",
+        "pubdate": "Wed, 19 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -82,20 +96,6 @@
       {
         "title": "Hydra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hydra",
-        "pubdate": "Wed, 19 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lillestrøm Strømsgodset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m%20Str%C3%B8msgodset",
-        "pubdate": "Wed, 19 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NRK debatten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NRK%20debatten",
         "pubdate": "Wed, 19 Apr 2023 10:00:00 +0200"
       }
     ],
