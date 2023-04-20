@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 12:55:34",
+  "lastUpdate": "20-04-2023 , 13:15:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Thu, 20 Apr 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Inter vs Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20vs%20Benfica",
+        "pubdate": "Thu, 20 Apr 2023 05:00:00 +0800"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Milan",
-        "pubdate": "Thu, 20 Apr 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
         "pubdate": "Thu, 20 Apr 2023 17:00:00 +0800"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Boys Planet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boys%20Planet",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Solar eclipse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Solar%20eclipse",
         "pubdate": "Wed, 19 Apr 2023 15:00:00 +0800"
@@ -82,7 +89,7 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-        "pubdate": "Wed, 19 Apr 2023 05:00:00 +0800"
+        "pubdate": "Wed, 19 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jonathan%20Majors",
-        "pubdate": "Wed, 19 Apr 2023 01:00:00 +0800"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+        "pubdate": "Wed, 19 Apr 2023 05:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Suns vs Clippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Suns%20vs%20Clippers",
-        "pubdate": "Wed, 19 Apr 2023 13:00:00 +0800"
+        "title": "Jonathan Majors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jonathan%20Majors",
+        "pubdate": "Wed, 19 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Xiaomi 13 Ultra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xiaomi%2013%20Ultra",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mandalorian season 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mandalorian%20season%203",
-        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0800"
       }
     ]
   ]

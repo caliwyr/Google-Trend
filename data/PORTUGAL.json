@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-04-2023 , 12:55:33",
+  "lastUpdate": "20-04-2023 , 13:15:39",
   "data": [
-    [
-      {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Massacre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Massacre",
         "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "20 de abril escolas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#20%20de%20abril%20escolas",
-        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
+        "title": "WSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
+        "pubdate": "Thu, 20 Apr 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
-        "pubdate": "Thu, 20 Apr 2023 02:00:00 +0100"
+        "title": "Slbenfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Slbenfica",
+        "pubdate": "Thu, 20 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Pedro Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Lima",
+        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern  City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20%20City",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0100"
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Eclipse solar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eclipse%20solar",
+        "title": "Eclipse solar híbrido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eclipse%20solar%20h%C3%ADbrido",
         "pubdate": "Wed, 19 Apr 2023 18:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Aaron Carter morte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aaron%20Carter%20morte",
         "pubdate": "Wed, 19 Apr 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gretchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gretchen",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0100"
       }
     ]
   ]

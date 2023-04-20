@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 12:55:27",
+  "lastUpdate": "20-04-2023 , 13:15:34",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Anne Wünsche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anne%20W%C3%BCnsche",
         "pubdate": "Thu, 20 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Backstreet Boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Backstreet%20Boys",
+        "pubdate": "Thu, 20 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,30 +52,9 @@
     ],
     [
       {
-        "title": "Adolf Hitler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adolf%20Hitler",
-        "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aaron Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aaron%20Carter",
-        "pubdate": "Wed, 19 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stuckrad-Barre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuckrad-Barre",
         "pubdate": "Wed, 19 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Warschauer Ghetto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warschauer%20Ghetto",
-        "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Wladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wladimir%20Putin",
-        "pubdate": "Wed, 19 Apr 2023 06:00:00 +0200"
+        "title": "Warschauer Ghetto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warschauer%20Ghetto",
+        "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Rentner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rentner",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Streik Flughafen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Flughafen",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Abitur NRW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Abitur%20NRW",
+        "pubdate": "Tue, 18 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
