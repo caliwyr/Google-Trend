@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 15:45:34",
+  "lastUpdate": "20-04-2023 , 15:54:43",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
         "pubdate": "Thu, 20 Apr 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Resultados FUAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Resultados%20FUAS",
+        "pubdate": "Thu, 20 Apr 2023 10:00:00 -0400"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Bolivar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolivar",
         "pubdate": "Thu, 20 Apr 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "420",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#420",
+        "pubdate": "Thu, 20 Apr 2023 11:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
         "pubdate": "Wed, 19 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Alejandro Tabilo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alejandro%20Tabilo",
-        "pubdate": "Wed, 19 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Conmebol Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Conmebol%20Libertadores",
-        "pubdate": "Wed, 19 Apr 2023 16:00:00 -0400"
       }
     ]
   ]
