@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-04-2023 , 16:52:26",
+  "lastUpdate": "20-04-2023 , 17:06:07",
   "data": [
+    [
+      {
+        "title": "Fast X",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fast%20X",
+        "pubdate": "Fri, 21 Apr 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Moonbin",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Boys Planet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boys%20Planet",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Evil%20Dead%20Rise",
         "pubdate": "Thu, 20 Apr 2023 10:00:00 +0800"
@@ -48,20 +62,6 @@
         "title": "Meta layoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20layoffs",
         "pubdate": "Thu, 20 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Boys Planet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boys%20Planet",
-        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
-        "pubdate": "Thu, 20 Apr 2023 17:00:00 +0800"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Allkpop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Allkpop",
-        "pubdate": "Thu, 20 Apr 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "DC vs KKR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DC%20vs%20KKR",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0800"
@@ -101,20 +94,6 @@
     ],
     [
       {
-        "title": "Lakers vs Grizzlies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers%20vs%20Grizzlies",
-        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cristiano%20Ronaldo%20Al%20Nassr",
-        "pubdate": "Thu, 20 Apr 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Sevilla vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sevilla%20vs%20Man%20United",
         "pubdate": "Thu, 20 Apr 2023 23:00:00 +0800"
@@ -122,8 +101,22 @@
     ],
     [
       {
+        "title": "Lakers vs Grizzlies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers%20vs%20Grizzlies",
+        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Yemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yemen",
+        "pubdate": "Thu, 20 Apr 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "ERLING HAALAND",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ERLING%20HAALAND",
         "pubdate": "Thu, 20 Apr 2023 23:00:00 +0800"
       }
     ],
@@ -138,7 +131,14 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-        "pubdate": "Wed, 19 Apr 2023 05:00:00 +0800"
+        "pubdate": "Wed, 19 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0800"
       }
     ]
   ]
