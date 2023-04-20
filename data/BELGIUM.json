@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 03:43:22",
+  "lastUpdate": "20-04-2023 , 03:52:40",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Thibaut Courtois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibaut%20Courtois",
+        "pubdate": "Wed, 19 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aaron Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aaron%20Carter",
         "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Emmanuel Macron chante",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emmanuel%20Macron%20chante",
         "pubdate": "Wed, 19 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20munchen",
-        "pubdate": "Wed, 19 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
