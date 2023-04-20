@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "20-04-2023 , 04:47:29",
+  "lastUpdate": "20-04-2023 , 04:56:49",
   "data": [
     [
       {
         "title": "Radio Renascença",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Radio%20Renascen%C3%A7a",
-        "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Massacre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Massacre",
         "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
       }
     ],
@@ -24,15 +17,15 @@
     ],
     [
       {
-        "title": "Joao mario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20mario",
+        "title": "Massacre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Massacre",
         "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rafael Leão Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20Le%C3%A3o%20Sporting",
+        "title": "Joao mario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20mario",
         "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "WSL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
         "pubdate": "Thu, 20 Apr 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Leão Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20Le%C3%A3o%20Sporting",
+        "pubdate": "Thu, 20 Apr 2023 01:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Silvio Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Silvio%20Santos",
-        "pubdate": "Wed, 19 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Wed, 19 Apr 2023 01:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Youtuber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Youtuber",
         "pubdate": "Wed, 19 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roberto Carlos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roberto%20Carlos",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 +0100"
       }
     ]
   ]
