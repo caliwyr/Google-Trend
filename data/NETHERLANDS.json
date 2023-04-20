@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 21:55:33",
+  "lastUpdate": "20-04-2023 , 22:11:36",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Roma  Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roma%20%20Feyenoord",
+        "title": "Roma - Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roma%20-%20Feyenoord",
         "pubdate": "Thu, 20 Apr 2023 07:00:00 +0200"
       }
     ],
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Juventus",
+        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica",
         "pubdate": "Thu, 20 Apr 2023 07:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Juventus",
-        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0200"
+        "title": "KNVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
+        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "KNVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
-        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0200"
+        "title": "Jan Smit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20Smit",
+        "pubdate": "Thu, 20 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Waalse Pijl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Waalse%20Pijl",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Raoul Heertje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Raoul%20Heertje",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Koningsdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KNVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

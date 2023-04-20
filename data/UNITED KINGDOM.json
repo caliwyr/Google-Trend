@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 21:55:37",
+  "lastUpdate": "20-04-2023 , 22:11:40",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "West Ham vs Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Ham%20vs%20Gent",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Serie%20A",
+        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "GLASTONBURY resale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#GLASTONBURY%20resale",
         "pubdate": "Thu, 20 Apr 2023 18:00:00 +0100"
@@ -40,13 +54,6 @@
       {
         "title": "Donny Osmond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Donny%20Osmond",
-        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Ham%20vs%20Gent",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0100"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Juventus",
-        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Michael%20Schumacher",
         "pubdate": "Thu, 20 Apr 2023 13:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Frank Ocean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Frank%20Ocean",
         "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pamela Chopra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pamela%20Chopra",
+        "pubdate": "Thu, 20 Apr 2023 18:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Pamela Chopra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pamela%20Chopra",
-        "pubdate": "Thu, 20 Apr 2023 18:00:00 +0100"
+        "title": "The Diplomat Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Diplomat%20Netflix",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Cleopatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cleopatra",
-        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesla share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesla%20share%20price",
-        "pubdate": "Thu, 20 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hyde Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hyde%20Park",
         "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cleopatra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cleopatra",
+        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
       }
     ]
   ]
