@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-04-2023 , 11:48:53",
+  "lastUpdate": "20-04-2023 , 11:58:16",
   "data": [
+    [
+      {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
+        "pubdate": "Thu, 20 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Gordon Brown",
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "John Mayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Mayer",
+        "pubdate": "Wed, 19 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Neymar",
         "pubdate": "Wed, 19 Apr 2023 19:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "John Mayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Mayer",
-        "pubdate": "Wed, 19 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Covenant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Covenant",
         "pubdate": "Wed, 19 Apr 2023 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
         "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Napoli",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
