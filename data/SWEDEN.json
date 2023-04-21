@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 14:51:00",
+  "lastUpdate": "21-04-2023 , 15:00:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Hedda Stiernstedt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hedda%20Stiernstedt",
         "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oskar Stål Lyrenäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oskar%20St%C3%A5l%20Lyren%C3%A4s",
+        "pubdate": "Fri, 21 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "P27",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P27",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Allsvensk stjärna fast för grov rattfylla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvensk%20stj%C3%A4rna%20fast%20f%C3%B6r%20grov%20rattfylla",
         "pubdate": "Fri, 21 Apr 2023 14:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Skellefteå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
-        "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
+        "title": "P27",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P27",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
-        "pubdate": "Thu, 20 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inter",
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Thu, 20 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Nividas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nividas",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "4/20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#4/20",
+        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
       }
     ]
   ]

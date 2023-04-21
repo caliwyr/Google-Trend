@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 14:51:00",
+  "lastUpdate": "21-04-2023 , 15:00:27",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "San Bernardino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#San%20Bernardino",
         "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aid",
+        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Unrecord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unrecord",
-        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trauffer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trauffer",
         "pubdate": "Fri, 21 Apr 2023 15:00:00 +0200"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Fin du ramadan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fin%20du%20ramadan",
-        "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
+        "title": "Unrecord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unrecord",
+        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
+        "title": "Serie-A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie-A",
         "pubdate": "Thu, 20 Apr 2023 19:00:00 +0200"
       }
     ],
