@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-04-2023 , 23:52:00",
+  "lastUpdate": "21-04-2023 , 00:32:10",
   "data": [
-    [
-      {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LIV%20Golf",
-        "pubdate": "Fri, 21 Apr 2023 01:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Sevilla vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sevilla%20vs%20Man%20United",
         "pubdate": "Fri, 21 Apr 2023 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "LIV Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LIV%20Golf",
+        "pubdate": "Fri, 21 Apr 2023 01:00:00 +1000"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Juventus",
         "pubdate": "Fri, 21 Apr 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Optus class action",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Optus%20class%20action",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 +1000"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "The Diplomat Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Diplomat%20Netflix",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "RBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
         "pubdate": "Thu, 20 Apr 2023 11:00:00 +1000"
@@ -125,20 +139,6 @@
         "title": "Jack Wighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jack%20Wighton",
         "pubdate": "Thu, 20 Apr 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Lunar eclipse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lunar%20eclipse",
-        "pubdate": "Thu, 20 Apr 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "The Diplomat Netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Diplomat%20Netflix",
-        "pubdate": "Thu, 20 Apr 2023 21:00:00 +1000"
       }
     ]
   ]
