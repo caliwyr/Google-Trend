@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 16:54:13",
+  "lastUpdate": "21-04-2023 , 17:08:54",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Bjørnar Skjæran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnar%20Skj%C3%A6ran",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vestre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vestre",
+        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Eid Mubarak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eid%20Mubarak",
-        "pubdate": "Thu, 20 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Thu, 20 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SpaceX",
-        "pubdate": "Thu, 20 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "Jan Christian Vestre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jan%20Christian%20Vestre",
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SpaceX",
         "pubdate": "Thu, 20 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -83,6 +76,13 @@
         "title": "Hanne Ørstavik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hanne%20%C3%98rstavik",
         "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jan Christian Vestre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jan%20Christian%20Vestre",
+        "pubdate": "Thu, 20 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Streiken er over",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Streiken%20er%20over",
-        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0200"
+        "title": "Tyssedal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tyssedal",
+        "pubdate": "Thu, 20 Apr 2023 11:00:00 +0200"
       }
     ]
   ]
