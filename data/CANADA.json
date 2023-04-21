@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-04-2023 , 13:53:06",
+  "lastUpdate": "21-04-2023 , 14:07:14",
   "data": [
     [
       {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
         "pubdate": "Fri, 21 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Kawhi Leonard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kawhi%20Leonard",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0400"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Elon Musk Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter",
-        "pubdate": "Fri, 21 Apr 2023 00:00:00 -0400"
+        "title": "Mike Lindell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mike%20Lindell",
+        "pubdate": "Fri, 21 Apr 2023 07:00:00 -0400"
       }
     ],
     [
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Elon Musk Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter",
+        "pubdate": "Fri, 21 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Patrick Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patrick%20Stewart",
         "pubdate": "Fri, 21 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Joel Embiid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joel%20Embiid",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0400"
       }
     ],
     [
@@ -66,8 +87,8 @@
     ],
     [
       {
-        "title": "Eid 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eid%202023",
+        "title": "Eid Mubarak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eid%20Mubarak",
         "pubdate": "Thu, 20 Apr 2023 02:00:00 -0400"
       }
     ],
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Pamela Chopra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pamela%20Chopra",
-        "pubdate": "Thu, 20 Apr 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Sevilla vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sevilla%20vs%20Man%20United",
         "pubdate": "Thu, 20 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dead Island 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dead%20Island%202",
-        "pubdate": "Thu, 20 Apr 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Frank Ocean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Frank%20Ocean",
-        "pubdate": "Thu, 20 Apr 2023 14:00:00 -0400"
       }
     ]
   ]
