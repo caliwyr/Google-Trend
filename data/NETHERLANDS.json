@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-04-2023 , 20:54:12",
+  "lastUpdate": "21-04-2023 , 21:08:30",
   "data": [
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Rob de Nijs",
@@ -20,6 +27,20 @@
         "title": "Volendam - Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam%20-%20Cambuur",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Richard de Mos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Richard%20de%20Mos",
+        "pubdate": "Fri, 21 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,6 +87,13 @@
     ],
     [
       {
+        "title": "ARSENAL - SOUTHAMPTON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ARSENAL%20-%20SOUTHAMPTON",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gorinchem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gorinchem",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Thu, 20 Apr 2023 07:00:00 +0200"
+        "title": "Almere City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Jan Smit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20Smit",
-        "pubdate": "Thu, 20 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Inter",
         "pubdate": "Wed, 19 Apr 2023 22:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "RTV Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Utrecht",
         "pubdate": "Wed, 19 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Metallica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Metallica",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ICNG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ICNG",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gordon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gordon",
-        "pubdate": "Tue, 18 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
