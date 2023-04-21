@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 00:32:10",
+  "lastUpdate": "21-04-2023 , 01:49:19",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Tesla share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tesla%20share%20price",
-        "pubdate": "Fri, 21 Apr 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Cleopatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cleopatra",
-        "pubdate": "Fri, 21 Apr 2023 01:00:00 +1000"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serie%20A",
+        "pubdate": "Fri, 21 Apr 2023 08:00:00 +1000"
       }
     ],
     [
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Juventus",
-        "pubdate": "Fri, 21 Apr 2023 08:00:00 +1000"
+        "title": "Tesla share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tesla%20share%20price",
+        "pubdate": "Fri, 21 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Cleopatra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cleopatra",
+        "pubdate": "Fri, 21 Apr 2023 01:00:00 +1000"
       }
     ],
     [
@@ -66,6 +66,20 @@
     ],
     [
       {
+        "title": "BuzzFeed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BuzzFeed",
+        "pubdate": "Fri, 21 Apr 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Schumacher",
+        "pubdate": "Fri, 21 Apr 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Moonbin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moonbin",
         "pubdate": "Thu, 20 Apr 2023 04:00:00 +1000"
@@ -75,7 +89,7 @@
       {
         "title": "Eid 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eid%202023",
-        "pubdate": "Thu, 20 Apr 2023 17:00:00 +1000"
+        "pubdate": "Thu, 20 Apr 2023 14:00:00 +1000"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SpaceX",
         "pubdate": "Thu, 20 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
-        "pubdate": "Thu, 20 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "RBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
-        "pubdate": "Thu, 20 Apr 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Jack Wighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jack%20Wighton",
         "pubdate": "Thu, 20 Apr 2023 11:00:00 +1000"
       }
     ]
