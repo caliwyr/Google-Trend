@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 15:47:30",
+  "lastUpdate": "21-04-2023 , 15:56:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "As roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#As%20roma",
         "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ryan%20Garcia",
+        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Gulyás Gergely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20Gergely",
         "pubdate": "Fri, 21 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ryan Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ryan%20Garcia",
-        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20A",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Matthew McConaughey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Matthew%20McConaughey",
         "pubdate": "Thu, 20 Apr 2023 17:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Union saint-gilloise–leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Union%20saint-gilloise%E2%80%93leverkusen",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AZ Alkmaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
-        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mol Campus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mol%20Campus",
-        "pubdate": "Thu, 20 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
