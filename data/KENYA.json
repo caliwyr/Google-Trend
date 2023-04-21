@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-04-2023 , 21:57:39",
+  "lastUpdate": "21-04-2023 , 22:14:44",
   "data": [
     [
       {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPL",
+        "title": "Epl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Eid Mubarak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eid%20Mubarak",
-        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0300"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Angers vs PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Angers%20vs%20PSG",
         "pubdate": "Fri, 21 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eid Mubarak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eid%20Mubarak",
+        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0300"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Ajaccio vs Brest prediction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ajaccio%20vs%20Brest%20prediction",
-        "pubdate": "Fri, 21 Apr 2023 06:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Brighton vs Man United prediction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton%20vs%20Man%20United%20prediction",
         "pubdate": "Fri, 21 Apr 2023 02:00:00 +0300"
@@ -94,9 +87,23 @@
     ],
     [
       {
+        "title": "Ajaccio vs Brest prediction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ajaccio%20vs%20Brest%20prediction",
+        "pubdate": "Fri, 21 Apr 2023 06:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Elon%20Musk",
         "pubdate": "Fri, 21 Apr 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bologna",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bologna",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0300"
+        "title": "Kiraitu Murungi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kiraitu%20Murungi",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Golden State Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Golden%20State%20Warriors",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Saudi Arabia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Saudi%20Arabia",
-        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0300"
       }
     ]
   ]
