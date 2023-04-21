@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 01:49:28",
+  "lastUpdate": "21-04-2023 , 02:24:43",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#City",
-        "pubdate": "Thu, 20 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern",
         "pubdate": "Thu, 20 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fiorentina",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0300"
       }
     ]
   ]

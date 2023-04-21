@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 01:49:23",
+  "lastUpdate": "21-04-2023 , 02:24:38",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sevilla",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Serie%20A",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "The Diplomat Netflix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Diplomat%20Netflix",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PRIME drink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PRIME%20drink",
-        "pubdate": "Thu, 20 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Maguire",
-        "pubdate": "Thu, 20 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "420",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#420",
         "pubdate": "Thu, 20 Apr 2023 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Sporting vs Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sporting%20vs%20Juventus",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Conor Benn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Conor%20Benn",
+        "pubdate": "Thu, 20 Apr 2023 23:00:00 +0100"
       }
     ]
   ]
