@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 08:56:43",
+  "lastUpdate": "21-04-2023 , 09:13:59",
   "data": [
     [
       {
@@ -75,7 +75,7 @@
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Serie%20A",
-        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Juventus",
+        "pubdate": "Thu, 20 Apr 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "The Diplomat Netflix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Diplomat%20Netflix",
         "pubdate": "Thu, 20 Apr 2023 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Pamela Chopra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pamela%20Chopra",
         "pubdate": "Thu, 20 Apr 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Leah Williamson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leah%20Williamson",
-        "pubdate": "Thu, 20 Apr 2023 08:00:00 +0100"
       }
     ]
   ]
