@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 16:56:03",
+  "lastUpdate": "22-04-2023 , 17:10:56",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Lorenzo Viotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lorenzo%20Viotti",
-        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Sat, 22 Apr 2023 17:00:00 +0200"
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Koning Willem-Alexander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koning%20Willem-Alexander",
+        "title": "Lorenzo Viotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lorenzo%20Viotti",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
@@ -48,6 +41,13 @@
         "title": "Luik-Bastenaken-Luik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luik-Bastenaken-Luik",
         "pubdate": "Sat, 22 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koning Willem-Alexander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koning%20Willem-Alexander",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Ria Valk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ria%20Valk",
-        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
         "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wiersma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wiersma",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "De Mos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Mos",
-        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "ADO Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
         "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Volendam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam",
         "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ten Hag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ten%20Hag",
+        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Starship",
+        "pubdate": "Thu, 20 Apr 2023 16:00:00 +0200"
       }
     ]
   ]

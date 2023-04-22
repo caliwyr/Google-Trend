@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "22-04-2023 , 16:55:57",
+  "lastUpdate": "22-04-2023 , 17:10:48",
   "data": [
-    [
-      {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Sat, 22 Apr 2023 02:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Climate change",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Climate%20change",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+        "pubdate": "Sat, 22 Apr 2023 02:00:00 -0400"
       }
     ],
     [
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
         "pubdate": "Sat, 22 Apr 2023 02:00:00 -0400"
       }
     ],
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Jimmy Kimmel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Kimmel",
-        "pubdate": "Sat, 22 Apr 2023 00:00:00 -0400"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
+        "pubdate": "Sat, 22 Apr 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "David Choe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Choe",
-        "pubdate": "Sat, 22 Apr 2023 06:00:00 -0400"
+        "title": "Jimmy Kimmel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Kimmel",
+        "pubdate": "Sat, 22 Apr 2023 00:00:00 -0400"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Nate Diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nate%20Diaz",
+        "pubdate": "Sat, 22 Apr 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Justin Trudeau news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Trudeau%20news",
         "pubdate": "Sat, 22 Apr 2023 02:00:00 -0400"
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "AHL playoffs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AHL%20playoffs",
+        "pubdate": "Sat, 22 Apr 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Prince",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prince",
         "pubdate": "Sat, 22 Apr 2023 04:00:00 -0400"
@@ -90,13 +104,6 @@
         "title": "Ime Udoka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ime%20Udoka",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Eid Mubarak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eid%20Mubarak",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ghosted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ghosted",
         "pubdate": "Fri, 21 Apr 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "OHL draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#OHL%20draft%202023",
-        "pubdate": "Fri, 21 Apr 2023 00:00:00 -0400"
       }
     ]
   ]
