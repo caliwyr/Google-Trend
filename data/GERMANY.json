@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 10:57:17",
+  "lastUpdate": "22-04-2023 , 11:11:57",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
@@ -27,6 +34,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
         "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Darmstadt 98",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
+        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Starship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starship",
-        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
+        "title": "Let's Dance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Let's%20Dance",
+        "pubdate": "Thu, 20 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Let's Dance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Let's%20Dance",
-        "pubdate": "Thu, 20 Apr 2023 16:00:00 +0200"
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starship",
+        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
       }
     ],
     [
