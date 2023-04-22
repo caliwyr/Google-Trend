@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 00:26:38",
+  "lastUpdate": "22-04-2023 , 01:46:55",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
         "pubdate": "Sat, 22 Apr 2023 06:00:00 +1000"
       }
     ],
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
-        "pubdate": "Sat, 22 Apr 2023 03:00:00 +1000"
+        "title": "Premier League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League%20table",
+        "pubdate": "Sat, 22 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Dominic Raab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dominic%20Raab",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Montevideo Maru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Montevideo%20Maru",
+        "pubdate": "Sat, 22 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elon%20Musk",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Mahercorp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mahercorp",
-        "pubdate": "Fri, 21 Apr 2023 18:00:00 +1000"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Conference%20League",
+        "pubdate": "Fri, 21 Apr 2023 10:00:00 +1000"
       }
     ]
   ]
