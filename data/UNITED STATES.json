@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 04:51:43",
+  "lastUpdate": "22-04-2023 , 05:03:34",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-        "pubdate": "Fri, 21 Apr 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
         "pubdate": "Fri, 21 Apr 2023 18:00:00 -0700"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Jameson Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jameson%20Williams",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Fri, 21 Apr 2023 04:00:00 -0700"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Jameson Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jameson%20Williams",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Kawhi Leonard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kawhi%20Leonard",
         "pubdate": "Fri, 21 Apr 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Ghosted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ghosted",
+        "pubdate": "Fri, 21 Apr 2023 00:00:00 -0700"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Prince",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prince",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
+        "title": "Ted Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Cruz",
+        "pubdate": "Fri, 21 Apr 2023 11:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Ted Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Cruz",
-        "pubdate": "Fri, 21 Apr 2023 11:00:00 -0700"
+        "title": "Prince",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prince",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tom Brady",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Brady",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nick Nurse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nick%20Nurse",
-        "pubdate": "Fri, 21 Apr 2023 12:00:00 -0700"
       }
     ]
   ]
