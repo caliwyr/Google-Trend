@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-04-2023 , 14:54:35",
+  "lastUpdate": "22-04-2023 , 15:10:05",
   "data": [
+    [
+      {
+        "title": "Minnesota Wild",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Minnesota%20Wild",
+        "pubdate": "Sat, 22 Apr 2023 07:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Nuggets",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Record Store Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Record%20Store%20Day",
-        "pubdate": "Sat, 22 Apr 2023 00:00:00 -0700"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
+        "pubdate": "Sat, 22 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FA%20Cup",
-        "pubdate": "Sat, 22 Apr 2023 05:00:00 -0700"
+        "title": "Record Store Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Record%20Store%20Day",
+        "pubdate": "Sat, 22 Apr 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Record Store Day 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Record%20Store%20Day%202023",
+        "pubdate": "Sat, 22 Apr 2023 06:00:00 -0700"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Ghosted movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ghosted%20movie",
-        "pubdate": "Fri, 21 Apr 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Russell Westbrook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Westbrook",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 -0700"
@@ -132,13 +139,6 @@
         "title": "Islanders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Islanders",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rangers",
-        "pubdate": "Fri, 21 Apr 2023 03:00:00 -0700"
       }
     ]
   ]
