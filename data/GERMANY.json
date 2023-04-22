@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "22-04-2023 , 11:49:13",
+  "lastUpdate": "22-04-2023 , 11:58:41",
   "data": [
-    [
-      {
-        "title": "Klimaschutz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klimaschutz",
-        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ewald Arenz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ewald%20Arenz",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
+        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ramadan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ramadan",
         "pubdate": "Fri, 21 Apr 2023 12:00:00 +0200"
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
+        "title": "Thomas Gottschalk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
       }
     ],
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Thomas Gottschalk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
-        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
+        "title": "Hamburger SV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburger%20SV",
+        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
         "pubdate": "Thu, 20 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Stefanie Giesinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefanie%20Giesinger",
-        "pubdate": "Thu, 20 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
         "pubdate": "Wed, 19 Apr 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Stuckrad-Barre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuckrad-Barre",
         "pubdate": "Wed, 19 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WDR",
+        "pubdate": "Wed, 19 Apr 2023 08:00:00 +0200"
       }
     ]
   ]

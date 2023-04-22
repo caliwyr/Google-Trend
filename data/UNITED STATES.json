@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 11:49:10",
+  "lastUpdate": "22-04-2023 , 11:58:37",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Ghosted movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ghosted%20movie",
+        "pubdate": "Fri, 21 Apr 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Epl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Epl",
         "pubdate": "Fri, 21 Apr 2023 14:00:00 -0700"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Prince",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prince",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Odell Beckham Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Odell%20Beckham%20Jr",
         "pubdate": "Fri, 21 Apr 2023 14:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Norman Powell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Norman%20Powell",
-        "pubdate": "Fri, 21 Apr 2023 01:00:00 -0700"
+        "title": "Prince",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prince",
+        "pubdate": "Fri, 21 Apr 2023 09:00:00 -0700"
       }
     ]
   ]
