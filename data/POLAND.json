@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-04-2023 , 23:51:24",
+  "lastUpdate": "22-04-2023 , 00:26:46",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Premier%20League",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dzień Ziemi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Ziemi",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -17,23 +24,16 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wisła Płock – Jagiellonia Białystok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wis%C5%82a%20P%C5%82ock%20%E2%80%93%20Jagiellonia%20Bia%C5%82ystok",
         "pubdate": "Fri, 21 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal – Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal%20%E2%80%93%20Southampton",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Grzegorz Ciechowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grzegorz%20Ciechowski",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sanah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sanah",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
@@ -111,6 +104,13 @@
         "title": "AS Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AS%20Roma",
         "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tomasz Lis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Lis",
+        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "21 kwietnia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#21%20kwietnia",
-        "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
+        "title": "Małgorzata Tomaszewska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Tomaszewska",
+        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
       }
     ]
   ]
