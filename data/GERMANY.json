@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-04-2023 , 06:49:52",
+  "lastUpdate": "22-04-2023 , 06:59:07",
   "data": [
     [
       {
         "title": "Klimaschutz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klimaschutz",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,20 +38,6 @@
     ],
     [
       {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HSV Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV%20Pauli",
-        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Belgorod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgorod",
         "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Ramadan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ramadan",
         "pubdate": "Fri, 21 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Darmstadt 98",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
+        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "title": "HSV St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV%20St.%20Pauli",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
       }
     ],
