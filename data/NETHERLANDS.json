@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 19:54:37",
+  "lastUpdate": "22-04-2023 , 20:10:29",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Sat, 22 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Groningen  NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groningen%20%20NEC",
+        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Lorenzo Viotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lorenzo%20Viotti",
-        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wrexham",
         "pubdate": "Sat, 22 Apr 2023 20:00:00 +0200"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Luik-Bastenaken-Luik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luik-Bastenaken-Luik",
-        "pubdate": "Sat, 22 Apr 2023 13:00:00 +0200"
+        "title": "Lorenzo Viotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lorenzo%20Viotti",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Groningen-NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groningen-NEC",
-        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0200"
+        "title": "Luik-Bastenaken-Luik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luik-Bastenaken-Luik",
+        "pubdate": "Sat, 22 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "PSV Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Ajax",
+        "title": "PSV-Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-Ajax",
         "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "UEFA Youth League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UEFA%20Youth%20League",
-        "pubdate": "Fri, 21 Apr 2023 18:00:00 +0200"
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ADO Den Haag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
+        "title": "AZ Youth League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20Youth%20League",
+        "pubdate": "Fri, 21 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
