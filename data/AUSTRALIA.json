@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 20:52:23",
+  "lastUpdate": "22-04-2023 , 21:05:09",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Australian citizenship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20citizenship",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Climate change",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Climate%20change",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +1000"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Geelong vs Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20vs%20Sydney",
-        "pubdate": "Sat, 22 Apr 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Port Adelaide vs West Coast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Port%20Adelaide%20vs%20West%20Coast",
         "pubdate": "Sat, 22 Apr 2023 14:00:00 +1000"
@@ -69,6 +69,13 @@
         "title": "Montevideo Maru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Montevideo%20Maru",
         "pubdate": "Sat, 22 Apr 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Geelong Cats",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20Cats",
+        "pubdate": "Sat, 22 Apr 2023 22:00:00 +1000"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic",
-        "pubdate": "Sat, 22 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Chase DeMoor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chase%20DeMoor",
         "pubdate": "Sat, 22 Apr 2023 21:00:00 +1000"
       }
     ]
