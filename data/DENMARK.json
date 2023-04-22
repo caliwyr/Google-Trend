@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 01:46:57",
+  "lastUpdate": "22-04-2023 , 02:24:44",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Dodo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dodo",
+        "title": "Ghosted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ghosted",
         "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
-        "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
+        "title": "Dodo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dodo",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
+        "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Belgorod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Belgorod",
         "pubdate": "Fri, 21 Apr 2023 13:00:00 +0200"
@@ -69,13 +76,6 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roma",
         "pubdate": "Fri, 21 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ghosted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ghosted",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SpaceX",
-        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sevilla  Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sevilla%20%20Man%20utd",
         "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
@@ -115,15 +108,15 @@
     ],
     [
       {
-        "title": "Madison Beer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madison%20Beer",
-        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SpaceX",
+        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
+        "title": "Madison Beer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madison%20Beer",
         "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Dead Island 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dead%20Island%202",
         "pubdate": "Thu, 20 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
+        "pubdate": "Thu, 20 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

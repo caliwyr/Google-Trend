@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 01:47:00",
+  "lastUpdate": "22-04-2023 , 02:24:49",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Weski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weski",
-        "pubdate": "Fri, 21 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Minister Wiersma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Minister%20Wiersma",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
+        "title": "PSV Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Ajax",
+        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSV Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Ajax",
-        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
+        "title": "Vandaag Inside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vandaag%20Inside",
+        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Thu, 20 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Suikerfeest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suikerfeest",
+        "pubdate": "Thu, 20 Apr 2023 15:00:00 +0200"
       }
     ]
   ]
