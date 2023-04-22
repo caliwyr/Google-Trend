@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 17:52:19",
+  "lastUpdate": "22-04-2023 , 18:06:54",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA%20Cup",
+        "pubdate": "Sat, 22 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
         "pubdate": "Sat, 22 Apr 2023 18:00:00 +0200"
@@ -48,6 +55,13 @@
         "title": "FC Winterthur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
         "pubdate": "Sat, 22 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool gegen Nottingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Nottingham",
+        "pubdate": "Sat, 22 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Sat, 22 Apr 2023 13:00:00 +0200"
+        "title": "Dortmund gegen Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20gegen%20Eintracht%20Frankfurt",
+        "pubdate": "Sat, 22 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,9 +101,23 @@
     ],
     [
       {
+        "title": "Barry Humphries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barry%20Humphries",
+        "pubdate": "Sat, 22 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cupra Tavascan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cupra%20Tavascan",
         "pubdate": "Sat, 22 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Earth Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Earth%20Day",
+        "pubdate": "Sat, 22 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Earth Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Earth%20Day",
-        "pubdate": "Sat, 22 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ATP Barcelone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Barcelone",
-        "pubdate": "Sat, 22 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
         "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mona Vetsch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mona%20Vetsch",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20Conference%20League",
-        "pubdate": "Fri, 21 Apr 2023 06:00:00 +0200"
       }
     ]
   ]
