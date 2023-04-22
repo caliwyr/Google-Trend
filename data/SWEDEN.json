@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 08:54:57",
+  "lastUpdate": "22-04-2023 , 09:10:11",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Molly sanden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Molly%20sanden",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Strängnäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Str%C3%A4ngn%C3%A4s",
+        "pubdate": "Sat, 22 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Modo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo",
+        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Skellefteå AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
@@ -73,23 +87,9 @@
     ],
     [
       {
-        "title": "Modo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo",
-        "pubdate": "Fri, 21 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tareq Taylor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
         "pubdate": "Fri, 21 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IFK Norrköping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
-        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Skellefteå Växjö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20V%C3%A4xj%C3%B6",
-        "pubdate": "Fri, 21 Apr 2023 07:00:00 +0200"
+        "title": "IFK Norrköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
+        "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
       }
     ],
     [

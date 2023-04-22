@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 08:54:52",
+  "lastUpdate": "22-04-2023 , 09:10:07",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Noi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Noi",
+        "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter Skriniar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20Skriniar",
         "pubdate": "Sat, 22 Apr 2023 03:00:00 +0200"
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "Terremoto catania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20catania",
+        "title": "Terremoto Catania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20Catania",
+        "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cambiamento climatico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cambiamento%20climatico",
         "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -52,15 +66,8 @@
     ],
     [
       {
-        "title": "Reggina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Angers,  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angers,%20%20PSG",
+        "title": "Angers  Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angers%20%20Psg",
         "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Valentino Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valentino%20Rossi",
+        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Novak%20Djokovic",
         "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Preside arrestata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Preside%20arrestata",
         "pubdate": "Fri, 21 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Valentino Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valentino%20Rossi",
-        "pubdate": "Fri, 21 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stefania Sandrelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stefania%20Sandrelli",
-        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
