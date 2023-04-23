@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 09:48:50",
+  "lastUpdate": "23-04-2023 , 09:58:01",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
         "pubdate": "Sun, 23 Apr 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kawhi Leonard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kawhi%20Leonard",
+        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0100"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Famalicão-Marítimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o-Mar%C3%ADtimo",
-        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0100"
+        "title": "Real Madrid  Celta de Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Celta%20de%20Vigo",
+        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Real Madrid  Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Celta%20de%20Vigo",
-        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0100"
+        "title": "Famalicão-Marítimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o-Mar%C3%ADtimo",
+        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oliveirense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliveirense",
         "pubdate": "Sat, 22 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Messi",
-        "pubdate": "Sat, 22 Apr 2023 21:00:00 +0100"
       }
     ]
   ]
