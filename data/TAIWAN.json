@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-04-2023 , 06:48:43",
+  "lastUpdate": "23-04-2023 , 06:57:57",
   "data": [
     [
       {
         "title": "湖人",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B9%96%E4%BA%BA",
         "pubdate": "Sun, 23 Apr 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "林俊逸",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E4%BF%8A%E9%80%B8",
+        "pubdate": "Sun, 23 Apr 2023 12:00:00 +0800"
       }
     ],
     [
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "趙詠華",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%99%E8%A9%A0%E8%8F%AF",
-        "pubdate": "Sun, 23 Apr 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "韓國瑜",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
-        "pubdate": "Sun, 23 Apr 2023 11:00:00 +0800"
+        "title": "Stinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Stinger",
+        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "盧沙野",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%9B%A7%E6%B2%99%E9%87%8E",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "韓國瑜",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
+        "pubdate": "Sun, 23 Apr 2023 11:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Beef",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Beef",
         "pubdate": "Sat, 22 Apr 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "台泥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E6%B3%A5",
-        "pubdate": "Sat, 22 Apr 2023 02:00:00 +0800"
       }
     ]
   ]
