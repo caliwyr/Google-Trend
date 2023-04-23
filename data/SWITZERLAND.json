@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-04-2023 , 12:52:27",
+  "lastUpdate": "23-04-2023 , 13:07:31",
   "data": [
     [
       {
         "title": "Anna Loos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anna%20Loos",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
-        "pubdate": "Sun, 23 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Nate Diaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nate%20Diaz",
-        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Sun, 23 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "London Marathon 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#London%20Marathon%202023",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nate Diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nate%20Diaz",
+        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,20 @@
     ],
     [
       {
+        "title": "Liege Bastogne liege",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liege%20Bastogne%20liege",
+        "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schwingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwingen",
+        "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Klimaschutz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klimaschutz",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
@@ -82,7 +96,14 @@
       {
         "title": "Mainz gegen Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mainz%20gegen%20Bayern",
-        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
+        "pubdate": "Sat, 22 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,15 +129,8 @@
     ],
     [
       {
-        "title": "Young Boys gegen Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Boys%20gegen%20Servette",
-        "pubdate": "Sat, 22 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher Interview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher%20Interview",
+        "title": "Michael Schumacher interview",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher%20interview",
         "pubdate": "Sat, 22 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Barry Humphries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barry%20Humphries",
         "pubdate": "Sat, 22 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Sat, 22 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
