@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 03:49:00",
+  "lastUpdate": "23-04-2023 , 03:58:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Premier league",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20league",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20V%C3%A5lerenga",
+        "pubdate": "Sat, 22 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Siddisløpet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Siddisl%C3%B8pet",
+        "pubdate": "Sat, 22 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ingrid Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Alexandra",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Id mubarak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Id%20mubarak",
         "pubdate": "Fri, 21 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sisu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sisu",
-        "pubdate": "Fri, 21 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo Spektrum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Spektrum",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
