@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 21:44:49",
+  "lastUpdate": "23-04-2023 , 21:54:16",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Steaua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
-        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus - Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus%20-%20Napoli",
         "pubdate": "Sun, 23 Apr 2023 22:00:00 +0300"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Gheorghe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe",
-        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0300"
+        "title": "Steaua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
+        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0300"
       }
     ],
     [
@@ -108,9 +101,23 @@
     ],
     [
       {
-        "title": "Loto 6/49 23 aprilie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loto%206/49%2023%20aprilie%202023",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0300"
+        "title": "Gheorghe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe",
+        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Reynolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ryan%20Reynolds",
+        "pubdate": "Sun, 23 Apr 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Horoscop 23 aprilie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2023%20aprilie%202023",
+        "pubdate": "Sun, 23 Apr 2023 10:00:00 +0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Cătălin Măruță",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#C%C4%83t%C4%83lin%20M%C4%83ru%C8%9B%C4%83",
-        "pubdate": "Sun, 23 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Agraria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Agraria",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Adrian Mutu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adrian%20Mutu",
         "pubdate": "Sun, 23 Apr 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cătălin Măruță",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#C%C4%83t%C4%83lin%20M%C4%83ru%C8%9B%C4%83",
+        "pubdate": "Sun, 23 Apr 2023 20:00:00 +0300"
       }
     ]
   ]

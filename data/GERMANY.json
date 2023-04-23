@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 21:44:44",
+  "lastUpdate": "23-04-2023 , 21:54:11",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Öffentlicher Dienst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96ffentlicher%20Dienst",
+        "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verdi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verdi",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
       }
     ],
@@ -38,20 +52,6 @@
     ],
     [
       {
-        "title": "Borussia Mönchengladbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20M%C3%B6nchengladbach",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tarifabschluss öffentlicher dienst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tarifabschluss%20%C3%B6ffentlicher%20dienst",
-        "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oliver Kahn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Kahn",
         "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Heidenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+        "title": "Borussia Mönchengladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20M%C3%B6nchengladbach",
+        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dalai Lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalai%20Lama",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,16 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zendaya",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+        "title": "Polizei Berlin Klimaaktivisten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei%20Berlin%20Klimaaktivisten",
+        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel E",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%20E",
+        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,23 +108,16 @@
     ],
     [
       {
-        "title": "Polizei Berlin Klimaaktivisten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei%20Berlin%20Klimaaktivisten",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
+        "title": "Gladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gladbach",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sofia Richie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sofia%20Richie",
-        "pubdate": "Sun, 23 Apr 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maite Kelly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maite%20Kelly",
-        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zendaya",
+        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "7 vs Wild Staffel 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#7%20vs%20Wild%20Staffel%203",
         "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel E",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%20E",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
       }
     ]
   ]
