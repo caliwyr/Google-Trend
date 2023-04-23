@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2023 , 23:58:25",
+  "lastUpdate": "23-04-2023 , 01:40:01",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Nate Diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nate%20Diaz",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mademoiselle Luna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mademoiselle%20Luna",
-        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burnley",
-        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wrexham",
         "pubdate": "Sat, 22 Apr 2023 22:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burnley",
+        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hippo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hippo",
         "pubdate": "Sat, 22 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
+        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
