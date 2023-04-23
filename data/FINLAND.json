@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 13:51:16",
+  "lastUpdate": "23-04-2023 , 14:00:59",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Lily Collins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lily%20Collins",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sofia Richie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sofia%20Richie",
+        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Belgorod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Belgorod",
         "pubdate": "Fri, 21 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dead Island 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dead%20Island%202",
-        "pubdate": "Fri, 21 Apr 2023 14:00:00 +0300"
       }
     ]
   ]
