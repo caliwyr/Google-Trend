@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "23-04-2023 , 22:52:40",
+  "lastUpdate": "23-04-2023 , 23:06:35",
   "data": [
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+        "pubdate": "Mon, 24 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sifan Hassan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sifan%20Hassan",
+        "pubdate": "Mon, 24 Apr 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "FC Basel",
@@ -10,9 +24,23 @@
     ],
     [
       {
+        "title": "Juventus  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus%20%20Napoli",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tottenham",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -31,30 +59,9 @@
     ],
     [
       {
-        "title": "Juventus  Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus%20%20Napoli",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anna Loos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anna%20Loos",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Empoli 'Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Empoli%20'Inter",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,16 +80,23 @@
     ],
     [
       {
-        "title": "Lugano – Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Sion",
-        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
+        "title": "Juve Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juve%20Napoli",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Juve Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juve%20Napoli",
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
         "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lugano – Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Sion",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
+        "title": "Newcastle gegen Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Newcastle%20gegen%20Tottenham",
+        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Newcastle gegen Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Newcastle%20gegen%20Tottenham",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "FC Thun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
         "pubdate": "Sun, 23 Apr 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lüttich-Bastogne-Lüttich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L%C3%BCttich-Bastogne-L%C3%BCttich",
-        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alcaraz",
-        "pubdate": "Sun, 23 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

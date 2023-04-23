@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-04-2023 , 22:52:36",
+  "lastUpdate": "23-04-2023 , 23:06:31",
   "data": [
-    [
-      {
-        "title": "Milan vs Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20Lecce",
-        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Juventus vs Napoli",
@@ -17,16 +10,23 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
-        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0800"
+        "title": "Milan vs Lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20Lecce",
+        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Brighton vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Man%20United",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Sheffield United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Sheffield%20United",
+        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0800"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Doctor Cha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Doctor%20Cha",
+        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Sofia Richie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sofia%20Richie",
         "pubdate": "Sun, 23 Apr 2023 17:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Climate change",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Climate%20change",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Newcastle%20vs%20Tottenham",
-        "pubdate": "Sat, 22 Apr 2023 21:00:00 +0800"
       }
     ]
   ]
