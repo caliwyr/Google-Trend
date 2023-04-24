@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 12:43:47",
+  "lastUpdate": "24-04-2023 , 13:01:11",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Polární záře",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pol%C3%A1rn%C3%AD%20z%C3%A1%C5%99e",
+        "pubdate": "Mon, 24 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zendaya",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0200"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Pekarová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pekarov%C3%A1",
+        "title": "Finanční správa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Finan%C4%8Dn%C3%AD%20spr%C3%A1va",
         "pubdate": "Mon, 24 Apr 2023 13:00:00 +0200"
       }
     ],
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Suzi Quatro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Suzi%20Quatro",
+        "pubdate": "Sun, 23 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hokej Třinec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20T%C5%99inec",
         "pubdate": "Sun, 23 Apr 2023 11:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Suzi Quatro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Suzi%20Quatro",
-        "pubdate": "Sun, 23 Apr 2023 08:00:00 +0200"
+        "title": "Čarodějnice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Carod%C4%9Bjnice",
+        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Retinol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Retinol",
         "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Čarodějnice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Carod%C4%9Bjnice",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Otmar Brancuzský",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Otmar%20Brancuzsk%C3%BD",
         "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Island",
-        "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
