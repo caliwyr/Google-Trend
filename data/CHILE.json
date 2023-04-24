@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 18:53:14",
+  "lastUpdate": "24-04-2023 , 19:06:29",
   "data": [
     [
       {
@@ -10,16 +10,23 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+        "title": "Expomin 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Expomin%202023",
+        "pubdate": "Mon, 24 Apr 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Temblor Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20Hoy",
         "pubdate": "Mon, 24 Apr 2023 01:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Expomin 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Expomin%202023",
-        "pubdate": "Mon, 24 Apr 2023 09:00:00 -0400"
+        "title": "Dia del Cine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Cine",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 -0400"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Dia del Cine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Cine",
-        "pubdate": "Mon, 24 Apr 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Terremoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto",
-        "pubdate": "Mon, 24 Apr 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Deportes concepcion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20concepcion",
-        "pubdate": "Mon, 24 Apr 2023 09:00:00 -0400"
+        "title": "Fútbol femenino. Colo Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F%C3%BAtbol%20femenino.%20Colo%20Colo",
+        "pubdate": "Mon, 24 Apr 2023 13:00:00 -0400"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Madrid Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Madrid%20Open",
         "pubdate": "Mon, 24 Apr 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Terremoto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto",
+        "pubdate": "Mon, 24 Apr 2023 12:00:00 -0400"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "U catolica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20catolica",
-        "pubdate": "Sun, 23 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Magallanes  Copiapó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20%20Copiap%C3%B3",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 -0400"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Cobresal - Curicó Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20-%20Curic%C3%B3%20Unido",
+        "title": "Isla Mocha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isla%20Mocha",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Cobresal  Curicó Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20%20Curic%C3%B3%20Unido",
         "pubdate": "Sun, 23 Apr 2023 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Isla Mocha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isla%20Mocha",
-        "pubdate": "Sun, 23 Apr 2023 17:00:00 -0400"
+        "title": "Paraguay sub-17  Chile sub-17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paraguay%20sub-17%20%20Chile%20sub-17",
+        "pubdate": "Sun, 23 Apr 2023 18:00:00 -0400"
       }
     ]
   ]
