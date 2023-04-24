@@ -1,17 +1,24 @@
 {
-  "lastUpdate": "24-04-2023 , 04:51:10",
+  "lastUpdate": "24-04-2023 , 05:00:42",
   "data": [
     [
       {
-        "title": "Meb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Meb",
+        "title": "İstanbulspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbulspor",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0300"
       }
     ],
     [
       {
-        "title": "İstanbulspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbulspor",
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter",
+        "pubdate": "Mon, 24 Apr 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "A Spor CANLI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#A%20Spor%20CANLI",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0300"
       }
     ],
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Atatürk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atat%C3%BCrk",
-        "pubdate": "Sun, 23 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Muğla deprem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mu%C4%9Fla%20deprem",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Gomis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gomis",
-        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0300"
+        "title": "Atatürk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atat%C3%BCrk",
+        "pubdate": "Sun, 23 Apr 2023 10:00:00 +0300"
       }
     ]
   ]
