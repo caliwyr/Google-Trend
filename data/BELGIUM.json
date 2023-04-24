@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-04-2023 , 19:54:37",
+  "lastUpdate": "24-04-2023 , 20:10:51",
   "data": [
-    [
-      {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Mon, 24 Apr 2023 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "AA Gent",
@@ -20,6 +13,13 @@
         "title": "KRC Genk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
         "pubdate": "Mon, 24 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Mon, 24 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Jelle Vossen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jelle%20Vossen",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0200"
+        "title": "Tucker Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tucker%20Carlson",
+        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tucker%20Carlson",
-        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozempic",
+        "pubdate": "Mon, 24 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozempic",
-        "pubdate": "Mon, 24 Apr 2023 18:00:00 +0200"
+        "title": "Star Wars Jedi Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Star%20Wars%20Jedi%20Survivor",
+        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -108,23 +108,16 @@
     ],
     [
       {
-        "title": "RSC Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSC%20Anderlecht",
-        "pubdate": "Mon, 24 Apr 2023 15:00:00 +0200"
+        "title": "Len Goodman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Len%20Goodman",
+        "pubdate": "Mon, 24 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Star Wars Jedi Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Star%20Wars%20Jedi%20Survivor",
-        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beker van belgie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beker%20van%20belgie",
-        "pubdate": "Mon, 24 Apr 2023 15:00:00 +0200"
+        "title": "Speed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Speed",
+        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Speed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Speed",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0200"
+        "title": "Djibouti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Djibouti",
+        "pubdate": "Mon, 24 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Giro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Giro",
+        "pubdate": "Mon, 24 Apr 2023 13:00:00 +0200"
       }
     ]
   ]

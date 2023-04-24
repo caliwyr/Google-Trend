@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 19:54:48",
+  "lastUpdate": "24-04-2023 , 20:10:58",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "U Cluj Mioveni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj%20Mioveni",
+        "title": "U Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
         "pubdate": "Mon, 24 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Petrolul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul",
+        "pubdate": "Mon, 24 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Europa FM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20FM",
-        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "BCR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BCR",
         "pubdate": "Mon, 24 Apr 2023 12:00:00 +0300"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "ING",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ING",
-        "pubdate": "Mon, 24 Apr 2023 16:00:00 +0300"
+        "title": "Europa FM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20FM",
+        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Voluntari  Petrolul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Voluntari%20%20Petrolul",
-        "pubdate": "Mon, 24 Apr 2023 20:00:00 +0300"
+        "title": "ING",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ING",
+        "pubdate": "Mon, 24 Apr 2023 16:00:00 +0300"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
+        "pubdate": "Mon, 24 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Radio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radio",
         "pubdate": "Mon, 24 Apr 2023 10:00:00 +0300"
@@ -108,6 +115,20 @@
     ],
     [
       {
+        "title": "Monitorul Oficial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Monitorul%20Oficial",
+        "pubdate": "Mon, 24 Apr 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Tucker Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tucker%20Carlson",
+        "pubdate": "Mon, 24 Apr 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BVB",
         "pubdate": "Mon, 24 Apr 2023 13:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "CSM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM",
         "pubdate": "Mon, 24 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ministerul finantelor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ministerul%20finantelor",
-        "pubdate": "Mon, 24 Apr 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli",
-        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Halep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep",
-        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0300"
       }
     ]
   ]
