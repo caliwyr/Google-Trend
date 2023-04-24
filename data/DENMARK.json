@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 10:48:55",
+  "lastUpdate": "24-04-2023 , 10:58:17",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Fournier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fournier",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Grey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Grey",
         "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
-        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
-        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
+        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Brighton  Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Man%20utd",
         "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Climate change",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Climate%20change",
+        "pubdate": "Sat, 22 Apr 2023 02:00:00 +0200"
       }
     ]
   ]

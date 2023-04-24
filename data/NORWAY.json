@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-04-2023 , 10:49:01",
+  "lastUpdate": "24-04-2023 , 10:58:24",
   "data": [
     [
       {
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
         "pubdate": "Mon, 24 Apr 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lars Monsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lars%20Monsen",
+        "pubdate": "Mon, 24 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Noelle Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Noelle%20Martin",
+        "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liege Bastogne liege",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liege%20Bastogne%20liege",
         "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
@@ -31,30 +45,9 @@
     ],
     [
       {
-        "title": "LSK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
-        "pubdate": "Sun, 23 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Petter Northug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Northug",
         "pubdate": "Sun, 23 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "24 april",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#24%20april",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rosenborg-Sandefjord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg-Sandefjord",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dame Edna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dame%20Edna",
         "pubdate": "Sat, 22 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leeds united",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds%20united",
+        "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
       }
     ]
   ]

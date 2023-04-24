@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-04-2023 , 10:49:04",
+  "lastUpdate": "24-04-2023 , 10:58:28",
   "data": [
+    [
+      {
+        "title": "Office 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Office%20365",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Gervonta Davis",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "FC Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
+        "pubdate": "Mon, 24 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "U18 Eishockey WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U18%20Eishockey%20WM",
         "pubdate": "Mon, 24 Apr 2023 08:00:00 +0200"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
-        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
+        "title": "Chant du Gros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chant%20du%20Gros",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -41,6 +55,13 @@
         "title": "Tibet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tibet",
         "pubdate": "Mon, 24 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Office",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liege Bastogne liege",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liege%20Bastogne%20liege",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
@@ -87,8 +101,22 @@
     ],
     [
       {
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de Romandie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie%202023",
         "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Juve Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juve%20Napoli",
         "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tour de Romandie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie%202023",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20Lecce",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AFC Wrexham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AFC%20Wrexham",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lugano – Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Sion",
-        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

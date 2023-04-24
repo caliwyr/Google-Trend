@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 10:49:02",
+  "lastUpdate": "24-04-2023 , 10:58:25",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Golden State Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Golden%20State%20Warriors",
+        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zendaya",
         "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
@@ -48,6 +55,27 @@
         "title": "Podatek od zbiórek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podatek%20od%20zbi%C3%B3rek",
         "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Majówka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maj%C3%B3wka",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gustaw Holoubek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gustaw%20Holoubek",
+        "pubdate": "Mon, 24 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Straznicy Galaktyki 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Straznicy%20Galaktyki%203",
+        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
-        "title": "Monza – Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monza%20%E2%80%93%20Fiorentina",
-        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
+        "title": "Zorza polarna w Polsce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zorza%20polarna%20w%20Polsce",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Shannen Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Shannen%20Doherty",
-        "pubdate": "Sun, 23 Apr 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Empoli – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Empoli%20%E2%80%93%20Inter",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wrexham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wrexham",
-        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Borussia%20Dortmund",
-        "pubdate": "Sun, 23 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GKS Tychy – GKS Katowice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Tychy%20%E2%80%93%20GKS%20Katowice",
-        "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
+        "title": "KSW 81",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW%2081",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 10:48:53",
+  "lastUpdate": "24-04-2023 , 10:58:14",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brad%20Pitt",
-        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Madrid Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Madrid%20Open",
         "pubdate": "Mon, 24 Apr 2023 01:00:00 +0200"
@@ -31,8 +24,22 @@
     ],
     [
       {
-        "title": "Sturm Graz gegen RB Salzburg!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20gegen%20RB%20Salzburg!",
+        "title": "Kristina Inhof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kristina%20Inhof",
+        "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brad%20Pitt",
+        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturm Graz gegen rb Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20gegen%20rb%20Salzburg",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "LASK gegen Rapid Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20gegen%20Rapid%20Wien",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturm Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz",
-        "pubdate": "Sun, 23 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "GAK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
-        "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
         "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Mönchengladbach gegen Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%B6nchengladbach%20gegen%20Union%20Berlin",
         "pubdate": "Sun, 23 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Denn sie wissen nicht, was passiert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Denn%20sie%20wissen%20nicht,%20was%20passiert",
+        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
