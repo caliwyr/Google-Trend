@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-04-2023 , 21:47:03",
+  "lastUpdate": "24-04-2023 , 21:56:17",
   "data": [
-    [
-      {
-        "title": "MOJE daně",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MOJE%20dan%C4%9B",
-        "pubdate": "Mon, 24 Apr 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "David Křížek",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tucker%20Carlson",
-        "pubdate": "Mon, 24 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Polární záře",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pol%C3%A1rn%C3%AD%20z%C3%A1%C5%99e",
         "pubdate": "Mon, 24 Apr 2023 10:00:00 +0200"
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "Markéta Pekarová Adamová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Pekarov%C3%A1%20Adamov%C3%A1",
+        "pubdate": "Mon, 24 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen",
         "pubdate": "Mon, 24 Apr 2023 09:00:00 +0200"
@@ -62,13 +55,6 @@
         "title": "Finanční správa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Finan%C4%8Dn%C3%AD%20spr%C3%A1va",
         "pubdate": "Mon, 24 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Markéta Pekarová Adamová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Pekarov%C3%A1%20Adamov%C3%A1",
-        "pubdate": "Mon, 24 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Liberec – Brno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Brno",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Suzi Quatro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Suzi%20Quatro",
+        "pubdate": "Sun, 23 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wrexham",
+        "pubdate": "Sun, 23 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
