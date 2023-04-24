@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 09:47:33",
+  "lastUpdate": "24-04-2023 , 09:57:05",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "AGF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AGF",
+        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Van de Zandschulp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Van%20de%20Zandschulp",
         "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Barcelona  atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20atl%C3%A9tico%20Madrid",
+        "title": "Barcelona  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Fournier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fournier",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Grey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Grey",
         "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
@@ -101,16 +101,16 @@
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
-        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
-        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
+        "pubdate": "Sun, 23 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Brighton &  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%26%20%20Man%20utd",
+        "title": "Brighton  Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Man%20utd",
         "pubdate": "Sat, 22 Apr 2023 16:00:00 +0200"
       }
     ]
