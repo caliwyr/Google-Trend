@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 03:48:30",
+  "lastUpdate": "24-04-2023 , 03:57:51",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brighton-Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brighton-Manchester%20United",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Vasco da Gama  Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco%20da%20Gama%20%20Palmeiras",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
         "pubdate": "Sun, 23 Apr 2023 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
         "pubdate": "Sun, 23 Apr 2023 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pogacar",
-        "pubdate": "Sun, 23 Apr 2023 15:00:00 +0100"
       }
     ]
   ]

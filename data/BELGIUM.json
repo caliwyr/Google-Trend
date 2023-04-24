@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 03:48:22",
+  "lastUpdate": "24-04-2023 , 03:57:41",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Charleroi  Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charleroi%20%20Genk",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
@@ -89,6 +82,13 @@
       {
         "title": "Zulte-waregem  Cercle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte-waregem%20%20Cercle",
+        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charleroi  Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charleroi%20%20Genk",
         "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
       }
     ],
