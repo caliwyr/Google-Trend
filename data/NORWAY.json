@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2023 , 13:51:26",
+  "lastUpdate": "24-04-2023 , 14:01:29",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "DNT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNT",
+        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
         "pubdate": "Sun, 23 Apr 2023 20:00:00 +0200"
@@ -69,6 +76,13 @@
         "title": "Petter Northug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Northug",
         "pubdate": "Sun, 23 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rosenborg-Sandefjord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg-Sandefjord",
+        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Premier league",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20league",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brann Vålerenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20V%C3%A5lerenga",
-        "pubdate": "Sat, 22 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Sat, 22 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
