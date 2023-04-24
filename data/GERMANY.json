@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-04-2023 , 22:54:26",
+  "lastUpdate": "24-04-2023 , 23:10:22",
   "data": [
+    [
+      {
+        "title": "Tucker Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tucker%20Carlson",
+        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Letzte Generation",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tucker%20Carlson",
-        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0200"
+        "title": "Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
+        "pubdate": "Mon, 24 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -24,23 +31,9 @@
     ],
     [
       {
-        "title": "Kampf der Realitystars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kampf%20der%20Realitystars",
-        "pubdate": "Mon, 24 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "49-Euro-Ticket kaufen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#49-Euro-Ticket%20kaufen",
         "pubdate": "Mon, 24 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
-        "pubdate": "Mon, 24 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Klimaschutz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klimaschutz",
         "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
+        "pubdate": "Sat, 22 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

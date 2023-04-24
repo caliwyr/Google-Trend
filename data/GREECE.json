@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "24-04-2023 , 22:54:26",
+  "lastUpdate": "24-04-2023 , 23:10:22",
   "data": [
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Roma",
+        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Insurancemarket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Insurancemarket",
+        "pubdate": "Tue, 25 Apr 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "ΤΖΟΚΕΡ",
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "MEGA tv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#MEGA%20tv",
+        "pubdate": "Mon, 24 Apr 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Survivor",
         "pubdate": "Mon, 24 Apr 2023 02:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "Γοογλε",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%BF%CE%BF%CE%B3%CE%BB%CE%B5",
         "pubdate": "Mon, 24 Apr 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Λατινοπουλου",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B1%CF%84%CE%B9%CE%BD%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
-        "pubdate": "Mon, 24 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Πηγη δεβετζη",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B7%CE%B3%CE%B7%20%CE%B4%CE%B5%CE%B2%CE%B5%CF%84%CE%B6%CE%B7",
-        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Piraeus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Piraeus",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0300"
       }
     ]
   ]
