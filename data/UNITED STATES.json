@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2023 , 11:48:35",
+  "lastUpdate": "25-04-2023 , 11:57:50",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "New York Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#New%20York%20Rangers",
         "pubdate": "Tue, 25 Apr 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Colorado football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20football",
+        "pubdate": "Tue, 25 Apr 2023 02:00:00 -0700"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Boston Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20Bruins",
-        "pubdate": "Mon, 24 Apr 2023 03:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Matthew Perry Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matthew%20Perry%20Keanu%20Reeves",
         "pubdate": "Mon, 24 Apr 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Adele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adele",
-        "pubdate": "Mon, 24 Apr 2023 18:00:00 -0700"
       }
     ],
     [
@@ -101,9 +94,16 @@
     ],
     [
       {
-        "title": "Anthony Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anthony%20Davis",
-        "pubdate": "Mon, 24 Apr 2023 23:00:00 -0700"
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adele",
+        "pubdate": "Mon, 24 Apr 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "De'Aaron Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#De'Aaron%20Fox",
+        "pubdate": "Mon, 24 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Simone Biles Jonathan Owens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Simone%20Biles%20Jonathan%20Owens",
         "pubdate": "Mon, 24 Apr 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anthony%20Davis",
+        "pubdate": "Mon, 24 Apr 2023 23:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kim Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kim%20Potter",
         "pubdate": "Mon, 24 Apr 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Al%20Nassr",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 -0700"
       }
     ]
   ]
