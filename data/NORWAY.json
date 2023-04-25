@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2023 , 19:52:00",
+  "lastUpdate": "25-04-2023 , 20:06:13",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
-        "pubdate": "Tue, 25 Apr 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NVE",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
+        "pubdate": "Tue, 25 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Adele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adele",
         "pubdate": "Tue, 25 Apr 2023 16:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Xpeng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heymat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Heymat",
+        "pubdate": "Tue, 25 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bane Nor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bane%20Nor",
         "pubdate": "Mon, 24 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jens Stoltenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
-        "pubdate": "Mon, 24 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
