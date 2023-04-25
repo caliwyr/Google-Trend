@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2023 , 13:56:03",
+  "lastUpdate": "25-04-2023 , 14:12:09",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Earthquake",
+        "pubdate": "Tue, 25 Apr 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Wesak Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wesak%20Day",
         "pubdate": "Tue, 25 Apr 2023 13:00:00 +0800"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Earthquake",
-        "pubdate": "Tue, 25 Apr 2023 05:00:00 +0800"
+        "title": "DuckDuckGo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#DuckDuckGo",
+        "pubdate": "Tue, 25 Apr 2023 04:00:00 +0800"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Dr Muhammad Radzi Abu Hassan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dr%20Muhammad%20Radzi%20Abu%20Hassan",
-        "pubdate": "Tue, 25 Apr 2023 13:00:00 +0800"
+        "title": "Tata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tata",
+        "pubdate": "Tue, 25 Apr 2023 07:00:00 +0800"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Juventus fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20fc",
-        "pubdate": "Tue, 25 Apr 2023 14:00:00 +0800"
+        "title": "Man City vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Arsenal",
+        "pubdate": "Tue, 25 Apr 2023 20:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus",
-        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0800"
+        "title": "Juventus fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20fc",
+        "pubdate": "Tue, 25 Apr 2023 14:00:00 +0800"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus",
+        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Juventus vs Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Napoli",
         "pubdate": "Mon, 24 Apr 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Milan vs Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20Lecce",
-        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "DC vs SRH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#DC%20vs%20SRH",
-        "pubdate": "Mon, 24 Apr 2023 23:00:00 +0800"
       }
     ]
   ]
