@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2023 , 17:56:55",
+  "lastUpdate": "25-04-2023 , 18:17:44",
   "data": [
     [
       {
@@ -10,15 +10,15 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joe%20Biden",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joe%20Biden",
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
       }
     ],
@@ -34,6 +34,13 @@
         "title": "iDEAL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#iDEAL",
         "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nederland in Beweging",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20in%20Beweging",
+        "pubdate": "Tue, 25 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,23 +80,16 @@
     ],
     [
       {
-        "title": "Michelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michelin",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Floor Jansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
-        "pubdate": "Mon, 24 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jong AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20AZ",
         "pubdate": "Mon, 24 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pure C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pure%20C",
+        "pubdate": "Mon, 24 Apr 2023 22:00:00 +0200"
       }
     ],
     [

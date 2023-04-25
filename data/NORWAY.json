@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2023 , 17:56:56",
+  "lastUpdate": "25-04-2023 , 18:17:45",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Avinor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avinor",
+        "pubdate": "Tue, 25 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gardermoen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ALS",
+        "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "NVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NVE",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ALS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ALS",
-        "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rush",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Juventus",
-        "pubdate": "Mon, 24 Apr 2023 01:00:00 +0200"
       }
     ]
   ]
