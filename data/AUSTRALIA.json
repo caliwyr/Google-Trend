@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-04-2023 , 14:54:00",
+  "lastUpdate": "25-04-2023 , 15:10:06",
   "data": [
+    [
+      {
+        "title": "Lionel Richie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lionel%20Richie",
+        "pubdate": "Wed, 26 Apr 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "AFL",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Gallipoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gallipoli",
-        "pubdate": "Tue, 25 Apr 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Don Lemon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Don%20Lemon",
         "pubdate": "Tue, 25 Apr 2023 07:00:00 +1000"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Accused",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Accused",
+        "pubdate": "Tue, 25 Apr 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Glen Powell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Glen%20Powell",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Miami Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Miami%20Heat",
         "pubdate": "Tue, 25 Apr 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Aaron Rodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aaron%20Rodgers",
-        "pubdate": "Tue, 25 Apr 2023 10:00:00 +1000"
       }
     ]
   ]
