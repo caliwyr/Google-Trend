@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "26-04-2023 , 09:53:11",
+  "lastUpdate": "26-04-2023 , 10:08:15",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Wed, 26 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds",
+        "pubdate": "Wed, 26 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Radcliffe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Radcliffe",
+        "pubdate": "Wed, 26 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -20,13 +34,6 @@
         "title": "Nordfjordeid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordfjordeid",
         "pubdate": "Wed, 26 Apr 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Radcliffe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Radcliffe",
-        "pubdate": "Wed, 26 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
-        "pubdate": "Tue, 25 Apr 2023 23:00:00 +0200"
+        "title": "Gardermoen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
+        "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -83,20 +90,6 @@
         "title": "ALS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ALS",
         "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gardermoen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
-        "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo lufthavn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20lufthavn",
-        "pubdate": "Tue, 25 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Xpeng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toni garrn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toni%20garrn",
+        "pubdate": "Tue, 25 Apr 2023 07:00:00 +0200"
       }
     ]
   ]
