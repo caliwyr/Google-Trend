@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-04-2023 , 15:44:38",
+  "lastUpdate": "26-04-2023 , 15:53:53",
   "data": [
+    [
+      {
+        "title": "Eliana Burki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliana%20Burki",
+        "pubdate": "Wed, 26 Apr 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Arsenal",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga",
-        "pubdate": "Wed, 26 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bienne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bienne",
         "pubdate": "Wed, 26 Apr 2023 11:00:00 +0200"
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Eliane Burki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliane%20Burki",
-        "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
+        "title": "Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga",
+        "pubdate": "Wed, 26 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roche",
+        "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Zahnarzt Birr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zahnarzt%20Birr",
-        "pubdate": "Tue, 25 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yann Sommer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yann%20Sommer",
-        "pubdate": "Tue, 25 Apr 2023 20:00:00 +0200"
+        "title": "Tour de Romandie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie",
+        "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
