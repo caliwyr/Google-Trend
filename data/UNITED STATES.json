@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-04-2023 , 08:46:51",
+  "lastUpdate": "26-04-2023 , 08:56:18",
   "data": [
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Billie%20Eilish",
+        "pubdate": "Wed, 26 Apr 2023 01:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Harry Belafonte",
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Daniel Radcliffe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Radcliffe",
+        "pubdate": "Tue, 25 Apr 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "MSFT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSFT",
         "pubdate": "Tue, 25 Apr 2023 16:00:00 -0700"
@@ -97,13 +111,6 @@
         "title": "Nicolas Cage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicolas%20Cage",
         "pubdate": "Tue, 25 Apr 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Will Levis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Will%20Levis",
-        "pubdate": "Tue, 25 Apr 2023 09:00:00 -0700"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Down syndrome Barbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Down%20syndrome%20Barbie",
+        "title": "Down Syndrome Barbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Down%20Syndrome%20Barbie",
         "pubdate": "Tue, 25 Apr 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Avalanche",
-        "pubdate": "Tue, 25 Apr 2023 05:00:00 -0700"
       }
     ]
   ]
