@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2023 , 17:50:17",
+  "lastUpdate": "26-04-2023 , 17:59:15",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Google Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Docs",
-        "pubdate": "Wed, 26 Apr 2023 11:00:00 +1200"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+        "pubdate": "Wed, 26 Apr 2023 17:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-        "pubdate": "Wed, 26 Apr 2023 17:00:00 +1200"
+        "title": "Google Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Docs",
+        "pubdate": "Wed, 26 Apr 2023 11:00:00 +1200"
       }
     ],
     [
@@ -38,8 +38,22 @@
     ],
     [
       {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Docs",
+        "pubdate": "Wed, 26 Apr 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Classroom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Classroom",
+        "pubdate": "Wed, 26 Apr 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "EP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
         "pubdate": "Wed, 26 Apr 2023 10:00:00 +1200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "DOC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DOC",
         "pubdate": "Wed, 26 Apr 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Biden",
-        "pubdate": "Wed, 26 Apr 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Email",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Email",
-        "pubdate": "Wed, 26 Apr 2023 18:00:00 +1200"
       }
     ]
   ]
