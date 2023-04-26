@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2023 , 16:52:24",
+  "lastUpdate": "26-04-2023 , 17:05:44",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Szabó Erika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Erika",
         "pubdate": "Wed, 26 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZTE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ZTE",
+        "pubdate": "Wed, 26 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Leeds–leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leeds%E2%80%93leicester",
-        "pubdate": "Tue, 25 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Varga Judit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit",
         "pubdate": "Tue, 25 Apr 2023 00:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Leeds–leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leeds%E2%80%93leicester",
+        "pubdate": "Tue, 25 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Biden",
         "pubdate": "Tue, 25 Apr 2023 14:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Daniel Radcliffe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Daniel%20Radcliffe",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Molnár Anikó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Anik%C3%B3",
-        "pubdate": "Tue, 25 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
