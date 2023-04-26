@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-04-2023 , 23:59:26",
+  "lastUpdate": "26-04-2023 , 01:35:22",
   "data": [
     [
       {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
         "pubdate": "Wed, 26 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nordfjordeid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordfjordeid",
+        "pubdate": "Wed, 26 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
+        "pubdate": "Tue, 25 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Avinor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avinor",
         "pubdate": "Tue, 25 Apr 2023 19:00:00 +0200"
@@ -34,13 +48,6 @@
         "title": "Gardermoen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
         "pubdate": "Tue, 25 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
-        "pubdate": "Tue, 25 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Toni garrn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toni%20garrn",
+        "title": "Toni Garrn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toni%20Garrn",
         "pubdate": "Tue, 25 Apr 2023 07:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Lars Erik Saltrø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lars%20Erik%20Saltr%C3%B8",
         "pubdate": "Mon, 24 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spekter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Spekter",
-        "pubdate": "Mon, 24 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
