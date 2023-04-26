@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2023 , 01:35:18",
+  "lastUpdate": "26-04-2023 , 02:23:10",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Timon Krause",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Timon%20Krause",
-        "pubdate": "Tue, 25 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wings for Life",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wings%20for%20Life",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
@@ -62,13 +55,6 @@
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LaLiga",
         "pubdate": "Tue, 25 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donald%20Trump",
-        "pubdate": "Tue, 25 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donald%20Trump",
+        "pubdate": "Tue, 25 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Borussia%20Dortmund",
         "pubdate": "Tue, 25 Apr 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Portofino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Portofino",
         "pubdate": "Tue, 25 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viessmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Viessmann",
+        "pubdate": "Tue, 25 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
