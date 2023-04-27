@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-04-2023 , 07:45:18",
+  "lastUpdate": "27-04-2023 , 07:54:36",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
         "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
+        "pubdate": "Thu, 27 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
-        "pubdate": "Thu, 27 Apr 2023 02:00:00 +0200"
+        "title": "Alexia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alexia",
+        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Tue, 25 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bruce%20Willis",
-        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
