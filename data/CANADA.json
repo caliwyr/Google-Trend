@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-04-2023 , 10:54:09",
+  "lastUpdate": "27-04-2023 , 11:08:09",
   "data": [
+    [
+      {
+        "title": "Tye Kartye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tye%20Kartye",
+        "pubdate": "Thu, 27 Apr 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Freddie Mercury",
@@ -24,23 +31,16 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
-        "pubdate": "Wed, 26 Apr 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Edmonton Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Oilers",
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Wed, 26 Apr 2023 02:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Wed, 26 Apr 2023 06:00:00 -0400"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
+        "pubdate": "Wed, 26 Apr 2023 11:00:00 -0400"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Wed, 26 Apr 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
         "pubdate": "Wed, 26 Apr 2023 17:00:00 -0400"
@@ -115,8 +108,15 @@
     ],
     [
       {
-        "title": "E Jean Carroll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#E%20Jean%20Carroll",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Wed, 26 Apr 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "E. Jean Carroll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#E.%20Jean%20Carroll",
         "pubdate": "Wed, 26 Apr 2023 16:00:00 -0400"
       }
     ],

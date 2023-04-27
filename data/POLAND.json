@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-04-2023 , 10:54:15",
+  "lastUpdate": "27-04-2023 , 11:08:14",
   "data": [
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
-        "pubdate": "Thu, 27 Apr 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bydgoszcz",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Zamość",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamo%C5%9B%C4%87",
-        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
+        "title": "Radom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radom",
+        "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
+        "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liverpool",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Kuba Wojewódzki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kuba%20Wojew%C3%B3dzki",
+        "pubdate": "Wed, 26 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joanna Krupa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
         "pubdate": "Wed, 26 Apr 2023 08:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Hashimoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hashimoto",
-        "pubdate": "Wed, 26 Apr 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Erdogan",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
+        "title": "Zamość",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamo%C5%9B%C4%87",
+        "pubdate": "Wed, 26 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
