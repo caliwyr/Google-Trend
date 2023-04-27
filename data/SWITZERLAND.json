@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "27-04-2023 , 08:47:25",
+  "lastUpdate": "27-04-2023 , 08:56:42",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
-        "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "pubdate": "Thu, 27 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
+        "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Eliane bürki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliane%20b%C3%BCrki",
-        "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Eliane bürki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliane%20b%C3%BCrki",
+        "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rayo – Barcelone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rayo%20%E2%80%93%20Barcelone",
         "pubdate": "Wed, 26 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette",
+        "pubdate": "Wed, 26 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Stan Wawrinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
         "pubdate": "Wed, 26 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Servette – FC Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20FC%20Z%C3%BCrich",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viessmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Viessmann",
-        "pubdate": "Wed, 26 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barca",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

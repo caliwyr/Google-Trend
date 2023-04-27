@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-04-2023 , 08:47:23",
+  "lastUpdate": "27-04-2023 , 08:56:40",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
+        "pubdate": "Thu, 27 Apr 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Barcelona",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
+        "title": "Man City  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20%20Arsenal",
         "pubdate": "Wed, 26 Apr 2023 10:00:00 +0300"
       }
     ],
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "West Ham - Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham%20-%20Liverpool",
+        "title": "West Ham,  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham,%20%20Liverpool",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Donald%20Trump",
         "pubdate": "Wed, 26 Apr 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sepsi  CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20%20CFR%20Cluj",
-        "pubdate": "Tue, 25 Apr 2023 18:00:00 +0300"
       }
     ]
   ]
