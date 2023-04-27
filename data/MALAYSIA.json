@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-04-2023 , 17:45:46",
+  "lastUpdate": "27-04-2023 , 17:55:13",
   "data": [
+    [
+      {
+        "title": "Jerry Springer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jerry%20Springer",
+        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Erling Haaland",
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "New Zealand vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20Pakistan",
+        "title": "New Zealand Vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20Vs%20Pakistan",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0800"
       }
     ],
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "BPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BPL",
-        "pubdate": "Thu, 27 Apr 2023 05:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Falcao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Falcao",
         "pubdate": "Thu, 27 Apr 2023 20:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Jimmy Butler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jimmy%20Butler",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +0800"
+        "title": "BPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BPL",
+        "pubdate": "Thu, 27 Apr 2023 05:00:00 +0800"
       }
     ]
   ]

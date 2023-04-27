@@ -1,10 +1,38 @@
 {
-  "lastUpdate": "27-04-2023 , 17:45:49",
+  "lastUpdate": "27-04-2023 , 17:55:16",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
+        "pubdate": "Thu, 27 Apr 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Thu, 27 Apr 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jerry Springer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jerry%20Springer",
+        "pubdate": "Thu, 27 Apr 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
+        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
         "pubdate": "Thu, 27 Apr 2023 01:00:00 +0300"
       }
     ],
@@ -17,13 +45,6 @@
     ],
     [
       {
-        "title": "UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
-        "pubdate": "Thu, 27 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Jaqueline Cristian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jaqueline%20Cristian",
         "pubdate": "Thu, 27 Apr 2023 01:00:00 +0300"
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Jerry Springer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jerry%20Springer",
-        "pubdate": "Thu, 27 Apr 2023 18:00:00 +0300"
+        "title": "Tenis Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tenis%20Madrid",
+        "pubdate": "Thu, 27 Apr 2023 07:00:00 +0300"
       }
     ],
     [
@@ -48,6 +69,13 @@
         "title": "Mauritius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mauritius",
         "pubdate": "Thu, 27 Apr 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "DGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#DGA",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 +0300"
       }
     ],
     [
@@ -73,16 +101,16 @@
     ],
     [
       {
-        "title": "West Ham,  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham,%20%20Liverpool",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
+        "title": "Rayo  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rayo%20%20Barcelona",
+        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Rayo  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rayo%20%20Barcelona",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0300"
+        "title": "West Ham,  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham,%20%20Liverpool",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Accident Sibiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20Sibiu",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Eurovision 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Eurovision%202023",
         "pubdate": "Wed, 26 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Virginia Zeani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Virginia%20Zeani",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Radcliffe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20Radcliffe",
-        "pubdate": "Wed, 26 Apr 2023 13:00:00 +0300"
       }
     ]
   ]
