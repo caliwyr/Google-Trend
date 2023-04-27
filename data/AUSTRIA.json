@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-04-2023 , 09:51:51",
+  "lastUpdate": "27-04-2023 , 10:06:07",
   "data": [
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bundesliga",
+        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Chelsea",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Sturm Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz",
-        "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#La%20Liga",
         "pubdate": "Wed, 26 Apr 2023 08:00:00 +0200"
@@ -69,6 +69,20 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taylor%20Swift",
         "pubdate": "Wed, 26 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SK Sturm Graz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Sturm%20Graz",
+        "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter gegen Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20Juventus",
+        "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -89,20 +103,6 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter gegen Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20Juventus",
-        "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Coppa%20Italia",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
       }
     ],
