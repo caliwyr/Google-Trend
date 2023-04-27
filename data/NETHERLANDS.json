@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "27-04-2023 , 18:57:19",
+  "lastUpdate": "27-04-2023 , 19:12:08",
   "data": [
     [
       {
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-        "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ariane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ariane",
-        "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,6 +31,13 @@
     ],
     [
       {
+        "title": "Goldband",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goldband",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Froukje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Froukje",
         "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Vrijmarkt Koningsdag 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vrijmarkt%20Koningsdag%202023",
-        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Koningsdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag",
         "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
@@ -87,13 +73,6 @@
     ],
     [
       {
-        "title": "Lintjesregen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lintjesregen%202023",
-        "pubdate": "Wed, 26 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Amalia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amalia",
         "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
@@ -101,16 +80,16 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
+        "title": "Lintjesregen 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lintjesregen%202023",
+        "pubdate": "Wed, 26 Apr 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Koningsdag! Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag!%20Utrecht",
-        "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Tilburg Zingt 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tilburg%20Zingt%202023",
+        "title": "Koningsdag Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag%20Groningen",
+        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koningsdag EINDHOVEN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag%20EINDHOVEN",
+        "pubdate": "Wed, 26 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koningsdag! Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag!%20Utrecht",
         "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koningsdag DEN BOSCH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag%20DEN%20BOSCH",
+        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
