@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 19:49:27",
+  "lastUpdate": "27-04-2023 , 19:58:46",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wiener Zeitung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Zeitung",
         "pubdate": "Thu, 27 Apr 2023 16:00:00 +0200"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+        "pubdate": "Thu, 27 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kyle Edmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kyle%20Edmund",
         "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mordach - Tod in den Bergen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mordach%20-%20Tod%20in%20den%20Bergen",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "NFL Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL%20Draft%202023",
+        "pubdate": "Thu, 27 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Frühjahrs-Messe Graz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fr%C3%BChjahrs-Messe%20Graz",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0200"
@@ -66,22 +80,22 @@
     ],
     [
       {
-        "title": "NFL Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL%20Draft%202023",
-        "pubdate": "Thu, 27 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helmut Marko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helmut%20Marko",
-        "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "pubdate": "Thu, 27 Apr 2023 00:00:00 +0200"
       }
     ],
     [
       {
         "title": "Meta-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meta-Aktie",
+        "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helmut Marko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helmut%20Marko",
         "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
       }
     ],
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "X-Factory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#X-Factory",
-        "pubdate": "Thu, 27 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kim petras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kim%20petras",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 +0200"
@@ -108,8 +115,15 @@
     ],
     [
       {
-        "title": "Jedi Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jedi%20Survivor",
+        "title": "X-Factory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#X-Factory",
+        "pubdate": "Thu, 27 Apr 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jedi:%20Survivor",
         "pubdate": "Thu, 27 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Franz Tost",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20Tost",
         "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kim%20Kardashian",
-        "pubdate": "Thu, 27 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carnuntum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carnuntum",
-        "pubdate": "Thu, 27 Apr 2023 19:00:00 +0200"
       }
     ]
   ]

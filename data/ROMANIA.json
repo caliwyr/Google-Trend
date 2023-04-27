@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 19:49:34",
+  "lastUpdate": "27-04-2023 , 19:58:56",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
-        "pubdate": "Thu, 27 Apr 2023 03:00:00 +0300"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Wed, 26 Apr 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rayo  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rayo%20%20Barcelona",
         "pubdate": "Wed, 26 Apr 2023 23:00:00 +0300"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20Liga",
-        "pubdate": "Wed, 26 Apr 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erdogan",
         "pubdate": "Wed, 26 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Răzvan Burleanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#R%C4%83zvan%20Burleanu",
-        "pubdate": "Wed, 26 Apr 2023 07:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Virginia Zeani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Virginia%20Zeani",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa",
+        "pubdate": "Wed, 26 Apr 2023 07:00:00 +0300"
       }
     ]
   ]
