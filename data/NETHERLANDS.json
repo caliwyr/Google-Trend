@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 03:52:49",
+  "lastUpdate": "27-04-2023 , 04:08:53",
   "data": [
     [
       {
@@ -59,9 +59,30 @@
     ],
     [
       {
+        "title": "Koningsdag Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag%20Rotterdam",
+        "pubdate": "Wed, 26 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tompouce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tompouce",
         "pubdate": "Wed, 26 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koning Willem-Alexander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koning%20Willem-Alexander",
+        "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amalia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amalia",
+        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Tue, 25 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Tue, 25 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bruce%20Willis",
-        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ongehoord Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ongehoord%20Nederland",
-        "pubdate": "Mon, 24 Apr 2023 14:00:00 +0200"
       }
     ]
   ]
