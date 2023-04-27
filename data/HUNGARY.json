@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 06:50:02",
+  "lastUpdate": "27-04-2023 , 06:59:14",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erdogan",
         "pubdate": "Thu, 27 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barca",
+        "pubdate": "Thu, 27 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
         "pubdate": "Wed, 26 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
+        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Sebestyén Júlia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebesty%C3%A9n%20J%C3%BAlia",
+        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wolf Kati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wolf%20Kati",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Sebestyén Júlia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebesty%C3%A9n%20J%C3%BAlia",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fernando Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fernando%20Alonso",
         "pubdate": "Wed, 26 Apr 2023 08:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "DVTK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20liga",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Béres Alexandra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A9res%20Alexandra",
-        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
