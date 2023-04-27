@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 05:44:48",
+  "lastUpdate": "27-04-2023 , 05:54:08",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
+        "title": "Chelsea vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Brentford",
+        "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Brentford",
-        "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
+        "title": "South Africa Freedom Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20Freedom%20Day",
+        "pubdate": "Wed, 26 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rayo Vallecano vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rayo%20Vallecano%20vs%20Barcelona",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "South Africa Freedom Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20Freedom%20Day",
-        "pubdate": "Wed, 26 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
         "pubdate": "Wed, 26 Apr 2023 14:00:00 +0200"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter vs Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20vs%20Juventus",
         "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sheffield United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sheffield%20United",
+        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Sheffield United vs West Brom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sheffield%20United%20vs%20West%20Brom",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Andre de Ruyter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andre%20de%20Ruyter",
         "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Betis",
+        "title": "Aaron Motsoaledi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aaron%20Motsoaledi",
         "pubdate": "Wed, 26 Apr 2023 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Arsenal",
-        "pubdate": "Tue, 25 Apr 2023 18:00:00 +0200"
       }
     ]
   ]

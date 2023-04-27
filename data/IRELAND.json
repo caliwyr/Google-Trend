@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 05:44:42",
+  "lastUpdate": "27-04-2023 , 05:54:04",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea",
+        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nottm Forest vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nottm%20Forest%20vs%20Brighton",
         "pubdate": "Wed, 26 Apr 2023 19:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Brown Thomas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brown%20Thomas",
         "pubdate": "Wed, 26 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea%20vs%20Brentford",
-        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0100"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Everton fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20fc",
-        "pubdate": "Wed, 26 Apr 2023 00:00:00 +0100"
+        "title": "Newcastle United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20United",
+        "pubdate": "Wed, 26 Apr 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Newcastle United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20United",
-        "pubdate": "Wed, 26 Apr 2023 11:00:00 +0100"
+        "title": "Everton fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20fc",
+        "pubdate": "Wed, 26 Apr 2023 00:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sheffield%20United",
+        "title": "Inter vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Inter%20vs%20Juventus",
         "pubdate": "Wed, 26 Apr 2023 23:00:00 +0100"
       }
     ]
