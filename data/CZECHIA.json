@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 12:28:30",
+  "lastUpdate": "27-04-2023 , 12:51:54",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Jaroslav",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jaroslav",
-        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
+        "title": "Požár Kladno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20Kladno",
+        "pubdate": "Thu, 27 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "HC Oceláři Třinec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Ocel%C3%A1%C5%99i%20T%C5%99inec",
         "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BorsodChem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BorsodChem",
+        "pubdate": "Thu, 27 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -54,13 +61,6 @@
       {
         "title": "Man City – Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City%20%E2%80%93%20Arsenal",
-        "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Ham – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Liverpool",
         "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -69,6 +69,13 @@
         "title": "Vallecano – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vallecano%20%E2%80%93%20Barcelona",
         "pubdate": "Wed, 26 Apr 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "West Ham – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Liverpool",
+        "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zlatá labuť",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlat%C3%A1%20labu%C5%A5",
         "pubdate": "Wed, 26 Apr 2023 17:00:00 +0200"
@@ -97,6 +111,13 @@
         "title": "AC Sparta Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Sparta%20Praha",
         "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tereza Kerndlová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
+        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Hradec Králové – Liberec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradec%20Kr%C3%A1lov%C3%A9%20%E2%80%93%20Liberec",
         "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tereza Kerndlová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
-        "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea – Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea%20%E2%80%93%20Brentford",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Inter%20%E2%80%93%20Juventus",
-        "pubdate": "Wed, 26 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
