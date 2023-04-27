@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-04-2023 , 00:34:53",
+  "lastUpdate": "27-04-2023 , 01:51:07",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Thu, 27 Apr 2023 03:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "FC Barcelona",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "West Ham - Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham%20-%20Liverpool",
+        "title": "West Ham,  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham,%20%20Liverpool",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
       }
     ],
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Loredana Chivu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loredana%20Chivu",
-        "pubdate": "Wed, 26 Apr 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Andreea Raicu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Raicu",
         "pubdate": "Wed, 26 Apr 2023 18:00:00 +0300"
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Sepsi  CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20%20CFR%20Cluj",
+        "title": "Sepsi - CFR Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20-%20CFR%20Cluj",
         "pubdate": "Tue, 25 Apr 2023 18:00:00 +0300"
       }
     ],
