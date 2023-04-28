@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 00:38:50",
+  "lastUpdate": "28-04-2023 , 01:53:41",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Miami Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miami%20Heat",
+        "pubdate": "Thu, 27 Apr 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Nicolás Jarry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Jarry",
         "pubdate": "Thu, 27 Apr 2023 13:00:00 -0400"
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Restriccion vehicular 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Restriccion%20vehicular%202023",
-        "pubdate": "Thu, 27 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Miami Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miami%20Heat",
-        "pubdate": "Thu, 27 Apr 2023 01:00:00 -0400"
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
+        "pubdate": "Thu, 27 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -94,23 +94,16 @@
     ],
     [
       {
-        "title": "Athletic  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20%20Sevilla",
+        "title": "Athletic - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20-%20Sevilla",
         "pubdate": "Thu, 27 Apr 2023 18:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
-        "pubdate": "Thu, 27 Apr 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal  RCD Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20%20RCD%20Espanyol",
-        "pubdate": "Thu, 27 Apr 2023 16:00:00 -0400"
+        "title": "27 de abril que se celebra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#27%20de%20abril%20que%20se%20celebra",
+        "pubdate": "Thu, 27 Apr 2023 21:00:00 -0400"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "West Ham  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham%20%20Liverpool",
+        "pubdate": "Wed, 26 Apr 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Inter  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Juventus",
         "pubdate": "Wed, 26 Apr 2023 15:00:00 -0400"
       }
     ]

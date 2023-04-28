@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-04-2023 , 00:38:55",
+  "lastUpdate": "28-04-2023 , 01:53:46",
   "data": [
     [
       {
         "title": "La familia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20familia",
         "pubdate": "Fri, 28 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Newcastle",
+        "pubdate": "Fri, 28 Apr 2023 01:00:00 +0300"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "U Cluj UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj%20UTA%20Arad",
+        "title": "U Cluj - UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj%20-%20UTA%20Arad",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0300"
       }
     ],
@@ -34,13 +41,6 @@
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20vs%20Man%20United",
-        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
       }
     ],
     [
@@ -75,6 +75,13 @@
       {
         "title": "Smiley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Smiley",
+        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
         "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "West Ham,  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham,%20%20Liverpool",
         "pubdate": "Wed, 26 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20Liga",
-        "pubdate": "Wed, 26 Apr 2023 03:00:00 +0300"
       }
     ]
   ]
