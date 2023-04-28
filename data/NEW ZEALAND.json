@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 06:58:07",
+  "lastUpdate": "28-04-2023 , 07:15:20",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Steven Crowder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steven%20Crowder",
-        "pubdate": "Fri, 28 Apr 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Lakers vs Grizzlies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Grizzlies",
         "pubdate": "Fri, 28 Apr 2023 10:00:00 +1200"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Hurricanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hurricanes",
-        "pubdate": "Fri, 28 Apr 2023 16:00:00 +1200"
+        "title": "Steven Crowder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steven%20Crowder",
+        "pubdate": "Fri, 28 Apr 2023 15:00:00 +1200"
       }
     ],
     [
@@ -83,13 +76,6 @@
         "title": "Emmett Till",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Emmett%20Till",
         "pubdate": "Fri, 28 Apr 2023 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Will Levis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Will%20Levis",
-        "pubdate": "Fri, 28 Apr 2023 18:00:00 +1200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Byron Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Byron%20Bay",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +1200"
+        "title": "Freddie Mercury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Freddie%20Mercury",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jedi:%20Survivor",
+        "pubdate": "Thu, 27 Apr 2023 22:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Next Goal Wins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Next%20Goal%20Wins",
+        "pubdate": "Thu, 27 Apr 2023 23:00:00 +1200"
       }
     ]
   ]
