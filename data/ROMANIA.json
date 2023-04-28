@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 16:50:06",
+  "lastUpdate": "28-04-2023 , 16:59:25",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "NEVERSEA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#NEVERSEA",
         "pubdate": "Fri, 28 Apr 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201",
-        "pubdate": "Fri, 28 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Finala Cupei Romaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Finala%20Cupei%20Romaniei",
+        "pubdate": "Fri, 28 Apr 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Weekend",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Weekend",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 +0300"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Beach Please",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Beach%20Please",
+        "title": "Beach, Please!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Beach,%20Please!",
         "pubdate": "Thu, 27 Apr 2023 20:00:00 +0300"
       }
     ],

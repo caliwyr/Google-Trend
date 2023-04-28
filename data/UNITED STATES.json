@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-04-2023 , 16:49:53",
+  "lastUpdate": "28-04-2023 , 16:59:15",
   "data": [
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#F1",
+        "pubdate": "Fri, 28 Apr 2023 08:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Nate Diaz",
@@ -13,13 +20,6 @@
         "title": "Adele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adele",
         "pubdate": "Fri, 28 Apr 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#F1",
-        "pubdate": "Fri, 28 Apr 2023 08:00:00 -0700"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Twisted Metal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Twisted%20Metal",
+        "pubdate": "Fri, 28 Apr 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 08:00:00 -0700"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Emmett Till",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emmett%20Till",
-        "pubdate": "Thu, 27 Apr 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Bryce Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bryce%20Young",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 -0700"
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Milwaukee Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Milwaukee%20Bucks",
-        "pubdate": "Thu, 27 Apr 2023 16:00:00 -0700"
+        "title": "Emmett Till",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emmett%20Till",
+        "pubdate": "Thu, 27 Apr 2023 11:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Amazon stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amazon%20stock",
-        "pubdate": "Thu, 27 Apr 2023 15:00:00 -0700"
+        "title": "Milwaukee Bucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Milwaukee%20Bucks",
+        "pubdate": "Thu, 27 Apr 2023 16:00:00 -0700"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "C.J. Stroud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#C.J.%20Stroud",
+        "title": "Houston Texans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20Texans",
         "pubdate": "Thu, 27 Apr 2023 18:00:00 -0700"
       }
     ]
