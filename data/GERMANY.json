@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "28-04-2023 , 19:47:02",
+  "lastUpdate": "28-04-2023 , 19:56:29",
   "data": [
+    [
+      {
+        "title": "Bochum gegen Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20gegen%20Dortmund",
+        "pubdate": "Fri, 28 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfL Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
-        "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Citadel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Citadel",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Herbert Grönemeyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Herbert%20Gr%C3%B6nemeyer",
         "pubdate": "Fri, 28 Apr 2023 10:00:00 +0200"
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Andreas Gabalier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Gabalier",
-        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vanessa Mai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vanessa%20Mai",
         "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Citadel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Citadel",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
+        "title": "Andreas Gabalier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Gabalier",
+        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harry Belafonte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Belafonte",
-        "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
       }
     ]
   ]

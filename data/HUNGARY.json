@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 19:47:03",
+  "lastUpdate": "28-04-2023 , 19:56:30",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "M1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
+        "pubdate": "Fri, 28 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bochum–dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bochum%E2%80%93dortmund",
+        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "EVERTON–NEWCASTLE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#EVERTON%E2%80%93NEWCASTLE",
+        "title": "Everton–newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Everton%E2%80%93newcastle",
         "pubdate": "Thu, 27 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Valkusz Milán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valkusz%20Mil%C3%A1n",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schadl György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schadl%20Gy%C3%B6rgy",
-        "pubdate": "Thu, 27 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Coolidge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Coolidge",
-        "pubdate": "Thu, 27 Apr 2023 06:00:00 +0200"
       }
     ]
   ]
