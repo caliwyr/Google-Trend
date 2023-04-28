@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 08:46:14",
+  "lastUpdate": "28-04-2023 , 08:55:37",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Paso Los Libertadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paso%20Los%20Libertadores",
         "pubdate": "Fri, 28 Apr 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
-        "pubdate": "Thu, 27 Apr 2023 03:00:00 -0400"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Temblor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+        "pubdate": "Thu, 27 Apr 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Warriors",
         "pubdate": "Thu, 27 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ingreso minimo garantizado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ingreso%20minimo%20garantizado",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Sismo hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismo%20hoy",
+        "pubdate": "Thu, 27 Apr 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "WhatsApp Plus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#WhatsApp%20Plus",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 -0400"
@@ -125,20 +139,6 @@
         "title": "Restricción vehicular 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Restricci%C3%B3n%20vehicular%202023",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Hells Angels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hells%20Angels",
-        "pubdate": "Thu, 27 Apr 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Athletic - Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20-%20Sevilla",
-        "pubdate": "Thu, 27 Apr 2023 18:00:00 -0400"
       }
     ]
   ]
