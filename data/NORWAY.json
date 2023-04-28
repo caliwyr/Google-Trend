@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 10:43:45",
+  "lastUpdate": "28-04-2023 , 10:53:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Infertil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Infertil",
         "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tate Modern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tate%20Modern",
+        "pubdate": "Fri, 28 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jedi:%20Survivor",
+        "pubdate": "Thu, 27 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Erling Braut Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erling%20Braut%20Haaland",
         "pubdate": "Thu, 27 Apr 2023 23:00:00 +0200"
@@ -76,13 +90,6 @@
         "title": "Ha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ha",
         "pubdate": "Thu, 27 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jedi: Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jedi:%20Survivor",
-        "pubdate": "Thu, 27 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Black%20Mirror",
-        "pubdate": "Thu, 27 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erdogan",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 +0200"
       }
     ]

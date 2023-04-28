@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-04-2023 , 10:43:41",
+  "lastUpdate": "28-04-2023 , 10:53:15",
   "data": [
-    [
-      {
-        "title": "NFL Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL%20Draft%202023",
-        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Fri, 28 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "NFL Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL%20Draft%202023",
+        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0300"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Loreen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loreen",
-        "pubdate": "Thu, 27 Apr 2023 10:00:00 +0300"
+        "title": "Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jedi:%20Survivor",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Jedi: Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jedi:%20Survivor",
-        "pubdate": "Thu, 27 Apr 2023 20:00:00 +0300"
+        "title": "Loreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loreen",
+        "pubdate": "Thu, 27 Apr 2023 10:00:00 +0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Cargotec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cargotec",
-        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meta%20stock",
         "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
         "pubdate": "Wed, 26 Apr 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Prime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Prime",
+        "pubdate": "Wed, 26 Apr 2023 18:00:00 +0300"
       }
     ]
   ]
