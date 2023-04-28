@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 09:42:45",
+  "lastUpdate": "28-04-2023 , 09:51:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Community",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Community",
         "pubdate": "Fri, 28 Apr 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#F1",
+        "pubdate": "Fri, 28 Apr 2023 12:00:00 +0300"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Chelsea fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20fc",
-        "pubdate": "Thu, 27 Apr 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +0300"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Chelsea f.c.",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20f.c.",
+        "pubdate": "Thu, 27 Apr 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sheffield United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sheffield%20United",
         "pubdate": "Thu, 27 Apr 2023 01:00:00 +0300"
@@ -90,13 +97,6 @@
         "title": "Live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
         "pubdate": "Thu, 27 Apr 2023 04:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cardiff City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cardiff%20City",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +0300"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Cardiff City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cardiff%20City",
+        "pubdate": "Thu, 27 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia",
         "pubdate": "Thu, 27 Apr 2023 22:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Table",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Table",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Evertonfc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Evertonfc",
-        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0300"
       }
     ]
   ]

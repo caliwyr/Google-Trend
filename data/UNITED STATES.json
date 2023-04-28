@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 09:42:38",
+  "lastUpdate": "28-04-2023 , 09:51:51",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NFL Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Draft",
+        "pubdate": "Thu, 27 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Darnell Wright",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Darnell%20Wright",
+        "title": "Nolan Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nolan%20Smith",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
+        "pubdate": "Thu, 27 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Amazon stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amazon%20stock",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
-        "pubdate": "Thu, 27 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Love and Death",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Love%20and%20Death",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Giannis Antetokounmpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giannis%20Antetokounmpo",
-        "pubdate": "Thu, 27 Apr 2023 17:00:00 -0700"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zay Flowers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zay%20Flowers",
-        "pubdate": "Thu, 27 Apr 2023 20:00:00 -0700"
+        "title": "Giannis Antetokounmpo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giannis%20Antetokounmpo",
+        "pubdate": "Thu, 27 Apr 2023 17:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 -0700"
+        "title": "Zay Flowers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zay%20Flowers",
+        "pubdate": "Thu, 27 Apr 2023 20:00:00 -0700"
       }
     ]
   ]
