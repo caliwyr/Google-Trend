@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-04-2023 , 14:46:02",
+  "lastUpdate": "28-04-2023 , 14:55:30",
   "data": [
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
+        "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Kilian Kerner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kilian%20Kerner",
-        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KPT Krankenkasse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#KPT%20Krankenkasse",
         "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "EuroLeague",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EuroLeague",
-        "pubdate": "Fri, 28 Apr 2023 12:00:00 +0200"
+        "title": "Kilian Kerner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kilian%20Kerner",
+        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Iseltwald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iseltwald",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Iseltwald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iseltwald",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
+        "title": "EuroLeague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EuroLeague",
+        "pubdate": "Fri, 28 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Lili Reinhart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lili%20Reinhart",
-        "pubdate": "Fri, 28 Apr 2023 02:00:00 +0200"
+        "title": "Meghan Trainor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meghan%20Trainor",
+        "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stadtlauf Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadtlauf%20Luzern",
+        "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jerry%20Springer",
         "pubdate": "Thu, 27 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eishockey Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eishockey%20Schweiz",
-        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
