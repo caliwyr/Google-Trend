@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 13:50:18",
+  "lastUpdate": "28-04-2023 , 13:59:33",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F1",
-        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0100"
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
+        "pubdate": "Fri, 28 Apr 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
-        "pubdate": "Fri, 28 Apr 2023 09:00:00 +0100"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F1",
+        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
-        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0100"
+        "title": "Alvaro Amaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alvaro%20Amaro",
+        "pubdate": "Fri, 28 Apr 2023 09:00:00 +0100"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Alvaro Amaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alvaro%20Amaro",
-        "pubdate": "Fri, 28 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Santarem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santarem",
         "pubdate": "Fri, 28 Apr 2023 12:00:00 +0100"
@@ -66,9 +59,16 @@
     ],
     [
       {
-        "title": "Miguel Oliveira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Oliveira",
+        "title": "Real Madrid Partizan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20Partizan",
         "pubdate": "Fri, 28 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dortmund",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Vera Wang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vera%20Wang",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pelé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pel%C3%A9",
         "pubdate": "Fri, 28 Apr 2023 09:00:00 +0100"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Real Madrid Partizan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20Partizan",
-        "pubdate": "Fri, 28 Apr 2023 13:00:00 +0100"
+        "title": "CES",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CES",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Richie Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Richie%20Campbell",
         "pubdate": "Thu, 27 Apr 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jerry Springer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jerry%20Springer",
-        "pubdate": "Thu, 27 Apr 2023 16:00:00 +0100"
       }
     ]
   ]

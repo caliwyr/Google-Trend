@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 13:50:22",
+  "lastUpdate": "28-04-2023 , 13:59:36",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Eva Green",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Eva%20Green",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Richard Sharp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Richard%20Sharp",
+        "pubdate": "Fri, 28 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bluesky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bluesky",
         "pubdate": "Fri, 28 Apr 2023 08:00:00 +0100"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Richard Sharp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Richard%20Sharp",
-        "pubdate": "Fri, 28 Apr 2023 13:00:00 +0100"
+        "title": "Stephen Port",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Stephen%20Port",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0100"
       }
     ],
     [
@@ -87,16 +101,9 @@
     ],
     [
       {
-        "title": "NFL Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NFL%20Draft",
+        "title": "NFL draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NFL%20draft",
         "pubdate": "Thu, 27 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Haaland",
-        "pubdate": "Thu, 27 Apr 2023 11:00:00 +0100"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Train strikes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Train%20strikes",
         "pubdate": "Thu, 27 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Haaland",
+        "pubdate": "Thu, 27 Apr 2023 11:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Southampton FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Southampton%20FC",
-        "pubdate": "Thu, 27 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ozzy Osbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ozzy%20Osbourne",
         "pubdate": "Thu, 27 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20fc",
-        "pubdate": "Thu, 27 Apr 2023 04:00:00 +0100"
       }
     ]
   ]
