@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-04-2023 , 18:46:06",
+  "lastUpdate": "28-04-2023 , 18:55:24",
   "data": [
+    [
+      {
+        "title": "Tűz Budapest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C5%B1z%20Budapest",
+        "pubdate": "Fri, 28 Apr 2023 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "F1",
@@ -20,13 +27,6 @@
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tűz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C5%B1z",
-        "pubdate": "Fri, 28 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Everton–Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Everton%E2%80%93Newcastle",
+        "title": "EVERTON–NEWCASTLE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#EVERTON%E2%80%93NEWCASTLE",
         "pubdate": "Thu, 27 Apr 2023 21:00:00 +0200"
       }
     ],
