@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-04-2023 , 04:46:39",
+  "lastUpdate": "28-04-2023 , 04:55:55",
   "data": [
+    [
+      {
+        "title": "SALAK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SALAK",
+        "pubdate": "Fri, 28 Apr 2023 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Premier League",
@@ -41,6 +48,13 @@
         "title": "Kladenský Deník",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kladensk%C3%BD%20Den%C3%ADk",
         "pubdate": "Thu, 27 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hokej Třinec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20T%C5%99inec",
+        "pubdate": "Thu, 27 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -87,22 +101,15 @@
     ],
     [
       {
-        "title": "Hokej Třinec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20T%C5%99inec",
-        "pubdate": "Thu, 27 Apr 2023 18:00:00 +0200"
+        "title": "Everton – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Everton%20%E2%80%93%20Newcastle",
+        "pubdate": "Thu, 27 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
         "title": "Forbes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-        "pubdate": "Thu, 27 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Filipojakubská noc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Filipojakubsk%C3%A1%20noc",
         "pubdate": "Thu, 27 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Avril Lavigne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Avril%20Lavigne",
         "pubdate": "Wed, 26 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vallecano – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vallecano%20%E2%80%93%20Barcelona",
-        "pubdate": "Wed, 26 Apr 2023 06:00:00 +0200"
       }
     ]
   ]
