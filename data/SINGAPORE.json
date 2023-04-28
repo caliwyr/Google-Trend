@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2023 , 15:43:52",
+  "lastUpdate": "28-04-2023 , 15:53:09",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "NFL Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NFL%20Draft",
-        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Cyanide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cyanide",
         "pubdate": "Fri, 28 Apr 2023 14:00:00 +0800"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Jedi Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jedi%20Survivor",
-        "pubdate": "Fri, 28 Apr 2023 11:00:00 +0800"
+        "title": "NFL Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NFL%20Draft",
+        "pubdate": "Fri, 28 Apr 2023 10:00:00 +0800"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jedi:%20Survivor",
+        "pubdate": "Fri, 28 Apr 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Emmett Till",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emmett%20Till",
         "pubdate": "Fri, 28 Apr 2023 15:00:00 +0800"
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "AMZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AMZN",
-        "pubdate": "Fri, 28 Apr 2023 15:00:00 +0800"
+        "title": "LSG vs PBKS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#LSG%20vs%20PBKS",
+        "pubdate": "Fri, 28 Apr 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Will Levis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Will%20Levis",
+        "pubdate": "Fri, 28 Apr 2023 20:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20stock",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bucks",
-        "pubdate": "Thu, 27 Apr 2023 19:00:00 +0800"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-04-2023 , 15:43:46",
+  "lastUpdate": "28-04-2023 , 15:53:04",
   "data": [
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Amazon-Aktie",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
+        "title": "Til Schweiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
         "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
       }
     ],
@@ -27,13 +34,6 @@
         "title": "Herbert Grönemeyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Herbert%20Gr%C3%B6nemeyer",
         "pubdate": "Fri, 28 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Til Schweiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Premier%20League",
-        "pubdate": "Wed, 26 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
         "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Harry Belafonte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Belafonte",
         "pubdate": "Tue, 25 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viessmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Viessmann",
+        "pubdate": "Tue, 25 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
