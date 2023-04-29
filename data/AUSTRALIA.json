@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-04-2023 , 21:48:01",
+  "lastUpdate": "29-04-2023 , 21:57:19",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "BKFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BKFC",
+        "pubdate": "Sun, 30 Apr 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Panthers vs Tigers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panthers%20vs%20Tigers",
         "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
@@ -66,22 +73,8 @@
     ],
     [
       {
-        "title": "Swans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
-        "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Crystal Palace vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crystal%20Palace%20vs%20West%20Ham",
-        "pubdate": "Sat, 29 Apr 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Carlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton",
         "pubdate": "Sat, 29 Apr 2023 22:00:00 +1000"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MotoGP",
         "pubdate": "Sat, 29 Apr 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Charlie Curnow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charlie%20Curnow",
+        "pubdate": "Sat, 29 Apr 2023 22:00:00 +1000"
       }
     ]
   ]
