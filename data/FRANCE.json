@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "29-04-2023 , 03:46:58",
+  "lastUpdate": "29-04-2023 , 03:56:14",
   "data": [
     [
       {
         "title": "Jean-Jacques Goldman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Jacques%20Goldman",
+        "pubdate": "Sat, 29 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Peter Pan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Peter%20Pan",
         "pubdate": "Sat, 29 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Peter Pan et Wendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Peter%20Pan%20et%20Wendy",
-        "pubdate": "Fri, 28 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Magali Berdah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Magali%20Berdah",
         "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
@@ -101,15 +101,8 @@
     ],
     [
       {
-        "title": "Georges Moustaki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georges%20Moustaki",
-        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Star Wars Jedi : Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Wars%20Jedi%20:%20Survivor",
+        "title": "Star Wars Jedi: Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Wars%20Jedi:%20Survivor",
         "pubdate": "Fri, 28 Apr 2023 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Hunger Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hunger%20Games",
         "pubdate": "Fri, 28 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund",
+        "pubdate": "Fri, 28 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
