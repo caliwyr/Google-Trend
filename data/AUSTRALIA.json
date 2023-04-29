@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "29-04-2023 , 12:41:23",
+  "lastUpdate": "29-04-2023 , 12:56:14",
   "data": [
-    [
-      {
-        "title": "Steven Crowder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steven%20Crowder",
-        "pubdate": "Sat, 29 Apr 2023 00:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Warriors vs Kings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Kings",
-        "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
         "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
       }
     ],
@@ -31,9 +17,23 @@
     ],
     [
       {
+        "title": "Steven Crowder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steven%20Crowder",
+        "pubdate": "Sat, 29 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Swans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
         "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Penrith Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
+        "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LeBron%20James",
-        "pubdate": "Sat, 29 Apr 2023 18:00:00 +1000"
+        "title": "Michael J. Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20J.%20Fox",
+        "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
       }
     ],
     [
@@ -108,20 +108,6 @@
     ],
     [
       {
-        "title": "Panthers vs Tigers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panthers%20vs%20Tigers",
-        "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Michael J. Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20J.%20Fox",
-        "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "V8 Supercars Perth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#V8%20Supercars%20Perth",
         "pubdate": "Sat, 29 Apr 2023 17:00:00 +1000"
@@ -139,6 +125,20 @@
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlos%20Alcaraz",
         "pubdate": "Sat, 29 Apr 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan rat poison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taiwan%20rat%20poison",
+        "pubdate": "Sat, 29 Apr 2023 15:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "First Republic Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#First%20Republic%20Bank",
+        "pubdate": "Sat, 29 Apr 2023 17:00:00 +1000"
       }
     ]
   ]
