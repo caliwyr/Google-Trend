@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-04-2023 , 01:35:37",
+  "lastUpdate": "29-04-2023 , 02:21:38",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
+        "pubdate": "Fri, 28 Apr 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
         "pubdate": "Fri, 28 Apr 2023 06:00:00 -0500"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
-        "pubdate": "Fri, 28 Apr 2023 05:00:00 -0500"
+        "title": "Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
+        "pubdate": "Fri, 28 Apr 2023 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Guarani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
-        "pubdate": "Fri, 28 Apr 2023 09:00:00 -0500"
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
+        "pubdate": "Fri, 28 Apr 2023 05:00:00 -0500"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Fri, 28 Apr 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "CPX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CPX",
         "pubdate": "Fri, 28 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Capivara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Capivara",
+        "pubdate": "Fri, 28 Apr 2023 20:00:00 -0500"
       }
     ],
     [
@@ -80,23 +101,9 @@
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
-        "pubdate": "Fri, 28 Apr 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Resumo da Novela vai na fé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20da%20Novela%20vai%20na%20f%C3%A9",
+        "title": "Resumo da novela Vai na Fé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20da%20novela%20Vai%20na%20F%C3%A9",
         "pubdate": "Fri, 28 Apr 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CASO LUCAS TERRA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CASO%20LUCAS%20TERRA",
-        "pubdate": "Fri, 28 Apr 2023 08:00:00 -0500"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Isencao Enem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isencao%20Enem",
         "pubdate": "Fri, 28 Apr 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "CASO LUCAS TERRA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CASO%20LUCAS%20TERRA",
+        "pubdate": "Fri, 28 Apr 2023 08:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Trae Young",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Trae%20Young",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Sporting Cristal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting%20Cristal",
         "pubdate": "Fri, 28 Apr 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Agenor tupinamba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agenor%20tupinamba",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 -0500"
       }
     ]
   ]
