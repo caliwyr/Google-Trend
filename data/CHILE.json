@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "29-04-2023 , 08:49:15",
+  "lastUpdate": "29-04-2023 , 08:58:31",
   "data": [
     [
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
+        "pubdate": "Sat, 29 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lakers vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers%20vs",
         "pubdate": "Sat, 29 Apr 2023 00:00:00 -0400"
       }
     ],
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-        "pubdate": "Fri, 28 Apr 2023 15:00:00 -0400"
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Fri, 28 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Fri, 28 Apr 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Video Cesfam Talcahuano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Video%20Cesfam%20Talcahuano",
         "pubdate": "Fri, 28 Apr 2023 09:00:00 -0400"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Huachipato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
-        "pubdate": "Fri, 28 Apr 2023 17:00:00 -0400"
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
+        "pubdate": "Fri, 28 Apr 2023 15:00:00 -0400"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
         "pubdate": "Fri, 28 Apr 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Huachipato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
+        "pubdate": "Fri, 28 Apr 2023 17:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Star Wars Jedi: Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Star%20Wars%20Jedi:%20Survivor",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sopaipillas con zapallo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sopaipillas%20con%20zapallo",
-        "pubdate": "Fri, 28 Apr 2023 20:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-04-2023 , 08:49:24",
+  "lastUpdate": "29-04-2023 , 08:58:37",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern",
+        "pubdate": "Sat, 29 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eva Green",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eva%20Green",
         "pubdate": "Sat, 29 Apr 2023 00:00:00 +0200"
@@ -24,16 +31,23 @@
     ],
     [
       {
-        "title": "Prinz Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinz%20Harry",
-        "pubdate": "Sat, 29 Apr 2023 02:00:00 +0200"
+        "title": "Nosferatu-Spinne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nosferatu-Spinne",
+        "pubdate": "Sat, 29 Apr 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nosferatu-Spinne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nosferatu-Spinne",
-        "pubdate": "Sat, 29 Apr 2023 01:00:00 +0200"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lakers",
+        "pubdate": "Sat, 29 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prinz Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinz%20Harry",
+        "pubdate": "Sat, 29 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Geneve Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Geneve%20Servette",
-        "pubdate": "Fri, 28 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Akira Schmid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akira%20Schmid",
-        "pubdate": "Fri, 28 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
-        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
+        "title": "Akira Schmid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akira%20Schmid",
+        "pubdate": "Fri, 28 Apr 2023 08:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
-        "pubdate": "Fri, 28 Apr 2023 20:00:00 +0200"
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Barack Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barack%20Obama",
-        "pubdate": "Fri, 28 Apr 2023 11:00:00 +0200"
+        "title": "Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
+        "pubdate": "Fri, 28 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
