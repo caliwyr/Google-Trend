@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 09:49:52",
+  "lastUpdate": "30-04-2023 , 09:59:16",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Real Madrid  Almería",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Almer%C3%ADa",
         "pubdate": "Sat, 29 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Baku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Baku",
+        "pubdate": "Sat, 29 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
         "pubdate": "Fri, 28 Apr 2023 11:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Karin Hindsbo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Karin%20Hindsbo",
         "pubdate": "Fri, 28 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Peter Pan and Wendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peter%20Pan%20and%20Wendy",
-        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
