@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 23:47:29",
+  "lastUpdate": "30-04-2023 , 23:57:02",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Hazel Brugger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hazel%20Brugger",
         "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fête du Travail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F%C3%AAte%20du%20Travail",
+        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lamine%20Yamal",
         "pubdate": "Sun, 30 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tag der Arbeit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Arbeit",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,16 +108,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "1. Mai Feiertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Mai%20Feiertag",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
+        "title": "Botswana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Botswana",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "FC Aarau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
-        "pubdate": "Sun, 30 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool – Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Tottenham",
         "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "FC Aarau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
+        "pubdate": "Sun, 30 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Til Schweiger Nora Tschirner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Til%20Schweiger%20Nora%20Tschirner",
         "pubdate": "Sun, 30 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG gegen Lorient",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG%20gegen%20Lorient",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fulham – Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fulham%20%E2%80%93%20Manchester%20City",
-        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
