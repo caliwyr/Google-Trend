@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 05:44:56",
+  "lastUpdate": "30-04-2023 , 05:54:08",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sat, 29 Apr 2023 18:00:00 +0200"
+        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Boris Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Palmer",
+        "pubdate": "Sat, 29 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SC Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
         "pubdate": "Sat, 29 Apr 2023 18:00:00 +0200"
@@ -54,13 +61,6 @@
       {
         "title": "St. Pauli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Boris Becker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Becker",
         "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Heino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heino",
-        "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NFL Draft 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL%20Draft%202023",
         "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Raul Krauthausen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Raul%20Krauthausen",
         "pubdate": "Wed, 26 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
+        "pubdate": "Wed, 26 Apr 2023 21:00:00 +0200"
       }
     ]
   ]
