@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 15:48:23",
+  "lastUpdate": "30-04-2023 , 15:57:37",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Napoli",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern gegen Hertha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Hertha",
         "pubdate": "Sat, 29 Apr 2023 17:00:00 +0200"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Eintracht Frankfurt gegen Augsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt%20gegen%20Augsburg",
-        "pubdate": "Sat, 29 Apr 2023 15:00:00 +0200"
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Sat, 29 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sat, 29 Apr 2023 23:00:00 +0200"
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
+        "pubdate": "Sat, 29 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Unsere kleine Farm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unsere%20kleine%20Farm",
-        "pubdate": "Sat, 29 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Wegner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wegner",
-        "pubdate": "Thu, 27 Apr 2023 17:00:00 +0200"
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
+        "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
