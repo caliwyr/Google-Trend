@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "30-04-2023 , 04:48:33",
+  "lastUpdate": "30-04-2023 , 04:57:54",
   "data": [
     [
       {
         "title": "Fortaleza x Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Fluminense",
         "pubdate": "Sat, 29 Apr 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atlético-MG x Athletico-PR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Athletico-PR",
-        "pubdate": "Sat, 29 Apr 2023 11:00:00 -0500"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
         "pubdate": "Sat, 29 Apr 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20MG",
+        "pubdate": "Sat, 29 Apr 2023 11:00:00 -0500"
       }
     ],
     [
@@ -52,23 +52,16 @@
     ],
     [
       {
-        "title": "Tabela do brasileirão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tabela%20do%20brasileir%C3%A3o",
-        "pubdate": "Sat, 29 Apr 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace x West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crystal%20Palace%20x%20West%20Ham",
-        "pubdate": "Sat, 29 Apr 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Alan Rickman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alan%20Rickman",
         "pubdate": "Sat, 29 Apr 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tabela do brasileirão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tabela%20do%20brasileir%C3%A3o",
+        "pubdate": "Sat, 29 Apr 2023 19:00:00 -0500"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
+        "pubdate": "Sat, 29 Apr 2023 05:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ana Castela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ana%20Castela",
         "pubdate": "Sat, 29 Apr 2023 17:00:00 -0500"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Sampaio Corrêa x Mirassol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sampaio%20Corr%C3%AAa%20x%20Mirassol",
-        "pubdate": "Sat, 29 Apr 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Tombense x Atlético-GO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tombense%20x%20Atl%C3%A9tico-GO",
         "pubdate": "Sat, 29 Apr 2023 16:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Flamengo x Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Botafogo",
         "pubdate": "Sat, 29 Apr 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Sat, 29 Apr 2023 12:00:00 -0500"
       }
     ]
   ]
