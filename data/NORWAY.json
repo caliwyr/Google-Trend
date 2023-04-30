@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-04-2023 , 22:51:56",
+  "lastUpdate": "30-04-2023 , 23:04:11",
   "data": [
+    [
+      {
+        "title": "Heymat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Heymat",
+        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Liverpool",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City",
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
         "pubdate": "Sun, 30 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Odd Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20Rosenborg",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Odd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd",
+        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
         "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
+        "title": "Tish Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tish%20Cyrus",
+        "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tish Cyrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tish%20Cyrus",
-        "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ATV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ATV",
         "pubdate": "Sat, 29 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sydney%20Sweeney",
-        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
