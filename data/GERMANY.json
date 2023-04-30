@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 02:51:38",
+  "lastUpdate": "30-04-2023 , 03:03:19",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Boris Becker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Becker",
         "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
@@ -94,16 +87,9 @@
     ],
     [
       {
-        "title": "Jan Böhmermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jan%20B%C3%B6hmermann",
-        "pubdate": "Sat, 29 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
+        "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Meteorit Elmshorn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Meteorit%20Elmshorn",
         "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NFL Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL%20Draft%202023",
+        "pubdate": "Thu, 27 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
+        "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
       }
     ]
   ]
