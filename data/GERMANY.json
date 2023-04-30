@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 10:47:46",
+  "lastUpdate": "30-04-2023 , 10:57:01",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sat, 29 Apr 2023 20:00:00 +0200"
+        "title": "FC Schalke 04",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Schalke%2004",
+        "pubdate": "Sun, 30 Apr 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sat, 29 Apr 2023 17:00:00 +0200"
+        "title": "1. FC Magdeburg gegen HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20FC%20Magdeburg%20gegen%20HSV",
+        "pubdate": "Sat, 29 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Sat, 29 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Bayern Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Hertha",
+        "pubdate": "Sat, 29 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Unsere kleine Farm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unsere%20kleine%20Farm",
         "pubdate": "Sat, 29 Apr 2023 14:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Sylvie Meis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sylvie%20Meis",
-        "pubdate": "Sat, 29 Apr 2023 19:00:00 +0200"
+        "title": "FC Barcelona – Real Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona%20%E2%80%93%20Real%20Betis",
+        "pubdate": "Sat, 29 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Formel-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Fri, 28 Apr 2023 16:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Wegner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wegner",
-        "pubdate": "Thu, 27 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
         "pubdate": "Wed, 26 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
-        "pubdate": "Wed, 26 Apr 2023 13:00:00 +0200"
       }
     ]
   ]
