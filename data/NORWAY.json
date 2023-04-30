@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 21:54:58",
+  "lastUpdate": "30-04-2023 , 22:09:47",
   "data": [
     [
       {
@@ -17,23 +17,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "title": "Odd Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20Rosenborg",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lamine%20Yamal",
         "pubdate": "Sun, 30 Apr 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Odd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd",
-        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
-        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Tish Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tish%20Cyrus",
+        "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kjetil Haug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kjetil%20Haug",
         "pubdate": "Sun, 30 Apr 2023 09:00:00 +0200"
@@ -62,20 +62,6 @@
         "title": "Kahoot it",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kahoot%20it",
         "pubdate": "Sun, 30 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jerv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jerv",
-        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tish Cyrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tish%20Cyrus",
-        "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -104,6 +90,13 @@
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Sat, 29 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arctic Monkeys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arctic%20Monkeys",
+        "pubdate": "Sat, 29 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ATV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ATV",
         "pubdate": "Sat, 29 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sydney%20Sweeney",
+        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
