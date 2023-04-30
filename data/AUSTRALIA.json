@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2023 , 06:56:05",
+  "lastUpdate": "30-04-2023 , 07:11:11",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Coronation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coronation",
+        "pubdate": "Sun, 30 Apr 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Western Bulldogs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Western%20Bulldogs",
         "pubdate": "Sun, 30 Apr 2023 02:00:00 +1000"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Coronation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coronation",
-        "pubdate": "Sun, 30 Apr 2023 09:00:00 +1000"
+        "title": "Warriors vs Roosters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Roosters",
+        "pubdate": "Sun, 30 Apr 2023 15:00:00 +1000"
       }
     ],
     [
@@ -59,8 +66,22 @@
     ],
     [
       {
-        "title": "Warriors vs Roosters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Roosters",
+        "title": "Perth Glory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Glory",
+        "pubdate": "Sun, 30 Apr 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "BKFC 41",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BKFC%2041",
+        "pubdate": "Sun, 30 Apr 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets vs Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nuggets%20vs%20Suns",
         "pubdate": "Sun, 30 Apr 2023 15:00:00 +1000"
       }
     ],
@@ -80,16 +101,16 @@
     ],
     [
       {
-        "title": "Renee Gracie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renee%20Gracie",
+        "title": "Anne Hathaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anne%20Hathaway",
         "pubdate": "Sun, 30 Apr 2023 13:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Nuggets vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nuggets%20vs%20Suns",
-        "pubdate": "Sun, 30 Apr 2023 15:00:00 +1000"
+        "title": "Renee Gracie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Renee%20Gracie",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 +1000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Panthers vs Tigers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panthers%20vs%20Tigers",
         "pubdate": "Sat, 29 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Charlie Comben injury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charlie%20Comben%20injury",
-        "pubdate": "Sat, 29 Apr 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Kings",
-        "pubdate": "Sat, 29 Apr 2023 16:00:00 +1000"
       }
     ]
   ]
