@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-05-2023 , 16:53:12",
+  "lastUpdate": "01-05-2023 , 17:07:02",
   "data": [
     [
       {
         "title": "Pugh Rogefeldt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pugh%20Rogefeldt",
         "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Jock Zonfrillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jock%20Zonfrillo",
-        "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
+        "title": "Elsa Widding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elsa%20Widding",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Elsa Widding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elsa%20Widding",
-        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
+        "title": "Jock Zonfrillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jock%20Zonfrillo",
+        "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Socialdemokraterna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Socialdemokraterna",
         "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vänsterpartiet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4nsterpartiet",
+        "pubdate": "Mon, 01 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Kinnekulle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kinnekulle",
-        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Snapchat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Snapchat",
         "pubdate": "Sun, 30 Apr 2023 21:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Degerfors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
         "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ]

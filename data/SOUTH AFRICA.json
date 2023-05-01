@@ -1,25 +1,18 @@
 {
-  "lastUpdate": "01-05-2023 , 16:53:12",
+  "lastUpdate": "01-05-2023 , 17:07:02",
   "data": [
     [
       {
-        "title": "Labour Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Labour%20Day",
-        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kaizer Chiefs vs Swallows",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs%20vs%20Swallows",
+        "title": "Kaizer Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
         "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jock Zonfrillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jock%20Zonfrillo",
-        "pubdate": "Mon, 01 May 2023 08:00:00 +0200"
+        "title": "Labour Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Labour%20Day",
+        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "Workers' Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Workers'%20Day",
-        "pubdate": "Mon, 01 May 2023 06:00:00 +0200"
+        "title": "Jock Zonfrillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jock%20Zonfrillo",
+        "pubdate": "Mon, 01 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kings vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kings%20vs%20Warriors",
+        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,20 +59,6 @@
     ],
     [
       {
-        "title": "Kings vs Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kings%20vs%20Warriors",
-        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dan Kgwadi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dan%20Kgwadi",
-        "pubdate": "Mon, 01 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Late Late Show",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Late%20Late%20Show",
         "pubdate": "Mon, 01 May 2023 08:00:00 +0200"
@@ -94,15 +80,8 @@
     ],
     [
       {
-        "title": "Karl Lagerfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Karl%20Lagerfeld",
-        "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Warriors",
+        "title": "Yanga chief",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Yanga%20chief",
         "pubdate": "Mon, 01 May 2023 13:00:00 +0200"
       }
     ],
@@ -115,8 +94,22 @@
     ],
     [
       {
-        "title": "May month",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#May%20month",
+        "title": "KSI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#KSI",
+        "pubdate": "Mon, 01 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RCB vs LSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RCB%20vs%20LSG",
+        "pubdate": "Mon, 01 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "May Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#May%20Month",
         "pubdate": "Mon, 01 May 2023 16:00:00 +0200"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Fulham vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20Man%20City",
+        "pubdate": "Sun, 30 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Aston%20Villa",
         "pubdate": "Sun, 30 Apr 2023 15:00:00 +0200"
       }
     ]
