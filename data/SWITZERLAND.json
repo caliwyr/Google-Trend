@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "01-05-2023 , 03:47:53",
+  "lastUpdate": "01-05-2023 , 03:57:23",
   "data": [
     [
       {
-        "title": "Fête du travail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F%C3%AAte%20du%20travail",
+        "title": "Fête du Travail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F%C3%AAte%20du%20Travail",
         "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Tag der Arbeit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Arbeit",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
         "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Tag der Arbeit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Arbeit",
+        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lamine%20Yamal",
         "pubdate": "Sun, 30 Apr 2023 01:00:00 +0200"
@@ -104,6 +104,13 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
         "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "1. Mai Feiertag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Mai%20Feiertag",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "FC Aarau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
         "pubdate": "Sun, 30 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Til Schweiger Nora Tschirner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Til%20Schweiger%20Nora%20Tschirner",
-        "pubdate": "Sun, 30 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
