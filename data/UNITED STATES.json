@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "01-05-2023 , 14:59:24",
+  "lastUpdate": "01-05-2023 , 15:18:41",
   "data": [
     [
       {
-        "title": "First Republic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#First%20Republic",
+        "title": "Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
+        "pubdate": "Mon, 01 May 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "First Republic Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#First%20Republic%20Bank",
+        "pubdate": "Mon, 01 May 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "May Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#May%20Day",
         "pubdate": "Mon, 01 May 2023 00:00:00 -0700"
       }
     ],
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "May Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#May%20Day",
-        "pubdate": "Mon, 01 May 2023 00:00:00 -0700"
+        "title": "LEGO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LEGO",
+        "pubdate": "Mon, 01 May 2023 07:00:00 -0700"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Stephen Curry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stephen%20Curry",
-        "pubdate": "Sun, 30 Apr 2023 16:00:00 -0700"
+        "title": "Met Gala 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Met%20Gala%202023",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Met Gala 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Met%20Gala%202023",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
+        "title": "Stephen Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stephen%20Curry",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 -0700"
       }
     ],
     [
@@ -82,7 +96,7 @@
       {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
-        "pubdate": "Sun, 30 Apr 2023 17:00:00 -0700"
+        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
       }
     ],
     [
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG",
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Psg",
         "pubdate": "Sun, 30 Apr 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Domantas Sabonis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Domantas%20Sabonis",
+        "pubdate": "Sun, 30 Apr 2023 17:00:00 -0700"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Napoli",
-        "pubdate": "Sun, 30 Apr 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Fulham vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fulham%20vs%20Man%20City",
-        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Springsteen",
-        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Fatal Attraction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fatal%20Attraction",
-        "pubdate": "Sun, 30 Apr 2023 15:00:00 -0700"
+        "title": "Katy Perry American Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Katy%20Perry%20American%20Idol",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 -0700"
       }
     ]
   ]
