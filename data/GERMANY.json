@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2023 , 13:52:43",
+  "lastUpdate": "01-05-2023 , 14:06:48",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Erster Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erster%20Mai",
-        "pubdate": "Mon, 01 May 2023 02:00:00 +0200"
+        "title": "49-Euro-Ticket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#49-Euro-Ticket",
+        "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harry Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Potter",
+        "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Golden State Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Golden%20State%20Warriors",
-        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+        "title": "1. Mai Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20Mai%20Berlin",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erster Mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erster%20Mai",
+        "pubdate": "Mon, 01 May 2023 02:00:00 +0200"
       }
     ],
     [
@@ -34,6 +48,13 @@
         "title": "Jock Zonfrillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jock%20Zonfrillo",
         "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Golden State Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Golden%20State%20Warriors",
+        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Inka Bause",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inka%20Bause",
-        "pubdate": "Sun, 30 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ein Sommer auf Kreta&",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ein%20Sommer%20auf%20Kreta%26",
         "pubdate": "Sun, 30 Apr 2023 21:00:00 +0200"
@@ -104,13 +118,6 @@
         "title": "Ding Liren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ding%20Liren",
         "pubdate": "Sun, 30 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sarah Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sarah%20Connor",
-        "pubdate": "Sun, 30 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Sat, 29 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Sat, 29 Apr 2023 09:00:00 +0200"
       }
     ]
   ]
