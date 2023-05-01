@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-05-2023 , 19:52:55",
+  "lastUpdate": "01-05-2023 , 20:08:01",
   "data": [
     [
       {
         "title": "Jock Zonfrillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jock%20Zonfrillo",
         "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Met Gala 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Met%20Gala%202023",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Velliv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Velliv",
         "pubdate": "Mon, 01 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polio",
+        "pubdate": "Mon, 01 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bali",
         "pubdate": "Sun, 30 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
-        "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Derby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Derby",
-        "pubdate": "Sun, 30 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
