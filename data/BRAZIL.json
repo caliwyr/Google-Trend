@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-04-2023 , 23:56:52",
+  "lastUpdate": "01-05-2023 , 01:16:26",
   "data": [
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
-        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "PSG",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
         "pubdate": "Sun, 30 Apr 2023 12:00:00 -0500"
       }
     ],
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Manchester United x Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Aston%20Villa",
-        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0500"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0500"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0500"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United x Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Aston%20Villa",
+        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ceara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 -0500"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+        "pubdate": "Sun, 30 Apr 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Resumo Vai na Fé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20Vai%20na%20F%C3%A9",
         "pubdate": "Sun, 30 Apr 2023 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vila Nova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0500"
       }
     ],
     [
@@ -87,22 +108,15 @@
     ],
     [
       {
-        "title": "Jogo do SPORT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20SPORT",
+        "title": "Deive Leonardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Deive%20Leonardo",
         "pubdate": "Sun, 30 Apr 2023 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Vila Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Deive Leonardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Deive%20Leonardo",
+        "title": "Miami Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Miami%20Heat",
         "pubdate": "Sun, 30 Apr 2023 16:00:00 -0500"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
         "pubdate": "Sun, 30 Apr 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tombense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tombense",
-        "pubdate": "Sun, 30 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MotoGP",
-        "pubdate": "Sun, 30 Apr 2023 01:00:00 -0500"
       }
     ]
   ]

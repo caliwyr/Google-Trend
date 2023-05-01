@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-04-2023 , 23:56:50",
+  "lastUpdate": "01-05-2023 , 01:16:25",
   "data": [
+    [
+      {
+        "title": "Jimmy Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Butler",
+        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Liverpool",
@@ -10,8 +17,29 @@
     ],
     [
       {
-        "title": "Jimmy Butler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Butler",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
+        "pubdate": "Sun, 30 Apr 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Met Gala 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Met%20Gala%202023",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Shaq Barrett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shaq%20Barrett",
+        "pubdate": "Sun, 30 Apr 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Brittney Griner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brittney%20Griner",
         "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
       }
     ],
@@ -24,37 +52,9 @@
     ],
     [
       {
-        "title": "Brittney Griner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brittney%20Griner",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Julius Randle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Julius%20Randle",
         "pubdate": "Sun, 30 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Met Gala 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Met%20Gala%202023",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Mike Shannon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Shannon",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Fulham vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fulham%20vs%20Man%20City",
-        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Shaq Barrett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shaq%20Barrett",
-        "pubdate": "Sun, 30 Apr 2023 15:00:00 -0700"
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Springsteen",
+        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Springsteen",
-        "pubdate": "Sun, 30 Apr 2023 08:00:00 -0700"
+        "title": "Kevon Looney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevon%20Looney",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 -0700"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Man United vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Aston%20Villa",
-        "pubdate": "Sun, 30 Apr 2023 10:00:00 -0700"
+        "title": "Ligue 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ligue%201",
+        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Ligue 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ligue%201",
-        "pubdate": "Sun, 30 Apr 2023 12:00:00 -0700"
+        "title": "Man United vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Aston%20Villa",
+        "pubdate": "Sun, 30 Apr 2023 10:00:00 -0700"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Dia del niño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dia%20del%20ni%C3%B1o",
+        "pubdate": "Sun, 30 Apr 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Chris Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Paul",
+        "pubdate": "Sun, 30 Apr 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Alan Rickman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alan%20Rickman",
         "pubdate": "Sat, 29 Apr 2023 22:00:00 -0700"
@@ -125,20 +139,6 @@
         "title": "Suns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
         "pubdate": "Sat, 29 Apr 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
-        "pubdate": "Sat, 29 Apr 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "NFL Draft Grades",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Draft%20Grades",
-        "pubdate": "Sat, 29 Apr 2023 09:00:00 -0700"
       }
     ]
   ]
