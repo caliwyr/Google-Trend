@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2023 , 12:52:09",
+  "lastUpdate": "01-05-2023 , 13:08:09",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
-        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Mon, 01 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
+        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Florent Pagny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florent%20Pagny",
         "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Fete du travail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20du%20travail",
+        "title": "Fete du Travail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20du%20Travail",
         "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
       }
     ],
@@ -69,6 +76,13 @@
         "title": "Stephen Curry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stephen%20Curry",
         "pubdate": "Mon, 01 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dirk van Duijvenbode",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dirk%20van%20Duijvenbode",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
         "pubdate": "Sun, 30 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lamine%20Yamal",
-        "pubdate": "Sun, 30 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coupe de Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
-        "pubdate": "Sun, 30 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
