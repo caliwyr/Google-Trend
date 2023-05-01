@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2023 , 02:59:29",
+  "lastUpdate": "01-05-2023 , 03:20:02",
   "data": [
     [
       {
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "Ajax Vrouwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Vrouwen",
-        "pubdate": "Sat, 29 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nyck de Vries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nyck%20de%20Vries",
-        "pubdate": "Sat, 29 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Duncan Laurence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
         "pubdate": "Sat, 29 Apr 2023 00:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "KNVB Beker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB%20Beker",
         "pubdate": "Fri, 28 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Fri, 28 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
+        "pubdate": "Fri, 28 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
