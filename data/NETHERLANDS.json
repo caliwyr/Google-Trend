@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2023 , 11:57:16",
+  "lastUpdate": "01-05-2023 , 12:29:12",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
         "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "First Republic Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#First%20Republic%20Bank",
+        "pubdate": "Mon, 01 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax-PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-PSV",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Psg",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
+        "title": "Dag van de Arbeid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20Arbeid",
+        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dag van de Arbeid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20Arbeid",
-        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Psg",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -103,13 +117,6 @@
       {
         "title": "Ajax-PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-PSV",
-        "pubdate": "Sat, 29 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-PSV",
         "pubdate": "Sat, 29 Apr 2023 09:00:00 +0200"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Duncan Laurence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
-        "pubdate": "Sat, 29 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
-        "pubdate": "Fri, 28 Apr 2023 14:00:00 +0200"
+        "title": "Charly Luske",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Charly%20Luske",
+        "pubdate": "Sat, 29 Apr 2023 22:00:00 +0200"
       }
     ]
   ]
