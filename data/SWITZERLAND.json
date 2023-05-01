@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-05-2023 , 05:56:01",
+  "lastUpdate": "01-05-2023 , 06:17:00",
   "data": [
+    [
+      {
+        "title": "Fête du Travail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F%C3%AAte%20du%20Travail",
+        "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "First Republic Bank",
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "1. Mai Feiertag Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Mai%20Feiertag%20Schweiz",
+        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Napoli Salernitana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Salernitana",
         "pubdate": "Sun, 30 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tag der Arbeit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Arbeit",
+        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,23 +80,16 @@
     ],
     [
       {
-        "title": "Pierre Maudet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pierre%20Maudet",
-        "pubdate": "Sun, 30 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tag der Arbeit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Arbeit",
-        "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
         "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Sun, 30 Apr 2023 16:00:00 +0200"
+        "title": "Elections geneve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elections%20geneve",
+        "pubdate": "Sun, 30 Apr 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bologna  Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna%20%20Juventus",
         "pubdate": "Sun, 30 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool – Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Tottenham",
-        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Aarau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
-        "pubdate": "Sun, 30 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
