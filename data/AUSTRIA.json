@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2023 , 17:59:01",
+  "lastUpdate": "01-05-2023 , 18:22:26",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20M%C3%BCnchen",
+        "title": "Bayern münchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20m%C3%BCnchen",
         "pubdate": "Mon, 01 May 2023 12:00:00 +0200"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Maiaufmarsch Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maiaufmarsch%20Wien",
+        "pubdate": "Mon, 01 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "John Wick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#John%20Wick",
         "pubdate": "Mon, 01 May 2023 01:00:00 +0200"
@@ -55,6 +62,13 @@
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Zverev",
         "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carlos%20Alcaraz",
+        "pubdate": "Mon, 01 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Erster Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erster%20Mai",
-        "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tornado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tornado",
         "pubdate": "Mon, 01 May 2023 16:00:00 +0200"
@@ -89,6 +96,13 @@
       {
         "title": "Praterstern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Praterstern",
+        "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erster Mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erster%20Mai",
         "pubdate": "Mon, 01 May 2023 15:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Bayern gegen Hertha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20gegen%20Hertha",
         "pubdate": "Sun, 30 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Baku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Baku",
-        "pubdate": "Sun, 30 Apr 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool gegen Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20gegen%20Tottenham",
-        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
