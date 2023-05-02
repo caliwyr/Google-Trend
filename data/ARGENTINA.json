@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2023 , 00:34:53",
+  "lastUpdate": "02-05-2023 , 01:50:14",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Sevilla  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20%20Girona",
+        "pubdate": "Mon, 01 May 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Chacarita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chacarita",
         "pubdate": "Mon, 01 May 2023 00:00:00 -0300"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Sevilla  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20%20Girona",
-        "pubdate": "Mon, 01 May 2023 17:00:00 -0300"
+        "title": "Dia del trabajo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20trabajo",
+        "pubdate": "Mon, 01 May 2023 10:00:00 -0300"
       }
     ],
     [
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "Patronato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Patronato",
-        "pubdate": "Mon, 01 May 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ferro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ferro",
-        "pubdate": "Mon, 01 May 2023 16:00:00 -0300"
+        "title": "Vogue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vogue",
+        "pubdate": "Mon, 01 May 2023 19:00:00 -0300"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "Central Norte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20Norte",
+        "title": "Patronato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Patronato",
         "pubdate": "Mon, 01 May 2023 00:00:00 -0300"
       }
     ],
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "Vogue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vogue",
-        "pubdate": "Mon, 01 May 2023 19:00:00 -0300"
+        "title": "Ferro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ferro",
+        "pubdate": "Mon, 01 May 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Central Norte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20Norte",
+        "pubdate": "Mon, 01 May 2023 00:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flamengo",
         "pubdate": "Mon, 01 May 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atletico",
-        "pubdate": "Mon, 01 May 2023 14:00:00 -0300"
       }
     ]
   ]
