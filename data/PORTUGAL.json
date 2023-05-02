@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-05-2023 , 19:49:04",
+  "lastUpdate": "02-05-2023 , 19:58:24",
   "data": [
+    [
+      {
+        "title": "Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santander",
+        "pubdate": "Tue, 02 May 2023 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Segurança Social",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Caixa Geral depositos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20depositos",
+        "pubdate": "Tue, 02 May 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "CTT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CTT",
         "pubdate": "Tue, 02 May 2023 17:00:00 +0100"
@@ -34,6 +48,20 @@
         "title": "LinkedIn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#LinkedIn",
         "pubdate": "Tue, 02 May 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "João Galamba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Galamba",
+        "pubdate": "Tue, 02 May 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "EXPRESSO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#EXPRESSO",
+        "pubdate": "Tue, 02 May 2023 20:00:00 +0100"
       }
     ],
     [
@@ -55,13 +83,6 @@
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Drive",
         "pubdate": "Tue, 02 May 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIS",
-        "pubdate": "Tue, 02 May 2023 13:00:00 +0100"
       }
     ],
     [
@@ -94,6 +115,13 @@
     ],
     [
       {
+        "title": "Barcelona  Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Osasuna",
+        "pubdate": "Tue, 02 May 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "IMT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IMT",
         "pubdate": "Tue, 02 May 2023 17:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Pedro Pascal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Pascal",
-        "pubdate": "Tue, 02 May 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
-        "pubdate": "Tue, 02 May 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "SNS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SNS",
         "pubdate": "Tue, 02 May 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Diario da republica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diario%20da%20republica",
-        "pubdate": "Tue, 02 May 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Osasuna",
-        "pubdate": "Tue, 02 May 2023 18:00:00 +0100"
       }
     ]
   ]
