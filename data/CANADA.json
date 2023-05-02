@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-05-2023 , 01:50:16",
+  "lastUpdate": "02-05-2023 , 02:24:47",
   "data": [
     [
       {
         "title": "PSAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSAC",
         "pubdate": "Mon, 01 May 2023 06:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Hydro quebec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro%20quebec",
-        "pubdate": "Mon, 01 May 2023 11:00:00 -0400"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Hydro quebec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro%20quebec",
+        "pubdate": "Mon, 01 May 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Jock Zonfrillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jock%20Zonfrillo",
         "pubdate": "Mon, 01 May 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Calgary Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
+        "pubdate": "Mon, 01 May 2023 13:00:00 -0400"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Calgary Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Flames",
-        "pubdate": "Mon, 01 May 2023 13:00:00 -0400"
+        "title": "Tim Bachman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Bachman",
+        "pubdate": "Mon, 01 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Tim Bachman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Bachman",
-        "pubdate": "Mon, 01 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snoop%20Dogg",
-        "pubdate": "Mon, 01 May 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Baie st Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Baie%20st%20Paul",
         "pubdate": "Mon, 01 May 2023 17:00:00 -0400"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Aerosmith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aerosmith",
+        "pubdate": "Mon, 01 May 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Labour Day 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Labour%20Day%202023",
         "pubdate": "Mon, 01 May 2023 00:00:00 -0400"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Aerosmith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aerosmith",
-        "pubdate": "Mon, 01 May 2023 13:00:00 -0400"
+        "title": "Redfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Redfall",
+        "pubdate": "Mon, 01 May 2023 11:00:00 -0400"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "May 2023 calendar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#May%202023%20calendar",
         "pubdate": "Mon, 01 May 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snoop%20Dogg",
+        "pubdate": "Mon, 01 May 2023 17:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cinco de Mayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cinco%20de%20Mayo",
         "pubdate": "Mon, 01 May 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Redfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Redfall",
-        "pubdate": "Mon, 01 May 2023 11:00:00 -0400"
       }
     ]
   ]
