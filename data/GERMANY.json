@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2023 , 08:50:54",
+  "lastUpdate": "02-05-2023 , 09:00:16",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Met Gala 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Met%20Gala%202023",
+        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Mon, 01 May 2023 22:00:00 +0200"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "VfL Wolfsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
-        "pubdate": "Mon, 01 May 2023 16:00:00 +0200"
+        "title": "FC Bayern münchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20m%C3%BCnchen",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Karl Lagerfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karl%20Lagerfeld",
-        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
+        "title": "VfL Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
+        "pubdate": "Mon, 01 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Redfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Redfall",
+        "pubdate": "Mon, 01 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 30 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Palmer",
-        "pubdate": "Sun, 30 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ding Liren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ding%20Liren",
-        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ]
   ]
