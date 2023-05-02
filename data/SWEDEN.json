@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-05-2023 , 23:52:23",
+  "lastUpdate": "02-05-2023 , 00:35:05",
   "data": [
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
-        "pubdate": "Tue, 02 May 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Aerosmith",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Jock Zonfrillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jock%20Zonfrillo",
-        "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elsa Widding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elsa%20Widding",
         "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Jock Zonfrillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jock%20Zonfrillo",
+        "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Peter Forsberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Forsberg",
         "pubdate": "Mon, 01 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Första maj-tåg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rsta%20maj-t%C3%A5g",
+        "pubdate": "Mon, 01 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Kinnekulle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kinnekulle",
-        "pubdate": "Sun, 30 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Snapchat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Snapchat",
         "pubdate": "Sun, 30 Apr 2023 21:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Förstamaj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rstamaj",
+        "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Degerfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
         "pubdate": "Sun, 30 Apr 2023 19:00:00 +0200"
       }
     ]
