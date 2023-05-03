@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 02:49:40",
+  "lastUpdate": "03-05-2023 , 02:59:00",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Google Pixel 6a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Google%20Pixel%206a",
-        "pubdate": "Tue, 02 May 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rihanna",
         "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Egri János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Egri%20J%C3%A1nos",
         "pubdate": "Tue, 02 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ocean's 8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ocean's%208",
+        "pubdate": "Tue, 02 May 2023 23:00:00 +0200"
       }
     ]
   ]
