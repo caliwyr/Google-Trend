@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 16:49:51",
+  "lastUpdate": "03-05-2023 , 16:59:09",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Tori Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tori%20Bowie",
+        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ed Sheeran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ed%20Sheeran",
         "pubdate": "Wed, 03 May 2023 08:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Dillon Brooks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dillon%20Brooks",
         "pubdate": "Wed, 03 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tori Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tori%20Bowie",
-        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Warriors – Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warriors%20%E2%80%93%20Lakers",
-        "pubdate": "Wed, 03 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Two summers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Two%20summers",
         "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
@@ -90,6 +83,13 @@
         "title": "Belgrade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgrade",
         "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Warriors – Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warriors%20%E2%80%93%20Lakers",
+        "pubdate": "Wed, 03 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Barcelona  Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona%20%20Osasuna",
-        "pubdate": "Tue, 02 May 2023 19:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Tue, 02 May 2023 21:00:00 +0200"
       }
     ]
   ]
