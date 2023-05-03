@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2023 , 23:50:48",
+  "lastUpdate": "02-05-2023 , 23:59:58",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Palmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Palmer",
         "pubdate": "Tue, 02 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF",
+        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Sarah Engels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sarah%20Engels",
-        "pubdate": "Tue, 02 May 2023 14:00:00 +0200"
+        "title": "Helene Fischer Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Stuttgart",
+        "pubdate": "Tue, 02 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Deutschlandticket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschlandticket",
         "pubdate": "Mon, 01 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karl Lagerfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karl%20Lagerfeld",
-        "pubdate": "Mon, 01 May 2023 00:00:00 +0200"
       }
     ]
   ]
