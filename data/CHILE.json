@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 09:50:31",
+  "lastUpdate": "03-05-2023 , 09:59:47",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dua%20Lipa",
+        "pubdate": "Tue, 02 May 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Cruz de mayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cruz%20de%20mayo",
         "pubdate": "Tue, 02 May 2023 18:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Subsidio Familiar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Subsidio%20Familiar",
         "pubdate": "Tue, 02 May 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Kristen Stewart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kristen%20Stewart",
-        "pubdate": "Tue, 02 May 2023 07:00:00 -0400"
       }
     ]
   ]
