@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-05-2023 , 21:48:03",
+  "lastUpdate": "03-05-2023 , 21:57:24",
   "data": [
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Häcken mot Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20Djurg%C3%A5rden",
-        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
+        "title": "Allsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
+        "pubdate": "Wed, 03 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Morden i Sandhamn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morden%20i%20Sandhamn",
-        "pubdate": "Wed, 03 May 2023 15:00:00 +0200"
+        "title": "Häcken mot Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20Djurg%C3%A5rden",
+        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,20 @@
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tori%20Bowie",
         "pubdate": "Wed, 03 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Morden i Sandhamn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morden%20i%20Sandhamn",
+        "pubdate": "Wed, 03 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Wed, 03 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Australien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Australien",
-        "pubdate": "Wed, 03 May 2023 03:00:00 +0200"
+        "title": "Veronica Maggio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Veronica%20Maggio",
+        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Veronica Maggio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Veronica%20Maggio",
-        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
+        "title": "Australien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Australien",
+        "pubdate": "Wed, 03 May 2023 03:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Lucy Letby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucy%20Letby",
-        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lucas Wallmark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucas%20Wallmark",
         "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dune",
-        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
+        "title": "Lucy Letby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucy%20Letby",
+        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
       }
     ]
   ]
