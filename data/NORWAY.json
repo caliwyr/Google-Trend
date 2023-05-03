@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-05-2023 , 15:51:54",
+  "lastUpdate": "03-05-2023 , 16:06:53",
   "data": [
     [
       {
         "title": "Helene Spilling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helene%20Spilling",
         "pubdate": "Wed, 03 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Forsvarskommisjonen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvarskommisjonen",
-        "pubdate": "Wed, 03 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tori%20Bowie",
         "pubdate": "Wed, 03 May 2023 16:00:00 +0200"
@@ -31,9 +31,30 @@
     ],
     [
       {
+        "title": "Forsvarskommisjonen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvarskommisjonen",
+        "pubdate": "Wed, 03 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "H&M Beauty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%26M%20Beauty",
+        "pubdate": "Wed, 03 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kim Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kim%20Kardashian",
         "pubdate": "Wed, 03 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serbia",
+        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Vålerenga Lillestrøm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Lillestr%C3%B8m",
         "pubdate": "Mon, 01 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joker",
-        "pubdate": "Mon, 01 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kiwi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiwi",
-        "pubdate": "Mon, 01 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helga Pedersen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helga%20Pedersen",
-        "pubdate": "Mon, 01 May 2023 20:00:00 +0200"
       }
     ]
   ]
