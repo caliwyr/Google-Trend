@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-05-2023 , 13:55:58",
+  "lastUpdate": "03-05-2023 , 14:11:38",
   "data": [
     [
       {
         "title": "Manuel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manuel",
         "pubdate": "Wed, 03 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magyar Kupa-döntő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa-d%C3%B6nt%C5%91",
+        "pubdate": "Wed, 03 May 2023 06:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Magyar Kupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
-        "pubdate": "Wed, 03 May 2023 06:00:00 +0200"
+        "title": "Mészáros Lőrinc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
+        "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keresztes Ildikó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keresztes%20Ildik%C3%B3",
+        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Mészáros Lőrinc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
-        "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Magyar Telekom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Telekom",
         "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Keresztes Ildikó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keresztes%20Ildik%C3%B3",
-        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
+        "title": "Szabó Zsófi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Zs%C3%B3fi",
+        "pubdate": "Wed, 03 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bill Nighy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bill%20Nighy",
         "pubdate": "Tue, 02 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kim%20Kardashian",
-        "pubdate": "Tue, 02 May 2023 16:00:00 +0200"
       }
     ]
   ]

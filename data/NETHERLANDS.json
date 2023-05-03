@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 13:56:02",
+  "lastUpdate": "03-05-2023 , 14:11:41",
   "data": [
     [
       {
@@ -54,7 +54,7 @@
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Tue, 02 May 2023 21:00:00 +0200"
+        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Nadia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nadia",
+        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Met Gala 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20Gala%202023",
         "pubdate": "Mon, 01 May 2023 03:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Warmtepomp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Warmtepomp",
         "pubdate": "Mon, 01 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Obama",
-        "pubdate": "Mon, 01 May 2023 21:00:00 +0200"
       }
     ]
   ]
