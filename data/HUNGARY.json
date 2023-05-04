@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-05-2023 , 17:51:11",
+  "lastUpdate": "04-05-2023 , 18:00:47",
   "data": [
     [
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20A",
         "pubdate": "Thu, 04 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bridgerton",
+        "pubdate": "Thu, 04 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Ungár Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ung%C3%A1r%20P%C3%A9ter",
-        "pubdate": "Thu, 04 May 2023 06:00:00 +0200"
+        "title": "Mona Lisa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mona%20Lisa",
+        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mona Lisa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mona%20Lisa",
-        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
+        "title": "Ungár Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ung%C3%A1r%20P%C3%A9ter",
+        "pubdate": "Thu, 04 May 2023 06:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Curtis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Curtis",
+        "pubdate": "Thu, 04 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chrono Odyssey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chrono%20Odyssey",
         "pubdate": "Thu, 04 May 2023 12:00:00 +0200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Curtis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Curtis",
-        "pubdate": "Thu, 04 May 2023 15:00:00 +0200"
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Georgia",
+        "pubdate": "Thu, 04 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Koronázás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koron%C3%A1z%C3%A1s",
-        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Woke",
         "pubdate": "Thu, 04 May 2023 17:00:00 +0200"
@@ -87,9 +94,23 @@
     ],
     [
       {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Georgia",
-        "pubdate": "Thu, 04 May 2023 18:00:00 +0200"
+        "title": "Koronázás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koron%C3%A1z%C3%A1s",
+        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Judy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Judy",
+        "pubdate": "Thu, 04 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NER",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NER",
+        "pubdate": "Thu, 04 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Manchester city–west Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93west%20Ham",
         "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mészáros Árpád Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20%C3%81rp%C3%A1d%20Zsolt",
-        "pubdate": "Wed, 03 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CPAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CPAC",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dune 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dune%202",
-        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
       }
     ]
   ]
