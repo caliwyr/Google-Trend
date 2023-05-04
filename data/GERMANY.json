@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-05-2023 , 12:54:05",
+  "lastUpdate": "04-05-2023 , 13:12:36",
   "data": [
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serie%20a",
+        "pubdate": "Thu, 04 May 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "May the 4th",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Star Wars Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars%20Day",
+        "pubdate": "Thu, 04 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Stefan Mross",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Mross",
         "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
@@ -24,9 +38,16 @@
     ],
     [
       {
-        "title": "Star Wars Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars%20Day",
-        "pubdate": "Thu, 04 May 2023 10:00:00 +0200"
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars",
+        "pubdate": "Thu, 04 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carmen Geiss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carmen%20Geiss",
+        "pubdate": "Wed, 03 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bellingham",
-        "pubdate": "Wed, 03 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Obama Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Obama%20Berlin",
         "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed",
+        "title": "Dune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dune",
+        "pubdate": "Wed, 03 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bellingham",
         "pubdate": "Wed, 03 May 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Der Bachelor Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Der%20Bachelor%20Finale",
-        "pubdate": "Wed, 03 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Friesland Bis aufs Blut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friesland%20Bis%20aufs%20Blut",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dune",
-        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB Stuttgart gegen Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart%20gegen%20Eintracht%20Frankfurt",
-        "pubdate": "Tue, 02 May 2023 14:00:00 +0200"
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed",
+        "pubdate": "Wed, 03 May 2023 20:00:00 +0200"
       }
     ]
   ]
