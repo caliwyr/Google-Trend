@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "04-05-2023 , 11:48:31",
+  "lastUpdate": "04-05-2023 , 11:57:54",
   "data": [
     [
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
-        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Star Wars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Wars",
         "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ],
@@ -24,16 +17,23 @@
     ],
     [
       {
-        "title": "Tomas Ledin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tomas%20Ledin",
-        "pubdate": "Thu, 04 May 2023 07:00:00 +0200"
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Wars",
+        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kreml",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kreml",
-        "pubdate": "Thu, 04 May 2023 10:00:00 +0200"
+        "title": "May the fourth be with you",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%20fourth%20be%20with%20you",
+        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tomas Ledin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tomas%20Ledin",
+        "pubdate": "Thu, 04 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Gustaf Douglas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustaf%20Douglas",
-        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Häcken mot Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20Djurg%C3%A5rden",
         "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Guardians of the Galaxy 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Guardians%20of%20the%20Galaxy%203",
         "pubdate": "Wed, 03 May 2023 16:00:00 +0200"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Veronica Maggio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Veronica%20Maggio",
-        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,6 +104,13 @@
         "title": "Kevin Costner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kevin%20Costner",
         "pubdate": "Wed, 03 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Miriam Bryant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miriam%20Bryant",
+        "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Wed, 03 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Veronica Maggio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Veronica%20Maggio",
+        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
       }
     ]
   ]
