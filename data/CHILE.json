@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2023 , 08:47:31",
+  "lastUpdate": "04-05-2023 , 08:56:56",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-        "pubdate": "Wed, 03 May 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Cobreloa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
         "pubdate": "Wed, 03 May 2023 19:00:00 -0400"
@@ -115,6 +108,20 @@
     ],
     [
       {
+        "title": "Atlético Mineiro  Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Mineiro%20%20Alianza%20Lima",
+        "pubdate": "Wed, 03 May 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
+        "pubdate": "Wed, 03 May 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Boston Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boston%20Celtics",
         "pubdate": "Wed, 03 May 2023 23:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Star",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Star",
         "pubdate": "Wed, 03 May 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tori Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tori%20Bowie",
-        "pubdate": "Wed, 03 May 2023 16:00:00 -0400"
       }
     ]
   ]
