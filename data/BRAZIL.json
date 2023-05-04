@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2023 , 03:47:14",
+  "lastUpdate": "04-05-2023 , 03:56:34",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
+        "pubdate": "Wed, 03 May 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Campeonato Italiano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Italiano",
         "pubdate": "Wed, 03 May 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Juventude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
+        "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
       }
     ],
     [
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Juventude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
-        "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Messi",
         "pubdate": "Wed, 03 May 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia",
-        "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Jamie Foxx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jamie%20Foxx",
-        "pubdate": "Wed, 03 May 2023 10:00:00 -0500"
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia",
+        "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
       }
     ],
     [
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Taxa Selic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taxa%20Selic",
+        "title": "América-RN x Ypiranga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-RN%20x%20Ypiranga",
         "pubdate": "Wed, 03 May 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jamie Foxx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jamie%20Foxx",
+        "pubdate": "Wed, 03 May 2023 10:00:00 -0500"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
-        "pubdate": "Wed, 03 May 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LeBron%20James",
         "pubdate": "Wed, 03 May 2023 07:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
-        "pubdate": "Wed, 03 May 2023 12:00:00 -0500"
+        "title": "Taxa Selic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taxa%20Selic",
+        "pubdate": "Wed, 03 May 2023 18:00:00 -0500"
       }
     ]
   ]
