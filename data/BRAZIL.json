@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "04-05-2023 , 16:54:05",
+  "lastUpdate": "04-05-2023 , 17:08:21",
   "data": [
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star%20Wars",
+        "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bridgerton",
         "pubdate": "Thu, 04 May 2023 08:00:00 -0500"
       }
     ],
     [
       {
-        "title": "May the 4th",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#May%20the%204th",
-        "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
+        "title": "Lovezinho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lovezinho",
+        "pubdate": "Thu, 04 May 2023 07:00:00 -0500"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "MC Ryan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Ryan",
-        "pubdate": "Thu, 04 May 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "May the 4th Be With You",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#May%20the%204th%20Be%20With%20You",
         "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Lovezinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lovezinho",
-        "pubdate": "Thu, 04 May 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Chrono Odyssey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chrono%20Odyssey",
-        "pubdate": "Thu, 04 May 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bridgerton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bridgerton",
-        "pubdate": "Thu, 04 May 2023 08:00:00 -0500"
+        "title": "MC Ryan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Ryan",
+        "pubdate": "Thu, 04 May 2023 06:00:00 -0500"
       }
     ],
     [
@@ -73,6 +59,20 @@
     ],
     [
       {
+        "title": "Sorteio resultado loteria federal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sorteio%20resultado%20loteria%20federal",
+        "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chrono Odyssey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chrono%20Odyssey",
+        "pubdate": "Thu, 04 May 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Harry%20Styles",
         "pubdate": "Thu, 04 May 2023 07:00:00 -0500"
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Sorteio resultado loteria federal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sorteio%20resultado%20loteria%20federal",
-        "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
+        "title": "Duna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Duna",
+        "pubdate": "Thu, 04 May 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Laura Cardoso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Laura%20Cardoso",
+        "pubdate": "Thu, 04 May 2023 01:00:00 -0500"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Atlético-MG x Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Alianza%20Lima",
+        "title": "ATLÉTICO-MG X ALIANZA LIMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ATL%C3%89TICO-MG%20X%20ALIANZA%20LIMA",
         "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Juventude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
-        "pubdate": "Wed, 03 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Italiano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Italiano",
-        "pubdate": "Wed, 03 May 2023 12:00:00 -0500"
+        "pubdate": "Wed, 03 May 2023 14:00:00 -0500"
       }
     ]
   ]
