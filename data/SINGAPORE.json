@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-05-2023 , 15:45:32",
+  "lastUpdate": "04-05-2023 , 16:22:52",
   "data": [
+    [
+      {
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Thu, 04 May 2023 14:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Liverpool vs Fulham",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "COE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-        "pubdate": "Thu, 04 May 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "May the 4th be with you",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#May%20the%204th%20be%20with%20you",
         "pubdate": "Thu, 04 May 2023 08:00:00 +0800"
@@ -34,6 +34,13 @@
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tori%20Bowie",
         "pubdate": "Thu, 04 May 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Star Wars Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Wars%20Day",
+        "pubdate": "Thu, 04 May 2023 12:00:00 +0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Star Wars Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Wars%20Day",
-        "pubdate": "Thu, 04 May 2023 12:00:00 +0800"
+        "title": "Dune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dune",
+        "pubdate": "Thu, 04 May 2023 07:00:00 +0800"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Jude Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jude%20Bellingham",
         "pubdate": "Thu, 04 May 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dune",
-        "pubdate": "Thu, 04 May 2023 07:00:00 +0800"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Queen Charlotte: A Bridgerton Story",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Queen%20Charlotte:%20A%20Bridgerton%20Story",
+        "pubdate": "Thu, 04 May 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Serbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Serbia",
         "pubdate": "Thu, 04 May 2023 15:00:00 +0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Star Wars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Wars",
-        "pubdate": "Thu, 04 May 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
-        "pubdate": "Wed, 03 May 2023 11:00:00 +0800"
+        "title": "Brighton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Man%20United",
+        "pubdate": "Thu, 04 May 2023 23:00:00 +0800"
       }
     ]
   ]
