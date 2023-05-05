@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 09:49:39",
+  "lastUpdate": "05-05-2023 , 09:58:46",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Dodenherdenking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dodenherdenking",
+        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
         "pubdate": "Wed, 03 May 2023 23:00:00 +0200"
@@ -97,20 +104,6 @@
         "title": "Vakantiegeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vakantiegeld",
         "pubdate": "Wed, 03 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Transavia vluchten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Transavia%20vluchten",
-        "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Imca Marina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Imca%20Marina",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FNV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FNV",
         "pubdate": "Tue, 02 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Detox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Detox",
+        "pubdate": "Tue, 02 May 2023 01:00:00 +0200"
       }
     ]
   ]
