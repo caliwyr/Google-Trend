@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 01:41:25",
+  "lastUpdate": "05-05-2023 , 02:19:33",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "AaFK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AaFK",
+        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ezra Miller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ezra%20Miller",
         "pubdate": "Thu, 04 May 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Brann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
         "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eliteserien 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien%202023",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
       }
     ]
   ]

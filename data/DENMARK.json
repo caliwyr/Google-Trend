@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-05-2023 , 01:41:19",
+  "lastUpdate": "05-05-2023 , 02:19:27",
   "data": [
+    [
+      {
+        "title": "Prins Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prins%20Charles",
+        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Star Wars",
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Jack Reacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20Reacher",
+        "title": "Jack reacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20reacher",
         "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sheets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sheets",
         "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dune",
-        "pubdate": "Wed, 03 May 2023 22:00:00 +0200"
       }
     ]
   ]
