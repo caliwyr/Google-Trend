@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-05-2023 , 14:44:32",
+  "lastUpdate": "05-05-2023 , 14:54:03",
   "data": [
+    [
+      {
+        "title": "Prince Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prince%20Charles",
+        "pubdate": "Sat, 06 May 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Ed Sheeran",
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "Brighton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brighton%20vs%20Man%20United",
+        "pubdate": "Fri, 05 May 2023 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Magic Round",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Magic%20Round",
+        "pubdate": "Fri, 05 May 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bulldogs vs Raiders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs%20vs%20Raiders",
         "pubdate": "Fri, 05 May 2023 19:00:00 +1000"
@@ -31,30 +52,9 @@
     ],
     [
       {
-        "title": "Coronation Quiche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coronation%20Quiche",
-        "pubdate": "Fri, 05 May 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Manly Sea Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20Sea%20Eagles",
-        "pubdate": "Fri, 05 May 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Montaigne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Montaigne",
         "pubdate": "Fri, 05 May 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Magic Round",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Magic%20Round",
-        "pubdate": "Fri, 05 May 2023 14:00:00 +1000"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Coronation Chicken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coronation%20Chicken",
         "pubdate": "Fri, 05 May 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Pepe Coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pepe%20Coin",
-        "pubdate": "Fri, 05 May 2023 13:00:00 +1000"
       }
     ],
     [
@@ -124,7 +117,7 @@
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Thu, 04 May 2023 00:00:00 +1000"
+        "pubdate": "Thu, 04 May 2023 01:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "May The 4th be with you",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#May%20The%204th%20be%20with%20you",
         "pubdate": "Thu, 04 May 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serie%20A",
+        "pubdate": "Thu, 04 May 2023 22:00:00 +1000"
       }
     ]
   ]
