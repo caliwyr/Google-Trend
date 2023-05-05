@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 03:46:13",
+  "lastUpdate": "05-05-2023 , 03:55:23",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20A",
-        "pubdate": "Thu, 04 May 2023 00:00:00 +0200"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
+        "pubdate": "Thu, 04 May 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
-        "pubdate": "Thu, 04 May 2023 21:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20A",
+        "pubdate": "Thu, 04 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "SEVILLA–ESPANYOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SEVILLA%E2%80%93ESPANYOL",
+        "title": "Sevilla–Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%E2%80%93Espanyol",
         "pubdate": "Thu, 04 May 2023 20:00:00 +0200"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Ungár Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ung%C3%A1r%20P%C3%A9ter",
-        "pubdate": "Thu, 04 May 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Millie Bobby Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Millie%20Bobby%20Brown",
         "pubdate": "Thu, 04 May 2023 07:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Georgia",
-        "pubdate": "Thu, 04 May 2023 18:00:00 +0200"
+        "title": "Martin Freeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Martin%20Freeman",
+        "pubdate": "Thu, 04 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Woke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Woke",
+        "pubdate": "Thu, 04 May 2023 17:00:00 +0200"
       }
     ]
   ]
