@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 12:41:47",
+  "lastUpdate": "05-05-2023 , 12:58:09",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Matty Healy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matty%20Healy",
-        "pubdate": "Fri, 05 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brighton",
         "pubdate": "Fri, 05 May 2023 13:00:00 +0200"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
-        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
+        "title": "Matty Healy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matty%20Healy",
+        "pubdate": "Fri, 05 May 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Thu, 04 May 2023 20:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
+        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "IFK Göteborg mot Degerfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20mot%20Degerfors",
-        "pubdate": "Thu, 04 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jonathan Johansson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonathan%20Johansson",
         "pubdate": "Thu, 04 May 2023 10:00:00 +0200"
@@ -97,6 +83,13 @@
         "title": "May the 4th be with you!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%204th%20be%20with%20you!",
         "pubdate": "Thu, 04 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Thu, 04 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bridgerton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bridgerton",
         "pubdate": "Thu, 04 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Wars",
+        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ]
   ]
