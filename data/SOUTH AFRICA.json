@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-05-2023 , 08:53:17",
+  "lastUpdate": "05-05-2023 , 09:08:03",
   "data": [
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers",
+        "pubdate": "Fri, 05 May 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Katlego Bereng",
@@ -132,13 +139,6 @@
         "title": "Man City vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20West%20Ham",
         "pubdate": "Wed, 03 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Orlando Pirates vs RoyalAM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates%20vs%20RoyalAM",
-        "pubdate": "Wed, 03 May 2023 15:00:00 +0200"
       }
     ]
   ]
