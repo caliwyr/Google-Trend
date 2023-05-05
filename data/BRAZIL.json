@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-05-2023 , 13:47:36",
+  "lastUpdate": "05-05-2023 , 13:56:57",
   "data": [
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
-        "pubdate": "Fri, 05 May 2023 04:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Nath Finanças",
@@ -20,13 +13,6 @@
         "title": "Paul McCartney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paul%20McCartney",
         "pubdate": "Fri, 05 May 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "The rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20rock",
-        "pubdate": "Fri, 05 May 2023 06:00:00 -0500"
       }
     ],
     [
@@ -45,6 +31,20 @@
     ],
     [
       {
+        "title": "The rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20rock",
+        "pubdate": "Fri, 05 May 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fabio Assunção",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabio%20Assun%C3%A7%C3%A3o",
+        "pubdate": "Fri, 05 May 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
         "pubdate": "Thu, 04 May 2023 15:00:00 -0500"
@@ -55,6 +55,13 @@
         "title": "Atlético Paranaense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20Paranaense",
         "pubdate": "Thu, 04 May 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
+        "pubdate": "Thu, 04 May 2023 23:00:00 -0500"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Goias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
-        "pubdate": "Thu, 04 May 2023 16:00:00 -0500"
+        "title": "São Bernardo x Remo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Bernardo%20x%20Remo",
+        "pubdate": "Thu, 04 May 2023 20:00:00 -0500"
       }
     ],
     [
       {
-        "title": "São Bernardo x Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Bernardo%20x%20Remo",
-        "pubdate": "Thu, 04 May 2023 20:00:00 -0500"
+        "title": "Goias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
+        "pubdate": "Thu, 04 May 2023 16:00:00 -0500"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Thu, 04 May 2023 16:00:00 -0500"
+        "title": "Falsa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Falsa",
+        "pubdate": "Thu, 04 May 2023 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Falsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Falsa",
-        "pubdate": "Thu, 04 May 2023 11:00:00 -0500"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Thu, 04 May 2023 16:00:00 -0500"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Melgar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Melgar",
-        "pubdate": "Thu, 04 May 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Deportivo Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Deportivo%20Pereira",
         "pubdate": "Thu, 04 May 2023 15:00:00 -0500"
       }
     ]
