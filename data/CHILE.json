@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-05-2023 , 23:40:21",
+  "lastUpdate": "05-05-2023 , 23:49:38",
   "data": [
     [
       {
         "title": "Anuel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anuel",
         "pubdate": "Fri, 05 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Roger Waters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roger%20Waters",
-        "pubdate": "Fri, 05 May 2023 12:00:00 -0400"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Roger Waters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roger%20Waters",
+        "pubdate": "Fri, 05 May 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Golden State",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Golden%20State",
         "pubdate": "Fri, 05 May 2023 04:00:00 -0400"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Vanesa Borghi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vanesa%20Borghi",
-        "pubdate": "Fri, 05 May 2023 05:00:00 -0400"
+        "title": "Eclipse mayo 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%20mayo%202023",
+        "pubdate": "Fri, 05 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayer%20Leverkusen",
+        "pubdate": "Fri, 05 May 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Karatsev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karatsev",
         "pubdate": "Fri, 05 May 2023 17:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Audax Italiano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano",
         "pubdate": "Thu, 04 May 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
-        "pubdate": "Thu, 04 May 2023 17:00:00 -0400"
       }
     ]
   ]
