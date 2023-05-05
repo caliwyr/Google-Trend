@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 21:46:02",
+  "lastUpdate": "05-05-2023 , 21:55:19",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Ricchi e Poveri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ricchi%20e%20Poveri",
+        "pubdate": "Fri, 05 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Di Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Di%20Lorenzo",
         "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Kvaratskhelia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kvaratskhelia",
-        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
+        "title": "Moonlight Shadow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Moonlight%20Shadow",
+        "pubdate": "Fri, 05 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,20 @@
         "title": "Corrado Formigli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Corrado%20Formigli",
         "pubdate": "Fri, 05 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kvaratskhelia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kvaratskhelia",
+        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cagliari Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cagliari%20Calcio",
+        "pubdate": "Fri, 05 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,23 +94,9 @@
     ],
     [
       {
-        "title": "Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Covid",
-        "pubdate": "Fri, 05 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Non odiare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Non%20odiare",
-        "pubdate": "Fri, 05 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pro Vercelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pro%20Vercelli",
-        "pubdate": "Fri, 05 May 2023 01:00:00 +0200"
+        "title": "Eclissi lunare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eclissi%20lunare",
+        "pubdate": "Fri, 05 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -101,27 +108,6 @@
     ],
     [
       {
-        "title": "Marisa Laurito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marisa%20Laurito",
-        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eclissi lunare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eclissi%20lunare",
-        "pubdate": "Fri, 05 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli-Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Fiorentina",
-        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inside Man",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inside%20Man",
         "pubdate": "Fri, 05 May 2023 21:00:00 +0200"
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Priyanka Chopra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Priyanka%20Chopra",
-        "pubdate": "Fri, 05 May 2023 12:00:00 +0200"
+        "title": "Marisa Laurito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marisa%20Laurito",
+        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "5 maggio Manzoni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#5%20maggio%20Manzoni",
-        "pubdate": "Fri, 05 May 2023 08:00:00 +0200"
+        "title": "Aurelio De Laurentiis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aurelio%20De%20Laurentiis",
+        "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pro Vercelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pro%20Vercelli",
+        "pubdate": "Fri, 05 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Raiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raiz",
+        "pubdate": "Fri, 05 May 2023 23:00:00 +0200"
       }
     ]
   ]
