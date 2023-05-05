@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2023 , 23:51:14",
+  "lastUpdate": "05-05-2023 , 00:23:43",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Stream",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stream",
+        "pubdate": "Thu, 04 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Star%20Wars",
         "pubdate": "Thu, 04 May 2023 21:00:00 +0200"
       }
     ],
@@ -124,13 +131,6 @@
       {
         "title": "ČT sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
-        "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SK Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
         "pubdate": "Wed, 03 May 2023 21:00:00 +0200"
       }
     ],

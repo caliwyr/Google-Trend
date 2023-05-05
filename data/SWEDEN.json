@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2023 , 23:51:23",
+  "lastUpdate": "05-05-2023 , 00:23:49",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Thu, 04 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
+        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "May the 4th be with you!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%204th%20be%20with%20you!",
-        "pubdate": "Thu, 04 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IFK Göteborg mot Degerfors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20mot%20Degerfors",
         "pubdate": "Thu, 04 May 2023 19:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
-        "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
+        "title": "May the 4th be with you!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%204th%20be%20with%20you!",
+        "pubdate": "Thu, 04 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "IFK Norrköping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
         "pubdate": "Thu, 04 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "May the fourth be with you",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%20fourth%20be%20with%20you",
+        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Napoli",
-        "pubdate": "Thu, 04 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Star Wars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Star%20Wars",
         "pubdate": "Thu, 04 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "May the fourth be with you",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20the%20fourth%20be%20with%20you",
-        "pubdate": "Thu, 04 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hammarby Fotboll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
         "pubdate": "Thu, 04 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Degerfors IF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
+        "pubdate": "Thu, 04 May 2023 22:00:00 +0200"
       }
     ]
   ]
