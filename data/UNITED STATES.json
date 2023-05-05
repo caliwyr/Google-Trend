@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-05-2023 , 22:52:44",
+  "lastUpdate": "05-05-2023 , 23:07:01",
   "data": [
-    [
-      {
-        "title": "Dallas Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Stars",
-        "pubdate": "Fri, 05 May 2023 05:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Coronation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coronation",
         "pubdate": "Fri, 05 May 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "DallasStars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DallasStars",
+        "pubdate": "Fri, 05 May 2023 05:00:00 -0700"
       }
     ],
     [
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "SeattleKraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SeattleKraken",
+        "title": "Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
         "pubdate": "Fri, 05 May 2023 08:00:00 -0700"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Bobby Moudy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bobby%20Moudy",
+        "pubdate": "Fri, 05 May 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Amber Heard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amber%20Heard",
         "pubdate": "Fri, 05 May 2023 07:00:00 -0700"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Bobby Moudy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bobby%20Moudy",
-        "pubdate": "Fri, 05 May 2023 11:00:00 -0700"
+        "title": "Pepe Coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pepe%20Coin",
+        "pubdate": "Fri, 05 May 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Richard Glossip",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Richard%20Glossip",
+        "pubdate": "Fri, 05 May 2023 15:00:00 -0700"
       }
     ],
     [
@@ -80,8 +94,15 @@
     ],
     [
       {
-        "title": "Mint Julep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mint%20Julep",
+        "title": "Gervonta Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gervonta%20Davis",
+        "pubdate": "Fri, 05 May 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mint julep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mint%20julep",
         "pubdate": "Fri, 05 May 2023 14:00:00 -0700"
       }
     ],
@@ -90,13 +111,6 @@
         "title": "Kim Gardner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kim%20Gardner",
         "pubdate": "Fri, 05 May 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Gervonta Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gervonta%20Davis",
-        "pubdate": "Fri, 05 May 2023 14:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Guardians of the Galaxy 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Guardians%20of%20the%20Galaxy%203",
         "pubdate": "Thu, 04 May 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ed%20Sheeran",
-        "pubdate": "Thu, 04 May 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Carrie Fisher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carrie%20Fisher",
-        "pubdate": "Thu, 04 May 2023 06:00:00 -0700"
       }
     ]
   ]
