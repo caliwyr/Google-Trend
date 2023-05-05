@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 05:45:00",
+  "lastUpdate": "05-05-2023 , 05:54:18",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Brighton  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Manchester%20United",
         "pubdate": "Thu, 04 May 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Warriors  Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Warriors%20%20Lakers",
-        "pubdate": "Thu, 04 May 2023 22:00:00 -0600"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Eclipse lunar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20lunar",
+        "pubdate": "Thu, 04 May 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Cat in Blender",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cat%20in%20Blender",
         "pubdate": "Thu, 04 May 2023 16:00:00 -0600"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Athletic  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Athletic%20%20Betis",
-        "pubdate": "Thu, 04 May 2023 15:00:00 -0600"
+        "title": "Sevilla FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sevilla%20FC",
+        "pubdate": "Thu, 04 May 2023 14:00:00 -0600"
       }
     ],
     [
@@ -87,29 +87,8 @@
     ],
     [
       {
-        "title": "Bridgerton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bridgerton",
-        "pubdate": "Thu, 04 May 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Eclipse lunar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20lunar",
-        "pubdate": "Thu, 04 May 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Brighton vs Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20vs%20Manchester%20United",
-        "pubdate": "Thu, 04 May 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla vs Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sevilla%20vs%20Espanyol",
         "pubdate": "Thu, 04 May 2023 14:00:00 -0600"
       }
     ],
@@ -122,9 +101,23 @@
     ],
     [
       {
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bridgerton",
+        "pubdate": "Thu, 04 May 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Tapatio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tapatio",
         "pubdate": "Thu, 04 May 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Contingencia ambiental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Contingencia%20ambiental",
+        "pubdate": "Thu, 04 May 2023 23:00:00 -0600"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Karen Gillan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Karen%20Gillan",
         "pubdate": "Thu, 04 May 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Latin Mafia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Latin%20Mafia",
+        "pubdate": "Thu, 04 May 2023 13:00:00 -0600"
       }
     ]
   ]
