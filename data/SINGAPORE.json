@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2023 , 20:52:42",
+  "lastUpdate": "05-05-2023 , 21:06:05",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Ed Sheeran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ed%20Sheeran",
         "pubdate": "Fri, 05 May 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton",
-        "pubdate": "Fri, 05 May 2023 07:00:00 +0800"
       }
     ],
     [
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton",
+        "pubdate": "Fri, 05 May 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Cinco de Mayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cinco%20de%20Mayo",
         "pubdate": "Fri, 05 May 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Alexis Mac Allister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alexis%20Mac%20Allister",
+        "pubdate": "Fri, 05 May 2023 11:00:00 +0800"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Warriors Vs. Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Warriors%20Vs.%20Lakers",
+        "title": "Warriors vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Warriors%20vs%20Lakers",
         "pubdate": "Thu, 04 May 2023 09:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "COE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
         "pubdate": "Thu, 04 May 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man city vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20city%20vs%20West%20Ham",
-        "pubdate": "Thu, 04 May 2023 03:00:00 +0800"
       }
     ]
   ]
