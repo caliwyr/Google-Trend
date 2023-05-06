@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-05-2023 , 18:45:17",
+  "lastUpdate": "06-05-2023 , 18:54:44",
   "data": [
+    [
+      {
+        "title": "Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
+        "pubdate": "Sat, 06 May 2023 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Manchester City  Leeds",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Bournemouth ( Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bournemouth%20(%20Chelsea",
+        "pubdate": "Sat, 06 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
         "pubdate": "Sat, 06 May 2023 17:00:00 +0200"
@@ -27,6 +41,13 @@
         "title": "Queen Elizabeth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Queen%20Elizabeth",
         "pubdate": "Sat, 06 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roma – Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma%20%E2%80%93%20Inter",
+        "pubdate": "Sat, 06 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,16 +73,9 @@
     ],
     [
       {
-        "title": "Giro LIVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Giro%20LIVE",
+        "title": "Giro live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Giro%20live",
         "pubdate": "Sat, 06 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roma – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma%20%E2%80%93%20Inter",
-        "pubdate": "Sat, 06 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +87,23 @@
     ],
     [
       {
+        "title": "Liverpool – Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Brentford",
+        "pubdate": "Sat, 06 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Commonwealth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Commonwealth",
         "pubdate": "Sat, 06 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prins Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Prins%20Charles",
+        "pubdate": "Sat, 06 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -94,13 +122,6 @@
     ],
     [
       {
-        "title": "Aladdin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aladdin",
-        "pubdate": "Sat, 06 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Philippe Sollers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Philippe%20Sollers",
         "pubdate": "Sat, 06 May 2023 17:00:00 +0200"
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Elizabeth 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elizabeth%202",
-        "pubdate": "Sat, 06 May 2023 16:00:00 +0200"
+        "title": "Aladdin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aladdin",
+        "pubdate": "Sat, 06 May 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bart Peeters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Peeters",
-        "pubdate": "Sat, 06 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
-        "pubdate": "Sat, 06 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chine",
-        "pubdate": "Sat, 06 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charles III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charles%20III",
-        "pubdate": "Fri, 05 May 2023 13:00:00 +0200"
+        "title": "Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
+        "pubdate": "Sat, 06 May 2023 20:00:00 +0200"
       }
     ]
   ]
