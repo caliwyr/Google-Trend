@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2023 , 01:23:27",
+  "lastUpdate": "06-05-2023 , 02:08:47",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lakers",
-        "pubdate": "Fri, 05 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hogwarts Legacy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hogwarts%20Legacy",
         "pubdate": "Fri, 05 May 2023 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Carrie Fisher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carrie%20Fisher",
         "pubdate": "Fri, 05 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cyril Féraud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20F%C3%A9raud",
+        "pubdate": "Fri, 05 May 2023 23:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2023 , 01:23:27",
+  "lastUpdate": "06-05-2023 , 02:08:47",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Wagner-Gruppe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-Gruppe",
-        "pubdate": "Fri, 05 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DJ Bobo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DJ%20Bobo",
         "pubdate": "Fri, 05 May 2023 00:00:00 +0200"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Bridgerton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bridgerton",
-        "pubdate": "Thu, 04 May 2023 14:00:00 +0200"
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Thu, 04 May 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Thu, 04 May 2023 17:00:00 +0200"
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bridgerton",
+        "pubdate": "Thu, 04 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Star Wars Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars%20Day",
         "pubdate": "Thu, 04 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Struff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
+        "pubdate": "Thu, 04 May 2023 23:00:00 +0200"
       }
     ]
   ]
