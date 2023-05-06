@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "06-05-2023 , 08:47:12",
+  "lastUpdate": "06-05-2023 , 08:56:43",
   "data": [
     [
       {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yellowstone",
         "pubdate": "Sat, 06 May 2023 00:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kentucky Derby 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20Derby%202023",
-        "pubdate": "Fri, 05 May 2023 09:00:00 -0700"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
-        "pubdate": "Fri, 05 May 2023 08:00:00 -0700"
+        "title": "Kentucky Derby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20Derby",
+        "pubdate": "Fri, 05 May 2023 09:00:00 -0700"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Seattle Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seattle%20Kraken",
+        "pubdate": "Fri, 05 May 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kamala%20Harris",
         "pubdate": "Fri, 05 May 2023 13:00:00 -0700"
@@ -69,13 +69,6 @@
         "title": "Mint julep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mint%20julep",
         "pubdate": "Fri, 05 May 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Canelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canelo",
-        "pubdate": "Fri, 05 May 2023 20:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lauren Heike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lauren%20Heike",
         "pubdate": "Fri, 05 May 2023 02:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Gervonta Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gervonta%20Davis",
+        "pubdate": "Fri, 05 May 2023 14:00:00 -0700"
       }
     ]
   ]

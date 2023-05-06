@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2023 , 08:47:17",
+  "lastUpdate": "06-05-2023 , 08:56:46",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%20Leverkusen",
+        "pubdate": "Fri, 05 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bodensee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bodensee",
         "pubdate": "Fri, 05 May 2023 19:00:00 +0200"
@@ -59,29 +66,8 @@
     ],
     [
       {
-        "title": "1. FC Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20FC%20K%C3%B6ln",
-        "pubdate": "Fri, 05 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Flensburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flensburg",
-        "pubdate": "Fri, 05 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hogwarts Legacy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hogwarts%20Legacy",
-        "pubdate": "Fri, 05 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Schalke%2004",
         "pubdate": "Fri, 05 May 2023 22:00:00 +0200"
       }
     ],
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "Flensburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flensburg",
+        "pubdate": "Fri, 05 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bridgerton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bridgerton",
         "pubdate": "Thu, 04 May 2023 14:00:00 +0200"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt",
-        "pubdate": "Thu, 04 May 2023 07:00:00 +0200"
+        "title": "Struff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
+        "pubdate": "Thu, 04 May 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Struff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
-        "pubdate": "Thu, 04 May 2023 23:00:00 +0200"
+        "title": "Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt",
+        "pubdate": "Thu, 04 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gewitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
         "pubdate": "Thu, 04 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Costner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20Costner",
+        "pubdate": "Wed, 03 May 2023 12:00:00 +0200"
       }
     ]
   ]
