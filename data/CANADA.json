@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-05-2023 , 12:51:47",
+  "lastUpdate": "06-05-2023 , 13:04:50",
   "data": [
     [
       {
         "title": "Suns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Suns",
         "pubdate": "Sat, 06 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Prince Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prince%20Harry",
+        "pubdate": "Sat, 06 May 2023 07:00:00 -0400"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Prince William",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prince%20William",
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kate%20Middleton",
         "pubdate": "Sat, 06 May 2023 07:00:00 -0400"
       }
     ],
@@ -52,15 +59,22 @@
     ],
     [
       {
-        "title": "Bakhmut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bakhmut",
-        "pubdate": "Sat, 06 May 2023 01:00:00 -0400"
+        "title": "Camilla Parker Bowles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Camilla%20Parker%20Bowles",
+        "pubdate": "Sat, 06 May 2023 08:00:00 -0400"
       }
     ],
     [
       {
         "title": "Grande Prairie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grande%20Prairie",
+        "pubdate": "Sat, 06 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bakhmut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bakhmut",
         "pubdate": "Sat, 06 May 2023 01:00:00 -0400"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Seattle Kraken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seattle%20Kraken",
         "pubdate": "Fri, 05 May 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Prince Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prince%20Harry",
-        "pubdate": "Fri, 05 May 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "WHO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHO",
-        "pubdate": "Fri, 05 May 2023 19:00:00 -0400"
       }
     ]
   ]
