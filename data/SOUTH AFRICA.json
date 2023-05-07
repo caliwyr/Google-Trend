@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-05-2023 , 14:52:43",
+  "lastUpdate": "07-05-2023 , 15:06:33",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "pubdate": "Sun, 07 May 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Juventus",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Newcastle vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Arsenal",
-        "pubdate": "Sun, 07 May 2023 11:00:00 +0200"
+        "title": "WWE Backlash 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WWE%20Backlash%202023",
+        "pubdate": "Sun, 07 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Makhadzi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Makhadzi",
         "pubdate": "Sun, 07 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WWE Backlash 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WWE%20Backlash%202023",
-        "pubdate": "Sun, 07 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,30 @@
     ],
     [
       {
+        "title": "West Ham vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Man%20United",
+        "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Princess Anne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Princess%20Anne",
         "pubdate": "Sun, 07 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coronation Concert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Coronation%20Concert",
+        "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Percy Tau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Percy%20Tau",
+        "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Metro FM awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Metro%20FM%20awards",
         "pubdate": "Sat, 06 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-        "pubdate": "Sat, 06 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sharks vs Leinster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sharks%20vs%20Leinster",
-        "pubdate": "Sat, 06 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wolves vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wolves%20vs%20Aston%20Villa",
-        "pubdate": "Sat, 06 May 2023 14:00:00 +0200"
       }
     ]
   ]
