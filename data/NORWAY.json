@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-05-2023 , 15:58:41",
+  "lastUpdate": "07-05-2023 , 16:21:06",
   "data": [
+    [
+      {
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Miley%20Cyrus",
+        "pubdate": "Sun, 07 May 2023 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Sun, 07 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Charles",
-        "pubdate": "Sat, 06 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sat, 06 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sat, 06 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Westminster Abbey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Westminster%20Abbey",
+        "pubdate": "Sat, 06 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -41,6 +55,13 @@
         "title": "Sam Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sam%20Smith",
         "pubdate": "Sat, 06 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Charles",
+        "pubdate": "Sat, 06 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-        "pubdate": "Sat, 06 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Christine Guldbrandsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Christine%20Guldbrandsen",
         "pubdate": "Sat, 06 May 2023 23:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Jan Christian Vestre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jan%20Christian%20Vestre",
         "pubdate": "Sat, 06 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foreldrepermisjon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Foreldrepermisjon",
-        "pubdate": "Sat, 06 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ada Hegerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ada%20Hegerberg",
-        "pubdate": "Sat, 06 May 2023 13:00:00 +0200"
       }
     ]
   ]
