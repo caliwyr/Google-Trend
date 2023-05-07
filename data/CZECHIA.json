@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2023 , 11:48:41",
+  "lastUpdate": "07-05-2023 , 11:58:46",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Korunovace Karla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Korunovace%20Karla",
+        "pubdate": "Sat, 06 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Plzeň – Slovácko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Slov%C3%A1cko",
         "pubdate": "Sat, 06 May 2023 18:00:00 +0200"
@@ -69,6 +76,13 @@
         "title": "Diana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Diana",
         "pubdate": "Sat, 06 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maraton Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maraton%20Praha",
+        "pubdate": "Sat, 06 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
         "pubdate": "Sat, 06 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Biden",
-        "pubdate": "Sat, 06 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
-        "pubdate": "Sat, 06 May 2023 19:00:00 +0200"
       }
     ]
   ]
