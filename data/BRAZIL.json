@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-05-2023 , 09:58:18",
+  "lastUpdate": "07-05-2023 , 10:17:01",
   "data": [
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors",
+        "pubdate": "Sun, 07 May 2023 03:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Cruzeiro x Santos",
@@ -132,13 +139,6 @@
         "title": "Miami Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Miami%20Heat",
         "pubdate": "Sat, 06 May 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
-        "pubdate": "Sat, 06 May 2023 02:00:00 -0500"
       }
     ]
   ]
