@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-05-2023 , 19:56:32",
+  "lastUpdate": "07-05-2023 , 20:13:54",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Mon, 08 May 2023 07:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "UFC",
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20qualifying",
+        "pubdate": "Sun, 07 May 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Belal Muhammad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Belal%20Muhammad",
         "pubdate": "Sun, 07 May 2023 16:00:00 +1200"
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20qualifying",
-        "pubdate": "Sun, 07 May 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
         "pubdate": "Sun, 07 May 2023 10:00:00 +1200"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Prince Andrew",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Prince%20Andrew",
-        "pubdate": "Sun, 07 May 2023 01:00:00 +1200"
+        "title": "Princess Eugenie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Princess%20Eugenie",
+        "pubdate": "Sun, 07 May 2023 20:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man City vs Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Leeds%20United",
         "pubdate": "Sun, 07 May 2023 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Duke of Gloucester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Duke%20of%20Gloucester",
-        "pubdate": "Sun, 07 May 2023 01:00:00 +1200"
       }
     ]
   ]
