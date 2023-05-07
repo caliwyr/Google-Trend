@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2023 , 21:56:37",
+  "lastUpdate": "07-05-2023 , 22:12:23",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift",
-        "pubdate": "Sun, 07 May 2023 04:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Belal Muhammad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Belal%20Muhammad",
         "pubdate": "Sun, 07 May 2023 14:00:00 +1000"
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+        "title": "Mancity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mancity",
         "pubdate": "Sun, 07 May 2023 03:00:00 +1000"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "USC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USC",
         "pubdate": "Sun, 07 May 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Sydney FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
+        "pubdate": "Sun, 07 May 2023 13:00:00 +1000"
       }
     ]
   ]
