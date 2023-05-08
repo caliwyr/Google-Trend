@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-05-2023 , 08:56:50",
+  "lastUpdate": "08-05-2023 , 09:14:48",
   "data": [
+    [
+      {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Teams",
+        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Camille",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Les Gardiens de la Galaxie 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Gardiens%20de%20la%20Galaxie%202",
+        "title": "Les Gardiens de la galaxie 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Gardiens%20de%20la%20galaxie%202",
         "pubdate": "Mon, 08 May 2023 00:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Wie is de mol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wie%20is%20de%20mol",
         "pubdate": "Sun, 07 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KAA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
-        "pubdate": "Sun, 07 May 2023 01:00:00 +0200"
       }
     ]
   ]
