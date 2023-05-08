@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 14:09:31",
+  "lastUpdate": "08-05-2023 , 14:24:45",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Haribo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Haribo",
+        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Momo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Momo",
         "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oppenheimer",
+        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dortmund",
-        "pubdate": "Sun, 07 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "OB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
-        "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Struff Tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Struff%20Tennis",
         "pubdate": "Sun, 07 May 2023 21:00:00 +0200"
       }
     ]
