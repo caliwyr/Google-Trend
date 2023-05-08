@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 17:00:17",
+  "lastUpdate": "08-05-2023 , 17:16:36",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "ZUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ZUS",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
+        "title": "Alior Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alior%20Bank",
+        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "BNP Paribas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BNP%20Paribas",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Katarzyna Dowbor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Dowbor",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
@@ -59,8 +52,15 @@
     ],
     [
       {
-        "title": "Tauron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tauron",
+        "title": "BNP Paribas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BNP%20Paribas",
+        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TAURON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TAURON",
         "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
       }
     ],
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "8 maja Święto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#8%20maja%20%C5%9Awi%C4%99to",
-        "pubdate": "Mon, 08 May 2023 01:00:00 +0200"
+        "title": "Kursy walut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kursy%20walut",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oppenheimer",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "8 maja Święto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#8%20maja%20%C5%9Awi%C4%99to",
+        "pubdate": "Mon, 08 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -124,13 +131,6 @@
       {
         "title": "Major Paris 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Major%20Paris%202023",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ufg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ufg",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 17:00:21",
+  "lastUpdate": "08-05-2023 , 17:16:39",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "Garanti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Garanti",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Halkbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Halkbank",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yapı Kredi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yap%C4%B1%20Kredi",
+        "pubdate": "Mon, 08 May 2023 15:00:00 +0300"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "BİST 100",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#B%C4%B0ST%20100",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "PTT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PTT",
         "pubdate": "Mon, 08 May 2023 18:00:00 +0300"
@@ -55,13 +76,6 @@
         "title": "Ziraat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ziraat",
         "pubdate": "Mon, 08 May 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "BIST 100",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BIST%20100",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
       }
     ],
     [
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Yargı Ilgaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yarg%C4%B1%20Ilgaz",
-        "pubdate": "Mon, 08 May 2023 05:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "BORSA İSTANBUL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BORSA%20%C4%B0STANBUL",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0300"
+        "title": "Al Nassr  al-khaleej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Nassr%20%20al-khaleej",
+        "pubdate": "Mon, 08 May 2023 19:00:00 +0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Feyyaz Yiğit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Feyyaz%20Yi%C4%9Fit",
-        "pubdate": "Mon, 08 May 2023 00:00:00 +0300"
+        "title": "Yargı Ilgaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yarg%C4%B1%20Ilgaz",
+        "pubdate": "Mon, 08 May 2023 05:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Mustafa Aksakallı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mustafa%20Aksakall%C4%B1",
+        "title": "Borsa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borsa",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "QNB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#QNB",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
       }
     ]
   ]
