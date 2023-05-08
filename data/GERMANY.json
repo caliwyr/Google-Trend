@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 11:57:35",
+  "lastUpdate": "08-05-2023 , 12:31:32",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Office 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Office%20365",
+        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Johannes Brahms",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Johannes%20Brahms",
         "pubdate": "Sun, 07 May 2023 01:00:00 +0200"
@@ -62,6 +69,13 @@
         "title": "Struff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
         "pubdate": "Sun, 07 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Sun, 07 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,23 @@
     ],
     [
       {
-        "title": "Endometriose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Endometriose",
-        "pubdate": "Sun, 07 May 2023 22:00:00 +0200"
+        "title": "Adeyemi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adeyemi",
+        "pubdate": "Sun, 07 May 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Immer wieder sonntags",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Immer%20wieder%20sonntags",
-        "pubdate": "Sun, 07 May 2023 11:00:00 +0200"
+        "title": "Heidenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim",
+        "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Endometriose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Endometriose",
+        "pubdate": "Sun, 07 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Mats Hummels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mats%20Hummels",
-        "pubdate": "Sun, 07 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karim Adeyemi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karim%20Adeyemi",
-        "pubdate": "Sun, 07 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
-        "pubdate": "Sun, 07 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prinz Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinz%20Harry",
-        "pubdate": "Sat, 06 May 2023 09:00:00 +0200"
+        "title": "Immer wieder sonntags",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Immer%20wieder%20sonntags",
+        "pubdate": "Sun, 07 May 2023 11:00:00 +0200"
       }
     ]
   ]
