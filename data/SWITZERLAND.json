@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-05-2023 , 16:07:14",
+  "lastUpdate": "08-05-2023 , 16:29:30",
   "data": [
+    [
+      {
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katy%20Perry",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lionel Richie",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "New Jersey Devils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#New%20Jersey%20Devils",
-        "pubdate": "Mon, 08 May 2023 07:00:00 +0200"
+        "title": "Éric Zemmour accident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%89ric%20Zemmour%20accident",
+        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Éric Zemmour accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%89ric%20Zemmour%20accident",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
+        "title": "New Jersey Devils",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#New%20Jersey%20Devils",
+        "pubdate": "Mon, 08 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "ATP Ranking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Ranking",
-        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Binance",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lyon",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+        "title": "ATP Ranking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Ranking",
+        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,20 @@
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oppenheimer",
         "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tom%20Cruise",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lyon",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Les Gardiens de la Galaxie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Les%20Gardiens%20de%20la%20Galaxie",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Basler Zeitung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Basler%20Zeitung",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johannes Brahms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Johannes%20Brahms",
-        "pubdate": "Sun, 07 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
-        "pubdate": "Sun, 07 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Miami",
-        "pubdate": "Sun, 07 May 2023 08:00:00 +0200"
       }
     ]
   ]
