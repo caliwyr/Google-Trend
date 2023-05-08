@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-05-2023 , 19:08:58",
+  "lastUpdate": "08-05-2023 , 19:18:23",
   "data": [
     [
       {
         "title": "Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alonso",
         "pubdate": "Mon, 08 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mattie Valk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mattie%20Valk",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Mattie Valk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mattie%20Valk",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+        "title": "Irene Moors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Moors",
+        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Giro d'Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Giro%20d'Italia",
-        "pubdate": "Sun, 07 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 07 May 2023 12:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Ajax Vrouwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Vrouwen",
-        "pubdate": "Sun, 07 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Annemiek van Vleuten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Annemiek%20van%20Vleuten",
         "pubdate": "Sun, 07 May 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Sun, 07 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groningen",
+        "pubdate": "Sun, 07 May 2023 19:00:00 +0200"
       }
     ]
   ]
