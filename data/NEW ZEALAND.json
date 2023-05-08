@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 02:58:45",
+  "lastUpdate": "08-05-2023 , 03:18:52",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Meghan%20Markle",
+        "pubdate": "Sun, 07 May 2023 00:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Duncan Garner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Duncan%20Garner",
         "pubdate": "Sun, 07 May 2023 12:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Princess Eugenie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Princess%20Eugenie",
         "pubdate": "Sun, 07 May 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Prince Edward",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Prince%20Edward",
-        "pubdate": "Sun, 07 May 2023 00:00:00 +1200"
       }
     ]
   ]
