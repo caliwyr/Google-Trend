@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "08-05-2023 , 10:54:48",
+  "lastUpdate": "08-05-2023 , 11:09:19",
   "data": [
     [
       {
         "title": "K&H",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%26H",
         "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MVM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szja-bevallás 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szja-bevall%C3%A1s%202023",
+        "pubdate": "Mon, 08 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Heti horoszkóp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heti%20horoszk%C3%B3p",
-        "pubdate": "Mon, 08 May 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KSH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KSH",
         "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Újfehértó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajfeh%C3%A9rt%C3%B3",
-        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
+        "title": "Heti horoszkóp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heti%20horoszk%C3%B3p",
+        "pubdate": "Mon, 08 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Szujó Zoltán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szuj%C3%B3%20Zolt%C3%A1n",
-        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+        "title": "MOL Fehérvár",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOL%20Feh%C3%A9rv%C3%A1r",
+        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "MOL Fehérvár",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOL%20Feh%C3%A9rv%C3%A1r",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
+        "title": "Szujó Zoltán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szuj%C3%B3%20Zolt%C3%A1n",
+        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "DAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DAC",
-        "pubdate": "Sun, 07 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund–Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund%E2%80%93Wolfsburg",
         "pubdate": "Sun, 07 May 2023 09:00:00 +0200"
@@ -104,6 +104,13 @@
         "title": "Atalanta–Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atalanta%E2%80%93Juventus",
         "pubdate": "Sun, 07 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DAC",
+        "pubdate": "Sun, 07 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hegedűs D. Géza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heged%C5%B1s%20D.%20G%C3%A9za",
         "pubdate": "Sun, 07 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GTA 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#GTA%206",
-        "pubdate": "Sun, 07 May 2023 10:00:00 +0200"
       }
     ]
   ]
