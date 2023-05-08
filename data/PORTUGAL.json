@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 07:54:06",
+  "lastUpdate": "08-05-2023 , 08:12:32",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Dia das maes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20das%20maes",
+        "pubdate": "Sun, 07 May 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dia das maes Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20das%20maes%20Portugal",
         "pubdate": "Sun, 07 May 2023 09:00:00 +0100"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Troyes  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Troyes%20%20PSG",
-        "pubdate": "Sun, 07 May 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Siga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Siga",
         "pubdate": "Sun, 07 May 2023 21:00:00 +0100"
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Troyes  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Troyes%20%20PSG",
+        "pubdate": "Sun, 07 May 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Palmirinha Onofre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmirinha%20Onofre",
         "pubdate": "Sun, 07 May 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Canal 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Canal%2011",
+        "pubdate": "Sun, 07 May 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Dia das Mães",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20das%20M%C3%A3es",
-        "pubdate": "Sun, 07 May 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Athletico-PR  Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Athletico-PR%20%20Flamengo",
         "pubdate": "Sun, 07 May 2023 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
         "pubdate": "Sun, 07 May 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lakers",
-        "pubdate": "Sun, 07 May 2023 14:00:00 +0100"
       }
     ]
   ]
