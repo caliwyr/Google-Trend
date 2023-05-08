@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-05-2023 , 17:54:21",
+  "lastUpdate": "08-05-2023 , 18:12:12",
   "data": [
-    [
-      {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gmail",
-        "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Thuli Phongolo",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Google Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Google%20Maps",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gmail",
+        "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,44 @@
     ],
     [
       {
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Google%20Maps",
+        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr vs Al-Khaleej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al-Khaleej",
+        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Everton",
+        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Maps",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
         "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20League",
+        "pubdate": "Mon, 08 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,8 +80,15 @@
     ],
     [
       {
-        "title": "SABC radio license",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC%20radio%20license",
+        "title": "Westlife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Westlife",
+        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC",
         "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
       }
     ],
@@ -66,13 +101,6 @@
     ],
     [
       {
-        "title": "Westlife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Westlife",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
         "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
@@ -80,9 +108,9 @@
     ],
     [
       {
-        "title": "Brighton vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Everton",
-        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Championship",
+        "pubdate": "Mon, 08 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -90,27 +118,6 @@
         "title": "Cut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cut",
         "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr vs Al-Khaleej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al-Khaleej",
-        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celtic fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic%20fc",
-        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stellenbosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stellenbosch",
-        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Teams",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sheffield%20United",
-        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
+        "title": "Celtic fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic%20fc",
+        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
       }
     ]
   ]
