@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-05-2023 , 23:58:02",
+  "lastUpdate": "08-05-2023 , 01:21:06",
   "data": [
     [
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
         "pubdate": "Sun, 07 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Maple Leafs vs Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Panthers",
+        "pubdate": "Sun, 07 May 2023 10:00:00 -0400"
       }
     ],
     [
@@ -31,6 +38,27 @@
     ],
     [
       {
+        "title": "BMO Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BMO%20Marathon",
+        "pubdate": "Sun, 07 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lionel Richie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lionel%20Richie",
+        "pubdate": "Sun, 07 May 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Wyndham Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wyndham%20Clark",
+        "pubdate": "Sun, 07 May 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Troyes vs PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Troyes%20vs%20PSG",
         "pubdate": "Sun, 07 May 2023 16:00:00 -0400"
@@ -41,13 +69,6 @@
         "title": "Dwayne Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwayne%20Johnson",
         "pubdate": "Sun, 07 May 2023 05:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Leafs vs Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs%20vs%20Panthers",
-        "pubdate": "Sun, 07 May 2023 10:00:00 -0400"
       }
     ],
     [
@@ -87,30 +108,16 @@
     ],
     [
       {
+        "title": "Vida Blue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vida%20Blue",
+        "pubdate": "Sun, 07 May 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Stephen Curry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stephen%20Curry",
         "pubdate": "Sun, 07 May 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Pittsburgh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pittsburgh",
-        "pubdate": "Sun, 07 May 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Wyndham Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wyndham%20Clark",
-        "pubdate": "Sun, 07 May 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Wells Fargo leaderboard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wells%20Fargo%20leaderboard",
-        "pubdate": "Sun, 07 May 2023 09:00:00 -0400"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Vida Blue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vida%20Blue",
-        "pubdate": "Sun, 07 May 2023 17:00:00 -0400"
+        "title": "Pittsburgh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pittsburgh",
+        "pubdate": "Sun, 07 May 2023 18:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Chris Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chris%20Brown",
         "pubdate": "Sun, 07 May 2023 07:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Miami Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Weather",
-        "pubdate": "Sun, 07 May 2023 16:00:00 -0400"
       }
     ]
   ]
