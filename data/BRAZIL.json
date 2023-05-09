@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 16:59:44",
+  "lastUpdate": "09-05-2023 , 17:17:00",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "Wallace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wallace",
         "pubdate": "Tue, 09 May 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Colo Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo%20Colo",
+        "pubdate": "Tue, 09 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gilmar Mendes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gilmar%20Mendes",
+        "pubdate": "Tue, 09 May 2023 11:00:00 -0500"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Liga dos Campeões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20dos%20Campe%C3%B5es",
+        "pubdate": "Mon, 08 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Receita Federal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Receita%20Federal",
         "pubdate": "Mon, 08 May 2023 14:00:00 -0500"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Liga dos Campeões",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20dos%20Campe%C3%B5es",
-        "pubdate": "Mon, 08 May 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
         "pubdate": "Mon, 08 May 2023 09:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Detran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Detran",
         "pubdate": "Mon, 08 May 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Paysandu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-        "pubdate": "Mon, 08 May 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "SED",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SED",
-        "pubdate": "Mon, 08 May 2023 07:00:00 -0500"
       }
     ]
   ]
