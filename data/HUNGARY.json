@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 14:54:16",
+  "lastUpdate": "09-05-2023 , 15:10:38",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MrBeast",
+        "pubdate": "Tue, 09 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Győzelem napja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C5%91zelem%20napja",
         "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "Euro árfolyam ma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euro%20%C3%A1rfolyam%20ma",
         "pubdate": "Tue, 09 May 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MrBeast",
-        "pubdate": "Tue, 09 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Real Madrid Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Manchester%20City",
-        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Herczeg Zoltán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herczeg%20Zolt%C3%A1n",
         "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Brighton–Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93Everton",
-        "pubdate": "Mon, 08 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MVM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "NAV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
-        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+        "title": "BL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL",
+        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "NAV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
+        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "OTP Bank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank",
         "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Manchester%20City",
+        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
       }
     ]
   ]
