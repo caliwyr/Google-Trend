@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 19:12:01",
+  "lastUpdate": "09-05-2023 , 19:21:17",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Weather forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20forecast",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "TVNZ news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TVNZ%20news",
         "pubdate": "Tue, 09 May 2023 16:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Princess Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Princess%20Alexandra",
         "pubdate": "Tue, 09 May 2023 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Championship",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +1200"
       }
     ]
   ]

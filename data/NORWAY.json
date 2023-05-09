@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 19:12:02",
+  "lastUpdate": "09-05-2023 , 19:21:17",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision",
+        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Halvor Bakke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Halvor%20Bakke",
         "pubdate": "Tue, 09 May 2023 09:00:00 +0200"
@@ -34,13 +41,6 @@
         "title": "Hasbulla Magomedov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hasbulla%20Magomedov",
         "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Imran Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Imran%20Khan",
-        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Andreas Leknessund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andreas%20Leknessund",
+        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NSM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NSM",
         "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Andreas Leknessund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andreas%20Leknessund",
-        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lionel%20Messi",
+        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pakistan",
+        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "NFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NFF",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
+        "title": "Eviny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eviny",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Teams",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dagens Næringsliv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dagens%20N%C3%A6ringsliv",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+        "title": "NFF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NFF",
+        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
       }
     ]
   ]
