@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 03:10:21",
+  "lastUpdate": "09-05-2023 , 03:24:08",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Sturm der Liebe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20der%20Liebe",
         "pubdate": "Tue, 09 May 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eintracht%20Frankfurt",
+        "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lagerhaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lagerhaus",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetter",
-        "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
       }
     ]
   ]

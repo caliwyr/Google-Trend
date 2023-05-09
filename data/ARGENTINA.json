@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 03:10:20",
+  "lastUpdate": "09-05-2023 , 03:24:07",
   "data": [
     [
       {
@@ -66,22 +66,15 @@
     ],
     [
       {
-        "title": "Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maps",
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Champions",
         "pubdate": "Mon, 08 May 2023 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Adidas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Adidas",
-        "pubdate": "Mon, 08 May 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Champions",
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maps",
         "pubdate": "Mon, 08 May 2023 15:00:00 -0300"
       }
     ],
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Yahoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Yahoo",
-        "pubdate": "Mon, 08 May 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Claro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Claro",
         "pubdate": "Mon, 08 May 2023 15:00:00 -0300"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Roger Waters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roger%20Waters",
+        "pubdate": "Mon, 08 May 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "BBVA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BBVA",
         "pubdate": "Mon, 08 May 2023 14:00:00 -0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Roger Waters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roger%20Waters",
+        "title": "Personal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Personal",
         "pubdate": "Mon, 08 May 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Mercadolibre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mercadolibre",
+        "pubdate": "Mon, 08 May 2023 17:00:00 -0300"
       }
     ]
   ]
