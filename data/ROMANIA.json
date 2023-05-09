@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 23:51:29",
+  "lastUpdate": "09-05-2023 , 00:28:06",
   "data": [
     [
       {
@@ -47,13 +47,6 @@
       {
         "title": "Digi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Banca Transilvania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Banca%20Transilvania",
         "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
       }
     ],
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "FCSB vs Sepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20vs%20Sepsi",
-        "pubdate": "Mon, 08 May 2023 21:00:00 +0300"
+        "title": "Bt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bt",
+        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Hotnews.ro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hotnews.ro",
+        "title": "HotNews.ro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#HotNews.ro",
         "pubdate": "Mon, 08 May 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Wizz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wizz",
+        "pubdate": "Mon, 08 May 2023 16:00:00 +0300"
       }
     ]
   ]

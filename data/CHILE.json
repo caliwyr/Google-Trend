@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2023 , 23:51:24",
+  "lastUpdate": "09-05-2023 , 00:28:01",
   "data": [
     [
       {
@@ -47,6 +47,13 @@
       {
         "title": "Movistar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Movistar",
+        "pubdate": "Mon, 08 May 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Caja Los Andes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Caja%20Los%20Andes",
         "pubdate": "Mon, 08 May 2023 18:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%20Cruise",
         "pubdate": "Mon, 08 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Brighton  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Everton",
-        "pubdate": "Mon, 08 May 2023 13:00:00 -0400"
       }
     ]
   ]
