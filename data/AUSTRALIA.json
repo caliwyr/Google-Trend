@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 00:28:00",
+  "lastUpdate": "09-05-2023 , 01:49:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
         "pubdate": "Tue, 09 May 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +1000"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Fulham vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fulham%20vs%20Leicester%20City",
         "pubdate": "Tue, 09 May 2023 02:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MrBeast",
-        "pubdate": "Tue, 09 May 2023 03:00:00 +1000"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "West Ham vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham%20vs%20Man%20United",
-        "pubdate": "Mon, 08 May 2023 06:00:00 +1000"
+        "title": "Suns vs Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suns%20vs%20Nuggets",
+        "pubdate": "Mon, 08 May 2023 15:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Suns vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suns%20vs%20Nuggets",
-        "pubdate": "Mon, 08 May 2023 15:00:00 +1000"
+        "title": "West Ham vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham%20vs%20Man%20United",
+        "pubdate": "Mon, 08 May 2023 06:00:00 +1000"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oppenheimer",
         "pubdate": "Mon, 08 May 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Coldplay Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coldplay%20Australia",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Elizabeth Holmes Theranos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elizabeth%20Holmes%20Theranos",
         "pubdate": "Mon, 08 May 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Celtics",
-        "pubdate": "Mon, 08 May 2023 15:00:00 +1000"
       }
     ]
   ]
