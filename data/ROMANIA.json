@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-05-2023 , 09:00:30",
+  "lastUpdate": "09-05-2023 , 09:18:44",
   "data": [
+    [
+      {
+        "title": "FCSB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB",
+        "pubdate": "Tue, 09 May 2023 03:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Nottm Forest  Southampton",
@@ -20,6 +27,20 @@
         "title": "Caracal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caracal",
         "pubdate": "Tue, 09 May 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lucian Blaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lucian%20Blaga",
+        "pubdate": "Tue, 09 May 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ordonanta austeritatii",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ordonanta%20austeritatii",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Europa FM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20FM",
         "pubdate": "Mon, 08 May 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "REGINA MARIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#REGINA%20MARIA",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "BCR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BCR",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ziarul Financiar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziarul%20Financiar",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
       }
     ]
   ]
