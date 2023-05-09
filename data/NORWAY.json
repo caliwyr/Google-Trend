@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 14:10:17",
+  "lastUpdate": "09-05-2023 , 14:26:29",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Firi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Firi",
-        "pubdate": "Tue, 09 May 2023 01:00:00 +0200"
+        "title": "NSM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NSM",
+        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "NSM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NSM",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+        "title": "Firi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Firi",
+        "pubdate": "Tue, 09 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
+        "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Teams",
         "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dagens Næringsliv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dagens%20N%C3%A6ringsliv",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -108,20 +122,6 @@
     ],
     [
       {
-        "title": "Matty Healy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matty%20Healy",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
-        "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dixie Dean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dixie%20Dean",
         "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Championship",
-        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
+        "title": "Matty Healy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matty%20Healy",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Norge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Championship",
+        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
       }
     ]
   ]
