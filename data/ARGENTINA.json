@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-05-2023 , 09:55:43",
+  "lastUpdate": "09-05-2023 , 10:13:29",
   "data": [
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Warriors",
+        "pubdate": "Tue, 09 May 2023 06:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Tartar",
@@ -132,13 +139,6 @@
         "title": "Correo Argentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Correo%20Argentino",
         "pubdate": "Mon, 08 May 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Yahoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Yahoo",
-        "pubdate": "Mon, 08 May 2023 13:00:00 -0300"
       }
     ]
   ]
