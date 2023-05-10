@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "10-05-2023 , 05:53:47",
+  "lastUpdate": "10-05-2023 , 06:11:48",
   "data": [
-    [
-      {
-        "title": "Montez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Montez",
-        "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Amazon Prime Video",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Video",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt Oliver Glasner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt%20Oliver%20Glasner",
-        "pubdate": "Tue, 09 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -38,9 +24,9 @@
     ],
     [
       {
-        "title": "Bastian Schweinsteiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bastian%20Schweinsteiger",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+        "title": "Eintracht Frankfurt Oliver Glasner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt%20Oliver%20Glasner",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,6 +73,13 @@
     ],
     [
       {
+        "title": "Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurovision",
+        "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Champions League Spiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League%20Spiele",
         "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "title": "DAX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
         "pubdate": "Mon, 08 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OMR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OMR",
+        "pubdate": "Mon, 08 May 2023 08:00:00 +0200"
       }
     ],
     [
