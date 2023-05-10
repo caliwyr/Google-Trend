@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 00:00:24",
+  "lastUpdate": "10-05-2023 , 01:34:12",
   "data": [
     [
       {
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "ESC 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ESC%202023",
-        "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
+        "title": "Esc 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Esc%202023",
+        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Hasbulla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hasbulla",
         "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ESC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ESC",
+        "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Akanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akanji",
-        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robert%20De%20Niro",
         "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
@@ -108,8 +108,22 @@
     ],
     [
       {
+        "title": "Akanji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akanji",
+        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+        "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Loreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loreen",
         "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Loreen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loreen",
-        "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OMR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OMR",
         "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Connor Bedard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Connor%20Bedard",
-        "pubdate": "Tue, 09 May 2023 12:00:00 +0200"
       }
     ]
   ]

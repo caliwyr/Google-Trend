@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-05-2023 , 00:00:14",
+  "lastUpdate": "10-05-2023 , 01:34:04",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
+        "pubdate": "Wed, 10 May 2023 08:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Robert De Niro",
@@ -10,8 +17,15 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Donald%20Trump",
+        "title": "Eurovision 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eurovision%202023",
+        "pubdate": "Wed, 10 May 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tiffany Chen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tiffany%20Chen",
         "pubdate": "Wed, 10 May 2023 08:00:00 +1000"
       }
     ],
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Meg 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Meg%202",
+        "pubdate": "Tue, 09 May 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
         "pubdate": "Tue, 09 May 2023 10:00:00 +1000"
@@ -80,20 +101,6 @@
     ],
     [
       {
-        "title": "Meg 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Meg%202",
-        "pubdate": "Tue, 09 May 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Auckland weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Auckland%20weather",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Imran Khan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Imran%20Khan",
         "pubdate": "Tue, 09 May 2023 22:00:00 +1000"
@@ -104,6 +111,13 @@
         "title": "Bluey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bluey",
         "pubdate": "Tue, 09 May 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Stage 3 tax cuts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stage%203%20tax%20cuts",
+        "pubdate": "Tue, 09 May 2023 21:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Stephen Curry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephen%20Curry",
         "pubdate": "Tue, 09 May 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ray Liotta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ray%20Liotta",
-        "pubdate": "Tue, 09 May 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Sum 41",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sum%2041",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +1000"
       }
     ]
   ]

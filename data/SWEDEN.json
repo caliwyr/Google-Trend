@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "10-05-2023 , 00:00:23",
+  "lastUpdate": "10-05-2023 , 01:34:12",
   "data": [
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+        "pubdate": "Wed, 10 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Wed, 10 May 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Donald Trump",
@@ -40,6 +54,13 @@
       {
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hammarby mot mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20mot%20mj%C3%A4llby",
         "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
       }
     ],
@@ -48,13 +69,6 @@
         "title": "Volvo EX30",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Volvo%20EX30",
         "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TV4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TV4",
-        "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Hammarby Fotboll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
-        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Semifinal Eurovision",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Semifinal%20Eurovision",
         "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Tareq Taylor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
         "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonas Johansson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Johansson",
-        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
       }
     ]
   ]

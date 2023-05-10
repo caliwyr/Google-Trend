@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 00:00:16",
+  "lastUpdate": "10-05-2023 , 01:34:05",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Vive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vive",
+        "pubdate": "Tue, 09 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Imran Khan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Imran%20Khan",
         "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Putin",
         "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Richie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lionel%20Richie",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
       }
     ]
   ]
