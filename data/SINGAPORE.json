@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 09:56:46",
+  "lastUpdate": "10-05-2023 , 10:15:05",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Lucas NCT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lucas%20NCT",
+        "pubdate": "Wed, 10 May 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "U.S. debt ceiling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20debt%20ceiling",
         "pubdate": "Wed, 10 May 2023 13:00:00 +0800"
@@ -40,14 +47,14 @@
       {
         "title": "Real Madrid vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20Man%20City",
-        "pubdate": "Tue, 09 May 2023 01:00:00 +0800"
+        "pubdate": "Tue, 09 May 2023 02:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Lakers vs Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers%20vs%20Warriors",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +0800"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
+        "pubdate": "Tue, 09 May 2023 15:00:00 +0800"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Pornsak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pornsak",
+        "pubdate": "Tue, 09 May 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Heat vs Knicks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Heat%20vs%20Knicks",
         "pubdate": "Tue, 09 May 2023 11:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lionel%20Messi",
         "pubdate": "Tue, 09 May 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Binance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Binance",
-        "pubdate": "Tue, 09 May 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "ChatGPT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ChatGPT",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0800"
       }
     ]
   ]
