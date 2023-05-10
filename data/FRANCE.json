@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 18:26:12",
+  "lastUpdate": "10-05-2023 , 18:57:13",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
-        "pubdate": "Wed, 10 May 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Thierry Samitier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Samitier",
         "pubdate": "Wed, 10 May 2023 02:00:00 +0200"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "Jean-Pierre Foucault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Pierre%20Foucault",
-        "pubdate": "Wed, 10 May 2023 09:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
+        "pubdate": "Wed, 10 May 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Clarisse Agbegnenou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clarisse%20Agbegnenou",
+        "pubdate": "Wed, 10 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Clarisse Agbegnenou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clarisse%20Agbegnenou",
-        "pubdate": "Wed, 10 May 2023 18:00:00 +0200"
+        "title": "Rima Abdul Malak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rima%20Abdul%20Malak",
+        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,27 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Israel",
         "pubdate": "Wed, 10 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Leao",
+        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laurent Wauquiez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Wauquiez",
+        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nikon Z8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nikon%20Z8",
+        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Eurovision 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eurovision%202023",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Georges Kiejman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georges%20Kiejman",
-        "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stromae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stromae",
-        "pubdate": "Tue, 09 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robert De Niro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Robert%20De%20Niro",
-        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
       }
     ]
   ]
