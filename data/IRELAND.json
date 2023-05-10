@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 14:54:35",
+  "lastUpdate": "10-05-2023 , 15:10:01",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Fox News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fox%20News",
         "pubdate": "Wed, 10 May 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eminem",
+        "pubdate": "Wed, 10 May 2023 14:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,27 @@
     ],
     [
       {
+        "title": "Boston Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Boston%20Celtics",
+        "pubdate": "Wed, 10 May 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Glenn Fullam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Glenn%20Fullam",
+        "pubdate": "Wed, 10 May 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jake Paul vs Nate Diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul%20vs%20Nate%20Diaz",
+        "pubdate": "Wed, 10 May 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Phil Tufnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Phil%20Tufnell",
         "pubdate": "Wed, 10 May 2023 00:00:00 +0100"
@@ -45,23 +73,9 @@
     ],
     [
       {
-        "title": "Boston Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Boston%20Celtics",
-        "pubdate": "Wed, 10 May 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eminem",
-        "pubdate": "Wed, 10 May 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jake Paul vs Nate Diaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul%20vs%20Nate%20Diaz",
-        "pubdate": "Wed, 10 May 2023 14:00:00 +0100"
+        "title": "Erling Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Erling%20Haaland",
+        "pubdate": "Wed, 10 May 2023 00:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Elizabeth Holmes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Elizabeth%20Holmes",
         "pubdate": "Tue, 09 May 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Post Malone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Post%20Malone",
-        "pubdate": "Tue, 09 May 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rita Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rita%20Lee",
-        "pubdate": "Tue, 09 May 2023 16:00:00 +0100"
       }
     ]
   ]

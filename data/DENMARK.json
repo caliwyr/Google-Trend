@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-05-2023 , 14:54:32",
+  "lastUpdate": "10-05-2023 , 15:09:59",
   "data": [
-    [
-      {
-        "title": "Tipster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tipster",
-        "pubdate": "Wed, 10 May 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eminem",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Tipster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tipster",
+        "pubdate": "Wed, 10 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ramen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ramen",
         "pubdate": "Wed, 10 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AC%20Milan",
+        "pubdate": "Wed, 10 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -96,13 +103,6 @@
       {
         "title": "BBR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBR",
-        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erling Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Erling%20Haaland",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
