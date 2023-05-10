@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 06:56:29",
+  "lastUpdate": "10-05-2023 , 07:12:33",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "title": "Real Madrid mot Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20mot%20Man%20City",
         "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
       }
     ],
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Eurovision-semifinale 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision-semifinale%202023",
-        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City",
+        "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20vs%20Man%20City",
+        "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,15 +66,15 @@
     ],
     [
       {
-        "title": "Modric",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Modric",
+        "title": "Erling Braut Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erling%20Braut%20Haaland",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Erling Braut Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erling%20Braut%20Haaland",
+        "title": "Modric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Modric",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
@@ -83,6 +90,13 @@
         "title": "Helene Spilling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helene%20Spilling",
         "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Semifinale Eurovision 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Semifinale%20Eurovision%202023",
+        "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Orkla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Orkla",
+        "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Semifinale Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Semifinale%20Champions%20League",
         "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Firi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Firi",
-        "pubdate": "Tue, 09 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kong Harald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
       }
     ]
   ]
