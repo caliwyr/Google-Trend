@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-05-2023 , 13:56:33",
+  "lastUpdate": "10-05-2023 , 14:13:15",
   "data": [
+    [
+      {
+        "title": "Voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
+        "pubdate": "Wed, 10 May 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Remo Forrer",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Real Madrid  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid%20%20Manchester%20City",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
+        "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Nikkie Plessen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nikkie%20Plessen",
-        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
         "pubdate": "Tue, 09 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AC%20Milan",
-        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Anjet Daanje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anjet%20Daanje",
+        "title": "Loreen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Loreen",
+        "pubdate": "Mon, 08 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
         "pubdate": "Mon, 08 May 2023 23:00:00 +0200"
       }
     ]
