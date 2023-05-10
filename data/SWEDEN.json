@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 02:59:17",
+  "lastUpdate": "10-05-2023 , 03:19:25",
   "data": [
     [
       {
@@ -54,13 +54,6 @@
       {
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby mot mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20mot%20mj%C3%A4llby",
         "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
       }
     ],
@@ -132,6 +125,13 @@
         "title": "Kalmar FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
         "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
+        "pubdate": "Tue, 09 May 2023 20:00:00 +0200"
       }
     ],
     [

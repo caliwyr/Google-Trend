@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-05-2023 , 02:59:14",
+  "lastUpdate": "10-05-2023 , 03:19:22",
   "data": [
     [
       {
         "title": "NZ Herald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Herald",
+        "pubdate": "Wed, 10 May 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Robert De Niro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Robert%20De%20Niro",
         "pubdate": "Wed, 10 May 2023 09:00:00 +1200"
       }
     ],
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "Robert De Niro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Robert%20De%20Niro",
-        "pubdate": "Wed, 10 May 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Tiffany Chen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tiffany%20Chen",
-        "pubdate": "Wed, 10 May 2023 11:00:00 +1200"
+        "title": "Imran Khan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Imran%20Khan",
+        "pubdate": "Wed, 10 May 2023 13:00:00 +1200"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Imran Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Imran%20Khan",
-        "pubdate": "Wed, 10 May 2023 13:00:00 +1200"
+        "title": "RCB vs MI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RCB%20vs%20MI",
+        "pubdate": "Wed, 10 May 2023 12:00:00 +1200"
       }
     ],
     [
       {
-        "title": "RCB vs MI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RCB%20vs%20MI",
-        "pubdate": "Wed, 10 May 2023 12:00:00 +1200"
+        "title": "Hasbulla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hasbulla",
+        "pubdate": "Wed, 10 May 2023 14:00:00 +1200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Newshub",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newshub",
+        "pubdate": "Tue, 09 May 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Lakers vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Warriors",
         "pubdate": "Tue, 09 May 2023 17:00:00 +1200"
@@ -94,30 +101,9 @@
     ],
     [
       {
-        "title": "Auckland Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Airport",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "RNZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RNZ",
         "pubdate": "Tue, 09 May 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Auckland transport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20transport",
-        "pubdate": "Tue, 09 May 2023 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Whangarei weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Whangarei%20weather",
-        "pubdate": "Tue, 09 May 2023 14:00:00 +1200"
       }
     ],
     [
@@ -129,9 +115,23 @@
     ],
     [
       {
+        "title": "Whangarei weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Whangarei%20weather",
+        "pubdate": "Tue, 09 May 2023 14:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "TVNZ news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TVNZ%20news",
         "pubdate": "Tue, 09 May 2023 16:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Latest news NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Latest%20news%20NZ",
+        "pubdate": "Tue, 09 May 2023 18:00:00 +1200"
       }
     ],
     [
