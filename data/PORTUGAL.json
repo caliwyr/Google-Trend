@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 05:14:04",
+  "lastUpdate": "10-05-2023 , 05:26:07",
   "data": [
     [
       {
@@ -17,8 +17,22 @@
     ],
     [
       {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maps",
+        "pubdate": "Tue, 09 May 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mimicat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mimicat",
+        "pubdate": "Tue, 09 May 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions%20League",
         "pubdate": "Tue, 09 May 2023 01:00:00 +0100"
       }
     ],
@@ -55,13 +69,6 @@
         "title": "Guterres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guterres",
         "pubdate": "Tue, 09 May 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions%20League%202023",
-        "pubdate": "Tue, 09 May 2023 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hasbulla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hasbulla",
         "pubdate": "Tue, 09 May 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Camavinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Camavinga",
-        "pubdate": "Tue, 09 May 2023 22:00:00 +0100"
       }
     ]
   ]
