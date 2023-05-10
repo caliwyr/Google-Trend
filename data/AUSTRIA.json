@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 23:44:39",
+  "lastUpdate": "10-05-2023 , 23:53:47",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Sergio Busquets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sergio%20Busquets",
+        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leao",
         "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Rita Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rita%20Lee",
-        "pubdate": "Wed, 10 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#George%20Santos",
         "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
@@ -108,15 +108,15 @@
     ],
     [
       {
-        "title": "Google I/O",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Google%20I/O",
-        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
+        "title": "Rita Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rita%20Lee",
+        "pubdate": "Wed, 10 May 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sergio Busquets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sergio%20Busquets",
+        "title": "Google I/O",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Google%20I/O",
         "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
       }
     ],

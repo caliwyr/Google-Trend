@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 23:44:46",
+  "lastUpdate": "10-05-2023 , 23:53:53",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Busquets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Busquets",
         "pubdate": "Thu, 11 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marianne Timmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marianne%20Timmer",
+        "pubdate": "Thu, 11 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AC%20Milan",
+        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Tue, 09 May 2023 18:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Stromae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stromae",
         "pubdate": "Tue, 09 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duncan Laurence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
-        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
       }
     ]
   ]
