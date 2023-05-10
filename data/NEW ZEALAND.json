@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-05-2023 , 15:55:00",
+  "lastUpdate": "10-05-2023 , 16:34:36",
   "data": [
     [
       {
         "title": "Kouri Richins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kouri%20Richins",
         "pubdate": "Thu, 11 May 2023 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eminem",
+        "pubdate": "Thu, 11 May 2023 03:00:00 +1200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#News",
-        "pubdate": "Tue, 09 May 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "RNZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RNZ",
         "pubdate": "Tue, 09 May 2023 19:00:00 +1200"
       }
     ]
