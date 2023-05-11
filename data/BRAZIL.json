@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 16:48:57",
+  "lastUpdate": "11-05-2023 , 16:58:14",
   "data": [
     [
       {
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Futebol Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Futebol%20Palmeiras",
+        "pubdate": "Thu, 11 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "PALMEIRAS X GRÊMIO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PALMEIRAS%20X%20GR%C3%8AMIO",
         "pubdate": "Wed, 10 May 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santos x Bahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20x%20Bahia",
+        "pubdate": "Wed, 10 May 2023 05:00:00 -0500"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Brasileirão Série A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o%20S%C3%A9rie%20A",
+        "pubdate": "Wed, 10 May 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
         "pubdate": "Wed, 10 May 2023 22:00:00 -0500"
@@ -110,34 +131,13 @@
       {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
-        "pubdate": "Wed, 10 May 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
-        "pubdate": "Wed, 10 May 2023 15:00:00 -0500"
+        "pubdate": "Wed, 10 May 2023 21:00:00 -0500"
       }
     ],
     [
       {
         "title": "Vitoria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Wed, 10 May 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato Brasileiro Série A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20S%C3%A9rie%20A",
-        "pubdate": "Wed, 10 May 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coritiba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
         "pubdate": "Wed, 10 May 2023 17:00:00 -0500"
       }
     ]
