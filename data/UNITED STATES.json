@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 14:43:37",
+  "lastUpdate": "11-05-2023 , 14:55:05",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
+        "title": "Title 42",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Title%2042",
+        "pubdate": "Thu, 11 May 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Joran van der Sloot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joran%20van%20der%20Sloot",
+        "pubdate": "Thu, 11 May 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Chrishell Stause",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chrishell%20Stause",
         "pubdate": "Thu, 11 May 2023 05:00:00 -0700"
       }
     ],
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Chrishell Stause",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chrishell%20Stause",
-        "pubdate": "Thu, 11 May 2023 05:00:00 -0700"
+        "title": "Trump on CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20on%20CNN",
+        "pubdate": "Thu, 11 May 2023 06:00:00 -0700"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "CNN Town Hall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CNN%20Town%20Hall",
-        "pubdate": "Wed, 10 May 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "14th Amendment",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#14th%20Amendment",
         "pubdate": "Wed, 10 May 2023 14:00:00 -0700"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "NFL schedule release",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20schedule%20release",
+        "title": "NFL Schedule release",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Schedule%20release",
         "pubdate": "Wed, 10 May 2023 11:00:00 -0700"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "CPI report",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI%20report",
         "pubdate": "Wed, 10 May 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cleopatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cleopatra",
-        "pubdate": "Wed, 10 May 2023 13:00:00 -0700"
       }
     ]
   ]
