@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-05-2023 , 06:57:24",
+  "lastUpdate": "11-05-2023 , 07:13:59",
   "data": [
+    [
+      {
+        "title": "Google Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Bard",
+        "pubdate": "Thu, 11 May 2023 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Der Bachelor",
@@ -48,13 +55,6 @@
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sanna%20Marin",
         "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Book Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Book%20Club",
-        "pubdate": "Wed, 10 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Champions%20League",
+        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rita Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rita%20Lee",
         "pubdate": "Tue, 09 May 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Boris Becker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Becker",
         "pubdate": "Tue, 09 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
-        "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
       }
     ]
   ]
