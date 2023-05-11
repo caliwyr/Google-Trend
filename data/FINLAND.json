@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 12:36:00",
+  "lastUpdate": "11-05-2023 , 12:56:27",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Kaliningrad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kaliningrad",
         "pubdate": "Thu, 11 May 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alma",
+        "pubdate": "Thu, 11 May 2023 15:00:00 +0300"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyonce",
+        "pubdate": "Wed, 10 May 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Herman Miller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Herman%20Miller",
         "pubdate": "Wed, 10 May 2023 19:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyonce",
-        "pubdate": "Wed, 10 May 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Santos",
         "pubdate": "Wed, 10 May 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Malta Eurovision 2023!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta%20Eurovision%202023!",
-        "pubdate": "Wed, 10 May 2023 12:00:00 +0300"
       }
     ]
   ]
