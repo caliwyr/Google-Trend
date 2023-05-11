@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 10:47:39",
+  "lastUpdate": "11-05-2023 , 10:56:54",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Bachelor 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bachelor%202023",
-        "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bahnstreik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
         "pubdate": "Wed, 10 May 2023 07:00:00 +0200"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Zara Tindall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zara%20Tindall",
-        "pubdate": "Wed, 10 May 2023 09:00:00 +0200"
+        "title": "Bachelor 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bachelor%202023",
+        "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Habeck",
         "pubdate": "Wed, 10 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zara Tindall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zara%20Tindall",
+        "pubdate": "Wed, 10 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AC%20Milan",
+        "title": "Inter Mailand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inter%20Mailand",
         "pubdate": "Tue, 09 May 2023 23:00:00 +0200"
       }
     ],
@@ -115,15 +115,15 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "title": "Eurovision Song Contest 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurovision%20Song%20Contest%202023",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eurovision Song Contest 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurovision%20Song%20Contest%202023",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Tue, 09 May 2023 22:00:00 +0200"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Rente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rente",
+        "title": "Rente!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rente!",
         "pubdate": "Tue, 09 May 2023 17:00:00 +0200"
       }
     ]

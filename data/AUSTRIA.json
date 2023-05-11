@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-05-2023 , 10:47:36",
+  "lastUpdate": "11-05-2023 , 10:56:52",
   "data": [
     [
       {
         "title": "Heidi Horten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidi%20Horten",
         "pubdate": "Thu, 11 May 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa%20League",
+        "pubdate": "Thu, 11 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,15 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AC%20Milan",
+        "title": "SPÖ-Mitgliederbefragung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96-Mitgliederbefragung",
+        "pubdate": "Thu, 11 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter Mailand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20Mailand",
         "pubdate": "Wed, 10 May 2023 00:00:00 +0200"
       }
     ],
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Rose Hanbury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rose%20Hanbury",
-        "pubdate": "Wed, 10 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pixel 7a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pixel%207a",
         "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Kurt Scheuch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kurt%20Scheuch",
-        "pubdate": "Wed, 10 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Song Contest Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Song%20Contest%20%C3%96sterreich",
         "pubdate": "Wed, 10 May 2023 07:00:00 +0200"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Leao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leao",
-        "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
+        "title": "Kurt Scheuch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kurt%20Scheuch",
+        "pubdate": "Wed, 10 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "George Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#George%20Santos",
-        "pubdate": "Wed, 10 May 2023 20:00:00 +0200"
+        "title": "RTL Bauer sucht Frau International",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RTL%20Bauer%20sucht%20Frau%20International",
+        "pubdate": "Wed, 10 May 2023 16:00:00 +0200"
       }
     ]
   ]
