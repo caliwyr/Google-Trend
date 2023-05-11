@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 18:54:45",
+  "lastUpdate": "11-05-2023 , 19:08:21",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WRC",
-        "pubdate": "Thu, 11 May 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Brasileiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20Brasileiro",
         "pubdate": "Thu, 11 May 2023 07:00:00 +0100"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Rally Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rally%20Portugal",
+        "pubdate": "Thu, 11 May 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Operação Penalidade Máxima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Opera%C3%A7%C3%A3o%20Penalidade%20M%C3%A1xima",
         "pubdate": "Thu, 11 May 2023 14:00:00 +0100"
@@ -66,8 +66,15 @@
     ],
     [
       {
-        "title": "DIGI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#DIGI",
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WRC",
+        "pubdate": "Thu, 11 May 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Europa%20League",
         "pubdate": "Thu, 11 May 2023 09:00:00 +0100"
       }
     ],
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Europa%20League",
-        "pubdate": "Thu, 11 May 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Feira do Livro 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Feira%20do%20Livro%202023",
         "pubdate": "Thu, 11 May 2023 13:00:00 +0100"
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Rally Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rally%20Portugal",
-        "pubdate": "Thu, 11 May 2023 17:00:00 +0100"
+        "title": "Sanna Marin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sanna%20Marin",
+        "pubdate": "Thu, 11 May 2023 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sanna%20Marin",
-        "pubdate": "Thu, 11 May 2023 12:00:00 +0100"
+        "title": "Heather Armstrong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Heather%20Armstrong",
+        "pubdate": "Thu, 11 May 2023 17:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Heather Armstrong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Heather%20Armstrong",
-        "pubdate": "Thu, 11 May 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Filipa Torrinha Nunes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Filipa%20Torrinha%20Nunes",
         "pubdate": "Thu, 11 May 2023 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Dillaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dillaz",
         "pubdate": "Thu, 11 May 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Preco combustiveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Preco%20combustiveis",
+        "pubdate": "Thu, 11 May 2023 14:00:00 +0100"
       }
     ]
   ]
