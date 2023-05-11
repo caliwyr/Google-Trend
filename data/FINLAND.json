@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 09:47:08",
+  "lastUpdate": "11-05-2023 , 09:56:24",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AC%20Milan",
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20Milan",
         "pubdate": "Wed, 10 May 2023 22:00:00 +0300"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyonce",
+        "pubdate": "Wed, 10 May 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Santos",
         "pubdate": "Wed, 10 May 2023 23:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "MasterChef",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MasterChef",
         "pubdate": "Wed, 10 May 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Malta Eurovision 2023!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta%20Eurovision%202023!",
-        "pubdate": "Wed, 10 May 2023 12:00:00 +0300"
       }
     ]
   ]
