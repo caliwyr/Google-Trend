@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 19:45:28",
+  "lastUpdate": "11-05-2023 , 19:54:41",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
+        "pubdate": "Thu, 11 May 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Inter de Milão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
         "pubdate": "Thu, 11 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Thu, 11 May 2023 14:00:00 -0500"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Fluminense x",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x",
+        "pubdate": "Thu, 11 May 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Jogo do São Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
         "pubdate": "Thu, 11 May 2023 02:00:00 -0500"
@@ -48,6 +69,20 @@
         "title": "Fluminense football club",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20football%20club",
         "pubdate": "Thu, 11 May 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
+        "pubdate": "Thu, 11 May 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
+        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
       }
     ],
     [
@@ -66,30 +101,9 @@
     ],
     [
       {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rihanna",
-        "pubdate": "Thu, 11 May 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
-        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Zelda: Tears of the Kingdom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zelda:%20Tears%20of%20the%20Kingdom",
         "pubdate": "Thu, 11 May 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Renato Freitas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renato%20Freitas",
-        "pubdate": "Thu, 11 May 2023 08:00:00 -0500"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Dia do Enfermeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Enfermeiro",
-        "pubdate": "Thu, 11 May 2023 06:00:00 -0500"
+        "title": "Renato Freitas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renato%20Freitas",
+        "pubdate": "Thu, 11 May 2023 08:00:00 -0500"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Golden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Golden",
+        "title": "Dia do Enfermeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Enfermeiro",
         "pubdate": "Thu, 11 May 2023 06:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Campeonato Brasileiro Série a 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20S%C3%A9rie%20a%202023",
-        "pubdate": "Thu, 11 May 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Barbárie de Queimadas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barb%C3%A1rie%20de%20Queimadas",
-        "pubdate": "Thu, 11 May 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PALMEIRAS X GRÊMIO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PALMEIRAS%20X%20GR%C3%8AMIO",
-        "pubdate": "Wed, 10 May 2023 06:00:00 -0500"
+        "title": "Minha Amiga Palma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minha%20Amiga%20Palma",
+        "pubdate": "Thu, 11 May 2023 14:00:00 -0500"
       }
     ]
   ]
