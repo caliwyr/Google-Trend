@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2023 , 15:51:34",
+  "lastUpdate": "11-05-2023 , 16:04:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jogo do São Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
         "pubdate": "Thu, 11 May 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Stephen Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Stephen%20Curry",
+        "pubdate": "Thu, 11 May 2023 10:00:00 -0500"
       }
     ],
     [
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Campeonato Brasileiro Série a 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20S%C3%A9rie%20a%202023",
-        "pubdate": "Thu, 11 May 2023 04:00:00 -0500"
+        "title": "Dia do Enfermeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Enfermeiro",
+        "pubdate": "Thu, 11 May 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mirela Janis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirela%20Janis",
+        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Mirela Janis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirela%20Janis",
-        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
+        "title": "Campeonato Brasileiro Série a 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20S%C3%A9rie%20a%202023",
+        "pubdate": "Thu, 11 May 2023 04:00:00 -0500"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Bahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
-        "pubdate": "Wed, 10 May 2023 15:00:00 -0500"
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
+        "pubdate": "Wed, 10 May 2023 20:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
-        "pubdate": "Wed, 10 May 2023 21:00:00 -0500"
+        "title": "Bahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
+        "pubdate": "Wed, 10 May 2023 15:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
         "pubdate": "Wed, 10 May 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Miami Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Miami%20Heat",
-        "pubdate": "Wed, 10 May 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Santos FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-        "pubdate": "Wed, 10 May 2023 22:00:00 -0500"
       }
     ]
   ]
