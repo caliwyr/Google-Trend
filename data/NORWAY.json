@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-05-2023 , 13:49:32",
+  "lastUpdate": "12-05-2023 , 13:58:56",
   "data": [
     [
       {
         "title": "Visma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Visma",
         "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ROG Ally",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ROG%20Ally",
+        "pubdate": "Fri, 12 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "ROG Ally",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ROG%20Ally",
-        "pubdate": "Fri, 12 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UiB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UiB",
-        "pubdate": "Fri, 12 May 2023 13:00:00 +0200"
+        "title": "Alexander Rybak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
+        "pubdate": "Fri, 12 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,20 @@
     ],
     [
       {
+        "title": "Regjeringen.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Regjeringen.no",
+        "pubdate": "Thu, 11 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Juventus",
+        "pubdate": "Thu, 11 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Conference%20League",
         "pubdate": "Thu, 11 May 2023 23:00:00 +0200"
@@ -87,30 +101,9 @@
     ],
     [
       {
-        "title": "Regjeringen.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Regjeringen.no",
-        "pubdate": "Thu, 11 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chrishell Stause",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chrishell%20Stause",
         "pubdate": "Thu, 11 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bard",
-        "pubdate": "Thu, 11 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Josef Fritzl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Josef%20Fritzl",
-        "pubdate": "Thu, 11 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Milan",
+        "pubdate": "Wed, 10 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "George Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#George%20Santos",
         "pubdate": "Wed, 10 May 2023 16:00:00 +0200"
       }
     ]

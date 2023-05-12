@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2023 , 13:49:28",
+  "lastUpdate": "12-05-2023 , 13:58:53",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Chained Echoes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chained%20Echoes",
         "pubdate": "Fri, 12 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurovision",
+        "pubdate": "Fri, 12 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Streik Bahn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Bahn",
         "pubdate": "Wed, 10 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Der Bachelor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Der%20Bachelor",
-        "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
       }
     ]
   ]
