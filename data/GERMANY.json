@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2023 , 06:46:54",
+  "lastUpdate": "12-05-2023 , 06:56:13",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juventus",
+        "pubdate": "Thu, 11 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Thu, 11 May 2023 09:00:00 +0200"
@@ -125,13 +132,6 @@
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Wed, 10 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inter",
-        "pubdate": "Wed, 10 May 2023 22:00:00 +0200"
       }
     ],
     [
