@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "12-05-2023 , 19:45:10",
+  "lastUpdate": "12-05-2023 , 19:54:27",
   "data": [
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "title": "Twente-NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente-NEC",
         "pubdate": "Fri, 12 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dag van de Verpleging",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20Verpleging",
-        "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Linda Yaccarino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20Yaccarino",
-        "pubdate": "Fri, 12 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,6 +17,20 @@
     ],
     [
       {
+        "title": "Linda Yaccarino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20Yaccarino",
+        "pubdate": "Fri, 12 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dag van de Verpleging",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20Verpleging",
+        "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Fri, 12 May 2023 19:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-        "pubdate": "Fri, 12 May 2023 20:00:00 +0200"
+        "title": "Mr. Frank Visser Doet Uitspraak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mr.%20Frank%20Visser%20Doet%20Uitspraak",
+        "pubdate": "Fri, 12 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
         "pubdate": "Fri, 12 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mr. Frank Visser Doet Uitspraak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mr.%20Frank%20Visser%20Doet%20Uitspraak",
-        "pubdate": "Fri, 12 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -76,13 +69,6 @@
         "title": "Zelda: Tears of the Kingdom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zelda:%20Tears%20of%20the%20Kingdom",
         "pubdate": "Thu, 11 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AS Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AS%20Roma",
-        "pubdate": "Thu, 11 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Busquets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Busquets",
-        "pubdate": "Thu, 11 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Koning Willem Alexander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koning%20Willem%20Alexander",
         "pubdate": "Thu, 11 May 2023 20:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Wed, 10 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
+        "pubdate": "Wed, 10 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Drijver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Drijver",
+        "pubdate": "Wed, 10 May 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
+        "pubdate": "Tue, 09 May 2023 03:00:00 +0200"
       }
     ]
   ]
