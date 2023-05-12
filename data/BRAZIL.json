@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2023 , 07:48:58",
+  "lastUpdate": "12-05-2023 , 07:58:13",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
-        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
         "pubdate": "Thu, 11 May 2023 10:00:00 -0500"
@@ -66,6 +59,20 @@
     ],
     [
       {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
+        "pubdate": "Thu, 11 May 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
+        "pubdate": "Thu, 11 May 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Paysandu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
         "pubdate": "Thu, 11 May 2023 18:00:00 -0500"
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "São Paulo Futebol Clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20Futebol%20Clube",
+        "title": "São Paulo futebol clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20futebol%20clube",
         "pubdate": "Thu, 11 May 2023 18:00:00 -0500"
       }
     ],
@@ -125,13 +132,6 @@
         "title": "Minha Amiga Palma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minha%20Amiga%20Palma",
         "pubdate": "Thu, 11 May 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "SUNS X Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SUNS%20X%20Nuggets",
-        "pubdate": "Thu, 11 May 2023 22:00:00 -0500"
       }
     ],
     [
