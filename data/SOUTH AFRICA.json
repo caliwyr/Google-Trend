@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2023 , 18:45:01",
+  "lastUpdate": "12-05-2023 , 18:54:19",
   "data": [
     [
       {
@@ -17,16 +17,9 @@
     ],
     [
       {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bard",
-        "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mumps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mumps",
-        "pubdate": "Fri, 12 May 2023 11:00:00 +0200"
+        "title": "Mother's Day messages",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mother's%20Day%20messages",
+        "pubdate": "Fri, 12 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Mother's Day messages",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mother's%20Day%20messages",
-        "pubdate": "Fri, 12 May 2023 12:00:00 +0200"
+        "title": "Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bard",
+        "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mumps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mumps",
+        "pubdate": "Fri, 12 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "MI vs GT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MI%20vs%20GT",
+        "pubdate": "Fri, 12 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rose Hanbury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rose%20Hanbury",
         "pubdate": "Fri, 12 May 2023 10:00:00 +0200"
@@ -76,6 +83,13 @@
         "title": "Happy Mother's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Happy%20Mother's%20Day",
         "pubdate": "Fri, 12 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MotoGP",
+        "pubdate": "Fri, 12 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Warriors vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Warriors%20vs%20Lakers",
         "pubdate": "Thu, 11 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CPUT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CPUT",
-        "pubdate": "Thu, 11 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
-        "pubdate": "Thu, 11 May 2023 22:00:00 +0200"
       }
     ]
   ]
