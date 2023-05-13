@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-05-2023 , 06:46:11",
+  "lastUpdate": "13-05-2023 , 06:55:30",
   "data": [
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LeBron%20James",
+        "pubdate": "Sat, 13 May 2023 01:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Populacao Brasil",
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
         "pubdate": "Fri, 12 May 2023 13:00:00 -0500"
       }
     ],
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Dia do tecnico de Enfermagem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20tecnico%20de%20Enfermagem",
-        "pubdate": "Fri, 12 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Machado de Assis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Machado%20de%20Assis",
         "pubdate": "Fri, 12 May 2023 20:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "O Que De Verdade Importa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20Que%20De%20Verdade%20Importa",
-        "pubdate": "Fri, 12 May 2023 15:00:00 -0500"
+        "title": "Dia do tecnico de Enfermagem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20tecnico%20de%20Enfermagem",
+        "pubdate": "Fri, 12 May 2023 09:00:00 -0500"
       }
     ]
   ]
