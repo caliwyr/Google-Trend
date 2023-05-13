@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2023 , 15:54:49",
+  "lastUpdate": "13-05-2023 , 16:12:07",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Newcastle",
+        "pubdate": "Sat, 13 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
         "pubdate": "Sat, 13 May 2023 16:00:00 +0200"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Lyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-        "pubdate": "Sat, 13 May 2023 16:00:00 +0200"
+        "title": "Holmenkollen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holmenkollen",
+        "pubdate": "Sat, 13 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Michael J. Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Michael%20J.%20Fox",
         "pubdate": "Sat, 13 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision-finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision-finale",
+        "pubdate": "Sat, 13 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Holmestrand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holmestrand",
-        "pubdate": "Fri, 12 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alexander Rybak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
         "pubdate": "Fri, 12 May 2023 15:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Vis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vis",
+        "title": "Holmestrand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holmestrand",
         "pubdate": "Fri, 12 May 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#West%20Ham",
-        "pubdate": "Fri, 12 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Finn Sjue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Finn%20Sjue",
-        "pubdate": "Fri, 12 May 2023 17:00:00 +0200"
+        "title": "Vis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vis",
+        "pubdate": "Fri, 12 May 2023 11:00:00 +0200"
       }
     ]
   ]
