@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-05-2023 , 20:51:32",
+  "lastUpdate": "13-05-2023 , 21:01:15",
   "data": [
     [
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
         "pubdate": "Sat, 13 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
+        "pubdate": "Sat, 13 May 2023 09:00:00 -0400"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20United",
         "pubdate": "Sat, 13 May 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eurovision%202023",
+        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "KSI vs Fournier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#KSI%20vs%20Fournier",
+        "pubdate": "Sat, 13 May 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Austin Reaves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Austin%20Reaves",
         "pubdate": "Sat, 13 May 2023 00:00:00 -0400"
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "KSI vs Fournier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#KSI%20vs%20Fournier",
-        "pubdate": "Sat, 13 May 2023 13:00:00 -0400"
+        "title": "Stephen Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stephen%20Curry",
+        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
       }
     ],
     [
@@ -101,30 +122,9 @@
     ],
     [
       {
-        "title": "Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Heat",
-        "pubdate": "Sat, 13 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Roberto Luongo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roberto%20Luongo",
-        "pubdate": "Sat, 13 May 2023 04:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "La Zarra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#La%20Zarra",
         "pubdate": "Sat, 13 May 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Ryan O'Reilly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ryan%20O'Reilly",
-        "pubdate": "Sat, 13 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Prabhsimran Singh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prabhsimran%20Singh",
-        "pubdate": "Sat, 13 May 2023 15:00:00 -0400"
+        "title": "Real Madrid vs Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Getafe",
+        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
       }
     ]
   ]
