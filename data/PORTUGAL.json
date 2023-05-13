@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2023 , 00:57:57",
+  "lastUpdate": "13-05-2023 , 02:02:12",
   "data": [
     [
       {
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurovision",
+        "pubdate": "Fri, 12 May 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Estrela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela",
         "pubdate": "Fri, 12 May 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ana Paula Borgo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ana%20Paula%20Borgo",
+        "pubdate": "Fri, 12 May 2023 10:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Dia Internacional do Enfermeiro 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Internacional%20do%20Enfermeiro%202023",
-        "pubdate": "Fri, 12 May 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Excesso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Excesso",
         "pubdate": "Fri, 12 May 2023 21:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "ROG Ally",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ROG%20Ally",
+        "title": "Dia Internacional do Enfermeiro 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Internacional%20do%20Enfermeiro%202023",
         "pubdate": "Fri, 12 May 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lazio",
-        "pubdate": "Fri, 12 May 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Decenio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Decenio",
-        "pubdate": "Fri, 12 May 2023 15:00:00 +0100"
+        "title": "ROG Ally",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ROG%20Ally",
+        "pubdate": "Fri, 12 May 2023 11:00:00 +0100"
       }
     ]
   ]
