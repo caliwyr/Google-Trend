@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-05-2023 , 08:56:19",
+  "lastUpdate": "13-05-2023 , 09:11:26",
   "data": [
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
-        "pubdate": "Sat, 13 May 2023 18:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Bruce Robertson",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Golden State Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Golden%20State%20Warriors",
+        "pubdate": "Sat, 13 May 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Winston Peters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Winston%20Peters",
         "pubdate": "Sat, 13 May 2023 09:00:00 +1200"
@@ -59,16 +59,23 @@
     ],
     [
       {
-        "title": "Fast X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fast%20X",
+        "title": "Karnataka Election Result",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karnataka%20Election%20Result",
         "pubdate": "Sat, 13 May 2023 19:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Karnataka Election Result",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karnataka%20Election%20Result",
-        "pubdate": "Sat, 13 May 2023 19:00:00 +1200"
+        "title": "KSI vs Joe Fournier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#KSI%20vs%20Joe%20Fournier",
+        "pubdate": "Sat, 13 May 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
+        "pubdate": "Fri, 12 May 2023 21:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bruno Tonioli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bruno%20Tonioli",
         "pubdate": "Fri, 12 May 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Suns vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Suns%20vs%20Nuggets",
-        "pubdate": "Fri, 12 May 2023 16:00:00 +1200"
       }
     ]
   ]
