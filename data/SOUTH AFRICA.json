@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2023 , 22:11:18",
+  "lastUpdate": "15-05-2023 , 22:25:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Senzo Meyiwa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Senzo%20Meyiwa",
         "pubdate": "Mon, 15 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bianca Censori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bianca%20Censori",
+        "pubdate": "Mon, 15 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "USD/ZAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#USD/ZAR",
-        "pubdate": "Mon, 15 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shamrock Rovers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shamrock%20Rovers",
         "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
@@ -52,23 +52,16 @@
     ],
     [
       {
+        "title": "USD/ZAR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#USD/ZAR",
+        "pubdate": "Mon, 15 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carlton Centre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlton%20Centre",
         "pubdate": "Mon, 15 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
-        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Betis",
-        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "GT vs SRH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#GT%20vs%20SRH",
-        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
+        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -111,6 +104,20 @@
         "title": "Rob Burrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rob%20Burrow",
         "pubdate": "Mon, 15 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GT vs SRH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#GT%20vs%20SRH",
+        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Derry City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Derry%20City",
+        "pubdate": "Mon, 15 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Happy Mother's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Happy%20Mother's%20Day",
         "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Brighton",
-        "pubdate": "Sun, 14 May 2023 11:00:00 +0200"
       }
     ]
   ]

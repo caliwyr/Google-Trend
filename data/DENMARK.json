@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-05-2023 , 22:11:11",
+  "lastUpdate": "15-05-2023 , 22:25:19",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bianca Censori",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Leicester  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leicester%20%20Liverpool",
-        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "I Am Ruth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#I%20Am%20Ruth",
         "pubdate": "Mon, 15 May 2023 13:00:00 +0200"
@@ -34,6 +34,13 @@
         "title": "Bird Box",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bird%20Box",
         "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Katie Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Katie%20Price",
+        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Katie Price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Katie%20Price",
-        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
+        "title": "Ørsted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%98rsted",
+        "pubdate": "Mon, 15 May 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ørsted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%98rsted",
-        "pubdate": "Mon, 15 May 2023 10:00:00 +0200"
+        "title": "Rob Burrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rob%20Burrow",
+        "pubdate": "Mon, 15 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Turkey Election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Turkey%20Election",
+        "title": "Turkey election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Turkey%20election",
         "pubdate": "Sun, 14 May 2023 16:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Everton  Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Everton%20%20Man%20City",
         "pubdate": "Sun, 14 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal  Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Brighton",
-        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
       }
     ]
   ]
