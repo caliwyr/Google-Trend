@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-05-2023 , 23:53:57",
+  "lastUpdate": "15-05-2023 , 00:52:51",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Mon, 15 May 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Anne Grete Preus",
@@ -13,6 +20,13 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Sun, 14 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
+        "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brighton",
-        "pubdate": "Sun, 14 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pochettino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pochettino",
         "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
@@ -118,13 +125,6 @@
         "title": "Eurovision 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision%202023",
         "pubdate": "Sat, 13 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bodø/Glimt mot Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20Rosenborg",
-        "pubdate": "Sat, 13 May 2023 17:00:00 +0200"
       }
     ],
     [

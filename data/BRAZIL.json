@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-05-2023 , 23:53:55",
+  "lastUpdate": "15-05-2023 , 00:52:44",
   "data": [
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
+        "pubdate": "Sun, 14 May 2023 16:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Grêmio x Fortaleza",
@@ -13,6 +20,20 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
         "pubdate": "Sun, 14 May 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Goiás x Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Botafogo",
+        "pubdate": "Sun, 14 May 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+        "pubdate": "Sun, 14 May 2023 10:00:00 -0500"
       }
     ],
     [
@@ -31,37 +52,9 @@
     ],
     [
       {
-        "title": "América-MG x Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Cruzeiro",
-        "pubdate": "Sun, 14 May 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Goiás x Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Botafogo",
-        "pubdate": "Sun, 14 May 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
         "pubdate": "Sun, 14 May 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Sun, 14 May 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
-        "pubdate": "Sun, 14 May 2023 07:00:00 -0500"
       }
     ],
     [
@@ -73,9 +66,16 @@
     ],
     [
       {
-        "title": "Homenagem Dia das Mães",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Homenagem%20Dia%20das%20M%C3%A3es",
-        "pubdate": "Sun, 14 May 2023 03:00:00 -0500"
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Sun, 14 May 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
+        "pubdate": "Sun, 14 May 2023 16:00:00 -0500"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
-        "pubdate": "Sun, 14 May 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
         "pubdate": "Sun, 14 May 2023 16:00:00 -0500"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Santos FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-        "pubdate": "Sun, 14 May 2023 17:00:00 -0500"
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
+        "pubdate": "Sun, 14 May 2023 11:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brighton",
-        "pubdate": "Sun, 14 May 2023 11:00:00 -0500"
+        "title": "Paysandu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
+        "pubdate": "Sun, 14 May 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "ABC x Botafogo-SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC%20x%20Botafogo-SP",
+        "pubdate": "Sun, 14 May 2023 17:00:00 -0500"
       }
     ]
   ]
