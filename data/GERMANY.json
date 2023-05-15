@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2023 , 06:58:09",
+  "lastUpdate": "15-05-2023 , 07:16:24",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Türkei-Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei-Wahlen",
+        "title": "Türkei Wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei%20Wahlen",
         "pubdate": "Sun, 14 May 2023 03:00:00 +0200"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Erdogan Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan%20Wahl",
-        "pubdate": "Sun, 14 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hannover 96",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
         "pubdate": "Sun, 14 May 2023 16:00:00 +0200"
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Flugzeug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flugzeug",
+        "pubdate": "Sun, 14 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Sun, 14 May 2023 10:00:00 +0200"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Guildo Horn ESC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guildo%20Horn%20ESC",
-        "pubdate": "Sun, 14 May 2023 08:00:00 +0200"
+        "title": "CHP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CHP",
+        "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "CHP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CHP",
-        "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
+        "title": "Gladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gladbach",
+        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
       }
     ]
   ]
