@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-05-2023 , 00:52:45",
+  "lastUpdate": "15-05-2023 , 02:01:46",
   "data": [
     [
       {
         "title": "Everton - Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20-%20Manchester%20City",
+        "pubdate": "Sun, 14 May 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Copiapó u Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copiap%C3%B3%20u%20Cat%C3%B3lica",
         "pubdate": "Sun, 14 May 2023 09:00:00 -0400"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "Feliz dia de la Madre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20dia%20de%20la%20Madre",
         "pubdate": "Sun, 14 May 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Copiapó u Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copiap%C3%B3%20u%20Cat%C3%B3lica",
-        "pubdate": "Sun, 14 May 2023 09:00:00 -0400"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Día de la madre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D%C3%ADa%20de%20la%20madre",
+        "title": "Día de la Madre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D%C3%ADa%20de%20la%20Madre",
         "pubdate": "Sun, 14 May 2023 13:00:00 -0400"
       }
     ],
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Universidad catolica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
-        "pubdate": "Sun, 14 May 2023 17:00:00 -0400"
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atletico",
+        "pubdate": "Sun, 14 May 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atletico",
-        "pubdate": "Sun, 14 May 2023 12:00:00 -0400"
+        "title": "Boca Juniors  Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Belgrano",
+        "pubdate": "Sun, 14 May 2023 19:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Boca Juniors  Belgrano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Belgrano",
-        "pubdate": "Sun, 14 May 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
         "pubdate": "Sun, 14 May 2023 19:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Imagenes del dia de la Madre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Imagenes%20del%20dia%20de%20la%20Madre",
         "pubdate": "Sun, 14 May 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ja Morant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ja%20Morant",
+        "pubdate": "Sun, 14 May 2023 18:00:00 -0400"
       }
     ]
   ]
