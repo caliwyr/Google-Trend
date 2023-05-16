@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 09:59:55",
+  "lastUpdate": "16-05-2023 , 10:20:05",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Martha Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Martha%20Stewart",
         "pubdate": "Tue, 16 May 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "George Soros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Soros",
+        "pubdate": "Tue, 16 May 2023 09:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mother's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mother's%20Day",
         "pubdate": "Sun, 14 May 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Turkey election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Turkey%20election",
-        "pubdate": "Sun, 14 May 2023 21:00:00 +0800"
       }
     ]
   ]
