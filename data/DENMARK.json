@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 21:47:16",
+  "lastUpdate": "16-05-2023 , 21:56:42",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Bird box",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bird%20box",
+        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lukashenko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lukashenko",
         "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Google Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Google%20Bard",
         "pubdate": "Mon, 15 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NT",
-        "pubdate": "Mon, 15 May 2023 09:00:00 +0200"
       }
     ]
   ]
