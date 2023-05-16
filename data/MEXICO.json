@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 13:51:46",
+  "lastUpdate": "16-05-2023 , 14:03:08",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Luis Miguel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luis%20Miguel",
         "pubdate": "Mon, 15 May 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santander",
+        "pubdate": "Mon, 15 May 2023 12:00:00 -0600"
       }
     ],
     [
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "TV Azteca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#TV%20Azteca",
+        "title": "Tv Azteca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tv%20Azteca",
         "pubdate": "Mon, 15 May 2023 00:00:00 -0600"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Robbie%20Williams",
         "pubdate": "Mon, 15 May 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Dia del Maestro mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20Maestro%20mexico",
-        "pubdate": "Mon, 15 May 2023 08:00:00 -0600"
       }
     ]
   ]
