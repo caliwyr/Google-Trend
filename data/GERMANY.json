@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-05-2023 , 10:58:45",
+  "lastUpdate": "16-05-2023 , 11:14:04",
   "data": [
+    [
+      {
+        "title": "Sommerhaus der Stars 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sommerhaus%20der%20Stars%202023",
+        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Stichwahl",
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "title": "VFB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VFB%20Stuttgart",
         "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sun, 14 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bayern Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Schalke",
         "pubdate": "Sat, 13 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karlspreis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karlspreis",
-        "pubdate": "Sat, 13 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Albanien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Albanien",
-        "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
       }
     ]
   ]
