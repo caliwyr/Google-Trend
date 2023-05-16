@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 11:51:29",
+  "lastUpdate": "16-05-2023 , 12:09:26",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "CRA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CRA",
         "pubdate": "Mon, 15 May 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dallas Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
+        "pubdate": "Mon, 15 May 2023 23:00:00 -0400"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Fort St. John",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fort%20St.%20John",
-        "pubdate": "Mon, 15 May 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Rudy Giuliani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rudy%20Giuliani",
         "pubdate": "Mon, 15 May 2023 21:00:00 -0400"
@@ -129,9 +129,9 @@
     ],
     [
       {
-        "title": "George Soros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#George%20Soros",
-        "pubdate": "Mon, 15 May 2023 08:00:00 -0400"
+        "title": "Fort St. John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fort%20St.%20John",
+        "pubdate": "Mon, 15 May 2023 21:00:00 -0400"
       }
     ],
     [
