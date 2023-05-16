@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-05-2023 , 23:57:51",
+  "lastUpdate": "16-05-2023 , 01:22:26",
   "data": [
+    [
+      {
+        "title": "CRA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CRA",
+        "pubdate": "Mon, 15 May 2023 20:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Martha Stewart",
@@ -17,15 +24,15 @@
     ],
     [
       {
-        "title": "Canada revenue agency",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20revenue%20agency",
-        "pubdate": "Mon, 15 May 2023 10:00:00 -0400"
+        "title": "Fábián Marozsán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F%C3%A1bi%C3%A1n%20Marozs%C3%A1n",
+        "pubdate": "Mon, 15 May 2023 11:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Fábián Marozsán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F%C3%A1bi%C3%A1n%20Marozs%C3%A1n",
+        "title": "WestJet strike update",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WestJet%20strike%20update",
         "pubdate": "Mon, 15 May 2023 11:00:00 -0400"
       }
     ],
@@ -38,41 +45,6 @@
     ],
     [
       {
-        "title": "William Nylander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#William%20Nylander",
-        "pubdate": "Mon, 15 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "WWE Randy Orton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WWE%20Randy%20Orton",
-        "pubdate": "Mon, 15 May 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "The Weeknd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Weeknd",
-        "pubdate": "Mon, 15 May 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Anna Nicole Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anna%20Nicole%20Smith",
-        "pubdate": "Mon, 15 May 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Kyle Dubas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyle%20Dubas",
-        "pubdate": "Mon, 15 May 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Eric Clapton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eric%20Clapton",
         "pubdate": "Mon, 15 May 2023 16:00:00 -0400"
@@ -80,16 +52,9 @@
     ],
     [
       {
-        "title": "EQAO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#EQAO",
-        "pubdate": "Mon, 15 May 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dr. Peter Juni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dr.%20Peter%20Juni",
-        "pubdate": "Mon, 15 May 2023 12:00:00 -0400"
+        "title": "William Nylander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#William%20Nylander",
+        "pubdate": "Mon, 15 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -101,9 +66,58 @@
     ],
     [
       {
+        "title": "The Weeknd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Weeknd",
+        "pubdate": "Mon, 15 May 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Kyle Dubas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyle%20Dubas",
+        "pubdate": "Mon, 15 May 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Deb Hope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Deb%20Hope",
         "pubdate": "Mon, 15 May 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Hay River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hay%20River",
+        "pubdate": "Mon, 15 May 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dolly Parton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dolly%20Parton",
+        "pubdate": "Mon, 15 May 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Anna Nicole Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anna%20Nicole%20Smith",
+        "pubdate": "Mon, 15 May 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dr. Peter Juni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dr.%20Peter%20Juni",
+        "pubdate": "Mon, 15 May 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "EQAO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#EQAO",
+        "pubdate": "Mon, 15 May 2023 11:00:00 -0400"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Canada housing market",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20housing%20market",
-        "pubdate": "Mon, 15 May 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "GT vs SRH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#GT%20vs%20SRH",
-        "pubdate": "Mon, 15 May 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Halle Bailey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Halle%20Bailey",
         "pubdate": "Mon, 15 May 2023 08:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Hay River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hay%20River",
-        "pubdate": "Mon, 15 May 2023 15:00:00 -0400"
+        "title": "Canada housing market",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20housing%20market",
+        "pubdate": "Mon, 15 May 2023 14:00:00 -0400"
       }
     ]
   ]

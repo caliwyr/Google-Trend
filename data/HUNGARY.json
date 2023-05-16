@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-05-2023 , 23:57:53",
+  "lastUpdate": "16-05-2023 , 01:22:30",
   "data": [
     [
       {
         "title": "Martha Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Martha%20Stewart",
         "pubdate": "Tue, 16 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leicester–liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leicester%E2%80%93liverpool",
+        "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Mon, 15 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rob Burrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rob%20Burrow",
         "pubdate": "Mon, 15 May 2023 12:00:00 +0200"
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Suhajda Szilárd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Suhajda%20Szil%C3%A1rd",
-        "pubdate": "Mon, 15 May 2023 00:00:00 +0200"
+        "title": "Soros György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Soros%20Gy%C3%B6rgy",
+        "pubdate": "Mon, 15 May 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Soros György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Soros%20Gy%C3%B6rgy",
-        "pubdate": "Mon, 15 May 2023 15:00:00 +0200"
+        "title": "Suhajda Szilárd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Suhajda%20Szil%C3%A1rd",
+        "pubdate": "Mon, 15 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Pásztor Virág",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1sztor%20Vir%C3%A1g",
-        "pubdate": "Mon, 15 May 2023 09:00:00 +0200"
+        "title": "Betis–Rayo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Betis%E2%80%93Rayo",
+        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Betis–Rayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Betis%E2%80%93Rayo",
-        "pubdate": "Mon, 15 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "HÉV balesetek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%89V%20balesetek",
         "pubdate": "Mon, 15 May 2023 11:00:00 +0200"
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Niki Lauda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Niki%20Lauda",
-        "pubdate": "Mon, 15 May 2023 17:00:00 +0200"
+        "title": "Megadja Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megadja%20G%C3%A1bor",
+        "pubdate": "Mon, 15 May 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Megadja Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megadja%20G%C3%A1bor",
-        "pubdate": "Mon, 15 May 2023 23:00:00 +0200"
+        "title": "Niki Lauda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Niki%20Lauda",
+        "pubdate": "Mon, 15 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Boston Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Boston%20Celtics",
         "pubdate": "Mon, 15 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guardian",
+        "pubdate": "Mon, 15 May 2023 09:00:00 +0200"
       }
     ]
   ]
