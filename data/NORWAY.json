@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 04:58:04",
+  "lastUpdate": "16-05-2023 , 05:15:11",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Mon, 15 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liv Ullmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liv%20Ullmann",
+        "pubdate": "Mon, 15 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
         "pubdate": "Sun, 14 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa",
-        "pubdate": "Sun, 14 May 2023 00:00:00 +0200"
       }
     ]
   ]
