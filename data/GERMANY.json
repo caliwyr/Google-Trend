@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 13:02:24",
+  "lastUpdate": "16-05-2023 , 13:23:18",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "Johannes Oerding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Johannes%20Oerding",
+        "title": "Stichwahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stichwahl",
         "pubdate": "Mon, 15 May 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Stichwahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stichwahl",
+        "title": "Johannes Oerding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Johannes%20Oerding",
         "pubdate": "Mon, 15 May 2023 08:00:00 +0200"
       }
     ],
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Joachim krol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joachim%20krol",
+        "title": "Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg",
+        "pubdate": "Mon, 15 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siebenbürgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Siebenb%C3%BCrgen",
         "pubdate": "Mon, 15 May 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg",
-        "pubdate": "Mon, 15 May 2023 11:00:00 +0200"
+        "title": "ESC 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC%202023",
+        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "ESC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC",
-        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VFB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VFB%20Stuttgart",
         "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
@@ -83,13 +83,6 @@
         "title": "Jahn Regensburg gegen HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jahn%20Regensburg%20gegen%20HSV",
         "pubdate": "Sun, 14 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sun, 14 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "ESC 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC%202023",
+        "title": "Eurovision Song Contest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurovision%20Song%20Contest",
         "pubdate": "Sat, 13 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Streik Bahn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Bahn",
+        "pubdate": "Sat, 13 May 2023 22:00:00 +0200"
       }
     ]
   ]
