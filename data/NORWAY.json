@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2023 , 23:58:56",
+  "lastUpdate": "17-05-2023 , 01:37:10",
   "data": [
     [
       {
@@ -24,20 +24,6 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Inter%20Milan",
-        "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Tue, 16 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Tue, 16 May 2023 18:00:00 +0200"
@@ -45,9 +31,23 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Inter%20Milan",
+        "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "OBOS-ligaen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OBOS-ligaen",
         "pubdate": "Tue, 16 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Milan",
+        "pubdate": "Tue, 16 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Levanger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Levanger",
+        "pubdate": "Tue, 16 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Newcastle",
         "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Salat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salat",
         "pubdate": "Tue, 16 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Therese Johaug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Therese%20Johaug",
-        "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KBK",
-        "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
       }
     ]
   ]
