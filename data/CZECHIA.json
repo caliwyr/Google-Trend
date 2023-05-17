@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2023 , 19:52:00",
+  "lastUpdate": "17-05-2023 , 20:05:20",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Titanic",
+        "pubdate": "Wed, 17 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Inter%20milan",
         "pubdate": "Tue, 16 May 2023 22:00:00 +0200"
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Ondřej Novotný",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Novotn%C3%BD",
+        "title": "Ondřej novotný",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20novotn%C3%BD",
         "pubdate": "Tue, 16 May 2023 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Leni Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leni%20Klum",
         "pubdate": "Tue, 16 May 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Václav Klaus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Klaus",
-        "pubdate": "Tue, 16 May 2023 23:00:00 +0200"
       }
     ]
   ]
