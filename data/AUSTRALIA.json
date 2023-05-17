@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2023 , 18:21:53",
+  "lastUpdate": "17-05-2023 , 18:31:19",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Dom Dolla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dom%20Dolla",
-        "pubdate": "Wed, 17 May 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Luton Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luton%20Town",
         "pubdate": "Wed, 17 May 2023 11:00:00 +1000"
@@ -139,6 +132,13 @@
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Johnny%20Depp",
         "pubdate": "Wed, 17 May 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Conor McGregor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Conor%20McGregor",
+        "pubdate": "Wed, 17 May 2023 21:00:00 +1000"
       }
     ]
   ]
