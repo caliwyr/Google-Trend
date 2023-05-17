@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "17-05-2023 , 11:46:40",
+  "lastUpdate": "17-05-2023 , 11:55:58",
   "data": [
     [
       {
-        "title": "Povodí Moravy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Povod%C3%AD%20Moravy",
-        "pubdate": "Wed, 17 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marek Ztracený",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Ztracen%C3%BD",
+        "title": "Marek ztracený",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20ztracen%C3%BD",
         "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
       }
     ],
@@ -20,6 +13,20 @@
         "title": "Petr Fiala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Fiala",
         "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vítězslav Vávra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%ADt%C4%9Bzslav%20V%C3%A1vra",
+        "pubdate": "Wed, 17 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dana Černá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dana%20%C4%8Cern%C3%A1",
+        "pubdate": "Wed, 17 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Petr Klíma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Kl%C3%ADma",
-        "pubdate": "Tue, 16 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ondřej Novotný",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Novotn%C3%BD",
         "pubdate": "Tue, 16 May 2023 17:00:00 +0200"
@@ -55,6 +55,13 @@
         "title": "Jan Saudek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Saudek",
         "pubdate": "Tue, 16 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petr Klíma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Kl%C3%ADma",
+        "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Václav Klaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Klaus",
+        "pubdate": "Tue, 16 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "ŘSD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98SD",
         "pubdate": "Tue, 16 May 2023 20:00:00 +0200"
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Václav Klaus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Klaus",
+        "title": "Jan Bendig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Bendig",
         "pubdate": "Tue, 16 May 2023 23:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Fio banka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fio%20banka",
         "pubdate": "Mon, 15 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slovensko - Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensko%20-%20Kanada",
-        "pubdate": "Mon, 15 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KB",
-        "pubdate": "Mon, 15 May 2023 10:00:00 +0200"
       }
     ]
   ]
