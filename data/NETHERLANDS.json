@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-05-2023 , 16:18:42",
+  "lastUpdate": "17-05-2023 , 16:34:25",
   "data": [
     [
       {
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
         "pubdate": "Wed, 17 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maxima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maxima",
+        "pubdate": "Wed, 17 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Chantal Janzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chantal%20Janzen",
-        "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
+        "title": "Simon Keizer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Simon%20Keizer",
+        "pubdate": "Wed, 17 May 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Simon Keizer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Simon%20Keizer",
-        "pubdate": "Wed, 17 May 2023 13:00:00 +0200"
+        "title": "Chantal Janzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chantal%20Janzen",
+        "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Songfestival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Songfestival",
         "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PEC Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
-        "pubdate": "Fri, 12 May 2023 19:00:00 +0200"
       }
     ]
   ]
