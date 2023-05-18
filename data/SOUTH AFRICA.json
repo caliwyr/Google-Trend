@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-05-2023 , 09:09:22",
+  "lastUpdate": "18-05-2023 , 09:22:02",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "J. Cole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#J.%20Cole",
-        "pubdate": "Thu, 18 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Newcastle vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Brighton",
         "pubdate": "Thu, 18 May 2023 05:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Kyle Walker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kyle%20Walker",
         "pubdate": "Thu, 18 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "J. Cole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#J.%20Cole",
+        "pubdate": "Thu, 18 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "PSL results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL%20results",
+        "pubdate": "Wed, 17 May 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Middlesbrough vs Coventry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Middlesbrough%20vs%20Coventry",
         "pubdate": "Wed, 17 May 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Middlesbrough fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Middlesbrough%20fc",
         "pubdate": "Wed, 17 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Etihad Stadium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Etihad%20Stadium",
-        "pubdate": "Wed, 17 May 2023 23:00:00 +0200"
       }
     ]
   ]
