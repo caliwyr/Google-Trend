@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-05-2023 , 16:51:07",
+  "lastUpdate": "19-05-2023 , 17:00:27",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Vermeer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vermeer",
+        "pubdate": "Fri, 19 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fantasy Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fantasy%20Premier%20League",
         "pubdate": "Fri, 19 May 2023 09:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Harrison Ford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harrison%20Ford",
         "pubdate": "Fri, 19 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dorothea Wierer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dorothea%20Wierer",
+        "pubdate": "Fri, 19 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,20 +73,6 @@
     ],
     [
       {
-        "title": "Vermeer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vermeer",
-        "pubdate": "Fri, 19 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dorothea Wierer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dorothea%20Wierer",
-        "pubdate": "Fri, 19 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zara Larsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zara%20Larsson",
         "pubdate": "Fri, 19 May 2023 01:00:00 +0200"
@@ -83,13 +83,6 @@
         "title": "Priscilla Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Priscilla%20Presley",
         "pubdate": "Fri, 19 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dn.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dn.no",
-        "pubdate": "Fri, 19 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kino",
         "pubdate": "Thu, 18 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helmut Berger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helmut%20Berger",
+        "pubdate": "Thu, 18 May 2023 18:00:00 +0200"
       }
     ]
   ]
