@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "19-05-2023 , 12:54:26",
+  "lastUpdate": "19-05-2023 , 13:12:06",
   "data": [
+    [
+      {
+        "title": "ATU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ATU",
+        "pubdate": "Fri, 19 May 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Harrison Ford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harrison%20Ford",
         "pubdate": "Fri, 19 May 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hiroshima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hiroshima",
+        "pubdate": "Fri, 19 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Wann ist Vatertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wann%20ist%20Vatertag",
-        "pubdate": "Thu, 18 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Geld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Geld",
         "pubdate": "Thu, 18 May 2023 12:00:00 +0200"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "On Running",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#On%20Running",
-        "pubdate": "Thu, 18 May 2023 15:00:00 +0200"
+        "title": "Moldau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
+        "pubdate": "Thu, 18 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Alle meine Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alle%20meine%20Frauen",
-        "pubdate": "Thu, 18 May 2023 18:00:00 +0200"
+        "title": "Zum Vatertag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zum%20Vatertag",
+        "pubdate": "Thu, 18 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
         "pubdate": "Wed, 17 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Italien Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Italien%20Unwetter",
-        "pubdate": "Wed, 17 May 2023 12:00:00 +0200"
       }
     ]
   ]
