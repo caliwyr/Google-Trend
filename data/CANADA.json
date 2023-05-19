@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-05-2023 , 18:55:27",
+  "lastUpdate": "19-05-2023 , 19:09:04",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Sergei Bobrovsky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sergei%20Bobrovsky",
+        "pubdate": "Fri, 19 May 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Grey's Anatomy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grey's%20Anatomy",
         "pubdate": "Fri, 19 May 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "White Men Can't Jump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#White%20Men%20Can't%20Jump",
+        "pubdate": "Fri, 19 May 2023 02:00:00 -0400"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "White Men Can't Jump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#White%20Men%20Can't%20Jump",
-        "pubdate": "Fri, 19 May 2023 02:00:00 -0400"
+        "title": "Tim Keller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Keller",
+        "pubdate": "Fri, 19 May 2023 13:00:00 -0400"
       }
     ],
     [
@@ -108,27 +122,6 @@
     ],
     [
       {
-        "title": "MAiD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MAiD",
-        "pubdate": "Fri, 19 May 2023 04:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Bilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rachel%20Bilson",
-        "pubdate": "Fri, 19 May 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tim Keller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Keller",
-        "pubdate": "Fri, 19 May 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "PBKS vs RR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PBKS%20vs%20RR",
         "pubdate": "Fri, 19 May 2023 13:00:00 -0400"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Florida Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Florida%20Panthers",
-        "pubdate": "Thu, 18 May 2023 21:00:00 -0400"
+        "title": "MAiD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MAiD",
+        "pubdate": "Fri, 19 May 2023 04:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ron%20DeSantis",
+        "pubdate": "Fri, 19 May 2023 02:00:00 -0400"
       }
     ]
   ]
