@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "20-05-2023 , 22:54:07",
+  "lastUpdate": "20-05-2023 , 23:08:46",
   "data": [
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Sun, 21 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Barcelona",
+        "pubdate": "Sun, 21 May 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Arsenal",
@@ -17,23 +31,9 @@
     ],
     [
       {
-        "title": "Kika van Es",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kika%20van%20Es",
-        "pubdate": "Sat, 20 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Omroep Zeeland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Zeeland",
         "pubdate": "Sat, 20 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20munchen",
-        "pubdate": "Sat, 20 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Veenendaal-Veenendaal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Veenendaal-Veenendaal",
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Miley%20Cyrus",
         "pubdate": "Fri, 19 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helmond Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport",
-        "pubdate": "Fri, 19 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Depeche Mode",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Depeche%20Mode",
         "pubdate": "Tue, 16 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Johnny Depp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johnny%20Depp",
+        "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
       }
     ]
   ]
