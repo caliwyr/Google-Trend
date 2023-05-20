@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-05-2023 , 08:52:47",
+  "lastUpdate": "20-05-2023 , 09:06:24",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Dubas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dubas",
-        "pubdate": "Fri, 19 May 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
         "pubdate": "Fri, 19 May 2023 00:00:00 -0400"
@@ -52,16 +45,9 @@
     ],
     [
       {
-        "title": "Jim Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jim%20Brown",
-        "pubdate": "Fri, 19 May 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Nick Cannon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Cannon",
-        "pubdate": "Fri, 19 May 2023 14:00:00 -0400"
+        "title": "Dubas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dubas",
+        "pubdate": "Fri, 19 May 2023 13:00:00 -0400"
       }
     ],
     [
@@ -69,6 +55,20 @@
         "title": "Dallas Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
         "pubdate": "Fri, 19 May 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jim Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jim%20Brown",
+        "pubdate": "Fri, 19 May 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Nick Cannon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Cannon",
+        "pubdate": "Fri, 19 May 2023 14:00:00 -0400"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "G7 countries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#G7%20countries",
+        "pubdate": "Fri, 19 May 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Selling Sunset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Selling%20Sunset",
         "pubdate": "Fri, 19 May 2023 19:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Orioles vs Blue Jays",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Orioles%20vs%20Blue%20Jays",
         "pubdate": "Fri, 19 May 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roma",
-        "pubdate": "Fri, 19 May 2023 10:00:00 -0400"
       }
     ]
   ]
