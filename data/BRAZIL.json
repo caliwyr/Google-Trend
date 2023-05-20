@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-05-2023 , 13:43:31",
+  "lastUpdate": "20-05-2023 , 13:52:51",
   "data": [
     [
       {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
         "pubdate": "Sat, 20 May 2023 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sat, 20 May 2023 08:00:00 -0500"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Fri, 19 May 2023 08:00:00 -0500"
+        "title": "Luciano Huck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Huck",
+        "pubdate": "Sat, 20 May 2023 08:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Tombense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tombense",
-        "pubdate": "Fri, 19 May 2023 10:00:00 -0500"
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+        "pubdate": "Fri, 19 May 2023 08:00:00 -0500"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Atletico-go",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico-go",
         "pubdate": "Fri, 19 May 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tombense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tombense",
+        "pubdate": "Fri, 19 May 2023 10:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Lotofácil 2815",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lotof%C3%A1cil%202815",
-        "pubdate": "Fri, 19 May 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Humorista Léo Lins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Humorista%20L%C3%A9o%20Lins",
-        "pubdate": "Fri, 19 May 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Wolfsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolfsburg",
-        "pubdate": "Fri, 19 May 2023 12:00:00 -0500"
+        "title": "Dia do Pedagogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Pedagogo",
+        "pubdate": "Fri, 19 May 2023 17:00:00 -0500"
       }
     ]
   ]

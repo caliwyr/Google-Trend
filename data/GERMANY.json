@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-05-2023 , 13:43:33",
+  "lastUpdate": "20-05-2023 , 13:52:54",
   "data": [
     [
       {
         "title": "Boris Becker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boris%20Becker",
-        "pubdate": "Sat, 20 May 2023 02:00:00 +0200"
+        "pubdate": "Sat, 20 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heidenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim",
+        "pubdate": "Sat, 20 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Moldau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
         "pubdate": "Thu, 18 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic",
-        "pubdate": "Thu, 18 May 2023 11:00:00 +0200"
       }
     ]
   ]
