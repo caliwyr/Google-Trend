@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2023 , 16:49:09",
+  "lastUpdate": "21-05-2023 , 16:58:37",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds",
+        "title": "Leeds united",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds%20united",
         "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Megan Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Megan%20Fox",
-        "pubdate": "Sun, 21 May 2023 02:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Martin Amis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20Amis",
         "pubdate": "Sun, 21 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Megan%20Fox",
+        "pubdate": "Sun, 21 May 2023 02:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Sat, 20 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Phillip Schofield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Phillip%20Schofield",
+        "pubdate": "Sat, 20 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vendela Kirsebom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vendela%20Kirsebom",
         "pubdate": "Sat, 20 May 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Fri, 19 May 2023 19:00:00 +0200"
       }
     ]
   ]
