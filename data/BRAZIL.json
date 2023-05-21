@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-05-2023 , 07:46:26",
+  "lastUpdate": "21-05-2023 , 07:55:50",
   "data": [
+    [
+      {
+        "title": "Bakhmut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bakhmut",
+        "pubdate": "Sun, 21 May 2023 02:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "São Paulo x Vasco da Gama",
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Lakers x Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Nuggets",
-        "pubdate": "Sat, 20 May 2023 23:00:00 -0500"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
+        "pubdate": "Sat, 20 May 2023 05:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
-        "pubdate": "Sat, 20 May 2023 05:00:00 -0500"
+        "title": "Lakers x Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Nuggets",
+        "pubdate": "Sat, 20 May 2023 23:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Santos FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
+        "pubdate": "Sat, 20 May 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "ABC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
         "pubdate": "Sat, 20 May 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MC Marcinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Marcinho",
-        "pubdate": "Sat, 20 May 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Sat, 20 May 2023 10:00:00 -0500"
       }
     ]
   ]
