@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-05-2023 , 08:46:22",
+  "lastUpdate": "21-05-2023 , 08:55:39",
   "data": [
     [
       {
         "title": "FC St. Gallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.%20Gallen",
         "pubdate": "Sun, 21 May 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Munich",
+        "pubdate": "Sun, 21 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Urner kantonales Schwingfest 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Urner%20kantonales%20Schwingfest%202023",
-        "pubdate": "Sun, 21 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "L'etape Switzerland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L'etape%20Switzerland",
         "pubdate": "Sun, 21 May 2023 07:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "FC Winterthur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
-        "pubdate": "Sat, 20 May 2023 17:00:00 +0200"
+        "title": "Schweiz Kanada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz%20Kanada",
+        "pubdate": "Sat, 20 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,8 +59,22 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "title": "FC Winterthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+        "pubdate": "Sat, 20 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andres Ambühl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andres%20Amb%C3%BChl",
+        "pubdate": "Sat, 20 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan - Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20-%20Sampdoria",
         "pubdate": "Sat, 20 May 2023 22:00:00 +0200"
       }
     ],
@@ -83,13 +97,6 @@
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Union%20Berlin",
         "pubdate": "Sat, 20 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan  Sampdoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20%20Sampdoria",
-        "pubdate": "Sat, 20 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Bayern – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Sat, 20 May 2023 21:00:00 +0200"
+        "title": "Schwingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwingen",
+        "pubdate": "Sat, 20 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "24h Nürburgring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#24h%20N%C3%BCrburgring",
         "pubdate": "Sat, 20 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Sat, 20 May 2023 20:00:00 +0200"
       }
     ]
   ]
