@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "21-05-2023 , 14:50:53",
+  "lastUpdate": "21-05-2023 , 15:00:36",
   "data": [
+    [
+      {
+        "title": "Barbara Bandeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barbara%20Bandeira",
+        "pubdate": "Sun, 21 May 2023 15:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
         "pubdate": "Sun, 21 May 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Estrela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela",
+        "pubdate": "Sun, 21 May 2023 13:00:00 +0100"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Borussia%20Dortmund",
-        "pubdate": "Sun, 21 May 2023 13:00:00 +0100"
+        "title": "Oliveira de azemeis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliveira%20de%20azemeis",
+        "pubdate": "Sun, 21 May 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Sporting-Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting-Benfica",
+        "pubdate": "Sat, 20 May 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ruben Aguiar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Aguiar",
         "pubdate": "Sat, 20 May 2023 11:00:00 +0100"
@@ -82,13 +103,6 @@
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
-        "pubdate": "Sat, 20 May 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bundesliga",
         "pubdate": "Sat, 20 May 2023 18:00:00 +0100"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
-        "pubdate": "Sat, 20 May 2023 20:00:00 +0100"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bundesliga",
+        "pubdate": "Sat, 20 May 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bournemouth  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bournemouth%20%20Manchester%20United",
-        "pubdate": "Sat, 20 May 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Santa Clara-Portimonense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santa%20Clara-Portimonense",
-        "pubdate": "Sat, 20 May 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arouca FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20FC",
-        "pubdate": "Sat, 20 May 2023 16:00:00 +0100"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
+        "pubdate": "Sat, 20 May 2023 18:00:00 +0100"
       }
     ]
   ]
