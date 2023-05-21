@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2023 , 19:52:52",
+  "lastUpdate": "21-05-2023 , 20:07:34",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
         "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
+        "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Martin Amis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Martin%20Amis",
+        "pubdate": "Sun, 21 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emilia-Romagna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emilia-Romagna",
         "pubdate": "Sun, 21 May 2023 11:00:00 +0200"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Martin Amis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Martin%20Amis",
-        "pubdate": "Sun, 21 May 2023 08:00:00 +0200"
+        "title": "Beachclub Bloomingdale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beachclub%20Bloomingdale",
+        "pubdate": "Sun, 21 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-        "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Phillip Schofield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Phillip%20Schofield",
-        "pubdate": "Sun, 21 May 2023 12:00:00 +0200"
+        "title": "Valencia  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Valencia%20%20Real%20Madrid",
+        "pubdate": "Sun, 21 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Phillip Schofield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Phillip%20Schofield",
+        "pubdate": "Sun, 21 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kasanwirjo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kasanwirjo",
+        "pubdate": "Sun, 21 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
         "pubdate": "Sat, 20 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harrie Jekkers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harrie%20Jekkers",
-        "pubdate": "Sat, 20 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Omroep Zeeland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Zeeland",
-        "pubdate": "Sat, 20 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Groove Garden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groove%20Garden",
-        "pubdate": "Sat, 20 May 2023 15:00:00 +0200"
       }
     ]
   ]
