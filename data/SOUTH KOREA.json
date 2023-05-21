@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2023 , 10:56:05",
+  "lastUpdate": "21-05-2023 , 11:09:50",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "마요르카",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%88%EC%9A%94%EB%A5%B4%EC%B9%B4",
-        "pubdate": "Sun, 21 May 2023 13:00:00 +0900"
+        "title": "미세먼지",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80",
+        "pubdate": "Sun, 21 May 2023 17:00:00 +0900"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "T1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#T1",
         "pubdate": "Sun, 21 May 2023 08:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "미세먼지",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80",
-        "pubdate": "Sun, 21 May 2023 17:00:00 +0900"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "양이원영",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%96%91%EC%9D%B4%EC%9B%90%EC%98%81",
-        "pubdate": "Fri, 19 May 2023 22:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "이성만",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%84%B1%EB%A7%8C",
         "pubdate": "Fri, 19 May 2023 22:00:00 +0900"
@@ -138,6 +124,20 @@
       {
         "title": "맨시티",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%8B%9C%ED%8B%B0",
+        "pubdate": "Wed, 17 May 2023 18:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "간호법",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%84%ED%98%B8%EB%B2%95",
+        "pubdate": "Wed, 17 May 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "분노의 질주",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B6%84%EB%85%B8%EC%9D%98%20%EC%A7%88%EC%A3%BC",
         "pubdate": "Wed, 17 May 2023 18:00:00 +0900"
       }
     ]
