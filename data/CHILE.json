@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2023 , 12:45:10",
+  "lastUpdate": "21-05-2023 , 12:58:14",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Malaga CF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Malaga%20CF",
         "pubdate": "Sun, 21 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "El.tiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El.tiempo",
+        "pubdate": "Sun, 21 May 2023 08:00:00 -0400"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Lago de Xochimilco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lago%20de%20Xochimilco",
-        "pubdate": "Sat, 20 May 2023 07:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
         "pubdate": "Sat, 20 May 2023 13:00:00 -0400"
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Bournemouth Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20Manchester%20United",
+        "title": "Bournemouth  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20%20Manchester%20United",
         "pubdate": "Sat, 20 May 2023 11:00:00 -0400"
       }
     ],
