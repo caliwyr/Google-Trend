@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2023 , 21:51:49",
+  "lastUpdate": "21-05-2023 , 22:02:34",
   "data": [
     [
       {
@@ -12,14 +12,7 @@
       {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bundesliga",
-        "pubdate": "Sun, 21 May 2023 08:00:00 +0200"
+        "pubdate": "Sun, 21 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -27,13 +20,6 @@
         "title": "ALS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ALS",
         "pubdate": "Sun, 21 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården mot Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20mot%20Mj%C3%A4llby",
-        "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -55,6 +41,13 @@
         "title": "Joe Veleno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Veleno",
         "pubdate": "Sun, 21 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Etna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Etna",
+        "pubdate": "Sun, 21 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Hugo Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Larsson",
+        "pubdate": "Sun, 21 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tiomila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tiomila",
         "pubdate": "Sun, 21 May 2023 08:00:00 +0200"
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Etna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Etna",
-        "pubdate": "Sat, 20 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sam Hallam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sam%20Hallam",
-        "pubdate": "Sat, 20 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
         "pubdate": "Sat, 20 May 2023 15:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Sat, 20 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
+        "pubdate": "Sat, 20 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boris Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boris%20Johnson",
+        "pubdate": "Fri, 19 May 2023 19:00:00 +0200"
       }
     ]
   ]
