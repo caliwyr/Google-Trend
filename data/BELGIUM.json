@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-05-2023 , 10:55:43",
+  "lastUpdate": "22-05-2023 , 11:10:07",
   "data": [
     [
       {
         "title": "De Lijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Lijn",
         "pubdate": "Mon, 22 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TEC",
+        "pubdate": "Mon, 22 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Staking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Staking",
-        "pubdate": "Mon, 22 May 2023 10:00:00 +0200"
+        "title": "Greve nationale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greve%20nationale",
+        "pubdate": "Mon, 22 May 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Grève nationale 22 mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gr%C3%A8ve%20nationale%2022%20mai",
-        "pubdate": "Mon, 22 May 2023 11:00:00 +0200"
+        "title": "Staking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Staking",
+        "pubdate": "Mon, 22 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "TEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TEC",
-        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 21 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Valence – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Valence%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Sun, 21 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Auxerre – paris-sg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Auxerre%20%E2%80%93%20paris-sg",
-        "pubdate": "Sun, 21 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Antwerp Port Epic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20Port%20Epic",
         "pubdate": "Sun, 21 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Angele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angele",
+        "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Portland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Portland",
         "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin De Bruyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kevin%20De%20Bruyne",
-        "pubdate": "Sun, 21 May 2023 20:00:00 +0200"
       }
     ]
   ]
