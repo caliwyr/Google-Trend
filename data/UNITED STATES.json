@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-05-2023 , 08:57:23",
+  "lastUpdate": "22-05-2023 , 09:14:55",
   "data": [
+    [
+      {
+        "title": "Bill Gates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bill%20Gates",
+        "pubdate": "Mon, 22 May 2023 01:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Miami Heat",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Who won American Idol 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Who%20won%20American%20Idol%202023",
-        "pubdate": "Sun, 21 May 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Man City vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Chelsea",
         "pubdate": "Sun, 21 May 2023 09:00:00 -0700"
@@ -34,6 +34,13 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bundesliga",
         "pubdate": "Sun, 21 May 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Iam Tongi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iam%20Tongi",
+        "pubdate": "Sun, 21 May 2023 19:00:00 -0700"
       }
     ],
     [
@@ -73,20 +80,6 @@
     ],
     [
       {
-        "title": "Austin Reaves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Austin%20Reaves",
-        "pubdate": "Sun, 21 May 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "NCIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NCIS",
-        "pubdate": "Sun, 21 May 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG",
         "pubdate": "Sun, 21 May 2023 19:00:00 -0700"
@@ -97,13 +90,6 @@
         "title": "Los Angeles Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Los%20Angeles%20Lakers",
         "pubdate": "Sun, 21 May 2023 03:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bam Adebayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bam%20Adebayo",
-        "pubdate": "Sun, 21 May 2023 21:00:00 -0700"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "NAACP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NAACP",
         "pubdate": "Sun, 21 May 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NCIS: Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NCIS:%20Los%20Angeles",
+        "pubdate": "Sun, 21 May 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NASCAR All-Star Race",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NASCAR%20All-Star%20Race",
+        "pubdate": "Sun, 21 May 2023 16:00:00 -0700"
       }
     ]
   ]
