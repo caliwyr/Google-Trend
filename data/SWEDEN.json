@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-05-2023 , 15:50:35",
+  "lastUpdate": "22-05-2023 , 15:59:53",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
-        "pubdate": "Mon, 22 May 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Chelsea",
@@ -34,6 +27,13 @@
         "title": "Persona non grata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Persona%20non%20grata",
         "pubdate": "Mon, 22 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Instagram Problem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Instagram%20Problem",
+        "pubdate": "Mon, 22 May 2023 02:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Tiomila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tiomila",
-        "pubdate": "Sun, 21 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Sat, 20 May 2023 15:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
         "pubdate": "Sat, 20 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
+        "pubdate": "Sat, 20 May 2023 23:00:00 +0200"
       }
     ]
   ]

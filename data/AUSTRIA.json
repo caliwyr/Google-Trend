@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-05-2023 , 15:50:24",
+  "lastUpdate": "22-05-2023 , 15:59:43",
   "data": [
     [
       {
         "title": "SCS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SCS",
         "pubdate": "Mon, 22 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturm Graz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz",
+        "pubdate": "Mon, 22 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Belgorod",
+        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Neue Regensburger Hütte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neue%20Regensburger%20H%C3%BCtte",
         "pubdate": "Mon, 22 May 2023 07:00:00 +0200"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Belgorod",
-        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
+        "title": "PGA Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PGA%20Championship",
+        "pubdate": "Mon, 22 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -55,6 +69,13 @@
         "title": "Theater im Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Theater%20im%20Park",
         "pubdate": "Mon, 22 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kate%20Middleton",
+        "pubdate": "Mon, 22 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm",
+        "pubdate": "Mon, 22 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pool",
         "pubdate": "Mon, 22 May 2023 12:00:00 +0200"
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
-        "pubdate": "Sun, 21 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "SPÖ-Mitgliederbefragung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96-Mitgliederbefragung",
-        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manuel Gräfe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manuel%20Gr%C3%A4fe",
-        "pubdate": "Sun, 21 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ätna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%84tna",
-        "pubdate": "Sun, 21 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frank Sinatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frank%20Sinatra",
         "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
       }
     ]
