@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-05-2023 , 05:47:00",
+  "lastUpdate": "22-05-2023 , 05:56:26",
   "data": [
-    [
-      {
-        "title": "Instagram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Instagram",
-        "pubdate": "Sun, 21 May 2023 17:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "American Idol",
@@ -27,6 +20,13 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bundesliga",
         "pubdate": "Sun, 21 May 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Foo Fighters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Foo%20Fighters",
+        "pubdate": "Sun, 21 May 2023 14:00:00 -0700"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "La Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#La%20Lakers",
-        "pubdate": "Sun, 21 May 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Los Angeles Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Los%20Angeles%20Lakers",
         "pubdate": "Sun, 21 May 2023 03:00:00 -0700"
@@ -115,9 +108,16 @@
     ],
     [
       {
-        "title": "Bam Adebayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bam%20Adebayo",
-        "pubdate": "Sun, 21 May 2023 21:00:00 -0700"
+        "title": "James Blunt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Blunt",
+        "pubdate": "Sun, 21 May 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Keith Urban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keith%20Urban",
+        "pubdate": "Sun, 21 May 2023 19:00:00 -0700"
       }
     ],
     [
