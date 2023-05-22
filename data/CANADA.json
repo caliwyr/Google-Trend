@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "22-05-2023 , 13:53:27",
+  "lastUpdate": "22-05-2023 , 14:08:05",
   "data": [
     [
       {
         "title": "Miami Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Heat",
+        "pubdate": "Mon, 22 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dallas Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
+        "pubdate": "Mon, 22 May 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "NAACP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NAACP",
         "pubdate": "Mon, 22 May 2023 00:00:00 -0400"
       }
     ],
@@ -20,6 +34,13 @@
         "title": "Tyler Herro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Herro",
         "pubdate": "Mon, 22 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bill Gates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bill%20Gates",
+        "pubdate": "Mon, 22 May 2023 09:00:00 -0400"
       }
     ],
     [
@@ -52,16 +73,9 @@
     ],
     [
       {
-        "title": "Dallas Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
+        "title": "Vegas Golden Knights",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vegas%20Golden%20Knights",
         "pubdate": "Sun, 21 May 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "PGA CHAMPIONSHIP LEADERBOARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PGA%20CHAMPIONSHIP%20LEADERBOARD",
-        "pubdate": "Sun, 21 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
         "pubdate": "Sun, 21 May 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jokic",
-        "pubdate": "Sun, 21 May 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Gabe Vincent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gabe%20Vincent",
-        "pubdate": "Sun, 21 May 2023 23:00:00 -0400"
       }
     ]
   ]
