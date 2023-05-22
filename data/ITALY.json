@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2023 , 01:56:10",
+  "lastUpdate": "22-05-2023 , 02:35:31",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Cavani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cavani",
+        "pubdate": "Mon, 22 May 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Napoli-Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Inter",
         "pubdate": "Sun, 21 May 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Marcella Bella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcella%20Bella",
         "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paola Di Benedetto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20Di%20Benedetto",
-        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
       }
     ]
   ]

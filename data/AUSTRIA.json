@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2023 , 01:56:06",
+  "lastUpdate": "22-05-2023 , 02:35:28",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Manuel Gräfe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manuel%20Gr%C3%A4fe",
-        "pubdate": "Sun, 21 May 2023 12:00:00 +0200"
+        "title": "Frank Sinatra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frank%20Sinatra",
+        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
+        "pubdate": "Sun, 21 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Leonardo DiCaprio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leonardo%20DiCaprio",
         "pubdate": "Sun, 21 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SPÖ-Mitgliederbefragung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96-Mitgliederbefragung",
-        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
         "pubdate": "Sun, 21 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rapid LASK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20LASK",
-        "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,6 +115,20 @@
     ],
     [
       {
+        "title": "SPÖ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96",
+        "pubdate": "Sun, 21 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deniz Aytekin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deniz%20Aytekin",
+        "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "French Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#French%20Open",
         "pubdate": "Sun, 21 May 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "WAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WAC",
         "pubdate": "Sun, 21 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bundesliga%20heute",
-        "pubdate": "Sun, 21 May 2023 00:00:00 +0200"
       }
     ]
   ]
