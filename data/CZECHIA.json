@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-05-2023 , 10:49:52",
+  "lastUpdate": "23-05-2023 , 10:59:10",
   "data": [
+    [
+      {
+        "title": "Ondřej brzobohatý",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20brzobohat%C3%BD",
+        "pubdate": "Tue, 23 May 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jaromír Jágr",
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Akcie čez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Akcie%20%C4%8Dez",
+        "title": "Akcie ČEZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Akcie%20%C4%8CEZ",
         "pubdate": "Mon, 22 May 2023 16:00:00 +0200"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Zohorna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zohorna",
-        "pubdate": "Sun, 21 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Auxerre – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Auxerre%20%E2%80%93%20PSG",
         "pubdate": "Sun, 21 May 2023 21:00:00 +0200"
       }
     ]
