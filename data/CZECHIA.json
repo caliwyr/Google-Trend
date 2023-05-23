@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-05-2023 , 16:47:40",
+  "lastUpdate": "23-05-2023 , 16:57:04",
   "data": [
     [
       {
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
         "pubdate": "Tue, 23 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zlatá labuť",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlat%C3%A1%20labu%C5%A5",
-        "pubdate": "Tue, 23 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus",
-        "pubdate": "Tue, 23 May 2023 00:00:00 +0200"
+        "title": "Martin Kaut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Kaut",
+        "pubdate": "Tue, 23 May 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Martin Kaut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Kaut",
-        "pubdate": "Tue, 23 May 2023 17:00:00 +0200"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus",
+        "pubdate": "Tue, 23 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "IDET 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#IDET%202023",
+        "pubdate": "Mon, 22 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vinicius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vinicius",
         "pubdate": "Mon, 22 May 2023 18:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "IDET 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#IDET%202023",
-        "pubdate": "Mon, 22 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Daň z nemovitosti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Da%C5%88%20z%20nemovitosti",
         "pubdate": "Mon, 22 May 2023 13:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Akcie ČEZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Akcie%20%C4%8CEZ",
         "pubdate": "Mon, 22 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cesko svycarsko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cesko%20svycarsko",
+        "pubdate": "Sun, 21 May 2023 09:00:00 +0200"
       }
     ]
   ]
