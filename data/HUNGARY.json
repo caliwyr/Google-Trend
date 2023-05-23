@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2023 , 14:42:58",
+  "lastUpdate": "23-05-2023 , 14:52:18",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Földrengés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s",
+        "pubdate": "Mon, 22 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
         "pubdate": "Mon, 22 May 2023 22:00:00 +0200"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Földrengés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s",
+        "title": "Marco Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
         "pubdate": "Mon, 22 May 2023 21:00:00 +0200"
       }
     ],
@@ -69,13 +76,6 @@
         "title": "Opitz Barbi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Opitz%20Barbi",
         "pubdate": "Mon, 22 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marco Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
-        "pubdate": "Mon, 22 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Roma–Salernitana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93Salernitana",
         "pubdate": "Mon, 22 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
-        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Roland Garros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roland%20Garros",
         "pubdate": "Mon, 22 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cher",
+        "pubdate": "Mon, 22 May 2023 00:00:00 +0200"
       }
     ]
   ]
