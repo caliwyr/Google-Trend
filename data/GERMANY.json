@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2023 , 23:57:56",
+  "lastUpdate": "23-05-2023 , 01:22:15",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
-        "pubdate": "Mon, 22 May 2023 12:00:00 +0200"
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgorod",
+        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgorod",
-        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Mon, 22 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "French Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French%20Open",
+        "title": "French-Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French-Open",
         "pubdate": "Mon, 22 May 2023 10:00:00 +0200"
       }
     ],
@@ -110,14 +110,7 @@
       {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sun, 21 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
-        "pubdate": "Sun, 21 May 2023 17:00:00 +0200"
+        "pubdate": "Sun, 21 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "KSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
         "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haller",
+        "pubdate": "Sun, 21 May 2023 20:00:00 +0200"
       }
     ]
   ]

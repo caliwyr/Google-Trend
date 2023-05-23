@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2023 , 23:58:00",
+  "lastUpdate": "23-05-2023 , 01:22:19",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Newcastle",
-        "pubdate": "Tue, 23 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AS Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AS%20Roma",
         "pubdate": "Tue, 23 May 2023 00:00:00 +0200"
       }
     ],
@@ -48,13 +41,6 @@
         "title": "Josh Freese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Josh%20Freese",
         "pubdate": "Mon, 22 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Mon, 22 May 2023 05:00:00 +0200"
       }
     ],
     [
@@ -108,13 +94,6 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
         "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
@@ -129,6 +108,13 @@
     ],
     [
       {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 21 May 2023 19:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emilia-Romagna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emilia-Romagna",
+        "pubdate": "Sun, 21 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sun, 21 May 2023 22:00:00 +0200"
       }
     ]
   ]
