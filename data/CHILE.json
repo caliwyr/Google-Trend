@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2023 , 01:22:13",
+  "lastUpdate": "23-05-2023 , 02:16:54",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ticketmaster",
-        "pubdate": "Mon, 22 May 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ray Stevenson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ray%20Stevenson",
         "pubdate": "Mon, 22 May 2023 15:00:00 -0400"
@@ -41,6 +34,13 @@
         "title": "Santiago Wanderers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago%20Wanderers",
         "pubdate": "Mon, 22 May 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ticketmaster",
+        "pubdate": "Mon, 22 May 2023 11:00:00 -0400"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Roma vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roma%20vs",
-        "pubdate": "Mon, 22 May 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Roma  Salernitana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roma%20%20Salernitana",
         "pubdate": "Mon, 22 May 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Boric",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boric",
-        "pubdate": "Mon, 22 May 2023 00:00:00 -0400"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Empoli vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Empoli%20vs%20Juventus",
+        "pubdate": "Mon, 22 May 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Calefactor electrico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Calefactor%20electrico",
         "pubdate": "Mon, 22 May 2023 12:00:00 -0400"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Cyber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cyber",
-        "pubdate": "Mon, 22 May 2023 18:00:00 -0400"
+        "title": "Boric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boric",
+        "pubdate": "Mon, 22 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Carmelo Anthony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carmelo%20Anthony",
+        "pubdate": "Mon, 22 May 2023 19:00:00 -0400"
       }
     ]
   ]
