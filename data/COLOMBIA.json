@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2023 , 02:46:45",
+  "lastUpdate": "24-05-2023 , 02:56:08",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "DIM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#DIM",
+        "pubdate": "Tue, 23 May 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Santa Fe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Santa%20Fe",
         "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Libertadores",
-        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Pico y placa solidario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pico%20y%20placa%20solidario",
         "pubdate": "Tue, 23 May 2023 12:00:00 -0500"
@@ -52,22 +52,8 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Temblor%20hoy",
-        "pubdate": "Tue, 23 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Giro de Italia hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Giro%20de%20Italia%20hoy",
-        "pubdate": "Tue, 23 May 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad - Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Sociedad%20-%20Almer%C3%ADa",
+        "title": "Copa Libertadores 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Libertadores%202023",
         "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
       }
     ],
@@ -87,23 +73,16 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#LaLiga",
-        "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
+        "title": "Temblor hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Temblor%20hoy",
+        "pubdate": "Tue, 23 May 2023 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "DIM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#DIM",
-        "pubdate": "Tue, 23 May 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Independiente medellin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Independiente%20medellin",
-        "pubdate": "Tue, 23 May 2023 18:00:00 -0500"
+        "title": "Giro de Italia hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Giro%20de%20Italia%20hoy",
+        "pubdate": "Tue, 23 May 2023 16:00:00 -0500"
       }
     ],
     [
@@ -115,8 +94,22 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#FC%20Barcelona",
+        "title": "Real Sociedad  Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Sociedad%20%20Almer%C3%ADa",
+        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#LaLiga",
+        "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barcelona%20hoy",
         "pubdate": "Tue, 23 May 2023 16:00:00 -0500"
       }
     ],
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Clima bogota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Clima%20bogota",
-        "pubdate": "Tue, 23 May 2023 09:00:00 -0500"
+        "title": "Copa Libertadores HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Libertadores%20HOY",
+        "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Gas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Gas",
-        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
+        "title": "CONMEBOL Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#CONMEBOL%20Libertadores",
+        "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Clima bogota",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Clima%20bogota",
+        "pubdate": "Tue, 23 May 2023 09:00:00 -0500"
       }
     ]
   ]
