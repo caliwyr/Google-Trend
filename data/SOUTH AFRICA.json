@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-05-2023 , 17:45:46",
+  "lastUpdate": "24-05-2023 , 17:55:20",
   "data": [
+    [
+      {
+        "title": "Real Madrid vs Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Rayo%20Vallecano",
+        "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "FC Barcelona",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Africa Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Africa%20Day",
+        "title": "MI vs LSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MI%20vs%20LSG",
         "pubdate": "Wed, 24 May 2023 18:00:00 +0200"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "Freedom of Movement",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Freedom%20of%20Movement",
         "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MI vs LSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MI%20vs%20LSG",
-        "pubdate": "Wed, 24 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cristiano%20Ronaldo%20Al%20Nassr",
+        "title": "Cristiano Ronaldo Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cristiano%20Ronaldo%20Al-Nassr",
         "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LeBron%20James",
-        "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Newcastle vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Leicester%20City",
         "pubdate": "Mon, 22 May 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Ray Stevenson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ray%20Stevenson",
         "pubdate": "Mon, 22 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
+        "pubdate": "Mon, 22 May 2023 23:00:00 +0200"
       }
     ]
   ]
