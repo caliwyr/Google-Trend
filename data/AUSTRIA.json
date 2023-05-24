@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-05-2023 , 19:47:57",
+  "lastUpdate": "24-05-2023 , 19:57:13",
   "data": [
+    [
+      {
+        "title": "Tina Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tina%20Turner",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Netflix Kosten",
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Borussia%20Dortmund",
-        "pubdate": "Wed, 24 May 2023 13:00:00 +0200"
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
-        "pubdate": "Wed, 24 May 2023 06:00:00 +0200"
+        "title": "Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Borussia%20Dortmund",
+        "pubdate": "Wed, 24 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -66,8 +73,22 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "pubdate": "Wed, 24 May 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Griechenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Griechenland",
+        "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Grönemeyer Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gr%C3%B6nemeyer%20Wien",
         "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
       }
     ],
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "BMW i5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BMW%20i5",
-        "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
+        "title": "Die Jagd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Jagd",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Energieeffizienzgesetz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Energieeffizienzgesetz",
-        "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
+        "title": "BMW i5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BMW%20i5",
+        "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Ernst-Happel-Stadion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ernst-Happel-Stadion",
-        "pubdate": "Wed, 24 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rb Salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rb%20Salzburg",
+        "title": "Energieeffizienzgesetz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Energieeffizienzgesetz",
         "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frankreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frankreich",
-        "pubdate": "Wed, 24 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jokic",
-        "pubdate": "Wed, 24 May 2023 02:00:00 +0200"
       }
     ]
   ]

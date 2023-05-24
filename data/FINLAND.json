@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-05-2023 , 19:47:59",
+  "lastUpdate": "24-05-2023 , 19:57:15",
   "data": [
+    [
+      {
+        "title": "Tina Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tina%20Turner",
+        "pubdate": "Wed, 24 May 2023 22:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Cristiano Ronaldo",
@@ -17,16 +24,23 @@
     ],
     [
       {
-        "title": "Kaapo Kakko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kaapo%20Kakko",
-        "pubdate": "Wed, 24 May 2023 00:00:00 +0300"
+        "title": "Real Madrid – Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Rayo%20Vallecano",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DeSantis",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0300"
+        "title": "Till Lindemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Till%20Lindemann",
+        "pubdate": "Wed, 24 May 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kaapo Kakko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kaapo%20Kakko",
+        "pubdate": "Wed, 24 May 2023 00:00:00 +0300"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Real Madrid – Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Rayo%20Vallecano",
+        "title": "DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DeSantis",
         "pubdate": "Wed, 24 May 2023 21:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ozempic",
         "pubdate": "Mon, 22 May 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
-        "pubdate": "Mon, 22 May 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dallas%20Stars",
-        "pubdate": "Mon, 22 May 2023 13:00:00 +0300"
       }
     ]
   ]
