@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-05-2023 , 10:47:14",
+  "lastUpdate": "24-05-2023 , 10:56:30",
   "data": [
     [
       {
         "title": "Los angeles FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Los%20angeles%20FC",
         "pubdate": "Wed, 24 May 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Miami",
+        "pubdate": "Wed, 24 May 2023 03:00:00 -0500"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alianza%20Lima",
-        "pubdate": "Tue, 23 May 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Juiz Eduardo Appio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juiz%20Eduardo%20Appio",
         "pubdate": "Tue, 23 May 2023 05:00:00 -0500"
@@ -69,6 +69,13 @@
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
         "pubdate": "Tue, 23 May 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alianza%20Lima",
+        "pubdate": "Tue, 23 May 2023 21:00:00 -0500"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Penarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Penarol",
-        "pubdate": "Tue, 23 May 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "São Paulo Futebol Clube",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20Futebol%20Clube",
         "pubdate": "Tue, 23 May 2023 20:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Monagas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monagas",
-        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
+        "title": "Penarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Penarol",
+        "pubdate": "Tue, 23 May 2023 21:00:00 -0500"
       }
     ]
   ]
