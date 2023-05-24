@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-05-2023 , 03:45:12",
+  "lastUpdate": "24-05-2023 , 03:54:28",
   "data": [
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-        "pubdate": "Wed, 24 May 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Valladolid–barcelona",
@@ -139,6 +132,13 @@
         "title": "Belgorod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Belgorod",
         "pubdate": "Mon, 22 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
+        "pubdate": "Mon, 22 May 2023 22:00:00 +0200"
       }
     ]
   ]
