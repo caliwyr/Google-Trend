@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2023 , 23:58:31",
+  "lastUpdate": "24-05-2023 , 01:36:58",
   "data": [
     [
       {
@@ -10,16 +10,23 @@
     ],
     [
       {
-        "title": "Al-Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
+        "title": "Goiás x Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Universitario",
         "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Goiás x Universitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Universitario",
+        "title": "Al-Nassr x Al-Shabab",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr%20x%20Al-Shabab",
         "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "America MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
+        "pubdate": "Tue, 23 May 2023 15:00:00 -0500"
       }
     ],
     [
@@ -45,6 +52,20 @@
     ],
     [
       {
+        "title": "Colo-Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo-Colo",
+        "pubdate": "Tue, 23 May 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mirassol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
+        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lucas Lira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lucas%20Lira",
         "pubdate": "Tue, 23 May 2023 09:00:00 -0500"
@@ -59,37 +80,9 @@
     ],
     [
       {
-        "title": "Colo-Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo-Colo",
-        "pubdate": "Tue, 23 May 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Madeleine%20McCann",
         "pubdate": "Tue, 23 May 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
-        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mirassol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
-        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "The Idol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Idol",
-        "pubdate": "Tue, 23 May 2023 11:00:00 -0500"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Copa Libertadores 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20Libertadores%202023",
-        "pubdate": "Tue, 23 May 2023 11:00:00 -0500"
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
+        "pubdate": "Tue, 23 May 2023 13:00:00 -0500"
       }
     ],
     [
@@ -115,16 +108,23 @@
     ],
     [
       {
-        "title": "Defensa y Justicia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Defensa%20y%20Justicia",
-        "pubdate": "Tue, 23 May 2023 15:00:00 -0500"
+        "title": "The Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Idol",
+        "pubdate": "Tue, 23 May 2023 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Apex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Apex",
-        "pubdate": "Tue, 23 May 2023 08:00:00 -0500"
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
+        "pubdate": "Tue, 23 May 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bolivar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolivar",
+        "pubdate": "Tue, 23 May 2023 15:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Candida auris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Candida%20auris",
-        "pubdate": "Tue, 23 May 2023 05:00:00 -0500"
+        "title": "Apex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Apex",
+        "pubdate": "Tue, 23 May 2023 08:00:00 -0500"
       }
     ]
   ]
