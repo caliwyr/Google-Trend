@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-05-2023 , 09:46:08",
+  "lastUpdate": "24-05-2023 , 09:55:32",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
         "pubdate": "Wed, 24 May 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simone Kleinsma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Simone%20Kleinsma",
+        "pubdate": "Wed, 24 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Tue, 23 May 2023 20:00:00 +0200"
+        "title": "VVV-Venlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV-Venlo",
+        "pubdate": "Tue, 23 May 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VVV-Venlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV-Venlo",
-        "pubdate": "Tue, 23 May 2023 19:00:00 +0200"
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Tue, 23 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Dennis Wiersma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dennis%20Wiersma",
-        "pubdate": "Tue, 23 May 2023 00:00:00 +0200"
+        "title": "MVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MVV",
+        "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Maddie McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maddie%20McCann",
         "pubdate": "Tue, 23 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Belgorod",
+        "pubdate": "Mon, 22 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
         "pubdate": "Sat, 20 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Fri, 19 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Post Malone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Post%20Malone",
-        "pubdate": "Fri, 19 May 2023 17:00:00 +0200"
       }
     ]
   ]
