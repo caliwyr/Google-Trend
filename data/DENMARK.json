@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "24-05-2023 , 18:47:24",
+  "lastUpdate": "24-05-2023 , 18:56:42",
   "data": [
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al%20Nassr",
-        "pubdate": "Wed, 24 May 2023 08:00:00 +0200"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
+        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
-        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al%20Nassr",
+        "pubdate": "Wed, 24 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Life of Brian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Life%20of%20Brian",
+        "pubdate": "Wed, 24 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Aura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aura",
-        "pubdate": "Wed, 24 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BMW i5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BMW%20i5",
         "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Adobe Firefly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adobe%20Firefly",
-        "pubdate": "Wed, 24 May 2023 13:00:00 +0200"
+        "title": "Aura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aura",
+        "pubdate": "Wed, 24 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
         "pubdate": "Tue, 23 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chroming",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chroming",
-        "pubdate": "Tue, 23 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NBA Playoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA%20Playoffs",
         "pubdate": "Tue, 23 May 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BorderLine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BorderLine",
+        "pubdate": "Tue, 23 May 2023 17:00:00 +0200"
       }
     ]
   ]
