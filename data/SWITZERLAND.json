@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2023 , 04:46:54",
+  "lastUpdate": "24-05-2023 , 04:56:29",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lakers",
         "pubdate": "Tue, 23 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unwetter Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Gewitter",
-        "pubdate": "Tue, 23 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Aeroport geneve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aeroport%20geneve",
-        "pubdate": "Tue, 23 May 2023 15:00:00 +0200"
+        "title": "WM Eishockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM%20Eishockey",
+        "pubdate": "Tue, 23 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Schweiz Lettland Eishockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz%20Lettland%20Eishockey",
         "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aeroport geneve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aeroport%20geneve",
+        "pubdate": "Tue, 23 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Valladolid – Barcelone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Valladolid%20%E2%80%93%20Barcelone",
-        "pubdate": "Tue, 23 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Audemars Piguet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Audemars%20Piguet",
         "pubdate": "Tue, 23 May 2023 09:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Thor Schauspieler Ray Stevenson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thor%20Schauspieler%20Ray%20Stevenson",
-        "pubdate": "Tue, 23 May 2023 22:00:00 +0200"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Newcastle",
+        "pubdate": "Tue, 23 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ouigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ouigo",
+        "pubdate": "Tue, 23 May 2023 13:00:00 +0200"
       }
     ]
   ]
