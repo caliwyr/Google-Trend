@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-05-2023 , 20:44:03",
+  "lastUpdate": "24-05-2023 , 20:53:36",
   "data": [
     [
       {
         "title": "Tina Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tina%20Turner",
         "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arno Dübel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arno%20D%C3%BCbel",
+        "pubdate": "Wed, 24 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Asteroid%20City",
-        "pubdate": "Wed, 24 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
         "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "Arno Dübel tot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arno%20D%C3%BCbel%20tot",
-        "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
+        "title": "Asteroid City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Asteroid%20City",
+        "pubdate": "Wed, 24 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rendi-Wagner SPÖ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rendi-Wagner%20SP%C3%96",
+        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
-        "pubdate": "Wed, 24 May 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Griechenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Griechenland",
         "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Grönemeyer Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gr%C3%B6nemeyer%20Wien",
         "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Die Jagd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Jagd",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Die Jagd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Jagd",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
+        "pubdate": "Wed, 24 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
-        "pubdate": "Wed, 24 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Energieeffizienzgesetz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Energieeffizienzgesetz",
-        "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "pubdate": "Wed, 24 May 2023 06:00:00 +0200"
       }
     ]
   ]
