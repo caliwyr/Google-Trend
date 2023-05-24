@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2023 , 08:50:43",
+  "lastUpdate": "24-05-2023 , 09:00:09",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ron%20DeSantis",
+        "pubdate": "Wed, 24 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lebron james",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lebron%20james",
         "pubdate": "Wed, 24 May 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benjamin ingrosso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20ingrosso",
+        "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Lauren sanchez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lauren%20sanchez",
+        "pubdate": "Tue, 23 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rasmus Sandin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rasmus%20Sandin",
         "pubdate": "Tue, 23 May 2023 21:00:00 +0200"
@@ -54,7 +75,7 @@
       {
         "title": "Depeche Mode",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Depeche%20Mode",
-        "pubdate": "Mon, 22 May 2023 10:00:00 +0200"
+        "pubdate": "Mon, 22 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -69,6 +90,13 @@
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madeleine%20McCann",
         "pubdate": "Mon, 22 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Depeche Mode Stockholm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Depeche%20Mode%20Stockholm",
+        "pubdate": "Mon, 22 May 2023 10:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Mon, 22 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alicia Vikander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alicia%20Vikander",
-        "pubdate": "Mon, 22 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Bilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rachel%20Bilson",
-        "pubdate": "Mon, 22 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kalmar FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
-        "pubdate": "Mon, 22 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Firebrand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Firebrand",
-        "pubdate": "Mon, 22 May 2023 20:00:00 +0200"
       }
     ]
   ]
