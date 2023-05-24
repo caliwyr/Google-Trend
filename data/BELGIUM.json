@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2023 , 22:43:26",
+  "lastUpdate": "24-05-2023 , 22:52:44",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "GP Explorer 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#GP%20Explorer%202",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "David Goffin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
         "pubdate": "Wed, 24 May 2023 22:00:00 +0200"
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Lindsay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lindsay",
-        "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Boris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Boris",
         "pubdate": "Wed, 24 May 2023 22:00:00 +0200"
@@ -101,9 +87,16 @@
     ],
     [
       {
-        "title": "Guyana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guyana",
-        "pubdate": "Wed, 24 May 2023 12:00:00 +0200"
+        "title": "Lindsay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lindsay",
+        "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coppa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coppa%20Italia",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coppa%20Italia",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
+        "title": "Guyana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guyana",
+        "pubdate": "Wed, 24 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cristiano%20Ronaldo%20Al%20Nassr",
+        "title": "Cristiano Ronaldo Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cristiano%20Ronaldo%20Al-Nassr",
         "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bart De Wever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20De%20Wever",
+        "pubdate": "Wed, 24 May 2023 09:00:00 +0200"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-05-2023 , 22:43:34",
+  "lastUpdate": "24-05-2023 , 22:52:50",
   "data": [
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brighton",
+        "pubdate": "Thu, 25 May 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tina Turner",
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "The Idol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Idol",
-        "pubdate": "Wed, 24 May 2023 01:00:00 +0200"
+        "title": "PlayStation Showcase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PlayStation%20Showcase",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PlayStation Showcase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PlayStation%20Showcase",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
+        "title": "The Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Idol",
+        "pubdate": "Wed, 24 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rolf Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rolf%20Harris",
         "pubdate": "Tue, 23 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NAV pensjon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NAV%20pensjon",
-        "pubdate": "Tue, 23 May 2023 17:00:00 +0200"
       }
     ]
   ]

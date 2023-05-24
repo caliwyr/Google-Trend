@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2023 , 22:43:37",
+  "lastUpdate": "24-05-2023 , 22:52:51",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nuggets",
-        "pubdate": "Wed, 24 May 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Meta layoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20layoffs",
         "pubdate": "Wed, 24 May 2023 23:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Monitor lizard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Monitor%20lizard",
         "pubdate": "Wed, 24 May 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "The Flash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Flash",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0800"
       }
     ]
   ]
