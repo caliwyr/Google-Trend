@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-05-2023 , 19:44:28",
+  "lastUpdate": "25-05-2023 , 19:53:45",
   "data": [
     [
       {
         "title": "Justin Kluivert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Justin%20Kluivert",
         "pubdate": "Thu, 25 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
+        "pubdate": "Thu, 25 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
-        "pubdate": "Thu, 25 May 2023 13:00:00 +0200"
+        "title": "Sigrid Kaag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sigrid%20Kaag",
+        "pubdate": "Thu, 25 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Emmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen",
+        "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Tue, 23 May 2023 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sun, 21 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 21 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
-        "pubdate": "Sun, 21 May 2023 15:00:00 +0200"
       }
     ]
   ]
