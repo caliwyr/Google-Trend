@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-05-2023 , 14:53:39",
+  "lastUpdate": "25-05-2023 , 15:08:54",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
+        "pubdate": "Thu, 25 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emilie Enger Mehl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Enger%20Mehl",
+        "pubdate": "Thu, 25 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nvidia",
         "pubdate": "Thu, 25 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sam Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sam%20Smith",
+        "pubdate": "Thu, 25 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,16 +52,16 @@
     ],
     [
       {
-        "title": "DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DeSantis",
-        "pubdate": "Thu, 25 May 2023 11:00:00 +0200"
+        "title": "Anne-Cath. Vestly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne-Cath.%20Vestly",
+        "pubdate": "Thu, 25 May 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sam Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sam%20Smith",
-        "pubdate": "Thu, 25 May 2023 15:00:00 +0200"
+        "title": "DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DeSantis",
+        "pubdate": "Thu, 25 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -55,6 +76,13 @@
         "title": "Mason Mount",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mason%20Mount",
         "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ike turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ike%20turner",
+        "pubdate": "Wed, 24 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "NM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NM",
+        "pubdate": "Wed, 24 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PlayStation Showcase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PlayStation%20Showcase",
         "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eik Tønsberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eik%20T%C3%B8nsberg",
-        "pubdate": "Wed, 24 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adressa.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adressa.no",
-        "pubdate": "Wed, 24 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Voice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Voice",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Åndalsnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85ndalsnes",
-        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trygg/Lade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trygg/Lade",
-        "pubdate": "Wed, 24 May 2023 23:00:00 +0200"
       }
     ]
   ]

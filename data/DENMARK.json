@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-05-2023 , 14:53:34",
+  "lastUpdate": "25-05-2023 , 15:08:48",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Whitney%20Houston",
+        "pubdate": "Thu, 25 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bre Tiesi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bre%20Tiesi",
         "pubdate": "Thu, 25 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mason Mount",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mason%20Mount",
+        "pubdate": "Thu, 25 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Ron DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ron%20DeSantis",
-        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid  Rayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Rayo",
         "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
@@ -66,8 +73,15 @@
     ],
     [
       {
-        "title": "Brighton . Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20.%20Man%20City",
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ron%20DeSantis",
+        "pubdate": "Wed, 24 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Man%20City",
         "pubdate": "Wed, 24 May 2023 21:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "McLaren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#McLaren",
         "pubdate": "Wed, 24 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-        "pubdate": "Wed, 24 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adobe Firefly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adobe%20Firefly",
-        "pubdate": "Wed, 24 May 2023 13:00:00 +0200"
       }
     ]
   ]
