@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-05-2023 , 07:42:50",
+  "lastUpdate": "25-05-2023 , 07:52:14",
   "data": [
+    [
+      {
+        "title": "Fetty Wap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fetty%20Wap",
+        "pubdate": "Thu, 25 May 2023 10:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Brighton vs Man City",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Man U vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U%20vs%20Chelsea",
+        "pubdate": "Wed, 24 May 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sevilla",
         "pubdate": "Wed, 24 May 2023 20:00:00 +0300"
@@ -59,15 +73,15 @@
     ],
     [
       {
-        "title": "Hibernian vs Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hibernian%20vs%20Celtic",
+        "title": "Otile Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Otile%20Brown",
         "pubdate": "Wed, 24 May 2023 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Otile Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Otile%20Brown",
+        "title": "Hibernian vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hibernian%20vs%20Celtic",
         "pubdate": "Wed, 24 May 2023 18:00:00 +0300"
       }
     ],
@@ -83,13 +97,6 @@
         "title": "Heat vs Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Heat%20vs%20Celtics",
         "pubdate": "Wed, 24 May 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Man U vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U%20vs%20Chelsea",
-        "pubdate": "Wed, 24 May 2023 21:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Janelle Monae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Janelle%20Monae",
         "pubdate": "Wed, 24 May 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jordi Alba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jordi%20Alba",
-        "pubdate": "Wed, 24 May 2023 23:00:00 +0300"
       }
     ]
   ]
