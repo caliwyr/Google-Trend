@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-05-2023 , 10:49:55",
+  "lastUpdate": "26-05-2023 , 10:59:07",
   "data": [
+    [
+      {
+        "title": "Koffietijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koffietijd",
+        "pubdate": "Fri, 26 May 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Najib Amhali",
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "F1 Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Monaco",
+        "pubdate": "Thu, 25 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
         "pubdate": "Thu, 25 May 2023 13:00:00 +0200"
@@ -69,13 +83,6 @@
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arnold%20Schwarzenegger",
         "pubdate": "Thu, 25 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johan Cruijff ArenA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Cruijff%20ArenA",
-        "pubdate": "Thu, 25 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vinicius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vinicius",
         "pubdate": "Mon, 22 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joan Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joan%20Collins",
-        "pubdate": "Mon, 22 May 2023 15:00:00 +0200"
       }
     ]
   ]
