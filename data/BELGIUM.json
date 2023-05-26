@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2023 , 11:43:32",
+  "lastUpdate": "26-05-2023 , 11:52:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Metejoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Metejoor",
         "pubdate": "Fri, 26 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20utd",
+        "pubdate": "Fri, 26 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Sophie Marceau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sophie%20Marceau",
+        "pubdate": "Thu, 25 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jamie Lee Curtis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jamie%20Lee%20Curtis",
         "pubdate": "Thu, 25 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alice Taglioni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20Taglioni",
+        "pubdate": "Thu, 25 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,13 +104,6 @@
         "title": "Romelu Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Romelu%20Lukaku",
         "pubdate": "Thu, 25 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alice Taglioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20Taglioni",
-        "pubdate": "Thu, 25 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kate%20Middleton",
         "pubdate": "Thu, 25 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Isabella Rossellini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Isabella%20Rossellini",
-        "pubdate": "Thu, 25 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ted Lasso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ted%20Lasso",
-        "pubdate": "Thu, 25 May 2023 11:00:00 +0200"
       }
     ]
   ]
