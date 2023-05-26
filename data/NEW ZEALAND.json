@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2023 , 09:40:36",
+  "lastUpdate": "26-05-2023 , 09:50:12",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "FUBAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FUBAR",
+        "title": "Highlanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highlanders",
+        "pubdate": "Fri, 26 May 2023 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Fubar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fubar",
         "pubdate": "Fri, 26 May 2023 14:00:00 +1200"
       }
     ],
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Highlanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highlanders",
-        "pubdate": "Fri, 26 May 2023 18:00:00 +1200"
+        "title": "Barbie movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barbie%20movie",
+        "pubdate": "Fri, 26 May 2023 12:00:00 +1200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Mike Hosking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mike%20Hosking",
         "pubdate": "Fri, 26 May 2023 16:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Barbie movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barbie%20movie",
-        "pubdate": "Fri, 26 May 2023 12:00:00 +1200"
       }
     ],
     [
@@ -62,6 +62,20 @@
         "title": "Queenstown Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Queenstown%20Airport",
         "pubdate": "Fri, 26 May 2023 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MrBeast",
+        "pubdate": "Fri, 26 May 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Ashish Vidyarthi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashish%20Vidyarthi",
+        "pubdate": "Fri, 26 May 2023 21:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ron DeSantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ron%20DeSantis",
         "pubdate": "Thu, 25 May 2023 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Duchess of Edinburgh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Duchess%20of%20Edinburgh",
-        "pubdate": "Thu, 25 May 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "MI vs LSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MI%20vs%20LSG",
-        "pubdate": "Thu, 25 May 2023 10:00:00 +1200"
       }
     ]
   ]
