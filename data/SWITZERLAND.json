@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2023 , 12:43:17",
+  "lastUpdate": "26-05-2023 , 12:59:18",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Bayern",
-        "pubdate": "Fri, 26 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pentecote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pentecote",
         "pubdate": "Fri, 26 May 2023 12:00:00 +0200"
@@ -34,6 +27,27 @@
         "title": "Gotthard-Tunnel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
         "pubdate": "Fri, 26 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Bayern",
+        "pubdate": "Fri, 26 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Samantha Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Samantha%20Weinstein",
+        "pubdate": "Fri, 26 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Moustique tigre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Moustique%20tigre",
+        "pubdate": "Fri, 26 May 2023 08:00:00 +0200"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Moustique tigre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Moustique%20tigre",
-        "pubdate": "Fri, 26 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fussball Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball%20Schweiz",
         "pubdate": "Fri, 26 May 2023 08:00:00 +0200"
@@ -76,13 +83,6 @@
         "title": "Temptation Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Temptation%20Island",
         "pubdate": "Fri, 26 May 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Samantha Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Samantha%20Weinstein",
-        "pubdate": "Fri, 26 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Nvidia-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nvidia-Aktie",
+        "title": "NVIDIA-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NVIDIA-Aktie",
         "pubdate": "Thu, 25 May 2023 00:00:00 +0200"
       }
     ],
