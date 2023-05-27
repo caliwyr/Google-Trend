@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-05-2023 , 11:45:56",
+  "lastUpdate": "27-05-2023 , 11:55:22",
   "data": [
     [
       {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
         "pubdate": "Sat, 27 May 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bundesliga",
+        "pubdate": "Fri, 26 May 2023 20:00:00 -0500"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Sidney Magal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sidney%20Magal",
         "pubdate": "Fri, 26 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Borussia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
-        "pubdate": "Fri, 26 May 2023 20:00:00 -0500"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Argentina Sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina%20Sub-20",
-        "pubdate": "Fri, 26 May 2023 17:00:00 -0500"
+        "title": "Pablo Marçal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pablo%20Mar%C3%A7al",
+        "pubdate": "Fri, 26 May 2023 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Pablo Marçal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pablo%20Mar%C3%A7al",
-        "pubdate": "Fri, 26 May 2023 16:00:00 -0500"
+        "title": "Parana Clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Parana%20Clube",
+        "pubdate": "Fri, 26 May 2023 19:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Parana Clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Parana%20Clube",
-        "pubdate": "Fri, 26 May 2023 19:00:00 -0500"
+        "title": "Rio Ave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rio%20Ave",
+        "pubdate": "Fri, 26 May 2023 14:00:00 -0500"
       }
     ]
   ]
