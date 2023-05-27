@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-05-2023 , 15:45:03",
+  "lastUpdate": "27-05-2023 , 15:54:26",
   "data": [
     [
       {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20Dortmund",
-        "pubdate": "Sat, 27 May 2023 12:00:00 +0200"
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VfL Osnabrück",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
         "pubdate": "Sat, 27 May 2023 12:00:00 +0200"
@@ -45,23 +45,23 @@
     ],
     [
       {
+        "title": "Fussball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fußball-Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-Bundesliga",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wow",
         "pubdate": "Sat, 27 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt gegen Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt%20gegen%20Freiburg",
-        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -75,7 +75,7 @@
       {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Fri, 26 May 2023 20:00:00 +0200"
+        "pubdate": "Fri, 26 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Beatrice Egli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beatrice%20Egli",
         "pubdate": "Fri, 26 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Metallica Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Metallica%20Hamburg",
-        "pubdate": "Fri, 26 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Celine%20Dion",
         "pubdate": "Fri, 26 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Peter Gabriel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Gabriel",
+        "pubdate": "Fri, 26 May 2023 20:00:00 +0200"
       }
     ]
   ]
