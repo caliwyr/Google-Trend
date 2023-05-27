@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2023 , 16:49:31",
+  "lastUpdate": "27-05-2023 , 16:58:54",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Blue Ivy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blue%20Ivy",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sydney Mufamadi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sydney%20Mufamadi",
         "pubdate": "Sat, 27 May 2023 09:00:00 +0200"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Blue Ivy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blue%20Ivy",
-        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby",
+        "pubdate": "Sat, 27 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Night of Champions 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Night%20of%20Champions%202023",
+        "pubdate": "Sat, 27 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Barbie movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barbie%20movie",
+        "title": "Barbie Movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barbie%20Movie",
         "pubdate": "Fri, 26 May 2023 16:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Celtics vs Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtics%20vs%20Heat",
         "pubdate": "Fri, 26 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ngizwe Mchunu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ngizwe%20Mchunu",
-        "pubdate": "Fri, 26 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roberto Firmino Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roberto%20Firmino%20Liverpool",
-        "pubdate": "Fri, 26 May 2023 13:00:00 +0200"
       }
     ]
   ]
