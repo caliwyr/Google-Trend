@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-05-2023 , 17:44:55",
+  "lastUpdate": "27-05-2023 , 17:54:10",
   "data": [
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "VfB Stuttgart",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Fussball Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20Bundesliga",
-        "pubdate": "Sat, 27 May 2023 18:00:00 +0200"
+        "title": "Oliver Kahn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Kahn",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -31,16 +24,23 @@
     ],
     [
       {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
-        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+        "title": "VfL Osnabrück",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
+        "pubdate": "Sat, 27 May 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VfL Osnabrück",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
-        "pubdate": "Sat, 27 May 2023 12:00:00 +0200"
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Sat, 27 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Union Berlin gegen Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin%20gegen%20Werder%20Bremen",
+        "pubdate": "Sat, 27 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Wow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wow",
+        "title": "WoW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WoW",
         "pubdate": "Sat, 27 May 2023 15:00:00 +0200"
       }
     ],
@@ -66,8 +66,15 @@
     ],
     [
       {
-        "title": "Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln",
+        "title": "Blitztabelle Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Blitztabelle%20Bundesliga",
+        "pubdate": "Sat, 27 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Relegation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation",
         "pubdate": "Sat, 27 May 2023 18:00:00 +0200"
       }
     ],
@@ -80,30 +87,30 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 26 May 2023 18:00:00 +0200"
+        "title": "Edin Terzic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Edin%20Terzic",
+        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "title": "Gladbach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gladbach",
+        "pubdate": "Sat, 27 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Fri, 26 May 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pfingsten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pfingsten",
-        "pubdate": "Fri, 26 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
-        "pubdate": "Fri, 26 May 2023 22:00:00 +0200"
+        "title": "Dortmund gegen Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20gegen%20Mainz",
+        "pubdate": "Fri, 26 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,13 +132,6 @@
         "title": "Henry Kissinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Henry%20Kissinger",
         "pubdate": "Fri, 26 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tina Turners",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tina%20Turners",
-        "pubdate": "Fri, 26 May 2023 20:00:00 +0200"
       }
     ],
     [

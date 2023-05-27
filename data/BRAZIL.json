@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2023 , 17:44:53",
+  "lastUpdate": "27-05-2023 , 17:54:07",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Union%20Berlin",
-        "pubdate": "Sat, 27 May 2023 11:00:00 -0500"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Sat, 27 May 2023 03:00:00 -0500"
       }
     ],
     [
@@ -20,13 +20,6 @@
         "title": "Tony Tornado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tony%20Tornado",
         "pubdate": "Sat, 27 May 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
-        "pubdate": "Sat, 27 May 2023 03:00:00 -0500"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Udinese",
         "pubdate": "Sat, 27 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cuiaba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
+        "pubdate": "Sat, 27 May 2023 12:00:00 -0500"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Jogo do remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20remo",
-        "pubdate": "Fri, 26 May 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Flamengo x Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Cruzeiro",
         "pubdate": "Fri, 26 May 2023 14:00:00 -0500"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Madeleine McCann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Madeleine%20McCann",
-        "pubdate": "Fri, 26 May 2023 08:00:00 -0500"
+        "title": "Jogo do remo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20remo",
+        "pubdate": "Fri, 26 May 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Blue Ivy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Blue%20Ivy",
+        "pubdate": "Fri, 26 May 2023 19:00:00 -0500"
       }
     ]
   ]
