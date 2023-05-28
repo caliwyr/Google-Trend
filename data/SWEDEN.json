@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-05-2023 , 01:02:22",
+  "lastUpdate": "28-05-2023 , 02:20:23",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Sat, 27 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cher",
         "pubdate": "Sat, 27 May 2023 08:00:00 +0200"
@@ -83,6 +90,13 @@
         "title": "Phillip Schofield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Phillip%20Schofield",
         "pubdate": "Sat, 27 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kanada Lettland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanada%20Lettland",
+        "pubdate": "Sat, 27 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Vad är pingst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vad%20%C3%A4r%20pingst",
         "pubdate": "Sat, 27 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lettland Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lettland%20Kanada",
-        "pubdate": "Sat, 27 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Klara Hammarström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klara%20Hammarstr%C3%B6m",
-        "pubdate": "Fri, 26 May 2023 22:00:00 +0200"
       }
     ]
   ]
