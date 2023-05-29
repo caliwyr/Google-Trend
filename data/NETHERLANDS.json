@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2023 , 01:42:18",
+  "lastUpdate": "29-05-2023 , 02:30:38",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Berghuis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Berghuis",
+        "pubdate": "Sun, 28 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ajax Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Twente",
         "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "Viaplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
         "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Steven Berghuis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steven%20Berghuis",
-        "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -117,14 +117,14 @@
       {
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
-        "pubdate": "Sat, 27 May 2023 03:00:00 +0200"
+        "pubdate": "Sat, 27 May 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
-        "pubdate": "Sat, 27 May 2023 09:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Sat, 27 May 2023 16:00:00 +0200"
       }
     ],
     [
