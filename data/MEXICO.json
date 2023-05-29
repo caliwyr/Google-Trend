@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-05-2023 , 03:56:55",
+  "lastUpdate": "29-05-2023 , 04:17:15",
   "data": [
     [
       {
         "title": "Barcelona  RCD Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20%20RCD%20Mallorca",
         "pubdate": "Sun, 28 May 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Marcador Chivas Tigres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marcador%20Chivas%20Tigres",
+        "pubdate": "Sun, 28 May 2023 20:00:00 -0600"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Feyenoord  Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord%20%20Vitesse",
-        "pubdate": "Sun, 28 May 2023 07:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Espanyol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Espanyol",
         "pubdate": "Sun, 28 May 2023 12:00:00 -0600"
@@ -52,9 +52,23 @@
     ],
     [
       {
-        "title": "Estadio Akron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estadio%20Akron",
-        "pubdate": "Sun, 28 May 2023 18:00:00 -0600"
+        "title": "TV Azteca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#TV%20Azteca",
+        "pubdate": "Sun, 28 May 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal  Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20%20Wolves",
+        "pubdate": "Sun, 28 May 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord  Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord%20%20Vitesse",
+        "pubdate": "Sun, 28 May 2023 07:00:00 -0600"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Southampton  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Southampton%20%20Liverpool",
+        "title": "Chelsea - Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chelsea%20-%20Newcastle",
         "pubdate": "Sun, 28 May 2023 10:00:00 -0600"
       }
     ],
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Arsenal  Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20%20Wolves",
+        "title": "Southampton  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Southampton%20%20Liverpool",
         "pubdate": "Sun, 28 May 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Tvazteca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tvazteca",
-        "pubdate": "Sun, 28 May 2023 20:00:00 -0600"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "MasterChef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MasterChef",
+        "pubdate": "Sun, 28 May 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "500 Millas de Indianápolis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#500%20Millas%20de%20Indian%C3%A1polis",
         "pubdate": "Sun, 28 May 2023 12:00:00 -0600"
@@ -125,20 +139,6 @@
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Wolves",
         "pubdate": "Sun, 28 May 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Girona vs Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Girona%20vs%20Betis",
-        "pubdate": "Sun, 28 May 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Leeds  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leeds%20%20Tottenham",
-        "pubdate": "Sun, 28 May 2023 12:00:00 -0600"
       }
     ]
   ]
