@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2023 , 09:51:29",
+  "lastUpdate": "29-05-2023 , 10:03:50",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Dallas Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
+        "pubdate": "Sun, 28 May 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Succession",
         "pubdate": "Sun, 28 May 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "French Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#French%20Open",
+        "pubdate": "Sun, 28 May 2023 13:00:00 -0400"
       }
     ],
     [
@@ -101,30 +115,9 @@
     ],
     [
       {
-        "title": "Southampton vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Southampton%20vs%20Liverpool",
-        "pubdate": "Sun, 28 May 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tornado warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tornado%20warning",
-        "pubdate": "Sun, 28 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
         "pubdate": "Sun, 28 May 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Roland Garros 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roland%20Garros%202023",
-        "pubdate": "Sun, 28 May 2023 11:00:00 -0400"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Jane Fonda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jane%20Fonda",
+        "pubdate": "Sun, 28 May 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chivas vs Tigres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chivas%20vs%20Tigres",
         "pubdate": "Sun, 28 May 2023 23:00:00 -0400"
       }
     ]
