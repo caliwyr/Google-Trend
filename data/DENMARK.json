@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-05-2023 , 23:59:20",
+  "lastUpdate": "29-05-2023 , 01:42:14",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Barcelona  Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Mallorca",
+        "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Brentford  Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Man%20City",
         "pubdate": "Sun, 28 May 2023 18:00:00 +0200"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Barcelona  Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Mallorca",
-        "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Sun, 28 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Michael Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Jackson",
         "pubdate": "Sun, 28 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sergio%20Rico",
-        "pubdate": "Sun, 28 May 2023 16:00:00 +0200"
       }
     ]
   ]

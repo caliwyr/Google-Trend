@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-05-2023 , 23:59:29",
+  "lastUpdate": "29-05-2023 , 01:42:21",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Sun, 28 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Florent Pagny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florent%20Pagny",
         "pubdate": "Sun, 28 May 2023 09:00:00 +0200"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Granit Xhaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Granit%20Xhaka",
-        "pubdate": "Sun, 28 May 2023 19:00:00 +0200"
+        "title": "Pentecote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pentecote",
+        "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Juventus gegen Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus%20gegen%20Milan",
-        "pubdate": "Sun, 28 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sergio Rico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Rico",
         "pubdate": "Sun, 28 May 2023 17:00:00 +0200"
@@ -104,6 +104,13 @@
         "title": "Cannes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cannes",
         "pubdate": "Sun, 28 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pfingstmontag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pfingstmontag",
+        "pubdate": "Sun, 28 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Charles Leclerc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Leclerc",
         "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bologna  Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna%20%20Napoli",
-        "pubdate": "Sun, 28 May 2023 17:00:00 +0200"
       }
     ]
   ]

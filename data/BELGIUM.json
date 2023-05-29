@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-05-2023 , 23:59:18",
+  "lastUpdate": "29-05-2023 , 01:42:12",
   "data": [
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Mon, 29 May 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Indy 500",
@@ -19,13 +26,6 @@
       {
         "title": "Roland-Garros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roland-Garros",
-        "pubdate": "Sun, 28 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Erdogan",
         "pubdate": "Sun, 28 May 2023 14:00:00 +0200"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Pentecote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pentecote",
+        "pubdate": "Sun, 28 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Radio%201",
         "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
@@ -68,6 +75,13 @@
       {
         "title": "Verkiezingen Turkije",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verkiezingen%20Turkije",
+        "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Everton",
         "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruce%20Springsteen",
+        "pubdate": "Sun, 28 May 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Sun, 28 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sergio%20Rico",
-        "pubdate": "Sun, 28 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Blaarmeersen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blaarmeersen",
-        "pubdate": "Sun, 28 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leicester%20City",
-        "pubdate": "Sun, 28 May 2023 20:00:00 +0200"
       }
     ]
   ]
