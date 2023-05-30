@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2023 , 18:54:58",
+  "lastUpdate": "30-05-2023 , 19:08:29",
   "data": [
     [
       {
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "NBA Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Finals",
-        "pubdate": "Tue, 30 May 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Bluey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bluey",
         "pubdate": "Tue, 30 May 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Cripps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patrick%20Cripps",
-        "pubdate": "Tue, 30 May 2023 14:00:00 +1000"
       }
     ],
     [
@@ -94,8 +80,8 @@
     ],
     [
       {
-        "title": "Theranos, Elizabeth Holmes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Theranos,%20Elizabeth%20Holmes",
+        "title": "Theranos Elizabeth Holmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Theranos%20Elizabeth%20Holmes",
         "pubdate": "Tue, 30 May 2023 16:00:00 +1000"
       }
     ],
@@ -104,6 +90,13 @@
         "title": "Tim Tszyu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
         "pubdate": "Tue, 30 May 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Patrick Cripps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patrick%20Cripps",
+        "pubdate": "Tue, 30 May 2023 14:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fentanyl",
         "pubdate": "Tue, 30 May 2023 22:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Florida shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florida%20shooting",
+        "pubdate": "Tue, 30 May 2023 20:00:00 +1000"
       }
     ]
   ]
