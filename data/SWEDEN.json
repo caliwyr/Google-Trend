@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-05-2023 , 10:56:20",
+  "lastUpdate": "30-05-2023 , 11:10:30",
   "data": [
+    [
+      {
+        "title": "Magnus Gisslén",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Gissl%C3%A9n",
+        "pubdate": "Tue, 30 May 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Succession",
@@ -132,13 +139,6 @@
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
         "pubdate": "Sun, 28 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
-        "pubdate": "Sun, 28 May 2023 22:00:00 +0200"
       }
     ]
   ]

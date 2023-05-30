@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-05-2023 , 10:56:07",
+  "lastUpdate": "30-05-2023 , 11:10:21",
   "data": [
+    [
+      {
+        "title": "Global News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Global%20News",
+        "pubdate": "Tue, 30 May 2023 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "CTV",
@@ -12,13 +19,6 @@
       {
         "title": "Tyler Herro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Herro",
-        "pubdate": "Tue, 30 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "President Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#President%20Trump",
         "pubdate": "Tue, 30 May 2023 00:00:00 -0400"
       }
     ],
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Basketball",
+        "pubdate": "Tue, 30 May 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#China",
+        "pubdate": "Tue, 30 May 2023 04:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Edmonton Journal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Journal",
         "pubdate": "Tue, 30 May 2023 01:00:00 -0400"
@@ -48,6 +62,13 @@
         "title": "CTV calgary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV%20calgary",
         "pubdate": "Tue, 30 May 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Calgary Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Sun",
+        "pubdate": "Tue, 30 May 2023 02:00:00 -0400"
       }
     ],
     [
@@ -73,8 +94,8 @@
     ],
     [
       {
-        "title": "Election Alberta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20Alberta",
+        "title": "UCP Alberta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UCP%20Alberta",
         "pubdate": "Mon, 29 May 2023 16:00:00 -0400"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Revenu quebec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Revenu%20quebec",
         "pubdate": "Mon, 29 May 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Felix Auger-Aliassime",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Felix%20Auger-Aliassime",
-        "pubdate": "Mon, 29 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drive",
-        "pubdate": "Mon, 29 May 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Nick Nurse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Nurse",
-        "pubdate": "Mon, 29 May 2023 18:00:00 -0400"
       }
     ]
   ]
