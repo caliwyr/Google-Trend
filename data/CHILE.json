@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2023 , 02:58:28",
+  "lastUpdate": "30-05-2023 , 03:17:38",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "LATAM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LATAM",
         "pubdate": "Mon, 29 May 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Entel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entel",
-        "pubdate": "Mon, 29 May 2023 10:00:00 -0400"
       }
     ],
     [
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Corona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corona",
-        "pubdate": "Mon, 29 May 2023 01:00:00 -0400"
+        "title": "Lider.cl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lider.cl",
+        "pubdate": "Mon, 29 May 2023 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Lider.cl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lider.cl",
-        "pubdate": "Mon, 29 May 2023 00:00:00 -0400"
+        "title": "Corona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corona",
+        "pubdate": "Mon, 29 May 2023 01:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Zara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zara",
         "pubdate": "Mon, 29 May 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Zapatillas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zapatillas",
+        "pubdate": "Mon, 29 May 2023 05:00:00 -0400"
       }
     ]
   ]
