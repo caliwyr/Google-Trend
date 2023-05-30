@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2023 , 13:55:25",
+  "lastUpdate": "30-05-2023 , 14:10:42",
   "data": [
     [
       {
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Hammarby Fotboll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Fotboll",
+        "title": "Hammarbyfotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarbyfotboll",
         "pubdate": "Mon, 29 May 2023 20:00:00 +0200"
       }
     ],
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 28 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erdogan",
         "pubdate": "Sun, 28 May 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sun, 28 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HHC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HHC",
-        "pubdate": "Sun, 28 May 2023 10:00:00 +0200"
       }
     ]
   ]
