@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-05-2023 , 08:59:28",
+  "lastUpdate": "30-05-2023 , 09:17:47",
   "data": [
-    [
-      {
-        "title": "Brand Mödling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20M%C3%B6dling",
-        "pubdate": "Tue, 30 May 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Peter Simonischek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Simonischek",
         "pubdate": "Tue, 30 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mödling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%B6dling",
+        "pubdate": "Tue, 30 May 2023 07:00:00 +0200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bruce%20Willis",
         "pubdate": "Tue, 30 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "A Very British Scandal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#A%20Very%20British%20Scandal",
+        "pubdate": "Tue, 30 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Serengeti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serengeti",
-        "pubdate": "Mon, 29 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luis Stitzinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luis%20Stitzinger",
         "pubdate": "Mon, 29 May 2023 22:00:00 +0200"
@@ -90,6 +90,20 @@
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kosovo",
         "pubdate": "Mon, 29 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Räuber Hotzenplotz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#R%C3%A4uber%20Hotzenplotz",
+        "pubdate": "Mon, 29 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serengeti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serengeti",
+        "pubdate": "Mon, 29 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Renald Deppe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Renald%20Deppe",
-        "pubdate": "Mon, 29 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
         "pubdate": "Mon, 29 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniela Katzenberger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniela%20Katzenberger",
-        "pubdate": "Mon, 29 May 2023 15:00:00 +0200"
       }
     ]
   ]
