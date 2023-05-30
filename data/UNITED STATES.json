@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-05-2023 , 11:56:55",
+  "lastUpdate": "30-05-2023 , 12:30:56",
   "data": [
     [
       {
         "title": "Boston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston",
         "pubdate": "Tue, 30 May 2023 03:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kosovo",
+        "pubdate": "Tue, 30 May 2023 04:00:00 -0700"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Willis",
         "pubdate": "Mon, 29 May 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Carnival Sunshine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carnival%20Sunshine",
+        "pubdate": "Mon, 29 May 2023 13:00:00 -0700"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Carnival Sunshine storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carnival%20Sunshine%20storm",
-        "pubdate": "Mon, 29 May 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Hollywood Beach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hollywood%20Beach",
         "pubdate": "Mon, 29 May 2023 20:00:00 -0700"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Davenport building collapse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davenport%20building%20collapse",
-        "pubdate": "Mon, 29 May 2023 09:00:00 -0700"
+        "title": "Saquon Barkley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saquon%20Barkley",
+        "pubdate": "Mon, 29 May 2023 19:00:00 -0700"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Lindsey Graham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lindsey%20Graham",
         "pubdate": "Mon, 29 May 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Davenport building collapse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davenport%20building%20collapse",
+        "pubdate": "Mon, 29 May 2023 09:00:00 -0700"
       }
     ],
     [
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "Debt ceiling deal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Debt%20ceiling%20deal",
+        "title": "Debt-ceiling deal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Debt-ceiling%20deal",
         "pubdate": "Mon, 29 May 2023 07:00:00 -0700"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Succession",
         "pubdate": "Sun, 28 May 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "NASCAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NASCAR",
-        "pubdate": "Sun, 28 May 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Stars",
-        "pubdate": "Sun, 28 May 2023 05:00:00 -0700"
       }
     ]
   ]
