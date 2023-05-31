@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2023 , 03:44:39",
+  "lastUpdate": "31-05-2023 , 03:53:53",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Grabher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grabher",
         "pubdate": "Tue, 30 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Süper Lig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCper%20Lig",
+        "pubdate": "Tue, 30 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Multiple Sklerose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Multiple%20Sklerose",
         "pubdate": "Tue, 30 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Moskau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Moskau",
-        "pubdate": "Tue, 30 May 2023 21:00:00 +0200"
       }
     ]
   ]
