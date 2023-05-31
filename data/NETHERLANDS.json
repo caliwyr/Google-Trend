@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2023 , 17:50:04",
+  "lastUpdate": "31-05-2023 , 17:59:16",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Van den Boomen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20den%20Boomen",
-        "pubdate": "Tue, 30 May 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MS",
         "pubdate": "Tue, 30 May 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kosovo",
         "pubdate": "Mon, 29 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Succession",
+        "pubdate": "Mon, 29 May 2023 11:00:00 +0200"
       }
     ]
   ]
