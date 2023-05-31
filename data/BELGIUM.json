@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2023 , 15:47:11",
+  "lastUpdate": "31-05-2023 , 15:56:33",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Artus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Artus",
         "pubdate": "Wed, 31 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kokkinakis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kokkinakis",
-        "pubdate": "Wed, 31 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "PSG Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG%20Sergio%20Rico",
+        "title": "PSG, Sergio Rico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG,%20Sergio%20Rico",
         "pubdate": "Tue, 30 May 2023 18:00:00 +0200"
       }
     ],
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Club Brugge te koop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20te%20koop",
+        "pubdate": "Tue, 30 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Super Lig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Super%20Lig",
         "pubdate": "Tue, 30 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20Benzema",
+        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "Real Madrid Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20Benzema",
-        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
+        "title": "Incendie dans les Fagnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incendie%20dans%20les%20Fagnes",
+        "pubdate": "Tue, 30 May 2023 14:00:00 +0200"
       }
     ],
     [
       {
         "title": "Gullegem Koerse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gullegem%20Koerse",
-        "pubdate": "Tue, 30 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Incendie dans les Fagnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incendie%20dans%20les%20Fagnes",
         "pubdate": "Tue, 30 May 2023 14:00:00 +0200"
       }
     ]
