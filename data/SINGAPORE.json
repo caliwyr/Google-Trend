@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-05-2023 , 21:42:44",
+  "lastUpdate": "31-05-2023 , 21:52:01",
   "data": [
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bruce%20Willis",
-        "pubdate": "Thu, 01 Jun 2023 02:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Europa League",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Ruby Lin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ruby%20Lin",
-        "pubdate": "Wed, 31 May 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20stock",
         "pubdate": "Wed, 31 May 2023 09:00:00 +0800"
@@ -69,6 +55,13 @@
         "title": "Megan Thee Stallion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Megan%20Thee%20Stallion",
         "pubdate": "Wed, 31 May 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Boston Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boston%20Celtics",
+        "pubdate": "Wed, 31 May 2023 01:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NBA Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20Finals",
         "pubdate": "Tue, 30 May 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gastroenteritis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gastroenteritis",
+        "pubdate": "Tue, 30 May 2023 22:00:00 +0800"
       }
     ]
   ]
