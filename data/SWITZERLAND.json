@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2023 , 23:44:43",
+  "lastUpdate": "31-05-2023 , 23:54:10",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sevilla",
+        "title": "Siviglia  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Siviglia%20%20Roma",
         "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Herbert Grönemeyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Herbert%20Gr%C3%B6nemeyer",
-        "pubdate": "Wed, 31 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heidi%20Klum",
         "pubdate": "Wed, 31 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Herbert Grönemeyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Herbert%20Gr%C3%B6nemeyer",
+        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Xamax-Rapperswil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax-Rapperswil",
-        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Quincy Promes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Quincy%20Promes",
         "pubdate": "Wed, 31 May 2023 07:00:00 +0200"
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruce%20Springsteen",
-        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Europa%20League",
+        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Europa%20League",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruce%20Springsteen",
+        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Wladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wladimir%20Putin",
         "pubdate": "Wed, 31 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Clint%20Eastwood",
+        "pubdate": "Wed, 31 May 2023 19:00:00 +0200"
       }
     ]
   ]

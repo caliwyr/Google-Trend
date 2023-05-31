@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-05-2023 , 23:44:40",
+  "lastUpdate": "31-05-2023 , 23:54:05",
   "data": [
-    [
-      {
-        "title": "NRL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
-        "pubdate": "Thu, 01 Jun 2023 07:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Qld",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "RARBG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RARBG",
-        "pubdate": "Thu, 01 Jun 2023 10:00:00 +1200"
+        "title": "Rugby World Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rugby%20World%20Cup%202023",
+        "pubdate": "Thu, 01 Jun 2023 11:00:00 +1200"
       }
     ],
     [
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "Ted lasso season 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ted%20lasso%20season%204",
+        "title": "Ted Lasso Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ted%20Lasso%20Season%204",
         "pubdate": "Wed, 31 May 2023 23:00:00 +1200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kosovo",
         "pubdate": "Wed, 31 May 2023 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Clark Laidlaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clark%20Laidlaw",
+        "pubdate": "Wed, 31 May 2023 10:00:00 +1200"
       }
     ]
   ]
