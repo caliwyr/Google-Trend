@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "01-06-2023 , 19:44:38",
+  "lastUpdate": "01-06-2023 , 19:53:56",
   "data": [
     [
       {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
+        "pubdate": "Thu, 01 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Tanja Szewczenko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tanja%20Szewczenko",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
         "pubdate": "Thu, 01 Jun 2023 11:00:00 +0200"
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Barbara Schöneberger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barbara%20Sch%C3%B6neberger",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Europa-League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa-League",
         "pubdate": "Wed, 31 May 2023 06:00:00 +0200"
@@ -90,6 +104,13 @@
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Klum",
         "pubdate": "Wed, 31 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Moldau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
+        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,36 +129,15 @@
     ],
     [
       {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Europa%20League",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rakitic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rakitic",
-        "pubdate": "Wed, 31 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roland Kaiser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roland%20Kaiser",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rbb24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rbb24",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Europa%20League",
         "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
       }
     ]
