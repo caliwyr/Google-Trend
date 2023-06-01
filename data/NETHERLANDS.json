@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 06:39:29",
+  "lastUpdate": "01-06-2023 , 06:48:51",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Al Pacino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Al%20Pacino",
-        "pubdate": "Wed, 31 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Griekspoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
         "pubdate": "Wed, 31 May 2023 20:00:00 +0200"
@@ -34,6 +27,13 @@
         "title": "IJsselmeervogels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#IJsselmeervogels",
         "pubdate": "Wed, 31 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
+        "pubdate": "Wed, 31 May 2023 00:00:00 +0200"
       }
     ],
     [
