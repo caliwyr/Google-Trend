@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 03:52:05",
+  "lastUpdate": "01-06-2023 , 04:08:22",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lana Del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lana%20Del%20Rey",
         "pubdate": "Wed, 31 May 2023 15:00:00 +0200"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Csősz Boglárka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C5%91sz%20Bogl%C3%A1rka",
+        "title": "Csősz boglárka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C5%91sz%20bogl%C3%A1rka",
         "pubdate": "Wed, 31 May 2023 12:00:00 +0200"
       }
     ],
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
-        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
+        "title": "Liszt Ferenc tér",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liszt%20Ferenc%20t%C3%A9r",
+        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liszt Ferenc tér",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liszt%20Ferenc%20t%C3%A9r",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
+        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kiss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss",
         "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%20Roma",
-        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
       }
     ]
   ]
