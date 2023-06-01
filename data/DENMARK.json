@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 13:48:08",
+  "lastUpdate": "01-06-2023 , 13:57:32",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Lauritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lauritz",
-        "pubdate": "Wed, 31 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Prime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prime",
         "pubdate": "Wed, 31 May 2023 17:00:00 +0200"
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "Enterovirus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enterovirus",
-        "pubdate": "Wed, 31 May 2023 17:00:00 +0200"
+        "title": "Christopher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christopher",
+        "pubdate": "Wed, 31 May 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Christopher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christopher",
-        "pubdate": "Wed, 31 May 2023 08:00:00 +0200"
+        "title": "Enterovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enterovirus",
+        "pubdate": "Wed, 31 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Pernille Weiss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pernille%20Weiss",
         "pubdate": "Tue, 30 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Distortion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Distortion",
+        "pubdate": "Tue, 30 May 2023 16:00:00 +0200"
       }
     ]
   ]
