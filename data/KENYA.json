@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 15:53:09",
+  "lastUpdate": "01-06-2023 , 16:09:51",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Breaking News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20News",
+        "title": "Breaking news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news",
         "pubdate": "Thu, 01 Jun 2023 08:00:00 +0300"
       }
     ],
@@ -34,13 +34,6 @@
         "title": "Kovacic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kovacic",
         "pubdate": "Thu, 01 Jun 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fake Profile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fake%20Profile",
-        "pubdate": "Thu, 01 Jun 2023 01:00:00 +0300"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham",
+        "pubdate": "Wed, 31 May 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Quincy Promes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Quincy%20Promes",
         "pubdate": "Wed, 31 May 2023 00:00:00 +0300"
@@ -104,13 +104,6 @@
         "title": "Elizabeth Holmes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Elizabeth%20Holmes",
         "pubdate": "Wed, 31 May 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham",
-        "pubdate": "Wed, 31 May 2023 23:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "JKIA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKIA",
         "pubdate": "Wed, 31 May 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jude Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jude%20Bellingham",
+        "pubdate": "Wed, 31 May 2023 10:00:00 +0300"
       }
     ]
   ]

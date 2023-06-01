@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "01-06-2023 , 15:53:05",
+  "lastUpdate": "01-06-2023 , 16:09:47",
   "data": [
+    [
+      {
+        "title": "Northside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Northside",
+        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
         "pubdate": "Thu, 01 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pernille Harder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pernille%20Harder",
+        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Budapest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Budapest",
-        "pubdate": "Wed, 31 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
         "pubdate": "Wed, 31 May 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Lounge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lounge",
         "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tara Reade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tara%20Reade",
-        "pubdate": "Wed, 31 May 2023 15:00:00 +0200"
       }
     ]
   ]
