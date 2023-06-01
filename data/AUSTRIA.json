@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 10:54:22",
+  "lastUpdate": "01-06-2023 , 11:08:19",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Inflation Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inflation%20%C3%96sterreich",
         "pubdate": "Thu, 01 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland",
+        "pubdate": "Thu, 01 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "ServusTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ServusTV",
+        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
         "pubdate": "Wed, 31 May 2023 09:00:00 +0200"
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "SPQR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SPQR",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UEFA Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Europa%20League",
         "pubdate": "Wed, 31 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frank Albert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frank%20Albert",
-        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Rakitic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rakitic",
-        "pubdate": "Wed, 31 May 2023 23:00:00 +0200"
+        "title": "Wolf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolf",
+        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ]
   ]
