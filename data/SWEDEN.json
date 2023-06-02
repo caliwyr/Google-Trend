@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 15:55:19",
+  "lastUpdate": "02-06-2023 , 16:14:02",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Gustav Vasa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustav%20Vasa",
+        "pubdate": "Fri, 02 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Biden",
         "pubdate": "Fri, 02 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Öresundsverket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96resundsverket",
+        "pubdate": "Fri, 02 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Pernille Harder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pernille%20Harder",
-        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novak%20Djokovic",
         "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "SBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SBB",
         "pubdate": "Wed, 31 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Superettan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
-        "pubdate": "Wed, 31 May 2023 23:00:00 +0200"
       }
     ]
   ]
