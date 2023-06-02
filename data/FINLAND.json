@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-06-2023 , 21:55:12",
+  "lastUpdate": "02-06-2023 , 22:10:11",
   "data": [
     [
       {
         "title": "Saariaho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Saariaho",
         "pubdate": "Fri, 02 Jun 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Blinken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Blinken",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Snowden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snowden",
+        "title": "Edward Snowden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edward%20Snowden",
         "pubdate": "Fri, 02 Jun 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
       }
     ],
     [
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
-        "pubdate": "Fri, 02 Jun 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Alan Walker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alan%20Walker",
         "pubdate": "Fri, 02 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sardinia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sardinia",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Antony Blinken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Antony%20Blinken",
-        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0300"
+        "title": "Danny Masterson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Danny%20Masterson",
+        "pubdate": "Thu, 01 Jun 2023 05:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Danny Masterson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Danny%20Masterson",
-        "pubdate": "Thu, 01 Jun 2023 05:00:00 +0300"
+        "title": "Antony Blinken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Antony%20Blinken",
+        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0300"
       }
     ],
     [
