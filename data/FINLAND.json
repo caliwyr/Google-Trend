@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 20:52:01",
+  "lastUpdate": "02-06-2023 , 21:04:01",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
         "pubdate": "Fri, 02 Jun 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Snowden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snowden",
+        "pubdate": "Fri, 02 Jun 2023 22:00:00 +0300"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
         "pubdate": "Fri, 02 Jun 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Snowden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snowden",
-        "pubdate": "Fri, 02 Jun 2023 22:00:00 +0300"
       }
     ],
     [

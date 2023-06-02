@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 20:52:10",
+  "lastUpdate": "02-06-2023 , 21:04:12",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "The Covenant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Covenant",
+        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Oppenheimer",
         "pubdate": "Fri, 02 Jun 2023 19:00:00 +0100"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "The Covenant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Covenant",
-        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0100"
+        "title": "Jesse Lingard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jesse%20Lingard",
+        "pubdate": "Fri, 02 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Jesse Lingard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jesse%20Lingard",
-        "pubdate": "Fri, 02 Jun 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Timothee%20Chalamet",
         "pubdate": "Fri, 02 Jun 2023 17:00:00 +0100"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Jake Shears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jake%20Shears",
+        "pubdate": "Fri, 02 Jun 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Roman Reigns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roman%20Reigns",
         "pubdate": "Fri, 02 Jun 2023 00:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Spider-Man: Across The Spider-Verse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spider-Man:%20Across%20The%20Spider-Verse",
         "pubdate": "Thu, 01 Jun 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bruce%20Willis",
-        "pubdate": "Thu, 01 Jun 2023 10:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 20:52:08",
+  "lastUpdate": "02-06-2023 , 21:04:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jamie%20Foxx",
         "pubdate": "Fri, 02 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spider-Man:%20Across%20the%20Spider-Verse",
+        "pubdate": "Fri, 02 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Spider-Man: Across the Spider-Verse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spider-Man:%20Across%20the%20Spider-Verse",
-        "pubdate": "Fri, 02 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BRICS",
         "pubdate": "Fri, 02 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "President Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#President%20Joe%20Biden",
-        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,16 @@
     ],
     [
       {
-        "title": "Karim Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Karim%20Benzema",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+        "title": "President Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#President%20Joe%20Biden",
+        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sassuolo vs Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassuolo%20vs%20Fiorentina",
+        "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Sassuolo vs Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassuolo%20vs%20Fiorentina",
+        "title": "Manifest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manifest",
         "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
       }
     ],
@@ -104,13 +104,6 @@
         "title": "Krispy Kreme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Krispy%20Kreme",
         "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manifest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manifest",
-        "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Pride Month",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pride%20Month",
+        "pubdate": "Thu, 01 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "June",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#June",
         "pubdate": "Thu, 01 Jun 2023 08:00:00 +0200"
       }
     ]
