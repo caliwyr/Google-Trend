@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "02-06-2023 , 17:15:37",
+  "lastUpdate": "02-06-2023 , 17:26:05",
   "data": [
     [
       {
         "title": "Blinken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Blinken",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wrc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wrc",
         "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
       }
     ],
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
+        "pubdate": "Fri, 02 Jun 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Alan Walker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alan%20Walker",
         "pubdate": "Fri, 02 Jun 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sardinia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sardinia",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Patria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patria",
+        "pubdate": "Fri, 02 Jun 2023 18:00:00 +0300"
       }
     ],
     [
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Patria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patria",
+        "title": "Love Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Love%20Island",
         "pubdate": "Fri, 02 Jun 2023 18:00:00 +0300"
       }
     ],
@@ -59,16 +73,9 @@
     ],
     [
       {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Belgorod",
-        "pubdate": "Fri, 02 Jun 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Love Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Love%20Island",
-        "pubdate": "Fri, 02 Jun 2023 18:00:00 +0300"
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Toto Wolff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Toto%20Wolff",
         "pubdate": "Thu, 01 Jun 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
-        "pubdate": "Thu, 01 Jun 2023 09:00:00 +0300"
       }
     ]
   ]
