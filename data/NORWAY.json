@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "02-06-2023 , 17:54:15",
+  "lastUpdate": "02-06-2023 , 18:11:45",
   "data": [
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andrew%20Tate",
         "pubdate": "Fri, 02 Jun 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Adressa.no",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adressa.no",
         "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Hall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anna%20Hall",
+        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Anna Hall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anna%20Hall",
+        "title": "ID. Buzz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ID.%20Buzz",
         "pubdate": "Fri, 02 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ID. Buzz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ID.%20Buzz",
-        "pubdate": "Fri, 02 Jun 2023 17:00:00 +0200"
+        "title": "Miljødirektoratet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Milj%C3%B8direktoratet",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Peter Gabriel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peter%20Gabriel",
+        "pubdate": "Thu, 01 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Trango",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trango",
         "pubdate": "Thu, 01 Jun 2023 11:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Moldova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moldova",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Peter Gabriel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peter%20Gabriel",
-        "pubdate": "Thu, 01 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sophie Elise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Elise",
-        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
