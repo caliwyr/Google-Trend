@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 09:53:11",
+  "lastUpdate": "02-06-2023 , 10:08:09",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgorod",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
+        "title": "Garance Marillier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Garance%20Marillier",
+        "pubdate": "Fri, 02 Jun 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Garance Marillier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Garance%20Marillier",
-        "pubdate": "Fri, 02 Jun 2023 09:00:00 +0200"
+        "title": "Arc de Triomphe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arc%20de%20Triomphe",
+        "pubdate": "Fri, 02 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgorod",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Altmaier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Altmaier",
-        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
+        "title": "Parcoursup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parcoursup",
+        "pubdate": "Thu, 01 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Diane Parry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diane%20Parry",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Altmaier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Altmaier",
+        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Indiana Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Indiana%20Jones",
-        "pubdate": "Thu, 01 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fusillade Nantua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fusillade%20Nantua",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Senegal",
-        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
