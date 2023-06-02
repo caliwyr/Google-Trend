@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 03:47:53",
+  "lastUpdate": "02-06-2023 , 03:57:17",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Majka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
         "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burján Szafi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Burj%C3%A1n%20Szafi",
+        "pubdate": "Thu, 01 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Vastag Csaba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vastag%20Csaba",
+        "pubdate": "Thu, 01 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tom Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Holland",
         "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pókember: A Pókverzumon át",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%B3kember:%20A%20P%C3%B3kverzumon%20%C3%A1t",
+        "pubdate": "Thu, 01 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -69,13 +90,6 @@
         "title": "Kim Cattrall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kim%20Cattrall",
         "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Böröndi Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B6r%C3%B6ndi%20G%C3%A1bor",
-        "pubdate": "Thu, 01 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fucsovics Márton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fucsovics%20M%C3%A1rton",
         "pubdate": "Thu, 01 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lionel%20Messi",
-        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%20Roma",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
       }
     ]
   ]
