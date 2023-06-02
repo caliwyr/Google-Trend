@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2023 , 11:47:17",
+  "lastUpdate": "02-06-2023 , 11:56:34",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Muse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Muse",
         "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anthony%20Taylor",
+        "pubdate": "Fri, 02 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Pernille Harder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pernille%20Harder",
-        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
+        "title": "Pride Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%20Month",
+        "pubdate": "Thu, 01 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Pride Month",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%20Month",
-        "pubdate": "Thu, 01 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heidi%20Klum",
         "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Pernille Harder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pernille%20Harder",
+        "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Rookie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Rookie",
         "pubdate": "Thu, 01 Jun 2023 01:00:00 +0200"
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "PCOS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PCOS",
-        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
+        "title": "North side Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#North%20side%20Festival",
+        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "North side Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#North%20side%20Festival",
-        "pubdate": "Thu, 01 Jun 2023 23:00:00 +0200"
+        "title": "PCOS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PCOS",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Noor Alfallah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Noor%20Alfallah",
         "pubdate": "Wed, 31 May 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "A Beautiful Life",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#A%20Beautiful%20Life",
-        "pubdate": "Wed, 31 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adonis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adonis",
-        "pubdate": "Wed, 31 May 2023 11:00:00 +0200"
       }
     ]
   ]
