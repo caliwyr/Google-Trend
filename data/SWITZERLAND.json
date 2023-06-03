@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 08:45:53",
+  "lastUpdate": "03-06-2023 , 08:55:10",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Bordeaux - Rodez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bordeaux%20-%20Rodez",
+        "title": "Bordeaux Rodez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bordeaux%20Rodez",
         "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euromillions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euromillions",
+        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Euromillions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euromillions",
-        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
+        "title": "Obstacle Run",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Obstacle%20Run",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Obstacle Run",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Obstacle%20Run",
-        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Guillaume Bats",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Guillaume%20Bats",
         "pubdate": "Fri, 02 Jun 2023 08:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
         "pubdate": "Fri, 02 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Till Lindemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Till%20Lindemann",
+        "pubdate": "Fri, 02 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Serie-B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie-B",
         "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jamie Foxx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jamie%20Foxx",
-        "pubdate": "Fri, 02 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
