@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 14:53:15",
+  "lastUpdate": "03-06-2023 , 15:06:58",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Clima Nuevo Laredo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Nuevo%20Laredo",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Dodgers  Yankees",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dodgers%20%20Yankees",
         "pubdate": "Fri, 02 Jun 2023 22:00:00 -0600"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
-        "pubdate": "Fri, 02 Jun 2023 16:00:00 -0600"
+        "title": "Clima Nuevo Laredo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Nuevo%20Laredo",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Choque de trenes en la India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Choque%20de%20trenes%20en%20la%20India",
-        "pubdate": "Fri, 02 Jun 2023 23:00:00 -0600"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
+        "pubdate": "Fri, 02 Jun 2023 16:00:00 -0600"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Clima Veracruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Veracruz",
+        "title": "Choque de trenes en la India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Choque%20de%20trenes%20en%20la%20India",
+        "pubdate": "Fri, 02 Jun 2023 23:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Clima veracruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20veracruz",
         "pubdate": "Fri, 02 Jun 2023 15:00:00 -0600"
       }
     ]
