@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-06-2023 , 18:54:34",
+  "lastUpdate": "03-06-2023 , 19:08:52",
   "data": [
     [
       {
         "title": "Beautiful",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Beautiful",
         "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maltempo Matera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maltempo%20Matera",
-        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#India",
+        "title": "Maltempo Matera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maltempo%20Matera",
+        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Scontro tra treni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scontro%20tra%20treni",
         "pubdate": "Sat, 03 Jun 2023 10:00:00 +0200"
       }
     ],
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "Enrica Bonaccorti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Enrica%20Bonaccorti",
-        "pubdate": "Sat, 03 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Britney%20Spears",
         "pubdate": "Sat, 03 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vittorio Sgarbi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vittorio%20Sgarbi",
-        "pubdate": "Sat, 03 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -101,15 +87,8 @@
     ],
     [
       {
-        "title": "Sbk oggi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sbk%20oggi",
-        "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arezzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arezzo",
+        "title": "SBK oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#SBK%20oggi",
         "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -122,9 +101,9 @@
     ],
     [
       {
-        "title": "Hakimi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hakimi",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+        "title": "Arezzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arezzo",
+        "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Hakimi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hakimi",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Holger Rune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Holger%20Rune",
         "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
+        "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fortitudo Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fortitudo%20Bologna",
+        "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
       }
     ]
   ]
