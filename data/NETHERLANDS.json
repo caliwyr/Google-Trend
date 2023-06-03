@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 07:46:24",
+  "lastUpdate": "03-06-2023 , 07:55:34",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VDL Nedcar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VDL%20Nedcar",
         "pubdate": "Thu, 01 Jun 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Eerste Kamer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eerste%20Kamer",
         "pubdate": "Tue, 30 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dua Lipa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dua%20Lipa",
-        "pubdate": "Tue, 30 May 2023 11:00:00 +0200"
       }
     ]
   ]
