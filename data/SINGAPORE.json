@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 19:46:31",
+  "lastUpdate": "03-06-2023 , 19:55:36",
   "data": [
     [
       {
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Japan Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20Typhoon",
+        "title": "Japan typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20typhoon",
         "pubdate": "Fri, 02 Jun 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benzema",
-        "pubdate": "Fri, 02 Jun 2023 12:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Debt ceiling news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Debt%20ceiling%20news",
         "pubdate": "Thu, 01 Jun 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sherpa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sherpa",
+        "pubdate": "Thu, 01 Jun 2023 18:00:00 +0800"
       }
     ]
   ]
