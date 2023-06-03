@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 04:45:33",
+  "lastUpdate": "03-06-2023 , 04:55:04",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Marica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marica",
-        "pubdate": "Fri, 02 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Viscri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Viscri",
         "pubdate": "Thu, 01 Jun 2023 20:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Castelul Mimi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Castelul%20Mimi",
         "pubdate": "Thu, 01 Jun 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
+        "pubdate": "Thu, 01 Jun 2023 08:00:00 +0300"
       }
     ]
   ]
