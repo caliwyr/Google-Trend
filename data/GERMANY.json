@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-06-2023 , 23:50:46",
+  "lastUpdate": "03-06-2023 , 00:00:01",
   "data": [
     [
       {
         "title": "Arminia Bielefeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
         "pubdate": "Fri, 02 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Till Lindemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
+        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -52,37 +59,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luisa Neubauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luisa%20Neubauer",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Simon Terodde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simon%20Terodde",
         "pubdate": "Fri, 02 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gänswein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4nswein",
-        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manifest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manifest",
-        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -94,6 +73,13 @@
     ],
     [
       {
+        "title": "Manifest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manifest",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kieler Woche 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kieler%20Woche%202023",
         "pubdate": "Fri, 02 Jun 2023 23:00:00 +0200"
@@ -101,22 +87,8 @@
     ],
     [
       {
-        "title": "Chemnitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chemnitz",
-        "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Till Lindemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "Anna Loos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anna%20Loos",
+        "pubdate": "Thu, 01 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
+        "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barbara Schöneberger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barbara%20Sch%C3%B6neberger",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa-League",
+        "pubdate": "Wed, 31 May 2023 06:00:00 +0200"
       }
     ]
   ]
