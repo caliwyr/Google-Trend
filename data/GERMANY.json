@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-06-2023 , 13:49:41",
+  "lastUpdate": "03-06-2023 , 13:59:13",
   "data": [
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Sat, 03 Jun 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Indien Zugunglück",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Tag X Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20X%20Leipzig",
-        "pubdate": "Sat, 03 Jun 2023 10:00:00 +0200"
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig",
+        "pubdate": "Sat, 03 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Herbert Grönemeyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Herbert%20Gr%C3%B6nemeyer",
-        "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
+        "title": "Eschede Zugunglück",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eschede%20Zugungl%C3%BCck",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Relegation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation",
         "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Relegation Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation%20Bundesliga",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
       }
     ]
   ]

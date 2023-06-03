@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 13:49:39",
+  "lastUpdate": "03-06-2023 , 13:59:12",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Perfil Falso Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Perfil%20Falso%20Netflix",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joe%20Biden",
         "pubdate": "Fri, 02 Jun 2023 08:00:00 -0400"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Luna Llena junio 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luna%20Llena%20junio%202023",
+        "title": "Luna llena junio 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luna%20llena%20junio%202023",
         "pubdate": "Fri, 02 Jun 2023 19:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Chicago Med",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chicago%20Med",
         "pubdate": "Fri, 02 Jun 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Santiago Wanderers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago%20Wanderers",
-        "pubdate": "Fri, 02 Jun 2023 16:00:00 -0400"
       }
     ]
   ]
