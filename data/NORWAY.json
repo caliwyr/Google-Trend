@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 03:53:45",
+  "lastUpdate": "03-06-2023 , 04:10:09",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Phillip Schofield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Phillip%20Schofield",
         "pubdate": "Fri, 02 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
+        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Martin Ødegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
         "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
-        "pubdate": "Thu, 01 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
