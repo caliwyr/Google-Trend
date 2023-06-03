@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-06-2023 , 01:52:26",
+  "lastUpdate": "03-06-2023 , 02:40:28",
   "data": [
     [
       {
         "title": "Los Fabulosos Cadillacs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Los%20Fabulosos%20Cadillacs",
         "pubdate": "Fri, 02 Jun 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#FA%20Cup",
+        "pubdate": "Fri, 02 Jun 2023 14:00:00 -0600"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#FA%20Cup",
-        "pubdate": "Fri, 02 Jun 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jamie%20Foxx",
         "pubdate": "Fri, 02 Jun 2023 00:00:00 -0600"
@@ -41,6 +41,13 @@
         "title": "Dia de la Dona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20de%20la%20Dona",
         "pubdate": "Fri, 02 Jun 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Sergio Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sergio%20Ramos",
+        "pubdate": "Fri, 02 Jun 2023 18:00:00 -0600"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Manchester City vs Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City%20vs%20Manchester%20United",
-        "pubdate": "Fri, 02 Jun 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
         "pubdate": "Fri, 02 Jun 2023 16:00:00 -0600"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Miguel O'Hara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Miguel%20O'Hara",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 -0600"
+        "title": "Rogelio Funes Mori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rogelio%20Funes%20Mori",
+        "pubdate": "Fri, 02 Jun 2023 17:00:00 -0600"
       }
     ],
     [
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Sergio Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sergio%20Ramos",
-        "pubdate": "Fri, 02 Jun 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Rogelio Funes Mori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rogelio%20Funes%20Mori",
-        "pubdate": "Fri, 02 Jun 2023 17:00:00 -0600"
+        "title": "Clima veracruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20veracruz",
+        "pubdate": "Fri, 02 Jun 2023 15:00:00 -0600"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Toño Mauri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#To%C3%B1o%20Mauri",
-        "pubdate": "Fri, 02 Jun 2023 15:00:00 -0600"
+        "title": "Roman Reigns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roman%20Reigns",
+        "pubdate": "Fri, 02 Jun 2023 18:00:00 -0600"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Roman Reigns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roman%20Reigns",
-        "pubdate": "Fri, 02 Jun 2023 18:00:00 -0600"
+        "title": "Temperatura en Guadalajara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temperatura%20en%20Guadalajara",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Swift",
+        "pubdate": "Thu, 01 Jun 2023 15:00:00 -0600"
       }
     ]
   ]
