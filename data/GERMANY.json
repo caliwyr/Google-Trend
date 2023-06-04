@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-06-2023 , 01:17:30",
+  "lastUpdate": "04-06-2023 , 02:52:56",
   "data": [
-    [
-      {
-        "title": "FA-Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FA-Cup",
-        "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Champions League",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF",
-        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
+        "title": "FA-Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FA-Cup",
+        "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,15 +24,15 @@
     ],
     [
       {
-        "title": "Lok Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lok%20Leipzig",
-        "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF",
+        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Energie Cottbus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Energie%20Cottbus",
+        "title": "Lok Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lok%20Leipzig",
         "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -48,13 +41,6 @@
         "title": "Harry Meghan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Meghan",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sebastian Rode",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sebastian%20Rode",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Relegation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation",
+        "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
