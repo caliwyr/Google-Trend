@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 14:53:23",
+  "lastUpdate": "04-06-2023 , 15:07:12",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Armageddon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Armageddon%202023",
-        "pubdate": "Sat, 03 Jun 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Mastodon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mastodon",
         "pubdate": "Sat, 03 Jun 2023 13:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Nuggets vs Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nuggets%20vs%20Heat",
         "pubdate": "Fri, 02 Jun 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Blues vs Highlanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blues%20vs%20Highlanders",
+        "pubdate": "Fri, 02 Jun 2023 17:00:00 +1200"
       }
     ]
   ]
