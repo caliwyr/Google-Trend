@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 19:54:29",
+  "lastUpdate": "04-06-2023 , 20:09:48",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Viking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+        "pubdate": "Sun, 04 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Strømsgodset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
-        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Vipers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vipers",
+        "pubdate": "Sat, 03 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kate Mara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kate%20Mara",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
@@ -90,27 +104,6 @@
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
         "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trond Mohn Games 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trond%20Mohn%20Games%202023",
-        "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vipers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vipers",
-        "pubdate": "Sat, 03 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erdogan",
         "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zipline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zipline",
+        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
       }
     ]
   ]

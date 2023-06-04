@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 19:54:21",
+  "lastUpdate": "04-06-2023 , 20:09:43",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Spanish Grand Prix",
@@ -17,22 +24,8 @@
     ],
     [
       {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Benzema",
-        "pubdate": "Sun, 04 Jun 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Lionel Messi PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lionel%20Messi%20PSG",
-        "pubdate": "Sun, 04 Jun 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Whitecaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
         "pubdate": "Sun, 04 Jun 2023 01:00:00 -0400"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Zach Whitecloud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Whitecloud",
         "pubdate": "Sun, 04 Jun 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Whitecaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
+        "pubdate": "Sun, 04 Jun 2023 01:00:00 -0400"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Andreescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andreescu",
+        "pubdate": "Sat, 03 Jun 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Mike Babcock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mike%20Babcock",
         "pubdate": "Sat, 03 Jun 2023 16:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Amir Albazi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amir%20Albazi",
         "pubdate": "Sat, 03 Jun 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Churchill Park Music Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Churchill%20Park%20Music%20Festival",
-        "pubdate": "Sat, 03 Jun 2023 09:00:00 -0400"
       }
     ]
   ]
