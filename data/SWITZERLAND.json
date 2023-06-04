@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 03:46:17",
+  "lastUpdate": "04-06-2023 , 03:55:38",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "The Voice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Voice",
+        "pubdate": "Sun, 04 Jun 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Sion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
         "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
@@ -62,6 +69,13 @@
         "title": "FA-Cup-Final",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA-Cup-Final",
         "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coco Gauff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coco%20Gauff",
+        "pubdate": "Sat, 03 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Sergio Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Ramos",
-        "pubdate": "Sat, 03 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Swiss Canyon Trail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Canyon%20Trail",
-        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rafael%20Nadal",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+        "title": "Xamax Rapperswil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax%20Rapperswil",
+        "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
