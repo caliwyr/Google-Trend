@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 09:50:30",
+  "lastUpdate": "04-06-2023 , 09:59:54",
   "data": [
+    [
+      {
+        "title": "The Voice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Voice",
+        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "David Guetta",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Puy-de dome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Puy-de%20dome",
+        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lewis%20Hamilton",
         "pubdate": "Sun, 04 Jun 2023 06:00:00 +0200"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Puy-de dome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Puy-de%20dome",
-        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
+        "title": "Alexander De Croo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexander%20De%20Croo",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "The Voice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Voice",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
+        "title": "Pierre de Maere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20de%20Maere",
+        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Genk Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20Antwerp",
-        "pubdate": "Sat, 03 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KSW",
-        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Torpedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Torpedo",
         "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
       }
     ]
