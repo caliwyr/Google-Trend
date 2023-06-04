@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 04:45:56",
+  "lastUpdate": "04-06-2023 , 04:55:30",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Asia Sentinel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Asia%20Sentinel",
-        "pubdate": "Fri, 02 Jun 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nuggets",
-        "pubdate": "Fri, 02 Jun 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Manifest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manifest",
         "pubdate": "Fri, 02 Jun 2023 22:00:00 +0800"
@@ -103,6 +89,13 @@
       {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joe%20Biden",
+        "pubdate": "Fri, 02 Jun 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nuggets",
         "pubdate": "Fri, 02 Jun 2023 14:00:00 +0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
         "pubdate": "Thu, 01 Jun 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Debt ceiling news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Debt%20ceiling%20news",
+        "pubdate": "Thu, 01 Jun 2023 09:00:00 +0800"
       }
     ]
   ]
