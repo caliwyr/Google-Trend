@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 18:54:42",
+  "lastUpdate": "04-06-2023 , 19:07:48",
   "data": [
+    [
+      {
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#U20",
+        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Hồ Ngọc Hà",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#UEFA%20Champions%20League",
-        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Bệnh sùi mào gà",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%87nh%20s%C3%B9i%20m%C3%A0o%20g%C3%A0",
         "pubdate": "Sun, 04 Jun 2023 22:00:00 +0700"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "U20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#U20",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Việt Nam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vi%E1%BB%87t%20Nam",
         "pubdate": "Sat, 03 Jun 2023 06:00:00 +0700"
@@ -111,13 +104,6 @@
         "title": "Nhật Bản",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%ADt%20B%E1%BA%A3n",
         "pubdate": "Sat, 03 Jun 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "24k.Right",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#24k.Right",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0700"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Bệnh than",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%87nh%20than",
         "pubdate": "Sat, 03 Jun 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Al Pacino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20Pacino",
+        "pubdate": "Sat, 03 Jun 2023 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Mancity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mancity",
+        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0700"
       }
     ]
   ]

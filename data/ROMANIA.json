@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-06-2023 , 18:54:39",
+  "lastUpdate": "04-06-2023 , 19:07:45",
   "data": [
-    [
-      {
-        "title": "UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
-        "pubdate": "Sun, 04 Jun 2023 04:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Benzema",
@@ -27,6 +20,13 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#RB%20Leipzig",
         "pubdate": "Sun, 04 Jun 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zverev",
+        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0300"
       }
     ],
     [
@@ -52,15 +52,8 @@
     ],
     [
       {
-        "title": "Parma  Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma%20%20Cagliari",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1 Marele Premiu al Spaniei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201%20Marele%20Premiu%20al%20Spaniei",
+        "title": "Formula 1 marele premiu al spaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201%20marele%20premiu%20al%20spaniei",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 +0300"
       }
     ],
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Taylor Fritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taylor%20Fritz",
-        "pubdate": "Sun, 04 Jun 2023 09:00:00 +0300"
+        "title": "Parma  Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma%20%20Cagliari",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0300"
       }
     ],
     [
@@ -87,9 +80,23 @@
     ],
     [
       {
+        "title": "Taylor Fritz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taylor%20Fritz",
+        "pubdate": "Sun, 04 Jun 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vladimir%20Putin",
         "pubdate": "Sun, 04 Jun 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Vipers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vipers",
+        "pubdate": "Sun, 04 Jun 2023 21:00:00 +0300"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Sat, 03 Jun 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Messi",
         "pubdate": "Sat, 03 Jun 2023 10:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Damian draghici",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Damian%20draghici",
         "pubdate": "Sat, 03 Jun 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sabalenka",
-        "pubdate": "Sat, 03 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
-        "pubdate": "Sat, 03 Jun 2023 12:00:00 +0300"
       }
     ]
   ]
