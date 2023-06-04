@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 05:43:17",
+  "lastUpdate": "04-06-2023 , 05:52:44",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Lune des fraises",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lune%20des%20fraises",
         "pubdate": "Sun, 04 Jun 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Criterium dauphine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Criterium%20dauphine",
+        "pubdate": "Sun, 04 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "The Voice 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Voice%202023",
+        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pierre de Maere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20de%20Maere",
         "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Grenoble-Perpignan Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble-Perpignan%20Rugby",
+        "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "The Voice 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Voice%202023",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Salahdine Parnasse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salahdine%20Parnasse",
-        "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mylene Farmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mylene%20Farmer",
-        "pubdate": "Sat, 03 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Grenoble - Perpignan Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble%20-%20Perpignan%20Rugby",
         "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
       }
     ]
