@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-06-2023 , 15:48:41",
+  "lastUpdate": "04-06-2023 , 15:57:57",
   "data": [
-    [
-      {
-        "title": "Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benzema",
         "pubdate": "Sun, 04 Jun 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0100"
       }
     ],
     [
@@ -31,9 +31,30 @@
     ],
     [
       {
+        "title": "F1 Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F1%20Barcelona",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Porto Benfica hoquei patins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FC%20Porto%20Benfica%20hoquei%20patins",
+        "pubdate": "Sun, 04 Jun 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Atletico MG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atletico%20MG",
         "pubdate": "Sun, 04 Jun 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Madalena Aragão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madalena%20Arag%C3%A3o",
+        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -45,13 +66,6 @@
     ],
     [
       {
-        "title": "Hazard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hazard",
-        "pubdate": "Sun, 04 Jun 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#One%20Direction",
         "pubdate": "Sun, 04 Jun 2023 08:00:00 +0100"
@@ -59,9 +73,23 @@
     ],
     [
       {
+        "title": "Hazard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hazard",
+        "pubdate": "Sun, 04 Jun 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santos",
         "pubdate": "Sun, 04 Jun 2023 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lua Cheia em Sagitário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lua%20Cheia%20em%20Sagit%C3%A1rio",
+        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -76,6 +104,13 @@
         "title": "Ugarte Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ugarte%20Chelsea",
         "pubdate": "Sun, 04 Jun 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Artur Jorge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Artur%20Jorge",
+        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Artur Jorge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Artur%20Jorge",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "The Idol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Idol",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maritimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
-        "pubdate": "Sat, 03 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Clermont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Clermont",
-        "pubdate": "Sat, 03 Jun 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20Rico",
-        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica Porto hoquei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Porto%20hoquei",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0100"
       }
     ]
   ]

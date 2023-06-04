@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 15:48:35",
+  "lastUpdate": "04-06-2023 , 15:57:51",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "PSG – Clermont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Clermont",
         "pubdate": "Sun, 04 Jun 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sofia Virta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sofia%20Virta",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
         "pubdate": "Fri, 02 Jun 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Edward Snowden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edward%20Snowden",
-        "pubdate": "Fri, 02 Jun 2023 22:00:00 +0300"
       }
     ]
   ]

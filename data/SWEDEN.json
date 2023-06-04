@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 15:48:43",
+  "lastUpdate": "04-06-2023 , 15:57:59",
   "data": [
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tom Cruise",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "HBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#KSW",
         "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
@@ -62,6 +76,20 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IFK Göteborg mot Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20mot%20Mj%C3%A4llby",
+        "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Sat, 03 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,13 +122,6 @@
     ],
     [
       {
-        "title": "Marko mitrovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marko%20mitrovic",
-        "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Danny Saucedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Danny%20Saucedo",
         "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#City",
-        "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Angelina Jolie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angelina%20Jolie",
         "pubdate": "Sat, 03 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stockholm Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stockholm%20Marathon",
-        "pubdate": "Fri, 02 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stockholm marathon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stockholm%20marathon%202023",
-        "pubdate": "Fri, 02 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
