@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 02:52:56",
+  "lastUpdate": "04-06-2023 , 03:22:56",
   "data": [
     [
       {
@@ -61,13 +61,6 @@
       {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#KSW",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Fritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Fritz",
         "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Baywatch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Baywatch",
         "pubdate": "Fri, 02 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jordan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jordan",
+        "pubdate": "Fri, 02 Jun 2023 06:00:00 +0200"
       }
     ]
   ]
