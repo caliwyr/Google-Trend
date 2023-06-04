@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 08:46:27",
+  "lastUpdate": "04-06-2023 , 08:55:45",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Rangitoto College",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rangitoto%20College",
+        "pubdate": "Sun, 04 Jun 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Jordan Peterson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jordan%20Peterson",
         "pubdate": "Sun, 04 Jun 2023 13:00:00 +1200"
@@ -27,13 +34,6 @@
         "title": "Moana Pasifika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Moana%20Pasifika",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Rangitoto college",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rangitoto%20college",
-        "pubdate": "Sun, 04 Jun 2023 19:00:00 +1200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Armageddon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Armageddon%202023",
-        "pubdate": "Sat, 03 Jun 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Mastodon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mastodon",
         "pubdate": "Sat, 03 Jun 2023 13:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Drua vs Reds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drua%20vs%20Reds",
         "pubdate": "Sat, 03 Jun 2023 21:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets vs Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nuggets%20vs%20Heat",
+        "pubdate": "Fri, 02 Jun 2023 13:00:00 +1200"
       }
     ]
   ]
