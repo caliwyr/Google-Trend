@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 10:48:06",
+  "lastUpdate": "04-06-2023 , 10:57:22",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lionel%20Messi",
-        "pubdate": "Sun, 04 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,8 +24,22 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zugunglück Indien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zugungl%C3%BCck%20Indien",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ironman Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Hamburg",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Mario Götze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mario%20G%C3%B6tze",
         "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ironman Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Hamburg",
-        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -87,22 +87,8 @@
     ],
     [
       {
-        "title": "Rock am Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rock%20am%20Ring",
-        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ute Lemper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ute%20Lemper",
-        "pubdate": "Fri, 02 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leipzig Demo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig%20Demo",
         "pubdate": "Fri, 02 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -138,6 +124,20 @@
       {
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Relegation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation",
+        "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga-Relegation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga-Relegation",
         "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
       }
     ]

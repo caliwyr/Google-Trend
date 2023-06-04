@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 10:48:03",
+  "lastUpdate": "04-06-2023 , 10:57:18",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "David Guetta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Guetta",
         "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shari Bossuyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shari%20Bossuyt",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Alexander De Croo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexander%20De%20Croo",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Puy-de dome",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Puy-de%20dome",
         "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Didier Raoult",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Didier%20Raoult",
+        "pubdate": "Sun, 04 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -66,9 +87,16 @@
     ],
     [
       {
-        "title": "Alexander De Croo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexander%20De%20Croo",
-        "pubdate": "Sun, 04 Jun 2023 11:00:00 +0200"
+        "title": "Jérémy Ferrari Guillaume Bats",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#J%C3%A9r%C3%A9my%20Ferrari%20Guillaume%20Bats",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
+        "pubdate": "Sun, 04 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Gent  Standard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20%20Standard",
         "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zverev",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pierre de Maere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20de%20Maere",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ons%20Jabeur",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KSW",
-        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
