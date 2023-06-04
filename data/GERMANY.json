@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 20:59:06",
+  "lastUpdate": "04-06-2023 , 21:14:46",
   "data": [
+    [
+      {
+        "title": "Tatort heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20heute",
+        "pubdate": "Sun, 04 Jun 2023 16:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Barbara Schöneberger",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Galatasaray",
-        "pubdate": "Sun, 04 Jun 2023 18:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -24,23 +31,23 @@
     ],
     [
       {
-        "title": "Tatort heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20heute",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benzema",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Immer wieder sonntags",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Immer%20wieder%20sonntags",
         "pubdate": "Sun, 04 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jüterbog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCterbog",
+        "pubdate": "Sun, 04 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgorod",
+        "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Sat, 03 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Till Lindemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arminia Bielefeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
-        "pubdate": "Fri, 02 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
