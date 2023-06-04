@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-06-2023 , 22:50:32",
+  "lastUpdate": "04-06-2023 , 22:59:45",
   "data": [
+    [
+      {
+        "title": "Jumanji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jumanji",
+        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real madrid–bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93bilbao",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Everest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Everest",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 +0200"
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -13,13 +27,6 @@
         "title": "Trianon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trianon",
         "pubdate": "Sun, 04 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Nógrádi György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3gr%C3%A1di%20Gy%C3%B6rgy",
-        "pubdate": "Sun, 04 Jun 2023 08:00:00 +0200"
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shakira",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,16 @@
     ],
     [
       {
+        "title": "Nógrádi György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3gr%C3%A1di%20Gy%C3%B6rgy",
+        "pubdate": "Sun, 04 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gyurcsány Ferenc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyurcs%C3%A1ny%20Ferenc",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Empoli–Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Empoli%E2%80%93Lazio",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dubrovnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dubrovnik",
-        "pubdate": "Sun, 04 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Dubrovnik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dubrovnik",
+        "pubdate": "Sun, 04 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "G.w.M",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
         "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Hold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hold",
+        "title": "HOLD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#HOLD",
         "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
         "pubdate": "Sat, 03 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spanyol Nagydíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Spanyol%20Nagyd%C3%ADj",
-        "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
