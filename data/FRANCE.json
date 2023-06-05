@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 01:10:06",
+  "lastUpdate": "05-06-2023 , 02:36:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Zlatan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zlatan",
         "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Shakira",
+        "pubdate": "Mon, 05 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Criterium du dauphine 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Criterium%20du%20dauphine%202023",
-        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dictee Champs elysees",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dictee%20Champs%20elysees",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Aurelien The Voice 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurelien%20The%20Voice%202023",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
+        "title": "Criterium du dauphine 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Criterium%20du%20dauphine%202023",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Didier Raoult",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Didier%20Raoult",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0200"
+        "title": "Aurelien The Voice 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurelien%20The%20Voice%202023",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
