@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-06-2023 , 21:55:55",
+  "lastUpdate": "05-06-2023 , 22:11:29",
   "data": [
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Apple",
+        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "الزمالك ضد الاتحاد السكندري",
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Wwdc 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Wwdc%202023",
+        "title": "WWDC 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#WWDC%202023",
         "pubdate": "Mon, 05 Jun 2023 22:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "اسعار النفط",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D9%86%D9%81%D8%B7",
         "pubdate": "Sun, 04 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "ملحم بركات",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%85%D9%84%D8%AD%D9%85%20%D8%A8%D8%B1%D9%83%D8%A7%D8%AA",
-        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0300"
       }
     ]
   ]

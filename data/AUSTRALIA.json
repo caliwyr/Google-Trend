@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-06-2023 , 21:55:44",
+  "lastUpdate": "05-06-2023 , 22:11:19",
   "data": [
-    [
-      {
-        "title": "50 Cent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#50%20Cent",
-        "pubdate": "Tue, 06 Jun 2023 00:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Pope Francis",
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Casper Ruud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Casper%20Ruud",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "WWDC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWDC",
         "pubdate": "Mon, 05 Jun 2023 11:00:00 +1000"
@@ -83,6 +69,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Casper%20Ruud",
+        "pubdate": "Mon, 05 Jun 2023 23:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lewis%20Hamilton",
         "pubdate": "Mon, 05 Jun 2023 23:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alcaraz",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +1000"
       }
     ]
   ]
