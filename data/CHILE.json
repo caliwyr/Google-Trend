@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 12:57:09",
+  "lastUpdate": "05-06-2023 , 13:18:07",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Premios Pulsar 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premios%20Pulsar%202023",
+        "pubdate": "Sun, 04 Jun 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Wanderers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
         "pubdate": "Sun, 04 Jun 2023 19:00:00 -0400"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Jokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jokic",
-        "pubdate": "Sun, 04 Jun 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Real Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Betis",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Premios Pulsar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premios%20Pulsar",
-        "pubdate": "Sun, 04 Jun 2023 22:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "DUblin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DUblin",
         "pubdate": "Sun, 04 Jun 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Cerundolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cerundolo",
+        "pubdate": "Sun, 04 Jun 2023 10:00:00 -0400"
       }
     ]
   ]
