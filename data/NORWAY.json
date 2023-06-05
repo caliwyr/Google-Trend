@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "05-06-2023 , 16:58:58",
+  "lastUpdate": "05-06-2023 , 17:15:55",
   "data": [
     [
       {
-        "title": "DNB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNB",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
+        "title": "NAV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NAV",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Nordea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordea",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Celta – fc Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Celta%20%E2%80%93%20fc%20Barcelona",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+        "title": "The Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Sun",
+        "pubdate": "Mon, 05 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Oslo Børs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20B%C3%B8rs",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Celta – fc Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Celta%20%E2%80%93%20fc%20Barcelona",
+        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Totalberedskapskommisjonen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Totalberedskapskommisjonen",
-        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Avis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avis",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sommer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sommer",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
+        "title": "DNB bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNB%20bank",
+        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

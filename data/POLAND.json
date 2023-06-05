@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-06-2023 , 16:58:59",
+  "lastUpdate": "05-06-2023 , 17:15:56",
   "data": [
     [
       {
         "title": "Zlatan Ibrahimović",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zlatan%20Ibrahimovi%C4%87",
         "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jacek Brzosko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20Brzosko",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Konfederacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konfederacja",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
+        "title": "WWDC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WWDC",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roma",
         "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Megan%20Fox",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Wybory 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%202023",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
         "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Warszawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Warszawa",
-        "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Udinese – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Udinese%20%E2%80%93%20Juventus",
-        "pubdate": "Sun, 04 Jun 2023 21:00:00 +0200"
+        "title": "Wybory 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%202023",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
