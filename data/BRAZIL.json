@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 08:56:38",
+  "lastUpdate": "05-06-2023 , 09:13:50",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "SPFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+        "pubdate": "Sun, 04 Jun 2023 23:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Remo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
         "pubdate": "Sun, 04 Jun 2023 04:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Jesse Aguiar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jesse%20Aguiar",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo-PB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
       }
     ]
   ]

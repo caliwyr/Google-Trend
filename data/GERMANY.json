@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 08:56:40",
+  "lastUpdate": "05-06-2023 , 09:13:52",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FA-Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FA-Cup",
         "pubdate": "Sat, 03 Jun 2023 01:00:00 +0200"
@@ -76,13 +83,6 @@
         "title": "Ironman Hamburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Hamburg",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
-        "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Champions League Finale Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League%20Finale%20Frauen",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
         "pubdate": "Sat, 03 Jun 2023 11:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Till Lindemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
         "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arminia Bielefeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
+        "pubdate": "Fri, 02 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
