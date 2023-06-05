@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-06-2023 , 13:57:05",
+  "lastUpdate": "05-06-2023 , 14:13:16",
   "data": [
     [
       {
         "title": "Zlatan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zlatan",
         "pubdate": "Mon, 05 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0300"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Harry",
+        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "UTA Arad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
         "pubdate": "Sun, 04 Jun 2023 04:00:00 +0300"
@@ -47,13 +47,6 @@
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Messi",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 +0300"
       }
     ],
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sabalenka",
-        "pubdate": "Sun, 04 Jun 2023 23:00:00 +0300"
+        "title": "Pogorarea sfantului Duh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pogorarea%20sfantului%20Duh",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Pogorarea sfantului Duh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pogorarea%20sfantului%20Duh",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0300"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
+        "pubdate": "Sun, 04 Jun 2023 21:00:00 +0300"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "FC U Craiova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20U%20Craiova",
-        "pubdate": "Sun, 04 Jun 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Vipers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vipers",
         "pubdate": "Sun, 04 Jun 2023 21:00:00 +0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "FC U Craiova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20U%20Craiova",
+        "pubdate": "Sun, 04 Jun 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Iohannis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis",
         "pubdate": "Sun, 04 Jun 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sofia Vicoveanca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sofia%20Vicoveanca",
+        "pubdate": "Sun, 04 Jun 2023 23:00:00 +0300"
       }
     ]
   ]

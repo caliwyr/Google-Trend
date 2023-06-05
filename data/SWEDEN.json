@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-06-2023 , 13:57:07",
+  "lastUpdate": "05-06-2023 , 14:13:17",
   "data": [
+    [
+      {
+        "title": "Avanza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Avanza",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nordnet",
@@ -12,14 +19,14 @@
       {
         "title": "PGA Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PGA%20Tour",
-        "pubdate": "Mon, 05 Jun 2023 07:00:00 +0200"
+        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jack Nicklaus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jack%20Nicklaus",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+        "title": "The Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Idol",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -33,6 +40,13 @@
       {
         "title": "Zlatan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
+        "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zlatan Ibrahimovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan%20Ibrahimovic",
         "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -61,6 +75,13 @@
       {
         "title": "PKK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PKK",
+        "pubdate": "Sun, 04 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elfsborg Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20Djurg%C3%A5rden",
         "pubdate": "Sun, 04 Jun 2023 18:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Patti Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patti%20Smith",
         "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Magdalena Andersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magdalena%20Andersson",
-        "pubdate": "Sun, 04 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SBB",
-        "pubdate": "Sat, 03 Jun 2023 08:00:00 +0200"
       }
     ]
   ]
