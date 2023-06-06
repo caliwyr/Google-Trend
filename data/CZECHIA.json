@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-06-2023 , 13:51:26",
+  "lastUpdate": "06-06-2023 , 14:01:28",
   "data": [
     [
       {
         "title": "Kachovská přehrada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kachovsk%C3%A1%20p%C5%99ehrada",
         "pubdate": "Tue, 06 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Radka Třeštíková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radka%20T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zoo",
+        "pubdate": "Tue, 06 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "Ios 17 beta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ios%2017%20beta",
+        "title": "iOS 17 beta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#iOS%2017%20beta",
         "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
       }
     ],
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Výpadek elektřiny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDpadek%20elekt%C5%99iny",
-        "pubdate": "Tue, 06 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Metro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Metro",
         "pubdate": "Tue, 06 Jun 2023 09:00:00 +0200"
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Výpadek elektřiny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDpadek%20elekt%C5%99iny",
+        "pubdate": "Tue, 06 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Binance",
         "pubdate": "Tue, 06 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ange Postecoglou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ange%20Postecoglou",
+        "pubdate": "Tue, 06 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shakira",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham",
         "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Průměrná mzda 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pr%C5%AFm%C4%9Brn%C3%A1%20mzda%202023",
-        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "COBOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#COBOL",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Susan Boyle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Susan%20Boyle",
-        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shakira",
+        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0200"
       }
     ]
   ]
