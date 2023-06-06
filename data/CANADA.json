@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-06-2023 , 16:50:22",
+  "lastUpdate": "06-06-2023 , 16:59:37",
   "data": [
+    [
+      {
+        "title": "Ottawa News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20News",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Matthew Tkachuk",
@@ -13,6 +20,20 @@
         "title": "Adin Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adin%20Hill",
         "pubdate": "Tue, 06 Jun 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "LIV Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LIV%20Golf",
+        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panthers",
+        "pubdate": "Tue, 06 Jun 2023 06:00:00 -0400"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LIV%20Golf",
-        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Mission: Impossible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mission:%20Impossible",
         "pubdate": "Tue, 06 Jun 2023 11:00:00 -0400"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Panthers – Golden Knights",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panthers%20%E2%80%93%20Golden%20Knights",
-        "pubdate": "Tue, 06 Jun 2023 08:00:00 -0400"
+        "title": "Astrud Gilberto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Astrud%20Gilberto",
+        "pubdate": "Tue, 06 Jun 2023 12:00:00 -0400"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Law and Order Toronto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Law%20and%20Order%20Toronto",
+        "pubdate": "Tue, 06 Jun 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Apple Vision Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20Vision%20Pro",
         "pubdate": "Mon, 05 Jun 2023 08:00:00 -0400"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Paul Bernardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Bernardo",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Calabogie fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calabogie%20fire",
         "pubdate": "Mon, 05 Jun 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Matt Rife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Rife",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Quebec forest fires",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Quebec%20forest%20fires",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0400"
       }
     ]
   ]
