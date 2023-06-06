@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 17:55:05",
+  "lastUpdate": "06-06-2023 , 18:13:41",
   "data": [
     [
       {
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Novak%20Djokovic",
+        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Copa Libertadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Copa%20Libertadores",
         "pubdate": "Tue, 06 Jun 2023 07:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Maurice Revello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maurice%20Revello",
+        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Astrud Gilberto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Astrud%20Gilberto",
+        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0600"
       }
     ],
     [
@@ -75,7 +96,7 @@
       {
         "title": "Feid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feid",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0600"
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 -0600"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Gobernador de Coahuila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gobernador%20de%20Coahuila",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Me Caigo de Risa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Me%20Caigo%20de%20Risa",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo Ebrard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marcelo%20Ebrard",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "5 de junio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#5%20de%20junio",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0600"
       }
     ]
   ]
