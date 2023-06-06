@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 23:59:59",
+  "lastUpdate": "06-06-2023 , 01:57:09",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Aera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aera",
+        "pubdate": "Tue, 06 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Jacinda Ardern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
         "pubdate": "Mon, 05 Jun 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Foo Fighters nz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters%20nz",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +1200"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters",
-        "pubdate": "Mon, 05 Jun 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Kathleen Folbigg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kathleen%20Folbigg",
         "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
@@ -66,15 +73,15 @@
     ],
     [
       {
-        "title": "Karim Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karim%20Benzema",
+        "title": "YNW Melly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#YNW%20Melly",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
       }
     ],
     [
       {
-        "title": "YNW Melly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#YNW%20Melly",
+        "title": "Karim Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karim%20Benzema",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nathan Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nathan%20Cleary",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Nicky Hager",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicky%20Hager",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +1200"
       }
     ]
   ]

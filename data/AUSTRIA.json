@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 23:59:53",
+  "lastUpdate": "06-06-2023 , 01:57:03",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "WhatsApp Web",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WhatsApp%20Web",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apple",
         "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gmail",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
         "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
@@ -66,9 +52,16 @@
     ],
     [
       {
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gmail",
+        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DER STANDARD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DER%20STANDARD",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,16 +73,9 @@
     ],
     [
       {
-        "title": "AMS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AMS",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Derstandard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Derstandard",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
+        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "A1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#A1",
         "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Raiffeisenbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Raiffeisenbank",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apotheke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apotheke",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
