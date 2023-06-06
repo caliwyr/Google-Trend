@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 01:57:03",
+  "lastUpdate": "06-06-2023 , 02:54:30",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Matt Rife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Rife",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Dow Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow%20Jones",
         "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
@@ -41,6 +34,13 @@
         "title": "Fidelity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fidelity",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Anna Shay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Shay",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 -0700"
       }
     ],
     [
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Social Security",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20Security",
+        "title": "Social security",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20security",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
       }
     ],
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
+        "title": "Robert Hanssen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Hanssen",
+        "pubdate": "Mon, 05 Jun 2023 14:00:00 -0700"
       }
     ],
     [
@@ -87,9 +87,30 @@
     ],
     [
       {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Microsoft 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20365",
+        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "CNBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CNBC",
         "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kanye West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kanye%20West",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Classroom",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami",
-        "pubdate": "Mon, 05 Jun 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Adobe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adobe",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Mike Pence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Pence",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
+        "title": "President Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#President%20Joe%20Biden",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 -0700"
       }
     ]
   ]

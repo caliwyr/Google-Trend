@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 01:57:03",
+  "lastUpdate": "06-06-2023 , 02:54:31",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "SPÖ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96",
         "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maps",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "ORF.at",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF.at",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "A1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#A1",
         "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Raiffeisenbank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Raiffeisenbank",
+        "title": "Erste Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erste%20Bank",
         "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Apotheke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apotheke",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
+        "title": "Raiffeisenbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Raiffeisenbank",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
       }
     ]
   ]

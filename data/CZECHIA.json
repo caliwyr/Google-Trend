@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 01:57:05",
+  "lastUpdate": "06-06-2023 , 02:54:32",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Zdeněk Svěrák",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20Sv%C4%9Br%C3%A1k",
-        "pubdate": "Sun, 04 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Megan Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megan%20Fox",
         "pubdate": "Sun, 04 Jun 2023 21:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Celta vigo – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celta%20vigo%20%E2%80%93%20Barcelona",
+        "pubdate": "Sun, 04 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Terminator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terminator",
         "pubdate": "Sun, 04 Jun 2023 21:00:00 +0200"
       }
     ]
