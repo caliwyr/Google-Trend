@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-06-2023 , 10:48:55",
+  "lastUpdate": "06-06-2023 , 10:58:22",
   "data": [
+    [
+      {
+        "title": "D-Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#D-Day",
+        "pubdate": "Tue, 06 Jun 2023 03:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Apple Vision Pro",
@@ -12,7 +19,7 @@
       {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maps",
-        "pubdate": "Mon, 05 Jun 2023 05:00:00 -0700"
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "iOS 17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#iOS%2017",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
+        "title": "Jimmy Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Butler",
+        "pubdate": "Mon, 05 Jun 2023 05:00:00 -0700"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "DMV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DMV",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#iOS%2017",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Plane crash Virginia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Plane%20crash%20Virginia",
-        "pubdate": "Mon, 05 Jun 2023 06:00:00 -0700"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mike Pence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Pence",
         "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "S&P 500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#S%26P%20500",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0700"
       }
     ]
   ]
