@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 04:57:30",
+  "lastUpdate": "06-06-2023 , 05:15:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "OTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Apple",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Apple",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kormányablak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyablak",
         "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
@@ -48,13 +48,6 @@
         "title": "Aegon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aegon",
         "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "K&H",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%26H",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,16 +73,23 @@
     ],
     [
       {
-        "title": "Veszprém Szeged",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Veszpr%C3%A9m%20Szeged",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
+        "title": "Eddie Redmayne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eddie%20Redmayne",
+        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eddie Redmayne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eddie%20Redmayne",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
+        "title": "Érettségi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89retts%C3%A9gi",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Veszprém Szeged",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Veszpr%C3%A9m%20Szeged",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Jumanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jumanji",
-        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
+        "title": "Schadl György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schadl%20Gy%C3%B6rgy",
+        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Schadl György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schadl%20Gy%C3%B6rgy",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+        "title": "Jumanji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jumanji",
+        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
       }
     ]
   ]

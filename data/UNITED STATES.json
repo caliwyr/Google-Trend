@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 04:57:23",
+  "lastUpdate": "06-06-2023 , 05:15:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow%20Jones",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Fidelity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fidelity",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Juneteenth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juneteenth",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "iOS 17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#iOS%2017",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
@@ -59,9 +45,9 @@
     ],
     [
       {
-        "title": "Matty Healy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matty%20Healy",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
+        "title": "Juneteenth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juneteenth",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -80,9 +66,9 @@
     ],
     [
       {
-        "title": "Kobe Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
+        "title": "Robert Hanssen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Hanssen",
+        "pubdate": "Mon, 05 Jun 2023 14:00:00 -0700"
       }
     ],
     [
@@ -94,9 +80,16 @@
     ],
     [
       {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drive",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
+        "title": "Kobe Bryant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
+        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Microsoft 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20365",
+        "pubdate": "Mon, 05 Jun 2023 08:00:00 -0700"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "UFO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFO",
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "S&P 500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#S%26P%20500",
         "pubdate": "Mon, 05 Jun 2023 11:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Classroom",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
+        "title": "Mike Pence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Pence",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
       }
     ]
   ]
