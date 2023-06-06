@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 03:58:03",
+  "lastUpdate": "06-06-2023 , 04:18:52",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Apple",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dia Mundial do Ambiente 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Mundial%20do%20Ambiente%202023",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0100"
       }
     ],
     [
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "Aeroporto Madeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aeroporto%20Madeira",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Programa Silvio Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Programa%20Silvio%20Santos",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dia Mundial do Ambiente 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Mundial%20do%20Ambiente%202023",
-        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0100"
       }
     ],
     [
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Dia Mundial do Ambiente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Mundial%20do%20Ambiente",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0100"
+        "title": "Aeroporto Madeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aeroporto%20Madeira",
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Braga Benfica futsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20Benfica%20futsal",
+        "title": "Braga-Benfica futsal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga-Benfica%20futsal",
         "pubdate": "Mon, 05 Jun 2023 23:00:00 +0100"
       }
     ],

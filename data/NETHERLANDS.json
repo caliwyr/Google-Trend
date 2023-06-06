@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 03:58:02",
+  "lastUpdate": "06-06-2023 , 04:18:50",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AI",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marcel en Gijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marcel%20en%20Gijs",
         "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "AFAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AFAS",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
+        "title": "AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AI",
+        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Radio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio",
-        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
+        "title": "Afas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Afas",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -101,8 +94,22 @@
     ],
     [
       {
+        "title": "Radio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "iOS 17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#iOS%2017",
+        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Avondvierdaagse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Avondvierdaagse",
         "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Harry Styles Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harry%20Styles%20Amsterdam",
         "pubdate": "Sun, 04 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jutta Leerdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
-        "pubdate": "Sun, 04 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
