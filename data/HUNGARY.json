@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 02:54:34",
+  "lastUpdate": "06-06-2023 , 03:16:19",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "OTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Idojaras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Idojaras",
-        "pubdate": "Mon, 05 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Veszprém Szeged",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Veszpr%C3%A9m%20Szeged",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eddie Redmayne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eddie%20Redmayne",
         "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
@@ -110,6 +96,13 @@
       {
         "title": "Erste Bank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erste%20Bank",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KSH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KSH",
         "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "MOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOL",
+        "title": "Btk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Btk",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schadl György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schadl%20Gy%C3%B6rgy",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ]
