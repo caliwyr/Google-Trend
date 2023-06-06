@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 05:55:21",
+  "lastUpdate": "06-06-2023 , 06:14:54",
   "data": [
     [
       {
@@ -33,13 +33,6 @@
       {
         "title": "Apple Vision Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Apple%20Vision%20Pro",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Apple",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +0300"
       }
     ],
@@ -48,6 +41,13 @@
         "title": "Explozie bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Explozie%20bucuresti",
         "pubdate": "Mon, 05 Jun 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#iOS%2017",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0300"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Megan Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Megan%20Fox",
         "pubdate": "Mon, 05 Jun 2023 02:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Harry%20Kane",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 +0300"
       }
     ]
   ]
