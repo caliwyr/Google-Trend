@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 23:50:46",
+  "lastUpdate": "05-06-2023 , 23:59:56",
   "data": [
     [
       {
@@ -12,14 +12,7 @@
       {
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
-        "pubdate": "Mon, 05 Jun 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WhatsApp Web",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WhatsApp%20Web",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "title": "DAX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Outlook",
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Apple WWDC 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20WWDC%202023",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+        "title": "Otto Waalkes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Otto%20Waalkes",
+        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Otto Waalkes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Otto%20Waalkes",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+        "title": "WWDC 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WWDC%202023",
+        "pubdate": "Mon, 05 Jun 2023 06:00:00 +0200"
       }
     ],
     [
