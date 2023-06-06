@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 09:49:47",
+  "lastUpdate": "06-06-2023 , 09:59:02",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Commerzbank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Commerzbank",
         "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "Row Zero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Row%20Zero",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Otto Waalkes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Otto%20Waalkes",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "SPÖ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SP%C3%96",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GDL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL",
-        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig",
+        "title": "Ironman Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Hamburg",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Indien Zugunglück",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Indien%20Zugungl%C3%BCck",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ]

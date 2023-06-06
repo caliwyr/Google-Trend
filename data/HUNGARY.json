@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-06-2023 , 09:49:48",
+  "lastUpdate": "06-06-2023 , 09:59:03",
   "data": [
     [
       {
         "title": "Nova Kakhovka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nova%20Kakhovka",
         "pubdate": "Tue, 06 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Varga Csaba hegymászó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Csaba%20hegym%C3%A1sz%C3%B3",
+        "pubdate": "Tue, 06 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Varga Csaba hegymászó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Csaba%20hegym%C3%A1sz%C3%B3",
-        "pubdate": "Tue, 06 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zlatan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zlatan",
         "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Idojaras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Idojaras",
-        "pubdate": "Mon, 05 Jun 2023 07:00:00 +0200"
+        "title": "Eddie Redmayne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eddie%20Redmayne",
+        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Erste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erste",
         "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eddie Redmayne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eddie%20Redmayne",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Barbie-film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barbie-film",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leonardo Dicaprio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leonardo%20Dicaprio",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
