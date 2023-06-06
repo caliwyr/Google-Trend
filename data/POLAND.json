@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "06-06-2023 , 08:53:57",
+  "lastUpdate": "06-06-2023 , 09:09:15",
   "data": [
     [
       {
         "title": "Nowa Kachowka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nowa%20Kachowka",
-        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pantera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pantera",
         "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
       }
     ],
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Pantera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pantera",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alexis Mac Allister",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alexis%20Mac%20Allister",
         "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
@@ -31,9 +31,16 @@
     ],
     [
       {
+        "title": "Rafał Brzoska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafa%C5%82%20Brzoska",
+        "pubdate": "Tue, 06 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Iga Świątek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iga%20%C5%9Awi%C4%85tek",
-        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,23 +122,9 @@
     ],
     [
       {
-        "title": "Konfederacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konfederacja",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Salma Hayek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Salma%20Hayek",
-        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Velvet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Velvet",
-        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zverev",
+        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hanna Śleszyńska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hanna%20%C5%9Aleszy%C5%84ska",
         "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Salma Hayek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Salma%20Hayek",
+        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
