@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-06-2023 , 06:48:08",
+  "lastUpdate": "06-06-2023 , 06:57:35",
   "data": [
     [
       {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Binance",
         "pubdate": "Tue, 06 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mike Pence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Pence",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Casper%20Ruud",
         "pubdate": "Mon, 05 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Etcheverry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Etcheverry",
-        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

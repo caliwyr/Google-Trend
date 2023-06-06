@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-06-2023 , 06:48:17",
+  "lastUpdate": "06-06-2023 , 06:57:40",
   "data": [
+    [
+      {
+        "title": "HSV Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#HSV%20Stuttgart",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Apple",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Ibrahimovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ibrahimovic",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
@@ -38,15 +38,15 @@
     ],
     [
       {
-        "title": "Ziggo Dome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziggo%20Dome",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+        "title": "Ibrahimovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ibrahimovic",
+        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Quincy Promes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
+        "title": "Ziggo Dome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziggo%20Dome",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AI",
+        "title": "Quincy Promes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Afas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Afas",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
+        "title": "AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AI",
+        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Antwerp",
-        "pubdate": "Sun, 04 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sparta Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lewis%20Hamilton",
-        "pubdate": "Sun, 04 Jun 2023 18:00:00 +0200"
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Antwerp",
+        "pubdate": "Sun, 04 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ik Vertrek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ik%20Vertrek",
+        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

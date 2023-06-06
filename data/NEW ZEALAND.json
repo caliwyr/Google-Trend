@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "06-06-2023 , 06:48:17",
+  "lastUpdate": "06-06-2023 , 06:57:40",
   "data": [
     [
       {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Apple",
+        "title": "Apple Vision Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Apple%20Vision%20Pro",
         "pubdate": "Tue, 06 Jun 2023 08:00:00 +1200"
       }
     ],
@@ -27,6 +27,13 @@
         "title": "Michael Wood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Michael%20Wood",
         "pubdate": "Tue, 06 Jun 2023 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Rob Penney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rob%20Penney",
+        "pubdate": "Tue, 06 Jun 2023 12:00:00 +1200"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Kathleen Folbigg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kathleen%20Folbigg",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
+        "title": "YNW Melly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#YNW%20Melly",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
       }
     ],
     [
       {
-        "title": "YNW Melly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#YNW%20Melly",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
+        "title": "Kathleen Folbigg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kathleen%20Folbigg",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ange Postecoglou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ange%20Postecoglou",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Road closures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20closures",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +1200"
       }
     ]
   ]
