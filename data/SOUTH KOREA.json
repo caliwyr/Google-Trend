@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-06-2023 , 22:45:00",
+  "lastUpdate": "07-06-2023 , 22:54:26",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "애플",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%A0%ED%94%8C",
         "pubdate": "Tue, 06 Jun 2023 03:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "빅나티",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B9%85%EB%82%98%ED%8B%B0",
+        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "국민은행",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89",
         "pubdate": "Mon, 05 Jun 2023 16:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "WWDC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#WWDC",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0900"
       }
     ]
   ]
