@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-06-2023 , 13:53:42",
+  "lastUpdate": "07-06-2023 , 14:07:56",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Mariefred",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mariefred",
-        "pubdate": "Tue, 06 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Slottsskogen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Slottsskogen",
         "pubdate": "Tue, 06 Jun 2023 16:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Gustav Vasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustav%20Vasa",
-        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Apple",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sverige 500 år",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20500%20%C3%A5r",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
