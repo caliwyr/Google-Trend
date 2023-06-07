@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "07-06-2023 , 23:41:44",
+  "lastUpdate": "07-06-2023 , 23:51:09",
   "data": [
-    [
-      {
-        "title": "Fronleichnam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fronleichnam",
-        "pubdate": "Wed, 07 Jun 2023 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
         "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
-        "pubdate": "Wed, 07 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Astrud Gilberto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Astrud%20Gilberto",
-        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0200"
+        "title": "Kachowka-Staudamm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kachowka-Staudamm",
+        "pubdate": "Tue, 06 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alcaraz",
         "pubdate": "Tue, 06 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Astrud Gilberto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Astrud%20Gilberto",
+        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturm der Liebe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm%20der%20Liebe",
+        "pubdate": "Mon, 05 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
