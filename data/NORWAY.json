@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-06-2023 , 17:44:20",
+  "lastUpdate": "07-06-2023 , 17:53:37",
   "data": [
     [
       {
-        "title": "Carola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carola",
+        "title": "Carola Häggkvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carola%20H%C3%A4ggkvist",
         "pubdate": "Wed, 07 Jun 2023 10:00:00 +0200"
       }
     ],
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Margot%20Robbie",
-        "pubdate": "Wed, 07 Jun 2023 03:00:00 +0200"
+        "title": "Jude Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jude%20Bellingham",
+        "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hunza G",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hunza%20G",
+        "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -54,13 +61,6 @@
       {
         "title": "Pride Oslo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride%20Oslo",
-        "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jude Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jude%20Bellingham",
         "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
       }
     ],
@@ -90,13 +90,6 @@
         "title": "Astrud Gilberto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrud%20Gilberto",
         "pubdate": "Tue, 06 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverige",
-        "pubdate": "Tue, 06 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Zlatan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zlatan",
         "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Visma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Visma",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
       }
     ]
   ]

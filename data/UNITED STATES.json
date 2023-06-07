@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-06-2023 , 17:44:11",
+  "lastUpdate": "07-06-2023 , 17:53:27",
   "data": [
     [
       {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Messi",
         "pubdate": "Wed, 07 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Iron Sheik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iron%20Sheik",
+        "pubdate": "Wed, 07 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -24,22 +31,15 @@
     ],
     [
       {
-        "title": "Iron Sheik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iron%20Sheik",
-        "pubdate": "Wed, 07 Jun 2023 09:00:00 -0700"
+        "title": "Prince",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prince",
+        "pubdate": "Wed, 07 Jun 2023 10:00:00 -0700"
       }
     ],
     [
       {
-        "title": "James Hewitt Prince Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Hewitt%20Prince%20Harry",
-        "pubdate": "Wed, 07 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LIV%20Golf",
+        "title": "PGA Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PGA%20Tour",
         "pubdate": "Tue, 06 Jun 2023 08:00:00 -0700"
       }
     ],
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Elliot Page",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elliot%20Page",
-        "pubdate": "Tue, 06 Jun 2023 10:00:00 -0700"
+        "title": "Florida Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida%20Panthers",
+        "pubdate": "Tue, 06 Jun 2023 05:00:00 -0700"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Elly De La Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elly%20De%20La%20Cruz",
         "pubdate": "Tue, 06 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nova Kakhovka dam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nova%20Kakhovka%20dam",
-        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cuba Gooding Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cuba%20Gooding%20Jr",
         "pubdate": "Tue, 06 Jun 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
+        "pubdate": "Tue, 06 Jun 2023 11:00:00 -0700"
       }
     ]
   ]
