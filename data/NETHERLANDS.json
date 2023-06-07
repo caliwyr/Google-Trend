@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-06-2023 , 11:50:54",
+  "lastUpdate": "07-06-2023 , 12:00:27",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alcaraz",
-        "pubdate": "Tue, 06 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joran van der Sloot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joran%20van%20der%20Sloot",
         "pubdate": "Tue, 06 Jun 2023 09:00:00 +0200"
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alcaraz",
         "pubdate": "Tue, 06 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "Apple Vision Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple%20Vision%20Pro",
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Eloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eloise",
+        "pubdate": "Mon, 05 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AI",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Avondvierdaagse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Avondvierdaagse",
+        "pubdate": "Mon, 05 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Intents Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Intents%20Festival",
         "pubdate": "Fri, 02 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pride",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
