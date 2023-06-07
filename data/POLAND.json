@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-06-2023 , 20:43:50",
+  "lastUpdate": "07-06-2023 , 20:53:22",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Barca",
-        "pubdate": "Wed, 07 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Poland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Poland",
         "pubdate": "Wed, 07 Jun 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Blizzard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blizzard",
         "pubdate": "Wed, 07 Jun 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Minecraft 1.20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Minecraft%201.20",
+        "pubdate": "Wed, 07 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
