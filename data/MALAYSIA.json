@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-06-2023 , 17:46:09",
+  "lastUpdate": "08-06-2023 , 17:55:32",
   "data": [
+    [
+      {
+        "title": "SAPS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SAPS",
+        "pubdate": "Thu, 08 Jun 2023 11:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "UPU",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Machine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Machine",
-        "pubdate": "Thu, 08 Jun 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Mara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mara",
         "pubdate": "Thu, 08 Jun 2023 21:00:00 +0800"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Congratulations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Congratulations",
-        "pubdate": "Thu, 08 Jun 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Declan Rice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Declan%20Rice",
         "pubdate": "Thu, 08 Jun 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "8 June",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#8%20June",
-        "pubdate": "Thu, 08 Jun 2023 11:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#NBA",
         "pubdate": "Wed, 07 Jun 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "SPM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SPM",
+        "pubdate": "Wed, 07 Jun 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Transformers: Rise of the Beasts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Transformers:%20Rise%20of%20the%20Beasts",
+        "pubdate": "Wed, 07 Jun 2023 21:00:00 +0800"
       }
     ]
   ]
