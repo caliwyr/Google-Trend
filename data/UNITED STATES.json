@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-06-2023 , 05:40:25",
+  "lastUpdate": "08-06-2023 , 05:49:41",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
-        "pubdate": "Wed, 07 Jun 2023 19:00:00 -0700"
+        "title": "Nuggets vs Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets%20vs%20Heat",
+        "pubdate": "Wed, 07 Jun 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Iron Sheik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iron%20Sheik",
+        "pubdate": "Wed, 07 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Travis Rudolph",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Travis%20Rudolph",
-        "pubdate": "Wed, 07 Jun 2023 19:00:00 -0700"
+        "title": "Jay Johnston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jay%20Johnston",
+        "pubdate": "Wed, 07 Jun 2023 17:00:00 -0700"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Jay Johnston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jay%20Johnston",
-        "pubdate": "Wed, 07 Jun 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Shannen Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shannen%20Doherty",
-        "pubdate": "Wed, 07 Jun 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Christian Braun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christian%20Braun",
         "pubdate": "Wed, 07 Jun 2023 20:00:00 -0700"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "The Iron Sheik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Iron%20Sheik",
-        "pubdate": "Wed, 07 Jun 2023 11:00:00 -0700"
+        "title": "Avatar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Avatar",
+        "pubdate": "Wed, 07 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Avatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Avatar",
+        "title": "Azealia Banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Azealia%20Banks",
         "pubdate": "Wed, 07 Jun 2023 18:00:00 -0700"
       }
     ],
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Doug Burgum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doug%20Burgum",
-        "pubdate": "Wed, 07 Jun 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kilauea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kilauea",
-        "pubdate": "Wed, 07 Jun 2023 19:00:00 -0700"
+        "title": "Mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico",
+        "pubdate": "Wed, 07 Jun 2023 22:00:00 -0700"
       }
     ],
     [
@@ -136,8 +122,22 @@
     ],
     [
       {
-        "title": "Air quality Philadelphia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Air%20quality%20Philadelphia",
+        "title": "Kilauea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kilauea",
+        "pubdate": "Wed, 07 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Doug Burgum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doug%20Burgum",
+        "pubdate": "Wed, 07 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jude Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jude%20Bellingham",
         "pubdate": "Wed, 07 Jun 2023 20:00:00 -0700"
       }
     ]
