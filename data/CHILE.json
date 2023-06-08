@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-06-2023 , 13:49:07",
+  "lastUpdate": "08-06-2023 , 13:58:25",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Temblor hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+        "pubdate": "Wed, 07 Jun 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Till Lindemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Till%20Lindemann",
         "pubdate": "Wed, 07 Jun 2023 21:00:00 -0400"
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Javier Macaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Javier%20Macaya",
+        "pubdate": "Wed, 07 Jun 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Terremoto haití",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto%20hait%C3%AD",
         "pubdate": "Wed, 07 Jun 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Magallanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
+        "pubdate": "Wed, 07 Jun 2023 00:00:00 -0400"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Consejo Constitucional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Consejo%20Constitucional",
         "pubdate": "Wed, 07 Jun 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Kante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kante",
-        "pubdate": "Wed, 07 Jun 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Avatar 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Avatar%202",
-        "pubdate": "Wed, 07 Jun 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sunset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sunset",
-        "pubdate": "Wed, 07 Jun 2023 00:00:00 -0400"
       }
     ]
   ]
