@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-06-2023 , 00:32:38",
+  "lastUpdate": "08-06-2023 , 02:14:09",
   "data": [
+    [
+      {
+        "title": "New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#New%20York",
+        "pubdate": "Thu, 08 Jun 2023 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Swiatek",
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Yael Braun-Pivet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yael%20Braun-Pivet",
-        "pubdate": "Wed, 07 Jun 2023 14:00:00 +0200"
+        "title": "Shannen Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Shannen%20Doherty",
+        "pubdate": "Wed, 07 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Shannen Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Shannen%20Doherty",
-        "pubdate": "Wed, 07 Jun 2023 17:00:00 +0200"
+        "title": "Yael Braun-Pivet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yael%20Braun-Pivet",
+        "pubdate": "Wed, 07 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -115,23 +122,9 @@
     ],
     [
       {
-        "title": "Prince Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prince%20Harry",
-        "pubdate": "Wed, 07 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Transformers : Rise of the Beasts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Transformers%20:%20Rise%20of%20the%20Beasts",
-        "pubdate": "Wed, 07 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maud Fontenoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maud%20Fontenoy",
-        "pubdate": "Wed, 07 Jun 2023 20:00:00 +0200"
+        "title": "Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ruud",
+        "pubdate": "Wed, 07 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Twisten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Twisten",
         "pubdate": "Wed, 07 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prince Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prince%20Harry",
+        "pubdate": "Wed, 07 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
