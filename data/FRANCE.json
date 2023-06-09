@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "09-06-2023 , 19:38:00",
+  "lastUpdate": "09-06-2023 , 19:47:31",
   "data": [
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic",
         "pubdate": "Fri, 09 Jun 2023 08:00:00 +0200"
       }
     ],
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Info",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Info",
+        "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alain Touraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Touraine",
         "pubdate": "Fri, 09 Jun 2023 12:00:00 +0200"
@@ -48,6 +55,13 @@
         "title": "Anne Hidalgo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
         "pubdate": "Fri, 09 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christine and the Queens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20and%20the%20Queens",
+        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Kamel Daoud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamel%20Daoud",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Denis Kessler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Denis%20Kessler",
         "pubdate": "Fri, 09 Jun 2023 15:00:00 +0200"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Christine and the Queens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20and%20the%20Queens",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0200"
+        "title": "Kamel Daoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamel%20Daoud",
+        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,20 @@
     ],
     [
       {
+        "title": "Arthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur",
+        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#MotoGP",
+        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mathieu madenian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mathieu%20madenian",
         "pubdate": "Fri, 09 Jun 2023 10:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Lies of P",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lies%20of%20P",
         "pubdate": "Fri, 09 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patricia Kaas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patricia%20Kaas",
-        "pubdate": "Fri, 09 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernard Arnault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20Arnault",
-        "pubdate": "Fri, 09 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bryan Cranston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bryan%20Cranston",
-        "pubdate": "Fri, 09 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
