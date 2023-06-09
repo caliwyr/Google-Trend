@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-06-2023 , 15:43:55",
+  "lastUpdate": "09-06-2023 , 15:53:16",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Prime Video",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Prime%20Video",
         "pubdate": "Fri, 09 Jun 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haddad Maia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Haddad%20Maia",
+        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
       }
     ],
     [
@@ -59,6 +66,20 @@
     ],
     [
       {
+        "title": "Dia de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20de%20Portugal",
+        "pubdate": "Fri, 09 Jun 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mundial Sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mundial%20Sub-20",
+        "pubdate": "Fri, 09 Jun 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lies of P",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lies%20of%20P",
         "pubdate": "Fri, 09 Jun 2023 02:00:00 +0100"
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Fç Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F%C3%A7%20Porto",
+        "pubdate": "Fri, 09 Jun 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Johnny%20Depp",
         "pubdate": "Fri, 09 Jun 2023 01:00:00 +0100"
@@ -94,9 +122,9 @@
     ],
     [
       {
-        "title": "Peso da regua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peso%20da%20regua",
-        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
+        "title": "Tiago tomas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiago%20tomas",
+        "pubdate": "Fri, 09 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#China",
         "pubdate": "Fri, 09 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tiago tomas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiago%20tomas",
-        "pubdate": "Fri, 09 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fç Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F%C3%A7%20Porto",
-        "pubdate": "Fri, 09 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UHF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UHF",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kanye West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kanye%20West",
-        "pubdate": "Fri, 09 Jun 2023 12:00:00 +0100"
       }
     ]
   ]
