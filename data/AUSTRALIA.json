@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-06-2023 , 03:46:42",
+  "lastUpdate": "09-06-2023 , 03:56:02",
   "data": [
     [
       {
         "title": "AFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL",
         "pubdate": "Fri, 09 Jun 2023 05:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
+        "pubdate": "Fri, 09 Jun 2023 12:00:00 +1000"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Lisa Wilkinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lisa%20Wilkinson",
-        "pubdate": "Fri, 09 Jun 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "David Koch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Koch",
         "pubdate": "Fri, 09 Jun 2023 09:00:00 +1000"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Jenna Ortega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jenna%20Ortega",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +1000"
+        "title": "Lisa Wilkinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lisa%20Wilkinson",
+        "pubdate": "Fri, 09 Jun 2023 07:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
-        "pubdate": "Fri, 09 Jun 2023 12:00:00 +1000"
+        "title": "Jenna Ortega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jenna%20Ortega",
+        "pubdate": "Fri, 09 Jun 2023 09:00:00 +1000"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lady%20Gaga",
-        "pubdate": "Fri, 09 Jun 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Dani Dyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dani%20Dyer",
         "pubdate": "Fri, 09 Jun 2023 07:00:00 +1000"
@@ -90,6 +83,13 @@
         "title": "Based on a True Story",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Based%20on%20a%20True%20Story",
         "pubdate": "Fri, 09 Jun 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lady%20Gaga",
+        "pubdate": "Fri, 09 Jun 2023 00:00:00 +1000"
       }
     ],
     [
