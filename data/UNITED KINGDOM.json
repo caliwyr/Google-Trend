@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-06-2023 , 11:43:47",
+  "lastUpdate": "09-06-2023 , 11:53:00",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Shark attack Egypt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Shark%20attack%20Egypt",
+        "pubdate": "Fri, 09 Jun 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sam Fender",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sam%20Fender",
         "pubdate": "Fri, 09 Jun 2023 11:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Pat Robertson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pat%20Robertson",
         "pubdate": "Thu, 08 Jun 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Craig Doyle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Craig%20Doyle",
-        "pubdate": "Thu, 08 Jun 2023 12:00:00 +0100"
       }
     ]
   ]
