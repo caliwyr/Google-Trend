@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "09-06-2023 , 00:49:03",
+  "lastUpdate": "09-06-2023 , 02:19:06",
   "data": [
-    [
-      {
-        "title": "Joost Prinsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Prinsen",
-        "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eloise van Oranje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eloise%20van%20Oranje",
-        "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gijs Groenteman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gijs%20Groenteman",
         "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -38,16 +24,16 @@
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Thu, 08 Jun 2023 19:00:00 +0200"
+        "title": "Summer Game fest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Summer%20Game%20fest",
+        "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
-        "pubdate": "Thu, 08 Jun 2023 17:00:00 +0200"
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Thu, 08 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,16 +45,23 @@
     ],
     [
       {
-        "title": "ZLM Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ZLM%20Tour",
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
         "pubdate": "Thu, 08 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
-        "pubdate": "Thu, 08 Jun 2023 00:00:00 +0200"
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Swiatek",
+        "pubdate": "Thu, 08 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZLM Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ZLM%20Tour",
+        "pubdate": "Thu, 08 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Haddad Maia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haddad%20Maia",
-        "pubdate": "Wed, 07 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Volvo EX30",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volvo%20EX30",
         "pubdate": "Wed, 07 Jun 2023 14:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
         "pubdate": "Tue, 06 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cherson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cherson",
+        "pubdate": "Tue, 06 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
+        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0200"
       }
     ]
   ]

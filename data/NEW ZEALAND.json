@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "09-06-2023 , 00:49:04",
+  "lastUpdate": "09-06-2023 , 02:19:06",
   "data": [
     [
       {
         "title": "Never Have I Ever",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Never%20Have%20I%20Ever",
         "pubdate": "Fri, 09 Jun 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-        "pubdate": "Fri, 09 Jun 2023 01:00:00 +1200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Fri, 09 Jun 2023 01:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Prime drink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Prime%20drink",
         "pubdate": "Fri, 09 Jun 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Niall Horan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Niall%20Horan",
+        "pubdate": "Fri, 09 Jun 2023 12:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "IND vs AUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20AUS",
         "pubdate": "Wed, 07 Jun 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LIV%20Golf",
-        "pubdate": "Wed, 07 Jun 2023 12:00:00 +1200"
       }
     ]
   ]
