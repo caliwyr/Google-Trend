@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-06-2023 , 20:44:18",
+  "lastUpdate": "10-06-2023 , 20:53:42",
   "data": [
     [
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
         "pubdate": "Sat, 10 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haaland",
+        "pubdate": "Sat, 10 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -17,37 +24,16 @@
     ],
     [
       {
-        "title": "NBA-Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NBA-Finals",
-        "pubdate": "Sat, 10 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Batayeh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Batayeh",
-        "pubdate": "Sat, 10 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bol d'Or",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bol%20d'Or",
-        "pubdate": "Sat, 10 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ozzy Osbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ozzy%20Osbourne",
-        "pubdate": "Sat, 10 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Akanji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akanji",
         "pubdate": "Sat, 10 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NBA-Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NBA-Finals",
+        "pubdate": "Sat, 10 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
-        "title": "Unabomber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unabomber",
+        "title": "Mike Batayeh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Batayeh",
+        "pubdate": "Sat, 10 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ted Kaczynski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ted%20Kaczynski",
         "pubdate": "Sat, 10 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ozzy Osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ozzy%20Osbourne",
+        "pubdate": "Sat, 10 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Jan Böhmermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jan%20B%C3%B6hmermann",
-        "pubdate": "Sat, 10 Jun 2023 19:00:00 +0200"
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna",
+        "pubdate": "Sat, 10 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna",
-        "pubdate": "Sat, 10 Jun 2023 17:00:00 +0200"
+        "title": "Jan Böhmermann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jan%20B%C3%B6hmermann",
+        "pubdate": "Sat, 10 Jun 2023 19:00:00 +0200"
       }
     ],
     [
