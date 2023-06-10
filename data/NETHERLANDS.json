@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2023 , 14:43:33",
+  "lastUpdate": "10-06-2023 , 14:52:53",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "24 uur Le Mans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#24%20uur%20Le%20Mans",
+        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Best-Kept-Secret 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Best-Kept-Secret%202023",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "Henk Westbroek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Westbroek",
         "pubdate": "Fri, 09 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "24 uur Le Mans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#24%20uur%20Le%20Mans",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Muchova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Muchova",
         "pubdate": "Thu, 08 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Swiatek",
+        "pubdate": "Thu, 08 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UWV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UWV",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
