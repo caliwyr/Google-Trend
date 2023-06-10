@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-06-2023 , 09:40:35",
+  "lastUpdate": "10-06-2023 , 09:49:51",
   "data": [
-    [
-      {
-        "title": "Omroep West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20West",
-        "pubdate": "Sat, 10 Jun 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Trump",
@@ -31,30 +24,16 @@
     ],
     [
       {
-        "title": "Champions League-finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League-finale",
-        "pubdate": "Fri, 09 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Best Kept Secret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Best%20Kept%20Secret",
-        "pubdate": "Fri, 09 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joost Prinsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Prinsen",
-        "pubdate": "Fri, 09 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Best-Kept-Secret 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Best-Kept-Secret%202023",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Henk Westbroek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Westbroek",
+        "pubdate": "Fri, 09 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
         "pubdate": "Tue, 06 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
+        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UWV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UWV",
+        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Mon, 05 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
