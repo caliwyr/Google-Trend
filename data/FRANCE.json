@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2023 , 05:42:41",
+  "lastUpdate": "10-06-2023 , 05:51:52",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Incendie Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Incendie%20Paris",
+        "pubdate": "Fri, 09 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anne Hidalgo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
         "pubdate": "Fri, 09 Jun 2023 18:00:00 +0200"
@@ -41,13 +48,6 @@
         "title": "Alain Touraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Touraine",
         "pubdate": "Fri, 09 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Incendie Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Incendie%20Paris",
-        "pubdate": "Fri, 09 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Kamel Daoud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamel%20Daoud",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rafael%20Nadal",
         "pubdate": "Fri, 09 Jun 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#MotoGP",
         "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rugby",
+        "pubdate": "Fri, 09 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
