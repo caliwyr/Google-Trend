@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-06-2023 , 12:31:38",
+  "lastUpdate": "10-06-2023 , 12:50:50",
   "data": [
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
+        "pubdate": "Sat, 10 Jun 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Emma Smetana",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Bohemians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians",
-        "pubdate": "Sat, 10 Jun 2023 09:00:00 +0200"
+        "title": "Andrej Babiš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrej%20Babi%C5%A1",
+        "pubdate": "Sat, 10 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -24,8 +31,22 @@
     ],
     [
       {
-        "title": "Andrej Babiš",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrej%20Babi%C5%A1",
+        "title": "Bohemians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians",
+        "pubdate": "Sat, 10 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Požár Ždánice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20%C5%BDd%C3%A1nice",
+        "pubdate": "Sat, 10 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "L'Etape",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#L'Etape",
         "pubdate": "Sat, 10 Jun 2023 13:00:00 +0200"
       }
     ],
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Ždánice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%BDd%C3%A1nice",
-        "pubdate": "Fri, 09 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lidice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lidice",
         "pubdate": "Fri, 09 Jun 2023 11:00:00 +0200"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Path of Exile 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Path%20of%20Exile%202",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Russell Crowe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Russell%20Crowe",
         "pubdate": "Fri, 09 Jun 2023 23:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Path of Exile 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Path%20of%20Exile%202",
+        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marecku podejte mi pero!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marecku%20podejte%20mi%20pero!",
         "pubdate": "Fri, 09 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leni Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leni%20Klum",
-        "pubdate": "Fri, 09 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pat Robertson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pat%20Robertson",
-        "pubdate": "Fri, 09 Jun 2023 07:00:00 +0200"
       }
     ]
   ]
