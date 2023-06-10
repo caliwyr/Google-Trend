@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2023 , 03:44:13",
+  "lastUpdate": "10-06-2023 , 03:53:28",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Champions League final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Champions%20League%20final",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Champions%20League",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 -0400"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Carrie Underwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carrie%20Underwood",
+        "pubdate": "Fri, 09 Jun 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Taurine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taurine",
         "pubdate": "Fri, 09 Jun 2023 05:00:00 -0400"
@@ -90,13 +97,6 @@
         "title": "Nickmercs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nickmercs",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Carrie Underwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carrie%20Underwood",
-        "pubdate": "Fri, 09 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Calgary Stampeders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Stampeders",
-        "pubdate": "Fri, 09 Jun 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Boris Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boris%20Johnson",
         "pubdate": "Fri, 09 Jun 2023 20:00:00 -0400"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Never Have I Ever cast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Never%20Have%20I%20Ever%20cast",
-        "pubdate": "Fri, 09 Jun 2023 03:00:00 -0400"
+        "title": "Calgary Stampeders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Stampeders",
+        "pubdate": "Fri, 09 Jun 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Twins vs Blue Jays",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Twins%20vs%20Blue%20Jays",
+        "pubdate": "Fri, 09 Jun 2023 22:00:00 -0400"
       }
     ]
   ]
