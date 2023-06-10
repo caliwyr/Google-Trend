@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-06-2023 , 19:46:54",
+  "lastUpdate": "10-06-2023 , 19:56:22",
   "data": [
+    [
+      {
+        "title": "Scones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scones",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Chiefs vs Reds",
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
-        "pubdate": "Fri, 09 Jun 2023 17:00:00 +1200"
+        "title": "Spark Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spark%20Sport",
+        "pubdate": "Fri, 09 Jun 2023 11:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Spark Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spark%20Sport",
-        "pubdate": "Fri, 09 Jun 2023 11:00:00 +1200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
+        "pubdate": "Fri, 09 Jun 2023 17:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NHL",
         "pubdate": "Fri, 09 Jun 2023 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +1200"
       }
     ]
   ]
