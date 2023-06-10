@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-06-2023 , 13:39:06",
+  "lastUpdate": "10-06-2023 , 13:48:30",
   "data": [
+    [
+      {
+        "title": "Jimmy Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Butler",
+        "pubdate": "Sat, 10 Jun 2023 09:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Garth Brooks Bud Light",
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Carrie Underwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carrie%20Underwood",
-        "pubdate": "Fri, 09 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Damon Severson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damon%20Severson",
         "pubdate": "Fri, 09 Jun 2023 11:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Jack Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jack%20Smith",
-        "pubdate": "Fri, 09 Jun 2023 16:00:00 -0400"
+        "title": "Boris Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boris%20Johnson",
+        "pubdate": "Fri, 09 Jun 2023 20:00:00 -0400"
       }
     ]
   ]
