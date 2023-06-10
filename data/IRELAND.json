@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "09-06-2023 , 23:59:51",
+  "lastUpdate": "10-06-2023 , 01:47:05",
   "data": [
+    [
+      {
+        "title": "Fox news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fox%20news",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tyson%20Fury",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "SEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#SEC",
         "pubdate": "Sat, 10 Jun 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stryker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stryker",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
       }
     ],
     [
@@ -17,16 +38,16 @@
     ],
     [
       {
-        "title": "Willi Ninja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Willi%20Ninja",
-        "pubdate": "Fri, 09 Jun 2023 04:00:00 +0100"
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Styles",
+        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Styles",
-        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
+        "title": "Willi Ninja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Willi%20Ninja",
+        "pubdate": "Fri, 09 Jun 2023 04:00:00 +0100"
       }
     ],
     [
@@ -52,6 +73,13 @@
     ],
     [
       {
+        "title": "Maths Paper 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Maths%20Paper%201",
+        "pubdate": "Fri, 09 Jun 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kelis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kelis",
         "pubdate": "Fri, 09 Jun 2023 10:00:00 +0100"
@@ -66,8 +94,8 @@
     ],
     [
       {
-        "title": "The Hustle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Hustle",
+        "title": "The hustle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20hustle",
         "pubdate": "Fri, 09 Jun 2023 22:00:00 +0100"
       }
     ],
@@ -83,13 +111,6 @@
         "title": "Dursey Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dursey%20Island",
         "pubdate": "Fri, 09 Jun 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wu-Tang Clan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wu-Tang%20Clan",
-        "pubdate": "Fri, 09 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Harry Maguire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Maguire",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cristiano%20Ronaldo",
-        "pubdate": "Fri, 09 Jun 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Diamond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Anne%20Diamond",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Casper Ruud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Casper%20Ruud",
         "pubdate": "Fri, 09 Jun 2023 21:00:00 +0100"
       }
     ]
