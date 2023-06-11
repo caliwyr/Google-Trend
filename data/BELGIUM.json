@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-06-2023 , 07:48:17",
+  "lastUpdate": "11-06-2023 , 07:57:31",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Foot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foot",
-        "pubdate": "Sun, 11 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fran Drescher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fran%20Drescher",
         "pubdate": "Sun, 11 Jun 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Climatiseur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Climatiseur",
-        "pubdate": "Sun, 11 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,13 +45,6 @@
     ],
     [
       {
-        "title": "Col de la Croix de Fer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Col%20de%20la%20Croix%20de%20Fer",
-        "pubdate": "Sun, 11 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tom pintens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20pintens",
         "pubdate": "Sat, 10 Jun 2023 11:00:00 +0200"
@@ -87,6 +66,13 @@
     ],
     [
       {
+        "title": "Le Mans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Mans",
+        "pubdate": "Sat, 10 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA",
         "pubdate": "Sat, 10 Jun 2023 18:00:00 +0200"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Le Mans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Mans",
-        "pubdate": "Sat, 10 Jun 2023 17:00:00 +0200"
+        "title": "Ronde van Zwitserland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Zwitserland",
+        "pubdate": "Sat, 10 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -111,13 +97,6 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Champions%20League",
         "pubdate": "Sat, 10 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronde van Zwitserland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Zwitserland",
-        "pubdate": "Sat, 10 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Champions League LIVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League%20LIVE",
         "pubdate": "Sat, 10 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VTM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM",
+        "pubdate": "Sat, 10 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mike Batayeh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Batayeh",
+        "pubdate": "Sat, 10 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voetbal",
+        "pubdate": "Sat, 10 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
