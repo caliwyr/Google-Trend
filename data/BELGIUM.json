@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-06-2023 , 12:58:44",
+  "lastUpdate": "12-06-2023 , 13:21:59",
   "data": [
     [
       {
         "title": "Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ronde van Zwitserland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Zwitserland",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Pinkpop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pinkpop",
+        "pubdate": "Mon, 12 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC",
         "pubdate": "Sun, 11 Jun 2023 10:00:00 +0200"
@@ -48,6 +62,13 @@
         "title": "Yannick Noah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yannick%20Noah",
         "pubdate": "Sun, 11 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fête des pères",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F%C3%AAte%20des%20p%C3%A8res",
+        "pubdate": "Sun, 11 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,23 +94,16 @@
     ],
     [
       {
-        "title": "UFC 289",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC%20289",
-        "pubdate": "Sun, 11 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Russie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Russie",
-        "pubdate": "Sun, 11 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Starfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Starfield",
         "pubdate": "Sun, 11 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC 289",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC%20289",
+        "pubdate": "Sun, 11 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Climatiseur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Climatiseur",
         "pubdate": "Sun, 11 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Silverado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Silverado",
-        "pubdate": "Sun, 11 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Katerine Avgoustakis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Katerine%20Avgoustakis",
-        "pubdate": "Sun, 11 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
