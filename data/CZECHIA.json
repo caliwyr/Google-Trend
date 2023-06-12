@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-06-2023 , 09:54:05",
+  "lastUpdate": "12-06-2023 , 10:10:23",
   "data": [
+    [
+      {
+        "title": "Berlusconi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Berlusconi",
+        "pubdate": "Mon, 12 Jun 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Star Wars Outlaws",
@@ -33,13 +40,6 @@
       {
         "title": "Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nadal",
-        "pubdate": "Sun, 11 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Duch",
         "pubdate": "Sun, 11 Jun 2023 21:00:00 +0200"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Liga mistrů",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
-        "pubdate": "Sat, 10 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Muchova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Muchova",
         "pubdate": "Sat, 10 Jun 2023 10:00:00 +0200"
@@ -111,6 +104,13 @@
         "title": "Man city – inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20city%20%E2%80%93%20inter",
         "pubdate": "Sat, 10 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liga mistrů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
+        "pubdate": "Sat, 10 Jun 2023 11:00:00 +0200"
       }
     ],
     [
