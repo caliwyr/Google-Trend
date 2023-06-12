@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-06-2023 , 18:55:41",
+  "lastUpdate": "12-06-2023 , 19:09:15",
   "data": [
     [
       {
         "title": "Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Reddit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Reddit",
+        "pubdate": "Mon, 12 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "George Soros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#George%20Soros",
         "pubdate": "Mon, 12 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nicola Sturgeon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nicola%20Sturgeon",
-        "pubdate": "Mon, 12 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Sparta Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Twente",
-        "pubdate": "Sun, 11 Jun 2023 15:00:00 +0200"
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Starfield",
+        "pubdate": "Sun, 11 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Starfield",
-        "pubdate": "Sun, 11 Jun 2023 23:00:00 +0200"
+        "title": "Sparta Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Twente",
+        "pubdate": "Sun, 11 Jun 2023 15:00:00 +0200"
       }
     ],
     [
