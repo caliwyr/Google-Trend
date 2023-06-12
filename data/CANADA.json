@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 19:55:37",
+  "lastUpdate": "12-06-2023 , 20:12:16",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Severe thunderstorm watch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20thunderstorm%20watch",
+        "pubdate": "Mon, 12 Jun 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "George Soros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#George%20Soros",
         "pubdate": "Mon, 12 Jun 2023 02:00:00 -0400"
@@ -41,6 +48,13 @@
         "title": "Sue Bird",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sue%20Bird",
         "pubdate": "Mon, 12 Jun 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Huska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ryan%20Huska",
+        "pubdate": "Mon, 12 Jun 2023 15:00:00 -0400"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Jodie Comer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jodie%20Comer",
         "pubdate": "Mon, 12 Jun 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "U.S. Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#U.S.%20Open",
+        "pubdate": "Mon, 12 Jun 2023 15:00:00 -0400"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "I-95 collapse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#I-95%20collapse",
         "pubdate": "Sun, 11 Jun 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Xbox Showcase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Xbox%20Showcase",
-        "pubdate": "Sun, 11 Jun 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Italian Day Vancouver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Italian%20Day%20Vancouver",
-        "pubdate": "Sun, 11 Jun 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Nicola Sturgeon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nicola%20Sturgeon",
-        "pubdate": "Sun, 11 Jun 2023 13:00:00 -0400"
       }
     ]
   ]
