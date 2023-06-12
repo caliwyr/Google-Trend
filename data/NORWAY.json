@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 01:56:25",
+  "lastUpdate": "12-06-2023 , 02:52:49",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Motley crue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Motley%20crue",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sun, 11 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trondheim Rocks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trondheim%20Rocks",
         "pubdate": "Sun, 11 Jun 2023 15:00:00 +0200"
       }
     ],
@@ -55,6 +62,13 @@
         "title": "Eurosport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurosport",
         "pubdate": "Sun, 11 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann i Oslo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20i%20Oslo",
+        "pubdate": "Sun, 11 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Unabomber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Unabomber",
-        "pubdate": "Sat, 10 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Istanbul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Istanbul",
         "pubdate": "Sat, 10 Jun 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Gladiator 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gladiator%202",
         "pubdate": "Sat, 10 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NBA",
-        "pubdate": "Sat, 10 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
