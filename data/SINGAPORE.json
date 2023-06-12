@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 05:47:08",
+  "lastUpdate": "12-06-2023 , 05:56:27",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Starfield",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Singapore Presidential Election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Presidential%20Election",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Soccer Aid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Soccer%20Aid",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +0800"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "CPF Life",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPF%20Life",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Conor%20McGregor",
         "pubdate": "Sun, 11 Jun 2023 20:00:00 +0800"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MotoGP",
-        "pubdate": "Sun, 11 Jun 2023 10:00:00 +0800"
+        "title": "Charles Oliveira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Charles%20Oliveira",
+        "pubdate": "Sun, 11 Jun 2023 19:00:00 +0800"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA",
-        "pubdate": "Sat, 10 Jun 2023 13:00:00 +0800"
+        "title": "Coldplay Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coldplay%20Singapore",
+        "pubdate": "Sat, 10 Jun 2023 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Coldplay Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coldplay%20Singapore",
-        "pubdate": "Sat, 10 Jun 2023 18:00:00 +0800"
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA",
+        "pubdate": "Sat, 10 Jun 2023 13:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Crypto news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Crypto%20news",
         "pubdate": "Sat, 10 Jun 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
-        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0800"
       }
     ]
   ]
