@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 06:50:10",
+  "lastUpdate": "12-06-2023 , 06:59:35",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Iga świątek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iga%20%C5%9Bwi%C4%85tek",
-        "pubdate": "Sun, 11 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Star Wars Outlaws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars%20Outlaws",
         "pubdate": "Sun, 11 Jun 2023 22:00:00 +0200"
@@ -117,6 +110,13 @@
       {
         "title": "Iga Swiatek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iga%20Swiatek",
+        "pubdate": "Sat, 10 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
         "pubdate": "Sat, 10 Jun 2023 21:00:00 +0200"
       }
     ],
