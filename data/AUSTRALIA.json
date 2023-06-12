@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-06-2023 , 07:45:36",
+  "lastUpdate": "12-06-2023 , 07:54:58",
   "data": [
     [
       {
         "title": "Hunter Valley bus crash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hunter%20Valley%20bus%20crash",
         "pubdate": "Mon, 12 Jun 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne vs Collingwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20vs%20Collingwood",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +1000"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Iga Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iga%20Swiatek",
-        "pubdate": "Mon, 12 Jun 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Nicola Sturgeon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nicola%20Sturgeon",
         "pubdate": "Mon, 12 Jun 2023 05:00:00 +1000"
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iga%20Swiatek",
+        "pubdate": "Mon, 12 Jun 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "King Charles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King%20Charles",
         "pubdate": "Mon, 12 Jun 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "MND",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MND",
+        "pubdate": "Mon, 12 Jun 2023 15:00:00 +1000"
       }
     ],
     [
@@ -55,20 +69,6 @@
         "title": "Adam Lambert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Lambert",
         "pubdate": "Mon, 12 Jun 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "MND",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MND",
-        "pubdate": "Mon, 12 Jun 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Melbourne vs Collingwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20vs%20Collingwood",
-        "pubdate": "Mon, 12 Jun 2023 16:00:00 +1000"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Bulldogs vs Eels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs%20vs%20Eels",
-        "pubdate": "Mon, 12 Jun 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Marlon Wayans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marlon%20Wayans",
         "pubdate": "Mon, 12 Jun 2023 14:00:00 +1000"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Kate Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kate%20Middleton",
-        "pubdate": "Mon, 12 Jun 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Motor neurone disease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Motor%20neurone%20disease",
         "pubdate": "Mon, 12 Jun 2023 16:00:00 +1000"
@@ -139,6 +125,20 @@
         "title": "Fable",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fable",
         "pubdate": "Mon, 12 Jun 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NSW Blues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NSW%20Blues",
+        "pubdate": "Mon, 12 Jun 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "12 June public holiday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#12%20June%20public%20holiday",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +1000"
       }
     ]
   ]
