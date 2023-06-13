@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 23:10:03",
+  "lastUpdate": "13-06-2023 , 23:21:01",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "羽田空港",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF",
-        "pubdate": "Sat, 10 Jun 2023 21:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "きさらぎ駅",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%8D%E3%81%95%E3%82%89%E3%81%8E%E9%A7%85",
         "pubdate": "Sat, 10 Jun 2023 11:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "奈良県大和高田市事故",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A4%A7%E5%92%8C%E9%AB%98%E7%94%B0%E5%B8%82%E4%BA%8B%E6%95%85",
         "pubdate": "Fri, 09 Jun 2023 19:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "ミーガン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9F%E3%83%BC%E3%82%AC%E3%83%B3",
+        "pubdate": "Fri, 09 Jun 2023 23:00:00 +0900"
       }
     ]
   ]
