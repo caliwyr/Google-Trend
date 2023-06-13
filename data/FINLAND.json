@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 21:47:42",
+  "lastUpdate": "13-06-2023 , 21:56:52",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Arnolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnolds",
+        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Silvio Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Silvio%20Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 12:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Nicola Sturgeon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nicola%20Sturgeon",
         "pubdate": "Mon, 12 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Focus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Focus",
-        "pubdate": "Mon, 12 Jun 2023 23:00:00 +0300"
       }
     ]
   ]
