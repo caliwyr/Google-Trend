@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 08:51:16",
+  "lastUpdate": "13-06-2023 , 09:01:49",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Denver Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Denver%20Nuggets",
+        "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Miami Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
         "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Nuggets vs Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets%20vs%20Heat",
-        "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tori%20Bowie",
         "pubdate": "Mon, 12 Jun 2023 17:00:00 -0700"
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Silvio Berlusconi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Silvio%20Berlusconi",
+        "pubdate": "Mon, 12 Jun 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Jimmy Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Butler",
         "pubdate": "Mon, 12 Jun 2023 22:00:00 -0700"
@@ -62,13 +69,6 @@
         "title": "Tyler Herro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tyler%20Herro",
         "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Silvio Berlusconi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Silvio%20Berlusconi",
-        "pubdate": "Mon, 12 Jun 2023 07:00:00 -0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Germany v's Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Germany%20v's%20Ukraine",
-        "pubdate": "Mon, 12 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Final Fantasy 16",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Final%20Fantasy%2016",
         "pubdate": "Mon, 12 Jun 2023 10:00:00 -0700"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Stan Savran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stan%20Savran",
+        "title": "Lea Michele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lea%20Michele",
+        "pubdate": "Mon, 12 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Italian Prime Minister Silvio Berlusconi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Italian%20Prime%20Minister%20Silvio%20Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
       }
     ]
