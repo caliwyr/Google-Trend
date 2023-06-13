@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "13-06-2023 , 20:44:27",
+  "lastUpdate": "13-06-2023 , 20:53:46",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
-        "pubdate": "Tue, 13 Jun 2023 15:00:00 +0700"
+        "pubdate": "Tue, 13 Jun 2023 19:00:00 +0700"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#China",
+        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Salman Al Farisi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Salman%20Al%20Farisi",
         "pubdate": "Tue, 13 Jun 2023 19:00:00 +0700"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#China",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Mulan Jameela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mulan%20Jameela",
-        "pubdate": "Tue, 13 Jun 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "One Ok Rock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#One%20Ok%20Rock",
         "pubdate": "Tue, 13 Jun 2023 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Portugal",
+        "pubdate": "Tue, 13 Jun 2023 15:00:00 +0700"
       }
     ]
   ]
