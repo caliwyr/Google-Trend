@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 19:47:36",
+  "lastUpdate": "13-06-2023 , 19:57:00",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Heat",
+        "pubdate": "Tue, 13 Jun 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Bianca Andreescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bianca%20Andreescu",
         "pubdate": "Tue, 13 Jun 2023 13:00:00 -0400"
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Denis Shapovalov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Denis%20Shapovalov",
+        "pubdate": "Tue, 13 Jun 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami",
         "pubdate": "Tue, 13 Jun 2023 07:00:00 -0400"
@@ -73,9 +87,16 @@
     ],
     [
       {
-        "title": "Russian Ukrainian War",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russian%20Ukrainian%20War",
+        "title": "Russian Ukrainian war",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russian%20Ukrainian%20war",
         "pubdate": "Tue, 13 Jun 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Denver Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Denver%20Nuggets",
+        "pubdate": "Mon, 12 Jun 2023 23:00:00 -0400"
       }
     ],
     [
@@ -89,13 +110,6 @@
       {
         "title": "Miami Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Heat",
-        "pubdate": "Mon, 12 Jun 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Denver Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Denver%20Nuggets",
         "pubdate": "Mon, 12 Jun 2023 23:00:00 -0400"
       }
     ],
@@ -124,20 +138,6 @@
       {
         "title": "Pat Sajak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pat%20Sajak",
-        "pubdate": "Mon, 12 Jun 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Russell Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russell%20Brown",
-        "pubdate": "Mon, 12 Jun 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tori Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tori%20Bowie",
         "pubdate": "Mon, 12 Jun 2023 21:00:00 -0400"
       }
     ]

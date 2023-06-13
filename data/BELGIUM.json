@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 19:47:36",
+  "lastUpdate": "13-06-2023 , 19:57:00",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Nottingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nottingham",
-        "pubdate": "Tue, 13 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tenacious D",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tenacious%20D",
         "pubdate": "Tue, 13 Jun 2023 13:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Tori Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tori%20Bowie",
-        "pubdate": "Tue, 13 Jun 2023 14:00:00 +0200"
+        "title": "Nottingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nottingham",
+        "pubdate": "Tue, 13 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -87,9 +80,23 @@
     ],
     [
       {
+        "title": "Tori Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tori%20Bowie",
+        "pubdate": "Tue, 13 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kiss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kiss",
         "pubdate": "Tue, 13 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jennifer%20Lawrence",
+        "pubdate": "Tue, 13 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "KV Kortrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Kortrijk",
-        "pubdate": "Tue, 13 Jun 2023 08:00:00 +0200"
+        "title": "Artus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Artus",
+        "pubdate": "Tue, 13 Jun 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jennifer%20Lawrence",
-        "pubdate": "Tue, 13 Jun 2023 14:00:00 +0200"
+        "title": "KV Kortrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Kortrijk",
+        "pubdate": "Tue, 13 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maroc – Cap-Vert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc%20%E2%80%93%20Cap-Vert",
-        "pubdate": "Mon, 12 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
