@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 22:46:00",
+  "lastUpdate": "13-06-2023 , 22:55:18",
   "data": [
     [
       {
@@ -33,7 +33,7 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Manchester%20United",
-        "pubdate": "Tue, 13 Jun 2023 11:00:00 +0100"
+        "pubdate": "Tue, 13 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Tara Mines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tara%20Mines",
+        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tori%20Bowie",
         "pubdate": "Tue, 13 Jun 2023 12:00:00 +0100"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Tara Mines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tara%20Mines",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tony Connelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tony%20Connelly",
         "pubdate": "Tue, 13 Jun 2023 02:00:00 +0100"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Erling Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Erling%20Haaland",
-        "pubdate": "Tue, 13 Jun 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Corrstown Golf Club",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Corrstown%20Golf%20Club",
         "pubdate": "Tue, 13 Jun 2023 19:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Ezra Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ezra%20Miller",
-        "pubdate": "Tue, 13 Jun 2023 17:00:00 +0100"
+        "title": "Mike Batayeh Breaking Bad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mike%20Batayeh%20Breaking%20Bad",
+        "pubdate": "Tue, 13 Jun 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#US%20Open",
+        "title": "Erling Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Erling%20Haaland",
         "pubdate": "Tue, 13 Jun 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ezra Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ezra%20Miller",
+        "pubdate": "Tue, 13 Jun 2023 17:00:00 +0100"
       }
     ]
   ]
