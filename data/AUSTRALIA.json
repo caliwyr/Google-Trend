@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 05:43:50",
+  "lastUpdate": "13-06-2023 , 05:53:08",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Jamal Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamal%20Murray",
+        "title": "Tyler Herro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyler%20Herro",
         "pubdate": "Tue, 13 Jun 2023 14:00:00 +1000"
       }
     ],
@@ -52,23 +52,16 @@
     ],
     [
       {
-        "title": "Tyler Herro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyler%20Herro",
-        "pubdate": "Tue, 13 Jun 2023 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "U.S. Open, golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#U.S.%20Open,%20golf",
-        "pubdate": "Tue, 13 Jun 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Mason Cox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mason%20Cox",
         "pubdate": "Tue, 13 Jun 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "U.S. Open Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#U.S.%20Open%20Golf",
+        "pubdate": "Tue, 13 Jun 2023 10:00:00 +1000"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roger%20Federer",
-        "pubdate": "Tue, 13 Jun 2023 01:00:00 +1000"
+        "title": "Philadelphia bridge collapse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Philadelphia%20bridge%20collapse",
+        "pubdate": "Tue, 13 Jun 2023 15:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Melbourne vs Collingwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20vs%20Collingwood",
         "pubdate": "Mon, 12 Jun 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Floyd Mayweather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Floyd%20Mayweather",
+        "pubdate": "Mon, 12 Jun 2023 17:00:00 +1000"
       }
     ]
   ]

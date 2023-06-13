@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2023 , 05:43:49",
+  "lastUpdate": "13-06-2023 , 05:53:08",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "Denver vs Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Denver%20vs%20Miami",
-        "pubdate": "Tue, 13 Jun 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Miami vs Denver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Miami%20vs%20Denver",
         "pubdate": "Tue, 13 Jun 2023 01:00:00 -0300"
       }
     ],
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Banfield River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield%20River%20Plate",
+        "pubdate": "Mon, 12 Jun 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
         "pubdate": "Mon, 12 Jun 2023 17:00:00 -0300"
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "BANFIELD vs RIVER PLATE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BANFIELD%20vs%20RIVER%20PLATE",
-        "pubdate": "Mon, 12 Jun 2023 18:00:00 -0300"
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
+        "pubdate": "Mon, 12 Jun 2023 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
-        "pubdate": "Mon, 12 Jun 2023 23:00:00 -0300"
+        "title": "BANFIELD vs RIVER PLATE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BANFIELD%20vs%20RIVER%20PLATE",
+        "pubdate": "Mon, 12 Jun 2023 18:00:00 -0300"
       }
     ],
     [
@@ -89,6 +89,13 @@
       {
         "title": "Garnacho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Garnacho",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dia del Arquero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Arquero",
         "pubdate": "Mon, 12 Jun 2023 12:00:00 -0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mbappe",
         "pubdate": "Mon, 12 Jun 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dia del arquero en Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20arquero%20en%20Argentina",
-        "pubdate": "Mon, 12 Jun 2023 14:00:00 -0300"
       }
     ]
   ]
