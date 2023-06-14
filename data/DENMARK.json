@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 21:49:50",
+  "lastUpdate": "14-06-2023 , 21:59:02",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Wed, 14 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League",
+        "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,30 @@
     ],
     [
       {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League",
-        "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
+        "title": "Palenque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Palenque",
+        "pubdate": "Wed, 14 Jun 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Palenque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Palenque",
-        "pubdate": "Wed, 14 Jun 2023 12:00:00 +0200"
+        "title": "Rumble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rumble",
+        "pubdate": "Wed, 14 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Motley crue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Motley%20crue",
+        "pubdate": "Wed, 14 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DEF LEPPARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DEF%20LEPPARD",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -55,20 +76,6 @@
         "title": "Jocelyn Chia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jocelyn%20Chia",
         "pubdate": "Wed, 14 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DEF LEPPARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DEF%20LEPPARD",
-        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rumble",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rumble",
-        "pubdate": "Wed, 14 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Domino's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Domino's",
         "pubdate": "Tue, 13 Jun 2023 16:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ezra Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ezra%20Miller",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
+        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rasmus højlund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
-        "pubdate": "Tue, 13 Jun 2023 09:00:00 +0200"
+        "title": "Ezra Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ezra%20Miller",
+        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
