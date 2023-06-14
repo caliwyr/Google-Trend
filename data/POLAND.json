@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 07:44:38",
+  "lastUpdate": "14-06-2023 , 07:53:59",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
+        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Denver Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Denver%20Nuggets",
         "pubdate": "Tue, 13 Jun 2023 07:00:00 +0200"
@@ -54,13 +61,6 @@
       {
         "title": "Zimne światło dnia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zimne%20%C5%9Bwiat%C5%82o%20dnia",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
         "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
       }
     ],
