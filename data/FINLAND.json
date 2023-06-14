@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 06:49:38",
+  "lastUpdate": "14-06-2023 , 06:59:07",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Arnolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnolds",
+        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Silvio Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Silvio%20Berlusconi",
         "pubdate": "Mon, 12 Jun 2023 12:00:00 +0300"
@@ -131,13 +138,6 @@
       {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cher",
-        "pubdate": "Mon, 12 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Live Aid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Live%20Aid",
         "pubdate": "Mon, 12 Jun 2023 00:00:00 +0300"
       }
     ]
