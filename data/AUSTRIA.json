@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 17:37:29",
+  "lastUpdate": "14-06-2023 , 17:46:45",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Felix Gall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felix%20Gall",
+        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nick Kyrgios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nick%20Kyrgios",
         "pubdate": "Wed, 14 Jun 2023 12:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Tour de Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tour%20de%20Suisse",
-        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dancing Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dancing%20Stars",
         "pubdate": "Wed, 14 Jun 2023 07:00:00 +0200"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Enes Begovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Enes%20Begovic",
-        "pubdate": "Tue, 13 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
         "pubdate": "Tue, 13 Jun 2023 12:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tori%20Bowie",
+        "pubdate": "Tue, 13 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nottingham",
         "pubdate": "Tue, 13 Jun 2023 13:00:00 +0200"
       }
     ]

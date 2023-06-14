@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 17:37:36",
+  "lastUpdate": "14-06-2023 , 17:46:49",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "NER",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NER",
         "pubdate": "Wed, 14 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Berlusconi temetése",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Berlusconi%20temet%C3%A9se",
+        "pubdate": "Wed, 14 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Carmina Burana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carmina%20Burana",
         "pubdate": "Tue, 13 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unihertz Jelly Star",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Unihertz%20Jelly%20Star",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
