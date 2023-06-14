@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 16:42:16",
+  "lastUpdate": "14-06-2023 , 16:51:33",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Cleo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cleo",
+        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kasia Kowalska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kasia%20Kowalska",
         "pubdate": "Wed, 14 Jun 2023 00:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Odessa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Odessa",
         "pubdate": "Wed, 14 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Terminarz Ekstraklasy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Terminarz%20Ekstraklasy",
+        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Denver Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Denver%20Nuggets",
         "pubdate": "Tue, 13 Jun 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Gasienica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Patrick%20Gasienica",
-        "pubdate": "Tue, 13 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ryan Gosling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ryan%20Gosling",
-        "pubdate": "Tue, 13 Jun 2023 19:00:00 +0200"
       }
     ]
   ]

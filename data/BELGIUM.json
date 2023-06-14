@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 16:42:08",
+  "lastUpdate": "14-06-2023 , 16:51:26",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Vlaams Belang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vlaams%20Belang",
+        "pubdate": "Wed, 14 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jude Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jude%20Bellingham",
         "pubdate": "Wed, 14 Jun 2023 16:00:00 +0200"
@@ -38,20 +45,6 @@
     ],
     [
       {
-        "title": "Wes Anderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wes%20Anderson",
-        "pubdate": "Wed, 14 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vlaams Belang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vlaams%20Belang",
-        "pubdate": "Wed, 14 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Billie%20Eilish",
         "pubdate": "Wed, 14 Jun 2023 13:00:00 +0200"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Nikola jokić",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nikola%20joki%C4%87",
-        "pubdate": "Wed, 14 Jun 2023 16:00:00 +0200"
+        "title": "Wes Anderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wes%20Anderson",
+        "pubdate": "Wed, 14 Jun 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Helmut Lotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helmut%20Lotti",
-        "pubdate": "Wed, 14 Jun 2023 13:00:00 +0200"
+        "title": "Nikola jokić",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nikola%20joki%C4%87",
+        "pubdate": "Wed, 14 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Puck Moonen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Puck%20Moonen",
         "pubdate": "Tue, 13 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Flash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Flash",
+        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
