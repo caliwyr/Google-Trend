@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 08:46:46",
+  "lastUpdate": "14-06-2023 , 08:55:50",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Liga das Nações",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20das%20Na%C3%A7%C3%B5es",
         "pubdate": "Tue, 13 Jun 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Huracan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Huracan",
+        "pubdate": "Tue, 13 Jun 2023 16:00:00 -0500"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Holanda x Croácia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Holanda%20x%20Cro%C3%A1cia",
+        "pubdate": "Tue, 13 Jun 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Renan Lodi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renan%20Lodi",
         "pubdate": "Tue, 13 Jun 2023 08:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Resumo Terra e Paixão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20Terra%20e%20Paix%C3%A3o",
         "pubdate": "Tue, 13 Jun 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Luiza Trajano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luiza%20Trajano",
-        "pubdate": "Tue, 13 Jun 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "AWS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#AWS",
-        "pubdate": "Tue, 13 Jun 2023 16:00:00 -0500"
       }
     ]
   ]
