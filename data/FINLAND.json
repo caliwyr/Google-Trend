@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 23:44:56",
+  "lastUpdate": "14-06-2023 , 23:54:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Rumble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rumble",
         "pubdate": "Thu, 15 Jun 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nations%20League",
+        "pubdate": "Thu, 15 Jun 2023 02:00:00 +0300"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Nikola Jokić",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nikola%20Joki%C4%87",
+        "pubdate": "Wed, 14 Jun 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Mark Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mark%20Stone",
         "pubdate": "Wed, 14 Jun 2023 19:00:00 +0300"
@@ -90,6 +104,13 @@
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NATO",
         "pubdate": "Wed, 14 Jun 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Wind River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wind%20River",
+        "pubdate": "Wed, 14 Jun 2023 00:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Tori Bowie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tori%20Bowie",
         "pubdate": "Tue, 13 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
-        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Nikola Jokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nikola%20Jokic",
-        "pubdate": "Tue, 13 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Abyss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Abyss",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0300"
       }
     ]
   ]
