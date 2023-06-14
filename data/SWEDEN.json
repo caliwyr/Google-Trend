@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-06-2023 , 22:47:27",
+  "lastUpdate": "14-06-2023 , 22:56:47",
   "data": [
+    [
+      {
+        "title": "Damallsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Damallsvenskan",
+        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Cormac McCarthy",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nations%20League",
-        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vegas Golden Knights",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vegas%20Golden%20Knights",
         "pubdate": "Wed, 14 Jun 2023 09:00:00 +0200"
@@ -33,6 +33,13 @@
       {
         "title": "Gothia Cup 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gothia%20Cup%202023",
+        "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Scorpions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Scorpions",
         "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brigitte bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brigitte%20bardot",
-        "pubdate": "Mon, 12 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
