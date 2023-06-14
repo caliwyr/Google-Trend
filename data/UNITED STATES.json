@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-06-2023 , 10:42:32",
+  "lastUpdate": "14-06-2023 , 10:51:58",
   "data": [
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Donald%20Trump",
+        "pubdate": "Tue, 13 Jun 2023 12:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump",
-        "pubdate": "Tue, 13 Jun 2023 11:00:00 -0700"
+        "pubdate": "Tue, 13 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Cormac McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cormac%20McCarthy",
         "pubdate": "Tue, 13 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Trump indictment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20indictment",
-        "pubdate": "Tue, 13 Jun 2023 13:00:00 -0700"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Dwyane Wade Gabrielle Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dwyane%20Wade%20Gabrielle%20Union",
+        "pubdate": "Tue, 13 Jun 2023 22:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Hatch Act",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hatch%20Act",
         "pubdate": "Tue, 13 Jun 2023 13:00:00 -0700"
@@ -131,13 +138,6 @@
       {
         "title": "Denver Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Denver%20Nuggets",
-        "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Treat Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Treat%20Williams",
         "pubdate": "Mon, 12 Jun 2023 20:00:00 -0700"
       }
     ]
