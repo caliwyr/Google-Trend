@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2023 , 11:44:39",
+  "lastUpdate": "14-06-2023 , 11:54:06",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Cormac McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cormac%20McCarthy",
         "pubdate": "Wed, 14 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Steven Taiatini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steven%20Taiatini",
+        "pubdate": "Wed, 14 Jun 2023 17:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Calendar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Calendar",
         "pubdate": "Tue, 13 Jun 2023 01:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Google Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Docs",
-        "pubdate": "Mon, 12 Jun 2023 11:00:00 +1200"
       }
     ]
   ]
