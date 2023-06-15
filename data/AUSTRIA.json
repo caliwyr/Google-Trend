@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-06-2023 , 04:45:26",
+  "lastUpdate": "15-06-2023 , 04:54:47",
   "data": [
-    [
-      {
-        "title": "The Taste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Taste",
-        "pubdate": "Thu, 15 Jun 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kampf der Realitystars",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Temu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Temu",
-        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
+        "title": "Lotto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto",
+        "pubdate": "Wed, 14 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lotto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto",
-        "pubdate": "Wed, 14 Jun 2023 23:00:00 +0200"
+        "title": "Temu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Temu",
+        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Aktenzeichen XY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aktenzeichen%20XY",
-        "pubdate": "Wed, 14 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Falter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Falter",
         "pubdate": "Wed, 14 Jun 2023 15:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fed",
         "pubdate": "Wed, 14 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Low-carb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Low-carb",
+        "pubdate": "Wed, 14 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bauer sucht Frau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bauer%20sucht%20Frau",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
