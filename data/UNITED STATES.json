@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 05:44:13",
+  "lastUpdate": "15-06-2023 , 05:53:36",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eminem",
         "pubdate": "Wed, 14 Jun 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Rachel Maddow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rachel%20Maddow",
+        "pubdate": "Wed, 14 Jun 2023 06:00:00 -0700"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Fed Meeting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fed%20Meeting",
+        "pubdate": "Wed, 14 Jun 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Adam Schiff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adam%20Schiff",
         "pubdate": "Wed, 14 Jun 2023 17:00:00 -0700"
@@ -66,9 +80,23 @@
     ],
     [
       {
+        "title": "Yankees vs Mets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees%20vs%20Mets",
+        "pubdate": "Wed, 14 Jun 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Trevor Bauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Bauer",
         "pubdate": "Wed, 14 Jun 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dion Stutts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dion%20Stutts",
+        "pubdate": "Wed, 14 Jun 2023 15:00:00 -0700"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Donald%20Trump",
-        "pubdate": "Tue, 13 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Vegas Golden Knights",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vegas%20Golden%20Knights",
         "pubdate": "Tue, 13 Jun 2023 20:00:00 -0700"
@@ -118,27 +139,6 @@
         "title": "Cormac McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cormac%20McCarthy",
         "pubdate": "Tue, 13 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Flag Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Flag%20Day",
-        "pubdate": "Tue, 13 Jun 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dwyane Wade Gabrielle Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dwyane%20Wade%20Gabrielle%20Union",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Ja Morant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ja%20Morant",
-        "pubdate": "Tue, 13 Jun 2023 11:00:00 -0700"
       }
     ]
   ]
