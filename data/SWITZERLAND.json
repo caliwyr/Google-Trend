@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-06-2023 , 13:47:30",
+  "lastUpdate": "15-06-2023 , 13:56:43",
   "data": [
-    [
-      {
-        "title": "Paula Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paula%20Badosa",
-        "pubdate": "Thu, 15 Jun 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Patrouille Suisse",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Kroatien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kroatien",
-        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0200"
+        "title": "Paula Badosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paula%20Badosa",
+        "pubdate": "Thu, 15 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Glenda Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glenda%20Jackson",
+        "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,23 +59,16 @@
     ],
     [
       {
-        "title": "Unia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unia",
-        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glenda Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glenda%20Jackson",
-        "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unia",
+        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ezra Miller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ezra%20Miller",
         "pubdate": "Wed, 14 Jun 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feministischer streik Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Feministischer%20streik%20Z%C3%BCrich",
+        "pubdate": "Wed, 14 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
