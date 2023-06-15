@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "15-06-2023 , 15:42:51",
+  "lastUpdate": "15-06-2023 , 15:52:06",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
-        "pubdate": "Thu, 15 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FoMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FoMA",
         "pubdate": "Thu, 15 Jun 2023 13:00:00 +0200"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "FoMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FoMA",
+        "pubdate": "Thu, 15 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bill Cosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Cosby",
+        "pubdate": "Thu, 15 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Bill Cosby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Cosby",
-        "pubdate": "Thu, 15 Jun 2023 16:00:00 +0200"
+        "title": "Gordon McQueen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gordon%20McQueen",
+        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Jakob Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emilie Enger Mehl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Enger%20Mehl",
         "pubdate": "Wed, 14 Jun 2023 13:00:00 +0200"
@@ -90,13 +104,6 @@
         "title": "Kevin Costner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20Costner",
         "pubdate": "Wed, 14 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
-        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Cormac McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cormac%20McCarthy",
-        "pubdate": "Tue, 13 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ezra Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ezra%20Miller",
         "pubdate": "Tue, 13 Jun 2023 23:00:00 +0200"
       }
     ]
