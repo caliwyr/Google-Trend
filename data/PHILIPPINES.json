@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "15-06-2023 , 10:41:57",
+  "lastUpdate": "15-06-2023 , 10:50:53",
   "data": [
     [
       {
-        "title": "Earthquake Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake%20Today",
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake",
         "pubdate": "Thu, 15 Jun 2023 11:00:00 +0800"
       }
     ],
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "News today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#News%20today",
-        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Nick Kyrgios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nick%20Kyrgios",
         "pubdate": "Thu, 15 Jun 2023 00:00:00 +0800"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "Lee Do Hyun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lee%20Do%20Hyun",
-        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0800"
+        "title": "News today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#News%20today",
+        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "BLACKPINK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#BLACKPINK",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0800"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heidi%20Klum",
-        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0800"
+        "title": "Lee Do Hyun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lee%20Do%20Hyun",
+        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Sanity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sanity",
-        "pubdate": "Thu, 15 Jun 2023 06:00:00 +0800"
+        "title": "Heidi Klum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heidi%20Klum",
+        "pubdate": "Thu, 15 Jun 2023 00:00:00 +0800"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Political science",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Political%20science",
         "pubdate": "Thu, 15 Jun 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sanity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sanity",
+        "pubdate": "Thu, 15 Jun 2023 06:00:00 +0800"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Epicenter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Epicenter",
-        "pubdate": "Thu, 15 Jun 2023 13:00:00 +0800"
+        "title": "Brain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Brain",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "The Flash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20Flash",
-        "pubdate": "Wed, 14 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Live Nation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Live%20Nation",
-        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0800"
+        "title": "Livenation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Livenation",
+        "pubdate": "Wed, 14 Jun 2023 21:00:00 +0800"
       }
     ]
   ]
