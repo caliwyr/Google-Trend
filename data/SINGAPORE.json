@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-06-2023 , 23:42:45",
+  "lastUpdate": "15-06-2023 , 23:52:01",
   "data": [
-    [
-      {
-        "title": "Annie Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Annie%20Murphy",
-        "pubdate": "Fri, 16 Jun 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Argentina vs Australia",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Spain vs Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spain%20vs%20Italy",
-        "pubdate": "Thu, 15 Jun 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Black Mirror Season 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Black%20Mirror%20Season%206",
         "pubdate": "Thu, 15 Jun 2023 19:00:00 +0800"
@@ -45,9 +31,9 @@
     ],
     [
       {
-        "title": "Fed interest rate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20interest%20rate",
-        "pubdate": "Thu, 15 Jun 2023 04:00:00 +0800"
+        "title": "Spain vs Italy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spain%20vs%20Italy",
+        "pubdate": "Thu, 15 Jun 2023 07:00:00 +0800"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Elemental movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elemental%20movie",
         "pubdate": "Thu, 15 Jun 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed",
+        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lee Seung-gi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lee%20Seung-gi",
         "pubdate": "Wed, 14 Jun 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nottingham",
+        "pubdate": "Wed, 14 Jun 2023 10:00:00 +0800"
       }
     ]
   ]
