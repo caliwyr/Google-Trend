@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 16:39:31",
+  "lastUpdate": "15-06-2023 , 16:48:47",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Kasper Dolberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kasper%20Dolberg",
+        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nederland",
         "pubdate": "Thu, 15 Jun 2023 00:00:00 +0200"
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Kasper Dolberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kasper%20Dolberg",
-        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BLACKPINK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BLACKPINK",
         "pubdate": "Thu, 15 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dolberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dolberg",
-        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cormac McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cormac%20McCarthy",
         "pubdate": "Wed, 14 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Asteroid City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Asteroid%20City",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
