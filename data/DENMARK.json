@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 19:38:19",
+  "lastUpdate": "15-06-2023 , 19:47:27",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Glenda Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glenda%20Jackson",
-        "pubdate": "Thu, 15 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
@@ -31,9 +24,23 @@
     ],
     [
       {
-        "title": "US Open Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open%20Golf",
+        "title": "Glenda Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glenda%20Jackson",
+        "pubdate": "Thu, 15 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U.S. Open Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#U.S.%20Open%20Golf",
         "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jens Stoltenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jens%20Stoltenberg",
+        "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "The Weekend",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Weekend",
+        "title": "The weekend",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20weekend",
         "pubdate": "Wed, 14 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Soap2day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Soap2day",
         "pubdate": "Tue, 13 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mattias Skjelmose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mattias%20Skjelmose",
-        "pubdate": "Tue, 13 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
