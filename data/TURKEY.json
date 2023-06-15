@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 05:35:08",
+  "lastUpdate": "15-06-2023 , 05:44:31",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Tarzan Rıfkı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tarzan%20R%C4%B1fk%C4%B1",
         "pubdate": "Thu, 15 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Çöp Adam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87%C3%B6p%20Adam",
-        "pubdate": "Thu, 15 Jun 2023 01:00:00 +0300"
       }
     ],
     [
@@ -52,15 +45,15 @@
     ],
     [
       {
-        "title": "İzmir deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20deprem",
+        "title": "Son depremler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
         "pubdate": "Wed, 14 Jun 2023 10:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Son depremler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
+        "title": "İzmir deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20deprem",
         "pubdate": "Wed, 14 Jun 2023 10:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Billie%20Eilish",
         "pubdate": "Wed, 14 Jun 2023 08:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bellingham",
+        "pubdate": "Wed, 14 Jun 2023 15:00:00 +0300"
       }
     ]
   ]
