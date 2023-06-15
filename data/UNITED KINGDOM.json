@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 04:36:21",
+  "lastUpdate": "15-06-2023 , 04:45:36",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Rumble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rumble",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jobe Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jobe%20Bellingham",
         "pubdate": "Wed, 14 Jun 2023 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Italian prime minister Silvio Berlusconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Italian%20prime%20minister%20Silvio%20Berlusconi",
         "pubdate": "Wed, 14 Jun 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Boris Johnson prime minister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Boris%20Johnson%20prime%20minister",
-        "pubdate": "Wed, 14 Jun 2023 11:00:00 +0100"
       }
     ]
   ]
