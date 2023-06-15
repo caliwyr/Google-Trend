@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 03:44:18",
+  "lastUpdate": "15-06-2023 , 03:53:49",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "EPRA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mbappe",
         "pubdate": "Tue, 13 Jun 2023 09:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Denver Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Denver%20Nuggets",
         "pubdate": "Tue, 13 Jun 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Noordin Haji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Noordin%20Haji",
-        "pubdate": "Tue, 13 Jun 2023 22:00:00 +0300"
       }
     ]
   ]
