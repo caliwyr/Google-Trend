@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 18:46:56",
+  "lastUpdate": "15-06-2023 , 18:56:16",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Poznan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poznan",
+        "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Neuschwanstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Neuschwanstein",
         "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petr Pavel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Pavel",
+        "pubdate": "Thu, 15 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Bence Szvoboda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bence%20Szvoboda",
-        "pubdate": "Wed, 14 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jiřina Bohdalová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99ina%20Bohdalov%C3%A1",
         "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Klaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Klaus",
         "pubdate": "Wed, 14 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
-        "pubdate": "Wed, 14 Jun 2023 18:00:00 +0200"
       }
     ]
   ]

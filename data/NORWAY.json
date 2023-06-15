@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2023 , 18:47:01",
+  "lastUpdate": "15-06-2023 , 18:56:22",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#US%20Open",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#US%20Open",
-        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bill Cosby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Cosby",
         "pubdate": "Thu, 15 Jun 2023 16:00:00 +0200"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "The Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Rock",
-        "pubdate": "Thu, 15 Jun 2023 01:00:00 +0200"
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
+        "pubdate": "Thu, 15 Jun 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
-        "pubdate": "Thu, 15 Jun 2023 19:00:00 +0200"
+        "title": "The Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Rock",
+        "pubdate": "Thu, 15 Jun 2023 01:00:00 +0200"
       }
     ],
     [
