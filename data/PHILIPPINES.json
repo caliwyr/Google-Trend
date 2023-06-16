@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2023 , 07:41:46",
+  "lastUpdate": "16-06-2023 , 07:51:14",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "WNBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#WNBA",
+        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Hereditary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hereditary",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0800"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Earthquake today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake%20today",
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake",
         "pubdate": "Thu, 15 Jun 2023 11:00:00 +0800"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "TWICE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#TWICE",
+        "pubdate": "Thu, 15 Jun 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Nick Kyrgios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nick%20Kyrgios",
         "pubdate": "Thu, 15 Jun 2023 00:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "News today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#News%20today",
         "pubdate": "Thu, 15 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Heavenly Bodies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heavenly%20Bodies",
-        "pubdate": "Thu, 15 Jun 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Vasectomy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Vasectomy",
-        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0800"
       }
     ]
   ]
