@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2023 , 06:38:48",
+  "lastUpdate": "16-06-2023 , 06:48:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "The Flash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Flash",
         "pubdate": "Fri, 16 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Youth Day 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Youth%20Day%202023",
+        "pubdate": "Fri, 16 Jun 2023 06:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Youth Day 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Youth%20Day%202023",
-        "pubdate": "Fri, 16 Jun 2023 06:00:00 +0200"
+        "title": "Citrusdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Citrusdal",
+        "pubdate": "Fri, 16 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Argentina vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Australia",
         "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spain vs Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spain%20vs%20Italy",
-        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "Huguenot Tunnel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Huguenot%20Tunnel",
-        "pubdate": "Thu, 15 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Egypt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Egypt",
-        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Glenda Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Glenda%20Jackson",
         "pubdate": "Thu, 15 Jun 2023 19:00:00 +0200"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Nick Kyrgios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nick%20Kyrgios",
-        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0200"
+        "title": "Egypt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Egypt",
+        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -118,6 +104,13 @@
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nick Kyrgios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nick%20Kyrgios",
+        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Netherlands vs Croatia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Netherlands%20vs%20Croatia",
         "pubdate": "Wed, 14 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spain vs Italy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spain%20vs%20Italy",
+        "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
