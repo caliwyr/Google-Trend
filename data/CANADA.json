@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-06-2023 , 00:37:44",
+  "lastUpdate": "16-06-2023 , 02:04:01",
   "data": [
-    [
-      {
-        "title": "U.S. Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#U.S.%20Open",
-        "pubdate": "Thu, 15 Jun 2023 10:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Manitoba crash",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Argentina vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20Australia",
-        "pubdate": "Thu, 15 Jun 2023 09:00:00 -0400"
+        "title": "U.S. Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#U.S.%20Open",
+        "pubdate": "Thu, 15 Jun 2023 10:00:00 -0400"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Spain vs Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spain%20vs%20Italy",
-        "pubdate": "Thu, 15 Jun 2023 15:00:00 -0400"
+        "title": "Argentina vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20Australia",
+        "pubdate": "Thu, 15 Jun 2023 09:00:00 -0400"
       }
     ],
     [
@@ -41,6 +34,20 @@
         "title": "Glenda Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Glenda%20Jackson",
         "pubdate": "Thu, 15 Jun 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Spain vs Italy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spain%20vs%20Italy",
+        "pubdate": "Thu, 15 Jun 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Panama vs Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panama%20vs%20Canada",
+        "pubdate": "Thu, 15 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -59,6 +66,20 @@
     ],
     [
       {
+        "title": "Concacaf Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Concacaf%20Nations%20League",
+        "pubdate": "Thu, 15 Jun 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CTV News winnipeg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV%20News%20winnipeg",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Rumble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rumble",
         "pubdate": "Thu, 15 Jun 2023 05:00:00 -0400"
@@ -73,23 +94,9 @@
     ],
     [
       {
-        "title": "Panama vs Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panama%20vs%20Canada",
-        "pubdate": "Thu, 15 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Concacaf Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Concacaf%20Nations%20League",
-        "pubdate": "Thu, 15 Jun 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jesper Bratt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jesper%20Bratt",
-        "pubdate": "Thu, 15 Jun 2023 15:00:00 -0400"
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MrBeast",
+        "pubdate": "Thu, 15 Jun 2023 17:00:00 -0400"
       }
     ],
     [
@@ -101,20 +108,6 @@
     ],
     [
       {
-        "title": "Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kevin%20Costner",
-        "pubdate": "Thu, 15 Jun 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Extraction 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Extraction%202",
-        "pubdate": "Thu, 15 Jun 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Robert Kennedy Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Robert%20Kennedy%20Jr",
         "pubdate": "Thu, 15 Jun 2023 17:00:00 -0400"
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MrBeast",
-        "pubdate": "Thu, 15 Jun 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Press secretary karine jean pierre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Press%20secretary%20karine%20jean%20pierre",
-        "pubdate": "Thu, 15 Jun 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "North Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Korea",
+        "title": "Jesper Bratt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jesper%20Bratt",
         "pubdate": "Thu, 15 Jun 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jude Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jude%20Bellingham",
+        "pubdate": "Thu, 15 Jun 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Salma Hayek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Salma%20Hayek",
+        "pubdate": "Thu, 15 Jun 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Extraction 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Extraction%202",
+        "pubdate": "Thu, 15 Jun 2023 10:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2023 , 00:37:45",
+  "lastUpdate": "16-06-2023 , 02:04:02",
   "data": [
     [
       {
@@ -38,23 +38,16 @@
     ],
     [
       {
-        "title": "Vladimír Škultéty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20%C5%A0kult%C3%A9ty",
-        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Faerské ostrovy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Faersk%C3%A9%20ostrovy",
-        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Poznan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poznan",
         "pubdate": "Thu, 15 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Berenika Kohoutová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Berenika%20Kohoutov%C3%A1",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Jiří Bartoška",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Barto%C5%A1ka",
-        "pubdate": "Thu, 15 Jun 2023 21:00:00 +0200"
+        "title": "Vladimír Škultéty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20%C5%A0kult%C3%A9ty",
+        "pubdate": "Thu, 15 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Steffi Graf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steffi%20Graf",
         "pubdate": "Wed, 14 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liga národů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
+        "pubdate": "Wed, 14 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
