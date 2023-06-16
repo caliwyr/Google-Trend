@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2023 , 14:52:28",
+  "lastUpdate": "16-06-2023 , 15:06:34",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "U.S. Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U.S.%20Open",
         "pubdate": "Fri, 16 Jun 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Al Pacino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Al%20Pacino",
+        "pubdate": "Fri, 16 Jun 2023 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bhutan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bhutan",
         "pubdate": "Wed, 14 Jun 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cormac McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cormac%20McCarthy",
-        "pubdate": "Wed, 14 Jun 2023 08:00:00 +0300"
       }
     ]
   ]
