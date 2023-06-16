@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2023 , 20:51:43",
+  "lastUpdate": "16-06-2023 , 21:02:12",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Van Morrison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Van%20Morrison",
+        "pubdate": "Fri, 16 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Victoria Nadine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Victoria%20Nadine",
         "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Fri, 16 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Malta",
+        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Gordon McQueen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gordon%20McQueen",
         "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PGA",
-        "pubdate": "Thu, 15 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Asteroid%20City",
-        "pubdate": "Thu, 15 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
