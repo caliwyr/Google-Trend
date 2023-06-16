@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-06-2023 , 13:44:42",
+  "lastUpdate": "16-06-2023 , 13:54:00",
   "data": [
-    [
-      {
-        "title": "Pinkpop 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pinkpop%202023",
-        "pubdate": "Fri, 16 Jun 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Pinkpop",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Binance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Binance",
+        "pubdate": "Fri, 16 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Yvonne Coldeweijer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yvonne%20Coldeweijer",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Binance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Binance",
-        "pubdate": "Fri, 16 Jun 2023 12:00:00 +0200"
+        "title": "Black Mirror",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Black%20Mirror",
+        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
-        "pubdate": "Fri, 16 Jun 2023 09:00:00 +0200"
+        "title": "Gino mader",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gino%20mader",
+        "pubdate": "Thu, 15 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Italie Spanje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Italie%20Spanje",
         "pubdate": "Thu, 15 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gino mader",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gino%20mader",
-        "pubdate": "Thu, 15 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Diana Ross",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Diana%20Ross",
+        "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De rijdende rechter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20rijdende%20rechter",
         "pubdate": "Wed, 14 Jun 2023 20:00:00 +0200"
       }
     ]
