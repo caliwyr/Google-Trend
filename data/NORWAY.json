@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 11:42:13",
+  "lastUpdate": "17-06-2023 , 11:51:29",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Ullevål stadion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullev%C3%A5l%20stadion",
+        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sami Sheen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sami%20Sheen",
         "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
+        "pubdate": "Sat, 17 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
         "pubdate": "Thu, 15 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#US%20Open",
-        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FoMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FoMA",
-        "pubdate": "Thu, 15 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
