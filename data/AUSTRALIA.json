@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 03:44:37",
+  "lastUpdate": "17-06-2023 , 03:53:51",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Formula%201",
+        "pubdate": "Sat, 17 Jun 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jonny Bairstow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonny%20Bairstow",
         "pubdate": "Sat, 17 Jun 2023 09:00:00 +1000"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Ashes first Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashes%20first%20Test",
-        "pubdate": "Fri, 16 Jun 2023 17:00:00 +1000"
+        "title": "Ashes score",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashes%20score",
+        "pubdate": "Fri, 16 Jun 2023 20:00:00 +1000"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Adipurush movie Review",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adipurush%20movie%20Review",
+        "title": "Adipurush Movie Review",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adipurush%20Movie%20Review",
         "pubdate": "Fri, 16 Jun 2023 09:00:00 +1000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Soccer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer",
         "pubdate": "Fri, 16 Jun 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Vegemite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vegemite",
-        "pubdate": "Fri, 16 Jun 2023 19:00:00 +1000"
       }
     ]
   ]

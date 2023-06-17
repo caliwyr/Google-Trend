@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 03:44:48",
+  "lastUpdate": "17-06-2023 , 03:54:01",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Kick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kick",
+        "pubdate": "Sat, 17 Jun 2023 14:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Gino Mader",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gino%20Mader",
         "pubdate": "Sat, 17 Jun 2023 14:00:00 +1200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Kick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kick",
-        "pubdate": "Sat, 17 Jun 2023 14:00:00 +1200"
+        "title": "SailGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SailGP",
+        "pubdate": "Sat, 17 Jun 2023 15:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Conor%20McGregor",
         "pubdate": "Fri, 16 Jun 2023 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Tammy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tammy",
-        "pubdate": "Fri, 16 Jun 2023 21:00:00 +1200"
       }
     ]
   ]
