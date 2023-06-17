@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-06-2023 , 15:50:52",
+  "lastUpdate": "17-06-2023 , 16:00:09",
   "data": [
     [
       {
         "title": "Mecz Polska - Niemcy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mecz%20Polska%20-%20Niemcy",
         "pubdate": "Sat, 17 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sława Przybylska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awa%20Przybylska",
-        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Kick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kick",
-        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
+        "title": "Sława Przybylska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awa%20Przybylska",
+        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Czarnogóra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czarnog%C3%B3ra",
-        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
+        "title": "Kick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kick",
+        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Piotr Jacoń",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Jaco%C5%84",
+        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Psy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Psy",
         "pubdate": "Sat, 17 Jun 2023 01:00:00 +0200"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Eliminacje Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eliminacje%20Euro%202024",
-        "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sport",
         "pubdate": "Fri, 16 Jun 2023 23:00:00 +0200"
@@ -118,6 +111,13 @@
         "title": "Gino Mader",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gino%20Mader",
         "pubdate": "Fri, 16 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Euro%202024",
+        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tyler Rake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tyler%20Rake",
-        "pubdate": "Fri, 16 Jun 2023 14:00:00 +0200"
+        "title": "Eliminacje Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eliminacje%20Euro%202024",
+        "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
