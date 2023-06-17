@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 13:42:39",
+  "lastUpdate": "17-06-2023 , 13:52:04",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla",
+        "pubdate": "Sat, 17 Jun 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
         "pubdate": "Sat, 17 Jun 2023 19:00:00 +0800"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla",
-        "pubdate": "Sat, 17 Jun 2023 18:00:00 +0800"
+        "title": "Badminton Indonesia Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton%20Indonesia%20Open",
+        "pubdate": "Sat, 17 Jun 2023 09:00:00 +0800"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Azizulhasni Awang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Azizulhasni%20Awang",
+        "pubdate": "Sat, 17 Jun 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Kick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kick",
         "pubdate": "Sat, 17 Jun 2023 13:00:00 +0800"
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Nicolas Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nicolas%20Jackson",
+        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Ross Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ross%20Butler",
         "pubdate": "Sat, 17 Jun 2023 11:00:00 +0800"
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "Nicolas Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nicolas%20Jackson",
-        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0800"
+        "title": "Ted Lasso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ted%20Lasso",
+        "pubdate": "Sat, 17 Jun 2023 13:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "USA vs Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#USA%20vs%20Mexico",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Badminton Indonesia Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton%20Indonesia%20Open",
-        "pubdate": "Fri, 16 Jun 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Noor Alfallah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Noor%20Alfallah",
-        "pubdate": "Fri, 16 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Comedian Jocelyn Chia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Comedian%20Jocelyn%20Chia",
-        "pubdate": "Fri, 16 Jun 2023 09:00:00 +0800"
       }
     ]
   ]
