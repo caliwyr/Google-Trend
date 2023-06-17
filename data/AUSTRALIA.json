@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 17:40:16",
+  "lastUpdate": "17-06-2023 , 17:49:34",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Alex Twal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alex%20Twal",
+        "title": "Melbourne Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Storm",
         "pubdate": "Sat, 17 Jun 2023 21:00:00 +1000"
       }
     ],
@@ -40,13 +40,6 @@
       {
         "title": "Ben Hunt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Hunt",
-        "pubdate": "Sat, 17 Jun 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Stuart Broad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stuart%20Broad",
         "pubdate": "Sat, 17 Jun 2023 17:00:00 +1000"
       }
     ],
@@ -62,6 +55,13 @@
         "title": "Malta vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Malta%20vs%20England",
         "pubdate": "Sat, 17 Jun 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Stuart Broad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stuart%20Broad",
+        "pubdate": "Sat, 17 Jun 2023 17:00:00 +1000"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Tim Tszyu vs Carlos Ocampo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu%20vs%20Carlos%20Ocampo",
+        "pubdate": "Sat, 17 Jun 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Hunter Valley bus crash victims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hunter%20Valley%20bus%20crash%20victims",
         "pubdate": "Sat, 17 Jun 2023 17:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Extraction 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Extraction%202",
         "pubdate": "Fri, 16 Jun 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Bazball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bazball",
-        "pubdate": "Fri, 16 Jun 2023 20:00:00 +1000"
       }
     ]
   ]
