@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-06-2023 , 01:35:56",
+  "lastUpdate": "17-06-2023 , 02:28:23",
   "data": [
-    [
-      {
-        "title": "Eurojackpot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eurojackpot",
-        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Gino Mäder",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Brienz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brienz",
-        "pubdate": "Fri, 16 Jun 2023 13:00:00 +0200"
+        "title": "Germany's Next Topmodel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Germany's%20Next%20Topmodel",
+        "pubdate": "Fri, 16 Jun 2023 06:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Tyler Rake: Extraction 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyler%20Rake:%20Extraction%202",
         "pubdate": "Fri, 16 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brienz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brienz",
+        "pubdate": "Fri, 16 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Rheinmetall-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall-Aktie",
-        "pubdate": "Fri, 16 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Das erste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
         "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "GNTM Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GNTM%20Finale",
-        "pubdate": "Thu, 15 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Neuschwanstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuschwanstein",
         "pubdate": "Thu, 15 Jun 2023 15:00:00 +0200"
@@ -97,13 +83,6 @@
         "title": "Christoph Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christoph%20Schneider",
         "pubdate": "Thu, 15 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beyonce",
-        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beyonce",
+        "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Southside Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southside%20Festival",
+        "pubdate": "Thu, 15 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gündogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCndogan",
+        "pubdate": "Thu, 15 Jun 2023 12:00:00 +0200"
       }
     ]
   ]
