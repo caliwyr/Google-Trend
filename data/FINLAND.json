@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 07:47:51",
+  "lastUpdate": "17-06-2023 , 07:57:08",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Pluto TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pluto%20TV",
-        "pubdate": "Thu, 15 Jun 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Black Mirror",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Black%20Mirror",
         "pubdate": "Thu, 15 Jun 2023 18:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Glenda Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Glenda%20Jackson",
         "pubdate": "Thu, 15 Jun 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Pitbull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pitbull",
+        "pubdate": "Thu, 15 Jun 2023 08:00:00 +0300"
       }
     ]
   ]
