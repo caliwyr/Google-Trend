@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 21:47:06",
+  "lastUpdate": "17-06-2023 , 21:56:20",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
+        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zoe saldana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zoe%20saldana",
         "pubdate": "Sat, 17 Jun 2023 07:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "Demi Lovato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Demi%20Lovato",
         "pubdate": "Sat, 17 Jun 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
-        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Logan Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Logan%20Paul",
-        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Extraction 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Extraction%202",
         "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
@@ -124,6 +117,13 @@
       {
         "title": "Andre Rieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andre%20Rieu",
+        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Logan Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Logan%20Paul",
         "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
       }
     ],
