@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-06-2023 , 19:49:16",
+  "lastUpdate": "17-06-2023 , 19:58:32",
   "data": [
-    [
-      {
-        "title": "Formel-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
-        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Trooping the Colour",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Kourtney Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kourtney%20Kardashian",
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
@@ -27,6 +20,13 @@
         "title": "Handball Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Champions%20League",
         "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kourtney Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kourtney%20Kardashian",
+        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Nico Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nico%20Santos",
-        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Essen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Essen",
         "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Polen Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polen%20Deutschland",
-        "pubdate": "Fri, 16 Jun 2023 19:00:00 +0200"
+        "title": "Nico Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nico%20Santos",
+        "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,8 +73,29 @@
     ],
     [
       {
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Deutschland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
+        "pubdate": "Fri, 16 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nationalmannschaft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nationalmannschaft",
+        "pubdate": "Fri, 16 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juliette Schoppmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juliette%20Schoppmann",
         "pubdate": "Fri, 16 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "World Cup of Darts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#World%20Cup%20of%20Darts",
         "pubdate": "Thu, 15 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ratiopharm Ulm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ratiopharm%20Ulm",
-        "pubdate": "Thu, 15 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nations%20League",
-        "pubdate": "Wed, 14 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
