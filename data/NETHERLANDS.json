@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 23:50:07",
+  "lastUpdate": "17-06-2023 , 23:59:35",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Grand Prix Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix%20Canada",
-        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dadi, Freyr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dadi,%20Freyr",
         "pubdate": "Sat, 17 Jun 2023 19:00:00 +0200"
@@ -66,8 +59,15 @@
     ],
     [
       {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
+        "title": "Grand Prix Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix%20Canada",
+        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
         "pubdate": "Fri, 16 Jun 2023 07:00:00 +0200"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Pinkpop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pinkpop",
         "pubdate": "Fri, 16 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jochem Myjer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jochem%20Myjer",
-        "pubdate": "Fri, 16 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -118,6 +111,13 @@
         "title": "Sophie in 't Veld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sophie%20in%20't%20Veld",
         "pubdate": "Fri, 16 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EK-kwalificatie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK-kwalificatie",
+        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
       }
     ],
     [
