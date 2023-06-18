@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 02:01:06",
+  "lastUpdate": "18-06-2023 , 02:55:30",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Santa cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20cruz",
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
         "pubdate": "Sat, 17 Jun 2023 18:00:00 -0500"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Sat, 17 Jun 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Guiné Equatorial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guin%C3%A9%20Equatorial",
         "pubdate": "Sat, 17 Jun 2023 15:00:00 -0500"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
-        "pubdate": "Sat, 17 Jun 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Brasileiro Feminino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20Feminino",
         "pubdate": "Sat, 17 Jun 2023 19:00:00 -0500"
@@ -97,13 +97,6 @@
         "title": "Programa Silvio Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Programa%20Silvio%20Santos",
         "pubdate": "Sat, 17 Jun 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rooney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rooney",
-        "pubdate": "Sat, 17 Jun 2023 12:00:00 -0500"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Senegal",
-        "pubdate": "Sat, 17 Jun 2023 16:00:00 -0500"
+        "title": "Rony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rony",
+        "pubdate": "Sat, 17 Jun 2023 17:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Brasil futebol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20futebol",
-        "pubdate": "Sat, 17 Jun 2023 17:00:00 -0500"
+        "title": "Senegal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Senegal",
+        "pubdate": "Sat, 17 Jun 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jota Quest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jota%20Quest",
+        "pubdate": "Sat, 17 Jun 2023 20:00:00 -0500"
       }
     ]
   ]
