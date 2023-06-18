@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 21:44:09",
+  "lastUpdate": "18-06-2023 , 21:53:34",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Ligue des nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20nations",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schwarzsee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwarzsee",
         "pubdate": "Sun, 18 Jun 2023 09:00:00 +0200"
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Klimaschutzgesetz Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klimaschutzgesetz%20Schweiz",
-        "pubdate": "Sun, 18 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ligue des nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20nations",
-        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
+        "title": "Formel-1-Rennen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1-Rennen",
+        "pubdate": "Sun, 18 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Formel 1: Rennen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201:%20Rennen",
-        "pubdate": "Sun, 18 Jun 2023 08:00:00 +0200"
+        "title": "Abstimmungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen",
+        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Tour de Suisse Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Suisse%20Frauen",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
+        "title": "Algarve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Algarve",
+        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Algarve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Algarve",
-        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
+        "title": "Tour de Suisse Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Suisse%20Frauen",
+        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cristiano%20Ronaldo",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joe%20Biden",
         "pubdate": "Sun, 18 Jun 2023 07:00:00 +0200"
@@ -129,15 +122,22 @@
     ],
     [
       {
-        "title": "Aletsch Halbmarathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aletsch%20Halbmarathon",
-        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cristiano%20Ronaldo",
+        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Marc Marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marc%20Marquez",
+        "title": "Paul Newman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Newman",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aletsch Halbmarathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aletsch%20Halbmarathon",
         "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
       }
     ]
