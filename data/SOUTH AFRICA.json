@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 12:34:32",
+  "lastUpdate": "18-06-2023 , 12:54:00",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cristiano%20Ronaldo",
+        "pubdate": "Sun, 18 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Father's Day message",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Father's%20Day%20message",
         "pubdate": "Sun, 18 Jun 2023 10:00:00 +0200"
       }
     ],
@@ -34,13 +41,6 @@
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kourtney%20Kardashian",
         "pubdate": "Sat, 17 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Currie Cup semi finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Currie%20Cup%20semi%20finals",
-        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Currie Cup semi finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Currie%20Cup%20semi%20finals",
+        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chiefs vs Brumbies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs%20vs%20Brumbies",
         "pubdate": "Sat, 17 Jun 2023 12:00:00 +0200"
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Pumas vs Sharks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pumas%20vs%20Sharks",
+        "pubdate": "Sat, 17 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "South Africa vs Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Morocco",
         "pubdate": "Fri, 16 Jun 2023 17:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Malta vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Malta%20vs%20England",
-        "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Portugal vs Bosnia and Herzegovina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Portugal%20vs%20Bosnia%20and%20Herzegovina",
         "pubdate": "Fri, 16 Jun 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1",
         "pubdate": "Fri, 16 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Extraction 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Extraction%202",
-        "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 12:34:33",
+  "lastUpdate": "18-06-2023 , 12:54:01",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England",
-        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sverige Nya Zeeland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Nya%20Zeeland",
         "pubdate": "Fri, 16 Jun 2023 00:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Gino Mäder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gino%20M%C3%A4der",
         "pubdate": "Fri, 16 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hugo Larsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Larsson",
-        "pubdate": "Fri, 16 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Dreamhack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dreamhack",
         "pubdate": "Fri, 16 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elanga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elanga",
+        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
+        "pubdate": "Fri, 16 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
