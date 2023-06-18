@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 16:48:08",
+  "lastUpdate": "18-06-2023 , 16:57:30",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "キャンドルジュン",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3",
+        "title": "広末涼子",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BA%83%E6%9C%AB%E6%B6%BC%E5%AD%90",
         "pubdate": "Sun, 18 Jun 2023 16:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "鬼滅の刃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0900"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "鬼滅の刃刀鍛冶の里編",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83%E5%88%80%E9%8D%9B%E5%86%B6%E3%81%AE%E9%87%8C%E7%B7%A8",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0900"
+        "title": "専門学校バーベキュー死亡事故",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC%E6%AD%BB%E4%BA%A1%E4%BA%8B%E6%95%85",
+        "pubdate": "Sun, 18 Jun 2023 14:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "児童手当",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%85%90%E7%AB%A5%E6%89%8B%E5%BD%93",
         "pubdate": "Wed, 14 Jun 2023 06:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "AWS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#AWS",
-        "pubdate": "Wed, 14 Jun 2023 11:00:00 +0900"
       }
     ]
   ]
