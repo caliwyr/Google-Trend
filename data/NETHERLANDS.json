@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-06-2023 , 13:42:56",
+  "lastUpdate": "18-06-2023 , 13:52:22",
   "data": [
     [
       {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beyonce",
         "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hulkenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hulkenberg",
+        "pubdate": "Sun, 18 Jun 2023 06:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Grand Prix Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix%20Canada",
-        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Xavier Rudd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Xavier%20Rudd",
         "pubdate": "Sat, 17 Jun 2023 15:00:00 +0200"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Nederland italie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20italie",
+        "pubdate": "Fri, 16 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beyonce",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Guus Meeuwis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Guus%20Meeuwis",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EK-kwalificatie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK-kwalificatie",
-        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
