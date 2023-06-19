@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-06-2023 , 16:51:04",
+  "lastUpdate": "19-06-2023 , 17:00:21",
   "data": [
+    [
+      {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Titanic",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bebe Rexha",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Bane Nor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bane%20Nor",
-        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0200"
+        "title": "Ingrid Syrstad Engen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Syrstad%20Engen",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Long covid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Long%20covid",
         "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karpe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Karpe",
+        "pubdate": "Sun, 18 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Portugal",
-        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sami Sheen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sami%20Sheen",
         "pubdate": "Sat, 17 Jun 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
         "pubdate": "Sat, 17 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
-        "pubdate": "Sat, 17 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
