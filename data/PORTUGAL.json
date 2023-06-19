@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 12:38:13",
+  "lastUpdate": "19-06-2023 , 12:59:06",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Kalorama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kalorama",
+        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Exame portugues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Exame%20portugues",
+        "pubdate": "Mon, 19 Jun 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Diego Moreira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diego%20Moreira",
         "pubdate": "Mon, 19 Jun 2023 03:00:00 +0100"
@@ -48,20 +62,6 @@
         "title": "Luis Enrique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Enrique",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rita Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Pereira",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kalorama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kalorama",
-        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0100"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Dia do Pai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Pai",
-        "pubdate": "Sun, 18 Jun 2023 04:00:00 +0100"
+        "title": "Salve-se Quem Puder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salve-se%20Quem%20Puder",
+        "pubdate": "Sun, 18 Jun 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Salve-se Quem Puder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salve-se%20Quem%20Puder",
-        "pubdate": "Sun, 18 Jun 2023 02:00:00 +0100"
+        "title": "Dia do Pai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Pai",
+        "pubdate": "Sun, 18 Jun 2023 04:00:00 +0100"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 12:38:06",
+  "lastUpdate": "19-06-2023 , 12:58:53",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Snake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Snake",
-        "pubdate": "Mon, 19 Jun 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Bradley Beal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradley%20Beal",
         "pubdate": "Mon, 19 Jun 2023 08:00:00 +1000"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Snake",
+        "pubdate": "Mon, 19 Jun 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Classroom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Classroom",
         "pubdate": "Mon, 19 Jun 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Will%20Smith",
+        "pubdate": "Mon, 19 Jun 2023 14:00:00 +1000"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Teams",
         "pubdate": "Mon, 19 Jun 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Will%20Smith",
-        "pubdate": "Mon, 19 Jun 2023 14:00:00 +1000"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Microsoft Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Microsoft%20Teams",
-        "pubdate": "Mon, 19 Jun 2023 13:00:00 +1000"
+        "title": "Joe Root",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Root",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +1000"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Joe Root",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Root",
-        "pubdate": "Mon, 19 Jun 2023 21:00:00 +1000"
+        "title": "Microsoft Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Microsoft%20Teams",
+        "pubdate": "Mon, 19 Jun 2023 13:00:00 +1000"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "PwC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PwC",
         "pubdate": "Mon, 19 Jun 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Pat Cummins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pat%20Cummins",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paul Denyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paul%20Denyer",
         "pubdate": "Mon, 19 Jun 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Earthquake Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Earthquake%20Sydney",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +1000"
       }
     ]
   ]
