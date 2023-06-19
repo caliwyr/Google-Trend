@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 02:30:10",
+  "lastUpdate": "19-06-2023 , 02:54:13",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Enrique",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vitor Roque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitor%20Roque",
         "pubdate": "Mon, 19 Jun 2023 02:00:00 +0100"
@@ -41,6 +34,13 @@
         "title": "Rita Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Pereira",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Diego Moreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diego%20Moreira",
+        "pubdate": "Mon, 19 Jun 2023 03:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Australia",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rui Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Costa",
         "pubdate": "Sun, 18 Jun 2023 04:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Portugal Bósnia-Herzegovina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20B%C3%B3snia-Herzegovina",
         "pubdate": "Sun, 18 Jun 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "One Piece",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#One%20Piece",
-        "pubdate": "Sun, 18 Jun 2023 10:00:00 +0100"
       }
     ]
   ]
