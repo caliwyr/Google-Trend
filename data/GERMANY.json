@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 19:48:22",
+  "lastUpdate": "19-06-2023 , 19:57:48",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Willis",
+        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tödlicher Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%B6dlicher%20Unfall",
         "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SC Magdeburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Magdeburg",
+        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Willis",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+        "title": "DWD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DWD",
+        "pubdate": "Mon, 19 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "Joselu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joselu",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DWD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DWD",
-        "pubdate": "Mon, 19 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Uwe Seeler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uwe%20Seeler",
         "pubdate": "Mon, 19 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Salman Rushdie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Salman%20Rushdie",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -82,7 +96,7 @@
       {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nations%20League",
-        "pubdate": "Sun, 18 Jun 2023 19:00:00 +0200"
+        "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "SC Magdeburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Magdeburg",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
+        "title": "Klaas Heufer-Umlauf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klaas%20Heufer-Umlauf",
+        "pubdate": "Sun, 18 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Schwerin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwerin",
-        "pubdate": "Sun, 18 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel-1 Rennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1%20Rennen",
         "pubdate": "Sun, 18 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal Auslosung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20Auslosung",
-        "pubdate": "Sat, 17 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
