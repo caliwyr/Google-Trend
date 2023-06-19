@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 20:54:04",
+  "lastUpdate": "19-06-2023 , 21:08:15",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Qatar vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Qatar%20vs%20New%20Zealand",
+        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kazoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kazoo",
         "pubdate": "Mon, 19 Jun 2023 10:00:00 +0200"
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Joselu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Joselu",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
+        "title": "Juneteenth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juneteenth",
+        "pubdate": "Mon, 19 Jun 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Juneteenth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juneteenth",
-        "pubdate": "Mon, 19 Jun 2023 16:00:00 +0200"
+        "title": "Joselu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Joselu",
+        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Shaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shaka",
+        "title": "Nomzamo Mbatha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nomzamo%20Mbatha",
         "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
       }
     ],
@@ -89,13 +103,6 @@
       {
         "title": "Carte Blanche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carte%20Blanche",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nomzamo Mbatha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nomzamo%20Mbatha",
         "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sierra Leone vs Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sierra%20Leone%20vs%20Nigeria",
         "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lewis%20Hamilton",
-        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
