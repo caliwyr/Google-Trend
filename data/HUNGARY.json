@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 04:46:28",
+  "lastUpdate": "19-06-2023 , 04:56:08",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Szikora Róbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szikora%20R%C3%B3bert",
-        "pubdate": "Sun, 18 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Magdeburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magdeburg",
         "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Szikora Róbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szikora%20R%C3%B3bert",
+        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joselu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joselu",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Női kosárlabda-Eb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20kos%C3%A1rlabda-Eb",
+        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Henry%20Cavill",
         "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Kanadai Nagydíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kanadai%20Nagyd%C3%ADj",
-        "pubdate": "Sat, 17 Jun 2023 21:00:00 +0200"
+        "title": "F1 időmérő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20id%C5%91m%C3%A9r%C5%91",
+        "pubdate": "Sat, 17 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kick",
         "pubdate": "Sat, 17 Jun 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szoboszlai Dominik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
-        "pubdate": "Sat, 17 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
