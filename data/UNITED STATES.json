@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-06-2023 , 14:47:37",
+  "lastUpdate": "19-06-2023 , 14:57:06",
   "data": [
-    [
-      {
-        "title": "NBA news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20news",
-        "pubdate": "Mon, 19 Jun 2023 03:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Bebe Rexha",
@@ -17,23 +10,23 @@
     ],
     [
       {
+        "title": "NBA news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20news",
+        "pubdate": "Mon, 19 Jun 2023 03:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Juneteenth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juneteenth",
+        "pubdate": "Sun, 18 Jun 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "What is Juneteenth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20is%20Juneteenth",
         "pubdate": "Sun, 18 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Wyndham Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wyndham%20Clark",
-        "pubdate": "Sun, 18 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Croatia vs Spain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Croatia%20vs%20Spain",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 -0700"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Beyond Wonderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beyond%20Wonderland",
-        "pubdate": "Sun, 18 Jun 2023 07:00:00 -0700"
+        "title": "Croatia vs Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Croatia%20vs%20Spain",
+        "pubdate": "Sun, 18 Jun 2023 11:00:00 -0700"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "USMNT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USMNT",
-        "pubdate": "Sun, 18 Jun 2023 18:00:00 -0700"
+        "title": "Beyond Wonderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beyond%20Wonderland",
+        "pubdate": "Sun, 18 Jun 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Rory McIlroy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rory%20McIlroy",
+        "pubdate": "Sun, 18 Jun 2023 13:00:00 -0700"
       }
     ],
     [
@@ -80,16 +80,9 @@
     ],
     [
       {
-        "title": "Canadian Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canadian%20Grand%20Prix",
-        "pubdate": "Sun, 18 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Walking Dead: Dead City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Walking%20Dead:%20Dead%20City",
-        "pubdate": "Sun, 18 Jun 2023 19:00:00 -0700"
+        "title": "Paul McCartney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20McCartney",
+        "pubdate": "Sun, 18 Jun 2023 08:00:00 -0700"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico",
         "pubdate": "Sun, 18 Jun 2023 22:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Canadian Grand Prix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canadian%20Grand%20Prix",
+        "pubdate": "Sun, 18 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Squid Game Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Squid%20Game%20Season%202",
+        "title": "Squid Game season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Squid%20Game%20season%202",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 -0700"
       }
     ],

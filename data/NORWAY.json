@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "19-06-2023 , 14:47:43",
+  "lastUpdate": "19-06-2023 , 14:57:16",
   "data": [
-    [
-      {
-        "title": "Bane Nor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bane%20Nor",
-        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kristian Valen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bebe Rexha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
+        "pubdate": "Mon, 19 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vladimir%20Putin",
+        "title": "Vladimir putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vladimir%20putin",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vendela Kirsebom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vendela%20Kirsebom",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Michelle Ullestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Michelle%20Ullestad",
         "pubdate": "Sat, 17 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Norge Skottland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge%20Skottland",
-        "pubdate": "Fri, 16 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
