@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 11:50:18",
+  "lastUpdate": "19-06-2023 , 11:59:41",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Harrison Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harrison%20Ford",
-        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Sat, 17 Jun 2023 01:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Chad Doerman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chad%20Doerman",
         "pubdate": "Sat, 17 Jun 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Gino Mäder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gino%20M%C3%A4der",
+        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0300"
       }
     ]
   ]
