@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 06:40:22",
+  "lastUpdate": "19-06-2023 , 06:49:44",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "OKTAGON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON",
+        "pubdate": "Sun, 18 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ronaldo",
         "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Petr Pavel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Pavel",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
+        "title": "Liga národů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liga národů",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
-        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
+        "title": "Petr Pavel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Pavel",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joe%20Biden",
+        "pubdate": "Sat, 17 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Viktoria Žižkov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20%C5%BDi%C5%BEkov",
         "pubdate": "Sat, 17 Jun 2023 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Vyproštění 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vypro%C5%A1t%C4%9Bn%C3%AD%202",
         "pubdate": "Fri, 16 Jun 2023 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Příběh kmotra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C5%99%C3%ADb%C4%9Bh%20kmotra",
-        "pubdate": "Fri, 16 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1",
-        "pubdate": "Fri, 16 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

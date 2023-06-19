@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-06-2023 , 06:40:24",
+  "lastUpdate": "19-06-2023 , 06:49:45",
   "data": [
+    [
+      {
+        "title": "DWD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DWD",
+        "pubdate": "Mon, 19 Jun 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Uwe Seeler",
@@ -33,7 +40,7 @@
       {
         "title": "Claudia Pechstein Rede CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Pechstein%20Rede%20CDU",
-        "pubdate": "Sun, 18 Jun 2023 14:00:00 +0200"
+        "pubdate": "Sun, 18 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,16 @@
     ],
     [
       {
-        "title": "Handball-Champions-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-Champions-League",
-        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Formel 1 Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Kanada",
-        "pubdate": "Sat, 17 Jun 2023 23:00:00 +0200"
+        "title": "Handball-Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-Champions-League",
+        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
       }
     ],
     [
