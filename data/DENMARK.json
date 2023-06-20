@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 07:45:08",
+  "lastUpdate": "20-06-2023 , 07:54:32",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Angela Thorne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angela%20Thorne",
         "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rasmus Højlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20H%C3%B8jlund",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "Ljubljana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ljubljana",
-        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chase Sui Wonders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chase%20Sui%20Wonders",
-        "pubdate": "Mon, 19 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Generation X",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Generation%20X",
         "pubdate": "Mon, 19 Jun 2023 23:00:00 +0200"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Ljubljana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ljubljana",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Denmark Slovenia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Denmark%20Slovenia",
         "pubdate": "Mon, 19 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chase Sui Wonders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chase%20Sui%20Wonders",
+        "pubdate": "Mon, 19 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "F1 Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20Canada",
+        "title": "F1 canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20canada",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Paddleboard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paddleboard",
         "pubdate": "Sun, 18 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amanda Bynes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Amanda%20Bynes",
-        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
