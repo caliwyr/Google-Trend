@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 22:51:54",
+  "lastUpdate": "20-06-2023 , 23:04:49",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "NBA Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Draft",
+        "pubdate": "Tue, 20 Jun 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jennifer%20Lawrence",
         "pubdate": "Tue, 20 Jun 2023 20:00:00 +1000"
@@ -76,13 +83,6 @@
         "title": "Barnaby Joyce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barnaby%20Joyce",
         "pubdate": "Tue, 20 Jun 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "NBA Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Draft",
-        "pubdate": "Tue, 20 Jun 2023 12:00:00 +1000"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Nathan Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20Lyon",
+        "pubdate": "Tue, 20 Jun 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jacqui Lambie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacqui%20Lambie",
+        "pubdate": "Tue, 20 Jun 2023 23:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Venus Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Venus%20Williams",
         "pubdate": "Tue, 20 Jun 2023 20:00:00 +1000"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Jacqui Lambie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacqui%20Lambie",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ollie Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ollie%20Robinson",
+        "title": "Usman Khawaja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Usman%20Khawaja",
         "pubdate": "Mon, 19 Jun 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Energy Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Energy%20Australia",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +1000"
       }
     ]
   ]

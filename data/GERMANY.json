@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-06-2023 , 22:51:57",
+  "lastUpdate": "20-06-2023 , 23:04:51",
   "data": [
+    [
+      {
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Helene Fischer Unfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+        "title": "Europa-Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa-Park",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Europa-Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa-Park",
-        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
+        "title": "Helene Fischer Unfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "David Safier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#David%20Safier",
         "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Intel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
-        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
