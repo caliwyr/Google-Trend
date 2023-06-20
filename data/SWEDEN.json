@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-06-2023 , 20:51:05",
+  "lastUpdate": "20-06-2023 , 21:00:22",
   "data": [
+    [
+      {
+        "title": "Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
+        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Kraven the Hunter",
@@ -131,13 +138,6 @@
       {
         "title": "Petter Stordalen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petter%20Stordalen",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Global Champions Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Global%20Champions%20Tour",
         "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ]
