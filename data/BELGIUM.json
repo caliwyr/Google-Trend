@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 18:54:45",
+  "lastUpdate": "20-06-2023 , 19:08:29",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Estonie-Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Estonie-Belgique",
-        "pubdate": "Tue, 20 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Orages Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Orages%20Belgique",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
+        "title": "Bordeaux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bordeaux",
+        "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Bordeaux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bordeaux",
-        "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
+        "title": "OceanGate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OceanGate",
+        "pubdate": "Tue, 20 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Orage belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Orage%20belgique",
+        "pubdate": "Tue, 20 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Météo orages",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#M%C3%A9t%C3%A9o%20orages",
+        "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "TF1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TF1",
         "pubdate": "Tue, 20 Jun 2023 10:00:00 +0200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Thibaut Courtois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibaut%20Courtois",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+        "title": "France grece",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20grece",
+        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "France grece",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20grece",
-        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
+        "title": "Thibaut Courtois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibaut%20Courtois",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Yaya Touré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yaya%20Tour%C3%A9",
-        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bebe Rexha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bebe%20Rexha",
         "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ]

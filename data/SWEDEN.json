@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 18:54:53",
+  "lastUpdate": "20-06-2023 , 19:08:37",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Charlotte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlotte",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Linda Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linda%20Hamilton",
         "pubdate": "Sun, 18 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petter Stordalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petter%20Stordalen",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
