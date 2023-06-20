@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 00:48:53",
+  "lastUpdate": "20-06-2023 , 02:01:31",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
+        "title": "Ernst-Happel-Stadion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ernst-Happel-Stadion",
+        "pubdate": "Tue, 20 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arda Güler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arda%20G%C3%BCler",
+        "pubdate": "Tue, 20 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Türkei Wales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei%20Wales",
         "pubdate": "Tue, 20 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Österreich - Schweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20-%20Schweden",
-        "pubdate": "Mon, 19 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Volksbegehren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Volksbegehren",
         "pubdate": "Mon, 19 Jun 2023 10:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "Big Pokey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Big%20Pokey",
         "pubdate": "Mon, 19 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nudelsalat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nudelsalat",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Claudia Pechstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Claudia%20Pechstein",
-        "pubdate": "Mon, 19 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#China",
         "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Türkei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei",
         "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schweiz gegen Rumänien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schweiz%20gegen%20Rum%C3%A4nien",
+        "pubdate": "Mon, 19 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
