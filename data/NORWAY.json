@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-06-2023 , 03:49:02",
+  "lastUpdate": "20-06-2023 , 03:58:20",
   "data": [
+    [
+      {
+        "title": "Telenor Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Telenor%20Arena",
+        "pubdate": "Mon, 19 Jun 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Titanic",
@@ -27,13 +34,6 @@
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
         "pubdate": "Mon, 19 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Weeknd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Weeknd",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Bane Nor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bane%20Nor",
+        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emma Raducanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emma%20Raducanu",
         "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stefan Johansen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stefan%20Johansen",
+        "pubdate": "Mon, 19 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cristiano%20Ronaldo",
         "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vladimir%20Putin",
-        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vendela Kirsebom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vendela%20Kirsebom",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
