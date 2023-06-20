@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "20-06-2023 , 13:46:04",
+  "lastUpdate": "20-06-2023 , 13:55:18",
   "data": [
     [
       {
         "title": "KNMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DeGiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#DeGiro",
         "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Arnhem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arnhem",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Burna Boy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Burna%20Boy",
         "pubdate": "Sat, 17 Jun 2023 15:00:00 +0200"
@@ -138,6 +124,20 @@
       {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beyonce",
+        "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GP Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Canada",
+        "pubdate": "Fri, 16 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yvonne Coldeweijer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yvonne%20Coldeweijer",
         "pubdate": "Fri, 16 Jun 2023 11:00:00 +0200"
       }
     ]
