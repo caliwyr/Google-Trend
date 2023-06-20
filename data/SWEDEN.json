@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 21:53:23",
+  "lastUpdate": "20-06-2023 , 22:07:17",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Lotta på Liseberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lotta%20p%C3%A5%20Liseberg",
-        "pubdate": "Mon, 19 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Metallica Ullevi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Metallica%20Ullevi",
         "pubdate": "Mon, 19 Jun 2023 11:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titanic",
         "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lotta Engberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lotta%20Engberg",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Angela Thorne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angela%20Thorne",
         "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maja Nilsson Lindelöf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20Nilsson%20Lindel%C3%B6f",
+        "pubdate": "Mon, 19 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Linda Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linda%20Hamilton",
         "pubdate": "Sun, 18 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petter Stordalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petter%20Stordalen",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
