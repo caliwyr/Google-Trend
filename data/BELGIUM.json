@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-06-2023 , 10:54:58",
+  "lastUpdate": "20-06-2023 , 11:08:54",
   "data": [
+    [
+      {
+        "title": "Claude Sarraute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Claude%20Sarraute",
+        "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Florent Pagny",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Estonie-Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Estonie-Belgique",
+        "title": "Estonie Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Estonie%20Belgique",
         "pubdate": "Tue, 20 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kraven the Hunter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kraven%20the%20Hunter",
+        "pubdate": "Tue, 20 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Helene Fischer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helene%20Fischer",
-        "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bebe%20Rexha",
         "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
@@ -66,16 +73,23 @@
     ],
     [
       {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
+        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helene%20Fischer",
         "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
+        "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Malta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Malta",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Angleterre – Macédoine du Nord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angleterre%20%E2%80%93%20Mac%C3%A9doine%20du%20Nord",
-        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Renault Rafale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Renault%20Rafale",
-        "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
