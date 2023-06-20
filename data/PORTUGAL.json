@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 02:51:30",
+  "lastUpdate": "20-06-2023 , 03:03:01",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Lando Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lando%20Norris",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "João Félix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20F%C3%A9lix",
         "pubdate": "Mon, 19 Jun 2023 21:00:00 +0100"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Di Maria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Di%20Maria",
+        "title": "Lando Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lando%20Norris",
+        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Di maria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Di%20maria",
         "pubdate": "Mon, 19 Jun 2023 23:00:00 +0100"
       }
     ]
