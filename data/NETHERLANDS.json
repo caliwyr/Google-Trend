@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-06-2023 , 10:53:08",
+  "lastUpdate": "21-06-2023 , 11:06:43",
   "data": [
+    [
+      {
+        "title": "LTO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#LTO",
+        "pubdate": "Wed, 21 Jun 2023 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Opsporing Verzocht",
@@ -12,6 +19,13 @@
       {
         "title": "Kevin van Veen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kevin%20van%20Veen",
+        "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cristiano%20Ronaldo",
         "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
       }
     ],
@@ -34,6 +48,13 @@
         "title": "EK-kwalificatie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK-kwalificatie",
         "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steekpartij Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steekpartij%20Den%20Haag",
+        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Griekspoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
         "pubdate": "Sat, 17 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
-        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pinkpop 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pinkpop%202023",
-        "pubdate": "Fri, 16 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Canada",
-        "pubdate": "Fri, 16 Jun 2023 07:00:00 +0200"
       }
     ]
   ]
