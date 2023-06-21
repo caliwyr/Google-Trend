@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 11:55:11",
+  "lastUpdate": "21-06-2023 , 12:23:16",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Fete de la musique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20de%20la%20musique",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Solstice d'été",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Solstice%20d'%C3%A9t%C3%A9",
         "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
@@ -24,9 +31,23 @@
     ],
     [
       {
+        "title": "Challengers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Challengers",
+        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Onana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Onana",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Aster Vranckx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aster%20Vranckx",
-        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Islande – Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Islande%20%E2%80%93%20Portugal",
         "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Belgie voetbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20voetbal",
-        "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Algerie Tunisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Algerie%20Tunisie",
         "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
@@ -94,8 +101,29 @@
     ],
     [
       {
+        "title": "Belgie voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20voetbal",
+        "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Brésil – Sénégal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Br%C3%A9sil%20%E2%80%93%20S%C3%A9n%C3%A9gal",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aster Vranckx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aster%20Vranckx",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgique",
         "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
       }
     ],
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgique",
-        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Andrew%20Tate",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Domenico Tedesco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Domenico%20Tedesco",
         "pubdate": "Tue, 20 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Claude Sarraute: Laurent Ruquier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Claude%20Sarraute:%20Laurent%20Ruquier",
-        "pubdate": "Tue, 20 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emma Watson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emma%20Watson",
-        "pubdate": "Tue, 20 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
