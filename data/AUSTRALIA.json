@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 12:50:20",
+  "lastUpdate": "21-06-2023 , 13:07:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift",
         "pubdate": "Wed, 21 Jun 2023 04:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NRL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL",
+        "pubdate": "Wed, 21 Jun 2023 22:00:00 +1000"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Hunter Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hunter%20Biden",
-        "pubdate": "Wed, 21 Jun 2023 10:00:00 +1000"
+        "title": "Suncorp Stadium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suncorp%20Stadium",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Suncorp Stadium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suncorp%20Stadium",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +1000"
+        "title": "Hunter Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hunter%20Biden",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Pat Cummins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pat%20Cummins",
-        "pubdate": "Tue, 20 Jun 2023 12:00:00 +1000"
       }
     ]
   ]
