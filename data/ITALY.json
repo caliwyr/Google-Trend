@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 02:49:24",
+  "lastUpdate": "21-06-2023 , 02:58:37",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alcaraz",
-        "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andrew%20Tate",
         "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Thuram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thuram",
-        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alcaraz",
+        "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Blanca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blanca",
-        "pubdate": "Tue, 20 Jun 2023 09:00:00 +0200"
+        "title": "San Luigi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#San%20Luigi",
+        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thuram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thuram",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
