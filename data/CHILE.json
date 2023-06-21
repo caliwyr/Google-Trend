@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-06-2023 , 08:45:41",
+  "lastUpdate": "21-06-2023 , 08:55:14",
   "data": [
-    [
-      {
-        "title": "Brasil  Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20%20Senegal",
-        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Portugal vs",
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Alemania  Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania%20%20Colombia",
+        "title": "Alemania vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania%20vs",
+        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Brasil  Senegal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20%20Senegal",
         "pubdate": "Tue, 20 Jun 2023 15:00:00 -0400"
       }
     ],
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Peru vs japon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peru%20vs%20japon",
-        "pubdate": "Tue, 20 Jun 2023 06:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Uruguay  Cuba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Uruguay%20%20Cuba",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 -0400"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Partido de Chile hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20de%20Chile%20hoy",
-        "pubdate": "Tue, 20 Jun 2023 17:00:00 -0400"
+        "title": "Peru vs japon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peru%20vs%20japon",
+        "pubdate": "Tue, 20 Jun 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Amistosos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amistosos",
+        "pubdate": "Tue, 20 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Subsidio de Arriendo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Subsidio%20de%20Arriendo",
         "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Diputada perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diputada%20perez",
+        "pubdate": "Tue, 20 Jun 2023 18:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Noche de San Juan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noche%20de%20San%20Juan",
         "pubdate": "Tue, 20 Jun 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Gary Medel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gary%20Medel",
-        "pubdate": "Tue, 20 Jun 2023 21:00:00 -0400"
       }
     ]
   ]
