@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 06:49:42",
+  "lastUpdate": "21-06-2023 , 06:58:57",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "GG Allin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GG%20Allin",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Angela Thorne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angela%20Thorne",
         "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Linda Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linda%20Hamilton",
         "pubdate": "Sun, 18 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petter Stordalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petter%20Stordalen",
-        "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
