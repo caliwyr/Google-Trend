@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 07:44:22",
+  "lastUpdate": "21-06-2023 , 07:53:34",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Atletico Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atletico%20Nacional",
+        "pubdate": "Tue, 20 Jun 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Caracoltv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracoltv",
         "pubdate": "Tue, 20 Jun 2023 14:00:00 -0500"
@@ -41,13 +48,6 @@
         "title": "Icetex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Icetex",
         "pubdate": "Tue, 20 Jun 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nacional vs Millonarios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nacional%20vs%20Millonarios",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 -0500"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Brasil",
+        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Uruguay  Cuba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Uruguay%20%20Cuba",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 -0500"
@@ -90,6 +97,13 @@
         "title": "Japón  Perú",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jap%C3%B3n%20%20Per%C3%BA",
         "pubdate": "Tue, 20 Jun 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Renovacion de licencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Renovacion%20de%20licencia",
+        "pubdate": "Tue, 20 Jun 2023 09:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Yerry Mina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Yerry%20Mina",
-        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Musiala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Musiala",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Eliminatorias",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0500"
+        "title": "Copa America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20America",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 -0500"
       }
     ]
   ]
