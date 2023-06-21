@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-06-2023 , 19:44:43",
+  "lastUpdate": "21-06-2023 , 19:54:00",
   "data": [
     [
       {
         "title": "Fussball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
         "pubdate": "Wed, 21 Jun 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nintendo Direct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nintendo%20Direct",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,20 @@
     ],
     [
       {
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nintendo%20Direct",
+        "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Deutschland - Kolumbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20-%20Kolumbien",
         "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
@@ -31,23 +38,16 @@
     ],
     [
       {
+        "title": "U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U-Boot",
+        "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift%20Tour",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
-        "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lehrerschmidt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lehrerschmidt",
-        "pubdate": "Tue, 20 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Gündogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCndogan",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
-        "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Deutschland Kolumbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Kolumbien",
         "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

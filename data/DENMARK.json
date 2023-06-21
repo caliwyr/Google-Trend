@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 19:44:42",
+  "lastUpdate": "21-06-2023 , 19:53:59",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UEFA",
         "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
@@ -34,13 +41,6 @@
         "title": "Peniston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peniston",
         "pubdate": "Wed, 21 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Secret Invasion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Secret%20Invasion",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Eurojackpot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eurojackpot",
-        "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
+        "title": "XPeng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#XPeng",
+        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
+        "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift Europe tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift%20Europe%20tour",
         "pubdate": "Tue, 20 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andrew%20Tate",
-        "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
+        "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sport",
         "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paxton Whitehead",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paxton%20Whitehead",
-        "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
