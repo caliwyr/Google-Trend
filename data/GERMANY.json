@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "21-06-2023 , 17:42:39",
+  "lastUpdate": "21-06-2023 , 17:51:55",
   "data": [
     [
       {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
-        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+        "title": "Fussball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
+        "pubdate": "Wed, 21 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -20,13 +20,6 @@
         "title": "Nintendo Direct",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nintendo%20Direct",
         "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tornado",
-        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Hunter Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hunter%20Biden",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
         "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
@@ -94,8 +80,8 @@
     ],
     [
       {
-        "title": "Hamish Harding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamish%20Harding",
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic",
         "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -111,13 +97,6 @@
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
         "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Depeche Mode München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Depeche%20Mode%20M%C3%BCnchen",
-        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Deutschland Kolumbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Kolumbien",
         "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robert Habeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
+        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal Auslosung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20Auslosung",
+        "pubdate": "Sat, 17 Jun 2023 09:00:00 +0200"
       }
     ]
   ]

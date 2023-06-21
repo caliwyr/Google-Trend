@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 17:42:49",
+  "lastUpdate": "21-06-2023 , 17:52:01",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Smosh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Smosh",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
+        "title": "Försvunnen ubåt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rsvunnen%20ub%C3%A5t",
+        "pubdate": "Wed, 21 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,20 @@
         "title": "PFAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PFAS",
         "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Smosh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Smosh",
+        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robin Olsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robin%20Olsen",
+        "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Österrike mot Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96sterrike%20mot%20Sverige",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sverige Österrike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20%C3%96sterrike",
         "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Österrike Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96sterrike%20Sverige",
+        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titanic",
         "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bebe%20Rexha",
         "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carnegie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carnegie",
-        "pubdate": "Mon, 19 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GG Allin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GG%20Allin",
-        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
