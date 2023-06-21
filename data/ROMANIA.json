@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 13:44:05",
+  "lastUpdate": "21-06-2023 , 13:53:25",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Incendiu Petromidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Petromidia",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Horoscop 21 iunie 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2021%20iunie%202023",
         "pubdate": "Wed, 21 Jun 2023 01:00:00 +0300"
@@ -48,13 +55,6 @@
         "title": "Gavi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gavi",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CSKA 1948",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSKA%201948",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0300"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Hamish Harding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hamish%20Harding",
-        "pubdate": "Tue, 20 Jun 2023 00:00:00 +0300"
+        "title": "Sheriff Tiraspol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sheriff%20Tiraspol",
+        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0300"
       }
     ],
     [
@@ -101,23 +101,16 @@
     ],
     [
       {
+        "title": "Hamish Harding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hamish%20Harding",
+        "pubdate": "Tue, 20 Jun 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrew%20Tate",
         "pubdate": "Tue, 20 Jun 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Romania U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20U21",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sheriff Tiraspol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sheriff%20Tiraspol",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Anca Țurcașiu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anca%20%C8%9Aurca%C8%99iu",
         "pubdate": "Tue, 20 Jun 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Israel",
+        "pubdate": "Tue, 20 Jun 2023 02:00:00 +0300"
       }
     ]
   ]
