@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 05:56:23",
+  "lastUpdate": "21-06-2023 , 06:17:48",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
+        "pubdate": "Tue, 20 Jun 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
-        "pubdate": "Tue, 20 Jun 2023 09:00:00 +0200"
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Udvaros Dorottya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Udvaros%20Dorottya",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lyme-kór",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lyme-k%C3%B3r",
         "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emma Watson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Emma%20Watson",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Emma Watson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Emma%20Watson",
+        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alan Turing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alan%20Turing",
         "pubdate": "Tue, 20 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magyar foci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20foci",
+        "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
