@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-06-2023 , 15:50:05",
+  "lastUpdate": "21-06-2023 , 15:59:24",
   "data": [
     [
       {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
-        "pubdate": "Wed, 21 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Lehrerschmidt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lehrerschmidt",
-        "pubdate": "Tue, 20 Jun 2023 09:00:00 +0200"
+        "title": "Tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tornado",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Deutschland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oppenheimer",
-        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Depeche Mode München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Depeche%20Mode%20M%C3%BCnchen",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Intel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
         "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
+        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robert Habeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
       }
     ]
