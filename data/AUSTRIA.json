@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-06-2023 , 23:50:50",
+  "lastUpdate": "22-06-2023 , 00:00:05",
   "data": [
+    [
+      {
+        "title": "Unwetterwarnung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetterwarnung",
+        "pubdate": "Wed, 21 Jun 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Unwetter",
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Kärnten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%A4rnten",
-        "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Direct",
+        "pubdate": "Wed, 21 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nintendo Direct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Direct",
-        "pubdate": "Wed, 21 Jun 2023 17:00:00 +0200"
+        "title": "Kärnten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%A4rnten",
+        "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galatasaray",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Die Toten von Salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Toten%20von%20Salzburg",
-        "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
