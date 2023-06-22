@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-06-2023 , 23:50:02",
+  "lastUpdate": "22-06-2023 , 23:59:28",
   "data": [
     [
       {
         "title": "Palestino  Santiago Morning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino%20%20Santiago%20Morning",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Canal Santa Marta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%20Santa%20Marta",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 -0400"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Thu, 22 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Madeleine%20McCann",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 -0400"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Thu, 22 Jun 2023 16:00:00 -0400"
+        "title": "Colo Colo Copa Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20Copa%20Chile",
+        "pubdate": "Thu, 22 Jun 2023 15:00:00 -0400"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Colo Colo Copa Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20Copa%20Chile",
-        "pubdate": "Thu, 22 Jun 2023 15:00:00 -0400"
+        "title": "Río atmosférico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20atmosf%C3%A9rico",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 -0400"
       }
     ],
     [
@@ -76,20 +90,6 @@
         "title": "Final Fantasy XVI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Final%20Fantasy%20XVI",
         "pubdate": "Thu, 22 Jun 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Invasion Secreta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Invasion%20Secreta",
-        "pubdate": "Thu, 22 Jun 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Río atmosférico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20atmosf%C3%A9rico",
-        "pubdate": "Thu, 22 Jun 2023 18:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Copa Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Chile",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Implosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Implosion",
         "pubdate": "Wed, 21 Jun 2023 21:00:00 -0400"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Zara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zara",
+        "title": "Copa Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Chile",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Visa Waiver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Visa%20Waiver",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 -0400"
       }
     ]

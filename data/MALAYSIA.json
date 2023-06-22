@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-06-2023 , 23:50:06",
+  "lastUpdate": "22-06-2023 , 23:59:32",
   "data": [
-    [
-      {
-        "title": "Nono",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nono",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Havertz",
@@ -139,6 +132,13 @@
         "title": "Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia",
         "pubdate": "Wed, 21 Jun 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Challengers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Challengers",
+        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0800"
       }
     ]
   ]
