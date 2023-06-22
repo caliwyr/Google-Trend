@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 02:53:46",
+  "lastUpdate": "22-06-2023 , 03:09:50",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Nintendo Direct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nintendo%20Direct",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Titanic-U-Boot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic-U-Boot",
         "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "title": "DFB-Team",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Team",
         "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -48,13 +41,6 @@
         "title": "Hunter Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hunter%20Biden",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slipknot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slipknot",
-        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Handball-Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-Champions-League",
+        "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Sat, 17 Jun 2023 10:00:00 +0200"
       }
     ]
   ]
