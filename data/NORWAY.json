@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 19:47:07",
+  "lastUpdate": "22-06-2023 , 19:56:18",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paris",
         "pubdate": "Thu, 22 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Titan",
+        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Solbakken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Solbakken",
+        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Patti Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patti%20Smith",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
@@ -124,20 +138,6 @@
       {
         "title": "Posten.no",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Posten.no",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rødt kjøtt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#R%C3%B8dt%20kj%C3%B8tt",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Avril Lavigne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avril%20Lavigne",
         "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
       }
     ]

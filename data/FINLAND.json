@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 19:46:59",
+  "lastUpdate": "22-06-2023 , 19:56:11",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "TICKETMASTER",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TICKETMASTER",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Secret Invasion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Secret%20Invasion",
         "pubdate": "Wed, 21 Jun 2023 19:00:00 +0300"
@@ -131,13 +138,6 @@
       {
         "title": "Petteri Orpo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Petteri%20Orpo",
-        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Stockton Rush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stockton%20Rush",
         "pubdate": "Tue, 20 Jun 2023 21:00:00 +0300"
       }
     ]
