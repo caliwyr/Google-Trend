@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 16:44:19",
+  "lastUpdate": "22-06-2023 , 16:53:34",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Bahn-Streik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahn-Streik",
         "pubdate": "Thu, 22 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beyonce",
+        "pubdate": "Thu, 22 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -45,8 +52,15 @@
     ],
     [
       {
-        "title": "Titanic-U-Boot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic-U-Boot",
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Springsteen",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U-Boot",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
       }
     ],
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Hunter Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hunter%20Biden",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
+        "title": "Deutschland gegen Kolumbien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Kolumbien",
+        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Helene Fischer Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland gegen Kolumbien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Kolumbien",
-        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
-        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robert Habeck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
       }
     ]
