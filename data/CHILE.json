@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-06-2023 , 04:53:50",
+  "lastUpdate": "22-06-2023 , 05:08:40",
   "data": [
+    [
+      {
+        "title": "Pablo Neruda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pablo%20Neruda",
+        "pubdate": "Thu, 22 Jun 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "U. de Chile - O'Higgins",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Solsticio de invierno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Solsticio%20de%20invierno",
-        "pubdate": "Wed, 21 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Zara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zara",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 -0400"
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Solsticio de invierno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Solsticio%20de%20invierno",
+        "pubdate": "Wed, 21 Jun 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Ernesto Ruiz El Tufo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ernesto%20Ruiz%20El%20Tufo",
         "pubdate": "Wed, 21 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Visa Waiver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Visa%20Waiver",
+        "pubdate": "Wed, 21 Jun 2023 20:00:00 -0400"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Visa Waiver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Visa%20Waiver",
-        "pubdate": "Wed, 21 Jun 2023 20:00:00 -0400"
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0400"
       }
     ],
     [
@@ -75,20 +89,6 @@
       {
         "title": "Eduardo Berizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduardo%20Berizzo",
-        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Futbol chileno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Futbol%20chileno",
-        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Secret Invasion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Secret%20Invasion",
         "pubdate": "Wed, 21 Jun 2023 17:00:00 -0400"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Diputada catalina pérez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diputada%20catalina%20p%C3%A9rez",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0400"
+        "title": "OceanGate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#OceanGate",
+        "pubdate": "Wed, 21 Jun 2023 22:00:00 -0400"
       }
     ],
     [
       {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#OceanGate",
-        "pubdate": "Wed, 21 Jun 2023 22:00:00 -0400"
+        "title": "Diputada catalina pérez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diputada%20catalina%20p%C3%A9rez",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0400"
       }
     ]
   ]
