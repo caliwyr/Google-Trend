@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 20:58:07",
+  "lastUpdate": "22-06-2023 , 21:16:07",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Aurora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aurora",
+        "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Baník Ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Ban%C3%ADk%20Ostrava",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
@@ -48,6 +55,13 @@
         "title": "Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Titan",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rika Fane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rika%20Fane",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladimir%20Putin",
         "pubdate": "Wed, 21 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LP",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olympijský běh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olympijsk%C3%BD%20b%C4%9Bh",
-        "pubdate": "Wed, 21 Jun 2023 17:00:00 +0200"
       }
     ]
   ]
