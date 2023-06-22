@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 13:53:27",
+  "lastUpdate": "22-06-2023 , 14:07:57",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Victor Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Victor%20Wembanyama",
-        "pubdate": "Thu, 22 Jun 2023 05:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
         "pubdate": "Thu, 22 Jun 2023 13:00:00 +0300"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "TICKETMASTER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TICKETMASTER",
-        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0300"
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Victor%20Wembanyama",
+        "pubdate": "Thu, 22 Jun 2023 05:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "James Cameron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#James%20Cameron",
+        "pubdate": "Thu, 22 Jun 2023 16:00:00 +0300"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
         "pubdate": "Wed, 21 Jun 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "TICKETMASTER",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TICKETMASTER",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bebe%20Rexha",
         "pubdate": "Tue, 20 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Peter Hickman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Peter%20Hickman",
-        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0300"
       }
     ]
   ]
