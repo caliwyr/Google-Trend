@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "22-06-2023 , 07:51:40",
+  "lastUpdate": "22-06-2023 , 08:07:21",
   "data": [
     [
       {
-        "title": "Temptation Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Temptation%20Island",
-        "pubdate": "Thu, 22 Jun 2023 00:00:00 +0200"
+        "title": "Alain Berset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alain%20Berset",
+        "pubdate": "Thu, 22 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kai Havertz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kai%20Havertz",
+        "pubdate": "Thu, 22 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simon Verhoeven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Simon%20Verhoeven",
+        "pubdate": "Thu, 22 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -17,20 +31,6 @@
     ],
     [
       {
-        "title": "Unwetterwarnung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetterwarnung",
-        "pubdate": "Wed, 21 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich",
-        "pubdate": "Wed, 21 Jun 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Explosion Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Explosion%20Paris",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gewitter",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
+        "title": "Österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich",
+        "pubdate": "Wed, 21 Jun 2023 05:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Klaus Maria Brandauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klaus%20Maria%20Brandauer",
+        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nintendo Direct",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Direct",
         "pubdate": "Wed, 21 Jun 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Indiana Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Indiana%20Jones",
         "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stefanos Tsitsipas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefanos%20Tsitsipas",
-        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
       }
     ]
   ]

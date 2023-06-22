@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "22-06-2023 , 07:51:40",
+  "lastUpdate": "22-06-2023 , 08:07:22",
   "data": [
     [
       {
         "title": "PlayStation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PlayStation",
         "pubdate": "Thu, 22 Jun 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "São Paulo x Athletico-PR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Athletico-PR",
-        "pubdate": "Wed, 21 Jun 2023 16:00:00 -0500"
       }
     ],
     [
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Neymar",
+        "title": "São Paulo x Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Athletico-PR",
         "pubdate": "Wed, 21 Jun 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Wed, 21 Jun 2023 18:00:00 -0500"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Campeonato Brasileiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro",
         "pubdate": "Wed, 21 Jun 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Neymar",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 -0500"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 -0500"
+        "title": "Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
+        "pubdate": "Wed, 21 Jun 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Zanin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zanin",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 -0500"
       }
     ],
     [
@@ -80,23 +87,16 @@
     ],
     [
       {
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico",
+        "pubdate": "Wed, 21 Jun 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Classificação serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Classifica%C3%A7%C3%A3o%20serie%20a",
         "pubdate": "Wed, 21 Jun 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Zanin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cristiano%20Zanin",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lucia Hippolito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lucia%20Hippolito",
-        "pubdate": "Wed, 21 Jun 2023 10:00:00 -0500"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Pablo Marçal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pablo%20Mar%C3%A7al",
-        "pubdate": "Wed, 21 Jun 2023 07:00:00 -0500"
+        "title": "Lucia Hippolito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lucia%20Hippolito",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sao Paulo fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20fc",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 -0500"
+        "title": "Pablo Marçal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pablo%20Mar%C3%A7al",
+        "pubdate": "Wed, 21 Jun 2023 07:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Solstício de inverno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Solst%C3%ADcio%20de%20inverno",
-        "pubdate": "Wed, 21 Jun 2023 04:00:00 -0500"
+        "title": "Taxa Selic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taxa%20Selic",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 -0500"
       }
     ]
   ]
