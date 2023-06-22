@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-06-2023 , 21:45:34",
+  "lastUpdate": "22-06-2023 , 21:54:53",
   "data": [
-    [
-      {
-        "title": "Implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 15:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Día del Abogado",
@@ -20,6 +13,13 @@
         "title": "Stockton Rush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Stockton%20Rush",
         "pubdate": "Thu, 22 Jun 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Profundidad del Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Profundidad%20del%20Titanic",
+        "pubdate": "Thu, 22 Jun 2023 14:00:00 -0500"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Implosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Implosion",
+        "pubdate": "Wed, 21 Jun 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Dia del Abogado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20Abogado",
         "pubdate": "Wed, 21 Jun 2023 16:00:00 -0500"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Titanic",
-        "pubdate": "Wed, 21 Jun 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rafael Ricardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rafael%20Ricardo",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 -0500"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Colombia vs panama Femenino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia%20vs%20panama%20Femenino",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 -0500"
+        "title": "Colombia vs panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia%20vs%20panama",
+        "pubdate": "Wed, 21 Jun 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportes",
+        "pubdate": "Wed, 21 Jun 2023 22:00:00 -0500"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Marcador. Millonarios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Marcador.%20Millonarios",
-        "pubdate": "Wed, 21 Jun 2023 23:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "James Cameron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#James%20Cameron",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 -0500"
@@ -111,13 +111,6 @@
         "title": "Banco de la republica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Banco%20de%20la%20republica",
         "pubdate": "Wed, 21 Jun 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Palmeiras",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense",
         "pubdate": "Wed, 21 Jun 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Temperatura Cartagena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Temperatura%20Cartagena",
+        "pubdate": "Wed, 21 Jun 2023 14:00:00 -0500"
       }
     ]
   ]

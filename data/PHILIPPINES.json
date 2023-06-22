@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-06-2023 , 21:45:40",
+  "lastUpdate": "22-06-2023 , 21:54:58",
   "data": [
+    [
+      {
+        "title": "Chris Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Chris%20Paul",
+        "pubdate": "Fri, 23 Jun 2023 05:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Kristaps Porzingis",
@@ -40,13 +47,6 @@
       {
         "title": "Dragon Boat Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dragon%20Boat%20Festival",
-        "pubdate": "Thu, 22 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jake Ejercito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jake%20Ejercito",
         "pubdate": "Thu, 22 Jun 2023 12:00:00 +0800"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Scoot Henderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Scoot%20Henderson",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Manatees",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Manatees",
         "pubdate": "Thu, 22 Jun 2023 21:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taylor%20Swift",
         "pubdate": "Wed, 21 Jun 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Titanic",
-        "pubdate": "Wed, 21 Jun 2023 02:00:00 +0800"
       }
     ]
   ]
