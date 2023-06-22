@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 05:44:11",
+  "lastUpdate": "22-06-2023 , 05:53:32",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paris",
+        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Temptation Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Temptation%20Island",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Handball-Champions-League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-Champions-League",
         "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Sat, 17 Jun 2023 10:00:00 +0200"
       }
     ]
   ]

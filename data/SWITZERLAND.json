@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-06-2023 , 05:44:17",
+  "lastUpdate": "22-06-2023 , 05:53:38",
   "data": [
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter",
+        "pubdate": "Thu, 22 Jun 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Alain Berset",
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Prinzessin Kate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinzessin%20Kate",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Nintendo Direct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nintendo%20Direct",
-        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jennifer%20Lawrence",
         "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nintendo%20Direct",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bundesrat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesrat",
         "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tonali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tonali",
+        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Fete de la musique 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20de%20la%20musique%202023",
         "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tonali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tonali",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
