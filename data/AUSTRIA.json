@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2023 , 12:10:02",
+  "lastUpdate": "22-06-2023 , 12:43:37",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gewitter",
-        "pubdate": "Wed, 21 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Daniela Katzenberger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniela%20Katzenberger",
         "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Secret Invasion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Secret%20Invasion",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
+        "title": "Klaus Maria Brandauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klaus%20Maria%20Brandauer",
+        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Klaus Maria Brandauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klaus%20Maria%20Brandauer",
-        "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "John Goodman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#John%20Goodman",
         "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siemens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Siemens",
+        "pubdate": "Wed, 21 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

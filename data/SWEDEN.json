@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-06-2023 , 12:10:10",
+  "lastUpdate": "22-06-2023 , 12:43:46",
   "data": [
+    [
+      {
+        "title": "Midsommar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Midsommar",
+        "pubdate": "Thu, 22 Jun 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Macchiarini",
@@ -20,13 +27,6 @@
         "title": "Secret Invasion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Secret%20Invasion",
         "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simon J. Berger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20J.%20Berger",
-        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Taylor Swift Sverige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift%20Sverige",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EM-kval Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM-kval%20Sverige",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Österrike Sverige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96sterrike%20Sverige",
         "pubdate": "Mon, 19 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titanic",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
