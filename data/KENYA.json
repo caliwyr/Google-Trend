@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 13:40:35",
+  "lastUpdate": "23-06-2023 , 13:49:58",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
+        "title": "Rigathi Gachagua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rigathi%20Gachagua",
+        "pubdate": "Fri, 23 Jun 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Implosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0300"
+        "pubdate": "Thu, 22 Jun 2023 16:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kante",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kante",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Secret Invasion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Secret%20Invasion",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0300"
       }
     ]
   ]
