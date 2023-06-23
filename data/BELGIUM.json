@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-06-2023 , 22:49:39",
+  "lastUpdate": "23-06-2023 , 22:58:57",
   "data": [
+    [
+      {
+        "title": "OceanGate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OceanGate",
+        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mbappe",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Vanilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vanilla",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
+        "title": "Rally ieper 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rally%20ieper%202023",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Stéphane Demol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#St%C3%A9phane%20Demol",
-        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
+        "title": "Vanilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vanilla",
+        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "NBA draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA%20draft",
-        "pubdate": "Fri, 23 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fete de la musique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20de%20la%20musique",
         "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Willem Nijholt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Willem%20Nijholt",
-        "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rally Ieper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rally%20Ieper",
-        "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
+        "title": "NBA draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA%20draft",
+        "pubdate": "Fri, 23 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Glastonbury 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Glastonbury%202023",
         "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rally Ieper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rally%20Ieper",
+        "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "France - Italie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20-%20Italie",
+        "title": "France-Italie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France-Italie",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
       }
     ],
