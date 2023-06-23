@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-06-2023 , 12:37:58",
+  "lastUpdate": "23-06-2023 , 13:03:03",
   "data": [
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Titan",
-        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Anette Trettebergstuen",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Titan",
+        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ha",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vår Energi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5r%20Energi",
+        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bianca Ingrosso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bianca%20Ingrosso",
         "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
-        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0200"
       }
     ]
   ]
