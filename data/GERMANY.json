@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 18:43:33",
+  "lastUpdate": "23-06-2023 , 18:52:51",
   "data": [
     [
       {
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Kassel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kassel",
-        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Google Street View",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Street%20View",
         "pubdate": "Thu, 22 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bahn Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahn%20Streik",
-        "pubdate": "Thu, 22 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Jan Böhmermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jan%20B%C3%B6hmermann",
         "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "And Just Like That",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#And%20Just%20Like%20That",
+        "pubdate": "Thu, 22 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Helene Fischer Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brand Europa-Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Europa-Park",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
