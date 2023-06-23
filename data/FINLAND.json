@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 23:39:01",
+  "lastUpdate": "23-06-2023 , 23:48:28",
   "data": [
     [
       {
@@ -31,22 +31,15 @@
     ],
     [
       {
-        "title": "Sale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sale",
-        "pubdate": "Fri, 23 Jun 2023 15:00:00 +0300"
+        "title": "NHL Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL%20Draft%202023",
+        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0300"
       }
     ],
     [
       {
         "title": "WRC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
-        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "NHL Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL%20Draft%202023",
         "pubdate": "Fri, 23 Jun 2023 11:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Bear Grylls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bear%20Grylls",
         "pubdate": "Thu, 22 Jun 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Challengers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Challengers",
+        "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
       }
     ]
   ]
