@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-06-2023 , 05:39:45",
+  "lastUpdate": "23-06-2023 , 05:49:24",
   "data": [
-    [
-      {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bahn-Streik",
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
-        "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
+        "title": "Incel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Incel",
+        "pubdate": "Thu, 22 Jun 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Incel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Incel",
-        "pubdate": "Thu, 22 Jun 2023 00:00:00 +0200"
+        "title": "NBA Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
+        "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
+        "title": "Titanic-U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic-U-Boot",
         "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
         "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Intel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
