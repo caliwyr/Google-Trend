@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 10:43:18",
+  "lastUpdate": "23-06-2023 , 10:52:44",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
+        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Női kosárlabda Eb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20kos%C3%A1rlabda%20Eb",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 +0200"
@@ -41,13 +48,6 @@
         "title": "Cserháti Zsuzsa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserh%C3%A1ti%20Zsuzsa",
         "pubdate": "Thu, 22 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
-        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,8 +122,15 @@
     ],
     [
       {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
+        "title": "Titan tengeralattjáró",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titan%20tengeralattj%C3%A1r%C3%B3",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titan tengeralattjáró",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titan%20tengeralattj%C3%A1r%C3%B3",
         "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Tengeralattjáró",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tengeralattj%C3%A1r%C3%B3",
         "pubdate": "Wed, 21 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titan",
-        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
