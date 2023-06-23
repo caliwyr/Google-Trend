@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "23-06-2023 , 11:49:00",
+  "lastUpdate": "23-06-2023 , 11:58:25",
   "data": [
     [
       {
         "title": "Grab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Grab",
-        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ticketmaster",
         "pubdate": "Fri, 23 Jun 2023 13:00:00 +0800"
       }
     ],
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Declan Rice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Declan%20Rice",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0800"
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ticketmaster",
+        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0800"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Katamari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Katamari",
-        "pubdate": "Thu, 22 Jun 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Neymar",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 +0800"
@@ -139,6 +125,20 @@
         "title": "Leo first look",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Leo%20first%20look",
         "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mason Mount",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mason%20Mount",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Titanic submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Titanic%20submarine",
+        "pubdate": "Wed, 21 Jun 2023 23:00:00 +0800"
       }
     ]
   ]

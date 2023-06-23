@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "23-06-2023 , 11:49:01",
+  "lastUpdate": "23-06-2023 , 11:58:26",
   "data": [
     [
       {
-        "title": "Implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Implosion",
+        "title": "Titan submersible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Titan%20submersible",
         "pubdate": "Fri, 23 Jun 2023 08:00:00 +1200"
       }
     ],
@@ -13,6 +13,13 @@
         "title": "NBA Draft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20Draft",
         "pubdate": "Fri, 23 Jun 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
+        "pubdate": "Fri, 23 Jun 2023 23:00:00 +1200"
       }
     ],
     [
@@ -52,15 +59,15 @@
     ],
     [
       {
-        "title": "Pike River Mine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pike%20River%20Mine",
+        "title": "Mojave King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mojave%20King",
         "pubdate": "Fri, 23 Jun 2023 19:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Mojave King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mojave%20King",
+        "title": "Pike River Mine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pike%20River%20Mine",
         "pubdate": "Fri, 23 Jun 2023 19:00:00 +1200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Weather forecast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20forecast",
         "pubdate": "Thu, 22 Jun 2023 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Shortest day of the year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shortest%20day%20of%20the%20year",
-        "pubdate": "Thu, 22 Jun 2023 10:00:00 +1200"
       }
     ]
   ]
