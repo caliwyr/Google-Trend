@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 03:47:39",
+  "lastUpdate": "23-06-2023 , 03:57:00",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Chris Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Paul",
         "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Stockton Rush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stockton%20Rush",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 -0700"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Cam Whitmore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Whitmore",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "The Bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Bear",
         "pubdate": "Thu, 22 Jun 2023 11:00:00 -0700"
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Cam Whitmore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Whitmore",
+        "title": "Dereck Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dereck%20Lively",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "LSU vs Wake Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20vs%20Wake%20Forest",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 -0700"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Hershey Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hershey%20Bears",
-        "pubdate": "Thu, 22 Jun 2023 05:00:00 -0700"
+        "title": "Jalen Hood-Schifino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jalen%20Hood-Schifino",
+        "pubdate": "Thu, 22 Jun 2023 20:00:00 -0700"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Brandin Podziemski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brandin%20Podziemski",
+        "pubdate": "Thu, 22 Jun 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Santos",
         "pubdate": "Thu, 22 Jun 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jaime Jaquez Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaime%20Jaquez%20Jr",
+        "pubdate": "Thu, 22 Jun 2023 20:00:00 -0700"
       }
     ],
     [
@@ -94,20 +115,6 @@
     ],
     [
       {
-        "title": "Chris Christie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Christie",
-        "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neymar",
-        "pubdate": "Thu, 22 Jun 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Gradey Dick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gradey%20Dick",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Khris Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Khris%20Middleton",
-        "pubdate": "Thu, 22 Jun 2023 17:00:00 -0700"
+        "title": "Chris Christie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Christie",
+        "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Biden impeachment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Biden%20impeachment",
-        "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Submarine missing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Submarine%20missing",
-        "pubdate": "Wed, 21 Jun 2023 08:00:00 -0700"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neymar",
+        "pubdate": "Thu, 22 Jun 2023 06:00:00 -0700"
       }
     ]
   ]
