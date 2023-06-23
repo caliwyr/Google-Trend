@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 07:47:48",
+  "lastUpdate": "23-06-2023 , 07:56:58",
   "data": [
     [
       {
@@ -17,16 +17,9 @@
     ],
     [
       {
-        "title": "ValMar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ValMar",
+        "title": "Valmar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valmar",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cserháti Zsuzsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserh%C3%A1ti%20Zsuzsa",
-        "pubdate": "Thu, 22 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Női kosárlabda Eb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20kos%C3%A1rlabda%20Eb",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cserháti Zsuzsa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserh%C3%A1ti%20Zsuzsa",
+        "pubdate": "Thu, 22 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Polgár Árpád",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20%C3%81rp%C3%A1d",
+        "pubdate": "Thu, 22 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Szikra Mozgalom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szikra%20Mozgalom",
         "pubdate": "Thu, 22 Jun 2023 20:00:00 +0200"
@@ -117,6 +124,13 @@
       {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titan",
         "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Magyar-litván meccs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar-litv%C3%A1n%20meccs",
         "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zendaya",
-        "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harley-Davidson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harley-Davidson",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
