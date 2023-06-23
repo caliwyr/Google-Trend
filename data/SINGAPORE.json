@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-06-2023 , 06:41:39",
+  "lastUpdate": "23-06-2023 , 06:50:57",
   "data": [
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
+        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Shahzada Dawood",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "NBA draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20draft",
+        "title": "NBA Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20Draft",
         "pubdate": "Thu, 22 Jun 2023 10:00:00 +0800"
       }
     ],
@@ -108,9 +115,16 @@
     ],
     [
       {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
+        "pubdate": "Thu, 22 Jun 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Titanic submarine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titanic%20submarine",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0800"
+        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Submarine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Submarine",
         "pubdate": "Wed, 21 Jun 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Titan submersible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titan%20submersible",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OceanGate",
-        "pubdate": "Wed, 21 Jun 2023 05:00:00 +0800"
       }
     ]
   ]
