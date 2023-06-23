@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-06-2023 , 17:47:51",
+  "lastUpdate": "23-06-2023 , 17:57:10",
   "data": [
     [
       {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
         "pubdate": "Fri, 23 Jun 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Submarine",
+        "pubdate": "Fri, 23 Jun 2023 08:00:00 +0800"
       }
     ],
     [
@@ -33,13 +40,6 @@
       {
         "title": "James Cameron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#James%20Cameron",
-        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Implosion submarine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Implosion%20submarine",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0800"
       }
     ],
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "NBA Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20Draft",
+        "title": "NBA draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20draft",
         "pubdate": "Thu, 22 Jun 2023 10:00:00 +0800"
       }
     ],
