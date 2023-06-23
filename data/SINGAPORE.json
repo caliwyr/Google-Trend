@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-06-2023 , 01:58:59",
+  "lastUpdate": "23-06-2023 , 03:02:48",
   "data": [
+    [
+      {
+        "title": "Chris Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chris%20Paul",
+        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "James Cameron",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20Draft%202023",
-        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
+        "title": "NBA draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20draft",
+        "pubdate": "Thu, 22 Jun 2023 10:00:00 +0800"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Sandro Tonali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sandro%20Tonali",
-        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
+        "title": "Marcus Smart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marcus%20Smart",
+        "pubdate": "Thu, 22 Jun 2023 20:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Marcus Smart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Marcus%20Smart",
-        "pubdate": "Thu, 22 Jun 2023 20:00:00 +0800"
+        "title": "Sandro Tonali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sandro%20Tonali",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Havertz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Havertz",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Smosh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Smosh",
-        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0800"
       }
     ]
   ]
