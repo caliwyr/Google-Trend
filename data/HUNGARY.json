@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2023 , 15:49:03",
+  "lastUpdate": "23-06-2023 , 15:58:29",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Kassel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kassel",
         "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Országos Meteorológiai Szolgálat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orsz%C3%A1gos%20Meteorol%C3%B3giai%20Szolg%C3%A1lat",
+        "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Országos Meteorológiai Szolgálat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orsz%C3%A1gos%20Meteorol%C3%B3giai%20Szolg%C3%A1lat",
+        "title": "Jégeső",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A9ges%C5%91",
         "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jégeső",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A9ges%C5%91",
-        "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
+        "title": "Jakupcsek Gabriella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek%20Gabriella",
+        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OceanGate",
-        "pubdate": "Thu, 22 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "ValMar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ValMar",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0200"
@@ -76,6 +76,13 @@
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
         "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sandro Tonali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sandro%20Tonali",
+        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Sandro Tonali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sandro%20Tonali",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0200"
+        "title": "OceanGate Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OceanGate%20Titan",
+        "pubdate": "Thu, 22 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gulyás Gergely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20Gergely",
         "pubdate": "Thu, 22 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oroszország",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oroszorsz%C3%A1g",
-        "pubdate": "Thu, 22 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
