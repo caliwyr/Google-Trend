@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-06-2023 , 16:48:45",
+  "lastUpdate": "24-06-2023 , 16:57:59",
   "data": [
+    [
+      {
+        "title": "Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wagner",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wagner-Gruppe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wagner-Gruppe",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rostov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rostov",
-        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Greta%20Thunberg",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wembanyama",
         "pubdate": "Fri, 23 Jun 2023 07:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Isa Pulver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isa%20Pulver",
-        "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
+        "title": "Hallenstadion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hallenstadion",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Siemens Energy Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Siemens%20Energy%20Aktie",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Super Mario Bros. Wonder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20Mario%20Bros.%20Wonder",
-        "pubdate": "Fri, 23 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Maroc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maroc",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
+        "pubdate": "Fri, 23 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
