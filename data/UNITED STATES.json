@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 07:43:30",
+  "lastUpdate": "24-06-2023 , 07:52:40",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Drew Timme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drew%20Timme",
-        "pubdate": "Fri, 23 Jun 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Evil%20Dead%20Rise",
         "pubdate": "Fri, 23 Jun 2023 16:00:00 -0700"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Lonzo Ball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lonzo%20Ball",
+        "pubdate": "Fri, 23 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Highlands Ranch tornado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Highlands%20Ranch%20tornado",
         "pubdate": "Fri, 23 Jun 2023 00:00:00 -0700"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Chicago Bulls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bulls",
-        "pubdate": "Fri, 23 Jun 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Knicks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
         "pubdate": "Fri, 23 Jun 2023 03:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Adam Rich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adam%20Rich",
-        "pubdate": "Fri, 23 Jun 2023 23:00:00 -0700"
       }
     ],
     [
@@ -115,9 +101,16 @@
     ],
     [
       {
-        "title": "Submersible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Submersible",
+        "title": "What is a catastrophic implosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20is%20a%20catastrophic%20implosion",
         "pubdate": "Thu, 22 Jun 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Imploded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Imploded",
+        "pubdate": "Thu, 22 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cam Whitmore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Whitmore",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NBA Mock Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20Mock%20Draft%202023",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 -0700"
       }
     ]
   ]

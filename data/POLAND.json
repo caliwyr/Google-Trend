@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 07:43:39",
+  "lastUpdate": "24-06-2023 , 07:52:52",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Prigożyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prigo%C5%BCyn",
+        "title": "Rostow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rostow",
         "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Niedziela handlowa 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziela%20handlowa%202023",
+        "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Handlowe niedziele 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Handlowe%20niedziele%202023",
-        "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Opole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Opole",
         "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cher",
-        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
+        "title": "Ewa Swoboda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Swoboda",
+        "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ewa Swoboda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Swoboda",
-        "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cher",
+        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Madonna",
-        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
         "pubdate": "Fri, 23 Jun 2023 15:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Jacek Żalek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20%C5%BBalek",
-        "pubdate": "Fri, 23 Jun 2023 20:00:00 +0200"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Madonna",
+        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wianki kraków",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wianki%20krak%C3%B3w",
+        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
