@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-06-2023 , 09:47:28",
+  "lastUpdate": "24-06-2023 , 09:57:01",
   "data": [
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Rostov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rostov",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wagner",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Greta%20Thunberg",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thuram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thuram",
+        "pubdate": "Sat, 24 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Isa Pulver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isa%20Pulver",
-        "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
+        "title": "Hallenstadion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hallenstadion",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Siemens Energy Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Siemens%20Energy%20Aktie",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kassel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kassel",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
       }
     ]
   ]
