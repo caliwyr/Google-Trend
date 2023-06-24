@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 23:46:16",
+  "lastUpdate": "24-06-2023 , 23:55:42",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Portugal Sub-21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20Sub-21",
+        "title": "Portugal sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20sub-21",
         "pubdate": "Sat, 24 Jun 2023 17:00:00 +0100"
       }
     ],
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Cnn Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cnn%20Portugal",
+        "title": "CNN Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN%20Portugal",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0100"
       }
     ],
@@ -73,30 +73,9 @@
     ],
     [
       {
-        "title": "Maria Cerqueira Gomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maria%20Cerqueira%20Gomes",
-        "pubdate": "Sat, 24 Jun 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lipedema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lipedema",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "David Coulthard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Coulthard",
-        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Incendios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -108,9 +87,23 @@
     ],
     [
       {
+        "title": "David Coulthard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Coulthard",
+        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Torneio Lopes da Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torneio%20Lopes%20da%20Silva",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Incendios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
         "pubdate": "Fri, 23 Jun 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sao joao Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20joao%20Porto",
+        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0100"
       }
     ]
   ]
