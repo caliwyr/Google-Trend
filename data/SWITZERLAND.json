@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-06-2023 , 15:47:38",
+  "lastUpdate": "24-06-2023 , 15:56:53",
   "data": [
-    [
-      {
-        "title": "Rostov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rostov",
-        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Wagner-Gruppe",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Fete de la musique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20de%20la%20musique",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
+        "title": "Rostov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rostov",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Claude Barzotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Claude%20Barzotti",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fete de la musique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20de%20la%20musique",
+        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Andrea Berg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Berg",
+        "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
         "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
@@ -83,6 +90,13 @@
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mbappe",
         "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Isa Pulver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isa%20Pulver",
+        "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "JapaNeuch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#JapaNeuch",
+        "pubdate": "Fri, 23 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maroc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maroc",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
-        "pubdate": "Fri, 23 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Albanien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Albanien",
-        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kassel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kassel",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
       }
     ]
   ]
