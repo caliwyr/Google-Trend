@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "24-06-2023 , 03:39:51",
+  "lastUpdate": "24-06-2023 , 03:49:19",
   "data": [
-    [
-      {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Russia",
-        "pubdate": "Sat, 24 Jun 2023 14:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tyson%20Fury",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Glastonbury 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Glastonbury%202023",
-        "pubdate": "Sat, 24 Jun 2023 14:00:00 +1200"
       }
     ],
     [
@@ -45,8 +31,8 @@
     ],
     [
       {
-        "title": "NBA Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20Draft",
+        "title": "NBA draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20draft",
         "pubdate": "Fri, 23 Jun 2023 08:00:00 +1200"
       }
     ],
@@ -87,15 +73,15 @@
     ],
     [
       {
-        "title": "Mojave King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mojave%20King",
+        "title": "Pike River Mine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pike%20River%20Mine",
         "pubdate": "Fri, 23 Jun 2023 19:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Pike River Mine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pike%20River%20Mine",
+        "title": "Mojave King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mojave%20King",
         "pubdate": "Fri, 23 Jun 2023 19:00:00 +1200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Submarine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Submarine",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Tairawhiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tairawhiti",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Reece Walsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Reece%20Walsh",
+        "pubdate": "Thu, 22 Jun 2023 00:00:00 +1200"
       }
     ]
   ]
