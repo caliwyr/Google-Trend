@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 19:47:01",
+  "lastUpdate": "24-06-2023 , 19:56:27",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Lipetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lipetsk",
+        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BankID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BankID",
+        "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Kadyrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kadyrov",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+        "title": "Glad midsommar!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glad%20midsommar!",
+        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titan",
         "pubdate": "Wed, 21 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pontus Rasmusson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pontus%20Rasmusson",
-        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macchiarini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macchiarini",
-        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
