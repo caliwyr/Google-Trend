@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 05:39:09",
+  "lastUpdate": "24-06-2023 , 05:48:20",
   "data": [
     [
       {
@@ -33,7 +33,7 @@
       {
         "title": "Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
-        "pubdate": "Thu, 22 Jun 2023 20:00:00 +0200"
+        "pubdate": "Thu, 22 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Titanic U-Boot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic%20U-Boot",
         "pubdate": "Thu, 22 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Implosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Implosion",
+        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Helene Fischer Unfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+        "title": "Deutschland gegen Kolumbien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Kolumbien",
+        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Deutschland gegen Kolumbien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Kolumbien",
-        "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
+        "title": "Helene Fischer Unfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic",
         "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
       }
     ]
   ]

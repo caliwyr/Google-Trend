@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 05:39:17",
+  "lastUpdate": "24-06-2023 , 05:48:27",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Hamish Harding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hamish%20Harding",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Glastonbury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Glastonbury",
+        "pubdate": "Fri, 23 Jun 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dingo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dingo",
         "pubdate": "Fri, 23 Jun 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Joshua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Anthony%20Joshua",
-        "pubdate": "Fri, 23 Jun 2023 20:00:00 +0100"
       }
     ]
   ]
