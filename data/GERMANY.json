@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "24-06-2023 , 10:51:18",
+  "lastUpdate": "24-06-2023 , 11:01:00",
   "data": [
     [
       {
-        "title": "Russland news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
-        "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
+        "title": "Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
-        "pubdate": "Thu, 22 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Titanic U-Boot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic%20U-Boot",
         "pubdate": "Thu, 22 Jun 2023 11:00:00 +0200"
@@ -38,23 +31,9 @@
     ],
     [
       {
-        "title": "Implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NBA Draft 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
         "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
-        "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic",
         "pubdate": "Mon, 19 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Mon, 19 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Intel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sankt Augustin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sankt%20Augustin",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
