@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 22:47:06",
+  "lastUpdate": "24-06-2023 , 22:56:21",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Messi",
-        "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
+        "title": "Currie Cup final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Currie%20Cup%20final",
+        "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "Titan submersible latest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Titan%20submersible%20latest",
         "pubdate": "Sat, 24 Jun 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Messi",
+        "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Georgia",
         "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cheetahs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cheetahs",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,8 +122,15 @@
     ],
     [
       {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA%20Draft%202023",
+        "title": "Rage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rage",
+        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NBA draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA%20draft%202023",
         "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Shamrock Rovers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shamrock%20Rovers",
         "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jurgen Klopp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jurgen%20Klopp",
-        "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
