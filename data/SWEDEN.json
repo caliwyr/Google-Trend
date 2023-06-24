@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-06-2023 , 18:43:41",
+  "lastUpdate": "24-06-2023 , 18:53:11",
   "data": [
+    [
+      {
+        "title": "Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
+        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Putin",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Evil Dead Rise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evil%20Dead%20Rise",
-        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+        "title": "Moskva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Moskva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
+        "title": "Evil Dead Rise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evil%20Dead%20Rise",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Macchiarini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macchiarini",
         "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simon J. Berger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20J.%20Berger",
-        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
