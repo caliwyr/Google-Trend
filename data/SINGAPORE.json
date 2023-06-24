@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-06-2023 , 03:49:22",
+  "lastUpdate": "24-06-2023 , 03:58:33",
   "data": [
+    [
+      {
+        "title": "Wagner Group",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wagner%20Group",
+        "pubdate": "Sat, 24 Jun 2023 11:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Ticketmaster",
@@ -12,13 +19,20 @@
       {
         "title": "Implosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Implosion",
-        "pubdate": "Fri, 23 Jun 2023 06:00:00 +0800"
+        "pubdate": "Fri, 23 Jun 2023 05:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titan",
+        "title": "Submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Submarine",
+        "pubdate": "Fri, 23 Jun 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "James Cameron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#James%20Cameron",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0800"
       }
     ],
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Taylor Swift concert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20concert",
-        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0800"
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Victor%20Wembanyama",
+        "pubdate": "Fri, 23 Jun 2023 16:00:00 +0800"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "Olympic Esports Week",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Olympic%20Esports%20Week",
         "pubdate": "Fri, 23 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "The Myst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Myst",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0800"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "James Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#James%20Cameron",
+        "title": "OceanGate Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OceanGate%20Titanic",
         "pubdate": "Thu, 22 Jun 2023 10:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift",
         "pubdate": "Wed, 21 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20singapore",
-        "pubdate": "Wed, 21 Jun 2023 19:00:00 +0800"
       }
     ]
   ]
