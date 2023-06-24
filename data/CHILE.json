@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-06-2023 , 08:41:21",
+  "lastUpdate": "24-06-2023 , 08:50:52",
   "data": [
     [
       {
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jennifer%20Lawrence",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ministra de Obras publicas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ministra%20de%20Obras%20publicas",
+        "pubdate": "Sat, 24 Jun 2023 01:00:00 -0400"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Noche de San Juan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noche%20de%20San%20Juan",
-        "pubdate": "Fri, 23 Jun 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Nicolás Jarry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Jarry",
         "pubdate": "Fri, 23 Jun 2023 13:00:00 -0400"
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "U Católica  Santiago Wanderers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20Cat%C3%B3lica%20%20Santiago%20Wanderers",
+        "title": "Noche de San Juan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noche%20de%20San%20Juan",
+        "pubdate": "Fri, 23 Jun 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "San Juan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Juan",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 -0400"
       }
     ],
@@ -41,6 +48,13 @@
         "title": "Grupo Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Grupo%20Wagner",
         "pubdate": "Fri, 23 Jun 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Universidad catolica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
+        "pubdate": "Fri, 23 Jun 2023 20:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-        "pubdate": "Fri, 23 Jun 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Godoy Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Godoy%20Cruz",
-        "pubdate": "Fri, 23 Jun 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Frecuencia Schumann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Frecuencia%20Schumann",
-        "pubdate": "Fri, 23 Jun 2023 13:00:00 -0400"
+        "title": "Río Mapocho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20Mapocho",
+        "pubdate": "Fri, 23 Jun 2023 19:00:00 -0400"
       }
     ]
   ]
