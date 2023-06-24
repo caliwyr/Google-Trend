@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 17:47:30",
+  "lastUpdate": "24-06-2023 , 17:56:50",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC%20News",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Christel Van Dyck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christel%20Van%20Dyck",
-        "pubdate": "Sat, 24 Jun 2023 11:00:00 +0200"
+        "title": "Rusland nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rusland%20nieuws",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Rusland nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rusland%20nieuws",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
+        "title": "Georgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Georgie",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sean Dhondt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sean%20Dhondt",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Sous-marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sous-marin",
-        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Couleur cafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Couleur%20cafe",
         "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
@@ -97,6 +90,13 @@
         "title": "Genk on Stage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20on%20Stage",
         "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Epave Titanic sous-marin disparu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Epave%20Titanic%20sous-marin%20disparu",
+        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ],
     [
