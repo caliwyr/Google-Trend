@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 13:48:30",
+  "lastUpdate": "25-06-2023 , 13:57:40",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Padron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Padron",
+        "pubdate": "Sun, 25 Jun 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Estados Unidos  Jamaica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estados%20Unidos%20%20Jamaica",
         "pubdate": "Sun, 25 Jun 2023 01:00:00 -0300"
@@ -26,13 +33,6 @@
       {
         "title": "Horacio Rodríguez Larreta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Horacio%20Rodr%C3%ADguez%20Larreta",
-        "pubdate": "Sun, 25 Jun 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Club atlético Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20atl%C3%A9tico%20Talleres",
         "pubdate": "Sun, 25 Jun 2023 02:00:00 -0300"
       }
     ],
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Massa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Massa",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Cumpleaños de Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cumplea%C3%B1os%20de%20Messi",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 -0300"
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Unión  Independiente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Uni%C3%B3n%20%20Independiente",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Donde voto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donde%20voto",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Partido despedida Riquelme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20despedida%20Riquelme",
-        "pubdate": "Sat, 24 Jun 2023 10:00:00 -0300"
+        "title": "Valeria Mazza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Valeria%20Mazza",
+        "pubdate": "Sat, 24 Jun 2023 00:00:00 -0300"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Philadelphia Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Philadelphia%20Inter%20Miami",
         "pubdate": "Sat, 24 Jun 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gardel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gardel",
+        "pubdate": "Sat, 24 Jun 2023 09:00:00 -0300"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Cierre de listas 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cierre%20de%20listas%202023",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "San Martín  Patronato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Mart%C3%ADn%20%20Patronato",
         "pubdate": "Sat, 24 Jun 2023 17:00:00 -0300"
@@ -122,23 +122,23 @@
     ],
     [
       {
-        "title": "Union por la Patria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Union%20por%20la%20Patria",
-        "pubdate": "Sat, 24 Jun 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Gardel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gardel",
-        "pubdate": "Sat, 24 Jun 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina voley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20voley",
+        "title": "Juan roman Riquelme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juan%20roman%20Riquelme",
         "pubdate": "Sat, 24 Jun 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Elecciones cordoba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elecciones%20cordoba",
+        "pubdate": "Sat, 24 Jun 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fangio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fangio",
+        "pubdate": "Sat, 24 Jun 2023 11:00:00 -0300"
       }
     ]
   ]

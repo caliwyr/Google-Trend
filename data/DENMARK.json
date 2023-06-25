@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-06-2023 , 13:48:32",
+  "lastUpdate": "25-06-2023 , 13:57:42",
   "data": [
     [
       {
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Julian%20Sands",
         "pubdate": "Sun, 25 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lewis Capaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lewis%20Capaldi",
+        "pubdate": "Sun, 25 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20News",
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20news",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Maroon 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maroon%205",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Messi",
-        "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Sky News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20News",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "TASS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TASS",
         "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
@@ -94,8 +87,8 @@
     ],
     [
       {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Titan",
+        "title": "Shahzada Dawood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Shahzada%20Dawood",
         "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Midsommar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Midsommar",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siemens Energy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Siemens%20Energy",
+        "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
       }
     ]
   ]

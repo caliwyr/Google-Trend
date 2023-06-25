@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 13:48:36",
+  "lastUpdate": "25-06-2023 , 13:57:45",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Gor Mahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "WRC Rally Kenya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#WRC%20Rally%20Kenya",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0300"
@@ -38,20 +45,6 @@
     ],
     [
       {
-        "title": "Gor Mahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Viking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Viking",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Nkunku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nkunku",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0300"
@@ -62,13 +55,6 @@
         "title": "Submarine news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Submarine%20news",
         "pubdate": "Sat, 24 Jun 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Real Salt Lake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Salt%20Lake",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Lionel Messi Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lionel%20Messi%20Inter%20Miami",
         "pubdate": "Thu, 22 Jun 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sandro Tonali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sandro%20Tonali",
+        "pubdate": "Thu, 22 Jun 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cochlear implant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cochlear%20implant",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0300"
       }
     ]
   ]
