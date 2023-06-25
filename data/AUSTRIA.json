@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 10:46:38",
+  "lastUpdate": "25-06-2023 , 10:55:50",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#USA",
-        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
+        "title": "Challenge Roth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Challenge%20Roth",
+        "pubdate": "Sun, 25 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -40,7 +40,7 @@
       {
         "title": "Wagner-Gruppe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wagner-Gruppe",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
+        "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Ross Antony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ross%20Antony",
         "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tagesschau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tagesschau",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NZZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NZZ",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RAF Camora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RAF%20Camora",
+        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0200"
       }
     ]
   ]

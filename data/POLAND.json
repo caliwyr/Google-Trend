@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 10:46:43",
+  "lastUpdate": "25-06-2023 , 10:55:56",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "KORA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KORA",
+        "title": "Kora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kora",
         "pubdate": "Sat, 24 Jun 2023 10:00:00 +0200"
       }
     ],
@@ -41,6 +41,13 @@
         "title": "Zmarzlik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmarzlik",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BBC",
+        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Russia",
-        "pubdate": "Sat, 24 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Noc swietojanska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Noc%20swietojanska",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Tusk we Wrocławiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tusk%20we%20Wroc%C5%82awiu",
-        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
+        "title": "Izabella Łukomska-Pyżalska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabella%20%C5%81ukomska-Py%C5%BCalska",
+        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Izabella Łukomska-Pyżalska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabella%20%C5%81ukomska-Py%C5%BCalska",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
+        "title": "Tusk we Wrocławiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tusk%20we%20Wroc%C5%82awiu",
+        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Agnieszka Kaczorowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Kaczorowska",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
+        "title": "Konwencja PiS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konwencja%20PiS",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
