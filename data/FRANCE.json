@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-06-2023 , 14:48:11",
+  "lastUpdate": "25-06-2023 , 14:57:24",
   "data": [
+    [
+      {
+        "title": "Harrison Ford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Harrison%20Ford",
+        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ironman Nice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ironman%20Nice",
         "pubdate": "Sun, 25 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Victor Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victor%20Wembanyama",
-        "pubdate": "Sat, 24 Jun 2023 08:00:00 +0200"
+        "title": "Russie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie",
+        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Victoire Berteau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victoire%20Berteau",
         "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Caroline Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Caroline%20Garcia",
+        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Feu de la Saint Jean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Feu%20de%20la%20Saint%20Jean",
-        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Scarlett Johansson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Scarlett%20Johansson",
         "pubdate": "Fri, 23 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sous-marin Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sous-marin%20Titanic",
-        "pubdate": "Thu, 22 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "OceanGate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OceanGate",
         "pubdate": "Wed, 21 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fête de la musique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F%C3%AAte%20de%20la%20musique",
+        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
