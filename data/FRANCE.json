@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-06-2023 , 08:42:59",
+  "lastUpdate": "25-06-2023 , 08:52:21",
   "data": [
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Claude Barzotti",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Russie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie",
+        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
         "pubdate": "Sat, 24 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Caroline Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Caroline%20Garcia",
+        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Secret Invasion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Secret%20Invasion",
         "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Soulèvement de la Terre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soul%C3%A8vement%20de%20la%20Terre",
-        "pubdate": "Wed, 21 Jun 2023 03:00:00 +0200"
       }
     ]
   ]

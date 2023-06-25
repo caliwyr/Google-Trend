@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 08:43:05",
+  "lastUpdate": "25-06-2023 , 08:52:27",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Bonnie Tyler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bonnie%20Tyler",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MotoGP Assen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP%20Assen",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wembanyama",
         "pubdate": "Fri, 23 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NBA Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NBA%20Draft%202023",
+        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
