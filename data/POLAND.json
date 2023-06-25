@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-06-2023 , 19:46:10",
+  "lastUpdate": "25-06-2023 , 19:55:23",
   "data": [
+    [
+      {
+        "title": "Biedronka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Biedronka",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jakub Rzeźniczak",
@@ -20,6 +27,13 @@
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julian%20Sands",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Push",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Push",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Niedziela handlowa 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziela%20handlowa%202023",
+        "title": "Niedziele handlowe 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziele%20handlowe%202023",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
       }
     ],
@@ -87,16 +101,9 @@
     ],
     [
       {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Izabella Łukomska-Pyżalska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabella%20%C5%81ukomska-Py%C5%BCalska",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
+        "title": "Zmarzlik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmarzlik",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Bartosz Zmarzlik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bartosz%20Zmarzlik",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Konfederacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konfederacja",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
+        "title": "Izabella Łukomska-Pyżalska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabella%20%C5%81ukomska-Py%C5%BCalska",
+        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

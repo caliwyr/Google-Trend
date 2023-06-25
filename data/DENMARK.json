@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-06-2023 , 19:46:05",
+  "lastUpdate": "25-06-2023 , 19:55:19",
   "data": [
+    [
+      {
+        "title": "Barack Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barack%20Obama",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Julian Sands",
@@ -27,6 +34,13 @@
         "title": "Indiana Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Indiana%20Jones",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DDoS attack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DDoS%20attack",
+        "pubdate": "Sun, 25 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -94,22 +108,15 @@
     ],
     [
       {
-        "title": "New York times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20times",
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
         "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "TASS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TASS",
-        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Titan",
+        "title": "Shahzada Dawood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Shahzada%20Dawood",
         "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sarah sjøstrøm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sarah%20sj%C3%B8str%C3%B8m",
         "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "James Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#James%20Cameron",
-        "pubdate": "Fri, 23 Jun 2023 00:00:00 +0200"
       }
     ]
   ]

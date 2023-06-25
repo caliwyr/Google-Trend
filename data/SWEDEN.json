@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 19:46:11",
+  "lastUpdate": "25-06-2023 , 19:55:25",
   "data": [
     [
       {
@@ -48,13 +48,6 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cornucopia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cornucopia",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
         "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Billie%20Eilish",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
