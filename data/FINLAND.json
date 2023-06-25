@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "25-06-2023 , 16:47:52",
+  "lastUpdate": "25-06-2023 , 16:57:07",
   "data": [
+    [
+      {
+        "title": "Gröna Lund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gr%C3%B6na%20Lund",
+        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Julian%20Sands",
         "pubdate": "Sun, 25 Jun 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "George Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Michael",
+        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0300"
       }
     ],
     [
@@ -17,9 +31,16 @@
     ],
     [
       {
-        "title": "George Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Michael",
-        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0300"
+        "title": "Ryan Johansen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ryan%20Johansen",
+        "pubdate": "Sun, 25 Jun 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zharnel Hughes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zharnel%20Hughes",
+        "pubdate": "Sun, 25 Jun 2023 19:00:00 +0300"
       }
     ],
     [
@@ -38,8 +59,8 @@
     ],
     [
       {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20News",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0300"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "WRC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
         "pubdate": "Fri, 23 Jun 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bad Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bad%20Boys",
-        "pubdate": "Fri, 23 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Titan",
-        "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NBA%20Draft%202023",
-        "pubdate": "Thu, 22 Jun 2023 05:00:00 +0300"
       }
     ]
   ]

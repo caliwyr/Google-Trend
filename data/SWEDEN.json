@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 16:47:58",
+  "lastUpdate": "25-06-2023 , 16:57:14",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
-        "title": "Gröna Lund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%B6na%20Lund",
+        "title": "Jetline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jetline",
         "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 25 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wagner",
+        "pubdate": "Sat, 24 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -34,6 +48,13 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lipetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lipetsk",
+        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
         "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Billie%20Eilish",
-        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glad midsommar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glad%20midsommar",
-        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titan",
-        "pubdate": "Wed, 21 Jun 2023 02:00:00 +0200"
       }
     ]
   ]
