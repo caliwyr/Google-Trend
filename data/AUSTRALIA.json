@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 23:47:33",
+  "lastUpdate": "25-06-2023 , 23:56:54",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Simon Crean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Simon%20Crean",
         "pubdate": "Sun, 25 Jun 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Collingwood vs Adelaide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood%20vs%20Adelaide",
-        "pubdate": "Sun, 25 Jun 2023 14:00:00 +1000"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Virginia Gay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Virginia%20Gay",
         "pubdate": "Sun, 25 Jun 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Collingwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
+        "pubdate": "Sun, 25 Jun 2023 14:00:00 +1000"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Justin Tafa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justin%20Tafa",
-        "pubdate": "Sun, 25 Jun 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Lana Del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lana%20Del%20Rey",
         "pubdate": "Sun, 25 Jun 2023 21:00:00 +1000"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Nick Daicos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Daicos",
+        "title": "Wallabies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wallabies",
         "pubdate": "Sun, 25 Jun 2023 22:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Wallabies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wallabies",
-        "pubdate": "Sun, 25 Jun 2023 22:00:00 +1000"
+        "title": "Russia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Russia",
+        "pubdate": "Sat, 24 Jun 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "West Coast Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Coast%20Eagles",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +1000"
       }
     ]
   ]
