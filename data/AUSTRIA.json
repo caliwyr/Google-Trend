@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 01:25:32",
+  "lastUpdate": "25-06-2023 , 02:59:55",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Nachrichten Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20Russland",
+        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Roger Cicero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Roger%20Cicero",
         "pubdate": "Sun, 25 Jun 2023 01:00:00 +0200"
@@ -33,7 +40,7 @@
       {
         "title": "Wagner-Gruppe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wagner-Gruppe",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
+        "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Simone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Simone",
         "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Notlandung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Notlandung",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Ross Antony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ross%20Antony",
         "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tagesschau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tagesschau",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lionel%20Messi",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ute Freudenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ute%20Freudenberg",
         "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Oliver Pocher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oliver%20Pocher",
-        "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BossHoss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BossHoss",
-        "pubdate": "Fri, 23 Jun 2023 14:00:00 +0200"
+        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Donauinselfest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donauinselfest",
         "pubdate": "Fri, 23 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Indiana Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Indiana%20Jones",
+        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
       }
     ]
   ]

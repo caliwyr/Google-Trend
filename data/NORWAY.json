@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-06-2023 , 01:25:38",
+  "lastUpdate": "25-06-2023 , 03:00:01",
   "data": [
+    [
+      {
+        "title": "Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nyheter",
+        "pubdate": "Sun, 25 Jun 2023 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wagner-gruppen",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Eliteserien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Messi",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Hvorfor feirer vi Sankthans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hvorfor%20feirer%20vi%20Sankthans",
+        "title": "Hvorfor feirer vi sankthans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hvorfor%20feirer%20vi%20sankthans",
         "pubdate": "Fri, 23 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Isah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Isah",
         "pubdate": "Thu, 22 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "And Just Like That",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#And%20Just%20Like%20That",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

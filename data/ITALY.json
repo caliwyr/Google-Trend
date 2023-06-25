@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 01:25:36",
+  "lastUpdate": "25-06-2023 , 02:59:59",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Emma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emma",
+        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lo Spietato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lo%20Spietato",
         "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Calcio storico fiorentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calcio%20storico%20fiorentino",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
+        "title": "Kristensen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kristensen",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kristensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kristensen",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
+        "title": "Calcio storico fiorentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calcio%20storico%20fiorentino",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Samardzic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Samardzic",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MotoGP Assen Marc Marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGP%20Assen%20Marc%20Marquez",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
