@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 17:47:12",
+  "lastUpdate": "25-06-2023 , 17:56:27",
   "data": [
     [
       {
@@ -59,9 +59,30 @@
     ],
     [
       {
+        "title": "Universitatea Craiova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Universitatea%20Craiova",
+        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rapid bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20bucuresti",
+        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rostov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rostov",
         "pubdate": "Sat, 24 Jun 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Romania U21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20U21",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 +0300"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Spania U21 -  croatia U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spania%20U21%20-%20%20croatia%20U21",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Medvedev",
         "pubdate": "Sat, 24 Jun 2023 20:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ziua iei romanesti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20iei%20romanesti",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Shoigu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shoigu",
+        "title": "Antena3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Antena3",
         "pubdate": "Sat, 24 Jun 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Luis Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luis%20Suarez",
-        "pubdate": "Sat, 24 Jun 2023 00:00:00 +0300"
       }
     ]
   ]
