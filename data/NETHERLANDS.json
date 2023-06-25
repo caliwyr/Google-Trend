@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 09:41:56",
+  "lastUpdate": "25-06-2023 , 09:51:24",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rusland nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rusland%20nieuws",
+        "pubdate": "Sat, 24 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Tahirovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tahirovic",
-        "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Quincy Promes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
       }
     ]

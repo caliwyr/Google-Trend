@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 09:41:51",
+  "lastUpdate": "25-06-2023 , 09:51:18",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Prinzessin Kate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Prinzessin%20Kate",
-        "pubdate": "Sun, 25 Jun 2023 10:00:00 +0200"
+        "title": "Die zeit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20zeit",
+        "pubdate": "Sun, 25 Jun 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Die zeit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20zeit",
-        "pubdate": "Sun, 25 Jun 2023 09:00:00 +0200"
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#USA",
+        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
-        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fantasy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fantasy",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mick%20Jagger",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Russland Wagner putsch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Russland%20Wagner%20putsch",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "NZZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NZZ",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bonnie Tyler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bonnie%20Tyler",
-        "pubdate": "Fri, 23 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
