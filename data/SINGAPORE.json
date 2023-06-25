@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-06-2023 , 16:20:08",
+  "lastUpdate": "25-06-2023 , 16:38:38",
   "data": [
+    [
+      {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BBC",
+        "pubdate": "Sun, 25 Jun 2023 09:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Julian Sands",
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OceanGate",
+        "title": "Titanic submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titanic%20submarine",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Submarine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Submarine",
         "pubdate": "Wed, 21 Jun 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Titan submersible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titan%20submersible",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 +0800"
       }
     ]
   ]
