@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2023 , 06:42:54",
+  "lastUpdate": "25-06-2023 , 06:51:07",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Sky Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sky%20Sport",
+        "pubdate": "Sat, 24 Jun 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Glastonbury 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Glastonbury%202023",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +1200"
@@ -62,20 +69,6 @@
         "title": "Ben Hunt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ben%20Hunt",
         "pubdate": "Sat, 24 Jun 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Sky Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sky%20Sport",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Sky Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sky%20Sports",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +1200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dragons vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dragons%20vs%20Warriors",
         "pubdate": "Fri, 23 Jun 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Chris Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chris%20Paul",
+        "pubdate": "Fri, 23 Jun 2023 11:00:00 +1200"
       }
     ]
   ]
