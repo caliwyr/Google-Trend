@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-06-2023 , 09:48:42",
+  "lastUpdate": "26-06-2023 , 09:57:58",
   "data": [
+    [
+      {
+        "title": "Lana Del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lana%20Del%20Rey",
+        "pubdate": "Mon, 26 Jun 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Barack Obama",
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "The scent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20scent",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+        "title": "Lewis Capaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lewis%20Capaldi",
+        "pubdate": "Sun, 25 Jun 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lewis Capaldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lewis%20Capaldi",
-        "pubdate": "Sun, 25 Jun 2023 12:00:00 +0200"
+        "title": "The scent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20scent",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Frederic Forrest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Frederic%20Forrest",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Allied",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Allied",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
