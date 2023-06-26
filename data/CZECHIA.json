@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 07:43:18",
+  "lastUpdate": "26-06-2023 , 07:52:44",
   "data": [
     [
       {
@@ -55,13 +55,6 @@
         "title": "BBC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BBC%20news",
         "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rusko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
-        "pubdate": "Sat, 24 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bouřky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ky",
         "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pavlína Pořízková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavl%C3%ADna%20Po%C5%99%C3%ADzkov%C3%A1",
+        "pubdate": "Fri, 23 Jun 2023 20:00:00 +0200"
       }
     ]
   ]
