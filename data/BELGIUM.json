@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 22:49:02",
+  "lastUpdate": "26-06-2023 , 22:58:15",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Dutch reach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dutch%20reach",
         "pubdate": "Mon, 26 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bouchez Knokke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bouchez%20Knokke",
+        "pubdate": "Mon, 26 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "William Dunker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#William%20Dunker",
+        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
         "pubdate": "Sun, 25 Jun 2023 18:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Lotte Kopecky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lotte%20Kopecky",
         "pubdate": "Sun, 25 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Georges-Louis Bouchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Georges-Louis%20Bouchez",
-        "pubdate": "Sun, 25 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "George Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#George%20Michael",
-        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
