@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "26-06-2023 , 06:43:29",
+  "lastUpdate": "26-06-2023 , 06:53:03",
   "data": [
-    [
-      {
-        "title": "Barack Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barack%20Obama",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Gröna Lund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gr%C3%B6na%20Lund",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barack Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barack%20Obama",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Diablo 4 server status",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diablo%204%20server%20status",
-        "pubdate": "Sun, 25 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Glastonbury 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glastonbury%202023",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 +0200"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Obama",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Holger Rune tennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune%20tennis",
         "pubdate": "Sun, 25 Jun 2023 09:00:00 +0200"
@@ -83,13 +83,6 @@
         "title": "Rostov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rostov",
         "pubdate": "Sat, 24 Jun 2023 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20News",
-        "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Telegram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Telegram",
         "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ]
   ]

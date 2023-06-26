@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "26-06-2023 , 06:43:36",
+  "lastUpdate": "26-06-2023 , 06:53:10",
   "data": [
     [
       {
         "title": "Gröna Lund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%B6na%20Lund",
-        "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jetline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jetline",
         "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Glad midsommar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glad%20midsommar",
         "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titan",
+        "pubdate": "Wed, 21 Jun 2023 02:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 06:43:29",
+  "lastUpdate": "26-06-2023 , 06:53:02",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Rusko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
+        "pubdate": "Sat, 24 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Red Face",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Red%20Face",
         "pubdate": "Sat, 24 Jun 2023 07:00:00 +0200"
@@ -76,20 +83,6 @@
         "title": "Kadyrov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kadyrov",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lionel%20Messi",
-        "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tass",
-        "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tom Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Jones",
         "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bouřky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ky",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
