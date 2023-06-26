@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 11:42:23",
+  "lastUpdate": "26-06-2023 , 11:51:46",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France",
         "pubdate": "Mon, 26 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wimbledon",
+        "pubdate": "Mon, 26 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Irene Schouten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
-        "pubdate": "Sun, 25 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
         "pubdate": "Sat, 24 Jun 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tata Steel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tata%20Steel",
-        "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Quincy Promes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Omroep Gelderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Gelderland",
+        "pubdate": "Sun, 18 Jun 2023 16:00:00 +0200"
       }
     ]
   ]

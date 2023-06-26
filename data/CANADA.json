@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 11:42:19",
+  "lastUpdate": "26-06-2023 , 11:51:41",
   "data": [
     [
       {
@@ -52,20 +52,6 @@
     ],
     [
       {
-        "title": "Severe thunderstorm warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20thunderstorm%20warning",
-        "pubdate": "Sun, 25 Jun 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Feux de foret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Feux%20de%20foret",
-        "pubdate": "Sun, 25 Jun 2023 07:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Pride parade Toronto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pride%20parade%20Toronto",
         "pubdate": "Sun, 25 Jun 2023 16:00:00 -0400"
@@ -76,6 +62,13 @@
         "title": "Anna Osceola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anna%20Osceola",
         "pubdate": "Sun, 25 Jun 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Feu de forêt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Feu%20de%20for%C3%AAt",
+        "pubdate": "Sun, 25 Jun 2023 07:00:00 -0400"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Toronto mayoral election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20mayoral%20election",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Saskatchewan Roughriders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saskatchewan%20Roughriders",
         "pubdate": "Sun, 25 Jun 2023 02:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Toronto mayoral election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20mayoral%20election",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 -0400"
+        "title": "Mexico vs Honduras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mexico%20vs%20Honduras",
+        "pubdate": "Sun, 25 Jun 2023 22:00:00 -0400"
       }
     ]
   ]
