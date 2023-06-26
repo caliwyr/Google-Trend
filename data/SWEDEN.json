@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 14:48:45",
+  "lastUpdate": "26-06-2023 , 14:58:10",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Henrik Borgström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Borgstr%C3%B6m",
         "pubdate": "Mon, 26 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SM-veckan Umeå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SM-veckan%20Ume%C3%A5",
+        "pubdate": "Mon, 26 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Sun, 25 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nyheter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
         "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
@@ -73,23 +73,9 @@
     ],
     [
       {
-        "title": "Dagens Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dagens%20Nyheter",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evil%20Dead%20Rise",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Moskva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "SBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SBB",
         "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
+        "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Billie%20Eilish",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
