@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 01:44:08",
+  "lastUpdate": "26-06-2023 , 02:57:28",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "ΥΠΕΣ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A5%CE%A0%CE%95%CE%A3",
+        "pubdate": "Sun, 25 Jun 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Λατινοπουλου",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B1%CF%84%CE%B9%CE%BD%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Μητσοτακησ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%B1%CE%BA%CE%B7%CF%83",
         "pubdate": "Sun, 25 Jun 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Κουτσουμπασ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%BF%CF%85%CF%84%CF%83%CE%BF%CF%85%CE%BC%CF%80%CE%B1%CF%83",
-        "pubdate": "Sun, 25 Jun 2023 16:00:00 +0300"
       }
     ]
   ]

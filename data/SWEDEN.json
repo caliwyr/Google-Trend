@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 01:44:13",
+  "lastUpdate": "26-06-2023 , 02:57:32",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 25 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen Ullevi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen%20Ullevi",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Dagens nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dagens%20nyheter",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BankID",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BankID",
         "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
@@ -90,6 +76,13 @@
         "title": "Moskva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
         "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Springsteen",
+        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
         "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Billie%20Eilish",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
