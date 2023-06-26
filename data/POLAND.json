@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 10:46:12",
+  "lastUpdate": "26-06-2023 , 10:55:33",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Paulina Nowicka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Nowicka",
+        "pubdate": "Mon, 26 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Niedziela handlowa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziela%20handlowa",
         "pubdate": "Sun, 25 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biedronka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Biedronka",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Maanam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maanam",
-        "pubdate": "Sun, 25 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rodzina Ulmów",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rodzina%20Ulm%C3%B3w",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Polska - USA siatkówka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20USA%20siatk%C3%B3wka",
         "pubdate": "Sat, 24 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kora",
-        "pubdate": "Sat, 24 Jun 2023 10:00:00 +0200"
       }
     ]
   ]
