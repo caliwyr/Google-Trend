@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2023 , 15:42:39",
+  "lastUpdate": "27-06-2023 , 15:52:15",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Gundogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
         "pubdate": "Tue, 27 Jun 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Russian president Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Russian%20president%20Vladimir%20Putin",
+        "pubdate": "Tue, 27 Jun 2023 17:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
         "pubdate": "Thu, 22 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OceanGate",
-        "pubdate": "Wed, 21 Jun 2023 23:00:00 +0800"
       }
     ]
   ]
