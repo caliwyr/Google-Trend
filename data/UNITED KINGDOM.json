@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-06-2023 , 15:52:18",
+  "lastUpdate": "27-06-2023 , 16:08:39",
   "data": [
+    [
+      {
+        "title": "Foo Fighters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Foo%20Fighters",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Harrison Ford",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Foo Fighters UK Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Foo%20Fighters%20UK%20Tour",
-        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Daniel Korski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Daniel%20Korski",
         "pubdate": "Tue, 27 Jun 2023 09:00:00 +0100"
@@ -34,6 +34,13 @@
         "title": "Josh Tongue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Josh%20Tongue",
         "pubdate": "Tue, 27 Jun 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emma Grede",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emma%20Grede",
+        "pubdate": "Tue, 27 Jun 2023 15:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Alex Graham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alex%20Graham",
-        "pubdate": "Mon, 26 Jun 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ryan Reynolds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ryan%20Reynolds",
         "pubdate": "Mon, 26 Jun 2023 18:00:00 +0100"
@@ -104,13 +104,6 @@
         "title": "Roy Keane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roy%20Keane",
         "pubdate": "Mon, 26 Jun 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andy Cohen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Andy%20Cohen",
-        "pubdate": "Mon, 26 Jun 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Julian%20Sands",
         "pubdate": "Sun, 25 Jun 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rina Sawayama Glastonbury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rina%20Sawayama%20Glastonbury",
+        "pubdate": "Sun, 25 Jun 2023 10:00:00 +0100"
       }
     ]
   ]

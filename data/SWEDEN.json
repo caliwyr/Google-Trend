@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "27-06-2023 , 15:52:16",
+  "lastUpdate": "27-06-2023 , 16:08:37",
   "data": [
     [
       {
         "title": "Caia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caia",
         "pubdate": "Tue, 27 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NHL Awards 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NHL%20Awards%202023",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -33,6 +47,13 @@
       {
         "title": "Tommy Körberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20K%C3%B6rberg",
+        "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andreas Weise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Weise",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evil%20Dead%20Rise",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Moskva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alkoholmätare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alkoholm%C3%A4tare",
-        "pubdate": "Sat, 24 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zlatan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
-        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
