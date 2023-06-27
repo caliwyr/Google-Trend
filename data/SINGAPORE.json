@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2023 , 11:49:07",
+  "lastUpdate": "27-06-2023 , 11:58:40",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Gundogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
         "pubdate": "Tue, 27 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Tue, 27 Jun 2023 15:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "OceanGate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#OceanGate",
+        "title": "Titanic submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titanic%20submarine",
         "pubdate": "Wed, 21 Jun 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift",
+        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0800"
       }
     ]
   ]
