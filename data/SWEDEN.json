@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2023 , 22:10:39",
+  "lastUpdate": "27-06-2023 , 22:29:10",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
-        "pubdate": "Sat, 24 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frederic Forrest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frederic%20Forrest",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Evil Dead Rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evil%20Dead%20Rise",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Moskva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moskva",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
