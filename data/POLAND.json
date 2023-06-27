@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-06-2023 , 10:43:26",
+  "lastUpdate": "27-06-2023 , 10:52:58",
   "data": [
-    [
-      {
-        "title": "Sylvester Stallone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sylvester%20Stallone",
-        "pubdate": "Tue, 27 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Michał Wiśniewski",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Toyota C-HR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Toyota%20C-HR",
-        "pubdate": "Tue, 27 Jun 2023 08:00:00 +0200"
+        "title": "Sylvester Stallone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sylvester%20Stallone",
+        "pubdate": "Tue, 27 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de france 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tour%20de%20france%202023",
+        "pubdate": "Tue, 27 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "Beyonce warszawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beyonce%20warszawa",
+        "pubdate": "Mon, 26 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ptasia grypa koty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ptasia%20grypa%20koty",
+        "pubdate": "Mon, 26 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lewis Capaldi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewis%20Capaldi",
         "pubdate": "Mon, 26 Jun 2023 00:00:00 +0200"
@@ -55,27 +69,6 @@
         "title": "Ariana grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ariana%20grande",
         "pubdate": "Mon, 26 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "H5N1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#H5N1",
-        "pubdate": "Mon, 26 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koncert Beyonce Warszawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Koncert%20Beyonce%20Warszawa",
-        "pubdate": "Mon, 26 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radar burzowy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radar%20burzowy",
-        "pubdate": "Mon, 26 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,23 +94,9 @@
     ],
     [
       {
-        "title": "Tenis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tenis",
-        "pubdate": "Mon, 26 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Putin Prigożyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Putin%20Prigo%C5%BCyn",
         "pubdate": "Mon, 26 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "4F sklep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#4F%20sklep",
-        "pubdate": "Mon, 26 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Jakub Rzeźniczak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20Rze%C5%BAniczak",
         "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maryla Rodowicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
+        "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polska Włochy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20W%C5%82ochy",
+        "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helena Vondrackova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Helena%20Vondrackova",
+        "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
       }
     ]
   ]

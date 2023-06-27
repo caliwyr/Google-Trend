@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-06-2023 , 10:43:24",
+  "lastUpdate": "27-06-2023 , 10:52:56",
   "data": [
+    [
+      {
+        "title": "Lana Del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lana%20Del%20Rey",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tour de France 2023",
@@ -132,13 +139,6 @@
         "title": "Quincy Promes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Omroep Gelderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Gelderland",
-        "pubdate": "Sun, 18 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
