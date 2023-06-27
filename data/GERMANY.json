@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "27-06-2023 , 20:48:42",
+  "lastUpdate": "27-06-2023 , 20:57:57",
   "data": [
+    [
+      {
+        "title": "MHP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MHP",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lewis Capaldi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lewis%20Capaldi",
         "pubdate": "Tue, 27 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kaiserschmarrndrama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kaiserschmarrndrama",
-        "pubdate": "Mon, 26 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "U-Boot Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U-Boot%20Titan",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Secret Invasion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Secret%20Invasion",
+        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
