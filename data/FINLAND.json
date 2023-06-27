@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "27-06-2023 , 18:45:19",
+  "lastUpdate": "27-06-2023 , 18:54:33",
   "data": [
+    [
+      {
+        "title": "Lightning map",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lightning%20map",
+        "pubdate": "Tue, 27 Jun 2023 17:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Matvei Michkov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matvei%20Michkov",
         "pubdate": "Tue, 27 Jun 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Minnesota United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Minnesota%20United",
+        "pubdate": "Tue, 27 Jun 2023 21:00:00 +0300"
       }
     ],
     [
@@ -24,8 +38,8 @@
     ],
     [
       {
-        "title": "Face/Off",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Face/Off",
+        "title": "Face off",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Face%20off",
         "pubdate": "Mon, 26 Jun 2023 23:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Ryan Johansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ryan%20Johansen",
         "pubdate": "Sun, 25 Jun 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rostov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rostov",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20News",
-        "pubdate": "Sat, 24 Jun 2023 12:00:00 +0300"
       }
     ]
   ]
