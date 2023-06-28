@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "28-06-2023 , 19:47:44",
+  "lastUpdate": "28-06-2023 , 19:57:01",
   "data": [
+    [
+      {
+        "title": "Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertadores",
+        "pubdate": "Wed, 28 Jun 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
+        "pubdate": "Wed, 28 Jun 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jovem Pan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jovem%20Pan",
+        "pubdate": "Wed, 28 Jun 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "IBGE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IBGE",
+        "pubdate": "Wed, 28 Jun 2023 10:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Volkswagen",
@@ -24,9 +52,9 @@
     ],
     [
       {
-        "title": "IBGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IBGE",
-        "pubdate": "Wed, 28 Jun 2023 10:00:00 -0500"
+        "title": "Ceara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 -0500"
       }
     ],
     [
@@ -45,16 +73,16 @@
     ],
     [
       {
-        "title": "Alessandra Negrini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alessandra%20Negrini",
-        "pubdate": "Wed, 28 Jun 2023 02:00:00 -0500"
+        "title": "Desenrola Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Desenrola%20Brasil",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Desenrola Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Desenrola%20Brasil",
-        "pubdate": "Wed, 28 Jun 2023 13:00:00 -0500"
+        "title": "Corinthians x Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20x%20Liverpool",
+        "pubdate": "Wed, 28 Jun 2023 01:00:00 -0500"
       }
     ],
     [
@@ -66,9 +94,9 @@
     ],
     [
       {
-        "title": "Corinthians x Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20x%20Liverpool",
-        "pubdate": "Wed, 28 Jun 2023 01:00:00 -0500"
+        "title": "Alessandra Negrini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alessandra%20Negrini",
+        "pubdate": "Wed, 28 Jun 2023 02:00:00 -0500"
       }
     ],
     [
@@ -94,13 +122,6 @@
     ],
     [
       {
-        "title": "Club Athletico Paranaense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Club%20Athletico%20Paranaense",
-        "pubdate": "Wed, 28 Jun 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Guarani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
         "pubdate": "Wed, 28 Jun 2023 13:00:00 -0500"
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "MPF Jovem Pan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MPF%20Jovem%20Pan",
-        "pubdate": "Wed, 28 Jun 2023 06:00:00 -0500"
+        "title": "BYD Dolphin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD%20Dolphin",
+        "pubdate": "Wed, 28 Jun 2023 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
-        "pubdate": "Tue, 27 Jun 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
-        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertadores",
-        "pubdate": "Tue, 27 Jun 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Libertad x. Atlético-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertad%20x.%20Atl%C3%A9tico-MG",
-        "pubdate": "Tue, 27 Jun 2023 15:00:00 -0500"
+        "title": "Club Athletico Paranaense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Club%20Athletico%20Paranaense",
+        "pubdate": "Wed, 28 Jun 2023 04:00:00 -0500"
       }
     ]
   ]

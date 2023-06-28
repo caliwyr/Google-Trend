@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 19:47:52",
+  "lastUpdate": "28-06-2023 , 19:57:09",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Stavanger kommune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavanger%20kommune",
         "pubdate": "Wed, 28 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Raufoss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raufoss",
+        "pubdate": "Wed, 28 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steinar Madsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Steinar%20Madsen",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "NM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NM",
+        "pubdate": "Wed, 28 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "St. Olavsloppet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Olavsloppet",
         "pubdate": "Wed, 28 Jun 2023 16:00:00 +0200"
@@ -59,16 +80,16 @@
     ],
     [
       {
-        "title": "Belarus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Belarus",
-        "pubdate": "Tue, 27 Jun 2023 21:00:00 +0200"
+        "title": "Eid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eid",
+        "pubdate": "Tue, 27 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eid",
-        "pubdate": "Tue, 27 Jun 2023 18:00:00 +0200"
+        "title": "Belarus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Belarus",
+        "pubdate": "Tue, 27 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Ingrid Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Alexandra",
         "pubdate": "Mon, 26 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tromsø",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Troms%C3%B8",
-        "pubdate": "Mon, 26 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robbie Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Robbie%20Williams",
-        "pubdate": "Sun, 25 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bodø/Glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
-        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
