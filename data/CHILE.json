@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 17:55:27",
+  "lastUpdate": "28-06-2023 , 18:16:51",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "U de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile",
+        "title": "U. de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile",
         "pubdate": "Wed, 28 Jun 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bono Invierno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bono%20Invierno",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 -0400"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Club Universidad de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Club%20Universidad%20de%20Chile",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
         "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Universidad de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20de%20Chile",
-        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "David Corenswet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#David%20Corenswet",
         "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Copa Libertadores 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores%202023",
-        "pubdate": "Tue, 27 Jun 2023 10:00:00 -0400"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
+        "title": "Ingreso Mínimo Garantizado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ingreso%20M%C3%ADnimo%20Garantizado",
+        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Ingreso Mínimo Garantizado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ingreso%20M%C3%ADnimo%20Garantizado",
-        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
+        "title": "Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
+        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Palestino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
-        "pubdate": "Mon, 26 Jun 2023 23:00:00 -0400"
+        "title": "Atletico Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atletico%20Nacional",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Accidente San Javier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Accidente%20San%20Javier",
-        "pubdate": "Mon, 26 Jun 2023 12:00:00 -0400"
+        "title": "Palestino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
+        "pubdate": "Mon, 26 Jun 2023 23:00:00 -0400"
       }
     ]
   ]
