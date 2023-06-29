@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-06-2023 , 15:54:50",
+  "lastUpdate": "29-06-2023 , 16:14:44",
   "data": [
-    [
-      {
-        "title": "Gajdos Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gajdos%20Tam%C3%A1s",
-        "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Steam Summer Sale! 2023",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Call of Duty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Call%20of%20Duty",
-        "pubdate": "Thu, 29 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sims 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sims%205",
         "pubdate": "Thu, 29 Jun 2023 14:00:00 +0200"
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Tatár Csilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tat%C3%A1r%20Csilla",
+        "pubdate": "Thu, 29 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Szalay-Bobrovniczky Kristóf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalay-Bobrovniczky%20Krist%C3%B3f",
         "pubdate": "Thu, 29 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Asus Zenfone 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Asus%20Zenfone%2010",
+        "pubdate": "Thu, 29 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Ryan Mallett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ryan%20Mallett",
+        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Cult",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Cult",
         "pubdate": "Wed, 28 Jun 2023 01:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
         "pubdate": "Tue, 27 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Csapó Benő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csap%C3%B3%20Ben%C5%91",
-        "pubdate": "Tue, 27 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
