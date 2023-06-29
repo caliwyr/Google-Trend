@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 06:46:45",
+  "lastUpdate": "29-06-2023 , 06:56:05",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Madonna",
         "pubdate": "Thu, 29 Jun 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Connor Bedard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Connor%20Bedard",
+        "pubdate": "Thu, 29 Jun 2023 09:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oda",
         "pubdate": "Tue, 27 Jun 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Minnesota United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Minnesota%20United",
-        "pubdate": "Tue, 27 Jun 2023 21:00:00 +0300"
       }
     ]
   ]
