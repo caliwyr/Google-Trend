@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 07:45:06",
+  "lastUpdate": "29-06-2023 , 07:54:21",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Madonna",
+        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Raufoss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raufoss",
         "pubdate": "Wed, 28 Jun 2023 21:00:00 +0200"
@@ -41,13 +48,6 @@
         "title": "Brann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
         "pubdate": "Wed, 28 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Madonna",
-        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Kramatorsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kramatorsk",
-        "pubdate": "Wed, 28 Jun 2023 12:00:00 +0200"
+        "title": "James Maddison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#James%20Maddison",
+        "pubdate": "Wed, 28 Jun 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "James Maddison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#James%20Maddison",
-        "pubdate": "Wed, 28 Jun 2023 22:00:00 +0200"
+        "title": "Kramatorsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kramatorsk",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tibber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tibber",
-        "pubdate": "Tue, 27 Jun 2023 15:00:00 +0200"
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harry%20Kane",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
