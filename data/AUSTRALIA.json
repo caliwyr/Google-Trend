@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 11:54:02",
+  "lastUpdate": "29-06-2023 , 12:20:37",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Travis Head",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Travis%20Head",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jonny Bairstow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonny%20Bairstow",
         "pubdate": "Thu, 29 Jun 2023 10:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Matt Rendell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Rendell",
         "pubdate": "Wed, 28 Jun 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "QS ranking 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#QS%20ranking%202024",
-        "pubdate": "Wed, 28 Jun 2023 10:00:00 +1000"
       }
     ]
   ]
