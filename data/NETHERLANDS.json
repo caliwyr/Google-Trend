@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 01:45:57",
+  "lastUpdate": "29-06-2023 , 02:47:22",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Fred again",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fred%20again",
-        "pubdate": "Tue, 27 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Femke Halsema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Halsema",
         "pubdate": "Tue, 27 Jun 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Onderzeeer vermist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Onderzeeer%20vermist",
         "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Titan",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
