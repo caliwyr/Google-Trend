@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "29-06-2023 , 02:47:19",
+  "lastUpdate": "29-06-2023 , 03:14:43",
   "data": [
-    [
-      {
-        "title": "Julian Sands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Sands",
-        "pubdate": "Wed, 28 Jun 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "U21",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U21",
         "pubdate": "Wed, 28 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Spacey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20Spacey",
-        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madonna",
-        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -38,16 +17,23 @@
     ],
     [
       {
-        "title": "Bahnstreik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
-        "pubdate": "Wed, 28 Jun 2023 19:00:00 +0200"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madonna",
+        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Tue, 27 Jun 2023 13:00:00 +0200"
+        "title": "Kevin Spacey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20Spacey",
+        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bahnstreik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
+        "pubdate": "Wed, 28 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NBA Draft 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
         "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bublik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bublik",
-        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
+        "title": "And Just Like That",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#And%20Just%20Like%20That",
+        "pubdate": "Thu, 22 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Titanic-U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic-U-Boot",
+        "pubdate": "Wed, 21 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
