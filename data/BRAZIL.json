@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 09:44:57",
+  "lastUpdate": "29-06-2023 , 09:54:08",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Ceara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
-        "pubdate": "Wed, 28 Jun 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
         "pubdate": "Wed, 28 Jun 2023 04:00:00 -0500"
@@ -90,13 +83,6 @@
         "title": "IBGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IBGE",
         "pubdate": "Wed, 28 Jun 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Wed, 28 Jun 2023 12:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Nacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nacional",
         "pubdate": "Wed, 28 Jun 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Volkswagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volkswagen",
+        "pubdate": "Wed, 28 Jun 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Dia do Orgulho LGBT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Orgulho%20LGBT",
+        "pubdate": "Wed, 28 Jun 2023 07:00:00 -0500"
       }
     ]
   ]
