@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2023 , 10:51:20",
+  "lastUpdate": "29-06-2023 , 11:00:42",
   "data": [
     [
       {
@@ -40,6 +40,13 @@
       {
         "title": "BMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BMI",
+        "pubdate": "Thu, 29 Jun 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Surovikin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Surovikin",
         "pubdate": "Thu, 29 Jun 2023 12:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Connor McDavid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Connor%20McDavid",
         "pubdate": "Wed, 28 Jun 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "SK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SK",
-        "pubdate": "Wed, 28 Jun 2023 11:00:00 +0300"
       }
     ]
   ]
