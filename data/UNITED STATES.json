@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-06-2023 , 05:37:58",
+  "lastUpdate": "29-06-2023 , 05:47:24",
   "data": [
     [
       {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Madonna",
         "pubdate": "Wed, 28 Jun 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Eid Mubarak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eid%20Mubarak",
+        "pubdate": "Wed, 28 Jun 2023 01:00:00 -0700"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Madonna hospitalized",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Madonna%20hospitalized",
-        "pubdate": "Wed, 28 Jun 2023 18:00:00 -0700"
+        "title": "Titan sub Debris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Titan%20sub%20Debris",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 -0700"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
         "pubdate": "Wed, 28 Jun 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Madonna hospitalized",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Madonna%20hospitalized",
+        "pubdate": "Wed, 28 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "NHL Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20Draft",
+        "title": "NHL draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20draft",
         "pubdate": "Tue, 27 Jun 2023 05:00:00 -0700"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Eid al-Adha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eid%20al-Adha",
         "pubdate": "Tue, 27 Jun 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Supreme Court",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supreme%20Court",
-        "pubdate": "Tue, 27 Jun 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Malaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malaria",
-        "pubdate": "Tue, 27 Jun 2023 09:00:00 -0700"
       }
     ]
   ]
