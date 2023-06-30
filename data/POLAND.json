@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 07:22:20",
+  "lastUpdate": "30-06-2023 , 07:31:58",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Wszystko.pl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wszystko.pl",
-        "pubdate": "Thu, 29 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liam Hemsworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liam%20Hemsworth",
         "pubdate": "Thu, 29 Jun 2023 20:00:00 +0200"
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "Asus Zenfone 10",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Asus%20Zenfone%2010",
+        "title": "ASUS Zenfone 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ASUS%20Zenfone%2010",
         "pubdate": "Thu, 29 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Grupa Wagnera Co to",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grupa%20Wagnera%20Co%20to",
         "pubdate": "Thu, 29 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Katarzyna Dowbor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Dowbor",
+        "pubdate": "Thu, 29 Jun 2023 09:00:00 +0200"
       }
     ]
   ]
