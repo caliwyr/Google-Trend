@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 11:54:16",
+  "lastUpdate": "30-06-2023 , 12:20:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Witcher",
         "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Damon Rees",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Damon%20Rees",
+        "pubdate": "Fri, 30 Jun 2023 20:00:00 +1200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sports",
-        "pubdate": "Fri, 30 Jun 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Post Malone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Post%20Malone",
         "pubdate": "Fri, 30 Jun 2023 16:00:00 +1200"
@@ -55,13 +55,6 @@
         "title": "DP World Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DP%20World%20Tour",
         "pubdate": "Fri, 30 Jun 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Posolo Tuilagi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Posolo%20Tuilagi",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 +1200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Paddy Gower",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paddy%20Gower",
         "pubdate": "Thu, 29 Jun 2023 16:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Gymshark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gymshark",
+        "pubdate": "Thu, 29 Jun 2023 21:00:00 +1200"
       }
     ]
   ]
