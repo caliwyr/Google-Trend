@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 03:48:08",
+  "lastUpdate": "30-06-2023 , 03:57:35",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Amanda Ilestedt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amanda%20Ilestedt",
-        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julian%20Sands",
         "pubdate": "Tue, 27 Jun 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "SM-veckan Umeå",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SM-veckan%20Ume%C3%A5",
         "pubdate": "Mon, 26 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gröna Lund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%B6na%20Lund",
+        "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
