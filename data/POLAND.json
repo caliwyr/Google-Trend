@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 19:45:31",
+  "lastUpdate": "30-06-2023 , 19:54:56",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Świątek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Awi%C4%85tek",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#F1",
         "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Buty Tuska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Buty%20Tuska",
+        "pubdate": "Fri, 30 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -52,16 +66,9 @@
     ],
     [
       {
-        "title": "Świątek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Awi%C4%85tek",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Buty Tuska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Buty%20Tuska",
-        "pubdate": "Fri, 30 Jun 2023 09:00:00 +0200"
+        "title": "Teqball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Teqball",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Diuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Diuna",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stena Line",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stena%20Line",
-        "pubdate": "Thu, 29 Jun 2023 20:00:00 +0200"
+        "title": "Daria Zawiałow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Daria%20Zawia%C5%82ow",
+        "pubdate": "Fri, 30 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
