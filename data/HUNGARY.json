@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 13:49:46",
+  "lastUpdate": "30-06-2023 , 13:59:07",
   "data": [
     [
       {
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Yellowstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yellowstone",
+        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nyugdíj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyugd%C3%ADj",
+        "pubdate": "Thu, 29 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tiesto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiesto",
         "pubdate": "Thu, 29 Jun 2023 23:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Cirque du Soleil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cirque%20du%20Soleil",
         "pubdate": "Thu, 29 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pearl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pearl",
-        "pubdate": "Thu, 29 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Balaton Sound",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton%20Sound",
-        "pubdate": "Wed, 28 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
