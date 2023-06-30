@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 17:47:14",
+  "lastUpdate": "30-06-2023 , 17:56:36",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris",
         "pubdate": "Fri, 30 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lyon",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Emeutes France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emeutes%20France",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Couvre-feu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Couvre-feu",
         "pubdate": "Fri, 30 Jun 2023 11:00:00 +0200"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Emeutes France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emeutes%20France",
-        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
+        "title": "Bordeaux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bordeaux",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Barrage de Bimont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barrage%20de%20Bimont",
+        "title": "Jean-Luc Lemoine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Luc%20Lemoine",
         "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jean-Luc Lemoine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Luc%20Lemoine",
-        "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
+        "title": "Metz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Metz",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,23 +87,16 @@
     ],
     [
       {
-        "title": "Zoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zoo",
-        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emeutes Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emeutes%20Lyon",
-        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Benjamin Mendy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benjamin%20Mendy",
         "pubdate": "Fri, 30 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zoo",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Poitiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poitiers",
-        "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La defense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20defense",
-        "pubdate": "Fri, 30 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cholet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cholet",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
+        "title": "Drag Race France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Drag%20Race%20France",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Naomi Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Naomi%20Campbell",
         "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ONU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ONU",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
