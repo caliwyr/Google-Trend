@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-06-2023 , 21:49:51",
+  "lastUpdate": "30-06-2023 , 21:59:16",
   "data": [
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Alan Arkin",
@@ -12,13 +19,6 @@
       {
         "title": "Allan Border",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Allan%20Border",
-        "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Formula%201",
         "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
       }
     ],
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Nimona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nimona",
-        "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
+        "title": "Dominik Szoboszlai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dominik%20Szoboszlai",
+        "pubdate": "Sat, 01 Jul 2023 05:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Dominik Szoboszlai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dominik%20Szoboszlai",
-        "pubdate": "Sat, 01 Jul 2023 05:00:00 +1000"
+        "title": "Nimona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nimona",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Warriors vs Rabbitohs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Rabbitohs",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 +1000"
+        "title": "Swans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
+        "pubdate": "Fri, 30 Jun 2023 18:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Swans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +1000"
+        "title": "Warriors vs Rabbitohs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Rabbitohs",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +1000"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kim Cattrall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kim%20Cattrall",
-        "pubdate": "Fri, 30 Jun 2023 08:00:00 +1000"
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#France",
+        "pubdate": "Fri, 30 Jun 2023 20:00:00 +1000"
       }
     ]
   ]
