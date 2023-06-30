@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 14:49:16",
+  "lastUpdate": "30-06-2023 , 14:58:33",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "The Pirate Bay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Pirate%20Bay",
+        "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liam%20Hemsworth",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tim Burton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tim%20Burton",
         "pubdate": "Fri, 30 Jun 2023 03:00:00 +0200"
@@ -27,6 +41,13 @@
         "title": "Szoboszlai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai",
         "pubdate": "Thu, 29 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Asus Zenfone 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Asus%20Zenfone%2010",
+        "pubdate": "Thu, 29 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Yellowstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yellowstone",
-        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nyugdíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyugd%C3%ADj",
-        "pubdate": "Thu, 29 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tiesto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiesto",
         "pubdate": "Thu, 29 Jun 2023 23:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Grimace shake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Grimace%20shake",
-        "pubdate": "Thu, 29 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cirque du Soleil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cirque%20du%20Soleil",
-        "pubdate": "Thu, 29 Jun 2023 10:00:00 +0200"
+        "title": "Yellowstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yellowstone",
+        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
