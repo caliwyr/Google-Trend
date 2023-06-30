@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-06-2023 , 05:45:45",
+  "lastUpdate": "30-06-2023 , 05:54:53",
   "data": [
     [
       {
         "title": "Chance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chance",
         "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "David Pastrňák",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Pastr%C5%88%C3%A1k",
+        "pubdate": "Fri, 30 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "FC Baník Ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Ban%C3%ADk%20Ostrava",
         "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ewan McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ewan%20McGregor",
-        "pubdate": "Wed, 28 Jun 2023 22:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 05:45:52",
+  "lastUpdate": "30-06-2023 , 05:55:00",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Travis%20Scott",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "No hard feelings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#No%20hard%20feelings",
         "pubdate": "Thu, 29 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Naomi Campbell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Naomi%20Campbell",
+        "pubdate": "Thu, 29 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "NHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NHL",
-        "pubdate": "Thu, 29 Jun 2023 16:00:00 +0200"
+        "title": "Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Springsteen",
+        "pubdate": "Thu, 29 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Ulf Kristersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Kristersson",
         "pubdate": "Wed, 28 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amanda Ilestedt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amanda%20Ilestedt",
-        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Borgeby Fältdagar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Borgeby%20F%C3%A4ltdagar",
         "pubdate": "Mon, 26 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SM-veckan Umeå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SM-veckan%20Ume%C3%A5",
-        "pubdate": "Mon, 26 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
