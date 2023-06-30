@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-06-2023 , 10:49:46",
+  "lastUpdate": "30-06-2023 , 10:59:05",
   "data": [
-    [
-      {
-        "title": "Burger King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burger%20King",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Spielplan Bundesliga",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Handball U21-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20U21-WM",
-        "pubdate": "Thu, 29 Jun 2023 23:00:00 +0200"
+        "title": "Spielplan 2. Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spielplan%202.%20Bundesliga",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Witcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Witcher",
+        "pubdate": "Thu, 29 Jun 2023 18:00:00 +0200"
       }
     ],
     [
