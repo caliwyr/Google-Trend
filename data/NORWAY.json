@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-06-2023 , 22:50:24",
+  "lastUpdate": "30-06-2023 , 22:59:52",
   "data": [
+    [
+      {
+        "title": "Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingebrigtsen",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bjørnar Moxnes",
@@ -10,23 +17,9 @@
     ],
     [
       {
-        "title": "Tour de France 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tour%20de%20France%202023",
-        "pubdate": "Fri, 30 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Diamond League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League",
-        "pubdate": "Thu, 29 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Witcher",
         "pubdate": "Thu, 29 Jun 2023 17:00:00 +0200"
@@ -83,6 +69,13 @@
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
         "pubdate": "Thu, 29 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sørlandssenteret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#S%C3%B8rlandssenteret",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kevin Spacey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20Spacey",
         "pubdate": "Wed, 28 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pride Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride%20Park",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +0200"
       }
     ]
   ]

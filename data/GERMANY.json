@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-06-2023 , 22:50:20",
+  "lastUpdate": "30-06-2023 , 22:59:49",
   "data": [
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 30 Jun 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spielplan Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spielplan%20Bundesliga",
+        "pubdate": "Fri, 30 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Virgin Galactic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Virgin%20Galactic",
-        "pubdate": "Thu, 29 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madonna",
         "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
@@ -97,6 +90,13 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 22:50:18",
+  "lastUpdate": "30-06-2023 , 22:59:46",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Sydney Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Swans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
         "pubdate": "Fri, 30 Jun 2023 18:00:00 +1000"
@@ -125,6 +118,13 @@
         "title": "Warriors vs Rabbitohs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Rabbitohs",
         "pubdate": "Fri, 30 Jun 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Sydney Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1000"
       }
     ],
     [

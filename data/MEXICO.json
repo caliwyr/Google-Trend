@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-06-2023 , 22:50:23",
+  "lastUpdate": "30-06-2023 , 22:59:52",
   "data": [
+    [
+      {
+        "title": "Liga MX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "F1",
@@ -20,6 +27,13 @@
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Formula%201",
+        "pubdate": "Fri, 30 Jun 2023 11:00:00 -0600"
       }
     ],
     [
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "Claudia Ruiz Massieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Claudia%20Ruiz%20Massieu",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 -0600"
+        "title": "Acreditacion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Acreditacion",
+        "pubdate": "Fri, 30 Jun 2023 13:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Acreditacion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Acreditacion",
-        "pubdate": "Fri, 30 Jun 2023 13:00:00 -0600"
+        "title": "Claudia Ruiz Massieu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Claudia%20Ruiz%20Massieu",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 -0600"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Hipolito Mora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hipolito%20Mora",
+        "title": "Hipolito mora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hipolito%20mora",
         "pubdate": "Thu, 29 Jun 2023 14:00:00 -0600"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America",
+        "pubdate": "Thu, 29 Jun 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico",
         "pubdate": "Thu, 29 Jun 2023 20:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Julián Quiñones Club América",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juli%C3%A1n%20Qui%C3%B1ones%20Club%20Am%C3%A9rica",
-        "pubdate": "Thu, 29 Jun 2023 20:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Nata Montana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nata%20Montana",
-        "pubdate": "Thu, 29 Jun 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Vampire Olivia Rodrigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vampire%20Olivia%20Rodrigo",
-        "pubdate": "Thu, 29 Jun 2023 23:00:00 -0600"
       }
     ]
   ]
