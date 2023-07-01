@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 10:43:58",
+  "lastUpdate": "01-07-2023 , 10:53:12",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Gabe Vincent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gabe%20Vincent",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "BTS Jungkook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BTS%20Jungkook",
         "pubdate": "Sat, 01 Jul 2023 00:00:00 +0800"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Gabe Vincent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gabe%20Vincent",
+        "title": "Nimona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nimona",
         "pubdate": "Sat, 01 Jul 2023 14:00:00 +0800"
       }
     ],
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Indiana Jones and the Dial of Destiny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indiana%20Jones%20and%20the%20Dial%20of%20Destiny",
-        "pubdate": "Thu, 29 Jun 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Aspartame",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aspartame",
         "pubdate": "Thu, 29 Jun 2023 22:00:00 +0800"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Indiana Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indiana%20Jones",
-        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0800"
+        "title": "Indiana Jones and the Dial of Destiny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indiana%20Jones%20and%20the%20Dial%20of%20Destiny",
+        "pubdate": "Thu, 29 Jun 2023 10:00:00 +0800"
       }
     ],
     [
       {
-        "title": "NUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NUS",
-        "pubdate": "Thu, 29 Jun 2023 01:00:00 +0800"
+        "title": "Indiana Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indiana%20Jones",
+        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0800"
       }
     ]
   ]
