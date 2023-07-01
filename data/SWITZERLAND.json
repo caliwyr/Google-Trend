@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-07-2023 , 05:50:28",
+  "lastUpdate": "01-07-2023 , 05:59:43",
   "data": [
+    [
+      {
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France",
+        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Elton John",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France",
-        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
         "pubdate": "Fri, 30 Jun 2023 17:00:00 +0200"
@@ -62,6 +62,13 @@
         "title": "Naomi Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Naomi%20Campbell",
         "pubdate": "Fri, 30 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emeutes France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emeutes%20France",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Brozovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brozovic",
-        "pubdate": "Fri, 30 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Flughafen Genf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flughafen%20Genf",
-        "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
+        "title": "Satigny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Satigny",
+        "pubdate": "Fri, 30 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
