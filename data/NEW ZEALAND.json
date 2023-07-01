@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 12:26:19",
+  "lastUpdate": "01-07-2023 , 12:54:41",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Nimona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nimona",
+        "pubdate": "Sat, 01 Jul 2023 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "BLEEP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BLEEP",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 +1200"
@@ -41,6 +48,13 @@
         "title": "Olivia Rodrigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Olivia%20Rodrigo",
         "pubdate": "Sat, 01 Jul 2023 01:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Artificial sweeteners",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Artificial%20sweeteners",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +1200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Road user charges NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20user%20charges%20NZ",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Aspartame",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aspartame",
         "pubdate": "Fri, 30 Jun 2023 15:00:00 +1200"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Road user charges NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20user%20charges%20NZ",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sports",
+        "pubdate": "Fri, 30 Jun 2023 22:00:00 +1200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Rabbitohs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rabbitohs",
-        "pubdate": "Fri, 30 Jun 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Mason Mount",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mason%20Mount",
         "pubdate": "Fri, 30 Jun 2023 19:00:00 +1200"
@@ -125,20 +139,6 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Madonna",
         "pubdate": "Thu, 29 Jun 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Colleen Ballinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Colleen%20Ballinger",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Black Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
-        "pubdate": "Thu, 29 Jun 2023 20:00:00 +1200"
       }
     ]
   ]
