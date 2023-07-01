@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "01-07-2023 , 16:43:50",
+  "lastUpdate": "01-07-2023 , 16:53:22",
   "data": [
-    [
-      {
-        "title": "Milan Peroutka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Peroutka",
-        "pubdate": "Sat, 01 Jul 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tour de France 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tour%20de%20France%202023",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan Peroutka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Peroutka",
+        "pubdate": "Sat, 01 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Ostrava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ostrava",
-        "pubdate": "Sat, 01 Jul 2023 07:00:00 +0200"
+        "title": "Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tour%20de%20France",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tour%20de%20France",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+        "title": "Ostrava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ostrava",
+        "pubdate": "Sat, 01 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -47,13 +47,6 @@
       {
         "title": "FC Viktoria Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
-        "pubdate": "Sat, 01 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vladimír Ráž",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20R%C3%A1%C5%BE",
         "pubdate": "Sat, 01 Jul 2023 09:00:00 +0200"
       }
     ],
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Tour de France 2023 etapy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tour%20de%20France%202023%20etapy",
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sara Sandeva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sara%20Sandeva",
         "pubdate": "Sat, 01 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eliška Křenková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eli%C5%A1ka%20K%C5%99enkov%C3%A1",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Chance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chance",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
+        "title": "Není čas zemřít",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nen%C3%AD%20%C4%8Das%20zem%C5%99%C3%ADt",
+        "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Není čas zemřít",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nen%C3%AD%20%C4%8Das%20zem%C5%99%C3%ADt",
-        "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
+        "title": "Chance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chance",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Michael Fassbender",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Fassbender",
+        "title": "Michael Fassbender!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Fassbender!",
         "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Pastrňák",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Pastr%C5%88%C3%A1k",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
