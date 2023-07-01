@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "01-07-2023 , 13:38:42",
+  "lastUpdate": "01-07-2023 , 13:48:00",
   "data": [
     [
       {
-        "title": "Spa-Francorchamps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spa-Francorchamps",
+        "title": "Qmusic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Qmusic",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dilano van 't Hoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dilano%20van%20't%20Hoff",
         "pubdate": "Sat, 01 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Claude Barzotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Claude%20Barzotti",
+        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Émeutes France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89meutes%20France",
-        "pubdate": "Sat, 01 Jul 2023 10:00:00 +0200"
+        "title": "Maroc U23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc%20U23",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France",
-        "pubdate": "Fri, 30 Jun 2023 02:00:00 +0200"
+        "title": "Emeute France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emeute%20France",
+        "pubdate": "Fri, 30 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France",
+        "pubdate": "Fri, 30 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Berre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berre",
         "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liege",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liege",
-        "pubdate": "Fri, 30 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Black Box Revelation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Black%20Box%20Revelation",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kasabian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kasabian",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
