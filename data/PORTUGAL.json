@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 14:46:19",
+  "lastUpdate": "01-07-2023 , 14:55:30",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Volta a França",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Volta%20a%20Fran%C3%A7a",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jair Bolsonaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jair%20Bolsonaro",
         "pubdate": "Fri, 30 Jun 2023 15:00:00 +0100"
@@ -34,13 +41,6 @@
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F1",
-        "pubdate": "Fri, 30 Jun 2023 11:00:00 +0100"
       }
     ],
     [
@@ -66,16 +66,23 @@
     ],
     [
       {
-        "title": "Manuel Moreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Moreira",
-        "pubdate": "Fri, 30 Jun 2023 12:00:00 +0100"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
+        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
-        "pubdate": "Fri, 30 Jun 2023 16:00:00 +0100"
+        "title": "Susana Torres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Susana%20Torres",
+        "pubdate": "Fri, 30 Jun 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manuel Moreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Moreira",
+        "pubdate": "Fri, 30 Jun 2023 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Naomi Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Naomi%20Campbell",
         "pubdate": "Fri, 30 Jun 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al Musrati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Musrati",
-        "pubdate": "Fri, 30 Jun 2023 21:00:00 +0100"
       }
     ]
   ]
