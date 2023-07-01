@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 20:48:38",
+  "lastUpdate": "01-07-2023 , 20:57:56",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
+        "title": "Socialstyrelsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Socialstyrelsen",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Socialstyrelsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Socialstyrelsen",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Per Gessle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Gessle",
+        "pubdate": "Sat, 01 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 17:00:00 +0200"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Semester!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Semester!",
+        "title": "Semester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Semester",
         "pubdate": "Fri, 30 Jun 2023 15:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Witcher",
         "pubdate": "Thu, 29 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Travis%20Scott",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
