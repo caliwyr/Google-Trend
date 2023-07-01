@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-07-2023 , 20:00:18",
+  "lastUpdate": "01-07-2023 , 20:20:18",
   "data": [
-    [
-      {
-        "title": "Rate limit exceeded Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rate%20limit%20exceeded%20Twitter",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Lakers",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Damian%20Lillard",
-        "pubdate": "Sat, 01 Jul 2023 10:00:00 -0700"
+        "title": "Rate limit exceeded Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rate%20limit%20exceeded%20Twitter",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0700"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Tyrese Haliburton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tyrese%20Haliburton",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alan%20Arkin",
         "pubdate": "Fri, 30 Jun 2023 08:00:00 -0700"
@@ -69,6 +69,13 @@
         "title": "ESPN layoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ESPN%20layoffs",
         "pubdate": "Fri, 30 Jun 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NBA free agency",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20free%20agency",
+        "pubdate": "Fri, 30 Jun 2023 08:00:00 -0700"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Cam Reddish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Reddish",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Darren Drozdov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Darren%20Drozdov",
         "pubdate": "Fri, 30 Jun 2023 15:00:00 -0700"
@@ -125,20 +139,6 @@
         "title": "Nimona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nimona",
         "pubdate": "Fri, 30 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Money in the Bank 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Money%20in%20the%20Bank%202023",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "The Summer I Turned Pretty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Summer%20I%20Turned%20Pretty",
-        "pubdate": "Fri, 30 Jun 2023 12:00:00 -0700"
       }
     ]
   ]
