@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 15:44:33",
+  "lastUpdate": "01-07-2023 , 15:54:03",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Diego Moreira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Diego%20Moreira",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FC Dallas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FC%20Dallas",
         "pubdate": "Sat, 01 Jul 2023 16:00:00 +0300"
       }
     ],
@@ -40,7 +47,7 @@
       {
         "title": "RC Arbaa vs USM Alger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#RC%20Arbaa%20vs%20USM%20Alger",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0300"
+        "pubdate": "Fri, 30 Jun 2023 22:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#The%20Witcher",
         "pubdate": "Thu, 29 Jun 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dominik Szoboszlai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dominik%20Szoboszlai",
-        "pubdate": "Thu, 29 Jun 2023 10:00:00 +0300"
       }
     ]
   ]
