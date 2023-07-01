@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-07-2023 , 21:42:50",
+  "lastUpdate": "01-07-2023 , 21:52:06",
   "data": [
     [
       {
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tour%20de%20France",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Money in the Bank 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Money%20in%20the%20Bank%202023",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "And Just Like That",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#And%20Just%20Like%20That",
         "pubdate": "Thu, 22 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U-Boot Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U-Boot%20Titan",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tauchboot Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tauchboot%20Titan",
+        "pubdate": "Wed, 21 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

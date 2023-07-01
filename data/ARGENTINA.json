@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-07-2023 , 21:42:48",
+  "lastUpdate": "01-07-2023 , 21:52:03",
   "data": [
     [
       {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Twitch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Twitch",
+        "pubdate": "Sat, 01 Jul 2023 11:00:00 -0300"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "San Lorenzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
+        "title": "San Lorenzo  Rosario Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo%20%20Rosario%20Central",
         "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
       }
     ],
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "La Velada del Año 3 Horario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Velada%20del%20A%C3%B1o%203%20Horario",
-        "pubdate": "Sat, 01 Jul 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Vélez vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#V%C3%A9lez%20vs%20Arsenal",
-        "pubdate": "Sat, 01 Jul 2023 01:00:00 -0300"
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 -0300"
       }
     ],
     [
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "La Velada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Velada",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Partido de River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20de%20River",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
+        "title": "Marcelo Marcel periodista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marcelo%20Marcel%20periodista",
+        "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
       }
     ],
     [
@@ -87,8 +80,29 @@
     ],
     [
       {
-        "title": "Peron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Peron",
+        "title": "Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central",
+        "pubdate": "Sat, 01 Jul 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Feid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feid",
+        "pubdate": "Sat, 01 Jul 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "La Velada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Velada",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "1 de julio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#1%20de%20julio",
         "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
       }
     ],
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Cesc fabregas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cesc%20fabregas",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Gimnasia de Jujuy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20de%20Jujuy",
         "pubdate": "Sat, 01 Jul 2023 00:00:00 -0300"
@@ -108,30 +129,9 @@
     ],
     [
       {
-        "title": "Cesc Fabregas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cesc%20Fabregas",
-        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Velez Sarsfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez%20Sarsfield",
-        "pubdate": "Sat, 01 Jul 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Milei",
-        "pubdate": "Sat, 01 Jul 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Julio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Julio",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
+        "title": "Civitas Metropolitano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Civitas%20Metropolitano",
+        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
       }
     ],
     [

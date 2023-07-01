@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-07-2023 , 21:42:49",
+  "lastUpdate": "01-07-2023 , 21:52:04",
   "data": [
+    [
+      {
+        "title": "Fête du Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F%C3%AAte%20du%20Canada",
+        "pubdate": "Sat, 01 Jul 2023 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "TwitterDown",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Tour de France 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tour%20de%20France%202023",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Carson Soucy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carson%20Soucy",
         "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Tour de France 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tour%20de%20France%202023",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Dilano van't Hoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dilano%20van't%20Hoff",
         "pubdate": "Sat, 01 Jul 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damian%20Lillard",
+        "pubdate": "Sat, 01 Jul 2023 04:00:00 -0400"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damian%20Lillard",
-        "pubdate": "Sat, 01 Jul 2023 13:00:00 -0400"
+        "title": "Money in the Bank 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Money%20in%20the%20Bank%202023",
+        "pubdate": "Sat, 01 Jul 2023 12:00:00 -0400"
       }
     ],
     [
@@ -94,23 +108,16 @@
     ],
     [
       {
-        "title": "Kyrie Irving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyrie%20Irving",
-        "pubdate": "Sat, 01 Jul 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Money in the Bank 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Money%20in%20the%20Bank%202023",
-        "pubdate": "Sat, 01 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "RTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RTC",
         "pubdate": "Sat, 01 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyrie%20Irving",
+        "pubdate": "Sat, 01 Jul 2023 01:00:00 -0400"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Max Strus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Max%20Strus",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Joel Edmundson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joel%20Edmundson",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
+        "title": "Milan Lucic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Milan%20Lucic",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
       }
     ]
   ]
