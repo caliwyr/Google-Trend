@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 11:46:48",
+  "lastUpdate": "01-07-2023 , 11:56:08",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "It's Showtime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#It's%20Showtime",
+        "pubdate": "Sat, 01 Jul 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1",
         "pubdate": "Sat, 01 Jul 2023 01:00:00 +0800"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "EXO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#EXO",
-        "pubdate": "Sat, 01 Jul 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Bruce Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bruce%20Brown",
         "pubdate": "Sat, 01 Jul 2023 10:00:00 +0800"
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Inquest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Inquest",
-        "pubdate": "Sat, 01 Jul 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fred VanVleet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Fred%20VanVleet",
-        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0800"
+        "title": "EXO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#EXO",
+        "pubdate": "Sat, 01 Jul 2023 10:00:00 +0800"
       }
     ],
     [
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "Kyrie Irving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kyrie%20Irving",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0800"
+        "title": "Fred VanVleet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Fred%20VanVleet",
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Inquest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Inquest",
+        "pubdate": "Sat, 01 Jul 2023 09:00:00 +0800"
       }
     ],
     [
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "Hwasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hwasa",
-        "pubdate": "Sat, 01 Jul 2023 01:00:00 +0800"
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kyrie%20Irving",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Showtime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Showtime",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#France",
         "pubdate": "Sat, 01 Jul 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "BPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#BPI",
-        "pubdate": "Fri, 30 Jun 2023 22:00:00 +0800"
       }
     ]
   ]
