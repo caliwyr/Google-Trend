@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-07-2023 , 01:50:27",
+  "lastUpdate": "01-07-2023 , 02:59:52",
   "data": [
-    [
-      {
-        "title": "Burger King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burger%20King",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Alan Arkin",
@@ -34,13 +27,6 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Kruse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Max%20Kruse",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Robert Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
+        "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alexander Bublik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Bublik",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ]
   ]

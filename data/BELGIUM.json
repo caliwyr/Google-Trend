@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 01:50:24",
+  "lastUpdate": "01-07-2023 , 02:59:48",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Berre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berre",
-        "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mylene Farmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mylene%20Farmer",
         "pubdate": "Fri, 30 Jun 2023 21:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Kristina Baikova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kristina%20Baikova",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 +0200"
+        "title": "Berre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Berre",
+        "pubdate": "Fri, 30 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Kasabian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kasabian",
-        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
+        "title": "Liege",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liege",
+        "pubdate": "Fri, 30 Jun 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liege",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liege",
-        "pubdate": "Fri, 30 Jun 2023 22:00:00 +0200"
+        "title": "Kasabian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kasabian",
+        "pubdate": "Fri, 30 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Virgin Galactic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Virgin%20Galactic",
         "pubdate": "Fri, 30 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Iggy Pop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Iggy%20Pop",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
