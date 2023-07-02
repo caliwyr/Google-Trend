@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-07-2023 , 17:47:49",
+  "lastUpdate": "02-07-2023 , 17:57:06",
   "data": [
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
+        "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Kroningsfeesten Tongeren",
@@ -34,13 +41,6 @@
         "title": "Inhaler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inhaler",
         "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lafay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lafay",
-        "pubdate": "Sun, 02 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Jo' Lindner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jo'%20Lindner",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Adam Yates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adam%20Yates",
         "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "San Sebastian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#San%20Sebastian",
+        "pubdate": "Sat, 01 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fred again",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fred%20again",
         "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "San Sebastian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#San%20Sebastian",
-        "pubdate": "Sat, 01 Jul 2023 23:00:00 +0200"
+        "title": "Jo' Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jo'%20Lindner",
+        "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Muse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Muse",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+        "title": "Red Hot Chili Peppers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Red%20Hot%20Chili%20Peppers",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Red Hot Chili Peppers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Red%20Hot%20Chili%20Peppers",
-        "pubdate": "Sat, 01 Jul 2023 23:00:00 +0200"
+        "title": "Muse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Muse",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
