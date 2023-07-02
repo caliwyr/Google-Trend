@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2023 , 11:43:50",
+  "lastUpdate": "02-07-2023 , 11:53:02",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Adam Yates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Adam%20Yates",
         "pubdate": "Sat, 01 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rellen Frankrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rellen%20Frankrijk",
-        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Omroep Zeeland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Zeeland",
         "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Omroep West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20West",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
       }
     ]
   ]
