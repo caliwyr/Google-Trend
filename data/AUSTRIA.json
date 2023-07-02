@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-07-2023 , 00:41:28",
+  "lastUpdate": "02-07-2023 , 02:25:53",
   "data": [
-    [
-      {
-        "title": "Al Bano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Al%20Bano",
-        "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Andreas Gabalier",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Al Bano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Al%20Bano",
+        "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SK Sturm Graz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Sturm%20Graz",
         "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marseille",
+        "pubdate": "Sun, 02 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "SPÖ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SP%C3%96",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bilbao",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formula 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formula%201",
         "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "SV Ried",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SV%20Ried",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SK Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid",
         "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
       }
     ]
