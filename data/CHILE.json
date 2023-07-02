@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2023 , 12:46:44",
+  "lastUpdate": "02-07-2023 , 13:06:13",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "Twitch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Twitch",
-        "pubdate": "Sat, 01 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "German",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#German",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -55,6 +41,13 @@
         "title": "Flamengo  Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo%20%20Fortaleza",
         "pubdate": "Sat, 01 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Valle Nevado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valle%20Nevado",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sodexo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sodexo",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
       }
     ]
