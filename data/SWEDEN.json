@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-07-2023 , 23:51:52",
+  "lastUpdate": "02-07-2023 , 00:41:38",
   "data": [
-    [
-      {
-        "title": "Socialstyrelsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Socialstyrelsen",
-        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "AIK",
@@ -20,6 +13,13 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Socialstyrelsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Socialstyrelsen",
+        "pubdate": "Sat, 01 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Dawit Isaak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dawit%20Isaak",
         "pubdate": "Sat, 01 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brommapojkarna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brommapojkarna",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kia EV9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kia%20EV9",
         "pubdate": "Thu, 29 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leo Carlsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Carlsson",
+        "pubdate": "Thu, 29 Jun 2023 07:00:00 +0200"
       }
     ]
   ]
