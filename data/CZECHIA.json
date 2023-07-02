@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2023 , 13:44:53",
+  "lastUpdate": "02-07-2023 , 13:54:18",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Vladimír Ráž",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20R%C3%A1%C5%BE",
-        "pubdate": "Sat, 01 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Emma Smetana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Smetana",
         "pubdate": "Sat, 01 Jul 2023 22:00:00 +0200"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Slovácké léto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1ck%C3%A9%20l%C3%A9to",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+        "title": "Festival v ulicích Ostrava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20v%20ulic%C3%ADch%20Ostrava",
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tomáš Petrášek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Petr%C3%A1%C5%A1ek",
         "pubdate": "Fri, 30 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chance",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
