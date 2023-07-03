@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 09:40:27",
+  "lastUpdate": "03-07-2023 , 09:49:33",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "에코프로",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C",
         "pubdate": "Mon, 03 Jul 2023 16:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "알뜰교통카드",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%8C%EB%9C%B0%EA%B5%90%ED%86%B5%EC%B9%B4%EB%93%9C",
+        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "U-17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#U-17",
         "pubdate": "Thu, 29 Jun 2023 23:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "푸틴",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%91%B8%ED%8B%B4",
-        "pubdate": "Thu, 29 Jun 2023 18:00:00 +0900"
       }
     ]
   ]
