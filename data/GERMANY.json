@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-07-2023 , 10:45:41",
+  "lastUpdate": "03-07-2023 , 10:54:59",
   "data": [
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Max Verstappen",
@@ -27,13 +34,6 @@
         "title": "Frankreich news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20news",
         "pubdate": "Sat, 01 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Darts Trier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts%20Trier",
-        "pubdate": "Sat, 01 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
-        "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
       }
     ]
   ]

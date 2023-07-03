@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 10:45:39",
+  "lastUpdate": "03-07-2023 , 10:54:57",
   "data": [
     [
       {
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
-        "pubdate": "Sun, 02 Jul 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cuiaba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
-        "pubdate": "Sun, 02 Jul 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Sepulveda Pertence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sepulveda%20Pertence",
         "pubdate": "Sun, 02 Jul 2023 11:00:00 -0500"
@@ -76,6 +62,13 @@
         "title": "Remo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
         "pubdate": "Sun, 02 Jul 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "2 de Julho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#2%20de%20Julho",
+        "pubdate": "Sun, 02 Jul 2023 04:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CSA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
         "pubdate": "Sun, 02 Jul 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tabela Brasileiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tabela%20Brasileiro",
+        "pubdate": "Sun, 02 Jul 2023 13:00:00 -0500"
       }
     ]
   ]
