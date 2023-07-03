@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 18:42:24",
+  "lastUpdate": "03-07-2023 , 18:51:46",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sissel Kyrkjebø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sissel%20Kyrkjeb%C3%B8",
         "pubdate": "Sun, 02 Jul 2023 02:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "Lyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
         "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ivana Petrovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ivana%20Petrovic",
-        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Håkon Børde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5kon%20B%C3%B8rde",
+        "pubdate": "Sat, 01 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride",
         "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Pride 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride%202023",
         "pubdate": "Sat, 01 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen Oslo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Springsteen%20Oslo",
-        "pubdate": "Fri, 30 Jun 2023 03:00:00 +0200"
       }
     ]
   ]
