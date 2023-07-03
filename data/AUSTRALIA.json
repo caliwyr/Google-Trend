@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 13:42:16",
+  "lastUpdate": "03-07-2023 , 13:51:31",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Bradman Best",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradman%20Best",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Manor Solomon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manor%20Solomon",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +1000"
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Guru Purnima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guru%20Purnima",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Ketamine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ketamine",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +1000"
@@ -80,9 +66,16 @@
     ],
     [
       {
-        "title": "NSW blues TEAM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NSW%20blues%20TEAM",
+        "title": "NSW Blues team",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NSW%20Blues%20team",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Ben Stokes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Stokes",
+        "pubdate": "Sun, 02 Jul 2023 21:00:00 +1000"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "NAIDOC Week",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NAIDOC%20Week",
         "pubdate": "Sun, 02 Jul 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ben Stokes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Stokes",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 +1000"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Nathan Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20Lyon",
         "pubdate": "Sun, 02 Jul 2023 22:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Damian%20Lillard",
+        "pubdate": "Sun, 02 Jul 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Carlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton",
+        "pubdate": "Sun, 02 Jul 2023 15:00:00 +1000"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-07-2023 , 13:42:17",
+  "lastUpdate": "03-07-2023 , 13:51:33",
   "data": [
+    [
+      {
+        "title": "Wimbledon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon%202023",
+        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Orkney",
@@ -10,23 +17,9 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayonne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayonne",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
         "pubdate": "Sat, 01 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christine and the Queens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christine%20and%20the%20Queens",
+        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0200"
       }
     ]
   ]
