@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 08:41:43",
+  "lastUpdate": "03-07-2023 , 08:51:01",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sissel Kyrkjebø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sissel%20Kyrkjeb%C3%B8",
         "pubdate": "Sun, 02 Jul 2023 02:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Bodø/Glimt - Molde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20-%20Molde",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
+        "title": "Lyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
+        "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-        "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
+        "title": "Bodø/Glimt - Molde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20-%20Molde",
+        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tour%20de%20France",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jo Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jo%20Lindner",
         "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Dag Otto Lauritzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Otto%20Lauritzen",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vålerenga Viking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Viking",
         "pubdate": "Sat, 01 Jul 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Bruce Springsteen Oslo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Springsteen%20Oslo",
         "pubdate": "Fri, 30 Jun 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bjørnar Moxnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnar%20Moxnes",
-        "pubdate": "Fri, 30 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
