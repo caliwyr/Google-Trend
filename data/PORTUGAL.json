@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-07-2023 , 05:46:21",
+  "lastUpdate": "03-07-2023 , 05:55:38",
   "data": [
+    [
+      {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Royal Blood",
@@ -20,13 +27,6 @@
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
         "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
-        "pubdate": "Sun, 02 Jul 2023 16:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Afurada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Afurada",
-        "pubdate": "Sun, 02 Jul 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Apulia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Apulia",
         "pubdate": "Sun, 02 Jul 2023 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Piloto morreu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Piloto%20morreu",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inglaterra sub-21: Portugal sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inglaterra%20sub-21:%20Portugal%20sub-21",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0100"
       }
     ]
   ]
