@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 19:03:18",
+  "lastUpdate": "03-07-2023 , 19:18:07",
   "data": [
-    [
-      {
-        "title": "VERO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#VERO",
-        "pubdate": "Mon, 03 Jul 2023 10:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wimbledon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wimbledon%202023",
-        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Lamborghini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamborghini",
         "pubdate": "Sat, 01 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Dilano van't Hoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dilano%20van't%20Hoff",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +0300"
       }
     ]
   ]
