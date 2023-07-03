@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "03-07-2023 , 16:45:30",
+  "lastUpdate": "03-07-2023 , 16:54:52",
   "data": [
     [
       {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novak%20Djokovic",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Goias x Coritiba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias%20x%20Coritiba",
+        "pubdate": "Mon, 03 Jul 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "FalleN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FalleN",
+        "pubdate": "Mon, 03 Jul 2023 06:00:00 -0500"
       }
     ],
     [
@@ -20,20 +41,6 @@
         "title": "Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prime%20Day",
         "pubdate": "Mon, 03 Jul 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Goias x Coritiba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias%20x%20Coritiba",
-        "pubdate": "Mon, 03 Jul 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Reforma tributária",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reforma%20tribut%C3%A1ria",
-        "pubdate": "Mon, 03 Jul 2023 10:00:00 -0500"
       }
     ],
     [
@@ -54,7 +61,7 @@
       {
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-        "pubdate": "Sun, 02 Jul 2023 16:00:00 -0500"
+        "pubdate": "Sun, 02 Jul 2023 15:00:00 -0500"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Atletico MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20MG",
+        "pubdate": "Sun, 02 Jul 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
         "pubdate": "Sun, 02 Jul 2023 16:00:00 -0500"
@@ -90,13 +104,6 @@
         "title": "Copa do Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil",
         "pubdate": "Sun, 02 Jul 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Copa do Mundo Feminina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Mundo%20Feminina",
-        "pubdate": "Sun, 02 Jul 2023 08:00:00 -0500"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Athletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico",
+        "pubdate": "Sun, 02 Jul 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sepulveda Pertence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sepulveda%20Pertence",
         "pubdate": "Sun, 02 Jul 2023 11:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
         "pubdate": "Sun, 02 Jul 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
-        "pubdate": "Sun, 02 Jul 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
-        "pubdate": "Sun, 02 Jul 2023 18:00:00 -0500"
       }
     ]
   ]
