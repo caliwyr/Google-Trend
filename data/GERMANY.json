@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 12:43:40",
+  "lastUpdate": "03-07-2023 , 13:12:00",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tour%20de%20France",
         "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Handball U21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20U21",
+        "pubdate": "Sat, 01 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Alexander Bublik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Bublik",
         "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titanic U-Boot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic%20U-Boot",
-        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
