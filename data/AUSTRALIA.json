@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 07:42:31",
+  "lastUpdate": "03-07-2023 , 07:51:45",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Q1 fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Q1%20fire",
+        "pubdate": "Mon, 03 Jul 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bradman Best",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradman%20Best",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +1000"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Interest rates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 +1000"
+        "title": "Guru Purnima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guru%20Purnima",
+        "pubdate": "Mon, 03 Jul 2023 17:00:00 +1000"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Mitchell Starc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mitchell%20Starc",
         "pubdate": "Sun, 02 Jul 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Pat Cummins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pat%20Cummins",
-        "pubdate": "Sun, 02 Jul 2023 23:00:00 +1000"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "NASCAR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NASCAR",
         "pubdate": "Sun, 02 Jul 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jonny Bairstow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonny%20Bairstow",
+        "pubdate": "Sun, 02 Jul 2023 23:00:00 +1000"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Rate limit exceeded Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rate%20limit%20exceeded%20Twitter",
-        "pubdate": "Sun, 02 Jul 2023 03:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Damian%20Lillard",
         "pubdate": "Sun, 02 Jul 2023 10:00:00 +1000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bulldogs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs",
-        "pubdate": "Sun, 02 Jul 2023 16:00:00 +1000"
+        "title": "Carlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton",
+        "pubdate": "Sun, 02 Jul 2023 15:00:00 +1000"
       }
     ]
   ]
