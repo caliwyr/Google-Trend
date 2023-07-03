@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 20:38:46",
+  "lastUpdate": "03-07-2023 , 20:48:12",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0800"
+        "title": "Cai Xukun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cai%20Xukun",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0800"
       }
     ],
     [
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Healthier SG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Healthier%20SG",
-        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0800"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
+        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Romeo Lavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Romeo%20Lavia",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0800"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Austrian GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Austrian%20GP",
         "pubdate": "Sun, 02 Jul 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Damian%20Lillard",
-        "pubdate": "Sun, 02 Jul 2023 11:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Dominik Szoboszlai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dominik%20Szoboszlai",
-        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Mason Mount",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mason%20Mount",
         "pubdate": "Fri, 30 Jun 2023 02:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "France riot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#France%20riot",
         "pubdate": "Fri, 30 Jun 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Szoboszlai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Szoboszlai",
+        "pubdate": "Fri, 30 Jun 2023 19:00:00 +0800"
       }
     ]
   ]
