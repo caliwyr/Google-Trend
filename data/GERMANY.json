@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 04:42:40",
+  "lastUpdate": "03-07-2023 , 04:51:50",
   "data": [
     [
       {
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Max%20Verstappen",
         "pubdate": "Sun, 02 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Handball U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20U21",
-        "pubdate": "Sat, 01 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Frankreich news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20news",
         "pubdate": "Sat, 01 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U21-Handball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U21-Handball-WM",
+        "pubdate": "Sat, 01 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mindestlohn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alexander Bublik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Bublik",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
