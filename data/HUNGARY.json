@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 14:43:56",
+  "lastUpdate": "03-07-2023 , 14:53:19",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Mount Everest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mount%20Everest",
-        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
+        "title": "Karácsony Gergely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20Gergely",
+        "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Karácsony gergely",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20gergely",
-        "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
+        "title": "Mount Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mount%20Everest",
+        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Varga Csaba hegymászó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Csaba%20hegym%C3%A1sz%C3%B3",
-        "pubdate": "Sun, 02 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anna",
         "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Steven Gerrard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Steven%20Gerrard",
-        "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
+        "title": "Varga Csaba hegymászó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Csaba%20hegym%C3%A1sz%C3%B3",
+        "pubdate": "Sun, 02 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -76,6 +69,13 @@
         "title": "Venom 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Venom%203",
         "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steven Gerrard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Steven%20Gerrard",
+        "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Szerencsekerék",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerencseker%C3%A9k",
-        "pubdate": "Sun, 02 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Buffon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Buffon",
         "pubdate": "Sun, 02 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Clint%20Eastwood",
         "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hofi Géza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hofi%20G%C3%A9za",
+        "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
