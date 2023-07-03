@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 02:42:21",
+  "lastUpdate": "03-07-2023 , 03:16:06",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Austrian GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Austrian%20GP",
         "pubdate": "Sun, 02 Jul 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Youth Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Youth%20Day",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0800"
       }
     ],
     [
@@ -45,8 +38,15 @@
     ],
     [
       {
-        "title": "Twitter Rate Limit Exceeded",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Twitter%20Rate%20Limit%20Exceeded",
+        "title": "Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tour%20de%20France",
+        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Twitter rate limit exceeded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Twitter%20rate%20limit%20exceeded",
         "pubdate": "Sat, 01 Jul 2023 23:00:00 +0800"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madonna",
+        "title": "Indiana Jones and the Dial of Destiny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indiana%20Jones%20and%20the%20Dial%20of%20Destiny",
         "pubdate": "Thu, 29 Jun 2023 10:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Dominik Szoboszlai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dominik%20Szoboszlai",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 +0800"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madonna",
+        "pubdate": "Thu, 29 Jun 2023 10:00:00 +0800"
       }
     ]
   ]
