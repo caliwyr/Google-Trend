@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-07-2023 , 16:46:00",
+  "lastUpdate": "04-07-2023 , 16:55:31",
   "data": [
     [
       {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
         "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elterngeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
+        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Rave the Planet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rave%20the%20Planet",
-        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
+        "title": "Tennis Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tennis%20Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tennis wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tennis%20wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
+        "title": "Rave the Planet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rave%20the%20Planet",
+        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mindestlohn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Robert Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
-        "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alexander Bublik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Bublik",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
