@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-07-2023 , 01:59:16",
+  "lastUpdate": "04-07-2023 , 03:02:10",
   "data": [
     [
       {
         "title": "CAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CAS",
         "pubdate": "Mon, 03 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Amrabat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Amrabat",
+        "pubdate": "Mon, 03 Jul 2023 19:00:00 +0300"
       }
     ],
     [
@@ -24,23 +31,9 @@
     ],
     [
       {
-        "title": "Amrabat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Amrabat",
-        "pubdate": "Mon, 03 Jul 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Goias vs Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Goias%20vs%20Coritiba",
         "pubdate": "Mon, 03 Jul 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sofyan Amrabat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sofyan%20Amrabat",
-        "pubdate": "Mon, 03 Jul 2023 19:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Diego Moreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Diego%20Moreira",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0300"
       }
     ]
   ]
