@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2023 , 07:38:31",
+  "lastUpdate": "04-07-2023 , 07:47:44",
   "data": [
+    [
+      {
+        "title": "Wimbledon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wimbledon%202023",
+        "pubdate": "Tue, 04 Jul 2023 04:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Kyle Richards",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 23:00:00 +1200"
+        "title": "Harbour Bridge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Harbour%20Bridge",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Harbour Bridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Harbour%20Bridge",
-        "pubdate": "Mon, 03 Jul 2023 10:00:00 +1200"
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 23:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Air New",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Air%20New",
         "pubdate": "Mon, 03 Jul 2023 23:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "NASCAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NASCAR",
-        "pubdate": "Sun, 02 Jul 2023 18:00:00 +1200"
       }
     ]
   ]
