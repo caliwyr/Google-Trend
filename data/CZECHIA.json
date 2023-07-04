@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 04:53:22",
+  "lastUpdate": "04-07-2023 , 05:09:34",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Úplněk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Apln%C4%9Bk",
+        "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vladimír Ráž",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20R%C3%A1%C5%BE",
         "pubdate": "Sat, 01 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tour%20de%20France",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
