@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 06:41:21",
+  "lastUpdate": "04-07-2023 , 06:50:50",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "Olivia Dunne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Olivia%20Dunne",
+        "pubdate": "Tue, 04 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Venus Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Venus%20Williams",
-        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
+        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Wimbledon 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon%202023",
         "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Serena Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serena%20Williams",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Bobcat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bobcat",
+        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Covenant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Covenant",
         "pubdate": "Mon, 03 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prime Video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prime%20Video",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "John McEnroe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20McEnroe",
-        "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
