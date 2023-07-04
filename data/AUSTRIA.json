@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2023 , 18:47:48",
+  "lastUpdate": "04-07-2023 , 18:57:08",
   "data": [
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carlos%20Alcaraz",
+        "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Rose Leslie",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "WU Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WU%20Wien",
-        "pubdate": "Tue, 04 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "El nino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#El%20nino",
         "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
-        "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
+        "title": "WU Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WU%20Wien",
+        "pubdate": "Tue, 04 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Harrison Ford Indiana Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harrison%20Ford%20Indiana%20Jones",
         "pubdate": "Tue, 04 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SV Ried",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SV%20Ried",
+        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,15 +80,15 @@
     ],
     [
       {
-        "title": "SV Ried",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SV%20Ried",
-        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
+        "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
+        "title": "Thiem heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thiem%20heute",
         "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
+        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Florian Silbereisen Beatrice Egli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Florian%20Silbereisen%20Beatrice%20Egli",
         "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Grabher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grabher",
-        "pubdate": "Mon, 03 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tennis Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tennis%20Wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
