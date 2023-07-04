@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2023 , 20:44:42",
+  "lastUpdate": "04-07-2023 , 20:53:55",
   "data": [
+    [
+      {
+        "title": "Copa do Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil",
+        "pubdate": "Tue, 04 Jul 2023 15:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Elis Regina",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Andressa Urach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
-        "pubdate": "Tue, 04 Jul 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Threads",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Threads",
         "pubdate": "Tue, 04 Jul 2023 10:00:00 -0500"
@@ -62,13 +62,6 @@
         "title": "Vacina dengue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
         "pubdate": "Tue, 04 Jul 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Celso Portiolli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celso%20Portiolli",
-        "pubdate": "Tue, 04 Jul 2023 12:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0500"
       }
     ]
   ]
