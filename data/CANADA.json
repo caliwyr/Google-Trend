@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 17:39:09",
+  "lastUpdate": "04-07-2023 , 17:48:35",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "July 4th",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#July%204th",
+        "pubdate": "Tue, 04 Jul 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Independence Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Independence%20Day",
         "pubdate": "Tue, 04 Jul 2023 08:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Joey Chestnut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joey%20Chestnut",
+        "pubdate": "Tue, 04 Jul 2023 12:00:00 -0400"
       }
     ],
     [
@@ -59,16 +73,23 @@
     ],
     [
       {
-        "title": "Joey Chestnut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joey%20Chestnut",
+        "title": "Byrd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Byrd",
         "pubdate": "Tue, 04 Jul 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Byrd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Byrd",
-        "pubdate": "Tue, 04 Jul 2023 12:00:00 -0400"
+        "title": "Summer League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Summer%20League",
+        "pubdate": "Tue, 04 Jul 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Trisha Paytas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trisha%20Paytas",
+        "pubdate": "Tue, 04 Jul 2023 13:00:00 -0400"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Lake Louise fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lake%20Louise%20fire",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Filip Zadina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Filip%20Zadina",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dylan Gambrell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dylan%20Gambrell",
-        "pubdate": "Mon, 03 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Marc-André Lussier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marc-Andr%C3%A9%20Lussier",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 -0400"
       }
     ]
   ]

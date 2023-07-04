@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 17:39:17",
+  "lastUpdate": "04-07-2023 , 17:48:43",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Sean Bean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sean%20Bean",
+        "pubdate": "Tue, 04 Jul 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
         "pubdate": "Tue, 04 Jul 2023 16:00:00 +0300"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Wimbledon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wimbledon%202023",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 +0300"
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0300"
+        "title": "Wimbledon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wimbledon%202023",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 +0300"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Totul pentru familia mea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Totul%20pentru%20familia%20mea",
-        "pubdate": "Mon, 03 Jul 2023 23:00:00 +0300"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
-        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Admitere liceu 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Admitere%20liceu%202023",
-        "pubdate": "Mon, 03 Jul 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "SRI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SRI",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Horoscop 3 iulie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%203%20iulie%202023",
+        "pubdate": "Mon, 03 Jul 2023 02:00:00 +0300"
       }
     ]
   ]
