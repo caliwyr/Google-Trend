@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2023 , 19:42:19",
+  "lastUpdate": "04-07-2023 , 19:51:42",
   "data": [
+    [
+      {
+        "title": "CPR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CPR",
+        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Jackie Chan",
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Junho 2PM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Junho%202PM",
+        "title": "Junho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Junho",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0800"
       }
     ],
@@ -62,6 +69,13 @@
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Junho 2PM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Junho%202PM",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 +0800"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "2PM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#2PM",
-        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Tan Sri Kadir Sheikh Fadzir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tan%20Sri%20Kadir%20Sheikh%20Fadzir",
         "pubdate": "Mon, 03 Jul 2023 15:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Cesc Fabregas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cesc%20Fabregas",
         "pubdate": "Sun, 02 Jul 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lisa BLACKPINK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lisa%20BLACKPINK",
-        "pubdate": "Sun, 02 Jul 2023 15:00:00 +0800"
       }
     ]
   ]

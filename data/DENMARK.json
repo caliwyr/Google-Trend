@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-07-2023 , 19:42:15",
+  "lastUpdate": "04-07-2023 , 19:51:38",
   "data": [
-    [
-      {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roger%20Federer",
-        "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jens Stoltenberg",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tennis",
+        "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schengen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Schengen",
         "pubdate": "Tue, 04 Jul 2023 01:00:00 +0200"
@@ -59,9 +59,30 @@
     ],
     [
       {
+        "title": "Roger Federer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roger%20Federer",
+        "pubdate": "Tue, 04 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mason Mount",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mason%20Mount",
         "pubdate": "Tue, 04 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rasmus højlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
+        "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon%202023",
+        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -73,23 +94,16 @@
     ],
     [
       {
-        "title": "Wimbledon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon%202023",
-        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coco Gauff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coco%20Gauff",
-        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jasper Philipsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jasper%20Philipsen",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kenin tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kenin%20tennis",
+        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wout%20van%20Aert",
-        "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0200"
       }
     ]
   ]

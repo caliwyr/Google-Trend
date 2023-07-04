@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 19:42:13",
+  "lastUpdate": "04-07-2023 , 19:51:37",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "IBGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IBGE",
+        "pubdate": "Tue, 04 Jul 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luan Corinthians motel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luan%20Corinthians%20motel",
         "pubdate": "Tue, 04 Jul 2023 11:00:00 -0500"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Luan agredido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luan%20agredido",
-        "pubdate": "Tue, 04 Jul 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Threads",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Threads",
         "pubdate": "Tue, 04 Jul 2023 10:00:00 -0500"
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Vacina dengue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
-        "pubdate": "Tue, 04 Jul 2023 06:00:00 -0500"
+        "title": "Pedro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pedro",
+        "pubdate": "Tue, 04 Jul 2023 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Pedro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pedro",
-        "pubdate": "Tue, 04 Jul 2023 07:00:00 -0500"
+        "title": "Vacina dengue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
+        "pubdate": "Tue, 04 Jul 2023 06:00:00 -0500"
       }
     ],
     [
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Síndrome de Stevens-Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%ADndrome%20de%20Stevens-Johnson",
+        "pubdate": "Tue, 04 Jul 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
         "pubdate": "Tue, 04 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Amazon Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amazon%20Prime%20Day",
+        "pubdate": "Tue, 04 Jul 2023 14:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nautico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lotofacil 2853",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lotofacil%202853",
-        "pubdate": "Mon, 03 Jul 2023 20:00:00 -0500"
       }
     ]
   ]
