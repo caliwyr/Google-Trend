@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 11:42:49",
+  "lastUpdate": "04-07-2023 , 11:52:21",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Byrd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Byrd",
+        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Piyush Gupta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Piyush%20Gupta",
         "pubdate": "Tue, 04 Jul 2023 08:00:00 +0800"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0800"
+        "title": "31 Ridout Road",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#31%20Ridout%20Road",
+        "pubdate": "Mon, 03 Jul 2023 22:00:00 +0800"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Lawrence Wong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lawrence%20Wong",
         "pubdate": "Mon, 03 Jul 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
+        "pubdate": "Mon, 03 Jul 2023 16:00:00 +0800"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Alan Arkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alan%20Arkin",
-        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tour de France 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tour%20de%20France%202023",
-        "pubdate": "Sat, 01 Jul 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tessa Therapeutics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tessa%20Therapeutics",
         "pubdate": "Sat, 01 Jul 2023 02:00:00 +0800"
       }
     ]
