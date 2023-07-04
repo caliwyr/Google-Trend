@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 21:43:11",
+  "lastUpdate": "04-07-2023 , 21:52:30",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Floor Jansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
         "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+        "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 05:00:00 +0200"
       }
     ]
   ]
