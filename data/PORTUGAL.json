@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "04-07-2023 , 05:39:38",
+  "lastUpdate": "04-07-2023 , 05:48:59",
   "data": [
     [
       {
         "title": "Malta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Malta",
+        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serena Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serena%20Williams",
         "pubdate": "Tue, 04 Jul 2023 00:00:00 +0100"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Meg Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Meg%20Johnson",
-        "pubdate": "Mon, 03 Jul 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fórmula 1 GP austria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F%C3%B3rmula%201%20GP%20austria",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 +0100"
@@ -48,6 +48,13 @@
         "title": "Fabinho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fabinho",
         "pubdate": "Mon, 03 Jul 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sub-19 Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sub-19%20Portugal",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Sub-19 Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sub-19%20Portugal",
-        "pubdate": "Mon, 03 Jul 2023 18:00:00 +0100"
+        "title": "Meg Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Meg%20Johnson",
+        "pubdate": "Mon, 03 Jul 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Programa Avançar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Programa%20Avan%C3%A7ar",
+        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Ucrania russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ucrania%20russia",
-        "pubdate": "Mon, 03 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Royal Blood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Royal%20Blood",
         "pubdate": "Mon, 03 Jul 2023 00:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "Jim Morrison",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jim%20Morrison",
-        "pubdate": "Mon, 03 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brozovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brozovic",
         "pubdate": "Mon, 03 Jul 2023 23:00:00 +0100"
       }
     ]

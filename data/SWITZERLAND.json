@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 05:39:40",
+  "lastUpdate": "04-07-2023 , 05:49:00",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Stan Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
-        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iman Beney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iman%20Beney",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Schweizer Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
+        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Victoria Amelina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victoria%20Amelina",
         "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Schweizer Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
-        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
+        "title": "Tennis Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tennis%20Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
