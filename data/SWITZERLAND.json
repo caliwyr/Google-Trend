@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-07-2023 , 23:59:07",
+  "lastUpdate": "04-07-2023 , 01:59:19",
   "data": [
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Israel",
+        "pubdate": "Tue, 04 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wimbledon",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
-        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dormakaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dormakaba",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Szoboszlai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szoboszlai",
-        "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robert%20De%20Niro",
         "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bencic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bencic",
-        "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Tennis Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tennis%20Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eswatini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eswatini",
+        "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Felix Nmecha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Felix%20Nmecha",
+        "pubdate": "Mon, 03 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
