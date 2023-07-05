@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 04:50:13",
+  "lastUpdate": "05-07-2023 , 04:59:47",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "4th of July",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#4th%20of%20July",
+        "pubdate": "Tue, 04 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sound of Freedom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sound%20of%20Freedom",
         "pubdate": "Tue, 04 Jul 2023 14:00:00 +0200"
@@ -62,6 +69,13 @@
         "title": "Tennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tennis",
         "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Independence Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Independence%20Day",
+        "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Leandro De Niro Rodriguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leandro%20De%20Niro%20Rodriguez",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Serena Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serena%20Williams",
         "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Wout van Aert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wout%20van%20Aert",
         "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zac efron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zac%20efron",
-        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
