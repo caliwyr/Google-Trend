@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 13:33:32",
+  "lastUpdate": "05-07-2023 , 13:44:33",
   "data": [
     [
       {
@@ -24,8 +24,22 @@
     ],
     [
       {
+        "title": "Guadalupe  Guatemala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Guadalupe%20%20Guatemala",
+        "pubdate": "Tue, 04 Jul 2023 17:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Panamá  El Salvador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Panam%C3%A1%20%20El%20Salvador",
+        "pubdate": "Tue, 04 Jul 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Costa Rica  Martinica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costa%20Rica%20%20Martinica",
         "pubdate": "Tue, 04 Jul 2023 20:00:00 -0600"
       }
     ],
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Costa Rica  Martinica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costa%20Rica%20%20Martinica",
-        "pubdate": "Tue, 04 Jul 2023 20:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami  Columbus Crew",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20Miami%20%20Columbus%20Crew",
         "pubdate": "Tue, 04 Jul 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Guadalupe  Guatemala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Guadalupe%20%20Guatemala",
-        "pubdate": "Tue, 04 Jul 2023 17:00:00 -0600"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Lopez Obrador xochitl galvez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lopez%20Obrador%20xochitl%20galvez",
         "pubdate": "Tue, 04 Jul 2023 03:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Canadá  cuba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Canad%C3%A1%20%20cuba",
+        "pubdate": "Tue, 04 Jul 2023 17:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mario Vargas Llosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mario%20Vargas%20Llosa",
         "pubdate": "Tue, 04 Jul 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
-        "pubdate": "Tue, 04 Jul 2023 15:00:00 -0600"
       }
     ]
   ]
