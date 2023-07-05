@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-07-2023 , 19:41:19",
+  "lastUpdate": "05-07-2023 , 19:50:30",
   "data": [
     [
       {
         "title": "Michael Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Jordan",
         "pubdate": "Wed, 05 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arda%20G%C3%BCler",
-        "pubdate": "Wed, 05 Jul 2023 04:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Kékszalag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9kszalag",
         "pubdate": "Wed, 05 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juszt László",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juszt%20L%C3%A1szl%C3%B3",
+        "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Újpest FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
+        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool Szoboszlai Dominik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20Szoboszlai%20Dominik",
         "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
@@ -76,13 +83,6 @@
         "title": "FTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
         "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Újpest FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
-        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Újpest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest",
-        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hajdú Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hajd%C3%BA%20P%C3%A9ter",
-        "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20De%20Niro",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Bóka János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3ka%20J%C3%A1nos",
         "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MOHU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOHU",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
