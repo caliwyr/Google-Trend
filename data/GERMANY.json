@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 16:40:28",
+  "lastUpdate": "05-07-2023 , 16:52:13",
   "data": [
-    [
-      {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Arda Güler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
         "pubdate": "Wed, 05 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
         "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonas Hofmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jonas%20Hofmann",
+        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -104,13 +111,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
