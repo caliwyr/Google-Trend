@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-07-2023 , 22:00:55",
+  "lastUpdate": "05-07-2023 , 22:22:47",
   "data": [
-    [
-      {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Racing",
-        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Etapa 5 Tour de Francia 2023",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Racing",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Iñigo martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#I%C3%B1igo%20martinez",
         "pubdate": "Wed, 05 Jul 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Independiente del Valle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Independiente%20del%20Valle",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0500"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Sound of Freedom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sound%20of%20Freedom",
-        "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Diego Cadena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Diego%20Cadena",
         "pubdate": "Wed, 05 Jul 2023 13:00:00 -0500"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Fenomeno del Niño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fenomeno%20del%20Ni%C3%B1o",
-        "pubdate": "Wed, 05 Jul 2023 15:00:00 -0500"
+        "title": "Sound of Freedom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sound%20of%20Freedom",
+        "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Freddie Mercury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Freddie%20Mercury",
-        "pubdate": "Wed, 05 Jul 2023 16:00:00 -0500"
+        "title": "Fenomeno del Niño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fenomeno%20del%20Ni%C3%B1o",
+        "pubdate": "Wed, 05 Jul 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mundial Femenino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Mundial%20Femenino",
+        "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Genesis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Genesis",
         "pubdate": "Tue, 04 Jul 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jackie Chan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jackie%20Chan",
-        "pubdate": "Tue, 04 Jul 2023 03:00:00 -0500"
       }
     ]
   ]

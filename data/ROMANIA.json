@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-07-2023 , 22:01:06",
+  "lastUpdate": "05-07-2023 , 22:22:55",
   "data": [
-    [
-      {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luis%20Enrique",
-        "pubdate": "Thu, 06 Jul 2023 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Victor Cornea",
@@ -20,6 +13,13 @@
         "title": "Ierarhie Evaluare nationala 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ierarhie%20Evaluare%20nationala%202023",
         "pubdate": "Wed, 05 Jul 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sorana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sorana",
+        "pubdate": "Wed, 05 Jul 2023 10:00:00 +0300"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
         "pubdate": "Wed, 05 Jul 2023 22:00:00 +0300"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
-        "pubdate": "Tue, 04 Jul 2023 07:00:00 +0300"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
+        "pubdate": "Tue, 04 Jul 2023 16:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
-        "pubdate": "Tue, 04 Jul 2023 16:00:00 +0300"
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Israel",
+        "pubdate": "Tue, 04 Jul 2023 15:00:00 +0300"
       }
     ]
   ]
