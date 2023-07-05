@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 22:22:53",
+  "lastUpdate": "05-07-2023 , 22:36:39",
   "data": [
-    [
-      {
-        "title": "Nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws",
-        "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "A9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A9",
         "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws",
+        "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "NH Nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NH%20Nieuws",
-        "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
+        "pubdate": "Wed, 05 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Rijkswaterstaat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rijkswaterstaat",
-        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+        "title": "Fabio Jakobsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fabio%20Jakobsen",
+        "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Coco Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coco%20Lee",
-        "pubdate": "Wed, 05 Jul 2023 22:00:00 +0200"
+        "title": "Rijkswaterstaat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rijkswaterstaat",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "KNMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
         "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lana%20Del%20Rey",
-        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Keti Koti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Keti%20Koti",
         "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Davina Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davina%20Michelle",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
