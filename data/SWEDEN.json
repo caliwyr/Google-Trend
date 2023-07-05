@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 11:46:02",
+  "lastUpdate": "05-07-2023 , 11:55:19",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Jenin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jenin",
-        "pubdate": "Tue, 04 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rose Leslie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rose%20Leslie",
         "pubdate": "Tue, 04 Jul 2023 01:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Oscar Magnusson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscar%20Magnusson",
         "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jenin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jenin",
+        "pubdate": "Tue, 04 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Lotta Engberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lotta%20Engberg",
+        "pubdate": "Mon, 03 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 08:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Unilever",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Unilever",
         "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zac Efron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zac%20Efron",
-        "pubdate": "Mon, 03 Jul 2023 08:00:00 +0200"
       }
     ]
   ]

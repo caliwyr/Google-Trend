@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 11:45:59",
+  "lastUpdate": "05-07-2023 , 11:55:17",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mason Mount",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mason%20Mount",
+        "pubdate": "Mon, 03 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ivana Petrovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ivana%20Petrovic",
         "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karsten Warholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Karsten%20Warholm",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
