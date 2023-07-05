@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-07-2023 , 09:40:18",
+  "lastUpdate": "05-07-2023 , 09:49:52",
   "data": [
+    [
+      {
+        "title": "Cyrila Metoděj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cyrila%20Metod%C4%9Bj",
+        "pubdate": "Wed, 05 Jul 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Záporožská jaderná elektrárna",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Slunce, seno, jahody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
-        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Velehrad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velehrad",
         "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
@@ -47,13 +47,6 @@
       {
         "title": "Jackie Chan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jackie%20Chan",
-        "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Threads",
         "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Jan Hus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Hus",
         "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurosport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eurosport",
+        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
       }
     ]
   ]

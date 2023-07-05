@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-07-2023 , 09:40:22",
+  "lastUpdate": "05-07-2023 , 09:49:56",
   "data": [
+    [
+      {
+        "title": "Schiphol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
+        "pubdate": "Wed, 05 Jul 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "GVB",
@@ -132,13 +139,6 @@
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
-        "pubdate": "Sat, 24 Jun 2023 05:00:00 +0200"
       }
     ]
   ]
