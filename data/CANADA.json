@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 22:45:56",
+  "lastUpdate": "05-07-2023 , 22:55:19",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Raonic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raonic",
+        "pubdate": "Wed, 05 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "ESPN layoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ESPN%20layoffs",
         "pubdate": "Wed, 05 Jul 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Roller coaster stuck upside-down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roller%20coaster%20stuck%20upside-down",
+        "pubdate": "Wed, 05 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Roller coaster stuck upside down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roller%20coaster%20stuck%20upside%20down",
-        "pubdate": "Wed, 05 Jul 2023 14:00:00 -0400"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Djokovic",
+        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "El nino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#El%20nino",
+        "pubdate": "Wed, 05 Jul 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tsitsipas",
         "pubdate": "Wed, 05 Jul 2023 17:00:00 -0400"
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "El Nino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#El%20Nino",
-        "pubdate": "Wed, 05 Jul 2023 17:00:00 -0400"
+        "title": "Killers of the Flower Moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Killers%20of%20the%20Flower%20Moon",
+        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Michael Rubin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Rubin",
         "pubdate": "Tue, 04 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Blue Jays vs White Sox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20vs%20White%20Sox",
-        "pubdate": "Tue, 04 Jul 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Happy 4th of July",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%204th%20of%20July",
-        "pubdate": "Tue, 04 Jul 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Amazing Race Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amazing%20Race%20Canada",
-        "pubdate": "Tue, 04 Jul 2023 21:00:00 -0400"
       }
     ]
   ]
