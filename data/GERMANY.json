@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 17:45:58",
+  "lastUpdate": "05-07-2023 , 17:55:17",
   "data": [
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Arda Güler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
         "pubdate": "Wed, 05 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
-        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "The Weeknd Düsseldorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Weeknd%20D%C3%BCsseldorf",
+        "title": "The weeknd Düsseldorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20weeknd%20D%C3%BCsseldorf",
         "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mindestlohn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Russland news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wagner-Gruppe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-Gruppe",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
       }
     ]
   ]
