@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 01:49:08",
+  "lastUpdate": "05-07-2023 , 02:52:07",
   "data": [
     [
       {
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
         "pubdate": "Tue, 04 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Partido Colo Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20Colo%20Colo",
+        "pubdate": "Tue, 04 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Novak Djokovic Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic%20Wimbledon",
-        "pubdate": "Tue, 04 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#China",
         "pubdate": "Tue, 04 Jul 2023 20:00:00 -0400"
@@ -115,9 +115,16 @@
     ],
     [
       {
-        "title": "Colo Colo vs Calera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Calera",
-        "pubdate": "Mon, 03 Jul 2023 21:00:00 -0400"
+        "title": "Novak Djokovic Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic%20Wimbledon",
+        "pubdate": "Tue, 04 Jul 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CAE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CAE",
+        "pubdate": "Tue, 04 Jul 2023 01:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Registro Civil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Registro%20Civil",
         "pubdate": "Mon, 03 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Audax Italiano  O'Higgins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano%20%20O'Higgins",
-        "pubdate": "Mon, 03 Jul 2023 18:00:00 -0400"
       }
     ]
   ]

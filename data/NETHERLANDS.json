@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-07-2023 , 01:49:13",
+  "lastUpdate": "05-07-2023 , 02:52:11",
   "data": [
-    [
-      {
-        "title": "Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rybakina",
-        "pubdate": "Wed, 05 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tornado Apeldoorn",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Apeldoorn tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apeldoorn%20tornado",
+        "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Storm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
         "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "Jasper Philipsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jasper%20Philipsen",
         "pubdate": "Mon, 03 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Middel X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Middel%20X",
-        "pubdate": "Mon, 03 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
+        "pubdate": "Sat, 24 Jun 2023 05:00:00 +0200"
       }
     ]
   ]
