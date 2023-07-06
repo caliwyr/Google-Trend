@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 16:43:01",
+  "lastUpdate": "06-07-2023 , 16:52:53",
   "data": [
     [
       {
@@ -80,8 +80,15 @@
     ],
     [
       {
-        "title": "Wielka brytania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20brytania",
+        "title": "Maja Hyży",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maja%20Hy%C5%BCy",
+        "pubdate": "Thu, 06 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wielka Brytania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20Brytania",
         "pubdate": "Thu, 06 Jul 2023 11:00:00 +0200"
       }
     ],
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Windy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+        "title": "Linette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
+        "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Linette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
-        "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
+        "title": "Windy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
+        "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inigo Martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inigo%20Martinez",
         "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wojciech Korda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojciech%20Korda",
-        "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
