@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "06-07-2023 , 17:38:33",
+  "lastUpdate": "06-07-2023 , 17:48:05",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Novak%20Djokovic",
+        "pubdate": "Thu, 06 Jul 2023 07:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Arepas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arepas",
         "pubdate": "Thu, 06 Jul 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Dolar Precio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dolar%20Precio",
-        "pubdate": "Thu, 06 Jul 2023 02:00:00 -0600"
       }
     ],
     [
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luis%20Enrique",
-        "pubdate": "Thu, 06 Jul 2023 00:00:00 -0600"
+        "title": "Ricky Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ricky%20Martin",
+        "pubdate": "Thu, 06 Jul 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Dolar Precio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dolar%20Precio",
+        "pubdate": "Thu, 06 Jul 2023 02:00:00 -0600"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Carlos jimenez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20jimenez",
         "pubdate": "Thu, 06 Jul 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luis%20Enrique",
+        "pubdate": "Thu, 06 Jul 2023 00:00:00 -0600"
       }
     ],
     [
@@ -59,8 +73,15 @@
     ],
     [
       {
-        "title": "Muere Coco Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Muere%20Coco%20Lee",
+        "title": "Mexico vs Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Costa%20Rica",
+        "pubdate": "Wed, 05 Jul 2023 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Muere CoCo Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Muere%20CoCo%20Lee",
         "pubdate": "Wed, 05 Jul 2023 17:00:00 -0600"
       }
     ],
@@ -117,27 +138,6 @@
       {
         "title": "Allison Mack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Allison%20Mack",
-        "pubdate": "Wed, 05 Jul 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Salma Hayek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Salma%20Hayek",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Fútbol Liga MX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F%C3%BAtbol%20Liga%20MX",
-        "pubdate": "Wed, 05 Jul 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Survivor México",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Survivor%20M%C3%A9xico",
         "pubdate": "Wed, 05 Jul 2023 10:00:00 -0600"
       }
     ]
