@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 09:48:00",
+  "lastUpdate": "06-07-2023 , 09:57:14",
   "data": [
     [
       {
@@ -17,15 +17,22 @@
     ],
     [
       {
-        "title": "Christine and the Queens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christine%20and%20the%20Queens",
-        "pubdate": "Thu, 06 Jul 2023 08:00:00 +0200"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
+        "pubdate": "Thu, 06 Jul 2023 05:00:00 +0200"
       }
     ],
     [
       {
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pogacar",
+        "pubdate": "Thu, 06 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christine and the Queens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christine%20and%20the%20Queens",
         "pubdate": "Thu, 06 Jul 2023 08:00:00 +0200"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
-        "pubdate": "Thu, 06 Jul 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alain Delon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Delon",
         "pubdate": "Thu, 06 Jul 2023 07:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "Ysaline Bonaventure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ysaline%20Bonaventure",
         "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Djokovic",
-        "pubdate": "Thu, 06 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Hindley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hindley",
+        "title": "Jai Hindley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jai%20Hindley",
         "pubdate": "Wed, 05 Jul 2023 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oasis",
         "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taylor%20Swift",
+        "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
