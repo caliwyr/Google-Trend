@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-07-2023 , 23:57:42",
+  "lastUpdate": "07-07-2023 , 01:47:03",
   "data": [
-    [
-      {
-        "title": "Thread",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thread",
-        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Rammstein Groningen",
@@ -45,16 +38,9 @@
     ],
     [
       {
-        "title": "Jim Bakkum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jim%20Bakkum",
-        "pubdate": "Thu, 06 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+        "pubdate": "Wed, 05 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Max%20Verstappen",
         "pubdate": "Sat, 01 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France",
+        "pubdate": "Sat, 01 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keti Koti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Keti%20Koti",
+        "pubdate": "Fri, 30 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
