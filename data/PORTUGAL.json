@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 06:38:18",
+  "lastUpdate": "07-07-2023 , 06:47:39",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Azpilicueta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Azpilicueta",
-        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0100"
+        "title": "Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zaragoza",
+        "pubdate": "Fri, 07 Jul 2023 03:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zaragoza",
-        "pubdate": "Fri, 07 Jul 2023 03:00:00 +0100"
+        "title": "Azpilicueta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Azpilicueta",
+        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0100"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Portugal sub-19",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20sub-19",
-        "pubdate": "Thu, 06 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
         "pubdate": "Thu, 06 Jul 2023 00:00:00 +0100"
@@ -76,6 +69,13 @@
         "title": "Albert Einstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Albert%20Einstein",
         "pubdate": "Thu, 06 Jul 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sub-19 Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sub-19%20Portugal",
+        "pubdate": "Thu, 06 Jul 2023 18:00:00 +0100"
       }
     ],
     [
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andy%20Murray",
-        "pubdate": "Thu, 06 Jul 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dia do Beijo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Beijo",
         "pubdate": "Thu, 06 Jul 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Calendario Liga portuguesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Calendario%20Liga%20portuguesa",
-        "pubdate": "Thu, 06 Jul 2023 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Coelho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coelho",
         "pubdate": "Thu, 06 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tsitsipas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tsitsipas",
+        "pubdate": "Thu, 06 Jul 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frida Kahlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frida%20Kahlo",
+        "pubdate": "Thu, 06 Jul 2023 12:00:00 +0100"
       }
     ]
   ]
