@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 14:39:30",
+  "lastUpdate": "07-07-2023 , 14:48:49",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Britney%20Spears",
+        "pubdate": "Fri, 07 Jul 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Granit Xhaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Granit%20Xhaka",
         "pubdate": "Fri, 07 Jul 2023 12:00:00 +0800"
@@ -27,13 +34,6 @@
         "title": "Soh Rui Yong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Soh%20Rui%20Yong",
         "pubdate": "Fri, 07 Jul 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Britney%20Spears",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 +0800"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "SingPost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SingPost",
-        "pubdate": "Wed, 05 Jul 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Taylor Swift songs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20songs",
         "pubdate": "Wed, 05 Jul 2023 13:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "MOE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MOE",
         "pubdate": "Tue, 04 Jul 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ridout Road",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ridout%20Road",
+        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0800"
       }
     ]
   ]
