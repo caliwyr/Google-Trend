@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 16:24:57",
+  "lastUpdate": "07-07-2023 , 16:41:40",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Tommy Flanagan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tommy%20Flanagan",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "JSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#JSW",
         "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Uw rekrutacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Uw%20rekrutacja",
-        "pubdate": "Fri, 07 Jul 2023 13:00:00 +0200"
+        "title": "Tommy Flanagan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tommy%20Flanagan",
+        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,8 +73,15 @@
     ],
     [
       {
-        "title": "Dzień Czekolady",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Czekolady",
+        "title": "UJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UJ",
+        "pubdate": "Fri, 07 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dzień czekolady",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20czekolady",
         "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
       }
     ],
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "Katarzyna Nosowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Nosowska",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wyniki matur 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyniki%20matur%202023",
-        "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
+        "pubdate": "Thu, 06 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lwów",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lw%C3%B3w",
         "pubdate": "Thu, 06 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Albania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Albania",
+        "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
