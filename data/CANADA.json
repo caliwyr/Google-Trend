@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-07-2023 , 06:47:33",
+  "lastUpdate": "07-07-2023 , 06:56:55",
   "data": [
+    [
+      {
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Margot%20Robbie",
+        "pubdate": "Fri, 07 Jul 2023 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Festival d'été de Québec",
@@ -12,6 +19,13 @@
       {
         "title": "Red, White and Royal Blue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Red,%20White%20and%20Royal%20Blue",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Guardians of the Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Guardians%20of%20the%20Galaxy",
         "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
       }
     ],
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Hydro quebec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro%20quebec",
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
         "pubdate": "Thu, 06 Jul 2023 16:00:00 -0400"
       }
     ],
@@ -80,44 +94,16 @@
     ],
     [
       {
+        "title": "Speak Now (Taylor's Version",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Speak%20Now%20(Taylor's%20Version",
+        "pubdate": "Thu, 06 Jul 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "TTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TTC",
         "pubdate": "Thu, 06 Jul 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lac Megantic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lac%20Megantic",
-        "pubdate": "Thu, 06 Jul 2023 07:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Justin Trudeau Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Trudeau%20Taylor%20Swift",
-        "pubdate": "Thu, 06 Jul 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "LPGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LPGA",
-        "pubdate": "Thu, 06 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Brooke Henderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Henderson",
-        "pubdate": "Thu, 06 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Billy Talent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Billy%20Talent",
-        "pubdate": "Thu, 06 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Lincoln Lawyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lincoln%20Lawyer",
-        "pubdate": "Thu, 06 Jul 2023 20:00:00 -0400"
+        "title": "Lac megantic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lac%20megantic",
+        "pubdate": "Thu, 06 Jul 2023 07:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kylian%20Mbapp%C3%A9",
-        "pubdate": "Thu, 06 Jul 2023 01:00:00 -0400"
+        "title": "LPGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LPGA",
+        "pubdate": "Thu, 06 Jul 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Billy Talent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Billy%20Talent",
+        "pubdate": "Thu, 06 Jul 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lincoln Lawyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lincoln%20Lawyer",
+        "pubdate": "Thu, 06 Jul 2023 20:00:00 -0400"
       }
     ]
   ]
