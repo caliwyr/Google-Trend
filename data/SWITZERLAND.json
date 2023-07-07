@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-07-2023 , 22:48:02",
+  "lastUpdate": "07-07-2023 , 22:57:25",
   "data": [
+    [
+      {
+        "title": "AC/DC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC/DC",
+        "pubdate": "Sat, 08 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Züri fescht",
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiatek",
-        "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Britney%20Spears",
+        "pubdate": "Fri, 07 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Britney%20Spears",
-        "pubdate": "Fri, 07 Jul 2023 03:00:00 +0200"
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiatek",
+        "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Triathlon geneve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Triathlon%20geneve",
         "pubdate": "Fri, 07 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stanislas Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stanislas%20Wawrinka",
-        "pubdate": "Fri, 07 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Aarau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aarau",
         "pubdate": "Fri, 07 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Victor Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victor%20Wembanyama",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Granit Xhaka Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Granit%20Xhaka%20Bayer%20Leverkusen",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Casper%20Ruud",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VfB%20Stuttgart",
+        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
