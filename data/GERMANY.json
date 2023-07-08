@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 21:46:44",
+  "lastUpdate": "08-07-2023 , 21:55:59",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "DTM Norisring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DTM%20Norisring",
-        "pubdate": "Sat, 08 Jul 2023 11:00:00 +0200"
+        "title": "Berrettini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berrettini",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Norisring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Norisring",
+        "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Gießen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gie%C3%9Fen",
+        "title": "Eritrea-Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eritrea-Festival",
         "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ozempic",
         "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madonna",
-        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
