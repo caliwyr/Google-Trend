@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-07-2023 , 03:39:50",
+  "lastUpdate": "08-07-2023 , 03:49:12",
   "data": [
-    [
-      {
-        "title": "Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen",
-        "pubdate": "Sat, 08 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Edwin van der Sar",
@@ -89,6 +82,13 @@
       {
         "title": "Rammstein Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rammstein%20Groningen",
+        "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rammstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rammstein",
         "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
       }
     ],
