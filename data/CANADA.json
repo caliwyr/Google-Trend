@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-07-2023 , 23:55:29",
+  "lastUpdate": "08-07-2023 , 01:19:52",
   "data": [
     [
       {
-        "title": "Festival d'été de Québec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Festival%20d'%C3%A9t%C3%A9%20de%20Qu%C3%A9bec",
-        "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CFL",
+        "pubdate": "Fri, 07 Jul 2023 06:00:00 -0400"
       }
     ],
     [
@@ -17,16 +24,23 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Djokovic",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
+        "title": "Céline Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#C%C3%A9line%20Dion",
+        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Céline Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#C%C3%A9line%20Dion",
-        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0400"
+        "title": "Festival d'Été de Québec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Festival%20d'%C3%89t%C3%A9%20de%20Qu%C3%A9bec",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Taste of Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taste%20of%20Lawrence",
+        "pubdate": "Fri, 07 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Taste of Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taste%20of%20Lawrence",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Tom Brady",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Brady",
         "pubdate": "Fri, 07 Jul 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Anze Kopitar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anze%20Kopitar",
-        "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
       }
     ],
     [
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Stampede Calgary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stampede%20Calgary",
-        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0400"
+        "title": "Anze Kopitar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anze%20Kopitar",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 -0400"
       }
     ],
     [
@@ -108,16 +101,9 @@
     ],
     [
       {
-        "title": "Russ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russ",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Ruby Princess cruise ship San Francisco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ruby%20Princess%20cruise%20ship%20San%20Francisco",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 -0400"
+        "title": "Alek Manoah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alek%20Manoah",
+        "pubdate": "Fri, 07 Jul 2023 20:00:00 -0400"
       }
     ],
     [
@@ -129,6 +115,20 @@
     ],
     [
       {
+        "title": "Ruby Princess cruise ship San Francisco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ruby%20Princess%20cruise%20ship%20San%20Francisco",
+        "pubdate": "Fri, 07 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
+        "pubdate": "Fri, 07 Jul 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Sunfest London",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sunfest%20London",
         "pubdate": "Fri, 07 Jul 2023 18:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
-        "pubdate": "Thu, 06 Jul 2023 21:00:00 -0400"
+        "title": "Russ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russ",
+        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0400"
       }
     ]
   ]

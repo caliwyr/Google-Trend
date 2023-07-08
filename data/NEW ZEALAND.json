@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-07-2023 , 23:55:34",
+  "lastUpdate": "08-07-2023 , 01:19:57",
   "data": [
-    [
-      {
-        "title": "Piers Morgan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Piers%20Morgan",
-        "pubdate": "Sat, 08 Jul 2023 01:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
         "pubdate": "Sat, 08 Jul 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Piers Morgan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Piers%20Morgan",
+        "pubdate": "Sat, 08 Jul 2023 01:00:00 +1200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Ashes cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20cricket",
+        "pubdate": "Fri, 07 Jul 2023 11:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Speak Now (Taylor's Version",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Speak%20Now%20(Taylor's%20Version",
         "pubdate": "Fri, 07 Jul 2023 17:00:00 +1200"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Mitchell Marsh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mitchell%20Marsh",
-        "pubdate": "Fri, 07 Jul 2023 19:00:00 +1200"
+        "title": "Insidious: The Red Door",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Insidious:%20The%20Red%20Door",
+        "pubdate": "Fri, 07 Jul 2023 16:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Insidious: The Red Door",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Insidious:%20The%20Red%20Door",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 +1200"
+        "title": "Mitchell Marsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mitchell%20Marsh",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bargain Box",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bargain%20Box",
         "pubdate": "Thu, 06 Jul 2023 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Paramore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paramore",
-        "pubdate": "Thu, 06 Jul 2023 20:00:00 +1200"
       }
     ]
   ]
