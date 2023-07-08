@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-07-2023 , 21:28:14",
+  "lastUpdate": "08-07-2023 , 21:37:23",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
-        "pubdate": "Sun, 09 Jul 2023 04:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "김연아 소트니코바",
@@ -139,6 +132,13 @@
         "title": "북한",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B6%81%ED%95%9C",
         "pubdate": "Tue, 04 Jul 2023 15:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "추미애",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%94%EB%AF%B8%EC%95%A0",
+        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0900"
       }
     ]
   ]
