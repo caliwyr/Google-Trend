@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 23:46:08",
+  "lastUpdate": "08-07-2023 , 23:55:24",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Forrest Gump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Forrest%20Gump",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Patagonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patagonia",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Regatta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Regatta",
         "pubdate": "Fri, 07 Jul 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Threads",
-        "pubdate": "Thu, 06 Jul 2023 09:00:00 +0300"
       }
     ]
   ]
