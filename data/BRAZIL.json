@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-07-2023 , 08:40:37",
+  "lastUpdate": "08-07-2023 , 08:50:02",
   "data": [
-    [
-      {
-        "title": "Ator José Dumont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ator%20Jos%C3%A9%20Dumont",
-        "pubdate": "Sat, 08 Jul 2023 02:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Novorizontino",
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Solteiro Forçado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Solteiro%20For%C3%A7ado",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wembanyama",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 -0500"
@@ -136,8 +122,22 @@
     ],
     [
       {
+        "title": "Solteiro Forçado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Solteiro%20For%C3%A7ado",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Brasil volei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20volei",
+        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tarcísio de Freitas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tarc%C3%ADsio%20de%20Freitas",
         "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
       }
     ]
