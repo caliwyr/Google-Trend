@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 22:47:57",
+  "lastUpdate": "08-07-2023 , 22:57:08",
   "data": [
+    [
+      {
+        "title": "Mark Cavendish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mark%20Cavendish",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Djurgården",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "South Ocean Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#South%20Ocean%20Festival",
+        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
@@ -76,6 +90,13 @@
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Margot%20Robbie",
         "pubdate": "Fri, 07 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sandhamn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sandhamn",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Lviv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lviv",
         "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charlie Chaplin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlie%20Chaplin",
-        "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Py Bäckman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Py%20B%C3%A4ckman",
-        "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
