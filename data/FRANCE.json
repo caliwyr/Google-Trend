@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 14:45:25",
+  "lastUpdate": "08-07-2023 , 14:55:02",
   "data": [
+    [
+      {
+        "title": "Cavendish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cavendish",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Orage",
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Ugarte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ugarte",
-        "pubdate": "Fri, 07 Jul 2023 15:00:00 +0200"
+        "title": "Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Murray",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,15 +129,8 @@
     ],
     [
       {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andy%20Murray",
-        "pubdate": "Thu, 06 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oise Hebdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oise%20Hebdo",
+        "title": "Oise Hebdo policier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oise%20Hebdo%20policier",
         "pubdate": "Thu, 06 Jul 2023 20:00:00 +0200"
       }
     ],
