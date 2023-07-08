@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-07-2023 , 21:37:22",
+  "lastUpdate": "08-07-2023 , 21:46:48",
   "data": [
     [
       {
         "title": "Viking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
         "pubdate": "Sat, 08 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "David de Gea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#David%20de%20Gea",
+        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "De Gea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#De%20Gea",
+        "title": "Viking FK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking%20FK",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Hamar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hamar",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viking Haugesund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking%20Haugesund",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Mark Cavendish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mark%20Cavendish",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jessica Simpson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jessica%20Simpson",
         "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Sandnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnes",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 +0200"
+        "title": "Mark Cavendish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mark%20Cavendish",
+        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tobias Halland Johannessen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tobias%20Halland%20Johannessen",
         "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Salma Hayek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salma%20Hayek",
+        "pubdate": "Thu, 06 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
