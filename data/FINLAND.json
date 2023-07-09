@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 07:39:38",
+  "lastUpdate": "09-07-2023 , 07:48:50",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Forrest Gump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Forrest%20Gump",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0300"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Leslie Van Houten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leslie%20Van%20Houten",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0300"
+        "title": "Elton John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elton%20John",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Elton John",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elton%20John",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0300"
+        "title": "Leslie Van Houten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leslie%20Van%20Houten",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paula Badosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paula%20Badosa",
         "pubdate": "Fri, 07 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Malmö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malm%C3%B6",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0300"
       }
     ]
   ]
