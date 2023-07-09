@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 01:23:17",
+  "lastUpdate": "09-07-2023 , 02:53:00",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
-        "pubdate": "Sat, 08 Jul 2023 08:00:00 -0500"
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0500"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Coritiba x América-MG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20Am%C3%A9rica-MG",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vasco x Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20x%20Cruzeiro",
+        "pubdate": "Sat, 08 Jul 2023 08:00:00 -0500"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Atriz Neusa Maria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atriz%20Neusa%20Maria",
-        "pubdate": "Sat, 08 Jul 2023 09:00:00 -0500"
+        "title": "Juventude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0500"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Taylor Lautner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taylor%20Lautner",
         "pubdate": "Sat, 08 Jul 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0500"
       }
     ],
     [
@@ -115,29 +115,29 @@
     ],
     [
       {
-        "title": "Botafogo-PB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
+        "title": "Beatriz Haddad Maia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Beatriz%20Haddad%20Maia",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Numanice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Numanice",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Gremio x Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gremio%20x%20Botafogo",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inglaterra sub-21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inglaterra%20sub-21",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 -0500"
       }
     ],
     [
       {
         "title": "UFC 290",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20290",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Botafogo-PB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 -0500"
       }
     ]
