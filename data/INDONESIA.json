@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-07-2023 , 05:47:03",
+  "lastUpdate": "09-07-2023 , 05:56:17",
   "data": [
     [
       {
-        "title": "EURO U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#EURO%20U21",
+        "title": "Euro U21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Euro%20U21",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#UFC",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 +0700"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Borneo FC vs Bali United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borneo%20FC%20vs%20Bali%20United",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Moji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Moji",
-        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0700"
       }
     ],
     [
@@ -38,16 +38,9 @@
     ],
     [
       {
-        "title": "Edwin van der Sar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Edwin%20van%20der%20Sar",
-        "pubdate": "Sat, 08 Jul 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "The Cave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Cave",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0700"
+        "title": "Moji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Moji",
+        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0700"
       }
     ],
     [
@@ -59,9 +52,30 @@
     ],
     [
       {
+        "title": "The Cave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Cave",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Edwin van der Sar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Edwin%20van%20der%20Sar",
+        "pubdate": "Sat, 08 Jul 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cat",
         "pubdate": "Sat, 08 Jul 2023 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Persita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0700"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Della Puspita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Della%20Puspita",
-        "pubdate": "Sat, 08 Jul 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Jungkook BTS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jungkook%20BTS",
         "pubdate": "Sat, 08 Jul 2023 10:00:00 +0700"
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "Onana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Onana",
-        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tom%20Cruise",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Buro Happold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Buro%20Happold",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "PSIS Semarang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSIS%20Semarang",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0700"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Onana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Onana",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Pangandaran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pangandaran",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "Westlife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Westlife",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Arema FC vs Persib Bandung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arema%20FC%20vs%20Persib%20Bandung",
+        "pubdate": "Fri, 07 Jul 2023 10:00:00 +0700"
       }
     ]
   ]
