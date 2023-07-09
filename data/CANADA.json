@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-07-2023 , 17:07:31",
+  "lastUpdate": "09-07-2023 , 17:24:50",
   "data": [
+    [
+      {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beyonce",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Plane crashes",
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Zach Bryan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Bryan",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Tyson Barrie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyson%20Barrie",
         "pubdate": "Sun, 09 Jul 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "China war",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#China%20war",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 -0400"
       }
     ],
     [
@@ -69,6 +90,13 @@
         "title": "Dricus Du Plessis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dricus%20Du%20Plessis",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1%20qualifying",
+        "pubdate": "Sat, 08 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1%20qualifying",
-        "pubdate": "Sat, 08 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Khatsahlano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Khatsahlano",
         "pubdate": "Sat, 08 Jul 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "David de Gea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20de%20Gea",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Luc Bourdon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Luc%20Bourdon",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bo Nickal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bo%20Nickal",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 -0400"
       }
     ]
   ]
