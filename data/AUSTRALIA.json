@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 06:43:14",
+  "lastUpdate": "09-07-2023 , 06:52:32",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Bo Nickal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bo%20Nickal",
-        "pubdate": "Sun, 09 Jul 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Emily Seebohm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emily%20Seebohm",
         "pubdate": "Sun, 09 Jul 2023 09:00:00 +1000"
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Wallabies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wallabies",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Mission: Impossible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mission:%20Impossible",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +1000"
@@ -115,8 +101,8 @@
     ],
     [
       {
-        "title": "Thunderbirds Netball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thunderbirds%20Netball",
+        "title": "Wallabies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wallabies",
         "pubdate": "Sat, 08 Jul 2023 20:00:00 +1000"
       }
     ],
@@ -125,6 +111,13 @@
         "title": "Taylor Lautner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Lautner",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Thunderbirds Netball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thunderbirds%20Netball",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Edwin van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Edwin%20van%20der%20Sar",
         "pubdate": "Sat, 08 Jul 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NBA Summer League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Summer%20League",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +1000"
       }
     ]
   ]
