@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-07-2023 , 08:42:33",
+  "lastUpdate": "09-07-2023 , 08:51:58",
   "data": [
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sun, 09 Jul 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Perez",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Rutte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dreamfields",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dreamfields",
         "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tino Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tino%20Martin",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -87,8 +108,8 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "title": "Noa Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noa%20Lang",
         "pubdate": "Fri, 07 Jul 2023 10:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "BBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBB",
         "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nieuws kabinet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws%20kabinet",
-        "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Geert Wilders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rammstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rammstein",
-        "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
