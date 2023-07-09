@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 17:43:44",
+  "lastUpdate": "09-07-2023 , 17:53:06",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
+        "title": "Mexico vs Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs%20Costa%20Rica",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vasco%20da%20Gama",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 -0400"
       }
     ],
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "U.Católica  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.Cat%C3%B3lica%20%20Everton",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 -0400"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
+        "pubdate": "Sat, 08 Jul 2023 10:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Primera división de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20divisi%C3%B3n%20de%20Chile",
-        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
+        "title": "Cobresal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "U.Católica  Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.Cat%C3%B3lica%20%20Everton",
+        "pubdate": "Sat, 08 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Cobresal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0400"
+        "title": "Primera división de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20divisi%C3%B3n%20de%20Chile",
+        "pubdate": "Sat, 08 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Palmeiras  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras%20%20Flamengo",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC",
         "pubdate": "Sat, 08 Jul 2023 22:00:00 -0400"
@@ -83,13 +104,6 @@
         "title": "Mexico vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "TNT Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TNT%20Sports",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Audax Italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Gary Medel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gary%20Medel",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "DC United  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DC%20United%20%20Inter%20Miami",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
+        "title": "Primera a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20a",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
       }
     ]
   ]
