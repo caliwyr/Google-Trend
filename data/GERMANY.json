@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-07-2023 , 14:45:29",
+  "lastUpdate": "09-07-2023 , 14:54:48",
   "data": [
     [
       {
         "title": "Jonah Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jonah%20Hill",
         "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luis Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luis%20Suarez",
+        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Berrettini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berrettini",
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
         "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ozempic",
         "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madonna",
-        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
