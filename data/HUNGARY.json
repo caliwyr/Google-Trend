@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 22:39:15",
+  "lastUpdate": "09-07-2023 , 22:48:50",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
         "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bencic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bencic",
-        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Bencic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bencic",
+        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tina Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tina%20Turner",
         "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Oscar Piastri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oscar%20Piastri",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gáspár Laci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1sp%C3%A1r%20Laci",
-        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Take that",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Take%20that",
         "pubdate": "Sat, 08 Jul 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Garner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Garner",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
