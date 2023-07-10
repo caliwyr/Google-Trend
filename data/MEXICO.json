@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-07-2023 , 04:46:50",
+  "lastUpdate": "10-07-2023 , 04:56:08",
   "data": [
     [
       {
         "title": "Emma Reyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Emma%20Reyes",
         "pubdate": "Sun, 09 Jul 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "La Casa de los Famosos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20Casa%20de%20los%20Famosos",
+        "pubdate": "Sun, 09 Jul 2023 21:00:00 -0600"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lewis%20Hamilton",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Florence%20Pugh",
         "pubdate": "Sun, 09 Jul 2023 10:00:00 -0600"
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "Martha Higareda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Martha%20Higareda",
-        "pubdate": "Sun, 09 Jul 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lewis%20Hamilton",
-        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0600"
+        "title": "Guillermo Ochoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Guillermo%20Ochoa",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 -0600"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "China taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#China%20taiwan",
-        "pubdate": "Sun, 09 Jul 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Zom 100",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Zom%20100",
         "pubdate": "Sun, 09 Jul 2023 19:00:00 -0600"
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Jonah Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jonah%20Hill",
+        "title": "China taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#China%20taiwan",
         "pubdate": "Sun, 09 Jul 2023 12:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hamilton",
-        "pubdate": "Sun, 09 Jul 2023 18:00:00 -0600"
+        "title": "Jonah Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jonah%20Hill",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 -0600"
       }
     ],
     [
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "México  Costa Rica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#M%C3%A9xico%20%20Costa%20Rica",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Pumas  Mazatlán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas%20%20Mazatl%C3%A1n",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0600"
+        "title": "Estados Unidos  Canadá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estados%20Unidos%20%20Canad%C3%A1",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 -0600"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Muñoz Ledo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mu%C3%B1oz%20Ledo",
         "pubdate": "Sat, 08 Jul 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Pumas  Mazatlán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas%20%20Mazatl%C3%A1n",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0600"
       }
     ]
   ]
