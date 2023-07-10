@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:43:37",
+  "lastUpdate": "10-07-2023 , 16:53:00",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jamie%20Foxx",
         "pubdate": "Mon, 10 Jul 2023 07:00:00 -0700"
@@ -27,13 +34,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
         "pubdate": "Mon, 10 Jul 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cara Delevingne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cara%20Delevingne",
-        "pubdate": "Mon, 10 Jul 2023 06:00:00 -0700"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Mirra Andreeva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mirra%20Andreeva",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Guatemala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Guatemala",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 -0700"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
-        "pubdate": "Sun, 09 Jul 2023 23:00:00 -0700"
+        "title": "Jonah Hill text",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jonah%20Hill%20text",
+        "pubdate": "Sun, 09 Jul 2023 18:00:00 -0700"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Alex DeBrincat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alex%20DeBrincat",
         "pubdate": "Sun, 09 Jul 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
+        "pubdate": "Sun, 09 Jul 2023 23:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Logan Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Logan%20Paul",
         "pubdate": "Sun, 09 Jul 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bob Huggins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20Huggins",
-        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0700"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:43:42",
+  "lastUpdate": "10-07-2023 , 16:53:07",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "CBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CBA",
+        "title": "Cba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cba",
         "pubdate": "Mon, 10 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cara Delevingne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cara%20Delevingne",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tecno Camon 20",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tecno%20Camon%2020",
         "pubdate": "Sat, 08 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cluster munitions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cluster%20munitions",
-        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0300"
       }
     ]
   ]

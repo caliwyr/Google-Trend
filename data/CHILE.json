@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:43:39",
+  "lastUpdate": "10-07-2023 , 16:53:02",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Tsitsipas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tsitsipas",
+        "pubdate": "Mon, 10 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lando%20Norris",
         "pubdate": "Mon, 10 Jul 2023 00:00:00 -0400"
@@ -27,6 +34,13 @@
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Twitter",
         "pubdate": "Sun, 09 Jul 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -52,16 +66,9 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Djokovic",
-        "pubdate": "Sun, 09 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
-        "pubdate": "Sun, 09 Jul 2023 19:00:00 -0400"
+        "title": "O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Temblor Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20Chile",
-        "pubdate": "Sun, 09 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Estados Unidos vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estados%20Unidos%20vs",
         "pubdate": "Sun, 09 Jul 2023 23:00:00 -0400"
@@ -94,8 +94,15 @@
     ],
     [
       {
-        "title": "Luis suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20suarez",
+        "title": "Svitolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Svitolina",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Luis Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20Suarez",
         "pubdate": "Sun, 09 Jul 2023 12:00:00 -0400"
       }
     ],
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Azarenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Azarenka",
-        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
         "pubdate": "Sun, 09 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Temblor en Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20en%20Chile",
-        "pubdate": "Sun, 09 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mirra Andreeva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mirra%20Andreeva",
         "pubdate": "Sun, 09 Jul 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Selena%20Gomez",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 -0400"
       }
     ]
   ]
