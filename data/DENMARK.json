@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 05:39:17",
+  "lastUpdate": "10-07-2023 , 05:48:34",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Dimitrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dimitrov",
+        "title": "Grigor Dimitrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Grigor%20Dimitrov",
         "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Made in Himmerland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Made%20in%20Himmerland",
+        "title": "Made in HimmerLand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Made%20in%20HimmerLand",
         "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Logan Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Logan%20Paul",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "George Michael",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#George%20Michael",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nina Agdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nina%20Agdal",
-        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Logan Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Logan%20Paul",
-        "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Matteo Jorgenson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Matteo%20Jorgenson",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Vondrousova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vondrousova",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+        "pubdate": "Sat, 08 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
