@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 20:48:18",
+  "lastUpdate": "10-07-2023 , 20:57:43",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
         "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tweede Kamer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tweede%20Kamer",
-        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Bospop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bospop",
-        "pubdate": "Sun, 09 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Awakenings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Awakenings",
         "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
@@ -97,6 +83,13 @@
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florence%20Pugh",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wildeburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wildeburg",
+        "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Annemiek van Vleuten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Annemiek%20van%20Vleuten",
-        "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wolf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wolf",
         "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brad%20Pitt",
         "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
       }
     ]
   ]
