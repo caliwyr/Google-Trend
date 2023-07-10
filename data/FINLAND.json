@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 23:56:24",
+  "lastUpdate": "10-07-2023 , 01:26:16",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Patagonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patagonia",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Cavill",
         "pubdate": "Sat, 08 Jul 2023 11:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Carri Richardson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carri%20Richardson",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Whitney%20Houston",
+        "pubdate": "Sat, 08 Jul 2023 00:00:00 +0300"
       }
     ]
   ]
