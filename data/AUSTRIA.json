@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 11:41:26",
+  "lastUpdate": "10-07-2023 , 11:50:39",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "FC Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Schalke%2004",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ventilator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ventilator",
         "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
@@ -52,8 +45,22 @@
     ],
     [
       {
-        "title": "Ötztaler Radmarathon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96tztaler%20Radmarathon%202023",
+        "title": "FC Schalke 04",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Schalke%2004",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guillain-Barré-Syndrom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Guillain-Barr%C3%A9-Syndrom",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ötztaler Radmarathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96tztaler%20Radmarathon",
         "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Klimaanlage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimaanlage",
-        "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bikini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bikini",
-        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
+        "title": "Mission: Impossible fallout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mission:%20Impossible%20fallout",
+        "pubdate": "Sun, 09 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
