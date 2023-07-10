@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-07-2023 , 17:55:34",
+  "lastUpdate": "10-07-2023 , 18:16:39",
   "data": [
+    [
+      {
+        "title": "NYSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NYSC",
+        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "USA vs Canada",
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Disasi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Disasi",
-        "pubdate": "Sun, 09 Jul 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paulo Dybala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Paulo%20Dybala",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0100"
@@ -83,6 +83,13 @@
         "title": "From",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#From",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Disasi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Disasi",
+        "pubdate": "Sun, 09 Jul 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vitor Roque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vitor%20Roque",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pulisic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pulisic",
-        "pubdate": "Sat, 08 Jul 2023 07:00:00 +0100"
       }
     ]
   ]
