@@ -1,25 +1,18 @@
 {
-  "lastUpdate": "10-07-2023 , 09:47:49",
+  "lastUpdate": "10-07-2023 , 09:57:09",
   "data": [
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
-        "pubdate": "Mon, 10 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Snow",
+        "title": "Snow in Johannesburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Snow%20in%20Johannesburg",
         "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Temperature",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Temperature",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Svitolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Svitolina",
+        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jonah Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jonah%20Hill",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Azarenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Azarenka",
-        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#New%20Zealand",
         "pubdate": "Sun, 09 Jul 2023 08:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Springboks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springboks",
         "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dricus du Plessis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dricus%20du%20Plessis",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
