@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 04:23:20",
+  "lastUpdate": "10-07-2023 , 04:37:23",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Sergi Canos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sergi%20Canos",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hurkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hurkacz",
         "pubdate": "Sun, 09 Jul 2023 23:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Norah Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Norah%20Jones",
         "pubdate": "Sun, 09 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC",
-        "pubdate": "Sun, 09 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
