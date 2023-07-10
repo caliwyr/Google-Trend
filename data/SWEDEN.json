@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 01:26:26",
+  "lastUpdate": "10-07-2023 , 02:51:03",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Pet shop boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pet%20shop%20boys",
+        "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sirius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Vilnius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vilnius",
-        "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luis suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20suarez",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pet shop boys göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pet%20shop%20boys%20g%C3%B6teborg",
-        "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "IFK Värnamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
         "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eurovision%202024",
+        "pubdate": "Fri, 07 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
