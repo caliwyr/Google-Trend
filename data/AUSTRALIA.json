@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 19:47:25",
+  "lastUpdate": "10-07-2023 , 19:56:50",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "AO3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AO3",
+        "pubdate": "Tue, 11 Jul 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dua%20Lipa",
         "pubdate": "Tue, 11 Jul 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Daniil Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniil%20Medvedev",
+        "pubdate": "Tue, 11 Jul 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Larry Nassar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Larry%20Nassar",
+        "pubdate": "Tue, 11 Jul 2023 04:00:00 +1000"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Epic",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brad%20Pitt",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +1000"
@@ -125,20 +139,6 @@
         "title": "Megan Rapinoe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Megan%20Rapinoe",
         "pubdate": "Mon, 10 Jul 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lewis%20Hamilton",
-        "pubdate": "Mon, 10 Jul 2023 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
-        "pubdate": "Sun, 09 Jul 2023 03:00:00 +1000"
       }
     ]
   ]
