@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-07-2023 , 15:47:55",
+  "lastUpdate": "10-07-2023 , 15:57:10",
   "data": [
     [
       {
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amazon%20Prime%20Day",
+        "pubdate": "Mon, 10 Jul 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Larry Nassar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Larry%20Nassar",
         "pubdate": "Mon, 10 Jul 2023 07:00:00 -0700"
       }
     ],
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Larry Nassar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Larry%20Nassar",
-        "pubdate": "Mon, 10 Jul 2023 07:00:00 -0700"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 08:00:00 -0700"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Home Run Derby 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Home%20Run%20Derby%202023",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "President Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#President%20Joe%20Biden",
         "pubdate": "Sun, 09 Jul 2023 09:00:00 -0700"
@@ -52,23 +66,9 @@
     ],
     [
       {
-        "title": "Home Run Derby 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Home%20Run%20Derby%202023",
-        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "British Grand Prix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#British%20Grand%20Prix",
         "pubdate": "Sun, 09 Jul 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Sepp Straka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sepp%20Straka",
-        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0700"
       }
     ],
     [
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Mirra Andreeva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mirra%20Andreeva",
+        "title": "Sepp Straka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sepp%20Straka",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 -0700"
       }
     ],
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Israel Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Israel%20Adesanya",
-        "pubdate": "Sun, 09 Jul 2023 08:00:00 -0700"
+        "title": "Guatemala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Guatemala",
+        "pubdate": "Sun, 09 Jul 2023 18:00:00 -0700"
       }
     ],
     [
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "Miss Netherlands 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miss%20Netherlands%202023",
+        "title": "Logan Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Logan%20Paul",
         "pubdate": "Sun, 09 Jul 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Bob Huggins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20Huggins",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Powerball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0700"
       }
     ]
   ]
