@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 07:47:07",
+  "lastUpdate": "10-07-2023 , 07:56:24",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Rigi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rigi",
-        "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luis Suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luis%20Suarez",
         "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
@@ -94,9 +87,23 @@
     ],
     [
       {
+        "title": "Rigi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rigi",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mirra Andreeva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mirra%20Andreeva",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eritrea-Festivals in Gießen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eritrea-Festivals%20in%20Gie%C3%9Fen",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rublev",
-        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helvetic Guards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Helvetic%20Guards",
         "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
       }
     ]
