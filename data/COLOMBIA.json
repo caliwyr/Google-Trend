@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 21:44:23",
+  "lastUpdate": "10-07-2023 , 21:53:47",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "WhatsApp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#WhatsApp",
-        "pubdate": "Mon, 10 Jul 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "OUTLOOK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#OUTLOOK",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 -0500"
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Banco de BOGOTA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Banco%20de%20BOGOTA",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sanitas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sanitas",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 -0500"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Simo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Simo",
+        "pubdate": "Mon, 10 Jul 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Chat GPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Chat%20GPT",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tigo",
+        "pubdate": "Mon, 10 Jul 2023 16:00:00 -0500"
       }
     ],
     [
@@ -87,6 +101,20 @@
     ],
     [
       {
+        "title": "Secretaria de Hacienda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Secretaria%20de%20Hacienda",
+        "pubdate": "Mon, 10 Jul 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Microsoft 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Microsoft%20365",
+        "pubdate": "Mon, 10 Jul 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Antecedentes judiciales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Antecedentes%20judiciales",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 -0500"
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Microsoft 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Microsoft%20365",
-        "pubdate": "Mon, 10 Jul 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Zoom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Zoom",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ñoño Elias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#%C3%91o%C3%B1o%20Elias",
-        "pubdate": "Mon, 10 Jul 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Camara de Comercio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Camara%20de%20Comercio",
-        "pubdate": "Mon, 10 Jul 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Canvas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Canvas",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 -0500"
       }
     ]

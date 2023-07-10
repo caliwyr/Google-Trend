@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 21:44:30",
+  "lastUpdate": "10-07-2023 , 21:53:52",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBC",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
+        "title": "Tweede Kamer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tweede%20Kamer",
+        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Salma Hayek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salma%20Hayek",
-        "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBC",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Andre Bosman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andre%20Bosman",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "CDA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CDA",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "MH17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MH17",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Awakenings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Awakenings",
         "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
@@ -83,13 +97,6 @@
         "title": "Florence Pugh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florence%20Pugh",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wildeburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wildeburg",
-        "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
-        "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
       }
     ]
   ]

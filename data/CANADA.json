@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-07-2023 , 21:44:22",
+  "lastUpdate": "10-07-2023 , 21:53:47",
   "data": [
+    [
+      {
+        "title": "Gold Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gold%20Cup",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Prime Day",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "AO3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AO3",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alcaraz",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 -0400"
@@ -41,6 +41,13 @@
         "title": "Home Run Derby 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Home%20Run%20Derby%202023",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "AO3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AO3",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 -0400"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Bank of Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bank%20of%20Canada",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk Twitter Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter%20Mark%20Zuckerberg",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Eva Mendes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eva%20Mendes",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "MLB All-Star Game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLB%20All-Star%20Game",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk Twitter Mark Zuckerberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter%20Mark%20Zuckerberg",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 -0400"
       }
     ]
   ]
