@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 05:46:59",
+  "lastUpdate": "11-07-2023 , 05:56:14",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Sherlock Holmes 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sherlock%20Holmes%203",
         "pubdate": "Tue, 11 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laurent Gamelon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Gamelon",
-        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Napoleon",
+        "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Napoleon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Napoleon",
-        "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
+        "title": "ZFE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ZFE",
+        "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ons%20Jabeur",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Holger%20Rune",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marie Toussaint",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Toussaint",
         "pubdate": "Mon, 10 Jul 2023 17:00:00 +0200"
@@ -103,13 +117,6 @@
       {
         "title": "François Hollande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Hollande",
-        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Crit'Air",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crit'Air",
         "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "David Gaudu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Gaudu",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emile disparition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emile%20disparition",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
+        "title": "Tom Hanks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tom%20Hanks",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
