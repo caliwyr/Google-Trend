@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 23:46:38",
+  "lastUpdate": "11-07-2023 , 23:55:55",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Lauritz.com",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lauritz.com",
-        "pubdate": "Tue, 11 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OCD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OCD",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Svitolina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Svitolina",
         "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keys tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Keys%20tennis",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
