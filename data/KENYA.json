@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 06:45:45",
+  "lastUpdate": "11-07-2023 , 06:55:09",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Trojan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trojan",
-        "pubdate": "Sun, 09 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
         "pubdate": "Sun, 09 Jul 2023 06:00:00 +0300"
@@ -138,6 +131,13 @@
       {
         "title": "British GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#British%20GP",
+        "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Lautner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Taylor%20Lautner",
         "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
       }
     ]

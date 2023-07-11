@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-07-2023 , 06:45:46",
+  "lastUpdate": "11-07-2023 , 06:55:10",
   "data": [
+    [
+      {
+        "title": "Aftonbladet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aftonbladet",
+        "pubdate": "Tue, 11 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lil Nas X",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Erling Braut Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erling%20Braut%20Haaland",
-        "pubdate": "Tue, 11 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nato",
         "pubdate": "Mon, 10 Jul 2023 08:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "Lysefjorden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lysefjorden",
         "pubdate": "Mon, 10 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Larry Nassar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Larry%20Nassar",
-        "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rosenborg Lillestrøm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20Lillestr%C3%B8m",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Strømsgodset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
+        "pubdate": "Sun, 09 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
