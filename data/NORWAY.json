@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 03:04:30",
+  "lastUpdate": "11-07-2023 , 03:27:16",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "DNO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNO",
         "pubdate": "Mon, 10 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lysefjorden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lysefjorden",
-        "pubdate": "Mon, 10 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
-        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Logan Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Logan%20Paul",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Sandnessjøen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnessj%C3%B8en",
         "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rosenborg Lillestrøm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20Lillestr%C3%B8m",
+        "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Strømsgodset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
+        "pubdate": "Sun, 09 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
