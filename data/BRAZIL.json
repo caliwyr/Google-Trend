@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 09:44:38",
+  "lastUpdate": "11-07-2023 , 09:53:59",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Vila Nova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 -0500"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Bragantino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 -0500"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 -0500"
+        "title": "Remo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
+        "pubdate": "Mon, 10 Jul 2023 20:00:00 -0500"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Nassr",
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
         "pubdate": "Mon, 10 Jul 2023 17:00:00 -0500"
       }
     ]
