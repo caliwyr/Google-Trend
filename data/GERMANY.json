@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 11:46:27",
+  "lastUpdate": "11-07-2023 , 11:55:50",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Schweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweden",
+        "pubdate": "Tue, 11 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Das perfekte Geheimnis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20perfekte%20Geheimnis",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Will%20Smith",
-        "pubdate": "Mon, 10 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vilnius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vilnius",
-        "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -90,13 +83,6 @@
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
-        "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Habeck",
         "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elterngeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
+        "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arda Güler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
+        "pubdate": "Wed, 05 Jul 2023 02:00:00 +0200"
       }
     ]
   ]
