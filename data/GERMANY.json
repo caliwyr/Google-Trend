@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-07-2023 , 22:48:05",
+  "lastUpdate": "11-07-2023 , 22:57:28",
   "data": [
     [
       {
         "title": "Andrea Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andrea%20Evans",
         "pubdate": "Tue, 11 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Svitolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Svitolina",
+        "pubdate": "Tue, 11 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Schweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweden",
-        "pubdate": "Tue, 11 Jul 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nyck de Vries Daniel Ricciardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nyck%20de%20Vries%20Daniel%20Ricciardo",
         "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Niclas Füllkrug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niclas%20F%C3%BCllkrug",
-        "pubdate": "Tue, 11 Jul 2023 15:00:00 +0200"
+        "title": "Schweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweden",
+        "pubdate": "Tue, 11 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,9 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Guillain-Barré-Syndrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guillain-Barr%C3%A9-Syndrom",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
         "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Svitolina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Svitolina",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Silverstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Silverstone",
         "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CSD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CSD",
+        "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
       }
     ]
   ]
