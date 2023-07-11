@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-07-2023 , 03:38:49",
+  "lastUpdate": "11-07-2023 , 03:48:11",
   "data": [
+    [
+      {
+        "title": "Ryan Gosling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ryan%20Gosling",
+        "pubdate": "Tue, 11 Jul 2023 04:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ticketmaster",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ons%20Jabeur",
-        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0100"
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Holger%20Rune",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dimitrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dimitrov",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0100"
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ons%20Jabeur",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Medvedev",
         "pubdate": "Mon, 10 Jul 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Miss Netherlands 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Miss%20Netherlands%202023",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0100"
       }
     ]
   ]
