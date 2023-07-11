@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "11-07-2023 , 21:44:03",
+  "lastUpdate": "11-07-2023 , 21:53:26",
   "data": [
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
-        "pubdate": "Tue, 11 Jul 2023 10:00:00 +0200"
+        "title": "Måns Zelmerlöw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%A5ns%20Zelmerl%C3%B6w",
+        "pubdate": "Tue, 11 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -38,22 +38,8 @@
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
-        "pubdate": "Tue, 11 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amazon%20Prime%20Day",
-        "pubdate": "Tue, 11 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Är Sverige med i Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%84r%20Sverige%20med%20i%20Nato",
         "pubdate": "Tue, 11 Jul 2023 17:00:00 +0200"
       }
     ],
@@ -66,9 +52,23 @@
     ],
     [
       {
+        "title": "Är Sverige med i Nato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%84r%20Sverige%20med%20i%20Nato",
+        "pubdate": "Tue, 11 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lauritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lauritz",
         "pubdate": "Tue, 11 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fredrik Andersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Andersson",
+        "pubdate": "Tue, 11 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Taylor Swift Stockholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift%20Stockholm",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+        "title": "Taylor Swift Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift%20Sverige",
+        "pubdate": "Mon, 10 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jens%20Stoltenberg",
         "pubdate": "Mon, 10 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erik Grönwall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erik%20Gr%C3%B6nwall",
-        "pubdate": "Mon, 10 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Larry Nassar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Larry%20Nassar",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
