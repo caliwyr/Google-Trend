@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 03:47:59",
+  "lastUpdate": "11-07-2023 , 03:57:10",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "F1 Silverstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1%20Silverstone",
         "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Freddie Mercury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Freddie%20Mercury",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Bohemian Rhapsody Film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bohemian%20Rhapsody%20Film",
-        "pubdate": "Mon, 10 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Larry Nassar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Larry%20Nassar",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Guillain-Barré-Syndrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Guillain-Barr%C3%A9-Syndrom",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Guillain-Barré-Syndrom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Guillain-Barr%C3%A9-Syndrom",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Sepp Straka Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sepp%20Straka%20Golf",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+        "title": "Jeffrey Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jeffrey%20Carlson",
+        "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NATO",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EZB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Travis%20Scott",
         "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pool",
-        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
