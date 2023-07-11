@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 01:17:44",
+  "lastUpdate": "11-07-2023 , 02:36:04",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Harry%20Styles",
         "pubdate": "Mon, 10 Jul 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dua Lipa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dua%20Lipa",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0100"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "AO3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AO3",
-        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ivandro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ivandro",
         "pubdate": "Mon, 10 Jul 2023 09:00:00 +0100"
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dua%20Lipa",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amazon%20Prime%20Day",
         "pubdate": "Mon, 10 Jul 2023 22:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Gabriela Anelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gabriela%20Anelli",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0100"
+        "title": "Ricky Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ricky%20Martin",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Larry Nassar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Larry%20Nassar",
+        "pubdate": "Mon, 10 Jul 2023 18:00:00 +0100"
       }
     ]
   ]
