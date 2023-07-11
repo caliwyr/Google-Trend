@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 17:48:01",
+  "lastUpdate": "11-07-2023 , 17:57:21",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guillain-Barré-Syndrom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guillain-Barr%C3%A9-Syndrom",
+        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EZB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tom%20Cruise",
         "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alcaraz",
-        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Elterngeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
         "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
-        "pubdate": "Wed, 05 Jul 2023 02:00:00 +0200"
       }
     ]
   ]

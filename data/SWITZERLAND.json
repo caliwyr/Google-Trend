@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 17:48:09",
+  "lastUpdate": "11-07-2023 , 17:57:28",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rybakina",
-        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
         "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vondrousova",
-        "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
+        "title": "Wetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetter",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alcaraz",
+        "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
       }
     ]
   ]

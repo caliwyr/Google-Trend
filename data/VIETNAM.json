@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-07-2023 , 17:48:12",
+  "lastUpdate": "11-07-2023 , 17:57:29",
   "data": [
-    [
-      {
-        "title": "Hoàng Sa Trường Sa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ho%C3%A0ng%20Sa%20Tr%C6%B0%E1%BB%9Dng%20Sa",
-        "pubdate": "Tue, 11 Jul 2023 13:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Chuyến bay giải cứu",
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Cúp quốc gia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAp%20qu%E1%BB%91c%20gia",
-        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0700"
+        "title": "Hoàng Sa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ho%C3%A0ng%20Sa",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Thể thao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%83%20thao",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Cup quoc gia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cup%20quoc%20gia",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0700"
       }
     ]
   ]

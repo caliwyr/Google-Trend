@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-07-2023 , 17:48:02",
+  "lastUpdate": "11-07-2023 , 17:57:22",
   "data": [
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taylor%20Swift",
-        "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Nyck de Vries",
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Ferencváros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
+        "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tóth Gabi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
         "pubdate": "Mon, 10 Jul 2023 22:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-        "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dűne 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C5%B1ne%202",
         "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Anya Taylor-Joy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anya%20Taylor-Joy",
+        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karácsony Gergely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20Gergely",
         "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
       }
     ]

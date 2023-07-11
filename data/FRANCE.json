@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 17:48:01",
+  "lastUpdate": "11-07-2023 , 17:57:21",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prime%20Day",
         "pubdate": "Tue, 11 Jul 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tony Gallopin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tony%20Gallopin",
-        "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Petit Emile disparue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Petit%20Emile%20disparue",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
         "pubdate": "Mon, 10 Jul 2023 03:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Napoleon",
+        "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
         "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Syndrome Guillain-Barré",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Syndrome%20Guillain-Barr%C3%A9",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
