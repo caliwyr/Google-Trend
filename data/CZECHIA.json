@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 13:40:58",
+  "lastUpdate": "12-07-2023 , 13:50:13",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Popeyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Popeyes",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manson",
+        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Vanessa Kirby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vanessa%20Kirby",
         "pubdate": "Tue, 11 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rublev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rublev",
+        "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Poslanecká sněmovna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poslaneck%C3%A1%20sn%C4%9Bmovna",
-        "pubdate": "Tue, 11 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rotavirus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rotavirus",
         "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viktoria Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20Plze%C5%88",
-        "pubdate": "Tue, 11 Jul 2023 13:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 13:40:58",
+  "lastUpdate": "12-07-2023 , 13:50:13",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mission: Impossible 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible%207",
         "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Timothée Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
+        "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rublev",
         "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
@@ -48,13 +62,6 @@
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tour%20de%20France",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lauritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lauritz",
-        "pubdate": "Tue, 11 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
         "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Island",
-        "pubdate": "Tue, 11 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
