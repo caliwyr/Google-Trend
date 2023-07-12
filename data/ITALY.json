@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 15:44:37",
+  "lastUpdate": "12-07-2023 , 15:54:07",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Novak%20Djokovic",
-        "pubdate": "Wed, 12 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manfredonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manfredonia",
         "pubdate": "Wed, 12 Jul 2023 08:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Leslie Van Houten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leslie%20Van%20Houten",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Placebo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Placebo",
+        "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Ernia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ernia",
-        "pubdate": "Wed, 12 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Noemi Fiore Modica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Noemi%20Fiore%20Modica",
         "pubdate": "Wed, 12 Jul 2023 08:00:00 +0200"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Brian Molko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brian%20Molko",
-        "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
+        "title": "Ernia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ernia",
+        "pubdate": "Wed, 12 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Maltempo nel Comasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maltempo%20nel%20Comasco",
+        "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Miura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Miura",
         "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
       }
     ]
