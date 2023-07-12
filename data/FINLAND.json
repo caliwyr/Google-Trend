@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-07-2023 , 22:47:30",
+  "lastUpdate": "12-07-2023 , 22:56:49",
   "data": [
+    [
+      {
+        "title": "Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everest",
+        "pubdate": "Thu, 13 Jul 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Joe Biden",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Milan Kundera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Milan%20Kundera",
-        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0300"
+        "title": "Huw Edwards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Huw%20Edwards",
+        "pubdate": "Wed, 12 Jul 2023 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Huw Edwards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Huw%20Edwards",
-        "pubdate": "Wed, 12 Jul 2023 21:00:00 +0300"
+        "title": "Milan Kundera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Milan%20Kundera",
+        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Icon of the Seas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Icon%20of%20the%20Seas",
         "pubdate": "Tue, 11 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Larry Nassar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Larry%20Nassar",
-        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0300"
       }
     ]
   ]
