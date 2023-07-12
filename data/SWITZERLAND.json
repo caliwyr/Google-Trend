@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 03:45:18",
+  "lastUpdate": "12-07-2023 , 03:54:46",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Meteo France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
-        "pubdate": "Tue, 11 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Srebrenica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Srebrenica",
         "pubdate": "Tue, 11 Jul 2023 01:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Safiullin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Safiullin",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meteo France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
+        "pubdate": "Tue, 11 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Gewitter heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gewitter%20heute",
-        "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vondrousova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vondrousova",
         "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
@@ -108,16 +101,23 @@
     ],
     [
       {
-        "title": "Nothing Phone (2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nothing%20Phone%20(2",
+        "title": "Emile Frankreich verschwunden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emile%20Frankreich%20verschwunden",
+        "pubdate": "Tue, 11 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nothing Phone 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nothing%20Phone%202",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Emile Frankreich verschwunden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emile%20Frankreich%20verschwunden",
-        "pubdate": "Tue, 11 Jul 2023 22:00:00 +0200"
+        "title": "Schweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweden",
+        "pubdate": "Tue, 11 Jul 2023 09:00:00 +0200"
       }
     ],
     [
