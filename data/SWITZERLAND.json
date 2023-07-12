@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 02:42:24",
+  "lastUpdate": "12-07-2023 , 03:15:12",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rublev",
+        "title": "Andrey Rublev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrey%20Rublev",
         "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
       }
     ],
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sinner",
-        "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
+        "title": "Meteo France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
+        "pubdate": "Tue, 11 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Safiullin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Safiullin",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Meteo France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
-        "pubdate": "Tue, 11 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Gewitter heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gewitter%20heute",
+        "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vondrousova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vondrousova",
         "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Schweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweden",
-        "pubdate": "Tue, 11 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
         "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dua%20Lipa",
         "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andrea Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Evans",
+        "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
       }
     ]
   ]

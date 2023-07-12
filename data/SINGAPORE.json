@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-07-2023 , 02:42:23",
+  "lastUpdate": "12-07-2023 , 03:15:12",
   "data": [
+    [
+      {
+        "title": "Iswaran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iswaran",
+        "pubdate": "Wed, 12 Jul 2023 10:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Elina Svitolina",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nato",
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NATO",
         "pubdate": "Wed, 12 Jul 2023 00:00:00 +0800"
       }
     ],
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Michael Learns To Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Michael%20Learns%20To%20Rock",
+        "title": "Michael Learns to Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Michael%20Learns%20to%20Rock",
         "pubdate": "Tue, 11 Jul 2023 16:00:00 +0800"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Victor%20Wembanyama",
+        "pubdate": "Tue, 11 Jul 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Christopher Eubanks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Christopher%20Eubanks",
         "pubdate": "Tue, 11 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jacky Cheung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jacky%20Cheung",
-        "pubdate": "Mon, 10 Jul 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
-        "pubdate": "Mon, 10 Jul 2023 16:00:00 +0800"
       }
     ]
   ]
