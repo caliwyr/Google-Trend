@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 16:46:14",
+  "lastUpdate": "12-07-2023 , 16:55:47",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Pardubice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pardubice",
+        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Popeyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Popeyes",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rihanna",
-        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0200"
+        "title": "Mark Zuckerberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%20Zuckerberg",
+        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%20Zuckerberg",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0200"
+        "title": "Rihanna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rihanna",
+        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taylor%20Swift",
         "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NATO",
-        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ryan Gosling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ryan%20Gosling",
-        "pubdate": "Tue, 11 Jul 2023 14:00:00 +0200"
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NATO",
+        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Depeche Mode",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Depeche%20Mode",
-        "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
+        "title": "Ryan Gosling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ryan%20Gosling",
+        "pubdate": "Tue, 11 Jul 2023 14:00:00 +0200"
       }
     ]
   ]

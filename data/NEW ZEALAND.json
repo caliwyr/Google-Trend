@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 16:46:21",
+  "lastUpdate": "12-07-2023 , 16:55:53",
   "data": [
     [
       {
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Asteroid City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Asteroid%20City",
+        "pubdate": "Wed, 12 Jul 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Manga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Manga",
+        "pubdate": "Wed, 12 Jul 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "AO3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AO3",
         "pubdate": "Tue, 11 Jul 2023 04:00:00 +1200"
@@ -125,20 +139,6 @@
         "title": "BBC presenter scandal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BBC%20presenter%20scandal",
         "pubdate": "Tue, 11 Jul 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "How do you Live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#How%20do%20you%20Live",
-        "pubdate": "Tue, 11 Jul 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Larry Nassar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Larry%20Nassar",
-        "pubdate": "Tue, 11 Jul 2023 11:00:00 +1200"
       }
     ]
   ]
