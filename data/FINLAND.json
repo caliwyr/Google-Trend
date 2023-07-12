@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 10:41:47",
+  "lastUpdate": "12-07-2023 , 10:51:19",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "The Guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Guardian",
+        "title": "The guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20guardian",
         "pubdate": "Wed, 12 Jul 2023 00:00:00 +0300"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Erdogan",
+        "pubdate": "Tue, 11 Jul 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Will Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Will%20Smith",
         "pubdate": "Tue, 11 Jul 2023 02:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NATO",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Styles",
-        "pubdate": "Mon, 10 Jul 2023 12:00:00 +0300"
       }
     ]
   ]
