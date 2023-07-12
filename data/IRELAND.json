@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 06:44:35",
+  "lastUpdate": "12-07-2023 , 06:54:05",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Johnny%20Depp",
-        "pubdate": "Tue, 11 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Enoch Burke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Enoch%20Burke",
         "pubdate": "Tue, 11 Jul 2023 20:00:00 +0100"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Roseanne Barr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Roseanne%20Barr",
-        "pubdate": "Tue, 11 Jul 2023 22:00:00 +0100"
+        "title": "Johnny Depp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Johnny%20Depp",
+        "pubdate": "Tue, 11 Jul 2023 18:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,16 @@
     ],
     [
       {
-        "title": "Ben Briscoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Briscoe",
-        "pubdate": "Tue, 11 Jul 2023 10:00:00 +0100"
+        "title": "Tubridy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tubridy",
+        "pubdate": "Tue, 11 Jul 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roseanne Barr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Roseanne%20Barr",
+        "pubdate": "Tue, 11 Jul 2023 22:00:00 +0100"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tyson%20Fury",
         "pubdate": "Tue, 11 Jul 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ben Briscoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Briscoe",
+        "pubdate": "Tue, 11 Jul 2023 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ricky Gervais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ricky%20Gervais",
         "pubdate": "Tue, 11 Jul 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manor Solomon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Manor%20Solomon",
-        "pubdate": "Tue, 11 Jul 2023 17:00:00 +0100"
       }
     ]
   ]
