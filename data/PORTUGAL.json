@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 17:47:18",
+  "lastUpdate": "12-07-2023 , 17:56:39",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Wonka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wonka",
+        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lionel%20Messi",
         "pubdate": "Wed, 12 Jul 2023 00:00:00 +0100"
@@ -66,30 +73,9 @@
     ],
     [
       {
-        "title": "Wonka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wonka",
-        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inteligência artificial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Intelig%C3%AAncia%20artificial",
         "pubdate": "Wed, 12 Jul 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tom Holland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tom%20Holland",
-        "pubdate": "Wed, 12 Jul 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -101,9 +87,23 @@
     ],
     [
       {
-        "title": "Kazu Miura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kazu%20Miura",
-        "pubdate": "Wed, 12 Jul 2023 00:00:00 +0100"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
+        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tom Holland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tom%20Holland",
+        "pubdate": "Wed, 12 Jul 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chrono24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chrono24",
+        "pubdate": "Wed, 12 Jul 2023 18:00:00 +0100"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Paramore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paramore",
         "pubdate": "Wed, 12 Jul 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kazu Miura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kazu%20Miura",
+        "pubdate": "Wed, 12 Jul 2023 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sabalenka",
         "pubdate": "Wed, 12 Jul 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jair Bolsonaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jair%20Bolsonaro",
-        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0100"
       }
     ]
   ]
