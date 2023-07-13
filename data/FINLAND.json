@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2023 , 20:46:34",
+  "lastUpdate": "13-07-2023 , 20:56:03",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Dele Alli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dele%20Alli",
         "pubdate": "Thu, 13 Jul 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
+        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
         "pubdate": "Wed, 12 Jul 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Leslie Van Houten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leslie%20Van%20Houten",
-        "pubdate": "Wed, 12 Jul 2023 07:00:00 +0300"
       }
     ]
   ]
