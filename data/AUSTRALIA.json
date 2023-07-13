@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 22:26:56",
+  "lastUpdate": "13-07-2023 , 22:37:22",
   "data": [
     [
       {
         "title": "XRP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#XRP",
         "pubdate": "Fri, 14 Jul 2023 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "pubdate": "Fri, 14 Jul 2023 07:00:00 +1000"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Stanley Tucci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stanley%20Tucci",
-        "pubdate": "Thu, 13 Jul 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Matt Damon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Damon",
         "pubdate": "Thu, 13 Jul 2023 07:00:00 +1000"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Bastille Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bastille%20Day",
-        "pubdate": "Thu, 13 Jul 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Rob McElhenney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rob%20McElhenney",
         "pubdate": "Thu, 13 Jul 2023 15:00:00 +1000"
@@ -139,6 +132,13 @@
         "title": "Milan Kundera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Milan%20Kundera",
         "pubdate": "Thu, 13 Jul 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Harry Garside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20Garside",
+        "pubdate": "Thu, 13 Jul 2023 15:00:00 +1000"
       }
     ]
   ]
