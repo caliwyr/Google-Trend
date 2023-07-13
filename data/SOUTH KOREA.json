@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2023 , 11:45:51",
+  "lastUpdate": "13-07-2023 , 11:55:03",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "러시아",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%9F%AC%EC%8B%9C%EC%95%84",
+        "pubdate": "Wed, 12 Jul 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "최준희",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EC%A4%80%ED%9D%AC",
         "pubdate": "Tue, 11 Jul 2023 12:00:00 +0900"
@@ -132,13 +139,6 @@
         "title": "차인표",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%9D%B8%ED%91%9C",
         "pubdate": "Mon, 10 Jul 2023 10:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "에코프로",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0900"
       }
     ]
   ]
