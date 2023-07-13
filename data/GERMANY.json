@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2023 , 21:12:35",
+  "lastUpdate": "13-07-2023 , 21:23:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bard",
         "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "XRP news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#XRP%20news",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "XRP news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#XRP%20news",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
+        "title": "Charly Hübner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charly%20H%C3%BCbner",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "VanMoof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VanMoof",
         "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EA Sports FC 24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EA%20Sports%20FC%2024",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
         "pubdate": "Sun, 09 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
-        "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
