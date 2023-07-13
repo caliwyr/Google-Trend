@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-07-2023 , 09:43:28",
+  "lastUpdate": "13-07-2023 , 09:52:59",
   "data": [
+    [
+      {
+        "title": "Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bard",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Van der Sar",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Sandra Pires",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sandra%20Pires",
+        "title": "Lotto-Gewinn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto-Gewinn",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
       }
     ],
@@ -20,6 +27,13 @@
         "title": "Idles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Idles",
         "pubdate": "Thu, 13 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sandra Pires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sandra%20Pires",
+        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Kazuyoshi Miura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kazuyoshi%20Miura",
-        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
+        "title": "Milan Kundera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20Kundera",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "Unwetter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetter",
         "pubdate": "Wed, 12 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan Kundera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20Kundera",
-        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Medvedev",
-        "pubdate": "Wed, 12 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Carmen Steinbruch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carmen%20Steinbruch",
         "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Beatrice Egli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Beatrice%20Egli",
-        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0200"
+        "title": "Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Medvedev",
+        "pubdate": "Wed, 12 Jul 2023 18:00:00 +0200"
       }
     ]
   ]

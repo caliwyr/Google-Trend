@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 09:43:31",
+  "lastUpdate": "13-07-2023 , 09:53:01",
   "data": [
     [
       {
         "title": "Tennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tennis",
         "pubdate": "Thu, 13 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bard",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabalenka",
-        "pubdate": "Wed, 12 Jul 2023 16:00:00 +0200"
+        "title": "Huw Edwards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Huw%20Edwards",
+        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Huw Edwards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Huw%20Edwards",
-        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabalenka",
+        "pubdate": "Wed, 12 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Emmy Nominations 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emmy%20Nominations%202023",
+        "title": "Emmy nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emmy%20nominations%202023",
         "pubdate": "Wed, 12 Jul 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Wonka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wonka",
         "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matt Damon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Matt%20Damon",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
