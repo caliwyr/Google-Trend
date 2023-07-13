@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "13-07-2023 , 21:52:15",
+  "lastUpdate": "13-07-2023 , 22:07:08",
   "data": [
+    [
+      {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tesla",
+        "pubdate": "Fri, 14 Jul 2023 01:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "NASA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NASA",
+        "pubdate": "Fri, 14 Jul 2023 01:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "Yamuna water level",
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ons%20Jabeur",
+        "pubdate": "Thu, 13 Jul 2023 21:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "xAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#xAI",
         "pubdate": "Thu, 13 Jul 2023 02:30:00 +0530"
@@ -66,23 +87,9 @@
     ],
     [
       {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ons%20Jabeur",
-        "pubdate": "Thu, 13 Jul 2023 21:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Mamata Banerjee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mamata%20Banerjee",
         "pubdate": "Thu, 13 Jul 2023 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Faf du Plessis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Faf%20du%20Plessis",
-        "pubdate": "Thu, 13 Jul 2023 08:30:00 +0530"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Seema Haider News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Seema%20Haider%20News",
+        "title": "Seema Haider news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Seema%20Haider%20news",
         "pubdate": "Thu, 13 Jul 2023 12:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Bihar News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bihar%20News",
-        "pubdate": "Thu, 13 Jul 2023 22:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "IND vs WI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20WI",
-        "pubdate": "Wed, 12 Jul 2023 07:30:00 +0530"
+        "title": "BTS Jimin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTS%20Jimin",
+        "pubdate": "Thu, 13 Jul 2023 20:30:00 +0530"
       }
     ]
   ]
