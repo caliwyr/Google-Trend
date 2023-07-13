@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 19:45:48",
+  "lastUpdate": "13-07-2023 , 19:55:08",
   "data": [
     [
       {
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bard",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Výměna manželek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDm%C4%9Bna%20man%C5%BEelek",
+        "pubdate": "Thu, 13 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Leslie Van Houten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leslie%20Van%20Houten",
-        "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
+        "title": "Markéta Vondroušová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Vondrou%C5%A1ov%C3%A1",
+        "pubdate": "Wed, 12 Jul 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wonka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wonka",
-        "pubdate": "Wed, 12 Jul 2023 02:00:00 +0200"
+        "title": "Leslie Van Houten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leslie%20Van%20Houten",
+        "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Wonka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wonka",
+        "pubdate": "Wed, 12 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Popeyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Popeyes",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
@@ -124,20 +138,6 @@
       {
         "title": "Bohemians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rihanna",
-        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koenigsegg Gemera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Koenigsegg%20Gemera",
         "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
       }
     ]
