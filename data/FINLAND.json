@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "13-07-2023 , 14:47:57",
+  "lastUpdate": "13-07-2023 , 14:57:31",
   "data": [
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-        "pubdate": "Thu, 13 Jul 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
-        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Boa",
@@ -31,6 +17,20 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
+        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Donald%20Trump",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Everest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everest",
         "pubdate": "Thu, 13 Jul 2023 01:00:00 +0300"
@@ -41,6 +41,20 @@
         "title": "Sam Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sam%20Smith",
         "pubdate": "Thu, 13 Jul 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Harry Walker Agency",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Walker%20Agency",
+        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Svitolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Svitolina",
+        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -94,15 +108,15 @@
     ],
     [
       {
-        "title": "Air Force 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Air%20Force%201",
+        "title": "Niinistö",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Niinist%C3%B6",
         "pubdate": "Wed, 12 Jul 2023 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Biden Helsinki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Biden%20Helsinki",
+        "title": "Air Force 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Air%20Force%201",
         "pubdate": "Wed, 12 Jul 2023 23:00:00 +0300"
       }
     ],
@@ -124,20 +138,6 @@
       {
         "title": "Rybakina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rybakina",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aretha Franklin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aretha%20Franklin",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mission: Impossible - Dead Reckoning Part One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mission:%20Impossible%20-%20Dead%20Reckoning%20Part%20One",
         "pubdate": "Wed, 12 Jul 2023 17:00:00 +0300"
       }
     ]
