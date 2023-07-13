@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 23:56:05",
+  "lastUpdate": "13-07-2023 , 01:26:00",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Guns N' Roses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Guns%20N'%20Roses",
-        "pubdate": "Tue, 11 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ricciardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ricciardo",
         "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Wout van Aert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20van%20Aert",
         "pubdate": "Tue, 11 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
