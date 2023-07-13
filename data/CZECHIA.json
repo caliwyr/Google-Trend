@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 13:44:43",
+  "lastUpdate": "13-07-2023 , 13:54:02",
   "data": [
     [
       {
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bard",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Výměna manželek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDm%C4%9Bna%20man%C5%BEelek",
+        "pubdate": "Thu, 13 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Požár pardubice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20pardubice",
+        "title": "Požár Pardubice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20Pardubice",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Kratom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kratom",
-        "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Threads",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Threads",
         "pubdate": "Tue, 11 Jul 2023 12:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Marketa vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marketa%20vondrousova",
-        "pubdate": "Tue, 11 Jul 2023 21:00:00 +0200"
+        "title": "Kratom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kratom",
+        "pubdate": "Tue, 11 Jul 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taylor%20Swift",
-        "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
+        "title": "Marketa vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marketa%20vondrousova",
+        "pubdate": "Tue, 11 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
