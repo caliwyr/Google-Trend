@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 02:43:55",
+  "lastUpdate": "14-07-2023 , 03:17:47",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Tadic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tadic",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
         "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Eros ramazzotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eros%20ramazzotti",
-        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
+        "title": "Badr Hari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Badr%20Hari",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jabeur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jabeur",
         "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johan Cruijff Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Cruijff%20Arena",
-        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0200"
       }
     ]
   ]
