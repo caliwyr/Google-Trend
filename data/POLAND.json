@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-07-2023 , 09:38:55",
+  "lastUpdate": "14-07-2023 , 09:48:16",
   "data": [
     [
       {
         "title": "Joanna Krupa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
         "pubdate": "Fri, 14 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "XRP Kurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#XRP%20Kurs",
-        "pubdate": "Fri, 14 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Superpuchar Polski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Superpuchar%20Polski",
         "pubdate": "Fri, 14 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Morawiecki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morawiecki",
+        "pubdate": "Fri, 14 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "XRP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#XRP",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dele Alli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dele%20Alli",
         "pubdate": "Thu, 13 Jul 2023 13:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "EA Sports FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#EA%20Sports%20FC",
         "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#XRP",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Lechia Gdańsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20Gda%C5%84sk",
-        "pubdate": "Thu, 13 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szymon Hołownia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Ho%C5%82ownia",
-        "pubdate": "Thu, 13 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Janusz Rewiński",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Janusz%20Rewi%C5%84ski",
         "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
@@ -122,9 +108,23 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
+        "title": "Lechia Gdańsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20Gda%C5%84sk",
+        "pubdate": "Thu, 13 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szymon Hołownia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Ho%C5%82ownia",
+        "pubdate": "Thu, 13 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sebastian Karpiel bulecka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sebastian%20Karpiel%20bulecka",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Wieliczka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wieliczka",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
         "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
       }
     ]
