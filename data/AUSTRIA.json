@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-07-2023 , 06:45:29",
+  "lastUpdate": "14-07-2023 , 06:54:46",
   "data": [
     [
       {
         "title": "Mamma Mia! Mörbisch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mamma%20Mia!%20M%C3%B6rbisch",
         "pubdate": "Fri, 14 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jagged Alliance 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jagged%20Alliance%203",
+        "pubdate": "Fri, 14 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Lotto-Gewinn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto-Gewinn",
-        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Billie%20Eilish",
         "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Giulia Gwinn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Giulia%20Gwinn",
-        "pubdate": "Thu, 13 Jul 2023 23:00:00 +0200"
+        "title": "Sibenik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sibenik",
+        "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Sibenik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sibenik",
-        "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal",
         "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Succession",
         "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Flughafen Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flughafen%20Hamburg",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
