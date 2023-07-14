@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 05:46:14",
+  "lastUpdate": "14-07-2023 , 05:55:33",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Bariatric surgery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bariatric%20surgery",
+        "pubdate": "Fri, 14 Jul 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Fadden by-election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fadden%20by-election",
         "pubdate": "Fri, 14 Jul 2023 12:00:00 +1000"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Bariatric surgery",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bariatric%20surgery",
-        "pubdate": "Fri, 14 Jul 2023 14:00:00 +1000"
+        "title": "Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kosovo",
+        "pubdate": "Fri, 14 Jul 2023 13:00:00 +1000"
       }
     ],
     [
@@ -89,20 +96,6 @@
       {
         "title": "Kevin Spacey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Spacey",
-        "pubdate": "Fri, 14 Jul 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Kosovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kosovo",
-        "pubdate": "Fri, 14 Jul 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Robert F. Kennedy Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robert%20F.%20Kennedy%20Jr",
         "pubdate": "Fri, 14 Jul 2023 13:00:00 +1000"
       }
     ],
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
-        "pubdate": "Thu, 13 Jul 2023 02:00:00 +1000"
+        "title": "Dele Alli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dele%20Alli",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Dele Alli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dele%20Alli",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +1000"
+        "title": "Bastille Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bastille%20Day",
+        "pubdate": "Thu, 13 Jul 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Matildas vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas%20vs%20France",
+        "pubdate": "Thu, 13 Jul 2023 21:00:00 +1000"
       }
     ]
   ]

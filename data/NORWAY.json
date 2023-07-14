@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 05:46:20",
+  "lastUpdate": "14-07-2023 , 05:55:41",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Marstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marstein",
-        "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
         "pubdate": "Thu, 13 Jul 2023 17:00:00 +0200"
@@ -83,13 +76,6 @@
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
         "pubdate": "Thu, 13 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool.no",
-        "pubdate": "Thu, 13 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Wed, 12 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Full Circle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Full%20Circle",
         "pubdate": "Wed, 12 Jul 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F1",
         "pubdate": "Wed, 12 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
+        "pubdate": "Wed, 12 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
