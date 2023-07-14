@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 17:46:55",
+  "lastUpdate": "14-07-2023 , 17:56:16",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Flughafen Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20Hamburg",
-        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "XRP news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#XRP%20news",
         "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dele Alli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dele%20Alli",
-        "pubdate": "Thu, 13 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,13 @@
     ],
     [
       {
+        "title": "Wagner-Söldner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-S%C3%B6ldner",
+        "pubdate": "Thu, 13 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EA Sports FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EA%20Sports%20FC",
         "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Sahra Wagenknecht Partei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht%20Partei",
-        "pubdate": "Thu, 13 Jul 2023 16:00:00 +0200"
+        "title": "Letzte Generation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Letzte%20Generation",
+        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,20 +108,6 @@
     ],
     [
       {
-        "title": "Simonis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simonis",
-        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20Dortmund",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
         "pubdate": "Tue, 11 Jul 2023 00:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Carsten Linnemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carsten%20Linnemann",
         "pubdate": "Tue, 11 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koenigsegg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Koenigsegg",
+        "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amazon Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
+        "pubdate": "Sun, 09 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
