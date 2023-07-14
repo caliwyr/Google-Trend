@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 07:43:09",
+  "lastUpdate": "14-07-2023 , 07:52:39",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Dele Alli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dele%20Alli",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 -0700"
@@ -41,6 +48,13 @@
         "title": "Gerber Baby 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gerber%20Baby%202023",
         "pubdate": "Thu, 13 Jul 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Scottish Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scottish%20Open",
+        "pubdate": "Thu, 13 Jul 2023 08:00:00 -0700"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Babyface",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Babyface",
-        "pubdate": "Thu, 13 Jul 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Burmese pythons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Burmese%20pythons",
         "pubdate": "Thu, 13 Jul 2023 15:00:00 -0700"
@@ -73,22 +80,8 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
-        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bob Iger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20Iger",
-        "pubdate": "Thu, 13 Jul 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "What We Do in the Shadows",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20We%20Do%20in%20the%20Shadows",
+        "title": "What we do in the shadows",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20we%20do%20in%20the%20shadows",
         "pubdate": "Thu, 13 Jul 2023 20:00:00 -0700"
       }
     ],
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Gabby Douglas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gabby%20Douglas",
-        "pubdate": "Thu, 13 Jul 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Philip Rivers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philip%20Rivers",
-        "pubdate": "Thu, 13 Jul 2023 22:00:00 -0700"
+        "title": "Danielle Ballard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Danielle%20Ballard",
+        "pubdate": "Thu, 13 Jul 2023 23:00:00 -0700"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Saquon Barkley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saquon%20Barkley",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "USA vs Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Panama",
+        "pubdate": "Wed, 12 Jul 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "SAG strike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SAG%20strike",
+        "pubdate": "Wed, 12 Jul 2023 21:00:00 -0700"
       }
     ]
   ]

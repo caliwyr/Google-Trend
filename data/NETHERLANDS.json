@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-07-2023 , 07:43:17",
+  "lastUpdate": "14-07-2023 , 07:52:47",
   "data": [
+    [
+      {
+        "title": "Joost Klein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
+        "pubdate": "Fri, 14 Jul 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sigrid Kaag",
@@ -13,13 +20,6 @@
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bard",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dele Alli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dele%20Alli",
-        "pubdate": "Thu, 13 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vondrousova",
+        "pubdate": "Wed, 12 Jul 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vondrousova",
-        "pubdate": "Wed, 12 Jul 2023 13:00:00 +0200"
+        "title": "Rob Jetten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Jetten",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Rob Jetten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Jetten",
-        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VanMoof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VanMoof",
         "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "De Vries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Vries",
         "pubdate": "Tue, 11 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
