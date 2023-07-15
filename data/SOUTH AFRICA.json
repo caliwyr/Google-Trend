@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-07-2023 , 21:45:38",
+  "lastUpdate": "15-07-2023 , 21:54:52",
   "data": [
-    [
-      {
-        "title": "Springboks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springboks",
-        "pubdate": "Sat, 15 Jul 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Australia vs Argentina",
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Bird Box: Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bird%20Box:%20Barcelona",
+        "title": "Bird Box Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bird%20Box%20Barcelona",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Perth Glory vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Perth%20Glory%20vs%20West%20Ham",
+        "pubdate": "Sat, 15 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Cicada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cicada",
+        "pubdate": "Sat, 15 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Northampton Town vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Northampton%20Town%20vs%20Leicester%20City",
+        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Declan Rice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Declan%20Rice",
         "pubdate": "Sat, 15 Jul 2023 21:00:00 +0200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Musa Motha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Musa%20Motha",
-        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+        "title": "Romelu Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Romelu%20Lukaku",
+        "pubdate": "Sat, 15 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,8 +87,15 @@
     ],
     [
       {
-        "title": "Romelu Lukaku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Romelu%20Lukaku",
+        "title": "Musa Motha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Musa%20Motha",
+        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emily Blunt Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emily%20Blunt%20Oppenheimer",
         "pubdate": "Sat, 15 Jul 2023 19:00:00 +0200"
       }
     ],
@@ -87,23 +108,9 @@
     ],
     [
       {
-        "title": "Emily Blunt Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emily%20Blunt%20Oppenheimer",
-        "pubdate": "Sat, 15 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr",
         "pubdate": "Sat, 15 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Northampton Town vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Northampton%20Town%20vs%20Leicester%20City",
-        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ons%20Jabeur",
-        "pubdate": "Fri, 14 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Alcaraz",
+        "title": "Springboks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springboks",
         "pubdate": "Fri, 14 Jul 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Cosafa Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cosafa%20Cup",
-        "pubdate": "Fri, 14 Jul 2023 21:00:00 +0200"
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ons%20Jabeur",
+        "pubdate": "Fri, 14 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
