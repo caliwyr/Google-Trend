@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-07-2023 , 07:40:15",
+  "lastUpdate": "15-07-2023 , 07:49:34",
   "data": [
+    [
+      {
+        "title": "Tom Holland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Holland",
+        "pubdate": "Sat, 15 Jul 2023 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Chris Christie",
@@ -27,6 +34,13 @@
         "title": "Toby Keith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toby%20Keith",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ben Platt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ben%20Platt",
+        "pubdate": "Sat, 15 Jul 2023 03:00:00 -0400"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Pitbull",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pitbull",
         "pubdate": "Fri, 14 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tom Holland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Holland",
-        "pubdate": "Fri, 14 Jul 2023 20:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mission: Impossible movie Dead Reckoning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mission:%20Impossible%20movie%20Dead%20Reckoning",
         "pubdate": "Fri, 14 Jul 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lana%20Del%20Rey",
-        "pubdate": "Fri, 14 Jul 2023 23:00:00 -0400"
       }
     ]
   ]
