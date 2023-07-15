@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 02:45:04",
+  "lastUpdate": "15-07-2023 , 03:21:26",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cat",
         "pubdate": "Fri, 14 Jul 2023 04:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Firea demisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Firea%20demisie",
+        "pubdate": "Fri, 14 Jul 2023 16:00:00 +0300"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Firea demisie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Firea%20demisie",
-        "pubdate": "Fri, 14 Jul 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Furtuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Furtuna",
         "pubdate": "Fri, 14 Jul 2023 09:00:00 +0300"
@@ -62,13 +62,6 @@
         "title": "Irina Rimes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irina%20Rimes",
         "pubdate": "Fri, 14 Jul 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "EAFC 24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#EAFC%2024",
-        "pubdate": "Fri, 14 Jul 2023 01:00:00 +0300"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Markéta Vondroušová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mark%C3%A9ta%20Vondrou%C5%A1ov%C3%A1",
-        "pubdate": "Fri, 14 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Succession",
         "pubdate": "Fri, 14 Jul 2023 02:00:00 +0300"
@@ -122,8 +108,8 @@
     ],
     [
       {
-        "title": "Liga 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%201",
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
         "pubdate": "Thu, 13 Jul 2023 15:00:00 +0300"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
+        "pubdate": "Thu, 13 Jul 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bard",
         "pubdate": "Thu, 13 Jul 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
+        "pubdate": "Thu, 13 Jul 2023 00:00:00 +0300"
       }
     ]
   ]
