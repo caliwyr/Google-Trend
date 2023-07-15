@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 10:45:17",
+  "lastUpdate": "15-07-2023 , 10:54:32",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pogacar",
+        "title": "Tour de France etape du jour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20de%20France%20etape%20du%20jour",
         "pubdate": "Sat, 15 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La reserve KNOKKE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20reserve%20KNOKKE",
-        "pubdate": "Sat, 15 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Tadic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tadic",
         "pubdate": "Sat, 15 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La reserve KNOKKE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20reserve%20KNOKKE",
+        "pubdate": "Sat, 15 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "The Summer I Turned Pretty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Summer%20I%20Turned%20Pretty",
-        "pubdate": "Fri, 14 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jennifer%20Lawrence",
         "pubdate": "Fri, 14 Jul 2023 07:00:00 +0200"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Brigitte Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
-        "pubdate": "Fri, 14 Jul 2023 13:00:00 +0200"
+        "title": "Fiona Scott Morton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fiona%20Scott%20Morton",
+        "pubdate": "Fri, 14 Jul 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fiona Scott Morton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fiona%20Scott%20Morton",
-        "pubdate": "Fri, 14 Jul 2023 10:00:00 +0200"
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
+        "pubdate": "Fri, 14 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "The Pod Generation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Pod%20Generation",
         "pubdate": "Fri, 14 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bird Box Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bird%20Box%20Barcelona",
+        "pubdate": "Fri, 14 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
