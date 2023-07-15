@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 01:13:49",
+  "lastUpdate": "15-07-2023 , 02:45:04",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
-        "pubdate": "Fri, 14 Jul 2023 19:00:00 +0100"
+        "title": "Benjamin Mendy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benjamin%20Mendy",
+        "pubdate": "Fri, 14 Jul 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Benjamin Mendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benjamin%20Mendy",
-        "pubdate": "Fri, 14 Jul 2023 18:00:00 +0100"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
+        "pubdate": "Fri, 14 Jul 2023 19:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Cuba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cuba",
-        "pubdate": "Fri, 14 Jul 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Grand Colombier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grand%20Colombier",
         "pubdate": "Fri, 14 Jul 2023 16:00:00 +0100"
@@ -108,22 +101,15 @@
     ],
     [
       {
+        "title": "Cuba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cuba",
+        "pubdate": "Fri, 14 Jul 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sinner",
-        "pubdate": "Fri, 14 Jul 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fran Drescher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fran%20Drescher",
-        "pubdate": "Fri, 14 Jul 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tour France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tour%20France",
         "pubdate": "Fri, 14 Jul 2023 16:00:00 +0100"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Tour France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tour%20France",
+        "pubdate": "Fri, 14 Jul 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "João Félix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20F%C3%A9lix",
         "pubdate": "Fri, 14 Jul 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nico gonzalez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nico%20gonzalez",
+        "pubdate": "Fri, 14 Jul 2023 19:00:00 +0100"
       }
     ]
   ]
