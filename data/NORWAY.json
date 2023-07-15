@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 19:42:18",
+  "lastUpdate": "15-07-2023 , 19:51:54",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carlos%20Alcaraz",
+        "pubdate": "Sat, 15 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vålerenga Molde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Molde",
         "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vondrousova",
+        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,8 +66,8 @@
     ],
     [
       {
-        "title": "Kiss Tønsberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiss%20T%C3%B8nsberg",
+        "title": "Kiss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiss",
         "pubdate": "Fri, 14 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Beaujolais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Beaujolais",
         "pubdate": "Thu, 13 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jordan Henderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jordan%20Henderson",
-        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0200"
       }
     ]
   ]
