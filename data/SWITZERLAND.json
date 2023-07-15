@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 12:33:47",
+  "lastUpdate": "15-07-2023 , 12:57:56",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Mont-Blanc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont-Blanc",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukaku",
+        "pubdate": "Sat, 15 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gstaad Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gstaad%20Open",
+        "pubdate": "Sat, 15 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "CAT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CAT",
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cat",
         "pubdate": "Fri, 14 Jul 2023 09:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Emile disparu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emile%20disparu",
         "pubdate": "Fri, 14 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rita Ora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rita%20Ora",
-        "pubdate": "Fri, 14 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aspartame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aspartame",
-        "pubdate": "Fri, 14 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
