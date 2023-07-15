@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 23:55:09",
+  "lastUpdate": "15-07-2023 , 01:13:50",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Victoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Victoria",
-        "pubdate": "Fri, 14 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Estelle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Estelle",
-        "pubdate": "Fri, 14 Jul 2023 22:00:00 +0200"
+        "pubdate": "Fri, 14 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Benjamin Mendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20Mendy",
-        "pubdate": "Fri, 14 Jul 2023 22:00:00 +0200"
+        "title": "Kronprinsessans födelsedag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kronprinsessans%20f%C3%B6delsedag",
+        "pubdate": "Fri, 14 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Matt Damon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matt%20Damon",
         "pubdate": "Thu, 13 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Häcken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken",
+        "pubdate": "Wed, 12 Jul 2023 16:00:00 +0200"
       }
     ]
   ]
