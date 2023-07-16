@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-07-2023 , 23:45:46",
+  "lastUpdate": "16-07-2023 , 23:55:02",
   "data": [
+    [
+      {
+        "title": "Andy Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Andy%20Murray",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Zarina Hashmi",
@@ -131,13 +138,6 @@
       {
         "title": "Eminem Ed Sheeran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eminem%20Ed%20Sheeran",
-        "pubdate": "Sun, 16 Jul 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Henry Searle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Henry%20Searle",
         "pubdate": "Sun, 16 Jul 2023 22:00:00 +0100"
       }
     ]
