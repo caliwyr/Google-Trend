@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2023 , 14:46:29",
+  "lastUpdate": "16-07-2023 , 14:55:40",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Jane Birkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jane%20Birkin",
+        "title": "Serge Gainsbourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serge%20Gainsbourg",
         "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
       }
     ],
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "Paltrinieri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paltrinieri",
-        "pubdate": "Sun, 16 Jul 2023 08:00:00 +0200"
+        "title": "Giorgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgia",
+        "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Genova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genova",
+        "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Genova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genova",
-        "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
+        "title": "Paltrinieri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paltrinieri",
+        "pubdate": "Sun, 16 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Rex Heuermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rex%20Heuermann",
         "pubdate": "Sun, 16 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Passenger 57",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Passenger%2057",
+        "pubdate": "Sun, 16 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Pompei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pompei",
+        "title": "Xavi Simons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Xavi%20Simons",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Martina Franca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Martina%20Franca",
         "pubdate": "Sun, 16 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Passenger 57",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Passenger%2057",
-        "pubdate": "Sun, 16 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Xavi Simons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Xavi%20Simons",
-        "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
