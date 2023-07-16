@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2023 , 19:43:10",
+  "lastUpdate": "16-07-2023 , 19:52:25",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brad%20Pitt",
+        "pubdate": "Sun, 16 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Romelu Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Romelu%20Lukaku",
         "pubdate": "Sun, 16 Jul 2023 04:00:00 +0200"
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nadal",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton",
+        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB",
+        "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,15 +73,8 @@
     ],
     [
       {
-        "title": "Kate Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton",
-        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hitzewelle Italien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hitzewelle%20Italien",
+        "title": "Italien Hitzewelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Italien%20Hitzewelle",
         "pubdate": "Sun, 16 Jul 2023 17:00:00 +0200"
       }
     ],
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Silesia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silesia",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
+        "title": "Florian Silbereisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florian%20Silbereisen",
+        "pubdate": "Sun, 16 Jul 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Florian Silbereisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florian%20Silbereisen",
-        "pubdate": "Sun, 16 Jul 2023 19:00:00 +0200"
+        "title": "Silesia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silesia",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Rammstein-Konzert Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein-Konzert%20Berlin",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Romain Bardet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Romain%20Bardet",
         "pubdate": "Sun, 16 Jul 2023 09:00:00 +0200"
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Dave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dave",
-        "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rammstein-Konzert Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein-Konzert%20Berlin",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gordes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gordes",
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rafael%20Nadal",
         "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ]
