@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-07-2023 , 16:43:48",
+  "lastUpdate": "16-07-2023 , 16:53:06",
   "data": [
     [
       {
         "title": "Jane Birkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jane%20Birkin",
         "pubdate": "Sun, 16 Jul 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Elecciones Santa Fe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elecciones%20Santa%20Fe",
+        "pubdate": "Sun, 16 Jul 2023 00:00:00 -0300"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "David Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#David%20Beckham",
-        "pubdate": "Sun, 16 Jul 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Cuantos titulos tiene River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cuantos%20titulos%20tiene%20River",
         "pubdate": "Sun, 16 Jul 2023 00:00:00 -0300"
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Racing  Rosario Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20%20Rosario%20Central",
-        "pubdate": "Sat, 15 Jul 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Donde voto Santa Fe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donde%20voto%20Santa%20Fe",
-        "pubdate": "Sat, 15 Jul 2023 22:00:00 -0300"
+        "pubdate": "Sat, 15 Jul 2023 21:00:00 -0300"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami",
         "pubdate": "Sat, 15 Jul 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Racing  Rosario Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20%20Rosario%20Central",
+        "pubdate": "Sat, 15 Jul 2023 16:00:00 -0300"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "St. Louis CITY SC  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#St.%20Louis%20CITY%20SC%20%20Inter%20Miami",
+        "title": "St. Louis City SC  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#St.%20Louis%20City%20SC%20%20Inter%20Miami",
         "pubdate": "Sat, 15 Jul 2023 22:00:00 -0300"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Donde voto Santa Fe 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donde%20voto%20Santa%20Fe%202023",
-        "pubdate": "Sat, 15 Jul 2023 21:00:00 -0300"
+        "title": "Martín Demichelis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mart%C3%ADn%20Demichelis",
+        "pubdate": "Sat, 15 Jul 2023 22:00:00 -0300"
       }
     ]
   ]
