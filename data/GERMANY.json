@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2023 , 17:43:46",
+  "lastUpdate": "16-07-2023 , 17:53:12",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Wimbledon, Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wimbledon,%20Finale",
-        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rammstein-Konzerte Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein-Konzerte%20Berlin",
         "pubdate": "Sat, 15 Jul 2023 12:00:00 +0200"
@@ -66,20 +59,6 @@
     ],
     [
       {
-        "title": "La Palma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#La%20Palma",
-        "pubdate": "Sat, 15 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
-        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lichterfest Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lichterfest%20Stuttgart",
         "pubdate": "Sat, 15 Jul 2023 16:00:00 +0200"
@@ -87,9 +66,23 @@
     ],
     [
       {
+        "title": "La Palma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#La%20Palma",
+        "pubdate": "Sat, 15 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SC Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
         "pubdate": "Sat, 15 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon, Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wimbledon,%20Finale",
+        "pubdate": "Fri, 14 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Wed, 12 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan Kundera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Milan%20Kundera",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
