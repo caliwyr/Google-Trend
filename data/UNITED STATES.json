@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "16-07-2023 , 18:48:59",
+  "lastUpdate": "16-07-2023 , 18:58:23",
   "data": [
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Djokovic",
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wimbledon",
         "pubdate": "Sun, 16 Jul 2023 06:00:00 -0700"
       }
     ],
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Alaska Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alaska%20Earthquake",
+        "pubdate": "Sun, 16 Jul 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Rory McIlroy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rory%20McIlroy",
         "pubdate": "Sun, 16 Jul 2023 07:00:00 -0700"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Alaska earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alaska%20earthquake",
-        "pubdate": "Sun, 16 Jul 2023 08:00:00 -0700"
+        "title": "Tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennis",
+        "pubdate": "Sun, 16 Jul 2023 11:00:00 -0700"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Jason Aldean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20Aldean",
         "pubdate": "Sun, 16 Jul 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Brittney Griner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brittney%20Griner",
+        "pubdate": "Sun, 16 Jul 2023 11:00:00 -0700"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Daniella Hemsley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniella%20Hemsley",
+        "pubdate": "Sat, 15 Jul 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Fargo shooting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fargo%20shooting",
         "pubdate": "Sat, 15 Jul 2023 06:00:00 -0700"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Dodgers vs Mets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers%20vs%20Mets",
-        "pubdate": "Sat, 15 Jul 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Hurricane Calvin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hurricane%20Calvin",
         "pubdate": "Sat, 15 Jul 2023 03:00:00 -0700"
@@ -125,20 +139,6 @@
         "title": "Student loan forgiveness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Student%20loan%20forgiveness",
         "pubdate": "Fri, 14 Jul 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carlos%20Alcaraz",
-        "pubdate": "Fri, 14 Jul 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Tom Holland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Holland",
-        "pubdate": "Fri, 14 Jul 2023 20:00:00 -0700"
       }
     ]
   ]
