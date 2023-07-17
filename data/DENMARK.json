@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 17:45:55",
+  "lastUpdate": "17-07-2023 , 17:55:16",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Charlotte Gainsbourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlotte%20Gainsbourg",
-        "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ariana%20Grande",
         "pubdate": "Sun, 16 Jul 2023 23:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
         "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Weisz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rachel%20Weisz",
-        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kate%20Middleton",
         "pubdate": "Sun, 16 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vingegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vingegaard",
+        "pubdate": "Sat, 15 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mission: Impossible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible",
+        "pubdate": "Sat, 15 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
