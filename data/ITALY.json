@@ -1,25 +1,18 @@
 {
-  "lastUpdate": "16-07-2023 , 23:55:03",
+  "lastUpdate": "17-07-2023 , 01:16:30",
   "data": [
-    [
-      {
-        "title": "Nina Zilli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Zilli",
-        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Malena",
-        "pubdate": "Mon, 17 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Aeroporto Catania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aeroporto%20Catania",
         "pubdate": "Mon, 17 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nina Zilli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Zilli",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Messi",
-        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Emma Marrone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emma%20Marrone",
         "pubdate": "Sun, 16 Jul 2023 23:00:00 +0200"
@@ -118,6 +104,13 @@
         "title": "Paola e Chiara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20e%20Chiara",
         "pubdate": "Sun, 16 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Messi",
+        "pubdate": "Sun, 16 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Hinterland film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hinterland%20film",
-        "pubdate": "Sun, 16 Jul 2023 21:00:00 +0200"
+        "title": "Federer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federer",
+        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Gosling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ryan%20Gosling",
+        "pubdate": "Sun, 16 Jul 2023 03:00:00 +0200"
       }
     ]
   ]
