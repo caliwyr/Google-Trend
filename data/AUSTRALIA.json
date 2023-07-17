@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-07-2023 , 13:51:45",
+  "lastUpdate": "17-07-2023 , 14:06:20",
   "data": [
+    [
+      {
+        "title": "Wimbledon final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wimbledon%20final",
+        "pubdate": "Mon, 17 Jul 2023 21:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Eunice Newton Foote",
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Women's Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20Cricket",
-        "pubdate": "Mon, 17 Jul 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Deloitte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Deloitte",
         "pubdate": "Mon, 17 Jul 2023 20:00:00 +1000"
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Women's Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20Cricket",
+        "pubdate": "Mon, 17 Jul 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "YNW Melly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#YNW%20Melly",
+        "pubdate": "Mon, 17 Jul 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Harry Maguire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20Maguire",
         "pubdate": "Mon, 17 Jul 2023 13:00:00 +1000"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Daniel Craig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Craig",
-        "pubdate": "Mon, 17 Jul 2023 21:00:00 +1000"
+        "title": "RBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
+        "pubdate": "Mon, 17 Jul 2023 23:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "MasterChef Australia 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MasterChef%20Australia%202023",
         "pubdate": "Sun, 16 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Carlee Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlee%20Russell",
-        "pubdate": "Sun, 16 Jul 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Marketa Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marketa%20Vondrousova",
-        "pubdate": "Sun, 16 Jul 2023 09:00:00 +1000"
       }
     ]
   ]

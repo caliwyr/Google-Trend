@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 13:51:50",
+  "lastUpdate": "17-07-2023 , 14:06:31",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "Slangeørn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Slange%C3%B8rn",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Viking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
         "pubdate": "Mon, 17 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Posten.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Posten.no",
+        "pubdate": "Mon, 17 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Meta",
+        "pubdate": "Mon, 17 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,8 +52,8 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Djokovic",
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wimbledon",
         "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ],
@@ -55,6 +76,13 @@
         "title": "Hotel Union Øye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hotel%20Union%20%C3%98ye",
         "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann Strømsgodset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20Str%C3%B8msgodset",
+        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Declan Rice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Declan%20Rice",
         "pubdate": "Sat, 15 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pogacar",
-        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chris O'Neill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chris%20O'Neill",
-        "pubdate": "Sat, 15 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vondrousova",
-        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mason Greenwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mason%20Greenwood",
-        "pubdate": "Sat, 15 Jul 2023 01:00:00 +0200"
       }
     ]
   ]
