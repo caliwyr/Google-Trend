@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 06:49:27",
+  "lastUpdate": "17-07-2023 , 06:58:49",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Mallorca news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mallorca%20news",
+        "pubdate": "Sat, 15 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carlos%20Alcaraz",
         "pubdate": "Fri, 14 Jul 2023 23:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bard",
         "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alcaraz",
-        "pubdate": "Thu, 13 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
