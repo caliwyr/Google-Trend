@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 05:48:32",
+  "lastUpdate": "17-07-2023 , 05:57:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Plus belle la vie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plus%20belle%20la%20vie",
         "pubdate": "Mon, 17 Jul 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Adrien Petit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adrien%20Petit",
+        "pubdate": "Mon, 17 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Laurent Ruquier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Ruquier",
-        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alexandra Lamy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alexandra%20Lamy",
         "pubdate": "Sun, 16 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ring finger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ring%20finger",
-        "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wimbledon",
         "pubdate": "Sat, 15 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ons%20Jabeur",
+        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
       }
     ]
   ]

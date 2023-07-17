@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 05:48:32",
+  "lastUpdate": "17-07-2023 , 05:57:55",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bard",
-        "pubdate": "Sun, 16 Jul 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "La Palma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#La%20Palma",
         "pubdate": "Sun, 16 Jul 2023 12:00:00 +0300"
@@ -48,6 +41,20 @@
         "title": "Harvey Weinstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harvey%20Weinstein",
         "pubdate": "Sun, 16 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bard",
+        "pubdate": "Sun, 16 Jul 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Google Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Google%20Bard",
+        "pubdate": "Sun, 16 Jul 2023 11:00:00 +0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Cruise",
-        "pubdate": "Fri, 14 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cat",
         "pubdate": "Fri, 14 Jul 2023 14:00:00 +0300"
       }
     ]
