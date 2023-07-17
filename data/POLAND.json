@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 22:00:37",
+  "lastUpdate": "17-07-2023 , 22:19:34",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Most Krymski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Most%20Krymski",
+        "pubdate": "Mon, 17 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ryan Gosling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ryan%20Gosling",
         "pubdate": "Mon, 17 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cessna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cessna",
+        "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -26,13 +40,6 @@
       {
         "title": "Przesmyk suwalski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przesmyk%20suwalski",
-        "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cessna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cessna",
         "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Donald Tusk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Tusk",
-        "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beyonce",
         "pubdate": "Mon, 17 Jul 2023 16:00:00 +0200"
@@ -80,30 +80,9 @@
     ],
     [
       {
-        "title": "Wyniki rekrutacji 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyniki%20rekrutacji%202023",
+        "title": "Donald Tusk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Tusk",
         "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dirty Dancing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dirty%20Dancing",
-        "pubdate": "Mon, 17 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Księżna Kate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksi%C4%99%C5%BCna%20Kate",
-        "pubdate": "Mon, 17 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rabka Zdrój",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rabka%20Zdr%C3%B3j",
-        "pubdate": "Mon, 17 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -115,16 +94,9 @@
     ],
     [
       {
-        "title": "Kurs USD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kurs%20USD",
+        "title": "Wyniki rekrutacji 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyniki%20rekrutacji%202023",
         "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakimowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakimowicz",
-        "pubdate": "Mon, 17 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +108,37 @@
     ],
     [
       {
-        "title": "Paweł Jóźwiak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pawe%C5%82%20J%C3%B3%C5%BAwiak",
-        "pubdate": "Mon, 17 Jul 2023 17:00:00 +0200"
+        "title": "Księżna Kate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksi%C4%99%C5%BCna%20Kate",
+        "pubdate": "Mon, 17 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dirty Dancing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dirty%20Dancing",
+        "pubdate": "Mon, 17 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rabka Zdrój",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rabka%20Zdr%C3%B3j",
+        "pubdate": "Mon, 17 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kurs USD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kurs%20USD",
+        "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ustawa Kamilka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ustawa%20Kamilka",
+        "pubdate": "Mon, 17 Jul 2023 14:00:00 +0200"
       }
     ]
   ]
