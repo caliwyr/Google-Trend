@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-07-2023 , 12:39:36",
+  "lastUpdate": "17-07-2023 , 13:06:56",
   "data": [
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wimbledon",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Cheng Li Hui",
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "Ryan Gosling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ryan%20Gosling",
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Margot%20Robbie",
         "pubdate": "Mon, 17 Jul 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bangladesh vs Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh%20vs%20Afghanistan",
-        "pubdate": "Mon, 17 Jul 2023 01:00:00 +0800"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Ryan Gosling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ryan%20Gosling",
+        "pubdate": "Mon, 17 Jul 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Mexico vs Panama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mexico%20vs%20Panama",
         "pubdate": "Mon, 17 Jul 2023 09:00:00 +0800"
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Nicole Seah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nicole%20Seah",
+        "title": "Korea Open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Korea%20Open%202023",
         "pubdate": "Mon, 17 Jul 2023 15:00:00 +0800"
       }
     ],
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Angelina%20Jolie",
-        "pubdate": "Sun, 16 Jul 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Rory McIlroy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rory%20McIlroy",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 +0800"
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wimbledon",
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Carlos%20Alcaraz",
         "pubdate": "Sat, 15 Jul 2023 20:00:00 +0800"
       }
     ],
