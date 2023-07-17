@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-07-2023 , 11:48:30",
+  "lastUpdate": "17-07-2023 , 11:58:02",
   "data": [
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carlos%20Alcaraz",
-        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Klíma",
@@ -24,15 +17,15 @@
     ],
     [
       {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
+        "title": "Daniel Craig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Daniel%20Craig",
         "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Daniel Craig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Daniel%20Craig",
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
         "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Sebeők János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebe%C5%91k%20J%C3%A1nos",
         "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alcaraz",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Kolonics György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kolonics%20Gy%C3%B6rgy",
-        "pubdate": "Sun, 16 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Denise Russo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Denise%20Russo",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
@@ -111,13 +104,6 @@
         "title": "Et",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Et",
         "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alcaraz",
-        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carlos%20Alcaraz",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Angelina Jolie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Angelina%20Jolie",
+        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steiner Kristóf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Steiner%20Krist%C3%B3f",
+        "pubdate": "Sat, 15 Jul 2023 20:00:00 +0200"
       }
     ]
   ]

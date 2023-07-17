@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-07-2023 , 11:48:32",
+  "lastUpdate": "17-07-2023 , 11:58:05",
   "data": [
-    [
-      {
-        "title": "Marijn Brouwers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijn%20Brouwers",
-        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Gold Cup",
@@ -48,13 +41,6 @@
         "title": "Xavi Simons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Xavi%20Simons",
         "pubdate": "Sun, 16 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nienke Brinkman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nienke%20Brinkman",
-        "pubdate": "Sun, 16 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Koolhof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koolhof",
+        "pubdate": "Sat, 15 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alcaraz",
         "pubdate": "Fri, 14 Jul 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
         "pubdate": "Fri, 14 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sigrid Kaag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sigrid%20Kaag",
+        "pubdate": "Thu, 13 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
