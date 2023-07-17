@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 03:49:23",
+  "lastUpdate": "17-07-2023 , 03:58:39",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "National Ice Cream Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Ice%20Cream%20Day",
-        "pubdate": "Sun, 16 Jul 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Alaska earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alaska%20earthquake",
         "pubdate": "Sun, 16 Jul 2023 08:00:00 -0700"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Canada wildfires",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canada%20wildfires",
-        "pubdate": "Sun, 16 Jul 2023 12:00:00 -0700"
+        "title": "National Ice Cream Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Ice%20Cream%20Day",
+        "pubdate": "Sun, 16 Jul 2023 06:00:00 -0700"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Jason Aldean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20Aldean",
         "pubdate": "Sun, 16 Jul 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Canada wildfires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canada%20wildfires",
+        "pubdate": "Sun, 16 Jul 2023 12:00:00 -0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Roger%20Federer",
-        "pubdate": "Sun, 16 Jul 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Saquon Barkley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saquon%20Barkley",
         "pubdate": "Sun, 16 Jul 2023 17:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Rabbit Fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rabbit%20Fire",
         "pubdate": "Sun, 16 Jul 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Bebe Rexha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bebe%20Rexha",
+        "pubdate": "Sun, 16 Jul 2023 20:00:00 -0700"
       }
     ]
   ]

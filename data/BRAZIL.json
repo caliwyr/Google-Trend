@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2023 , 03:49:24",
+  "lastUpdate": "17-07-2023 , 03:58:41",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
-        "pubdate": "Sun, 16 Jul 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Serge Gainsbourg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serge%20Gainsbourg",
         "pubdate": "Sun, 16 Jul 2023 08:00:00 -0500"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Sun, 16 Jul 2023 16:00:00 -0500"
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
+        "pubdate": "Sun, 16 Jul 2023 15:00:00 -0500"
       }
     ],
     [
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+        "pubdate": "Sun, 16 Jul 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
         "pubdate": "Sun, 16 Jul 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR",
+        "pubdate": "Sun, 16 Jul 2023 22:00:00 -0500"
       }
     ],
     [
@@ -101,9 +108,16 @@
     ],
     [
       {
+        "title": "Atlético mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20mineiro",
+        "pubdate": "Sun, 16 Jul 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ryan Gosling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ryan%20Gosling",
-        "pubdate": "Sun, 16 Jul 2023 19:00:00 -0500"
+        "pubdate": "Sun, 16 Jul 2023 20:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Panama",
-        "pubdate": "Sun, 16 Jul 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Vini Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vini%20Jr",
         "pubdate": "Sun, 16 Jul 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America",
-        "pubdate": "Sun, 16 Jul 2023 09:00:00 -0500"
       }
     ]
   ]
