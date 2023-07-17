@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-07-2023 , 10:52:45",
+  "lastUpdate": "17-07-2023 , 11:07:04",
   "data": [
+    [
+      {
+        "title": "Tour de france etape du jour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20de%20france%20etape%20du%20jour",
+        "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Vague de chaleur Europe",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wimbledon",
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alcaraz",
         "pubdate": "Sun, 16 Jul 2023 17:00:00 +0200"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Federer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Federer",
-        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florent Pagny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florent%20Pagny",
         "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ]
