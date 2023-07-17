@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-07-2023 , 09:46:11",
+  "lastUpdate": "17-07-2023 , 09:55:33",
   "data": [
-    [
-      {
-        "title": "진에어",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%84%EC%97%90%EC%96%B4",
-        "pubdate": "Mon, 17 Jul 2023 10:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "한국사능력검정시험",
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "1박2일",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#1%EB%B0%952%EC%9D%BC",
+        "title": "제헌절 공휴일",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%9C%ED%97%8C%EC%A0%88%20%EA%B3%B5%ED%9C%B4%EC%9D%BC",
         "pubdate": "Sun, 16 Jul 2023 19:00:00 +0900"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "최성봉",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EC%84%B1%EB%B4%89",
         "pubdate": "Fri, 14 Jul 2023 11:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "폴란드",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8F%B4%EB%9E%80%EB%93%9C",
+        "pubdate": "Fri, 14 Jul 2023 09:00:00 +0900"
       }
     ]
   ]
