@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-07-2023 , 09:50:28",
+  "lastUpdate": "18-07-2023 , 09:59:46",
   "data": [
     [
       {
@@ -61,7 +61,14 @@
       {
         "title": "Straits Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Straits%20Times",
-        "pubdate": "Mon, 17 Jul 2023 20:00:00 +0800"
+        "pubdate": "Mon, 17 Jul 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Channel News Asia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Channel%20News%20Asia",
+        "pubdate": "Mon, 17 Jul 2023 16:00:00 +0800"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Singapore politics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20politics",
-        "pubdate": "Mon, 17 Jul 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "How do you live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#How%20do%20you%20live",
         "pubdate": "Mon, 17 Jul 2023 13:00:00 +0800"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Roger%20Federer",
-        "pubdate": "Mon, 17 Jul 2023 18:00:00 +0800"
+        "title": "Straits Times Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Straits%20Times%20Singapore",
+        "pubdate": "Mon, 17 Jul 2023 20:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Hk Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hk%20Typhoon",
+        "title": "Roger Federer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Roger%20Federer",
         "pubdate": "Mon, 17 Jul 2023 18:00:00 +0800"
       }
     ]
