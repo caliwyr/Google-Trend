@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-07-2023 , 02:51:40",
+  "lastUpdate": "18-07-2023 , 03:16:35",
   "data": [
-    [
-      {
-        "title": "Barbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barbie",
-        "pubdate": "Mon, 17 Jul 2023 13:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Deportivo Pereira  Deportivo Cali",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Barbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barbie",
+        "pubdate": "Mon, 17 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Al%20Nassr",
         "pubdate": "Mon, 17 Jul 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sofia Vergara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sofia%20Vergara",
+        "pubdate": "Mon, 17 Jul 2023 20:00:00 -0500"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Stradivarius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Stradivarius",
         "pubdate": "Mon, 17 Jul 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Desfile 20 de julio 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Desfile%2020%20de%20julio%202023",
-        "pubdate": "Mon, 17 Jul 2023 10:00:00 -0500"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Joe Manganiello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Joe%20Manganiello",
-        "pubdate": "Mon, 17 Jul 2023 20:00:00 -0500"
+        "title": "Reduccion jornada laboral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Reduccion%20jornada%20laboral",
+        "pubdate": "Mon, 17 Jul 2023 17:00:00 -0500"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Nimona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nimona",
         "pubdate": "Mon, 17 Jul 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Reduccion jornada laboral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Reduccion%20jornada%20laboral",
-        "pubdate": "Mon, 17 Jul 2023 17:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Margot%20Robbie",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "América  Tolima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Am%C3%A9rica%20%20Tolima",
+        "pubdate": "Sun, 16 Jul 2023 17:00:00 -0500"
       }
     ]
   ]

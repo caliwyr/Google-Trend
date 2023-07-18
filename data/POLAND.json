@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-07-2023 , 02:51:45",
+  "lastUpdate": "18-07-2023 , 03:16:41",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Most Krymski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Most%20Krymski",
-        "pubdate": "Mon, 17 Jul 2023 08:00:00 +0200"
+        "title": "Atak na Most Krymski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Atak%20na%20Most%20Krymski",
+        "pubdate": "Tue, 18 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Cessna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cessna",
-        "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Przesmyk suwalski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przesmyk%20suwalski",
         "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ariana%20Grande",
         "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cessna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cessna",
+        "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,22 +66,8 @@
     ],
     [
       {
-        "title": "Siatkówka Polska - USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siatk%C3%B3wka%20Polska%20-%20USA",
-        "pubdate": "Mon, 17 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oriol Romeu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oriol%20Romeu",
-        "pubdate": "Mon, 17 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maria Sadowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Sadowska",
         "pubdate": "Mon, 17 Jul 2023 13:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Al-Nassr",
         "pubdate": "Mon, 17 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kurs USD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kurs%20USD",
+        "pubdate": "Mon, 17 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CBOS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CBOS",
+        "pubdate": "Mon, 17 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
