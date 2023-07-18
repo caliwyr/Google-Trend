@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-07-2023 , 22:44:32",
+  "lastUpdate": "18-07-2023 , 22:53:55",
   "data": [
-    [
-      {
-        "title": "Carola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola",
-        "pubdate": "Tue, 18 Jul 2023 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ymer",
@@ -24,23 +17,9 @@
     ],
     [
       {
-        "title": "Daniella Hemsleys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniella%20Hemsleys",
-        "pubdate": "Tue, 18 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonny Evans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonny%20Evans",
-        "pubdate": "Tue, 18 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BK Häcken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BK%20H%C3%A4cken",
-        "pubdate": "Tue, 18 Jul 2023 23:00:00 +0200"
+        "pubdate": "Tue, 18 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -48,6 +27,13 @@
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Tue, 18 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonny Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonny%20Evans",
+        "pubdate": "Tue, 18 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,13 +73,6 @@
     ],
     [
       {
-        "title": "Gothia Cup 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gothia%20Cup%202023",
-        "pubdate": "Mon, 17 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Leo Borg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
         "pubdate": "Mon, 17 Jul 2023 18:00:00 +0200"
@@ -101,8 +80,22 @@
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
+        "title": "Marcus och Martinus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20och%20Martinus",
+        "pubdate": "Mon, 17 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Mon, 17 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tareq Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
         "pubdate": "Mon, 17 Jul 2023 20:00:00 +0200"
       }
     ],
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Marcus Martinus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Martinus",
+        "title": "Oriol Romeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oriol%20Romeu",
         "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Elfsborg mot IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20mot%20IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 16 Jul 2023 17:00:00 +0200"
       }
     ]
   ]
