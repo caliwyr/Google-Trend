@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-07-2023 , 04:47:11",
+  "lastUpdate": "18-07-2023 , 04:56:33",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Charlotte Gainsbourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlotte%20Gainsbourg",
+        "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bobcat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bobcat",
         "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "In Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#In%20Time",
+        "title": "In TIME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#In%20TIME",
         "pubdate": "Sun, 16 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
-        "pubdate": "Sun, 16 Jul 2023 14:00:00 +0200"
       }
     ]
   ]
