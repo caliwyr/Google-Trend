@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2023 , 08:47:19",
+  "lastUpdate": "19-07-2023 , 08:56:46",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Thapelo Maseko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thapelo%20Maseko",
+        "pubdate": "Tue, 18 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nelson Mandela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nelson%20Mandela",
         "pubdate": "Mon, 17 Jul 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "The Flash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Flash",
         "pubdate": "Mon, 17 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cat",
-        "pubdate": "Mon, 17 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
