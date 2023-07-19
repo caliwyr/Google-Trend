@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2023 , 16:51:12",
+  "lastUpdate": "19-07-2023 , 17:00:53",
   "data": [
     [
       {
@@ -59,15 +59,15 @@
     ],
     [
       {
-        "title": "Río atmosférico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20atmosf%C3%A9rico",
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
         "pubdate": "Tue, 18 Jul 2023 20:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
+        "title": "Río atmosférico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20atmosf%C3%A9rico",
         "pubdate": "Tue, 18 Jul 2023 20:00:00 -0400"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celta%20de%20Vigo",
-        "pubdate": "Tue, 18 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
         "pubdate": "Tue, 18 Jul 2023 18:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Bigotes Gran Hermano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bigotes%20Gran%20Hermano",
         "pubdate": "Tue, 18 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Temblor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 -0400"
       }
     ]
   ]
