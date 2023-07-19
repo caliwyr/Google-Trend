@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-07-2023 , 06:41:06",
+  "lastUpdate": "19-07-2023 , 06:50:13",
   "data": [
     [
       {
         "title": "Zorgtoeslag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zorgtoeslag",
         "pubdate": "Wed, 19 Jul 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GLS",
-        "pubdate": "Wed, 19 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "VanMoof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VanMoof",
+        "title": "GLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GLS",
+        "pubdate": "Wed, 19 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Van moof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20moof",
         "pubdate": "Tue, 18 Jul 2023 10:00:00 +0200"
       }
     ],
@@ -69,13 +69,6 @@
         "title": "Marielle Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marielle%20Paul",
         "pubdate": "Tue, 18 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sofia Vergara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sofia%20Vergara",
-        "pubdate": "Tue, 18 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jane Birkin overleden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jane%20Birkin%20overleden",
         "pubdate": "Sun, 16 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wout Poels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20Poels",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
