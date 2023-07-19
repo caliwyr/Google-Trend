@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-07-2023 , 18:48:17",
+  "lastUpdate": "19-07-2023 , 18:57:43",
   "data": [
     [
       {
         "title": "Manchester United  Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20%20Lyon",
         "pubdate": "Wed, 19 Jul 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Karlsruher  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karlsruher%20%20Liverpool",
+        "pubdate": "Wed, 19 Jul 2023 13:00:00 -0400"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Karlsruher  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karlsruher%20%20Liverpool",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Wed, 19 Jul 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Red de Protección Social",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Red%20de%20Protecci%C3%B3n%20Social",
+        "pubdate": "Wed, 19 Jul 2023 03:00:00 -0400"
       }
     ],
     [
@@ -55,6 +69,13 @@
         "title": "DirecTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DirecTV",
         "pubdate": "Tue, 18 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Copa Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Chile",
+        "pubdate": "Tue, 18 Jul 2023 22:00:00 -0400"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Deportes La Serena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20La%20Serena",
         "pubdate": "Tue, 18 Jul 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Estudiantes  Barcelona SC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estudiantes%20%20Barcelona%20SC",
-        "pubdate": "Tue, 18 Jul 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
-        "pubdate": "Tue, 18 Jul 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bigotes Gran Hermano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bigotes%20Gran%20Hermano",
-        "pubdate": "Tue, 18 Jul 2023 14:00:00 -0400"
       }
     ]
   ]
