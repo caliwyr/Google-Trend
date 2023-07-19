@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2023 , 19:50:05",
+  "lastUpdate": "19-07-2023 , 19:59:22",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0200"
+        "title": "Brigitte Bardot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brigitte%20Bardot",
+        "pubdate": "Wed, 19 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20munchen",
-        "pubdate": "Tue, 18 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lars van den Berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lars%20van%20den%20Berg",
         "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La Palma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#La%20Palma",
+        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
