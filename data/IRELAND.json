@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 03:42:49",
+  "lastUpdate": "20-07-2023 , 03:52:02",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Coldplay Dublin 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Coldplay%20Dublin%202024",
-        "pubdate": "Wed, 19 Jul 2023 13:00:00 +0100"
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Coldplay",
+        "pubdate": "Wed, 19 Jul 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karlsruher vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Karlsruher%20vs%20Liverpool",
+        "pubdate": "Wed, 19 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Women's World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Women's%20World%20Cup",
+        "title": "Women's World Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Women's%20World%20Cup%202023",
         "pubdate": "Wed, 19 Jul 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Karlsruher vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Karlsruher%20vs%20Liverpool",
-        "pubdate": "Wed, 19 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20FC",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea",
         "pubdate": "Wed, 19 Jul 2023 18:00:00 +0100"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Barbie Reviews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barbie%20Reviews",
+        "title": "Barbie reviews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barbie%20reviews",
         "pubdate": "Wed, 19 Jul 2023 10:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Ballybrack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ballybrack",
         "pubdate": "Wed, 19 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Australia vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Australia%20vs%20England",
+        "pubdate": "Wed, 19 Jul 2023 13:00:00 +0100"
       }
     ]
   ]
