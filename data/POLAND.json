@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-07-2023 , 23:41:51",
+  "lastUpdate": "20-07-2023 , 23:51:18",
   "data": [
+    [
+      {
+        "title": "TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
+        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "The Elder Scrolls Online",
@@ -20,13 +27,6 @@
         "title": "Viaplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Viaplay",
         "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fame MMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fame%20MMA",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Jarosław Jakimowicz TVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Jakimowicz%20TVP",
-        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Maryla Rodowicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
         "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
@@ -76,6 +69,13 @@
         "title": "UW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UW",
         "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fame Friday Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fame%20Friday%20Arena",
+        "pubdate": "Thu, 20 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Lwica w Berlinie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lwica%20w%20Berlinie",
+        "title": "Lwica W Berlinie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lwica%20W%20Berlinie",
         "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
       }
     ],
@@ -111,6 +111,13 @@
         "title": "Joanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna",
         "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jarosław Jakimowicz TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Jakimowicz%20TVP",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "JSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#JSW",
         "pubdate": "Thu, 20 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tauron Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tauron%20Arena",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
