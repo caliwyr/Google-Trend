@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-07-2023 , 09:42:45",
+  "lastUpdate": "20-07-2023 , 09:51:56",
   "data": [
+    [
+      {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coldplay",
+        "pubdate": "Thu, 20 Jul 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Loto du 19 juillet 2023",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Coldplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coldplay",
-        "pubdate": "Thu, 20 Jul 2023 09:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
+        "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Margot%20Robbie",
-        "pubdate": "Wed, 19 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brigitte Bardot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Bardot",
         "pubdate": "Wed, 19 Jul 2023 16:00:00 +0200"
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Les Visiteurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Visiteurs",
+        "title": "Les visiteurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20visiteurs",
         "pubdate": "Wed, 19 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Bernard d'Ormale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20d'Ormale",
+        "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mahrez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mahrez",
         "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Oriol Romeu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oriol%20Romeu",
         "pubdate": "Wed, 19 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cavaillon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cavaillon",
-        "pubdate": "Wed, 19 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
