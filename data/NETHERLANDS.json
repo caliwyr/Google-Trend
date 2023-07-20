@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-07-2023 , 06:48:37",
+  "lastUpdate": "20-07-2023 , 06:57:57",
   "data": [
+    [
+      {
+        "title": "WK vrouwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20vrouwen",
+        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Salvator mundi",
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Wed, 19 Jul 2023 18:00:00 +0200"
+        "title": "Van moof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20moof",
+        "pubdate": "Tue, 18 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tennis",
         "pubdate": "Sun, 16 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
-        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
