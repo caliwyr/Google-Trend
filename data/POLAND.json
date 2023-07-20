@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "20-07-2023 , 07:43:24",
+  "lastUpdate": "20-07-2023 , 07:52:42",
   "data": [
     [
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
-        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maryla Rodowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
         "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
       }
     ],
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Legnica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legnica",
-        "pubdate": "Wed, 19 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jakub Banaś",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20Bana%C5%9B",
         "pubdate": "Wed, 19 Jul 2023 12:00:00 +0200"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Wypadek Legnica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wypadek%20Legnica",
+        "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wyniki Lotto 18.07 23",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyniki%20Lotto%2018.07%2023",
         "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
+        "pubdate": "Wed, 19 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Maja Hyży",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maja%20Hy%C5%BCy",
-        "pubdate": "Wed, 19 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Małgorzata Rozenek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Rozenek",
         "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Marianna Linde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marianna%20Linde",
+        "title": "Kocanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kocanka",
         "pubdate": "Wed, 19 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lukaku",
+        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
