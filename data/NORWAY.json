@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 16:46:17",
+  "lastUpdate": "20-07-2023 , 16:55:32",
   "data": [
     [
       {
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "The open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20open%202023",
+        "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Thu, 20 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malakoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Malakoff",
+        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonas Abrahamsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Abrahamsen",
+        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -48,6 +69,13 @@
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Thu, 20 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roald Dahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roald%20Dahl",
+        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Lillestrøm mot Aalesund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m%20mot%20Aalesund",
-        "pubdate": "Wed, 19 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lom",
         "pubdate": "Wed, 19 Jul 2023 13:00:00 +0200"
@@ -117,27 +138,6 @@
       {
         "title": "VM fotball kvinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VM%20fotball%20kvinner",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kronprins Haakon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kronprins%20Haakon",
-        "pubdate": "Wed, 19 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "fotball-VM kvinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#fotball-VM%20kvinner",
-        "pubdate": "Wed, 19 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fugleinfluensa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fugleinfluensa",
         "pubdate": "Wed, 19 Jul 2023 20:00:00 +0200"
       }
     ]

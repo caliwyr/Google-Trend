@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-07-2023 , 16:46:14",
+  "lastUpdate": "20-07-2023 , 16:55:29",
   "data": [
-    [
-      {
-        "title": "Balaton-átúszás 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton-%C3%A1t%C3%BAsz%C3%A1s%202023",
-        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "MLS all-stars–arsenal",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Thu, 20 Jul 2023 10:00:00 +0200"
+        "title": "Balaton-átúszás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton-%C3%A1t%C3%BAsz%C3%A1s",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+        "pubdate": "Thu, 20 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Orbán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n",
         "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fradi.hu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fradi.hu",
+        "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -82,7 +89,7 @@
       {
         "title": "Tóth Amarissa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Amarissa",
-        "pubdate": "Wed, 19 Jul 2023 13:00:00 +0200"
+        "pubdate": "Wed, 19 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Campus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Campus",
         "pubdate": "Wed, 19 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonas Vingegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jonas%20Vingegaard",
-        "pubdate": "Wed, 19 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
