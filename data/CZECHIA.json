@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 20:45:27",
+  "lastUpdate": "20-07-2023 , 20:55:03",
   "data": [
     [
       {
@@ -52,23 +52,16 @@
     ],
     [
       {
+        "title": "Horečka Dengue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hore%C4%8Dka%20Dengue",
+        "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ewa Farna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ewa%20Farna",
         "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Mitnick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kevin%20Mitnick",
-        "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
-        "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,23 +73,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
-        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fantasy liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fantasy%20liga",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Horečka dengue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hore%C4%8Dka%20dengue",
-        "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
+        "title": "Kevin Mitnick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kevin%20Mitnick",
+        "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -108,8 +87,15 @@
     ],
     [
       {
-        "title": "Tomáš Měcháček",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20M%C4%9Bch%C3%A1%C4%8Dek",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
         "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ronaldo",
         "pubdate": "Wed, 19 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pavel Kohout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Kohout",
+        "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rusko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
+        "pubdate": "Wed, 19 Jul 2023 11:00:00 +0200"
       }
     ]
   ]

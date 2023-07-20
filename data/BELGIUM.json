@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 20:45:26",
+  "lastUpdate": "20-07-2023 , 20:55:02",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Fete nationale belge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20nationale%20belge",
-        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
+        "title": "Accident Tournai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20Tournai",
+        "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Accident Tournai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20Tournai",
-        "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
+        "title": "Fete nationale belge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20nationale%20belge",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Lucinda Brand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lucinda%20Brand",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "WK vrouwenvoetbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20vrouwenvoetbal",
-        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frans Timmermans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frans%20Timmermans",
         "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
@@ -87,9 +87,16 @@
     ],
     [
       {
-        "title": "Gabriel Attal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gabriel%20Attal",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
+        "title": "WK vrouwenvoetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20vrouwenvoetbal",
+        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Diablo 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diablo%204",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Lac du Bourget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lac%20du%20Bourget",
-        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernard d'Ormale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20d'Ormale",
-        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hopman Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hopman%20Cup",
         "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Dendermonde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dendermonde",
-        "pubdate": "Thu, 20 Jul 2023 00:00:00 +0200"
+        "title": "Lac du Bourget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lac%20du%20Bourget",
+        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Leeuwin Berlijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leeuwin%20Berlijn",
         "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dendermonde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dendermonde",
+        "pubdate": "Thu, 20 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
