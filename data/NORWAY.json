@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 18:49:07",
+  "lastUpdate": "21-07-2023 , 18:58:15",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Ringebu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ringebu",
         "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Diamond League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League",
+        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,6 +80,20 @@
     ],
     [
       {
+        "title": "Thor Hushovd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thor%20Hushovd",
+        "pubdate": "Thu, 20 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magnus Warming",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Warming",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Thu, 20 Jul 2023 17:00:00 +0200"
@@ -83,13 +104,6 @@
         "title": "Jonas Abrahamsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Abrahamsen",
         "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniella Hemsley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniella%20Hemsley",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Løve Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#L%C3%B8ve%20Berlin",
         "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roald Dahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roald%20Dahl",
-        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Australia",
-        "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
