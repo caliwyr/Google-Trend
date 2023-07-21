@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 03:52:44",
+  "lastUpdate": "21-07-2023 , 04:08:47",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Zwarte Cross",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zwarte%20Cross",
-        "pubdate": "Thu, 20 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WK vrouwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20vrouwen",
         "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
@@ -34,13 +27,6 @@
         "title": "Wout van Aert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20van%20Aert",
         "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leeuwin Berlijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leeuwin%20Berlijn",
-        "pubdate": "Thu, 20 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -62,6 +48,13 @@
         "title": "WK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK",
         "pubdate": "Thu, 20 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Berlijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Berlijn",
+        "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Xavi Simons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Xavi%20Simons",
         "pubdate": "Sun, 16 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tennis",
+        "pubdate": "Sun, 16 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
