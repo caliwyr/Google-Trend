@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 10:49:57",
+  "lastUpdate": "21-07-2023 , 10:59:22",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Péterfy Bori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A9terfy%20Bori",
-        "pubdate": "Fri, 21 Jul 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1 Hungaroring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Hungaroring",
         "pubdate": "Fri, 21 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Magyar Nagydíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Nagyd%C3%ADj",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -48,6 +34,13 @@
         "title": "Váci Világi Vigalom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1ci%20Vil%C3%A1gi%20Vigalom",
         "pubdate": "Fri, 21 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula%201",
+        "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Bruce Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Lee",
-        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
+        "title": "Dolph Lundgren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dolph%20Lundgren",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dolph Lundgren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dolph%20Lundgren",
-        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
+        "title": "Bruce Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Lee",
+        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Orbán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n",
+        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Mitnick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kevin%20Mitnick",
         "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
       }
     ]

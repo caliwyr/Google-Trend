@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 10:50:06",
+  "lastUpdate": "21-07-2023 , 10:59:27",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "청림",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%AD%EB%A6%BC",
+        "pubdate": "Thu, 20 Jul 2023 17:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "이터널리턴",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%84%B0%EB%84%90%EB%A6%AC%ED%84%B4",
         "pubdate": "Thu, 20 Jul 2023 17:00:00 +0900"
       }
     ],
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "이터널 리턴",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%84%B0%EB%84%90%20%EB%A6%AC%ED%84%B4",
-        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0900"
+        "title": "김남국",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%82%A8%EA%B5%AD",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "토트넘",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98",
         "pubdate": "Tue, 18 Jul 2023 19:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "추자현",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%94%EC%9E%90%ED%98%84",
-        "pubdate": "Tue, 18 Jul 2023 00:00:00 +0900"
       }
     ]
   ]
