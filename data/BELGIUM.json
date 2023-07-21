@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "21-07-2023 , 02:47:01",
+  "lastUpdate": "21-07-2023 , 02:56:18",
   "data": [
     [
       {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al%20Nassr",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Bruel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Bruel",
         "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ],
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Patrick Bruel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Bruel",
+        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kevin Mitnick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kevin%20Mitnick",
         "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Brocante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brocante",
-        "pubdate": "Fri, 21 Jul 2023 01:00:00 +0200"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica",
+        "pubdate": "Fri, 21 Jul 2023 03:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica",
-        "pubdate": "Fri, 21 Jul 2023 03:00:00 +0200"
+        "title": "Brocante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brocante",
+        "pubdate": "Fri, 21 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Accident Tournai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20Tournai",
         "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pixel War",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pixel%20War",
+        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Sam Baro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sam%20Baro",
-        "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "r/Place",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#r/Place",
-        "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frans Timmermans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frans%20Timmermans",
         "pubdate": "Thu, 20 Jul 2023 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Kramer vs Kramer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kramer%20vs%20Kramer",
         "pubdate": "Thu, 20 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WK vrouwenvoetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20vrouwenvoetbal",
+        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
