@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 07:42:09",
+  "lastUpdate": "21-07-2023 , 07:51:34",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Mika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mika",
         "pubdate": "Fri, 21 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brocante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brocante",
-        "pubdate": "Fri, 21 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Drapeau belge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Drapeau%20belge",
-        "pubdate": "Fri, 21 Jul 2023 08:00:00 +0200"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
+        "pubdate": "Fri, 21 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Fête nationale de la Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F%C3%AAte%20nationale%20de%20la%20Belgique",
+        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wout van Aert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
         "pubdate": "Thu, 20 Jul 2023 17:00:00 +0200"
@@ -66,9 +66,23 @@
     ],
     [
       {
-        "title": "Fête nationale de la belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F%C3%AAte%20nationale%20de%20la%20belgique",
-        "pubdate": "Thu, 20 Jul 2023 16:00:00 +0200"
+        "title": "Bourg-en-Bresse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bourg-en-Bresse",
+        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pixel War",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pixel%20War",
+        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fete nationale belge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20nationale%20belge",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,20 +108,6 @@
     ],
     [
       {
-        "title": "Pixel War",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pixel%20War",
-        "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fete nationale belge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20nationale%20belge",
-        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Maarten Bosmans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maarten%20Bosmans",
         "pubdate": "Thu, 20 Jul 2023 21:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Royal Swans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Royal%20Swans",
-        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
+        "title": "Leeuwin Berlijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leeuwin%20Berlijn",
+        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Leeuwin Berlijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leeuwin%20Berlijn",
+        "title": "Van Aert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Aert",
         "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ]
