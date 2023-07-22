@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 05:44:20",
+  "lastUpdate": "22-07-2023 , 05:53:42",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "PSG – Le Havre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Le%20Havre",
-        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Monica Lewinsky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Monica%20Lewinsky",
         "pubdate": "Fri, 21 Jul 2023 14:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Berlin lion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Berlin%20lion",
         "pubdate": "Thu, 20 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
+        "pubdate": "Thu, 20 Jul 2023 19:00:00 +0300"
       }
     ]
   ]
