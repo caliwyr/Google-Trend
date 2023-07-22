@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 03:46:22",
+  "lastUpdate": "22-07-2023 , 03:55:37",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Daan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daan",
+        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ozark Henry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozark%20Henry",
         "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Daan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daan",
-        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
+        "title": "Tomorrowland live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tomorrowland%20live",
+        "pubdate": "Fri, 21 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Hamza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hamza",
-        "pubdate": "Fri, 21 Jul 2023 23:00:00 +0200"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Miami",
+        "pubdate": "Fri, 21 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -97,20 +104,6 @@
         "title": "Jasper Philipsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jasper%20Philipsen",
         "pubdate": "Fri, 21 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Miami",
-        "pubdate": "Fri, 21 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Chainsmokers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Chainsmokers",
-        "pubdate": "Fri, 21 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
         "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spar",
+        "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
