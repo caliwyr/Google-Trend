@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 11:47:56",
+  "lastUpdate": "22-07-2023 , 11:57:14",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
-        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hungaroring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hungaroring",
         "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Tony Bennett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tony%20Bennett",
-        "pubdate": "Fri, 21 Jul 2023 16:00:00 +0200"
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
+        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Bertók Krisztina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bert%C3%B3k%20Krisztina",
         "pubdate": "Fri, 21 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tony Bennett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tony%20Bennett",
+        "pubdate": "Fri, 21 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Oppenheimer Robert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oppenheimer%20Robert",
+        "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Muveszetek volgye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Muveszetek%20volgye",
+        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Váci Világi Vigalom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1ci%20Vil%C3%A1gi%20Vigalom",
         "pubdate": "Fri, 21 Jul 2023 09:00:00 +0200"
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Kocsis Máté",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20M%C3%A1t%C3%A9",
-        "pubdate": "Fri, 21 Jul 2023 15:00:00 +0200"
+        "title": "F1 Hungaroring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Hungaroring",
+        "pubdate": "Fri, 21 Jul 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "F1 Hungaroring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Hungaroring",
-        "pubdate": "Fri, 21 Jul 2023 08:00:00 +0200"
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Fri, 21 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alonso",
-        "pubdate": "Fri, 21 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Fri, 21 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Greta gerwig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Greta%20gerwig",
         "pubdate": "Fri, 21 Jul 2023 14:00:00 +0200"
       }
     ]
