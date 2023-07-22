@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 20:48:53",
+  "lastUpdate": "22-07-2023 , 20:58:14",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Jamie Foxx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jamie%20Foxx",
+        "pubdate": "Sat, 22 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ane Dahl Torp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ane%20Dahl%20Torp",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Norway Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norway%20Cup",
         "pubdate": "Fri, 21 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Onana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Onana",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
