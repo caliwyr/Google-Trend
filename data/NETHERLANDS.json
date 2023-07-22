@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 02:51:10",
+  "lastUpdate": "22-07-2023 , 03:00:39",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bonnie St. Claire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bonnie%20St.%20Claire",
+        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dacia",
         "pubdate": "Fri, 21 Jul 2023 15:00:00 +0200"
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Poligny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Poligny",
-        "pubdate": "Fri, 21 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mohoric",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mohoric",
         "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jinek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jinek",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lars van den Berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lars%20van%20den%20Berg",
         "pubdate": "Mon, 17 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alcaraz",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
