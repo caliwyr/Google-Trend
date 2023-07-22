@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-07-2023 , 14:43:42",
+  "lastUpdate": "22-07-2023 , 14:52:54",
   "data": [
+    [
+      {
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sat, 22 Jul 2023 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lana Del Rey",
@@ -13,6 +20,13 @@
         "title": "Right to Dream",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Right%20to%20Dream",
         "pubdate": "Sat, 22 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Sat, 22 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Tony Bennett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Bennett",
-        "pubdate": "Fri, 21 Jul 2023 15:00:00 +0200"
+        "title": "Allsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
+        "pubdate": "Fri, 21 Jul 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Allsvenskan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
-        "pubdate": "Fri, 21 Jul 2023 23:00:00 +0200"
+        "title": "Tony Bennett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Bennett",
+        "pubdate": "Fri, 21 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Kosovare Asllani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kosovare%20Asllani",
-        "pubdate": "Fri, 21 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ethan Slater",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ethan%20Slater",
         "pubdate": "Fri, 21 Jul 2023 11:00:00 +0200"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Kai Rooney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kai%20Rooney",
-        "pubdate": "Fri, 21 Jul 2023 13:00:00 +0200"
+        "title": "Kosovare Asllani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kosovare%20Asllani",
+        "pubdate": "Fri, 21 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
         "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Thu, 20 Jul 2023 02:00:00 +0200"
       }
     ]
   ]

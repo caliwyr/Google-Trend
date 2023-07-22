@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2023 , 14:43:38",
+  "lastUpdate": "22-07-2023 , 14:52:51",
   "data": [
     [
       {
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "Ashes score",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20score",
+        "title": "Ashes Score",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20Score",
         "pubdate": "Sat, 22 Jul 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Legend",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Legend",
+        "pubdate": "Sat, 22 Jul 2023 23:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dennis Rodman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dennis%20Rodman",
         "pubdate": "Sat, 22 Jul 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
-        "pubdate": "Fri, 21 Jul 2023 14:00:00 +1200"
       }
     ]
   ]
