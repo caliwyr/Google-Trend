@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "22-07-2023 , 22:46:26",
+  "lastUpdate": "22-07-2023 , 22:55:40",
   "data": [
+    [
+      {
+        "title": "Barcelona–juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93juventus",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jamie Foxx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jamie%20Foxx",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Orbán Viktor",
@@ -48,6 +62,13 @@
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Selena%20Gomez",
         "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hamilton",
+        "pubdate": "Sat, 22 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Bertók Krisztina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bert%C3%B3k%20Krisztina",
-        "pubdate": "Fri, 21 Jul 2023 19:00:00 +0200"
+        "title": "Hungaroring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hungaroring",
+        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Forma-1 Magyar Nagydíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forma-1%20Magyar%20Nagyd%C3%ADj",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hungaroring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hungaroring",
-        "pubdate": "Fri, 21 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
-        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tony Bennett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tony%20Bennett",
-        "pubdate": "Fri, 21 Jul 2023 16:00:00 +0200"
+        "title": "Bertók Krisztina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bert%C3%B3k%20Krisztina",
+        "pubdate": "Fri, 21 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
