@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-07-2023 , 01:43:50",
+  "lastUpdate": "23-07-2023 , 02:30:44",
   "data": [
-    [
-      {
-        "title": "Zodiac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zodiac",
-        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "UFC",
@@ -17,9 +10,23 @@
     ],
     [
       {
-        "title": "Arsenal – manu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20manu",
+        "title": "Arsenal – ManU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20ManU",
         "pubdate": "Sun, 23 Jul 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zodiac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zodiac",
+        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zodiac Killer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zodiac%20Killer",
+        "pubdate": "Sun, 23 Jul 2023 02:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kalle Rovanperä",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kalle%20Rovanper%C3%A4",
         "pubdate": "Fri, 21 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Oppenheimer arvostelu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer%20arvostelu",
-        "pubdate": "Fri, 21 Jul 2023 15:00:00 +0300"
       }
     ]
   ]
