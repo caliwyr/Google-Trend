@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 16:42:09",
+  "lastUpdate": "23-07-2023 , 16:51:23",
   "data": [
     [
       {
@@ -31,8 +31,22 @@
     ],
     [
       {
+        "title": "Nicolas Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nicolas%20Jackson",
+        "pubdate": "Sun, 23 Jul 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dog",
+        "pubdate": "Sun, 23 Jul 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0100"
       }
     ],
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Nkunku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nkunku",
-        "pubdate": "Sun, 23 Jul 2023 11:00:00 +0100"
+        "title": "Big Brother Naija",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Big%20Brother%20Naija",
+        "pubdate": "Sun, 23 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Haiti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Haiti",
         "pubdate": "Sat, 22 Jul 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anderlecht vs Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Anderlecht%20vs%20Ajax",
+        "pubdate": "Sat, 22 Jul 2023 14:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Brymo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brymo",
         "pubdate": "Sat, 22 Jul 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Selena%20Gomez",
-        "pubdate": "Sat, 22 Jul 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Akeredolu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Akeredolu",
-        "pubdate": "Sat, 22 Jul 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Man%20United",
-        "pubdate": "Fri, 21 Jul 2023 21:00:00 +0100"
       }
     ]
   ]

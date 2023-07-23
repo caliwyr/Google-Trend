@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-07-2023 , 16:42:00",
+  "lastUpdate": "23-07-2023 , 16:51:18",
   "data": [
     [
       {
         "title": "Jiří Vaněk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Van%C4%9Bk",
         "pubdate": "Sun, 23 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liberec – Baník",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Ban%C3%ADk",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lewis%20Hamilton",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
+        "title": "Boleslav – Jablonec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Jablonec",
+        "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Burna Boy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Burna%20Boy",
         "pubdate": "Sat, 22 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Teplice – Plzeň",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Plze%C5%88",
+        "pubdate": "Sat, 22 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Formule 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
+        "pubdate": "Sat, 22 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Patriot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patriot",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
@@ -97,20 +118,6 @@
         "title": "Karviná – Zlín",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Zl%C3%ADn",
         "pubdate": "Sat, 22 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
-        "pubdate": "Sat, 22 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Viktoria Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
-        "pubdate": "Sat, 22 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG",
         "pubdate": "Sat, 22 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MLS",
-        "pubdate": "Sat, 22 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
