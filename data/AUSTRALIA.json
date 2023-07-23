@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 17:44:51",
+  "lastUpdate": "23-07-2023 , 17:54:06",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Dancing With The Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dancing%20With%20The%20Stars",
-        "pubdate": "Sun, 23 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Marnus Labuschagne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marnus%20Labuschagne",
         "pubdate": "Sun, 23 Jul 2023 06:00:00 +1000"
@@ -52,15 +45,8 @@
     ],
     [
       {
-        "title": "Swimming world championships",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swimming%20world%20championships",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "France vs Jamaica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#France%20vs%20Jamaica",
+        "title": "Dancing With The Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dancing%20With%20The%20Stars",
         "pubdate": "Sun, 23 Jul 2023 20:00:00 +1000"
       }
     ],
@@ -73,9 +59,23 @@
     ],
     [
       {
+        "title": "Panthers vs Bulldogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panthers%20vs%20Bulldogs",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Rhodes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rhodes",
         "pubdate": "Sun, 23 Jul 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Swimming World Championships",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swimming%20World%20Championships",
+        "pubdate": "Sun, 23 Jul 2023 19:00:00 +1000"
       }
     ],
     [
@@ -97,6 +97,13 @@
         "title": "Willie Rioli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Willie%20Rioli",
         "pubdate": "Sun, 23 Jul 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "World swimming championships",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#World%20swimming%20championships",
+        "pubdate": "Sun, 23 Jul 2023 21:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "St Kilda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#St%20Kilda",
         "pubdate": "Sun, 23 Jul 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Selena%20Gomez",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +1000"
       }
     ]
   ]
