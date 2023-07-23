@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 07:47:45",
+  "lastUpdate": "23-07-2023 , 07:57:10",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Barbie box office",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barbie%20box%20office",
-        "pubdate": "Sat, 22 Jul 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Selena%20Gomez",
         "pubdate": "Sat, 22 Jul 2023 13:00:00 -0700"
@@ -62,13 +55,6 @@
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kamala%20Harris",
         "pubdate": "Sat, 22 Jul 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Sal Frelick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sal%20Frelick",
-        "pubdate": "Sat, 22 Jul 2023 20:00:00 -0700"
       }
     ],
     [
@@ -94,9 +80,23 @@
     ],
     [
       {
-        "title": "Molly McCann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Molly%20McCann",
-        "pubdate": "Sat, 22 Jul 2023 22:00:00 -0700"
+        "title": "Cole Beasley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cole%20Beasley",
+        "pubdate": "Sat, 22 Jul 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mortal Kombat 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mortal%20Kombat%201",
+        "pubdate": "Sat, 22 Jul 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Oppenheimer box office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oppenheimer%20box%20office",
+        "pubdate": "Sat, 22 Jul 2023 20:00:00 -0700"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "USWNT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USWNT",
+        "title": "USA vs Vietnam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Vietnam",
         "pubdate": "Fri, 21 Jul 2023 16:00:00 -0700"
       }
     ],
