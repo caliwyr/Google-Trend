@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 03:46:40",
+  "lastUpdate": "23-07-2023 , 03:55:52",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Nova Zelândia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nova%20Zel%C3%A2ndia",
-        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gremio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
         "pubdate": "Sun, 23 Jul 2023 01:00:00 +0100"
@@ -31,16 +24,9 @@
     ],
     [
       {
-        "title": "Bahia x Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bahia%20x%20Corinthians",
-        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
-        "pubdate": "Sat, 22 Jul 2023 18:00:00 +0100"
+        "title": "Nova Zelândia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nova%20Zel%C3%A2ndia",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0100"
       }
     ],
     [
@@ -48,6 +34,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
         "pubdate": "Sat, 22 Jul 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
+        "pubdate": "Sat, 22 Jul 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,15 +66,8 @@
     ],
     [
       {
-        "title": "Vizela  Marítimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20%20Mar%C3%ADtimo",
-        "pubdate": "Sat, 22 Jul 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luis Filipe Reis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Filipe%20Reis",
+        "title": "Taca da Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taca%20da%20Liga",
         "pubdate": "Sat, 22 Jul 2023 15:00:00 +0100"
       }
     ],
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Oliveirense  Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliveirense%20%20Gil%20Vicente",
+        "pubdate": "Sat, 22 Jul 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jamie%20Foxx",
         "pubdate": "Sat, 22 Jul 2023 15:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "AVS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AVS",
+        "pubdate": "Sat, 22 Jul 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Giggs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ryan%20Giggs",
         "pubdate": "Sat, 22 Jul 2023 19:00:00 +0100"
       }
     ]
