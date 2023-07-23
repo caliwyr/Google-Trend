@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-07-2023 , 12:47:26",
+  "lastUpdate": "23-07-2023 , 13:00:05",
   "data": [
-    [
-      {
-        "title": "Sparta Praha B – Dukla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Praha%20B%20%E2%80%93%20Dukla",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Manchester United",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Jiří Vaněk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Van%C4%9Bk",
-        "pubdate": "Sun, 23 Jul 2023 09:00:00 +0200"
+        "title": "Řecko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98ecko",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Řecko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98ecko",
-        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
+        "title": "Sparta Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Praha",
+        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Teplice – Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Plze%C5%88",
         "pubdate": "Sat, 22 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macklemore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macklemore",
+        "pubdate": "Sat, 22 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Remnant 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Remnant%202",
-        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
         "pubdate": "Sat, 22 Jul 2023 09:00:00 +0200"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Facekini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Facekini",
-        "pubdate": "Sat, 22 Jul 2023 08:00:00 +0200"
+        "title": "Remnant 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Remnant%202",
+        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kim Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kim%20Kardashian",
         "pubdate": "Sat, 22 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
+        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
