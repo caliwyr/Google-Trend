@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 08:46:49",
+  "lastUpdate": "23-07-2023 , 08:56:18",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jamie%20Foxx",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chelsea",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mbappe",
-        "pubdate": "Sat, 22 Jul 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arsenal-Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arsenal-Manchester%20United",
         "pubdate": "Sat, 22 Jul 2023 23:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Juve-Barcellona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve-Barcellona",
-        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Grandine maltempo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Grandine%20maltempo",
         "pubdate": "Sat, 22 Jul 2023 18:00:00 +0200"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Blur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blur",
+        "title": "Giuseppe Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giuseppe%20Rossi",
+        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Muse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Muse",
         "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
       }
     ]
