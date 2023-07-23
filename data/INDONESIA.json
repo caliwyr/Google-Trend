@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 22:51:44",
+  "lastUpdate": "23-07-2023 , 23:04:09",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City",
         "pubdate": "Sun, 23 Jul 2023 16:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea",
+        "pubdate": "Sun, 23 Jul 2023 08:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Prawira Bandung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Prawira%20Bandung",
         "pubdate": "Sun, 23 Jul 2023 06:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0700"
       }
     ]
   ]
