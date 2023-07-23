@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "23-07-2023 , 11:47:32",
+  "lastUpdate": "23-07-2023 , 11:56:50",
   "data": [
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
-        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AfD",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
         "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nik P",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nik%20P",
-        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AfD",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Nik P",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nik%20P",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Semino Rossi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Semino%20Rossi",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unwetter Italien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Italien",
+        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "Super League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
-        "pubdate": "Sat, 22 Jul 2023 10:00:00 +0200"
+        "title": "Rhodos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rhodos",
+        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rhodos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rhodos",
-        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
+        "title": "Super League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
+        "pubdate": "Sat, 22 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -96,14 +110,7 @@
       {
         "title": "Formel-1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1",
-        "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Esv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Esv",
-        "pubdate": "Sat, 22 Jul 2023 13:00:00 +0200"
+        "pubdate": "Sat, 22 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "FC Winterthur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Esv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Esv",
+        "pubdate": "Sat, 22 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Thibaut Pinot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thibaut%20Pinot",
         "pubdate": "Sat, 22 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jacopo Venzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jacopo%20Venzo",
-        "pubdate": "Sat, 22 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maxime Le Forestier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maxime%20Le%20Forestier",
-        "pubdate": "Sat, 22 Jul 2023 17:00:00 +0200"
       }
     ]
   ]
