@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "23-07-2023 , 15:49:00",
+  "lastUpdate": "23-07-2023 , 15:58:20",
   "data": [
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
-        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Martine Tanghe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Martine%20Tanghe",
         "pubdate": "Sun, 23 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Tomorrowland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tomorrowland",
-        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
         "pubdate": "Fri, 21 Jul 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Leeuw Berlijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leeuw%20Berlijn",
         "pubdate": "Thu, 20 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wout van Aert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20van%20Aert",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
       }
     ]
   ]

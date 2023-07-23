@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-07-2023 , 15:48:56",
+  "lastUpdate": "23-07-2023 , 15:58:14",
   "data": [
-    [
-      {
-        "title": "Jonas Vingegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jonas%20Vingegaard",
-        "pubdate": "Sun, 23 Jul 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tour de France Femmes 2023",
@@ -20,6 +13,13 @@
         "title": "Chelsea  Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Brighton",
         "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Juventus",
+        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "Arsenal  Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Man%20Utd",
+        "title": "Arsenal  Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Man%20utd",
         "pubdate": "Sat, 22 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
+        "pubdate": "Sat, 22 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Barcelona  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Juventus",
-        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sat, 22 Jul 2023 22:00:00 +0200"
@@ -97,13 +97,6 @@
         "title": "Amalie Vangsgaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Amalie%20Vangsgaard",
         "pubdate": "Sat, 22 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formula%201",
-        "pubdate": "Sat, 22 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Jamie Foxx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jamie%20Foxx",
-        "pubdate": "Sat, 22 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Selena%20Gomez",
         "pubdate": "Sat, 22 Jul 2023 20:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Jamie Foxx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jamie%20Foxx",
+        "pubdate": "Sat, 22 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The 1975",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%201975",
         "pubdate": "Sat, 22 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonas Vingegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jonas%20Vingegaard",
+        "pubdate": "Fri, 21 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
