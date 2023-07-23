@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-07-2023 , 14:44:13",
+  "lastUpdate": "23-07-2023 , 14:53:44",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Filip Misolic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Filip%20Misolic",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,20 @@
     ],
     [
       {
+        "title": "Filip Misolic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Filip%20Misolic",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Max%20Verstappen",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal",
         "pubdate": "Sun, 23 Jul 2023 08:00:00 +0200"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
-        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0200"
+        "title": "Toto Wolff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toto%20Wolff",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Toto Wolff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toto%20Wolff",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
+        "pubdate": "Sun, 23 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Josephine Chaplin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Josephine%20Chaplin",
-        "pubdate": "Sat, 22 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Otto Waalkes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Otto%20Waalkes",
-        "pubdate": "Sat, 22 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zarrella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zarrella",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Josephine Chaplin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Josephine%20Chaplin",
+        "pubdate": "Sat, 22 Jul 2023 07:00:00 +0200"
       }
     ]
   ]
