@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 05:44:04",
+  "lastUpdate": "23-07-2023 , 05:53:20",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "JDT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#JDT",
-        "pubdate": "Sat, 22 Jul 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
         "pubdate": "Sat, 22 Jul 2023 03:00:00 +0800"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Ungu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ungu",
-        "pubdate": "Sat, 22 Jul 2023 23:00:00 +0800"
+        "title": "Doctor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Doctor",
+        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Doctor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Doctor",
-        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0800"
+        "title": "Ungu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ungu",
+        "pubdate": "Sat, 22 Jul 2023 23:00:00 +0800"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Bon Odori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bon%20Odori",
-        "pubdate": "Sat, 22 Jul 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Selena%20Gomez",
         "pubdate": "Sat, 22 Jul 2023 23:00:00 +0800"
@@ -87,9 +73,16 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Britney%20Spears",
-        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0800"
+        "title": "Bon Odori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bon%20Odori",
+        "pubdate": "Sat, 22 Jul 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
+        "pubdate": "Sat, 22 Jul 2023 23:00:00 +0800"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
         "pubdate": "Fri, 21 Jul 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
+        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0800"
       }
     ],
     [
