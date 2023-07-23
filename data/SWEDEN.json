@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "23-07-2023 , 20:50:06",
+  "lastUpdate": "23-07-2023 , 20:59:26",
   "data": [
     [
       {
-        "title": "AIK Malmö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Malm%C3%B6",
+        "title": "AIK mot Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20mot%20Malm%C3%B6%20FF",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
       }
     ],
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brian Harman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brian%20Harman",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,13 @@
     ],
     [
       {
+        "title": "Kaneryd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kaneryd",
+        "pubdate": "Sun, 23 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
         "pubdate": "Sun, 23 Jul 2023 14:00:00 +0200"
@@ -73,22 +66,15 @@
     ],
     [
       {
-        "title": "Nanasi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nanasi",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
+        "title": "Dog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dog",
+        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
         "title": "John Guidetti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#John%20Guidetti",
-        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dog",
         "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Hov1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hov1",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jamie Foxx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jamie%20Foxx",
+        "pubdate": "Sat, 22 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Right to Dream",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Right%20to%20Dream",
+        "pubdate": "Sat, 22 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
