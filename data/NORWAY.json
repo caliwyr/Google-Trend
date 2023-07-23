@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 19:44:43",
+  "lastUpdate": "23-07-2023 , 19:53:59",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Drøbak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dr%C3%B8bak",
         "pubdate": "Sun, 23 Jul 2023 19:00:00 +0200"
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "Herman Flesvig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Herman%20Flesvig",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Strømsgodset-Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset-Rosenborg",
+        "pubdate": "Sun, 23 Jul 2023 20:00:00 +0200"
       }
     ],
     [

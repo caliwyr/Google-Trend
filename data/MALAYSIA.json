@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "23-07-2023 , 19:44:41",
+  "lastUpdate": "23-07-2023 , 19:53:58",
   "data": [
+    [
+      {
+        "title": "Dog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dog",
+        "pubdate": "Mon, 24 Jul 2023 03:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Chelsea vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20vs%20Brighton",
         "pubdate": "Sun, 23 Jul 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
+        "pubdate": "Sun, 23 Jul 2023 07:00:00 +0800"
       }
     ],
     [
@@ -59,9 +73,16 @@
     ],
     [
       {
-        "title": "Manchester United f.c.",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United%20f.c.",
+        "title": "Manchester United FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United%20FC",
         "pubdate": "Sun, 23 Jul 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1 Hungary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1%20Hungary",
+        "pubdate": "Sun, 23 Jul 2023 11:00:00 +0800"
       }
     ],
     [
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Arsenal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20FC",
-        "pubdate": "Sun, 23 Jul 2023 07:00:00 +0800"
+        "title": "Salahuddin Ayub",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Salahuddin%20Ayub",
+        "pubdate": "Sat, 22 Jul 2023 10:00:00 +0800"
       }
     ],
     [
@@ -103,7 +124,7 @@
       {
         "title": "Good Vibes Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Good%20Vibes%20Festival",
-        "pubdate": "Sat, 22 Jul 2023 15:00:00 +0800"
+        "pubdate": "Sat, 22 Jul 2023 14:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
         "pubdate": "Sat, 22 Jul 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Datuk Seri Salahuddin Ayub",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Datuk%20Seri%20Salahuddin%20Ayub",
-        "pubdate": "Sat, 22 Jul 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "The Strokes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#The%20Strokes",
-        "pubdate": "Sat, 22 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
-        "pubdate": "Sat, 22 Jul 2023 04:00:00 +0800"
       }
     ]
   ]
