@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 22:53:26",
+  "lastUpdate": "24-07-2023 , 23:08:21",
   "data": [
+    [
+      {
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mbappe",
+        "pubdate": "Mon, 24 Jul 2023 13:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Tom Brady",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Israel",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Shaka Hislop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shaka%20Hislop",
         "pubdate": "Mon, 24 Jul 2023 08:00:00 -0400"
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Weather Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Weather%20Radar",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Greta%20Thunberg",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 -0400"
@@ -62,13 +83,6 @@
         "title": "Jonas Vingegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jonas%20Vingegaard",
         "pubdate": "Mon, 24 Jul 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Israeli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Israeli",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 -0400"
       }
     ],
     [
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mbappe",
-        "pubdate": "Sun, 23 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Milan",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 -0400"
+        "pubdate": "Sun, 23 Jul 2023 21:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Fred McGriff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fred%20McGriff",
         "pubdate": "Sun, 23 Jul 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dog",
-        "pubdate": "Sun, 23 Jul 2023 06:00:00 -0400"
       }
     ]
   ]
