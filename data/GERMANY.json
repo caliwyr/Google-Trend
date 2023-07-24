@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 11:48:08",
+  "lastUpdate": "24-07-2023 , 11:57:26",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "Bushido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bushido",
+        "pubdate": "Mon, 24 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Deutschland gegen Marokko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Marokko",
-        "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Mesut Özil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mesut%20%C3%96zil",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jonas Vingegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jonas%20Vingegaard",
         "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Fußball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
-        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
+        "title": "Dein Name sei Harbinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dein%20Name%20sei%20Harbinger",
+        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dein Name sei Harbinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dein%20Name%20sei%20Harbinger",
-        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
+        "title": "Mesut Özil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mesut%20%C3%96zil",
+        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Selena%20Gomez",
-        "pubdate": "Sat, 22 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robbie%20Williams",
         "pubdate": "Sat, 22 Jul 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Peter-Maffay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter-Maffay",
         "pubdate": "Fri, 21 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1 heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20heute",
+        "pubdate": "Fri, 21 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
