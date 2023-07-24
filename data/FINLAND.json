@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 14:57:49",
+  "lastUpdate": "24-07-2023 , 15:16:43",
   "data": [
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Robert Oppenheimer",
@@ -13,13 +20,6 @@
         "title": "Real Madrid – AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20AC%20Milan",
         "pubdate": "Mon, 24 Jul 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Marta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marta",
-        "pubdate": "Mon, 24 Jul 2023 15:00:00 +0300"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Twitter X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Twitter%20X",
-        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Greta%20Thunberg",
         "pubdate": "Mon, 24 Jul 2023 15:00:00 +0300"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "LiveNation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LiveNation",
+        "pubdate": "Mon, 24 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Jonas Vingegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jonas%20Vingegaard",
         "pubdate": "Mon, 24 Jul 2023 11:00:00 +0300"
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Arsenal – ManU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20ManU",
+        "title": "Arsenal – manu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20manu",
         "pubdate": "Sun, 23 Jul 2023 01:00:00 +0300"
       }
     ],
