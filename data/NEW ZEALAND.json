@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 12:31:46",
+  "lastUpdate": "24-07-2023 , 12:56:29",
   "data": [
+    [
+      {
+        "title": "Michael Phelps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Michael%20Phelps",
+        "pubdate": "Tue, 25 Jul 2023 00:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Justice Minister Kiri Allan",
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Tania dalton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tania%20dalton",
-        "pubdate": "Mon, 24 Jul 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Lizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lizzo",
         "pubdate": "Mon, 24 Jul 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Ashburton bridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashburton%20bridge",
-        "pubdate": "Mon, 24 Jul 2023 11:00:00 +1200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chelsea vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Brighton",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Lee Donoghue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lee%20Donoghue",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 +1200"
       }
     ]
   ]
