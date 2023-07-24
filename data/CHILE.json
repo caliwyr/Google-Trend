@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 07:50:21",
+  "lastUpdate": "24-07-2023 , 07:59:47",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Real Madrid  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20%20Milan",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "U Católica  Coquimbo Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20Cat%C3%B3lica%20%20Coquimbo%20Unido",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 -0400"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
         "pubdate": "Sun, 23 Jul 2023 20:00:00 -0400"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Coquimbo Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 -0400"
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
+        "pubdate": "Sun, 23 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -73,16 +73,23 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
-        "pubdate": "Sun, 23 Jul 2023 12:00:00 -0400"
+        "title": "Elecciones España 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elecciones%20Espa%C3%B1a%202023",
+        "pubdate": "Sun, 23 Jul 2023 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Elecciones España 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elecciones%20Espa%C3%B1a%202023",
+        "title": "Everton u Española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20u%20Espa%C3%B1ola",
         "pubdate": "Sun, 23 Jul 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
+        "pubdate": "Sun, 23 Jul 2023 12:00:00 -0400"
       }
     ],
     [
@@ -125,13 +132,6 @@
         "title": "Deportes concepcion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20concepcion",
         "pubdate": "Sun, 23 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Resultados elecciones España 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Resultados%20elecciones%20Espa%C3%B1a%202023",
-        "pubdate": "Sun, 23 Jul 2023 21:00:00 -0400"
       }
     ],
     [
