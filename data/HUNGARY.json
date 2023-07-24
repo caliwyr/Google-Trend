@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-07-2023 , 05:51:04",
+  "lastUpdate": "24-07-2023 , 06:00:40",
   "data": [
     [
       {
         "title": "Leclerc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leclerc",
         "pubdate": "Mon, 24 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michael Phelps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Phelps",
+        "pubdate": "Mon, 24 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "George Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#George%20Russell",
-        "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jamie%20Foxx",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Terrycrews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Terrycrews",
+        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Perez",
         "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
@@ -111,13 +118,6 @@
         "title": "Jonas Vingegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jonas%20Vingegaard",
         "pubdate": "Sun, 23 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Terry Crews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Terry%20Crews",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Törőcsik Franciska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C5%91csik%20Franciska",
-        "pubdate": "Sun, 23 Jul 2023 14:00:00 +0200"
+        "title": "Forma-1 Magyar Nagydíj 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forma-1%20Magyar%20Nagyd%C3%ADj%202023",
+        "pubdate": "Sat, 22 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
