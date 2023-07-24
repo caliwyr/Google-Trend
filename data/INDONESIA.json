@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "23-07-2023 , 23:57:01",
+  "lastUpdate": "24-07-2023 , 01:19:48",
   "data": [
     [
       {
         "title": "Newcastle vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle%20vs%20Aston%20Villa",
+        "pubdate": "Mon, 24 Jul 2023 06:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle",
         "pubdate": "Mon, 24 Jul 2023 06:00:00 +0700"
       }
     ],
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle",
-        "pubdate": "Mon, 24 Jul 2023 06:00:00 +0700"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Formula%201",
+        "pubdate": "Mon, 24 Jul 2023 05:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ESL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ESL",
         "pubdate": "Sun, 23 Jul 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "RS Hermina Depok kebakaran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RS%20Hermina%20Depok%20kebakaran",
-        "pubdate": "Sun, 23 Jul 2023 12:00:00 +0700"
       }
     ]
   ]

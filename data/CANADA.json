@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2023 , 23:56:58",
+  "lastUpdate": "24-07-2023 , 01:19:44",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dog",
         "pubdate": "Sun, 23 Jul 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Fred McGriff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fred%20McGriff",
+        "pubdate": "Sun, 23 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Kamloops fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kamloops%20fire",
-        "pubdate": "Sun, 23 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Special Ops: Lioness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Special%20Ops:%20Lioness",
         "pubdate": "Sun, 23 Jul 2023 17:00:00 -0400"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Ubisoft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ubisoft",
+        "title": "Kamloops fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kamloops%20fire",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Fred McGriff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fred%20McGriff",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 -0400"
+        "title": "Ubisoft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ubisoft",
+        "pubdate": "Sun, 23 Jul 2023 12:00:00 -0400"
       }
     ],
     [
