@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 20:50:52",
+  "lastUpdate": "24-07-2023 , 21:02:39",
   "data": [
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Řecké ostrovy",
@@ -19,13 +26,6 @@
       {
         "title": "Worldcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Worldcoin",
-        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Twitter X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Twitter%20X",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ],
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Radka Třeštíková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radka%20T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
-        "pubdate": "Mon, 24 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jennifer lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jennifer%20lopez",
         "pubdate": "Mon, 24 Jul 2023 20:00:00 +0200"
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Sparta – Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20%E2%80%93%20Olomouc",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
+        "title": "Radka Třeštíková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radka%20T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
+        "pubdate": "Mon, 24 Jul 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kvitová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kvitov%C3%A1",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
+        "title": "Jiri vanek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20vanek",
+        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jesus Christ Superstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jesus%20Christ%20Superstar",
+        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
