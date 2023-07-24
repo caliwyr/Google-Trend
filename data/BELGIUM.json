@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 16:51:25",
+  "lastUpdate": "24-07-2023 , 17:01:57",
   "data": [
     [
       {
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Salers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salers",
+        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nathan Aspinall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nathan%20Aspinall",
+        "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
         "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
@@ -62,6 +76,13 @@
         "title": "Giro 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Giro%202023",
         "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martine Tanghe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Martine%20Tanghe",
+        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "VRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vuelta 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vuelta%202023",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Victor Campenaerts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Victor%20Campenaerts",
         "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC",
-        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elections Espagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elections%20Espagne",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]

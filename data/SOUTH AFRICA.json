@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-07-2023 , 16:51:34",
+  "lastUpdate": "24-07-2023 , 17:02:08",
   "data": [
-    [
-      {
-        "title": "Fürth vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F%C3%BCrth%20vs%20Liverpool",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Real Madrid vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Milan",
         "pubdate": "Mon, 24 Jul 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fürth vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F%C3%BCrth%20vs%20Liverpool",
+        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Newcastle vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Aston%20Villa",
         "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
-        "pubdate": "Mon, 24 Jul 2023 06:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Shaka Hislop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shaka%20Hislop",
+        "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kahoot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kahoot",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
@@ -76,13 +76,6 @@
         "title": "Special Ops: Lioness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Special%20Ops:%20Lioness",
         "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Shaka Hislop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shaka%20Hislop",
-        "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
         "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]

@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-07-2023 , 16:51:32",
+  "lastUpdate": "24-07-2023 , 17:02:05",
   "data": [
-    [
-      {
-        "title": "Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Twitter",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bjørnar Moxnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnar%20Moxnes",
         "pubdate": "Mon, 24 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Drøbak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dr%C3%B8bak",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
         "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
@@ -97,13 +97,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Sun, 23 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amta",
-        "pubdate": "Sun, 23 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paris",
         "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rhodos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rhodos",
+        "pubdate": "Sat, 22 Jul 2023 16:00:00 +0200"
       }
     ]
   ]
