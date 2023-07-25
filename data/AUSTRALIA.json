@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2023 , 11:49:51",
+  "lastUpdate": "25-07-2023 , 11:59:07",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Harry and Meghan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20and%20Meghan",
-        "pubdate": "Tue, 25 Jul 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Huntington's disease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Huntington's%20disease",
         "pubdate": "Tue, 25 Jul 2023 00:00:00 +1000"
@@ -101,9 +94,16 @@
     ],
     [
       {
-        "title": "Royal Adelaide Show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Royal%20Adelaide%20Show",
-        "pubdate": "Tue, 25 Jul 2023 12:00:00 +1000"
+        "title": "Harry and Meghan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20and%20Meghan",
+        "pubdate": "Tue, 25 Jul 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Switzerland vs Norway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Switzerland%20vs%20Norway",
+        "pubdate": "Tue, 25 Jul 2023 20:00:00 +1000"
       }
     ],
     [
@@ -111,6 +111,20 @@
         "title": "Tori Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tori%20Kelly",
         "pubdate": "Tue, 25 Jul 2023 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Inoue vs Fulton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inoue%20vs%20Fulton",
+        "pubdate": "Tue, 25 Jul 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Royal Adelaide Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Royal%20Adelaide%20Show",
+        "pubdate": "Tue, 25 Jul 2023 12:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Israel",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Switzerland vs Norway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Switzerland%20vs%20Norway",
-        "pubdate": "Tue, 25 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Inoue vs Fulton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inoue%20vs%20Fulton",
-        "pubdate": "Tue, 25 Jul 2023 20:00:00 +1000"
       }
     ]
   ]
