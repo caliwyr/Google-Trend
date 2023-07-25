@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "25-07-2023 , 21:53:21",
+  "lastUpdate": "25-07-2023 , 22:07:17",
   "data": [
     [
       {
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LeBron%20James",
-        "pubdate": "Wed, 26 Jul 2023 02:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Johnny%20Depp",
-        "pubdate": "Wed, 26 Jul 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Malcolm X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Malcolm%20X",
         "pubdate": "Wed, 26 Jul 2023 02:00:00 +1000"
       }
     ],
@@ -38,6 +24,13 @@
     ],
     [
       {
+        "title": "Malcolm X",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Malcolm%20X",
+        "pubdate": "Wed, 26 Jul 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Greta%20Thunberg",
         "pubdate": "Tue, 25 Jul 2023 08:00:00 +1000"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Colombia vs South Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colombia%20vs%20South%20Korea",
-        "pubdate": "Tue, 25 Jul 2023 13:00:00 +1000"
+        "title": "New Zealand vs Philippines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20Philippines",
+        "pubdate": "Tue, 25 Jul 2023 17:00:00 +1000"
       }
     ],
     [
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "New Zealand vs Philippines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20Philippines",
-        "pubdate": "Tue, 25 Jul 2023 17:00:00 +1000"
+        "title": "Colombia vs South Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colombia%20vs%20South%20Korea",
+        "pubdate": "Tue, 25 Jul 2023 13:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bahrain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bahrain",
         "pubdate": "Tue, 25 Jul 2023 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "The HELP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20HELP",
+        "pubdate": "Tue, 25 Jul 2023 23:00:00 +1000"
       }
     ]
   ]
