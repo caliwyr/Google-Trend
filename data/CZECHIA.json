@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2023 , 06:49:25",
+  "lastUpdate": "25-07-2023 , 06:58:43",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Řecké ostrovy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98eck%C3%A9%20ostrovy",
+        "pubdate": "Mon, 24 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
         "pubdate": "Mon, 24 Jul 2023 05:00:00 +0200"
@@ -41,13 +48,6 @@
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
         "pubdate": "Mon, 24 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Řecké ostrovy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98eck%C3%A9%20ostrovy",
-        "pubdate": "Mon, 24 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Jiri vanek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20vanek",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
+        "title": "Sparta – Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20%E2%80%93%20Olomouc",
+        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liberec – Baník",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Ban%C3%ADk",
-        "pubdate": "Sun, 23 Jul 2023 15:00:00 +0200"
+        "title": "Jiri vanek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20vanek",
+        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Jonas Vingegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jonas%20Vingegaard",
         "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ben Cristovao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ben%20Cristovao",
+        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
-        "pubdate": "Sun, 23 Jul 2023 17:00:00 +0200"
       }
     ]
   ]

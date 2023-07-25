@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-07-2023 , 06:49:28",
+  "lastUpdate": "25-07-2023 , 06:58:45",
   "data": [
-    [
-      {
-        "title": "Meteo Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Italia",
-        "pubdate": "Tue, 25 Jul 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "El Bilal Touré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#El%20Bilal%20Tour%C3%A9",
         "pubdate": "Tue, 25 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meteo Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Italia",
+        "pubdate": "Tue, 25 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -45,23 +45,16 @@
     ],
     [
       {
+        "title": "Protezione Civile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Protezione%20Civile",
+        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meteo Milano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Milano",
         "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mbappe",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Twitter",
-        "pubdate": "Mon, 24 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,23 @@
     ],
     [
       {
-        "title": "Thomas Ceccon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thomas%20Ceccon",
-        "pubdate": "Mon, 24 Jul 2023 01:00:00 +0200"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mbappe",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan",
+        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Concerto Maneskin Milano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Concerto%20Maneskin%20Milano",
-        "pubdate": "Mon, 24 Jul 2023 15:00:00 +0200"
+        "title": "Ceccon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ceccon",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Santa Cristina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santa%20Cristina",
-        "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bruce Springsteen Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bruce%20Springsteen%20Monza",
         "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Greuther fürth -Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Greuther%20f%C3%BCrth%20-Liverpool",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
+        "title": "Santa Cristina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santa%20Cristina",
+        "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
       }
     ]
   ]
