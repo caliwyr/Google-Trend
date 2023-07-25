@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2023 , 18:46:47",
+  "lastUpdate": "25-07-2023 , 18:56:05",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Palermo",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Twitter",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Czech Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Czech%20Tour",
+        "pubdate": "Mon, 24 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UEFA",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
@@ -83,6 +97,13 @@
         "title": "Peter Sagan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Peter%20Sagan",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan Zimmermann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Zimmermann",
+        "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Boleslav – Jablonec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Jablonec",
         "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
-        "pubdate": "Sun, 23 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
-        "pubdate": "Sun, 23 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jesus Christ Superstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jesus%20Christ%20Superstar",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
