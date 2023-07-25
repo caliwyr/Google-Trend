@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 23:58:53",
+  "lastUpdate": "25-07-2023 , 01:48:40",
   "data": [
+    [
+      {
+        "title": "Johnny Depp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Johnny%20Depp",
+        "pubdate": "Tue, 25 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Margot Robbie",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Jarosław Kaczyński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
-        "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
+        "title": "Stal Rzeszów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Rzesz%C3%B3w",
+        "pubdate": "Mon, 24 Jul 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Techland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Techland",
-        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
+        "title": "Jarosław Kaczyński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
+        "pubdate": "Mon, 24 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Stal Rzeszów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Rzesz%C3%B3w",
-        "pubdate": "Mon, 24 Jul 2023 19:00:00 +0200"
+        "title": "Techland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Techland",
+        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Planeta małp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Planeta%20ma%C5%82p",
-        "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vinci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vinci",
         "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
@@ -104,13 +104,6 @@
         "title": "Shrek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Shrek",
         "pubdate": "Mon, 24 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michał Kubiak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20Kubiak",
-        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Małgorzata Rozenek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Rozenek",
         "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ALF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ALF",
+        "pubdate": "Mon, 24 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
