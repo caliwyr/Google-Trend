@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-07-2023 , 20:51:25",
+  "lastUpdate": "25-07-2023 , 21:01:33",
   "data": [
     [
       {
-        "title": "Caroline Receveur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Caroline%20Receveur",
+        "title": "Cancer Caroline Receveur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cancer%20Caroline%20Receveur",
         "pubdate": "Tue, 25 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KRC Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+        "pubdate": "Tue, 25 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Servette  Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Servette%20%20Genk",
-        "pubdate": "Tue, 25 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julie Van de Velde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julie%20Van%20de%20Velde",
         "pubdate": "Tue, 25 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RWDM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Brigitte Bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Bardot",
-        "pubdate": "Tue, 25 Jul 2023 07:00:00 +0200"
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "La plage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20plage",
+        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eva van Agt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20van%20Agt",
         "pubdate": "Tue, 25 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Patrick Fiori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Fiori",
+        "pubdate": "Tue, 25 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "La plage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20plage",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Servette",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
+        "title": "Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Palermo",
+        "pubdate": "Tue, 25 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "George Alagiah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#George%20Alagiah",
         "pubdate": "Tue, 25 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Palermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Palermo",
-        "pubdate": "Tue, 25 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Israel",
         "pubdate": "Tue, 25 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emmanuel Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emmanuel%20Macron",
+        "pubdate": "Tue, 25 Jul 2023 16:00:00 +0200"
       }
     ]
   ]

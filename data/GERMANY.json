@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2023 , 20:51:28",
+  "lastUpdate": "25-07-2023 , 21:01:35",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Bayreuther Festspiele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Bayreuther Festspiele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
-        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Britney%20Spears",
+        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Britney%20Spears",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WM Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fussball WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM",
+        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Thunberg",
         "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Damen WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Damen%20WM",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Social Chain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Social%20Chain",
         "pubdate": "Mon, 24 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
-        "pubdate": "Mon, 24 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
