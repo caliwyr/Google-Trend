@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-07-2023 , 01:48:30",
+  "lastUpdate": "25-07-2023 , 02:39:37",
   "data": [
+    [
+      {
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
+        "pubdate": "Mon, 24 Jul 2023 17:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Talleres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
-        "pubdate": "Mon, 24 Jul 2023 16:00:00 -0300"
+        "pubdate": "Mon, 24 Jul 2023 17:00:00 -0300"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Cavani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cavani",
-        "pubdate": "Mon, 24 Jul 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina",
         "pubdate": "Mon, 24 Jul 2023 05:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Seleccion argentina femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20argentina%20femenina",
-        "pubdate": "Mon, 24 Jul 2023 07:00:00 -0300"
       }
     ],
     [
@@ -87,23 +80,9 @@
     ],
     [
       {
-        "title": "Futbol femenino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20femenino",
-        "pubdate": "Mon, 24 Jul 2023 07:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Massa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Massa",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Velez hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez%20hoy",
-        "pubdate": "Mon, 24 Jul 2023 18:00:00 -0300"
       }
     ],
     [
@@ -122,13 +101,6 @@
     ],
     [
       {
-        "title": "Nuevas medidas economicas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nuevas%20medidas%20economicas",
-        "pubdate": "Mon, 24 Jul 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Aldosivi  Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aldosivi%20%20Brown",
         "pubdate": "Mon, 24 Jul 2023 20:00:00 -0300"
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "Nuevas medidas economicas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nuevas%20medidas%20economicas",
+        "pubdate": "Mon, 24 Jul 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Veliz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Veliz",
+        "pubdate": "Mon, 24 Jul 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "24 de julio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#24%20de%20julio",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Pedro sanchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pedro%20sanchez",
         "pubdate": "Mon, 24 Jul 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Impuesto pais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Impuesto%20pais",
+        "pubdate": "Mon, 24 Jul 2023 15:00:00 -0300"
       }
     ]
   ]
