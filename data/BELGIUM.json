@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-07-2023 , 09:44:47",
+  "lastUpdate": "25-07-2023 , 09:54:00",
   "data": [
-    [
-      {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Will%20Smith",
-        "pubdate": "Tue, 25 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eva van Agt",
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Vaginisme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vaginisme",
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Hilal",
+        "pubdate": "Mon, 24 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc",
         "pubdate": "Mon, 24 Jul 2023 20:00:00 +0200"
       }
     ]
