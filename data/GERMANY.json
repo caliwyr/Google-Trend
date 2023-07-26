@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "26-07-2023 , 05:53:46",
+  "lastUpdate": "26-07-2023 , 06:11:32",
   "data": [
     [
       {
         "title": "Google Street View",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Street%20View",
         "pubdate": "Tue, 25 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LeBron%20James",
-        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -24,16 +17,9 @@
     ],
     [
       {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Britney%20Spears",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LeBron%20James",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -41,6 +27,13 @@
         "title": "Bayreuther Festspiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Xavier Naidoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xavier%20Naidoo",
-        "pubdate": "Tue, 25 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WM Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
@@ -80,9 +66,9 @@
     ],
     [
       {
-        "title": "Fußball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
+        "title": "Fussball WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Galatasaray",
-        "pubdate": "Mon, 24 Jul 2023 10:00:00 +0200"
+        "title": "WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM",
+        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -111,13 +97,6 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Mon, 24 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WM Frauen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen%202023",
-        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Friedrich Merz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
         "pubdate": "Sun, 23 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fußball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sabitzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabitzer",
+        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Odessa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Odessa",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
