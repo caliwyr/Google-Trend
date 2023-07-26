@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 14:51:36",
+  "lastUpdate": "26-07-2023 , 15:02:48",
   "data": [
     [
       {
@@ -38,30 +38,9 @@
     ],
     [
       {
-        "title": "Ms Puiyi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ms%20Puiyi",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Qin Gang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Qin%20Gang",
         "pubdate": "Wed, 26 Jul 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh",
-        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kim%20Kardashian",
-        "pubdate": "Wed, 26 Jul 2023 03:00:00 +0800"
       }
     ],
     [
@@ -80,9 +59,16 @@
     ],
     [
       {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United",
-        "pubdate": "Wed, 26 Jul 2023 16:00:00 +0800"
+        "title": "Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh",
+        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kim%20Kardashian",
+        "pubdate": "Wed, 26 Jul 2023 03:00:00 +0800"
       }
     ],
     [
@@ -90,6 +76,20 @@
         "title": "Haunted Mansion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Haunted%20Mansion",
         "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Talk to Me",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Talk%20to%20Me",
+        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ng Tze Yong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ng%20Tze%20Yong",
+        "pubdate": "Wed, 26 Jul 2023 15:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Dato Malik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dato%20Malik",
-        "pubdate": "Tue, 25 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Starbucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Starbucks",
         "pubdate": "Tue, 25 Jul 2023 17:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Muse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Muse",
+        "pubdate": "Tue, 25 Jul 2023 16:00:00 +0800"
       }
     ]
   ]

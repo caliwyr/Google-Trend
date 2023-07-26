@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 14:51:31",
+  "lastUpdate": "26-07-2023 , 15:02:42",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mick%20Jagger",
         "pubdate": "Wed, 26 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dubrovník",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dubrovn%C3%ADk",
+        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,20 @@
     ],
     [
       {
+        "title": "Michelle Hunziker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michelle%20Hunziker",
+        "pubdate": "Wed, 26 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Busta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Busta",
+        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Michelle Rodriguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michelle%20Rodriguez",
         "pubdate": "Wed, 26 Jul 2023 09:00:00 +0200"
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Julius Fučík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Julius%20Fu%C4%8D%C3%ADk",
-        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0200"
+        "title": "Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Palermo",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -80,8 +101,8 @@
     ],
     [
       {
-        "title": "Irina Shayk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Irina%20Shayk",
+        "title": "Irina shayk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Irina%20shayk",
         "pubdate": "Tue, 25 Jul 2023 15:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Worldcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Worldcoin",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
-        "pubdate": "Mon, 24 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UEFA",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Futurama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Futurama",
-        "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
       }
     ]
   ]
