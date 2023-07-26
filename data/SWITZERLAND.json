@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 07:49:14",
+  "lastUpdate": "26-07-2023 , 07:58:35",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
+        "pubdate": "Wed, 26 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Löschflugzeug Absturz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L%C3%B6schflugzeug%20Absturz",
+        "pubdate": "Wed, 26 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anja Niedringhaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anja%20Niedringhaus",
         "pubdate": "Wed, 26 Jul 2023 00:00:00 +0200"
@@ -24,9 +38,16 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
-        "pubdate": "Wed, 26 Jul 2023 08:00:00 +0200"
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Wed, 26 Jul 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Britney%20Spears",
+        "pubdate": "Wed, 26 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Fussball-WM Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball-WM%20Frauen",
-        "pubdate": "Tue, 25 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LeBron%20James",
         "pubdate": "Tue, 25 Jul 2023 18:00:00 +0200"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "PSG - Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG%20-%20Al-Nassr",
-        "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
+        "title": "Fussball-WM Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball-WM%20Frauen",
+        "pubdate": "Tue, 25 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -97,6 +111,13 @@
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coldplay",
         "pubdate": "Tue, 25 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG - Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG%20-%20Al-Nassr",
+        "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Palermo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Palermo",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Tue, 25 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Johnny%20Depp",
-        "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Disparition Émile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Disparition%20%C3%89mile",
-        "pubdate": "Tue, 25 Jul 2023 17:00:00 +0200"
       }
     ]
   ]
