@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 22:45:08",
+  "lastUpdate": "26-07-2023 , 22:54:24",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Wed, 26 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ameland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ameland",
+        "pubdate": "Wed, 26 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Ameland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ameland",
-        "pubdate": "Wed, 26 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Yara Kastelijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yara%20Kastelijn",
         "pubdate": "Wed, 26 Jul 2023 18:00:00 +0200"
@@ -59,15 +59,22 @@
     ],
     [
       {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jennifer%20Lopez",
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
+        "title": "Emmett Till",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmett%20Till",
+        "pubdate": "Wed, 26 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jennifer%20Lopez",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Barbie-film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barbie-film",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kat",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
