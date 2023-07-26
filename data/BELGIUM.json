@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 12:49:39",
+  "lastUpdate": "26-07-2023 , 13:07:38",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Philippe Gilbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Philippe%20Gilbert",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Patrick Fiori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Fiori",
         "pubdate": "Tue, 25 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eva van Agt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20van%20Agt",
-        "pubdate": "Tue, 25 Jul 2023 07:00:00 +0200"
       }
     ]
   ]
