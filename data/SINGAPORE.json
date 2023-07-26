@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-07-2023 , 00:55:17",
+  "lastUpdate": "26-07-2023 , 02:08:08",
   "data": [
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Miami",
+        "pubdate": "Wed, 26 Jul 2023 09:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "LeBron James",
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Sony WF-1000XM5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sony%20WF-1000XM5",
-        "pubdate": "Tue, 25 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "New Zealand vs Philippines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20Zealand%20vs%20Philippines",
         "pubdate": "Tue, 25 Jul 2023 16:00:00 +0800"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Nasi Lemak Burger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nasi%20Lemak%20Burger",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "George Alagiah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Alagiah",
         "pubdate": "Tue, 25 Jul 2023 14:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Harmanpreet Kaur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Harmanpreet%20Kaur",
         "pubdate": "Tue, 25 Jul 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0800"
       }
     ]
   ]
