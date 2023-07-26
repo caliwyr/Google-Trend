@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-07-2023 , 21:47:38",
+  "lastUpdate": "26-07-2023 , 21:57:05",
   "data": [
     [
       {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Samsung",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jocelyn Chia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jocelyn%20Chia",
+        "pubdate": "Thu, 27 Jul 2023 05:00:00 +0800"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
         "pubdate": "Wed, 26 Jul 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0800"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Bojan Hodak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bojan%20Hodak",
+        "pubdate": "Wed, 26 Jul 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh",
         "pubdate": "Wed, 26 Jul 2023 11:00:00 +0800"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Haunted Mansion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Haunted%20Mansion",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
+        "title": "Talk to Me",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Talk%20to%20Me",
+        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Talk to Me",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Talk%20to%20Me",
-        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0800"
+        "title": "Haunted Mansion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Haunted%20Mansion",
+        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Football manchester united",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Football%20manchester%20united",
-        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Arsenal vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Barcelona",
         "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Jordan Henderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jordan%20Henderson",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0800"
+        "title": "Football manchester united",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Football%20manchester%20united",
+        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0800"
       }
     ]
   ]
