@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-07-2023 , 23:47:17",
+  "lastUpdate": "26-07-2023 , 23:56:36",
   "data": [
+    [
+      {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Samsung",
+        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sinead O'Connor",
@@ -132,13 +139,6 @@
         "title": "SK Slavia Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
         "pubdate": "Tue, 25 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julius Fučík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Julius%20Fu%C4%8D%C3%ADk",
-        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
