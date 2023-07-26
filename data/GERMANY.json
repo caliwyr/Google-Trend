@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-07-2023 , 23:54:05",
+  "lastUpdate": "26-07-2023 , 00:55:11",
   "data": [
     [
       {
         "title": "Google Street View",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Street%20View",
         "pubdate": "Tue, 25 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ukraine Russland konflikt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ukraine%20Russland%20konflikt",
+        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayreuther Festspiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florence Pugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florence%20Pugh",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Frauenfußball WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauenfu%C3%9Fball%20WM",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+        "title": "Unwetter Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20Berlin",
+        "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
         "pubdate": "Mon, 24 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WM Frauen 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen%202023",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ]
   ]
