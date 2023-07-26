@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 06:47:01",
+  "lastUpdate": "26-07-2023 , 06:56:19",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Naoya Inoue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Naoya%20Inoue",
-        "pubdate": "Wed, 26 Jul 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wrexham",
         "pubdate": "Wed, 26 Jul 2023 12:00:00 +0800"
@@ -45,8 +38,22 @@
     ],
     [
       {
+        "title": "Naoya Inoue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Naoya%20Inoue",
+        "pubdate": "Wed, 26 Jul 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "GIC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GIC",
+        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "De Souza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#De%20Souza",
         "pubdate": "Wed, 26 Jul 2023 11:00:00 +0800"
       }
     ],
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Spotify Premium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spotify%20Premium",
-        "pubdate": "Tue, 25 Jul 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Typhoon Doksuri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Typhoon%20Doksuri",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
-        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kyle Anderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kyle%20Anderson",
         "pubdate": "Tue, 25 Jul 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "George Alagiah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Alagiah",
+        "pubdate": "Tue, 25 Jul 2023 14:00:00 +0800"
       }
     ]
   ]
