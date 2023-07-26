@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "26-07-2023 , 03:46:26",
+  "lastUpdate": "26-07-2023 , 03:55:39",
   "data": [
+    [
+      {
+        "title": "Fußball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
+        "pubdate": "Tue, 25 Jul 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Google Street View",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Google%20Street%20View",
         "pubdate": "Tue, 25 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ukraine Russland konflikt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ukraine%20Russland%20konflikt",
+        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -17,16 +31,16 @@
     ],
     [
       {
-        "title": "Bayreuther Festspiele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
-        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Tue, 25 Jul 2023 03:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Britney%20Spears",
-        "pubdate": "Tue, 25 Jul 2023 21:00:00 +0200"
+        "title": "Bayreuther Festspiele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Fussball WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mbappe",
         "pubdate": "Mon, 24 Jul 2023 21:00:00 +0200"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Unwetter Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20Berlin",
-        "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Galatasaray",
         "pubdate": "Mon, 24 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Thunberg",
-        "pubdate": "Mon, 24 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Friedrich Merz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
         "pubdate": "Sun, 23 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fußball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
