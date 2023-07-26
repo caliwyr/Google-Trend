@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 19:41:17",
+  "lastUpdate": "26-07-2023 , 19:50:36",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Moonlight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moonlight",
+        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Remnant 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Remnant%202",
         "pubdate": "Wed, 26 Jul 2023 10:00:00 +0300"
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Kevin Spacey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Spacey",
+        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Tori Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tori%20Kelly",
         "pubdate": "Wed, 26 Jul 2023 01:00:00 +0300"
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "Kevin Spacey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Spacey",
-        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0300"
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Lopez",
+        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mauritius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mauritius",
+        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Dubrovnik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dubrovnik",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Chris Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Martin",
-        "pubdate": "Tue, 25 Jul 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Batman and Robin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Batman%20and%20Robin",
-        "pubdate": "Tue, 25 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Patrice Bergeron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrice%20Bergeron",
-        "pubdate": "Tue, 25 Jul 2023 23:00:00 +0300"
       }
     ]
   ]
