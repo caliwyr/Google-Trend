@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 11:46:31",
+  "lastUpdate": "27-07-2023 , 11:55:48",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Samsung",
-        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dokka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dokka",
         "pubdate": "Wed, 26 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Fotball-VM kvinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fotball-VM%20kvinner",
         "pubdate": "Tue, 25 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LeBron%20James",
+        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
