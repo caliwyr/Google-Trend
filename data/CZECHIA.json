@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 05:43:08",
+  "lastUpdate": "27-07-2023 , 05:52:31",
   "data": [
     [
       {
@@ -62,13 +62,6 @@
         "title": "Anna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Anna",
         "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galaxy Watch 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Galaxy%20Watch%206",
-        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Nikdy neříkej nikdy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nikdy%20ne%C5%99%C3%ADkej%20nikdy",
-        "pubdate": "Tue, 25 Jul 2023 09:00:00 +0200"
+        "title": "Greta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Greta",
+        "pubdate": "Tue, 25 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kim%20Kardashian",
+        "pubdate": "Tue, 25 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
