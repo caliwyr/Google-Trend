@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 14:53:12",
+  "lastUpdate": "27-07-2023 , 15:08:05",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arsenal",
         "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Blanche Gardin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Blanche%20Gardin",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Blanche Gardin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Blanche%20Gardin",
+        "title": "Cadaques",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cadaques",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Samsung Galaxy Z Flip 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Samsung%20Galaxy%20Z%20Flip%205",
         "pubdate": "Wed, 26 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pap Ndiaye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pap%20Ndiaye",
-        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
