@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 13:56:40",
+  "lastUpdate": "27-07-2023 , 14:12:37",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Austria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Austria",
-        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0300"
+        "title": "Smiley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Smiley",
+        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Smiley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Smiley",
-        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0300"
+        "title": "Austria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Austria",
+        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0300"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Galaxy Z Fold 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galaxy%20Z%20Fold%205",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sinead O'Connor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sinead%20O'Connor",
         "pubdate": "Wed, 26 Jul 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Depeche Mode",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Depeche%20Mode",
+        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0300"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Z Fold 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Z%20Fold%205",
+        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
         "pubdate": "Wed, 26 Jul 2023 14:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "Incendiu bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20bucuresti",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Z Fold 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Z%20Fold%205",
-        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ana Bogdan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
-        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mick Jagger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mick%20Jagger",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0300"
       }
     ]
   ]
