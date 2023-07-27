@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 22:48:53",
+  "lastUpdate": "27-07-2023 , 22:58:19",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Spotify Top 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spotify%20Top%205",
-        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Exclusive Fairytale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Exclusive%20Fairytale",
         "pubdate": "Thu, 27 Jul 2023 21:00:00 +0800"
@@ -54,6 +47,13 @@
       {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Samsung",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Spotify Top 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spotify%20Top%205",
         "pubdate": "Thu, 27 Jul 2023 12:00:00 +0800"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Talim Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Talim%20Island",
+        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Baki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Baki",
         "pubdate": "Thu, 27 Jul 2023 16:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Perfect Blue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Perfect%20Blue",
         "pubdate": "Thu, 27 Jul 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ethan Slater",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ethan%20Slater",
-        "pubdate": "Thu, 27 Jul 2023 20:00:00 +0800"
       }
     ]
   ]
