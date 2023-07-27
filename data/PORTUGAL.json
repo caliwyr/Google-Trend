@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-07-2023 , 19:45:38",
+  "lastUpdate": "27-07-2023 , 19:55:00",
   "data": [
-    [
-      {
-        "title": "Catarina Furtado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Furtado",
-        "pubdate": "Thu, 27 Jul 2023 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "RTP",
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "Campeonato do mundo feminino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20do%20mundo%20feminino",
-        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aliens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aliens",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0100"
@@ -38,9 +24,23 @@
     ],
     [
       {
+        "title": "Campeonato do mundo feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20do%20mundo%20feminino",
+        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Niger",
         "pubdate": "Thu, 27 Jul 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Estados Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estados%20Unidos",
+        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0100"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Bárbara Tinoco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#B%C3%A1rbara%20Tinoco",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Estados Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estados%20Unidos",
-        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "David Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Silva",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Invasão Secreta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Invas%C3%A3o%20Secreta",
         "pubdate": "Thu, 27 Jul 2023 16:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Simeone joao felix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simeone%20joao%20felix",
-        "pubdate": "Thu, 27 Jul 2023 04:00:00 +0100"
+        "title": "Alien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alien",
+        "pubdate": "Thu, 27 Jul 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "David Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Silva",
-        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0100"
+        "title": "Simeone joao felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simeone%20joao%20felix",
+        "pubdate": "Thu, 27 Jul 2023 04:00:00 +0100"
       }
     ]
   ]

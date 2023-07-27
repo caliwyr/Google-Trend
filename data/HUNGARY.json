@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 19:45:33",
+  "lastUpdate": "27-07-2023 , 19:54:57",
   "data": [
     [
       {
@@ -24,16 +24,23 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-        "pubdate": "Thu, 27 Jul 2023 16:00:00 +0200"
+        "title": "Shamrock Rovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shamrock%20Rovers",
+        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mihályfi Luca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mih%C3%A1lyfi%20Luca",
-        "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
+        "title": "Debreceni VSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Debreceni%20VSC",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
+        "pubdate": "Thu, 27 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Alashkert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alashkert",
-        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0200"
+        "title": "Riga FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Riga%20FC",
+        "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
+        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Diana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Diana",
-        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sunwoda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sunwoda",
         "pubdate": "Thu, 27 Jul 2023 16:00:00 +0200"
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "Diana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Diana",
+        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Witcher",
         "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jordan Henderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jordan%20Henderson",
+        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Megyeri Csilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megyeri%20Csilla",
         "pubdate": "Wed, 26 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Spacey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kevin%20Spacey",
-        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jesse Marsch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jesse%20Marsch",
-        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Samsung",
-        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
