@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 07:48:58",
+  "lastUpdate": "27-07-2023 , 07:58:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Sinead O'Connor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sinead%20O'Connor",
         "pubdate": "Wed, 26 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ameland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ameland",
+        "pubdate": "Wed, 26 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
-        "pubdate": "Wed, 26 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niger",
         "pubdate": "Wed, 26 Jul 2023 23:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Frachter brennt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frachter%20brennt",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
+        "pubdate": "Wed, 26 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Bronny James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bronny%20James",
-        "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayreuther Festspiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayreuther%20Festspiele",
         "pubdate": "Tue, 25 Jul 2023 19:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fussball WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
         "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ]
