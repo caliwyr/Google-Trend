@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 01:08:22",
+  "lastUpdate": "27-07-2023 , 02:04:37",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Fremantle Highway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fremantle%20Highway",
-        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rauw Alejandro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rauw%20Alejandro",
         "pubdate": "Wed, 26 Jul 2023 13:00:00 +0200"
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201",
+        "title": "Formel-1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1",
         "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
       }
     ],
@@ -97,6 +90,13 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al-Nassr",
         "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fremantle Highway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fremantle%20Highway",
+        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "FC Lugano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
-        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
+        "title": "Niger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niger",
+        "pubdate": "Wed, 26 Jul 2023 20:00:00 +0200"
       }
     ]
   ]

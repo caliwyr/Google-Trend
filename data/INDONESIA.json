@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-07-2023 , 01:08:18",
+  "lastUpdate": "27-07-2023 , 02:04:33",
   "data": [
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham",
-        "pubdate": "Thu, 27 Jul 2023 04:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Sinead O'Connor",
@@ -17,16 +10,23 @@
     ],
     [
       {
-        "title": "Donnie Darko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Donnie%20Darko",
-        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0700"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham",
+        "pubdate": "Thu, 27 Jul 2023 04:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Premier League Summer Series",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Premier%20League%20Summer%20Series",
+        "title": "Chelsea vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea%20vs%20Newcastle",
         "pubdate": "Thu, 27 Jul 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Donnie Darko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Donnie%20Darko",
+        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0700"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Bayern vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bayern%20vs%20Man%20City",
         "pubdate": "Wed, 26 Jul 2023 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Nassr",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0700"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "The Ninth Passenger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Ninth%20Passenger",
-        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0700"
+        "title": "Secret Invasion episode 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Secret%20Invasion%20episode%206",
+        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Taufik Lala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Taufik%20Lala",
-        "pubdate": "Wed, 26 Jul 2023 20:00:00 +0700"
+        "title": "The Ninth Passenger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Ninth%20Passenger",
+        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0700"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Secret Invasion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Secret%20Invasion",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0700"
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kim%20Kardashian",
+        "pubdate": "Wed, 26 Jul 2023 04:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Collide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Collide",
+        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0700"
       }
     ]
   ]
