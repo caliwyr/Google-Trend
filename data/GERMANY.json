@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 02:49:26",
+  "lastUpdate": "27-07-2023 , 02:58:38",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Ameland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ameland",
+        "pubdate": "Wed, 26 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samsung",
         "pubdate": "Wed, 26 Jul 2023 17:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20M%C3%BCnchen",
         "pubdate": "Wed, 26 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frachtschiff Brand Ameland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frachtschiff%20Brand%20Ameland",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Sizilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sizilien",
-        "pubdate": "Tue, 25 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frauen-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauen-WM",
         "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Twitter",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fussball WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
         "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ]

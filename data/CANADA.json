@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 02:49:24",
+  "lastUpdate": "27-07-2023 , 02:58:37",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "UFO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFO",
-        "pubdate": "Wed, 26 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Mitch McConnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mitch%20McConnell",
         "pubdate": "Wed, 26 Jul 2023 16:00:00 -0400"
@@ -45,6 +38,20 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLS",
+        "pubdate": "Wed, 26 Jul 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Wed, 26 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Surinder Shinda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Surinder%20Shinda",
         "pubdate": "Wed, 26 Jul 2023 01:00:00 -0400"
@@ -52,9 +59,30 @@
     ],
     [
       {
+        "title": "Tornado watch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tornado%20watch",
+        "pubdate": "Wed, 26 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lotto Max winner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lotto%20Max%20winner",
+        "pubdate": "Wed, 26 Jul 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20United",
         "pubdate": "Wed, 26 Jul 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "World Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Cup%202023",
+        "pubdate": "Wed, 26 Jul 2023 21:00:00 -0400"
       }
     ],
     [
@@ -101,20 +129,6 @@
     ],
     [
       {
-        "title": "Bill Blair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bill%20Blair",
-        "pubdate": "Wed, 26 Jul 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Wed, 26 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ethan Slater",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ethan%20Slater",
         "pubdate": "Wed, 26 Jul 2023 12:00:00 -0400"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20utd",
-        "pubdate": "Wed, 26 Jul 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sean Fraser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sean%20Fraser",
-        "pubdate": "Wed, 26 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Lopez",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 -0400"
+        "title": "Bill Blair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bill%20Blair",
+        "pubdate": "Wed, 26 Jul 2023 11:00:00 -0400"
       }
     ]
   ]
