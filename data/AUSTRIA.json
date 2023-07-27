@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2023 , 20:50:57",
+  "lastUpdate": "27-07-2023 , 21:00:15",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
-        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Banja Luka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Banja%20Luka",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
@@ -31,9 +24,16 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
+        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EZB-Zinserhöhung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB-Zinserh%C3%B6hung",
-        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
+        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
         "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FK Austria Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FK%20Austria%20Wien",
+        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Rottweiler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rottweiler",
-        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0200"
+        "title": "Waldbrände Sizilien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Waldbr%C3%A4nde%20Sizilien",
+        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
+        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,34 +101,6 @@
     ],
     [
       {
-        "title": "Jiří lehečka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ji%C5%99%C3%AD%20lehe%C4%8Dka",
-        "pubdate": "Thu, 27 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Waldbrände Sizilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Waldbr%C3%A4nde%20Sizilien",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FK Austria Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FK%20Austria%20Wien",
-        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nigeria",
-        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Djokovic",
         "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Meta-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meta-Aktie",
-        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
+        "title": "Rottweiler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rottweiler",
+        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
-        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nigeria",
+        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ethan Slater",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ethan%20Slater",
+        "pubdate": "Thu, 27 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meta-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meta-Aktie",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
