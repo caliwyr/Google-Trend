@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 10:48:47",
+  "lastUpdate": "28-07-2023 , 10:58:01",
   "data": [
     [
       {
@@ -45,16 +45,9 @@
     ],
     [
       {
-        "title": "DSV Leoben",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DSV%20Leoben",
-        "pubdate": "Fri, 28 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Austria Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
-        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
+        "title": "OMV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#OMV",
+        "pubdate": "Fri, 28 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Stefan Lainer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Lainer",
         "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Banja Luka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Banja%20Luka",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "EZB-Zinserhöhung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB-Zinserh%C3%B6hung",
-        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Borac Banja Luka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Borac%20Banja%20Luka",
         "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
@@ -108,9 +94,30 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EZB-Zinserhöhung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB-Zinserh%C3%B6hung",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Waldbrände Sizilien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Waldbr%C3%A4nde%20Sizilien",
         "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ufo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ufo",
+        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Djokovic",
         "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#China",
-        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
       }
     ]
   ]

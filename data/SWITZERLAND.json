@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 10:48:59",
+  "lastUpdate": "28-07-2023 , 10:58:11",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Randy Meisner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Randy%20Meisner",
         "pubdate": "Fri, 28 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Travis%20Scott",
+        "pubdate": "Fri, 28 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -75,7 +82,14 @@
       {
         "title": "Aliens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aliens",
-        "pubdate": "Thu, 27 Jul 2023 01:00:00 +0200"
+        "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Raron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raron",
+        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Thu, 27 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brand Richenthal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brand%20Richenthal",
-        "pubdate": "Thu, 27 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jordan Henderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jordan%20Henderson",
-        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
+        "title": "Ukraine Russland Konflikt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ukraine%20Russland%20Konflikt",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
       }
     ]
   ]

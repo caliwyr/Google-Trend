@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-07-2023 , 10:48:55",
+  "lastUpdate": "28-07-2023 , 10:58:08",
   "data": [
-    [
-      {
-        "title": "Thomas Brodie-Sangster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Brodie-Sangster",
-        "pubdate": "Fri, 28 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Careless",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Careless",
         "pubdate": "Fri, 28 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Brodie-Sangster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Brodie-Sangster",
+        "pubdate": "Fri, 28 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "UFO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFO",
-        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
@@ -48,6 +41,20 @@
         "title": "Airtag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Airtag",
         "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Politiet.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Politiet.no",
+        "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFO",
+        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Zara Larsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zara%20Larsson",
         "pubdate": "Thu, 27 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carl Gustaf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carl%20Gustaf",
-        "pubdate": "Thu, 27 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
