@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 01:49:29",
+  "lastUpdate": "28-07-2023 , 02:22:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Joe Burrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Burrow",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Aliens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aliens",
+        "pubdate": "Thu, 27 Jul 2023 10:00:00 -0700"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Post Malone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Post%20Malone",
-        "pubdate": "Thu, 27 Jul 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nancy Mace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nancy%20Mace",
-        "pubdate": "Thu, 27 Jul 2023 10:00:00 -0700"
+        "title": "Randy Meisner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Randy%20Meisner",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 -0700"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Nancy Mace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nancy%20Mace",
+        "pubdate": "Thu, 27 Jul 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Post Malone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Post%20Malone",
+        "pubdate": "Thu, 27 Jul 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Lucas Giolito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lucas%20Giolito",
         "pubdate": "Thu, 27 Jul 2023 01:00:00 -0700"
@@ -59,16 +73,9 @@
     ],
     [
       {
-        "title": "Rudy Giuliani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rudy%20Giuliani",
-        "pubdate": "Thu, 27 Jul 2023 00:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal%20vs%20Barcelona",
-        "pubdate": "Thu, 27 Jul 2023 04:00:00 -0700"
+        "title": "Dalvin Cook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dalvin%20Cook",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 -0700"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Meta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meta",
-        "pubdate": "Thu, 27 Jul 2023 07:00:00 -0700"
+        "title": "North Korean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#North%20Korean",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Crane collapse NYC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Crane%20collapse%20NYC",
         "pubdate": "Wed, 26 Jul 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Wed, 26 Jul 2023 20:00:00 -0700"
       }
     ]
   ]
