@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 09:51:04",
+  "lastUpdate": "28-07-2023 , 10:00:21",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
-        "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
+        "title": "2. Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Bundesliga",
+        "pubdate": "Fri, 28 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Göring-Eckardt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ring-Eckardt",
+        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Noma Noha Akugue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Noma%20Noha%20Akugue",
         "pubdate": "Thu, 27 Jul 2023 07:00:00 +0200"
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Robert Habeck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
-        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leitzins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leitzins",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
+        "title": "EZB Leitzins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB%20Leitzins",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Fremantle Highway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fremantle%20Highway",
         "pubdate": "Wed, 26 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samsung",
-        "pubdate": "Wed, 26 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fussball WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
         "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
+        "pubdate": "Mon, 24 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
