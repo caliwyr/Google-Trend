@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 18:44:51",
+  "lastUpdate": "28-07-2023 , 18:54:05",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coldplay",
         "pubdate": "Fri, 28 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Walser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Martin%20Walser",
+        "pubdate": "Fri, 28 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Critical Mass Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Critical%20Mass%20Z%C3%BCrich",
-        "pubdate": "Fri, 28 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jean Todt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean%20Todt",
         "pubdate": "Fri, 28 Jul 2023 18:00:00 +0200"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Uerkheim Tote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Uerkheim%20Tote",
+        "pubdate": "Fri, 28 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Silva",
         "pubdate": "Fri, 28 Jul 2023 00:00:00 +0200"
@@ -90,6 +97,20 @@
         "title": "Haiti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haiti",
         "pubdate": "Fri, 28 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Critical Mass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Critical%20Mass",
+        "pubdate": "Fri, 28 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Max%20Verstappen",
+        "pubdate": "Fri, 28 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -110,7 +131,7 @@
       {
         "title": "FC Luzern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Thu, 27 Jul 2023 21:00:00 +0200"
+        "pubdate": "Thu, 27 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
         "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mitch McConnell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mitch%20McConnell",
-        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Waldhaus Flims",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Waldhaus%20Flims",
-        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chanteuse Sinead O'Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chanteuse%20Sinead%20O'Connor",
-        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
