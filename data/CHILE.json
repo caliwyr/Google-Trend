@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 08:47:43",
+  "lastUpdate": "28-07-2023 , 08:56:58",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "Polizzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Polizzi",
+        "pubdate": "Fri, 28 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Garin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 -0400"
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Cambio de domicilio electoral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cambio%20de%20domicilio%20electoral",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Raqueta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Raqueta",
         "pubdate": "Thu, 27 Jul 2023 15:00:00 -0400"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Casen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Casen",
-        "pubdate": "Thu, 27 Jul 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Sinead O'Connor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sinead%20O'Connor",
         "pubdate": "Wed, 26 Jul 2023 15:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Real Madrid vs Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20vs%20Manchester%20United",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Caracol africano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Caracol%20africano",
-        "pubdate": "Wed, 26 Jul 2023 20:00:00 -0400"
       }
     ]
   ]
