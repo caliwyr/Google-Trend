@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-07-2023 , 16:48:04",
+  "lastUpdate": "28-07-2023 , 16:57:18",
   "data": [
     [
       {
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coldplay",
         "pubdate": "Fri, 28 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Utopia Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Utopia%20Travis%20Scott",
+        "pubdate": "Fri, 28 Jul 2023 14:00:00 +0300"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Megan Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Megan%20Fox",
         "pubdate": "Fri, 28 Jul 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Utopia Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Utopia%20Travis%20Scott",
-        "pubdate": "Fri, 28 Jul 2023 14:00:00 +0300"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Alien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien",
+        "pubdate": "Thu, 27 Jul 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Niger",
         "pubdate": "Thu, 27 Jul 2023 07:00:00 +0300"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Alien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0300"
+        "title": "KuPS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KuPS",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hereditary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hereditary",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Neste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neste",
-        "pubdate": "Thu, 27 Jul 2023 16:00:00 +0300"
       }
     ]
   ]
