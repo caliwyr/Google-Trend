@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 11:50:49",
+  "lastUpdate": "28-07-2023 , 12:00:01",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Alexandra Popp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexandra%20Popp",
+        "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Witcher",
         "pubdate": "Thu, 27 Jul 2023 22:00:00 +0200"
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "Noma Noha Akugue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Noma%20Noha%20Akugue",
-        "pubdate": "Thu, 27 Jul 2023 07:00:00 +0200"
+        "title": "EZB-Zinsentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
+        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Görlitzer Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6rlitzer%20Park",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
+        "title": "Heinz Strunk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heinz%20Strunk",
+        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Noma Noha Akugue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Noma%20Noha%20Akugue",
+        "pubdate": "Thu, 27 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Twitter",
         "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fussball WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Mon, 24 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
