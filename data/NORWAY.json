@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 06:46:06",
+  "lastUpdate": "28-07-2023 , 06:55:31",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "UFO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFO",
-        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Airtag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Airtag",
         "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFO",
+        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 06:46:04",
+  "lastUpdate": "28-07-2023 , 06:55:28",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Milan",
         "pubdate": "Fri, 28 Jul 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Persib vs Persik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20vs%20Persik",
+        "pubdate": "Fri, 28 Jul 2023 13:00:00 +0700"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FC%20Barcelona",
-        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0700"
+        "title": "Exclusive Fairytale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Exclusive%20Fairytale",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Exclusive Fairytale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Exclusive%20Fairytale",
-        "pubdate": "Thu, 27 Jul 2023 18:00:00 +0700"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FC%20Barcelona",
+        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0700"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Xi Jinping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Xi%20Jinping",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Posan Tobing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Posan%20Tobing",
-        "pubdate": "Thu, 27 Jul 2023 10:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Sigmax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sigmax",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Xi Jinping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Xi%20Jinping",
+        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0700"
       }
     ]
   ]
