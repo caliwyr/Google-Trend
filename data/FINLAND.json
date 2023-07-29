@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-07-2023 , 16:48:47",
+  "lastUpdate": "29-07-2023 , 16:58:06",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Pelicans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
-        "pubdate": "Fri, 28 Jul 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Hurts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hurts",
         "pubdate": "Fri, 28 Jul 2023 22:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kylian%20Mbapp%C3%A9",
         "pubdate": "Thu, 27 Jul 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mitch McConnell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mitch%20McConnell",
+        "pubdate": "Thu, 27 Jul 2023 06:00:00 +0300"
       }
     ]
   ]
