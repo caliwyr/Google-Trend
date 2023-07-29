@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-07-2023 , 10:44:35",
+  "lastUpdate": "29-07-2023 , 10:53:51",
   "data": [
+    [
+      {
+        "title": "Sully",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sully",
+        "pubdate": "Sat, 29 Jul 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "The Beach",
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "ETHOS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ETHOS",
+        "pubdate": "Fri, 28 Jul 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sanna%20Marin",
         "pubdate": "Thu, 27 Jul 2023 10:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Alien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien",
         "pubdate": "Thu, 27 Jul 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mitch McConnell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mitch%20McConnell",
-        "pubdate": "Thu, 27 Jul 2023 06:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rydman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rydman",
-        "pubdate": "Thu, 27 Jul 2023 22:00:00 +0300"
       }
     ]
   ]
