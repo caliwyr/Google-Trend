@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-07-2023 , 22:42:21",
+  "lastUpdate": "29-07-2023 , 22:51:42",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Healing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Healing",
+        "pubdate": "Sat, 29 Jul 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Smile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Smile",
         "pubdate": "Sat, 29 Jul 2023 23:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "DD Returns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#DD%20Returns",
         "pubdate": "Fri, 28 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Utopia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Utopia",
-        "pubdate": "Fri, 28 Jul 2023 16:00:00 +0800"
       }
     ]
   ]
