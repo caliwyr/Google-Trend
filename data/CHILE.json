@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 23:53:41",
+  "lastUpdate": "29-07-2023 , 00:46:40",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "O'Higgins  Ñublense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins%20%20%C3%91ublense",
+        "title": "O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
         "pubdate": "Fri, 28 Jul 2023 17:00:00 -0400"
       }
     ],
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Jisoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jisoo",
+        "pubdate": "Fri, 28 Jul 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "ProChile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ProChile",
+        "pubdate": "Fri, 28 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Vicente fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vicente%20fernandez",
         "pubdate": "Fri, 28 Jul 2023 14:00:00 -0400"
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Polizzi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Polizzi",
-        "pubdate": "Fri, 28 Jul 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina",
         "pubdate": "Fri, 28 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Haiti vs China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Haiti%20vs%20China",
-        "pubdate": "Fri, 28 Jul 2023 10:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Copa Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Chile",
-        "pubdate": "Thu, 27 Jul 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Carlos Ruiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Ruiz",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Deportes Temuco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
         "pubdate": "Thu, 27 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
+        "pubdate": "Thu, 27 Jul 2023 22:00:00 -0400"
       }
     ]
   ]
