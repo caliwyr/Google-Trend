@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 16:49:22",
+  "lastUpdate": "30-07-2023 , 16:58:38",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
+        "pubdate": "Sat, 29 Jul 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Sat, 29 Jul 2023 11:00:00 -0700"
+        "pubdate": "Sat, 29 Jul 2023 13:00:00 -0700"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Max Scherzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Scherzer",
         "pubdate": "Sat, 29 Jul 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Alex Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alex%20Pereira",
+        "pubdate": "Sat, 29 Jul 2023 16:00:00 -0700"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Jan Blachowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jan%20Blachowicz",
-        "pubdate": "Sat, 29 Jul 2023 21:00:00 -0700"
+        "title": "Justin Verlander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Verlander",
+        "pubdate": "Sat, 29 Jul 2023 22:00:00 -0700"
       }
     ],
     [
@@ -80,23 +94,9 @@
     ],
     [
       {
-        "title": "Justin Verlander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Verlander",
-        "pubdate": "Sat, 29 Jul 2023 22:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Conor%20McGregor",
         "pubdate": "Sat, 29 Jul 2023 23:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
-        "pubdate": "Fri, 28 Jul 2023 23:00:00 -0700"
       }
     ],
     [
