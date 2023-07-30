@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 20:47:10",
+  "lastUpdate": "30-07-2023 , 20:56:36",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Cardi B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardi%20B",
         "pubdate": "Sun, 30 Jul 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lake Lanier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lake%20Lanier",
-        "pubdate": "Sun, 30 Jul 2023 12:00:00 -0700"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Alex Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alex%20Pereira",
+        "pubdate": "Sat, 29 Jul 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Katie Ledecky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Katie%20Ledecky",
         "pubdate": "Sat, 29 Jul 2023 14:00:00 -0700"
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Derrick Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Derrick%20Lewis",
-        "pubdate": "Sat, 29 Jul 2023 19:00:00 -0700"
+        "title": "Jonathan Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jonathan%20Taylor",
+        "pubdate": "Sat, 29 Jul 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Sony Michel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sony%20Michel",
+        "pubdate": "Sat, 29 Jul 2023 22:00:00 -0700"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "Justin Verlander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Verlander",
         "pubdate": "Sat, 29 Jul 2023 22:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Jan Blachowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jan%20Blachowicz",
-        "pubdate": "Sat, 29 Jul 2023 21:00:00 -0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Michelle Yeoh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michelle%20Yeoh",
-        "pubdate": "Fri, 28 Jul 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Lance Lynn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lance%20Lynn",
         "pubdate": "Fri, 28 Jul 2023 14:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Aaron Judge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
         "pubdate": "Fri, 28 Jul 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Sam Bankman-Fried",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sam%20Bankman-Fried",
+        "pubdate": "Fri, 28 Jul 2023 06:00:00 -0700"
       }
     ]
   ]
