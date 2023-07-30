@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 07:45:24",
+  "lastUpdate": "30-07-2023 , 07:54:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ethan Slater",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ethan%20Slater",
         "pubdate": "Sun, 30 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Runar Sögaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Runar%20S%C3%B6gaard",
+        "pubdate": "Sun, 30 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "UFC 291",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20291",
-        "pubdate": "Sat, 29 Jul 2023 00:00:00 +0200"
+        "title": "Häcken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken",
+        "pubdate": "Sat, 29 Jul 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Degerfors IF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
-        "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
+        "title": "UFC 291",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20291",
+        "pubdate": "Sat, 29 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Häcken Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20Elfsborg",
-        "pubdate": "Sat, 29 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elin Rubensson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elin%20Rubensson",
-        "pubdate": "Sat, 29 Jul 2023 12:00:00 +0200"
+        "title": "Degerfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
+        "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "UTOPIA Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UTOPIA%20Travis%20Scott",
+        "pubdate": "Fri, 28 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Post Malone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Post%20Malone",
         "pubdate": "Fri, 28 Jul 2023 14:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Thu, 27 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
