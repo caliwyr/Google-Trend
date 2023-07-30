@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-07-2023 , 04:46:44",
+  "lastUpdate": "30-07-2023 , 04:56:00",
   "data": [
+    [
+      {
+        "title": "Hertha BSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
+        "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "CSD Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CSD%20Stuttgart",
-        "pubdate": "Sat, 29 Jul 2023 09:00:00 +0200"
+        "title": "Starkregen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starkregen",
+        "pubdate": "Sat, 29 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Katy Karrenbauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katy%20Karrenbauer",
         "pubdate": "Sat, 29 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "2. Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Bundesliga",
-        "pubdate": "Fri, 28 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%2004",
-        "pubdate": "Fri, 28 Jul 2023 17:00:00 +0200"
+        "title": "Roland Kaiser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roland%20Kaiser",
+        "pubdate": "Fri, 28 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Regionalliga Nordost",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Regionalliga%20Nordost",
         "pubdate": "Fri, 28 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haiti",
+        "pubdate": "Fri, 28 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Brasilien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brasilien",
+        "pubdate": "Fri, 28 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Julian Draxler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Draxler",
         "pubdate": "Fri, 28 Jul 2023 13:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Alexandra Popp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexandra%20Popp",
         "pubdate": "Thu, 27 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EZB-Zinsentscheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
-        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heinz Strunk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heinz%20Strunk",
-        "pubdate": "Thu, 27 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
