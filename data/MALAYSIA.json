@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 23:48:20",
+  "lastUpdate": "30-07-2023 , 23:57:40",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Badminton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton",
+        "pubdate": "Sun, 30 Jul 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tennis",
         "pubdate": "Sun, 30 Jul 2023 14:00:00 +0800"
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Uncanny Counter season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Uncanny%20Counter%20season%202",
+        "title": "Uncanny Counter Season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Uncanny%20Counter%20Season%202",
         "pubdate": "Sat, 29 Jul 2023 19:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "LRT Maluri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LRT%20Maluri",
         "pubdate": "Sat, 29 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Riyad Mahrez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Riyad%20Mahrez",
-        "pubdate": "Sat, 29 Jul 2023 09:00:00 +0800"
       }
     ]
   ]
