@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-07-2023 , 11:53:24",
+  "lastUpdate": "30-07-2023 , 12:14:53",
   "data": [
-    [
-      {
-        "title": "Als",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Als",
-        "pubdate": "Sun, 30 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "UFC",
@@ -24,9 +17,16 @@
     ],
     [
       {
-        "title": "Goldband",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goldband",
-        "pubdate": "Sun, 30 Jul 2023 07:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bea Van der Maat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bea%20Van%20der%20Maat",
+        "pubdate": "Sat, 29 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "RWDM Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20Genk",
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
         "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
       }
     ],
@@ -61,7 +61,7 @@
       {
         "title": "Oscar Piastri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oscar%20Piastri",
-        "pubdate": "Sat, 29 Jul 2023 14:00:00 +0200"
+        "pubdate": "Sat, 29 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Tibo Inshape",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tibo%20Inshape",
+        "pubdate": "Sat, 29 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Augsburg - Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Augsburg%20-%20Ajax",
         "pubdate": "Sat, 29 Jul 2023 16:00:00 +0200"
@@ -104,13 +111,6 @@
         "title": "Hardwell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hardwell",
         "pubdate": "Sat, 29 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Willy Sommers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Willy%20Sommers",
-        "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
       }
     ],
     [
