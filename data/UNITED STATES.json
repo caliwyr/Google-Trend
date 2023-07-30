@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-07-2023 , 12:41:02",
+  "lastUpdate": "30-07-2023 , 12:56:04",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
+        "pubdate": "Sat, 29 Jul 2023 16:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Sat, 29 Jul 2023 13:00:00 -0700"
+        "pubdate": "Sat, 29 Jul 2023 11:00:00 -0700"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Jonathan Taylor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jonathan%20Taylor",
-        "pubdate": "Sat, 29 Jul 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FC%20Barcelona",
         "pubdate": "Sat, 29 Jul 2023 15:00:00 -0700"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Sony Michel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sony%20Michel",
-        "pubdate": "Sat, 29 Jul 2023 22:00:00 -0700"
+        "title": "AMBER ALERT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMBER%20ALERT",
+        "pubdate": "Sat, 29 Jul 2023 23:00:00 -0700"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Amber Alert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amber%20Alert",
-        "pubdate": "Sat, 29 Jul 2023 23:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Spence vs Crawford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spence%20vs%20Crawford",
-        "pubdate": "Fri, 28 Jul 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
-        "pubdate": "Fri, 28 Jul 2023 23:00:00 -0700"
+        "pubdate": "Fri, 28 Jul 2023 12:00:00 -0700"
       }
     ],
     [
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Denver Broncos Sean Payton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Denver%20Broncos%20Sean%20Payton",
-        "pubdate": "Fri, 28 Jul 2023 17:00:00 -0700"
+        "title": "Talk to Me movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Talk%20to%20Me%20movie",
+        "pubdate": "Fri, 28 Jul 2023 07:00:00 -0700"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Joe Burrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Burrow",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Utopia Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utopia%20Travis%20Scott",
+        "pubdate": "Thu, 27 Jul 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Tyler Childers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tyler%20Childers",
+        "pubdate": "Thu, 27 Jul 2023 11:00:00 -0700"
       }
     ]
   ]
