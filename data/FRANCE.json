@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "30-07-2023 , 08:43:56",
+  "lastUpdate": "30-07-2023 , 08:53:26",
   "data": [
     [
       {
         "title": "Coupe du monde féminine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupe%20du%20monde%20f%C3%A9minine",
-        "pubdate": "Sat, 29 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "France bresil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20bresil",
-        "pubdate": "Sat, 29 Jul 2023 08:00:00 +0200"
+        "pubdate": "Sat, 29 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Barcelone – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France bresil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20bresil",
+        "pubdate": "Sat, 29 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Camille Lacourt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camille%20Lacourt",
-        "pubdate": "Sat, 29 Jul 2023 22:00:00 +0200"
+        "title": "Thierry Ardisson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Ardisson",
+        "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Narbonne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Narbonne",
+        "title": "Camille Lacourt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camille%20Lacourt",
         "pubdate": "Sat, 29 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Juju Fitcats",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juju%20Fitcats",
-        "pubdate": "Sat, 29 Jul 2023 23:00:00 +0200"
+        "title": "Narbonne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Narbonne",
+        "pubdate": "Sat, 29 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Mahrez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mahrez",
-        "pubdate": "Sat, 29 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Clasica San Sebastian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clasica%20San%20Sebastian",
         "pubdate": "Sat, 29 Jul 2023 17:00:00 +0200"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Sénégal Ousmane Sonko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S%C3%A9n%C3%A9gal%20Ousmane%20Sonko",
+        "title": "Sénégal, Ousmane Sonko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S%C3%A9n%C3%A9gal,%20Ousmane%20Sonko",
         "pubdate": "Sat, 29 Jul 2023 05:00:00 +0200"
       }
     ],
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Football féminin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Football%20f%C3%A9minin",
-        "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
+        "title": "Mort Sinead O'Connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mort%20Sinead%20O'Connor",
+        "pubdate": "Sat, 29 Jul 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mort Sinead O'Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mort%20Sinead%20O'Connor",
-        "pubdate": "Sat, 29 Jul 2023 10:00:00 +0200"
+        "title": "Viol Champs-de-Mars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Viol%20Champs-de-Mars",
+        "pubdate": "Sat, 29 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Dassin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joe%20Dassin",
+        "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
