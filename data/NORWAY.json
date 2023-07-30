@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 14:44:46",
+  "lastUpdate": "30-07-2023 , 14:54:16",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
+        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Lyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
+        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Leicester",
+        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kamala%20Harris",
         "pubdate": "Sun, 30 Jul 2023 11:00:00 +0200"
@@ -48,6 +62,13 @@
         "title": "Tone Damli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tone%20Damli",
         "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stabæk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stab%C3%A6k",
+        "pubdate": "Sun, 30 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Randy Meisner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Randy%20Meisner",
         "pubdate": "Fri, 28 Jul 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ethan Slater",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ethan%20Slater",
-        "pubdate": "Fri, 28 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Brodie-Sangster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Brodie-Sangster",
-        "pubdate": "Fri, 28 Jul 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Travis%20Scott",
-        "pubdate": "Fri, 28 Jul 2023 09:00:00 +0200"
       }
     ]
   ]

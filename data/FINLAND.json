@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 14:44:41",
+  "lastUpdate": "30-07-2023 , 14:54:12",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
-        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Pokemon Go",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pokemon%20Go",
         "pubdate": "Sun, 30 Jul 2023 06:00:00 +0300"
@@ -62,6 +55,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
         "pubdate": "Sun, 30 Jul 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "F1 Spa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1%20Spa",
+        "pubdate": "Sun, 30 Jul 2023 17:00:00 +0300"
       }
     ],
     [
