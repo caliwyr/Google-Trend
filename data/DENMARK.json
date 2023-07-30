@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 05:43:28",
+  "lastUpdate": "30-07-2023 , 05:52:40",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Viktor Axelsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Viktor%20Axelsen",
-        "pubdate": "Fri, 28 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Su",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Su",
         "pubdate": "Fri, 28 Jul 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Yale university",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yale%20university",
         "pubdate": "Fri, 28 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CBS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CBS",
+        "pubdate": "Fri, 28 Jul 2023 02:00:00 +0200"
       }
     ]
   ]
