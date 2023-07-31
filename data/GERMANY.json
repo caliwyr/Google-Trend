@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 23:20:52",
+  "lastUpdate": "31-07-2023 , 23:30:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Paul Reubens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paul%20Reubens",
         "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Görlitzer Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6rlitzer%20Park",
+        "pubdate": "Mon, 31 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Ricarda Lang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ricarda%20Lang",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM",
         "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "FIFA frauen-wm™",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FIFA%20frauen-wm%E2%84%A2",
-        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
+        "title": "DFB-Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
+        "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Lorenz Büffel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lorenz%20B%C3%BCffel",
         "pubdate": "Sun, 30 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FIFA Frauen WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FIFA%20Frauen%20WM",
+        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Fri, 28 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Walser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Walser",
-        "pubdate": "Fri, 28 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
