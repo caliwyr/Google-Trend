@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2023 , 23:57:34",
+  "lastUpdate": "31-07-2023 , 01:19:30",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Ben Zucker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ben%20Zucker",
         "pubdate": "Sun, 30 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
+        "pubdate": "Sun, 30 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,20 @@
     ],
     [
       {
+        "title": "Tag der Freundschaft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tag%20der%20Freundschaft",
+        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AT&T Stadium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AT%26T%20Stadium",
+        "pubdate": "Sun, 30 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Linda Caicedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linda%20Caicedo",
         "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Cardi B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cardi%20B",
         "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "News Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#News%20%C3%96sterreich",
-        "pubdate": "Sun, 30 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VfB%20Stuttgart",
-        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nothing Compares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nothing%20Compares",
-        "pubdate": "Sun, 30 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
