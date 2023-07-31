@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 18:51:35",
+  "lastUpdate": "31-07-2023 , 19:01:45",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Családi pótlék",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csal%C3%A1di%20p%C3%B3tl%C3%A9k",
+        "title": "A Sziget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20Sziget",
         "pubdate": "Mon, 31 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szemlélek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szeml%C3%A9lek",
+        "pubdate": "Mon, 31 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Családi pótlék 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csal%C3%A1di%20p%C3%B3tl%C3%A9k%202023",
+        "pubdate": "Mon, 31 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "M7 autópálya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M7%20aut%C3%B3p%C3%A1lya",
         "pubdate": "Mon, 31 Jul 2023 17:00:00 +0200"
@@ -31,23 +45,16 @@
     ],
     [
       {
+        "title": "Varga Judit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit",
+        "pubdate": "Mon, 31 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Twitter X",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Twitter%20X",
         "pubdate": "Mon, 31 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Honvéd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Honv%C3%A9d",
-        "pubdate": "Mon, 31 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szemlélek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szeml%C3%A9lek",
-        "pubdate": "Mon, 31 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Árfigyelő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rfigyel%C5%91",
-        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
         "pubdate": "Sun, 30 Jul 2023 20:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Chelsea–fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93fulham",
         "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Árfigyelő rendszer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rfigyel%C5%91%20rendszer",
+        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Mammut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mammut",
-        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arnold Schwarzenegger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arnold%20Schwarzenegger",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
+        "title": "F1 Belga Nagydíj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Belga%20Nagyd%C3%ADj",
+        "pubdate": "Sun, 30 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
