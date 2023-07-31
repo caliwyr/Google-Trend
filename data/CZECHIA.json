@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 09:43:04",
+  "lastUpdate": "31-07-2023 , 09:52:24",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Plzeň – Hradec Králové",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "pubdate": "Sun, 30 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bohemians – Teplice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Teplice",
         "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
@@ -27,20 +34,6 @@
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Sun, 30 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City – Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 30 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viktoria Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20Plze%C5%88",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Nohavica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nohavica",
-        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Depeche Mode",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Depeche%20Mode",
         "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
@@ -90,6 +76,13 @@
         "title": "Barcelona – Real",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Real",
         "pubdate": "Sat, 29 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zlín – Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zl%C3%ADn%20%E2%80%93%20Sparta",
+        "pubdate": "Sat, 29 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Karlos Vémola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karlos%20V%C3%A9mola",
-        "pubdate": "Sat, 29 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barbora Strýcová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barbora%20Str%C3%BDcov%C3%A1",
         "pubdate": "Sat, 29 Jul 2023 20:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Baldur's Gate 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Baldur's%20Gate%203",
         "pubdate": "Sat, 29 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ostrava v plamenech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ostrava%20v%20plamenech",
+        "pubdate": "Sat, 29 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mont blanc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mont%20blanc",
+        "pubdate": "Sat, 29 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
