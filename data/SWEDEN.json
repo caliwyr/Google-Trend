@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 05:53:41",
+  "lastUpdate": "31-07-2023 , 06:11:52",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Jon Olsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jon%20Olsson",
-        "pubdate": "Sun, 30 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mjällby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
         "pubdate": "Sun, 30 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "UFC 291",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20291",
         "pubdate": "Sat, 29 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Degerfors IF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
+        "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
