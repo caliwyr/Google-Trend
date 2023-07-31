@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 13:48:14",
+  "lastUpdate": "31-07-2023 , 13:57:31",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Úplněk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Apln%C4%9Bk",
+        "pubdate": "Mon, 31 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
         "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Depeche Mode",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Depeche%20Mode",
+        "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Plzeň – Hradec Králové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
         "pubdate": "Sun, 30 Jul 2023 18:00:00 +0200"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Slavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
-        "pubdate": "Sun, 30 Jul 2023 22:00:00 +0200"
+        "title": "Bohemians – Teplice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Teplice",
+        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bohemians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Sun, 30 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,9 +115,16 @@
     ],
     [
       {
-        "title": "Depeche Mode",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Depeche%20Mode",
-        "pubdate": "Sat, 29 Jul 2023 19:00:00 +0200"
+        "title": "Špotáková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pot%C3%A1kov%C3%A1",
+        "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nohavica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nohavica",
+        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Barcelona – Real",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Real",
         "pubdate": "Sat, 29 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rolling%20Stones",
-        "pubdate": "Sat, 29 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sandra Bullock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sandra%20Bullock",
-        "pubdate": "Sat, 29 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC 291",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20291",
-        "pubdate": "Sat, 29 Jul 2023 03:00:00 +0200"
       }
     ]
   ]
