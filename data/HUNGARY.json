@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2023 , 12:30:24",
+  "lastUpdate": "31-07-2023 , 12:56:39",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Árstop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rstop",
+        "title": "Honvéd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Honv%C3%A9d",
         "pubdate": "Mon, 31 Jul 2023 08:00:00 +0200"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Online árfigyelő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Online%20%C3%A1rfigyel%C5%91",
-        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea–fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93fulham",
         "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
@@ -66,9 +59,30 @@
     ],
     [
       {
+        "title": "Árfigyelő rendszer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rfigyel%C5%91%20rendszer",
+        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aquaman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aquaman",
+        "pubdate": "Sun, 30 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Iggy Pop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iggy%20Pop",
         "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Márton Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A1rton%20Anna",
+        "pubdate": "Sun, 30 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Leonardo DiCaprio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leonardo%20DiCaprio",
         "pubdate": "Sun, 30 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "E-bejelentő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#E-bejelent%C5%91",
-        "pubdate": "Sun, 30 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Vasas FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vasas%20FC",
-        "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kisvárda jégeső",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisv%C3%A1rda%20j%C3%A9ges%C5%91",
         "pubdate": "Sun, 30 Jul 2023 09:00:00 +0200"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Cardi b",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cardi%20b",
+        "title": "Cardi B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cardi%20B",
         "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
       }
     ]
