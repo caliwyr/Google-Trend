@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-07-2023 , 20:59:23",
+  "lastUpdate": "31-07-2023 , 21:16:03",
   "data": [
+    [
+      {
+        "title": "Paul Reubens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paul%20Reubens",
+        "pubdate": "Tue, 01 Aug 2023 08:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Chelsea",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Spain vs Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spain%20vs%20Japan",
-        "pubdate": "Mon, 31 Jul 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Wally Lewis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wally%20Lewis",
         "pubdate": "Mon, 31 Jul 2023 17:00:00 +1200"
@@ -55,6 +55,13 @@
         "title": "Tamati Coffey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tamati%20Coffey",
         "pubdate": "Mon, 31 Jul 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Spain vs Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spain%20vs%20Japan",
+        "pubdate": "Mon, 31 Jul 2023 20:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
         "pubdate": "Sun, 30 Jul 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "GeoNet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-        "pubdate": "Sun, 30 Jul 2023 23:00:00 +1200"
       }
     ]
   ]
