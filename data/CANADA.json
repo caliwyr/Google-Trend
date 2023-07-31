@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "31-07-2023 , 06:48:10",
+  "lastUpdate": "31-07-2023 , 06:57:27",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Mon, 31 Jul 2023 02:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Whitecaps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
         "pubdate": "Mon, 31 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dark Winds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dark%20Winds",
+        "pubdate": "Mon, 31 Jul 2023 02:00:00 -0400"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Toronto FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20FC",
-        "pubdate": "Sun, 30 Jul 2023 21:00:00 -0400"
+        "title": "Canada vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Australia",
+        "pubdate": "Sun, 30 Jul 2023 19:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Canada vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Australia",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 -0400"
+        "title": "Toronto FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20FC",
+        "pubdate": "Sun, 30 Jul 2023 21:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Friendship Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Friendship%20Day",
-        "pubdate": "Sun, 30 Jul 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "President Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#President%20Trump",
         "pubdate": "Sun, 30 Jul 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Senior Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senior%20Open",
-        "pubdate": "Sun, 30 Jul 2023 16:00:00 -0400"
       }
     ]
   ]
