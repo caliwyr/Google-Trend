@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 11:45:53",
+  "lastUpdate": "01-08-2023 , 11:55:12",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Pride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pride",
         "pubdate": "Tue, 01 Aug 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Linda Bengtzing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linda%20Bengtzing",
-        "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Mon, 31 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alexander Wennberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Wennberg",
         "pubdate": "Mon, 31 Jul 2023 11:00:00 +0200"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madonna",
+        "pubdate": "Mon, 31 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ioannis Pittas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ioannis%20Pittas",
         "pubdate": "Mon, 31 Jul 2023 00:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madonna",
-        "pubdate": "Mon, 31 Jul 2023 18:00:00 +0200"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20utd",
+        "pubdate": "Mon, 31 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bygdeå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bygde%C3%A5",
+        "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
       }
     ]
   ]
