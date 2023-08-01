@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 01:37:37",
+  "lastUpdate": "01-08-2023 , 02:29:55",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
+        "title": "Frauen-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauen-WM",
+        "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Popp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Popp",
         "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ricarda Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ricarda%20Lang",
+        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Martin Walser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Walser",
         "pubdate": "Fri, 28 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD-Parteitag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Parteitag",
-        "pubdate": "Fri, 28 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
