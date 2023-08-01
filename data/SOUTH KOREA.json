@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-08-2023 , 15:47:07",
+  "lastUpdate": "01-08-2023 , 15:56:40",
   "data": [
+    [
+      {
+        "title": "초전도체",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B4%88%EC%A0%84%EB%8F%84%EC%B2%B4",
+        "pubdate": "Tue, 01 Aug 2023 20:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "태풍",
@@ -132,13 +139,6 @@
         "title": "FOMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#FOMC",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "UFO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFO",
-        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0900"
       }
     ]
   ]
