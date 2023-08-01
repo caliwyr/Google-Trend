@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-08-2023 , 04:45:48",
+  "lastUpdate": "01-08-2023 , 04:55:11",
   "data": [
     [
       {
         "title": "Angus Cloud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Angus%20Cloud",
         "pubdate": "Tue, 01 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andrej Babiš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrej%20Babi%C5%A1",
+        "pubdate": "Tue, 01 Aug 2023 06:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Hlinka Gretzky Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlinka%20Gretzky%20Cup",
         "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paul Reubens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Paul%20Reubens",
+        "pubdate": "Mon, 31 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Bohemians – Teplice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Teplice",
-        "pubdate": "Sun, 30 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Sun, 30 Jul 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Kratom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kratom",
         "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Sun, 30 Jul 2023 01:00:00 +0200"
       }
     ]
   ]
