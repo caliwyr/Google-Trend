@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 21:55:14",
+  "lastUpdate": "01-08-2023 , 22:10:06",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Al-Nassr",
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Al%20Nassr",
         "pubdate": "Tue, 01 Aug 2023 03:00:00 +0100"
       }
     ],
@@ -48,13 +48,6 @@
         "title": "Stuart Broad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stuart%20Broad",
         "pubdate": "Tue, 01 Aug 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "India vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#India%20vs%20West%20Indies",
-        "pubdate": "Tue, 01 Aug 2023 19:00:00 +0100"
       }
     ],
     [
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Football Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Football%20Manchester%20United",
+        "title": "Football manchester united",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Football%20manchester%20united",
         "pubdate": "Tue, 01 Aug 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "India vs West Indies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#India%20vs%20West%20Indies",
+        "pubdate": "Tue, 01 Aug 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Weather For August",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20For%20August",
+        "pubdate": "Tue, 01 Aug 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "August",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#August",
         "pubdate": "Tue, 01 Aug 2023 12:00:00 +0100"
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Israeli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Israeli",
+        "title": "IND vs WI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#IND%20vs%20WI",
+        "pubdate": "Tue, 01 Aug 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lizzo",
+        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Race Results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Race%20Results",
         "pubdate": "Tue, 01 Aug 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angus Cloud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Angus%20Cloud",
-        "pubdate": "Mon, 31 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Football Women's World Cup 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Football%20Women's%20World%20Cup%202023",
-        "pubdate": "Mon, 31 Jul 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paul Reubens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paul%20Reubens",
-        "pubdate": "Mon, 31 Jul 2023 19:00:00 +0100"
       }
     ]
   ]
