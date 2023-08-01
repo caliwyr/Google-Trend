@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "31-07-2023 , 23:58:23",
+  "lastUpdate": "01-08-2023 , 01:37:44",
   "data": [
+    [
+      {
+        "title": "Angus Cloud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angus%20Cloud",
+        "pubdate": "Tue, 01 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Looper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Looper",
+        "pubdate": "Tue, 01 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pride",
+        "pubdate": "Tue, 01 Aug 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Linda Bengtzing",
@@ -13,20 +34,6 @@
         "title": "AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Mon, 31 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Remi Lucidi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Remi%20Lucidi",
-        "pubdate": "Mon, 31 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Magnus Carlsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Carlsson",
-        "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Tareq Taylor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
+        "title": "Magnus Carlsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Carlsson",
         "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Mon, 31 Jul 2023 20:00:00 +0200"
+        "title": "Tareq Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
+        "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pride Stockholm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pride%20Stockholm",
         "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
       }
     ]
   ]

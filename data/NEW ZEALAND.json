@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-07-2023 , 23:58:21",
+  "lastUpdate": "01-08-2023 , 01:37:41",
   "data": [
+    [
+      {
+        "title": "Angus Cloud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Angus%20Cloud",
+        "pubdate": "Tue, 01 Aug 2023 11:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Paul Reubens",
@@ -20,6 +27,20 @@
         "title": "Full moon August 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Full%20moon%20August%202023",
         "pubdate": "Tue, 01 Aug 2023 01:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Remi Lucidi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Remi%20Lucidi",
+        "pubdate": "Tue, 01 Aug 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Canada vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canada%20vs%20Australia",
+        "pubdate": "Mon, 31 Jul 2023 18:00:00 +1200"
       }
     ],
     [
@@ -66,23 +87,9 @@
     ],
     [
       {
-        "title": "PPTA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PPTA",
-        "pubdate": "Mon, 31 Jul 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Fulham",
         "pubdate": "Mon, 31 Jul 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Cook Islands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cook%20Islands",
-        "pubdate": "Mon, 31 Jul 2023 15:00:00 +1200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "FIFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIFA",
-        "pubdate": "Sun, 30 Jul 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
         "pubdate": "Sun, 30 Jul 2023 10:00:00 +1200"
       }
     ]
