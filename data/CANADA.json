@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-08-2023 , 10:54:03",
+  "lastUpdate": "01-08-2023 , 11:07:22",
   "data": [
+    [
+      {
+        "title": "August",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#August",
+        "pubdate": "Tue, 01 Aug 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Liliane Pierre-Paul",
@@ -132,13 +139,6 @@
         "title": "Troy Terry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Troy%20Terry",
         "pubdate": "Mon, 31 Jul 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Citi Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Citi%20Open",
-        "pubdate": "Mon, 31 Jul 2023 20:00:00 -0400"
       }
     ]
   ]
