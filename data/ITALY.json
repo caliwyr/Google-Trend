@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-08-2023 , 20:48:44",
+  "lastUpdate": "02-08-2023 , 20:58:04",
   "data": [
-    [
-      {
-        "title": "Strage di Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Strage%20di%20Bologna",
-        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Napoli-Girona",
@@ -17,8 +10,29 @@
     ],
     [
       {
+        "title": "Strage di Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Strage%20di%20Bologna",
+        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool-Bayern Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liverpool-Bayern%20Monaco",
+        "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Isaksen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Isaksen",
+        "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marcelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcelo",
         "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -38,23 +52,16 @@
     ],
     [
       {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcelo",
-        "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Farense  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Farense%20%20Roma",
-        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lizzo",
         "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Giorgia Cardinaletti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgia%20Cardinaletti",
+        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Reggina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
-        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
+        "title": "L'uomo della pioggia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#L'uomo%20della%20pioggia",
+        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,16 +87,23 @@
     ],
     [
       {
-        "title": "Milan-Barcellona dove vederla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Barcellona%20dove%20vederla",
-        "pubdate": "Wed, 02 Aug 2023 06:00:00 +0200"
+        "title": "Berardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berardi",
+        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hjulmand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hjulmand",
-        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
+        "title": "Reggina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
+        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan-Barcellona dove vederla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Barcellona%20dove%20vederla",
+        "pubdate": "Wed, 02 Aug 2023 06:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liverpool",
-        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Post Malone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Post%20Malone",
         "pubdate": "Wed, 02 Aug 2023 14:00:00 +0200"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Cavallette Rimini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cavallette%20Rimini",
-        "pubdate": "Wed, 02 Aug 2023 01:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liverpool",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tomiyasu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tomiyasu",
         "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trump",
-        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
       }
     ]
   ]

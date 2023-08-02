@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 20:48:47",
+  "lastUpdate": "02-08-2023 , 20:58:08",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Geneviève de Fontenay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Genevi%C3%A8ve%20de%20Fontenay",
         "pubdate": "Wed, 02 Aug 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vaticano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vaticano",
+        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0100"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional",
-        "pubdate": "Wed, 02 Aug 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
         "pubdate": "Wed, 02 Aug 2023 19:00:00 +0100"
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Volta à Polónia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Volta%20%C3%A0%20Pol%C3%B3nia",
-        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0100"
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional",
+        "pubdate": "Wed, 02 Aug 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Percurso do Papa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Percurso%20do%20Papa",
-        "pubdate": "Wed, 02 Aug 2023 14:00:00 +0100"
+        "title": "Radio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Radio",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Volta à Polónia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Volta%20%C3%A0%20Pol%C3%B3nia",
+        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Scholas Occurrentes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Scholas%20Occurrentes",
-        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0100"
+        "title": "Zeca Afonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zeca%20Afonso",
+        "pubdate": "Wed, 02 Aug 2023 20:00:00 +0100"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Portugal Estados Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20Estados%20Unidos",
+        "title": "Portugal feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20feminino",
         "pubdate": "Tue, 01 Aug 2023 09:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nunciatura Apostólica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nunciatura%20Apost%C3%B3lica",
         "pubdate": "Tue, 01 Aug 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo",
-        "pubdate": "Tue, 01 Aug 2023 17:00:00 +0100"
       }
     ]
   ]

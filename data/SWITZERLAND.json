@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 20:48:49",
+  "lastUpdate": "02-08-2023 , 20:58:10",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genk",
+        "pubdate": "Wed, 02 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lizzo",
         "pubdate": "Wed, 02 Aug 2023 08:00:00 +0200"
@@ -24,23 +31,16 @@
     ],
     [
       {
+        "title": "Coupe du monde feminin 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coupe%20du%20monde%20feminin%202023",
+        "pubdate": "Wed, 02 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Baldur's Gate 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baldur's%20Gate%203",
         "pubdate": "Wed, 02 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coupe du monde feminin 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coupe%20du%20monde%20feminin%202023",
-        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Genk Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genk%20Servette",
-        "pubdate": "Wed, 02 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Stockhorn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stockhorn",
-        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KRC Genk gegen Servette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#KRC%20Genk%20gegen%20Servette",
         "pubdate": "Wed, 02 Aug 2023 20:00:00 +0200"
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "title": "Stockhorn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stockhorn",
         "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
       }
     ],
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zhanna Samsonova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zhanna%20Samsonova",
         "pubdate": "Wed, 02 Aug 2023 09:00:00 +0200"
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Moonswatch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Moonswatch",
-        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
+        "title": "FCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
+        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Matthieu Delormeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthieu%20Delormeau",
-        "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
+        "title": "Moonswatch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Moonswatch",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Justin Trudeau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Justin%20Trudeau",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Voyager 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Voyager%202",
         "pubdate": "Wed, 02 Aug 2023 08:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slimane",
-        "pubdate": "Wed, 02 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Putsch Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Putsch%20Niger",
-        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
+        "title": "Ours malais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ours%20malais",
+        "pubdate": "Wed, 02 Aug 2023 01:00:00 +0200"
       }
     ]
   ]

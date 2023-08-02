@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 20:48:45",
+  "lastUpdate": "02-08-2023 , 20:58:05",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Lizzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lizzo",
         "pubdate": "Wed, 02 Aug 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
+        "pubdate": "Wed, 02 Aug 2023 09:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "August 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#August%201",
         "pubdate": "Tue, 01 Aug 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
-        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0300"
       }
     ]
   ]
