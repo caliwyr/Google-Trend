@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-08-2023 , 10:55:28",
+  "lastUpdate": "02-08-2023 , 11:09:36",
   "data": [
+    [
+      {
+        "title": "Geneviève de Fontenay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genevi%C3%A8ve%20de%20Fontenay",
+        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lizzo",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brad%20Pitt",
-        "pubdate": "Wed, 02 Aug 2023 01:00:00 +0200"
+        "title": "Wacken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wacken",
+        "pubdate": "Wed, 02 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Agave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Agave",
+        "pubdate": "Wed, 02 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Wacken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wacken",
-        "pubdate": "Wed, 02 Aug 2023 11:00:00 +0200"
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brad%20Pitt",
+        "pubdate": "Wed, 02 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
+        "title": "Sharon Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sharon%20Tate",
         "pubdate": "Tue, 01 Aug 2023 22:00:00 +0200"
       }
     ],
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Bab Buelens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bab%20Buelens",
-        "pubdate": "Tue, 01 Aug 2023 20:00:00 +0200"
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
+        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "CEDEAO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#CEDEAO",
         "pubdate": "Tue, 01 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "City of Lies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#City%20of%20Lies",
-        "pubdate": "Tue, 01 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burkina Faso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burkina%20Faso",
-        "pubdate": "Tue, 01 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
