@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 05:52:36",
+  "lastUpdate": "02-08-2023 , 06:09:13",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "パリサンジェルマン インテル",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%91%E3%83%AA%E3%82%B5%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%B3%20%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB",
-        "pubdate": "Tue, 01 Aug 2023 20:00:00 +0900"
+        "title": "インテル パリ・サンジェルマン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB%20%E3%83%91%E3%83%AA%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%B3",
+        "pubdate": "Wed, 02 Aug 2023 01:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "台風6号(カーヌン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A86%E5%8F%B7(%E3%82%AB%E3%83%BC%E3%83%8C%E3%83%B3",
+        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0900"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "バービー",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%83%BC%E3%83%93%E3%83%BC",
         "pubdate": "Mon, 31 Jul 2023 11:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "女子ワールドカップ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A5%B3%E5%AD%90%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97",
-        "pubdate": "Mon, 31 Jul 2023 17:00:00 +0900"
       }
     ],
     [
@@ -94,8 +94,15 @@
     ],
     [
       {
-        "title": "Fifa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Fifa",
+        "title": "サッカー女子ワールドカップ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E5%A5%B3%E5%AD%90%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97",
+        "pubdate": "Mon, 31 Jul 2023 17:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "FIFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#FIFA",
         "pubdate": "Mon, 31 Jul 2023 21:00:00 +0900"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "キングダム 運命の炎",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%82%8E",
         "pubdate": "Sat, 29 Jul 2023 08:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "大阪高校野球",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E9%98%AA%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83",
-        "pubdate": "Sat, 29 Jul 2023 17:00:00 +0900"
       }
     ]
   ]
