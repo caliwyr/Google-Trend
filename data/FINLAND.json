@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 18:50:53",
+  "lastUpdate": "02-08-2023 , 19:00:05",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nigeria",
-        "pubdate": "Wed, 02 Aug 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
         "pubdate": "Wed, 02 Aug 2023 19:00:00 +0300"
@@ -55,6 +48,13 @@
         "title": "Buffon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Buffon",
         "pubdate": "Wed, 02 Aug 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal – Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Monaco",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0300"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Sun bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sun%20bear",
         "pubdate": "Tue, 01 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "PSG – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Inter",
-        "pubdate": "Tue, 01 Aug 2023 15:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Baldur's Gate 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Baldur's%20Gate%203",
         "pubdate": "Mon, 31 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Harriet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harriet",
+        "pubdate": "Mon, 31 Jul 2023 22:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 18:50:57",
+  "lastUpdate": "02-08-2023 , 19:00:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
         "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heleen van Royen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heleen%20van%20Royen",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Demi Vollering",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Demi%20Vollering",
         "pubdate": "Sat, 29 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zomercarnaval Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zomercarnaval%20Rotterdam",
-        "pubdate": "Sat, 29 Jul 2023 14:00:00 +0200"
       }
     ]
   ]
