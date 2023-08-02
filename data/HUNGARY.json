@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 07:47:52",
+  "lastUpdate": "02-08-2023 , 07:57:14",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lizzo",
+        "pubdate": "Wed, 02 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Angus Cloud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Angus%20Cloud",
         "pubdate": "Tue, 01 Aug 2023 01:00:00 +0200"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Szép-kártya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A9p-k%C3%A1rtya",
+        "title": "SZÉP-kártya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SZ%C3%89P-k%C3%A1rtya",
         "pubdate": "Tue, 01 Aug 2023 10:00:00 +0200"
       }
     ],
@@ -59,23 +66,16 @@
     ],
     [
       {
-        "title": "Forint árfolyam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20%C3%A1rfolyam",
-        "pubdate": "Tue, 01 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Franciaország",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franciaorsz%C3%A1g",
-        "pubdate": "Tue, 01 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Baldur's Gate 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Baldur's%20Gate%203",
         "pubdate": "Tue, 01 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Forint árfolyam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20%C3%A1rfolyam",
+        "pubdate": "Tue, 01 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "SZÉP-kártya augusztus 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SZ%C3%89P-k%C3%A1rtya%20augusztus%201",
-        "pubdate": "Tue, 01 Aug 2023 16:00:00 +0200"
+        "title": "DVSC-Mezőkövesd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVSC-Mez%C5%91k%C3%B6vesd",
+        "pubdate": "Tue, 01 Aug 2023 05:00:00 +0200"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Paul Reubens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paul%20Reubens",
         "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DVSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVSC",
-        "pubdate": "Mon, 31 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Szemlélek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szeml%C3%A9lek",
         "pubdate": "Mon, 31 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Árstop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rstop",
+        "pubdate": "Mon, 31 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
