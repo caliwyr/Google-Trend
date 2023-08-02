@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 21:50:52",
+  "lastUpdate": "02-08-2023 , 22:00:10",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FC%20Barcelona",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Buffon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Buffon",
         "pubdate": "Wed, 02 Aug 2023 22:00:00 +0800"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Nassr",
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Nassr",
         "pubdate": "Tue, 01 Aug 2023 11:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "My Lovely Liar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#My%20Lovely%20Liar",
         "pubdate": "Tue, 01 Aug 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Australian Open 2023 badminton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australian%20Open%202023%20badminton",
-        "pubdate": "Tue, 01 Aug 2023 14:00:00 +0800"
       }
     ]
   ]
