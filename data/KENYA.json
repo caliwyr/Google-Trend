@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 06:45:26",
+  "lastUpdate": "02-08-2023 , 06:54:54",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
+        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "ECOWAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#ECOWAS",
         "pubdate": "Tue, 01 Aug 2023 12:00:00 +0300"
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Paul Reubens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Paul%20Reubens",
-        "pubdate": "Tue, 01 Aug 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "India vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20West%20Indies",
         "pubdate": "Tue, 01 Aug 2023 22:00:00 +0300"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Jeremy Doku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jeremy%20Doku",
-        "pubdate": "Tue, 01 Aug 2023 22:00:00 +0300"
+        "title": "Paul Reubens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Paul%20Reubens",
+        "pubdate": "Tue, 01 Aug 2023 12:00:00 +0300"
       }
     ],
     [

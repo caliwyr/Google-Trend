@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-08-2023 , 06:45:22",
+  "lastUpdate": "02-08-2023 , 06:54:50",
   "data": [
-    [
-      {
-        "title": "Libertad x Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertad%20x%20Fortaleza",
-        "pubdate": "Tue, 01 Aug 2023 17:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Barcelona",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Al-Rayyan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Rayyan",
-        "pubdate": "Tue, 01 Aug 2023 15:00:00 -0500"
+        "title": "Libertadores 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Libertadores%202023",
+        "pubdate": "Tue, 01 Aug 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
+        "pubdate": "Tue, 01 Aug 2023 17:00:00 -0500"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Resumo da novela Vai na Fé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20da%20novela%20Vai%20na%20F%C3%A9",
-        "pubdate": "Tue, 01 Aug 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Restart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Restart",
         "pubdate": "Tue, 01 Aug 2023 11:00:00 -0500"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Portugal feminino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portugal%20feminino",
-        "pubdate": "Tue, 01 Aug 2023 00:00:00 -0500"
+        "title": "Sampaio Corrêa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sampaio%20Corr%C3%AAa",
+        "pubdate": "Tue, 01 Aug 2023 18:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sampaio Corrêa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sampaio%20Corr%C3%AAa",
-        "pubdate": "Tue, 01 Aug 2023 18:00:00 -0500"
+        "title": "Portugal feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portugal%20feminino",
+        "pubdate": "Tue, 01 Aug 2023 00:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tesouro Educa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tesouro%20Educa",
         "pubdate": "Tue, 01 Aug 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ferias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferias",
+        "pubdate": "Tue, 01 Aug 2023 07:00:00 -0500"
       }
     ]
   ]
