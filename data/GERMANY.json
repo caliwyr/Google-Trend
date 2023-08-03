@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-08-2023 , 05:44:25",
+  "lastUpdate": "03-08-2023 , 05:53:46",
   "data": [
-    [
-      {
-        "title": "Gran Canaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gran%20Canaria",
-        "pubdate": "Thu, 03 Aug 2023 06:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Lizzo",
@@ -139,6 +132,13 @@
         "title": "Wacken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken",
         "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wacken Open Air",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken%20Open%20Air",
+        "pubdate": "Mon, 31 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
