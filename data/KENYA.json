@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-08-2023 , 18:41:22",
+  "lastUpdate": "03-08-2023 , 18:50:49",
   "data": [
     [
       {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Miami",
         "pubdate": "Thu, 03 Aug 2023 04:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Juventus vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Real%20Madrid",
-        "pubdate": "Thu, 03 Aug 2023 02:00:00 +0300"
       }
     ],
     [
@@ -24,8 +17,22 @@
     ],
     [
       {
+        "title": "Juventus vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Real%20Madrid",
+        "pubdate": "Thu, 03 Aug 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Zamalek vs Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Zamalek%20vs%20Al-Nassr",
+        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Robert Sanchez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Robert%20Sanchez",
         "pubdate": "Thu, 03 Aug 2023 18:00:00 +0300"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Jesse Lingard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jesse%20Lingard",
         "pubdate": "Thu, 03 Aug 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Robert Sanchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Robert%20Sanchez",
-        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0300"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
         "pubdate": "Thu, 03 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "West Indies vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Indies%20vs%20India",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
         "pubdate": "Wed, 02 Aug 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Roman Reigns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roman%20Reigns",
-        "pubdate": "Wed, 02 Aug 2023 13:00:00 +0300"
       }
     ]
   ]
