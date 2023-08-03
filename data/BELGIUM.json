@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-08-2023 , 17:51:07",
+  "lastUpdate": "03-08-2023 , 18:00:46",
   "data": [
-    [
-      {
-        "title": "Juventus – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Thu, 03 Aug 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Inter Miami",
@@ -17,9 +10,30 @@
     ],
     [
       {
+        "title": "Juventus – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Thu, 03 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rammstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rammstein",
+        "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jeonbuk Motors – paris-sg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeonbuk%20Motors%20%E2%80%93%20paris-sg",
         "pubdate": "Thu, 03 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Baldur's Gate 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Baldur's%20Gate%203",
+        "pubdate": "Thu, 03 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "Ronquières festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronqui%C3%A8res%20festival",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Heartstopper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Heartstopper",
         "pubdate": "Thu, 03 Aug 2023 12:00:00 +0200"
@@ -66,20 +87,6 @@
     ],
     [
       {
-        "title": "Palia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Palia",
-        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cyril Hanouna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyril%20Hanouna",
-        "pubdate": "Thu, 03 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jisoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jisoo",
         "pubdate": "Thu, 03 Aug 2023 14:00:00 +0200"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20des%20champions",
-        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
+        "title": "Palia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Palia",
+        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Championnat du Monde cyclisme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Championnat%20du%20Monde%20cyclisme",
-        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0200"
+        "title": "Cyril Hanouna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyril%20Hanouna",
+        "pubdate": "Thu, 03 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyrica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lyrica",
+        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "En eaux très troubles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#En%20eaux%20tr%C3%A8s%20troubles",
-        "pubdate": "Thu, 03 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ferrari 500 Mondial Spider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ferrari%20500%20Mondial%20Spider",
+        "title": "Championnat du Monde cyclisme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Championnat%20du%20Monde%20cyclisme",
         "pubdate": "Thu, 03 Aug 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Genk Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20Servette",
-        "pubdate": "Wed, 02 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Geneviève de Fontenay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genevi%C3%A8ve%20de%20Fontenay",
-        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20des%20champions",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
       }
     ]
   ]
