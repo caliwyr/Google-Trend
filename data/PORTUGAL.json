@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2023 , 20:47:10",
+  "lastUpdate": "03-08-2023 , 20:56:17",
   "data": [
     [
       {
@@ -80,8 +80,22 @@
     ],
     [
       {
+        "title": "Meg 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Meg%202",
+        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Simone Susinna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simone%20Susinna",
+        "pubdate": "Thu, 03 Aug 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marcos Leonardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcos%20Leonardo",
         "pubdate": "Thu, 03 Aug 2023 16:00:00 +0100"
       }
     ],
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Marcos Leonardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcos%20Leonardo",
-        "pubdate": "Thu, 03 Aug 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Catarina Siqueira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Siqueira",
-        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0100"
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
+        "pubdate": "Thu, 03 Aug 2023 14:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Catarina Siqueira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Siqueira",
+        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rui Veloso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Veloso",
         "pubdate": "Thu, 03 Aug 2023 01:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Barbara Branco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barbara%20Branco",
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MLS",
         "pubdate": "Thu, 03 Aug 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nacional  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nacional%20%20Boca%20Juniors",
-        "pubdate": "Thu, 03 Aug 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joao Almeida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Almeida",
-        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0100"
       }
     ]
   ]
