@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "03-08-2023 , 12:50:03",
+  "lastUpdate": "03-08-2023 , 13:07:27",
   "data": [
     [
       {
-        "title": "Eemshaven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eemshaven",
-        "pubdate": "Thu, 03 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gran Canaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gran%20Canaria",
+        "title": "Markus Lanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20Lanz",
         "pubdate": "Thu, 03 Aug 2023 06:00:00 +0200"
       }
     ],
@@ -20,6 +13,13 @@
         "title": "Leah Remini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leah%20Remini",
         "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WM Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen",
+        "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Roger Waters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roger%20Waters",
-        "pubdate": "Wed, 02 Aug 2023 16:00:00 +0200"
+        "title": "Justin Trudeau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Justin%20Trudeau",
+        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Justin Trudeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Justin%20Trudeau",
-        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
+        "title": "Roger Waters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roger%20Waters",
+        "pubdate": "Wed, 02 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Südkorea gegen Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%BCdkorea%20gegen%20Deutschland",
-        "pubdate": "Tue, 01 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Voyager 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Voyager%202",
         "pubdate": "Tue, 01 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wacken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken",
+        "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
