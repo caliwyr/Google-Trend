@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2023 , 06:46:44",
+  "lastUpdate": "03-08-2023 , 06:56:06",
   "data": [
     [
       {
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Buffon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Buffon",
-        "pubdate": "Wed, 02 Aug 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Nono",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nono",
-        "pubdate": "Wed, 02 Aug 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Anwar Ibrahim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anwar%20Ibrahim",
         "pubdate": "Wed, 02 Aug 2023 15:00:00 +0800"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Buffon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Buffon",
+        "pubdate": "Wed, 02 Aug 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Nitin Desai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nitin%20Desai",
         "pubdate": "Wed, 02 Aug 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lauren James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lauren%20James",
+        "pubdate": "Wed, 02 Aug 2023 07:00:00 +0800"
       }
     ]
   ]
