@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2023 , 11:46:15",
+  "lastUpdate": "03-08-2023 , 11:55:34",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Klaksvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Klaksvik",
-        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Bayern",
         "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Volvo XC90",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Volvo%20XC90",
-        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
         "pubdate": "Wed, 02 Aug 2023 23:00:00 +0200"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Guardians of the Galaxy 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardians%20of%20the%20Galaxy%203",
-        "pubdate": "Wed, 02 Aug 2023 19:00:00 +0200"
+        "title": "Volvo XC90",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Volvo%20XC90",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Buffon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Buffon",
         "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guardians of the Galaxy 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardians%20of%20the%20Galaxy%203",
+        "pubdate": "Wed, 02 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dani Alves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dani%20Alves",
         "pubdate": "Wed, 02 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
