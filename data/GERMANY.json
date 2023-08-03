@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2023 , 23:58:19",
+  "lastUpdate": "03-08-2023 , 01:21:37",
   "data": [
     [
       {
@@ -40,6 +40,13 @@
       {
         "title": "Marta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marta",
+        "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laura Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Larsson",
         "pubdate": "Wed, 02 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Frauen-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauen-WM",
         "pubdate": "Sun, 30 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Popp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Popp",
-        "pubdate": "Sun, 30 Jul 2023 12:00:00 +0200"
       }
     ]
   ]
