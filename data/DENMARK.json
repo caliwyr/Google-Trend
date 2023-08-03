@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2023 , 19:51:32",
+  "lastUpdate": "03-08-2023 , 20:02:30",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "FH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FH",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Palia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Palia",
         "pubdate": "Thu, 03 Aug 2023 11:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "The bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20bear",
         "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milan  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Milan%20%20Barcelona",
-        "pubdate": "Wed, 02 Aug 2023 07:00:00 +0200"
       }
     ]
   ]
