@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 09:44:59",
+  "lastUpdate": "04-08-2023 , 09:54:12",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "San Domenico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#San%20Domenico",
         "pubdate": "Fri, 04 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Allerta meteo Milano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allerta%20meteo%20Milano",
+        "pubdate": "Fri, 04 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Meteo Milano domani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Milano%20domani",
         "pubdate": "Fri, 04 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus",
+        "pubdate": "Thu, 03 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -68,7 +82,14 @@
       {
         "title": "Previsioni meteo grandine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Previsioni%20meteo%20grandine",
-        "pubdate": "Thu, 03 Aug 2023 23:00:00 +0200"
+        "pubdate": "Thu, 03 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Icardi Wanda Nara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Icardi%20Wanda%20Nara",
+        "pubdate": "Thu, 03 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,20 +101,6 @@
     ],
     [
       {
-        "title": "Lecco Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lecco%20Calcio",
-        "pubdate": "Thu, 03 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aston%20Villa%20Lazio",
-        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Deja vu film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Deja%20vu%20film",
         "pubdate": "Thu, 03 Aug 2023 22:00:00 +0200"
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Ahn Bo-hyun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ahn%20Bo-hyun",
-        "pubdate": "Thu, 03 Aug 2023 10:00:00 +0200"
+        "title": "Matteo Bassetti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Bassetti",
+        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meteo tempesta Patricia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20tempesta%20Patricia",
+        "pubdate": "Thu, 03 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Heartstopper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Heartstopper",
-        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olimpia Milano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Olimpia%20Milano",
-        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Il debito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20debito",
-        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
+        "title": "Ahn Bo-hyun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ahn%20Bo-hyun",
+        "pubdate": "Thu, 03 Aug 2023 10:00:00 +0200"
       }
     ]
   ]
