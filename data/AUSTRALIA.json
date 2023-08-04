@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-08-2023 , 23:43:09",
+  "lastUpdate": "04-08-2023 , 23:52:24",
   "data": [
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
-        "pubdate": "Sat, 05 Aug 2023 07:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Mark Margolis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Margolis",
         "pubdate": "Sat, 05 Aug 2023 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
+        "pubdate": "Sat, 05 Aug 2023 07:00:00 +1000"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Tony Bennett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tony%20Bennett",
+        "pubdate": "Fri, 04 Aug 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Delta Goodrem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Delta%20Goodrem",
         "pubdate": "Fri, 04 Aug 2023 10:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Morocco",
         "pubdate": "Fri, 04 Aug 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Mike Pence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mike%20Pence",
-        "pubdate": "Fri, 04 Aug 2023 13:00:00 +1000"
       }
     ]
   ]
