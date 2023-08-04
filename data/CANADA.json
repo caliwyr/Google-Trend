@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 01:21:51",
+  "lastUpdate": "04-08-2023 , 02:09:35",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Amazon stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amazon%20stock",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Gracie Abrams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gracie%20Abrams",
         "pubdate": "Thu, 03 Aug 2023 13:00:00 -0400"
@@ -80,9 +87,23 @@
     ],
     [
       {
-        "title": "Tori Spelling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tori%20Spelling",
-        "pubdate": "Thu, 03 Aug 2023 15:00:00 -0400"
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keanu%20Reeves",
+        "pubdate": "Thu, 03 Aug 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lincoln Lawyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lincoln%20Lawyer",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sebastien Delorme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sebastien%20Delorme",
+        "pubdate": "Thu, 03 Aug 2023 18:00:00 -0400"
       }
     ],
     [
@@ -94,8 +115,15 @@
     ],
     [
       {
-        "title": "Tom Brady",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Brady",
+        "title": "Tori Spelling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tori%20Spelling",
+        "pubdate": "Thu, 03 Aug 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Blue Bombers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Blue%20Bombers",
         "pubdate": "Thu, 03 Aug 2023 20:00:00 -0400"
       }
     ],
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Wyndham Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wyndham%20Championship",
-        "pubdate": "Thu, 03 Aug 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Mia Khalifa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mia%20Khalifa",
-        "pubdate": "Thu, 03 Aug 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#China",
-        "pubdate": "Thu, 03 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Vanessa Kirby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vanessa%20Kirby",
-        "pubdate": "Thu, 03 Aug 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Winnipeg Blue Bombers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Blue%20Bombers",
+        "title": "Tom Brady",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Brady",
         "pubdate": "Thu, 03 Aug 2023 20:00:00 -0400"
       }
     ]
