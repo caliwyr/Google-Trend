@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-08-2023 , 05:45:36",
+  "lastUpdate": "04-08-2023 , 05:54:59",
   "data": [
-    [
-      {
-        "title": "Hammarby  Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hammarby%20%20Twente",
-        "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ihattaren",
@@ -41,6 +34,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
         "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sem Steijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sem%20Steijn",
+        "pubdate": "Thu, 03 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guardians of the Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Guardians%20of%20the%20Galaxy",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Henk Krol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Krol",
         "pubdate": "Mon, 31 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hoyte van Hoytema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hoyte%20van%20Hoytema",
-        "pubdate": "Sun, 30 Jul 2023 19:00:00 +0200"
       }
     ]
   ]
