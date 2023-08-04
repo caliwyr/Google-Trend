@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-08-2023 , 02:43:37",
+  "lastUpdate": "04-08-2023 , 02:52:56",
   "data": [
-    [
-      {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
-        "pubdate": "Thu, 03 Aug 2023 12:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Flamengo x Olimpia",
@@ -17,9 +10,23 @@
     ],
     [
       {
-        "title": "America_mg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America_mg",
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Thu, 03 Aug 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "America MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
         "pubdate": "Thu, 03 Aug 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
+        "pubdate": "Thu, 03 Aug 2023 05:00:00 -0500"
       }
     ],
     [
@@ -41,20 +48,6 @@
         "title": "Miguel Livramento morreu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Miguel%20Livramento%20morreu",
         "pubdate": "Thu, 03 Aug 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
-        "pubdate": "Thu, 03 Aug 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20Nacional",
-        "pubdate": "Thu, 03 Aug 2023 10:00:00 -0500"
       }
     ],
     [
@@ -87,16 +80,23 @@
     ],
     [
       {
-        "title": "São Paulo FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20FC",
-        "pubdate": "Thu, 03 Aug 2023 11:00:00 -0500"
+        "title": "Star",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star",
+        "pubdate": "Thu, 03 Aug 2023 20:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Star",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star",
-        "pubdate": "Thu, 03 Aug 2023 20:00:00 -0500"
+        "title": "Cristiano Zanin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cristiano%20Zanin",
+        "pubdate": "Thu, 03 Aug 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vitamina B12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitamina%20B12",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 -0500"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NFL",
+        "pubdate": "Thu, 03 Aug 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vietto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vietto",
         "pubdate": "Thu, 03 Aug 2023 17:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NFL",
-        "pubdate": "Thu, 03 Aug 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20Nacional",
-        "pubdate": "Thu, 03 Aug 2023 16:00:00 -0500"
+        "title": "Ciclofaixa Piauí",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclofaixa%20Piau%C3%AD",
+        "pubdate": "Thu, 03 Aug 2023 18:00:00 -0500"
       }
     ]
   ]
