@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-08-2023 , 16:47:22",
+  "lastUpdate": "04-08-2023 , 16:56:48",
   "data": [
+    [
+      {
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Fri, 04 Aug 2023 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nelly Furtado",
@@ -27,6 +34,13 @@
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fentanyl",
         "pubdate": "Fri, 04 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kurt Cobain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kurt%20Cobain",
+        "pubdate": "Fri, 04 Aug 2023 03:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Meghan Markle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meghan%20Markle",
-        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
+        "title": "Martincova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martincova",
+        "pubdate": "Thu, 03 Aug 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Martincova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martincova",
-        "pubdate": "Thu, 03 Aug 2023 19:00:00 +0200"
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meghan%20Markle",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "C5 X",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#C5%20X",
         "pubdate": "Thu, 03 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cryfin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cryfin",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Robert Urban",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Urban",
         "pubdate": "Thu, 03 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Beyonce",
-        "pubdate": "Thu, 03 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG",
-        "pubdate": "Thu, 03 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wardruna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wardruna",
-        "pubdate": "Thu, 03 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
