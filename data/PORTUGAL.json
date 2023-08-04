@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "04-08-2023 , 13:40:54",
+  "lastUpdate": "04-08-2023 , 13:50:04",
   "data": [
-    [
-      {
-        "title": "Flamengo  Olimpia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Olimpia",
-        "pubdate": "Fri, 04 Aug 2023 02:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Sao Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
         "pubdate": "Fri, 04 Aug 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Minipreço",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Minipre%C3%A7o",
-        "pubdate": "Fri, 04 Aug 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sporting CP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
-        "pubdate": "Fri, 04 Aug 2023 00:00:00 +0100"
       }
     ],
     [
@@ -38,9 +17,16 @@
     ],
     [
       {
-        "title": "Beltran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beltran",
+        "title": "Sporting CP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
         "pubdate": "Fri, 04 Aug 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo x Olimpia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20x%20Olimpia",
+        "pubdate": "Fri, 04 Aug 2023 02:00:00 +0100"
       }
     ],
     [
@@ -69,6 +55,13 @@
         "title": "Luis Enrique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Enrique",
         "pubdate": "Fri, 04 Aug 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zoo Santo inacio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zoo%20Santo%20inacio",
+        "pubdate": "Fri, 04 Aug 2023 13:00:00 +0100"
       }
     ],
     [
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Bairro da Serafina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bairro%20da%20Serafina",
+        "pubdate": "Thu, 03 Aug 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Vitoria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
         "pubdate": "Thu, 03 Aug 2023 14:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bairro da Serafina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bairro%20da%20Serafina",
-        "pubdate": "Thu, 03 Aug 2023 22:00:00 +0100"
+        "title": "Beltran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beltran",
+        "pubdate": "Thu, 03 Aug 2023 07:00:00 +0100"
       }
     ]
   ]
