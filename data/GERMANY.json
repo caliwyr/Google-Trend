@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 10:45:37",
+  "lastUpdate": "04-08-2023 , 10:54:56",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Taylor-Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor-Swift",
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bürgergeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCrgergeld",
-        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Yves Rocher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Yves%20Rocher",
         "pubdate": "Thu, 03 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bürgergeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCrgergeld",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "James Bond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Bond",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Wed, 02 Aug 2023 17:00:00 +0200"
@@ -90,13 +97,6 @@
         "title": "Buffon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Buffon",
         "pubdate": "Wed, 02 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Craig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Daniel%20Craig",
-        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
       }
     ],
     [

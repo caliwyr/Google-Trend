@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 10:45:43",
+  "lastUpdate": "04-08-2023 , 10:55:04",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Trump",
         "pubdate": "Fri, 04 Aug 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "UNTOLD festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UNTOLD%20festival",
-        "pubdate": "Fri, 04 Aug 2023 10:00:00 +0300"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Program UNTOLD 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Program%20UNTOLD%202023",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Claudiu Micovschi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Claudiu%20Micovschi",
         "pubdate": "Thu, 03 Aug 2023 15:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
-        "pubdate": "Thu, 03 Aug 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Ramos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ramos",
         "pubdate": "Thu, 03 Aug 2023 00:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ozempic",
         "pubdate": "Thu, 03 Aug 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cupa romaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20romaniei",
+        "pubdate": "Thu, 03 Aug 2023 06:00:00 +0300"
       }
     ]
   ]
