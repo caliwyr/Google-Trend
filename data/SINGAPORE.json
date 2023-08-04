@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 06:47:32",
+  "lastUpdate": "04-08-2023 , 06:56:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Mahathir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mahathir",
         "pubdate": "Fri, 04 Aug 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Chef Wan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chef%20Wan",
+        "pubdate": "Fri, 04 Aug 2023 14:00:00 +0800"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
-        "pubdate": "Thu, 03 Aug 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Sun bears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sun%20bears",
         "pubdate": "Thu, 03 Aug 2023 21:00:00 +0800"
@@ -90,6 +90,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Wed, 02 Aug 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Chan Chun Sing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chan%20Chun%20Sing",
+        "pubdate": "Wed, 02 Aug 2023 16:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
         "pubdate": "Wed, 02 Aug 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "AMD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AMD",
-        "pubdate": "Wed, 02 Aug 2023 10:00:00 +0800"
       }
     ]
   ]
