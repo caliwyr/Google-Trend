@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 11:46:23",
+  "lastUpdate": "04-08-2023 , 11:55:48",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "고속터미널",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90",
         "pubdate": "Fri, 04 Aug 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "박영수",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%98%81%EC%88%98",
+        "pubdate": "Fri, 04 Aug 2023 03:00:00 +0900"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "김관영",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EA%B4%80%EC%98%81",
-        "pubdate": "Fri, 04 Aug 2023 12:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "대구 칼부림",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%EA%B5%AC%20%EC%B9%BC%EB%B6%80%EB%A6%BC",
         "pubdate": "Fri, 04 Aug 2023 13:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "박영수 구속",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%98%81%EC%88%98%20%EA%B5%AC%EC%86%8D",
-        "pubdate": "Fri, 04 Aug 2023 12:00:00 +0900"
       }
     ],
     [
@@ -75,7 +68,7 @@
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
-        "pubdate": "Thu, 03 Aug 2023 20:00:00 +0900"
+        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0900"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "리버풀",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
         "pubdate": "Wed, 02 Aug 2023 22:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "일본",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%BC%EB%B3%B8",
+        "pubdate": "Wed, 02 Aug 2023 08:00:00 +0900"
       }
     ]
   ]
