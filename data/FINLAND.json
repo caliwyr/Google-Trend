@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 15:42:36",
+  "lastUpdate": "04-08-2023 , 15:51:59",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Novorossiysk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Novorossiysk",
         "pubdate": "Fri, 04 Aug 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Amazon stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Amazon%20stock",
+        "pubdate": "Fri, 04 Aug 2023 18:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mika Aaltola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mika%20Aaltola",
         "pubdate": "Wed, 02 Aug 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Lizzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lizzo",
-        "pubdate": "Wed, 02 Aug 2023 10:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 15:42:34",
+  "lastUpdate": "04-08-2023 , 15:51:57",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Sao Paulo fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20fc",
+        "pubdate": "Thu, 03 Aug 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Leagues Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leagues%20Cup",
         "pubdate": "Thu, 03 Aug 2023 05:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Vitamina B12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitamina%20B12",
         "pubdate": "Thu, 03 Aug 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MLS",
-        "pubdate": "Thu, 03 Aug 2023 12:00:00 -0500"
       }
     ]
   ]
