@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 12:40:51",
+  "lastUpdate": "05-08-2023 , 12:55:23",
   "data": [
     [
       {
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "EET",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EET",
-        "pubdate": "Sat, 05 Aug 2023 09:00:00 +0200"
+        "title": "Gvardiol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gvardiol",
+        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gvardiol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gvardiol",
-        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
+        "title": "EET",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EET",
+        "pubdate": "Sat, 05 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Die Seer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Seer",
+        "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hochwasser Steiermark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochwasser%20Steiermark",
         "pubdate": "Fri, 04 Aug 2023 12:00:00 +0200"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Seer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Seer",
-        "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP",
         "pubdate": "Fri, 04 Aug 2023 17:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
-        "pubdate": "Fri, 04 Aug 2023 18:00:00 +0200"
+        "title": "Leibnitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leibnitz",
+        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hertha%20BSC",
-        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
+        "pubdate": "Fri, 04 Aug 2023 18:00:00 +0200"
       }
     ]
   ]
