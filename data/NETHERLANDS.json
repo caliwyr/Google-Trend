@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-08-2023 , 21:45:32",
+  "lastUpdate": "05-08-2023 , 21:54:51",
   "data": [
     [
       {
         "title": "Sam Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sam%20Smith",
         "pubdate": "Sat, 05 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joran van der Sloot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joran%20van%20der%20Sloot",
-        "pubdate": "Sat, 05 Aug 2023 02:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Schietpartij Den Helder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Den%20Helder",
-        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
+        "title": "Canal Parade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
+        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,22 +31,15 @@
     ],
     [
       {
+        "title": "Schietpartij Den Helder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Den%20Helder",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pride",
-        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canal Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
-        "pubdate": "Sat, 05 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canal Pride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Pride",
         "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -66,16 +52,16 @@
     ],
     [
       {
-        "title": "Navalny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Navalny",
-        "pubdate": "Sat, 05 Aug 2023 08:00:00 +0200"
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Shakira",
+        "pubdate": "Sat, 05 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Shakira",
-        "pubdate": "Sat, 05 Aug 2023 22:00:00 +0200"
+        "title": "Navalny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Navalny",
+        "pubdate": "Sat, 05 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guardians of the Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Guardians%20of%20the%20Galaxy",
+        "pubdate": "Wed, 02 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meghan%20Markle",
+        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
