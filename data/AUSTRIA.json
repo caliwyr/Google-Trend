@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 10:44:42",
+  "lastUpdate": "05-08-2023 , 10:54:03",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kane",
         "pubdate": "Sat, 05 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Straße",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stra%C3%9Fe",
-        "pubdate": "Sat, 05 Aug 2023 02:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Leibnitz Hochwasser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leibnitz%20Hochwasser",
-        "pubdate": "Sat, 05 Aug 2023 08:00:00 +0200"
+        "title": "Vals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vals",
+        "pubdate": "Sat, 05 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karawankentunnel Stau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karawankentunnel%20Stau",
+        "pubdate": "Sat, 05 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -68,13 +68,6 @@
       {
         "title": "Unwetter Kärnten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetter%20K%C3%A4rnten",
-        "pubdate": "Fri, 04 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Die Seer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Seer",
         "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
       }
     ],
@@ -90,6 +83,13 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Celine%20Dion",
         "pubdate": "Fri, 04 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Seer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Seer",
+        "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Leibnitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leibnitz",
+        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Amazon-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Amazon-Aktie",
         "pubdate": "Fri, 04 Aug 2023 08:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Teichtmeister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Teichtmeister",
+        "pubdate": "Fri, 04 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Austria Salzburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Salzburg",
         "pubdate": "Fri, 04 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Völkermarkt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#V%C3%B6lkermarkt",
-        "pubdate": "Fri, 04 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VILLACH Wetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VILLACH%20Wetter",
-        "pubdate": "Fri, 04 Aug 2023 07:00:00 +0200"
       }
     ]
   ]
