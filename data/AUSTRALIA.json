@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 09:46:13",
+  "lastUpdate": "05-08-2023 , 09:55:26",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Cowboys vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cowboys%20vs%20Broncos",
-        "pubdate": "Sat, 05 Aug 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Kai Cenat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kai%20Cenat",
         "pubdate": "Sat, 05 Aug 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Hawthorn vs Collingwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawthorn%20vs%20Collingwood",
-        "pubdate": "Sat, 05 Aug 2023 17:00:00 +1000"
       }
     ],
     [
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Broncos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Broncos",
+        "pubdate": "Sat, 05 Aug 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Switzerland vs Spain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Switzerland%20vs%20Spain",
         "pubdate": "Sat, 05 Aug 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Japan vs Norway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Japan%20vs%20Norway",
+        "pubdate": "Sat, 05 Aug 2023 18:00:00 +1000"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "West Coast Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Coast%20Eagles",
-        "pubdate": "Sat, 05 Aug 2023 18:00:00 +1000"
+        "title": "Sophia Bush",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sophia%20Bush",
+        "pubdate": "Sat, 05 Aug 2023 15:00:00 +1000"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Rita Ora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rita%20Ora",
         "pubdate": "Sat, 05 Aug 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Sophia Bush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sophia%20Bush",
-        "pubdate": "Sat, 05 Aug 2023 15:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jake Paul vs Nate Diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jake%20Paul%20vs%20Nate%20Diaz",
         "pubdate": "Fri, 04 Aug 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Baldur's Gate 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Baldur's%20Gate%203",
+        "pubdate": "Fri, 04 Aug 2023 10:00:00 +1000"
       }
     ]
   ]
