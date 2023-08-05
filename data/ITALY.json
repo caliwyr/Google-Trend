@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-08-2023 , 08:43:37",
+  "lastUpdate": "05-08-2023 , 08:53:11",
   "data": [
-    [
-      {
-        "title": "Terremoto oggi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
-        "pubdate": "Sat, 05 Aug 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Balogun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Balogun",
         "pubdate": "Sat, 05 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Terremoto oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
+        "pubdate": "Sat, 05 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,9 +45,23 @@
     ],
     [
       {
-        "title": "Italbasket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italbasket",
-        "pubdate": "Sat, 05 Aug 2023 01:00:00 +0200"
+        "title": "Macerata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Macerata",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Madonna della Neve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Madonna%20della%20Neve",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kai Cenat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kai%20Cenat",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "Alluvione Slovenia Oggi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alluvione%20Slovenia%20Oggi",
+        "title": "Alluvione Slovenia oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alluvione%20Slovenia%20oggi",
         "pubdate": "Fri, 04 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Massimo Ranieri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Ranieri",
+        "pubdate": "Fri, 04 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Hector Salamanca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hector%20Salamanca",
-        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Scamacca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scamacca",
         "pubdate": "Fri, 04 Aug 2023 15:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Natan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Natan",
-        "pubdate": "Fri, 04 Aug 2023 22:00:00 +0200"
+        "title": "Hector Salamanca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hector%20Salamanca",
+        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Eros Ramazzotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eros%20Ramazzotti",
-        "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGP",
         "pubdate": "Fri, 04 Aug 2023 18:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Meteo Palermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Palermo",
-        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marco Arduini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Arduini",
+        "title": "Eros Ramazzotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eros%20Ramazzotti",
         "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rebecca Andrea Magni scomparsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rebecca%20Andrea%20Magni%20scomparsa",
-        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
+        "title": "Natan Bragantino Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Natan%20Bragantino%20Napoli",
+        "pubdate": "Fri, 04 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
