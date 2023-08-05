@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 06:43:45",
+  "lastUpdate": "05-08-2023 , 06:52:55",
   "data": [
     [
       {
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG",
+        "pubdate": "Fri, 04 Aug 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Mahasiswa UI Dibunuh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mahasiswa%20UI%20Dibunuh",
         "pubdate": "Fri, 04 Aug 2023 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gempa Hari Ini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20Hari%20Ini",
+        "pubdate": "Fri, 04 Aug 2023 09:00:00 +0700"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Gempa terkini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20terkini",
-        "pubdate": "Fri, 04 Aug 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "2030",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#2030",
         "pubdate": "Fri, 04 Aug 2023 16:00:00 +0700"
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Zom 100",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Zom%20100",
-        "pubdate": "Fri, 04 Aug 2023 02:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Community Shield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Community%20Shield",
         "pubdate": "Fri, 04 Aug 2023 21:00:00 +0700"
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Ousmane Dembele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ousmane%20Dembele",
-        "pubdate": "Fri, 04 Aug 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Robert Sanchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Robert%20Sanchez",
-        "pubdate": "Fri, 04 Aug 2023 01:00:00 +0700"
+        "title": "Zom 100",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Zom%20100",
+        "pubdate": "Fri, 04 Aug 2023 02:00:00 +0700"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Niger",
-        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0700"
+        "title": "Robert Sanchez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Robert%20Sanchez",
+        "pubdate": "Fri, 04 Aug 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Michelle Ashley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Michelle%20Ashley",
+        "pubdate": "Fri, 04 Aug 2023 17:00:00 +0700"
       }
     ]
   ]
