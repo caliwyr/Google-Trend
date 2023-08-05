@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 00:38:00",
+  "lastUpdate": "05-08-2023 , 01:44:37",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Breaking Bad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Breaking%20Bad",
+        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "Mark Margolis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mark%20Margolis",
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Will%20Smith",
+        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sabine Asgodom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabine%20Asgodom",
         "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Will%20Smith",
-        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
+        "title": "Fussball WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20WM",
+        "pubdate": "Thu, 03 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
-        "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WM Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Frauen",
         "pubdate": "Wed, 02 Aug 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Wacken Open Air",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken%20Open%20Air",
         "pubdate": "Tue, 01 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niger",
-        "pubdate": "Tue, 01 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
