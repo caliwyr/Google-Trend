@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2023 , 11:44:27",
+  "lastUpdate": "05-08-2023 , 11:53:44",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "The other woman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20other%20woman",
         "pubdate": "Sat, 05 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voyager 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Voyager%202",
+        "pubdate": "Sat, 05 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Howard Hughes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Howard%20Hughes",
         "pubdate": "Fri, 04 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amazon stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Amazon%20stock",
-        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
       }
     ]
   ]
