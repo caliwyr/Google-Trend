@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2023 , 19:48:34",
+  "lastUpdate": "06-08-2023 , 19:57:55",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Magnus Holte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Holte",
+        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Van%20der%20Poel",
+        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds%20United",
         "pubdate": "Sun, 06 Aug 2023 16:00:00 +0200"
@@ -34,13 +48,6 @@
         "title": "HamKam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
         "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Van%20der%20Poel",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sigdal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigdal",
         "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Japan",
-        "pubdate": "Sat, 05 Aug 2023 12:00:00 +0200"
       }
     ]
   ]
