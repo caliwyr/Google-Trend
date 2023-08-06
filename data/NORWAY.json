@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "06-08-2023 , 01:42:57",
+  "lastUpdate": "06-08-2023 , 02:13:38",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sat, 05 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Åge Aleksandersen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85ge%20Aleksandersen",
-        "pubdate": "Sat, 05 Aug 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Strømsgodset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
-        "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Strømsgodset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
+        "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harry%20Kane",
         "pubdate": "Sat, 05 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Notodden Blues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Notodden%20Blues",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Championship",
+        "pubdate": "Fri, 04 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andrew%20Tate",
         "pubdate": "Fri, 04 Aug 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Lise Klaveness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lise%20Klaveness",
         "pubdate": "Fri, 04 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0200"
       }
     ]
   ]
