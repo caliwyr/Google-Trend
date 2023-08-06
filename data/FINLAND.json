@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2023 , 08:42:33",
+  "lastUpdate": "06-08-2023 , 08:52:00",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Weekend",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Weekend",
-        "pubdate": "Fri, 04 Aug 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Rovanperä",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rovanper%C3%A4",
         "pubdate": "Fri, 04 Aug 2023 09:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Nicko McBrain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nicko%20McBrain",
         "pubdate": "Fri, 04 Aug 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
+        "pubdate": "Fri, 04 Aug 2023 16:00:00 +0300"
       }
     ]
   ]
