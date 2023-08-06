@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2023 , 13:42:44",
+  "lastUpdate": "06-08-2023 , 13:52:35",
   "data": [
     [
       {
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atletico%20Madrid",
+        "pubdate": "Sun, 06 Aug 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lukas Enembe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lukas%20Enembe",
+        "pubdate": "Sun, 06 Aug 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Persik Kediri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persik%20Kediri",
         "pubdate": "Sun, 06 Aug 2023 01:00:00 +0700"
@@ -80,8 +94,8 @@
     ],
     [
       {
-        "title": "Arema FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arema%20FC",
+        "title": "Arema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arema",
         "pubdate": "Sat, 05 Aug 2023 16:00:00 +0700"
       }
     ],
@@ -97,13 +111,6 @@
         "title": "Oppo Reno 10",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Oppo%20Reno%2010",
         "pubdate": "Sat, 05 Aug 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Timnas U-17 vs Kashima Antlers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Timnas%20U-17%20vs%20Kashima%20Antlers",
-        "pubdate": "Sat, 05 Aug 2023 20:00:00 +0700"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Borneo FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borneo%20FC",
-        "pubdate": "Sat, 05 Aug 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "King The Land episode 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#King%20The%20Land%20episode%2015",
-        "pubdate": "Sat, 05 Aug 2023 23:00:00 +0700"
+        "title": "Timnas U-17 vs Kashima Antlers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Timnas%20U-17%20vs%20Kashima%20Antlers",
+        "pubdate": "Sat, 05 Aug 2023 20:00:00 +0700"
       }
     ]
   ]
