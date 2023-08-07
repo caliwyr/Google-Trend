@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 19:45:06",
+  "lastUpdate": "07-08-2023 , 19:54:21",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spurs",
+        "pubdate": "Mon, 07 Aug 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Wyndham Golf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wyndham%20Golf",
         "pubdate": "Mon, 07 Aug 2023 16:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Megan Rapinoe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Megan%20Rapinoe",
         "pubdate": "Sun, 06 Aug 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Russell Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Russell%20Island",
-        "pubdate": "Sun, 06 Aug 2023 10:00:00 +1000"
       }
     ]
   ]
