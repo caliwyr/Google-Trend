@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 14:47:29",
+  "lastUpdate": "07-08-2023 , 14:56:43",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Hudiksvall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hudiksvall",
         "pubdate": "Mon, 07 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gummistövlar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gummist%C3%B6vlar",
+        "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 06 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ian Watkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ian%20Watkins",
         "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 06 Aug 2023 16:00:00 +0200"
+        "title": "Halmstad stadsnät",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Halmstad%20stadsn%C3%A4t",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -115,23 +129,9 @@
     ],
     [
       {
-        "title": "Blackstenius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Blackstenius",
-        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonna Andersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonna%20Andersson",
-        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
-        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Storm",
+        "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
       }
     ],
     [

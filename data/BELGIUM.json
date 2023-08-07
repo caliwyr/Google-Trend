@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 14:47:15",
+  "lastUpdate": "07-08-2023 , 14:56:33",
   "data": [
     [
       {
@@ -17,8 +17,22 @@
     ],
     [
       {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alexis Flips",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexis%20Flips",
+        "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Black Sabbath",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Black%20Sabbath",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -27,13 +41,6 @@
         "title": "Mats Rits",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mats%20Rits",
         "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Prodigy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Prodigy",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Grembergen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grembergen",
+        "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Remco Evenepoel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
+        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
         "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Rob de Nijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rob%20de%20Nijs",
         "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simone Biles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Simone%20Biles",
-        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bettiol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bettiol",
-        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
