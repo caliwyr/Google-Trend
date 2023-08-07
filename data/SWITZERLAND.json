@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 02:51:23",
+  "lastUpdate": "07-08-2023 , 03:00:54",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Glasgow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glasgow",
+        "title": "Van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Van%20der%20Poel",
         "pubdate": "Sun, 06 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "St.Gallen gegen Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20gegen%20Luzern",
+        "pubdate": "Sun, 06 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Van%20der%20Poel",
-        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sustenpass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sustenpass",
         "pubdate": "Sun, 06 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC St.Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.Gallen",
-        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hiroshima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hiroshima",
         "pubdate": "Sun, 06 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Immer wieder sonntags",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Immer%20wieder%20sonntags",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
