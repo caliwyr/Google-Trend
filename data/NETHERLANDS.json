@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 10:49:29",
+  "lastUpdate": "07-08-2023 , 10:58:48",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nigeria",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
         "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zweden Verenigde Staten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zweden%20Verenigde%20Staten",
-        "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Van Domselaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Domselaar",
-        "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Voetbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
-        "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
+        "title": "Pogacar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
+        "pubdate": "Sun, 06 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gerrit Kouwenaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerrit%20Kouwenaar",
         "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord-PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
+        "pubdate": "Thu, 03 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
