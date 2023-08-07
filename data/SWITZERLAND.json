@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-08-2023 , 05:44:47",
+  "lastUpdate": "07-08-2023 , 05:53:53",
   "data": [
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+        "pubdate": "Mon, 07 Aug 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Intervention militaire au Niger",
@@ -132,13 +139,6 @@
         "title": "Hiroshima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hiroshima",
         "pubdate": "Sun, 06 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Immer wieder sonntags",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Immer%20wieder%20sonntags",
-        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
