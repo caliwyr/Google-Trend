@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 03:46:27",
+  "lastUpdate": "07-08-2023 , 03:55:48",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "ITV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ITV",
+        "title": "Itv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Itv",
         "pubdate": "Sun, 06 Aug 2023 16:00:00 +0100"
       }
     ],
@@ -69,6 +69,13 @@
         "title": "Newcastle United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20United",
         "pubdate": "Sun, 06 Aug 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle vs Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20vs%20Villarreal",
+        "pubdate": "Sun, 06 Aug 2023 06:00:00 +0100"
       }
     ],
     [
@@ -108,22 +115,8 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle",
-        "pubdate": "Sun, 06 Aug 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ghostbusters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ghostbusters",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Declan Rice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Declan%20Rice",
         "pubdate": "Sun, 06 Aug 2023 19:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Lyme disease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lyme%20disease",
         "pubdate": "Sun, 06 Aug 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Declan Rice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Declan%20Rice",
+        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0100"
       }
     ]
   ]
