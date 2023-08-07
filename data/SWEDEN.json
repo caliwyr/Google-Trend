@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-08-2023 , 23:45:25",
+  "lastUpdate": "07-08-2023 , 23:54:42",
   "data": [
+    [
+      {
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lill Lindfors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lill%20Lindfors",
         "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bryan Randall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryan%20Randall",
+        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -24,16 +38,9 @@
     ],
     [
       {
-        "title": "Bryan Randall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryan%20Randall",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
+        "title": "Tony Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Irving",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "IFK Norrköping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
         "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sätra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%A4tra",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Ecowas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ecowas",
-        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VM",
         "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
@@ -110,6 +117,13 @@
       {
         "title": "Hurtig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hurtig",
+        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viaplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viaplay",
         "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Ian Watkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ian%20Watkins",
         "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kebnekaise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kebnekaise",
-        "pubdate": "Sun, 06 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
