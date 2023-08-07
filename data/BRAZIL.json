@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-08-2023 , 20:50:53",
+  "lastUpdate": "07-08-2023 , 21:00:11",
   "data": [
+    [
+      {
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Mon, 07 Aug 2023 11:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Itau",
@@ -17,30 +24,9 @@
     ],
     [
       {
-        "title": "São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo",
-        "pubdate": "Mon, 07 Aug 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jogo do São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
-        "pubdate": "Mon, 07 Aug 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Neymar",
         "pubdate": "Mon, 07 Aug 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "SPFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0500"
       }
     ],
     [
@@ -52,9 +38,30 @@
     ],
     [
       {
+        "title": "SPFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
         "pubdate": "Mon, 07 Aug 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jogo do São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sao Paulo fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20fc",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0500"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Dia do Estudante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Estudante",
-        "pubdate": "Mon, 07 Aug 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Juventude",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
         "pubdate": "Mon, 07 Aug 2023 10:00:00 -0500"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "BBSE3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BBSE3",
-        "pubdate": "Mon, 07 Aug 2023 10:00:00 -0500"
+        "title": "Dia do Estudante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Estudante",
+        "pubdate": "Mon, 07 Aug 2023 05:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Luciano Huck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Huck",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0500"
+        "title": "Lei Maria da Penha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lei%20Maria%20da%20Penha",
+        "pubdate": "Mon, 07 Aug 2023 11:00:00 -0500"
       }
     ]
   ]

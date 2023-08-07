@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-08-2023 , 20:50:54",
+  "lastUpdate": "07-08-2023 , 21:00:12",
   "data": [
     [
       {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
         "pubdate": "Mon, 07 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool  Darmstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Darmstadt",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Liverpool  Darmstadt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Darmstadt",
-        "pubdate": "Mon, 07 Aug 2023 20:00:00 +0200"
+        "title": "OB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Caroline Wozniacki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Caroline%20Wozniacki",
-        "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Storm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Storm",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
@@ -52,8 +52,15 @@
     ],
     [
       {
-        "title": "DOT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DOT",
+        "title": "Caroline Wozniacki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Caroline%20Wozniacki",
+        "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dot",
         "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
       }
     ],
@@ -62,6 +69,20 @@
         "title": "Copenhagen Fashion Week",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Copenhagen%20Fashion%20Week",
         "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fantasy Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fantasy%20Premier%20League",
+        "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Word",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Word",
+        "pubdate": "Mon, 07 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Penny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Penny",
         "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alberta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alberta",
-        "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie",
-        "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brad%20Pitt",
-        "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
