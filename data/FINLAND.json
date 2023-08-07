@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 13:49:37",
+  "lastUpdate": "07-08-2023 , 13:59:06",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nigeria",
         "pubdate": "Mon, 07 Aug 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Windy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Windy",
+        "pubdate": "Mon, 07 Aug 2023 11:00:00 +0300"
       }
     ],
     [
@@ -48,20 +55,6 @@
         "title": "Erik Karlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Erik%20Karlsson",
         "pubdate": "Sun, 06 Aug 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Akio Toyoda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Akio%20Toyoda",
-        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "POLYP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#POLYP",
-        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Block party",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Block%20party",
         "pubdate": "Sat, 05 Aug 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hot Shots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hot%20Shots",
+        "pubdate": "Sat, 05 Aug 2023 23:00:00 +0300"
       }
     ]
   ]
