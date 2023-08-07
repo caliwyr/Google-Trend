@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 00:49:03",
+  "lastUpdate": "07-08-2023 , 01:54:08",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Sun, 06 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bennison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bennison",
-        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Bennison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bennison",
+        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Storm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Storm",
         "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
@@ -96,7 +96,7 @@
       {
         "title": "Sverige USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20USA",
-        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
+        "pubdate": "Sat, 05 Aug 2023 20:00:00 +0200"
       }
     ],
     [

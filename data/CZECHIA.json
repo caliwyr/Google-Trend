@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-08-2023 , 00:48:54",
+  "lastUpdate": "07-08-2023 , 01:54:01",
   "data": [
     [
       {
         "title": "The Weeknd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#The%20Weeknd",
         "pubdate": "Sun, 06 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slavia – Zlín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20%E2%80%93%20Zl%C3%ADn",
+        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Papež František",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pape%C5%BE%20Franti%C5%A1ek",
+        "pubdate": "Sun, 06 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gran Turismo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gran%20Turismo",
         "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Hlinka Gretzky Cup 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlinka%20Gretzky%20Cup%202023",
         "pubdate": "Sat, 05 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zelvy ninja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zelvy%20ninja",
-        "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jennifer%20Lopez",
-        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
