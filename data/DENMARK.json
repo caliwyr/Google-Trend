@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 17:44:41",
+  "lastUpdate": "07-08-2023 , 17:54:03",
   "data": [
     [
       {
@@ -108,8 +108,22 @@
     ],
     [
       {
+        "title": "Alberta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alberta",
+        "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brad%20Pitt",
+        "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Angelina Jolie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie",
         "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie",
-        "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Evenepoel",
         "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alberta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alberta",
-        "pubdate": "Sun, 06 Aug 2023 21:00:00 +0200"
       }
     ]
   ]

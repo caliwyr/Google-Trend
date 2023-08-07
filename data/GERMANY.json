@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2023 , 17:44:42",
+  "lastUpdate": "07-08-2023 , 17:54:05",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Hitzewelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hitzewelle",
-        "pubdate": "Mon, 07 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dalida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalida",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Greta Gerwig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Gerwig",
-        "pubdate": "Mon, 07 Aug 2023 13:00:00 +0200"
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Yann Sommer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Yann%20Sommer",
+        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Annalena Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Annalena%20Baerbock",
         "pubdate": "Mon, 07 Aug 2023 10:00:00 +0200"
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MLS",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,20 @@
     ],
     [
       {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Megan Rapinoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Megan%20Rapinoe",
+        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tim Mälzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tim%20M%C3%A4lzer",
         "pubdate": "Sun, 06 Aug 2023 22:00:00 +0200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Giovanni Zarrella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Giovanni%20Zarrella",
-        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
+        "title": "KSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
+        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wacken Tickets 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken%20Tickets%202024",
-        "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
+        "title": "Giovanni Zarrella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Giovanni%20Zarrella",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Reutlingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reutlingen",
         "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slowenien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowenien",
-        "pubdate": "Fri, 04 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
