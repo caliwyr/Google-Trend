@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 09:52:41",
+  "lastUpdate": "08-08-2023 , 10:07:54",
   "data": [
     [
       {
@@ -80,6 +80,20 @@
     ],
     [
       {
+        "title": "KTE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KTE",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euro árfolyam ma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euro%20%C3%A1rfolyam%20ma",
+        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bella Hadid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bella%20Hadid",
         "pubdate": "Mon, 07 Aug 2023 08:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Euro árfolyam ma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euro%20%C3%A1rfolyam%20ma",
-        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
+        "title": "Red Dead Redemption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Red%20Dead%20Redemption",
+        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Red Dead Redemption",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Red%20Dead%20Redemption",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
         "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Dér Heni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9r%20Heni",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nemes Csaba, Nemes Richárd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemes%20Csaba,%20Nemes%20Rich%C3%A1rd",
-        "pubdate": "Mon, 07 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vidi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vidi",
         "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal–manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93manchester%20City",
+        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
       }
     ]
   ]
