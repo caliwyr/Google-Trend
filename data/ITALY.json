@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 02:42:51",
+  "lastUpdate": "08-08-2023 , 02:52:08",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Matteo Napoletano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Napoletano",
+        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Travis%20Scott",
         "pubdate": "Mon, 07 Aug 2023 15:00:00 +0200"
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Valentina Ferragni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valentina%20Ferragni",
-        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trofeo Berlusconi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trofeo%20Berlusconi",
-        "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Isaksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Isaksen",
-        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
+        "title": "Trofeo Berlusconi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trofeo%20Berlusconi",
+        "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Cabral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cabral",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0200"
+        "title": "Angelina Mango",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelina%20Mango",
+        "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Facundo Gonzalez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Facundo%20Gonzalez",
+        "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
       }
     ]
   ]
