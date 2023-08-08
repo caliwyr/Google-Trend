@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 06:46:13",
+  "lastUpdate": "08-08-2023 , 06:55:33",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Tori Spelling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tori%20Spelling",
         "pubdate": "Tue, 08 Aug 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Red Dead Redemption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Red%20Dead%20Redemption",
+        "pubdate": "Tue, 08 Aug 2023 18:00:00 +1200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cristiano%20Ronaldo",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Pet Central",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pet%20Central",
         "pubdate": "Mon, 07 Aug 2023 14:00:00 +1200"
@@ -125,20 +139,6 @@
         "title": "IndyCar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IndyCar",
         "pubdate": "Mon, 07 Aug 2023 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Simone Biles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Simone%20Biles",
-        "pubdate": "Mon, 07 Aug 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nigeria",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +1200"
       }
     ]
   ]
