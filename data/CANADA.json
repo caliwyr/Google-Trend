@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 13:50:49",
+  "lastUpdate": "08-08-2023 , 13:59:57",
   "data": [
     [
       {
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Tennis Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tennis%20Toronto",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Montreal Canadiens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal%20Canadiens",
         "pubdate": "Mon, 07 Aug 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Australia vs Denmark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Denmark",
-        "pubdate": "Mon, 07 Aug 2023 16:00:00 -0400"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Australia vs Denmark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Denmark",
+        "pubdate": "Mon, 07 Aug 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
         "pubdate": "Mon, 07 Aug 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Montgomery Riverfront brawl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montgomery%20Riverfront%20brawl",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 13:50:57",
+  "lastUpdate": "08-08-2023 , 14:00:02",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Valdres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valdres",
+        "pubdate": "Tue, 08 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jamaica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jamaica",
         "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Vegard Forren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vegard%20Forren",
+        "title": "Elektrifisering av Melkøya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elektrifisering%20av%20Melk%C3%B8ya",
         "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
       }
     ],
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Elektrifisering av Melkøya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elektrifisering%20av%20Melk%C3%B8ya",
-        "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
+        "title": "Niklas Sandberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niklas%20Sandberg",
+        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lapskaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lapskaus",
+        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,9 @@
     ],
     [
       {
-        "title": "Niklas Sandberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niklas%20Sandberg",
-        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo Taxi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Taxi",
-        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
+        "title": "Sandra Bullock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandra%20Bullock",
+        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
         "pubdate": "Mon, 07 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Borreliose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Borreliose",
-        "pubdate": "Mon, 07 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
