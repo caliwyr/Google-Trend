@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 17:48:34",
+  "lastUpdate": "08-08-2023 , 17:57:56",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Red Dead Redemption",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Red%20Dead%20Redemption",
         "pubdate": "Tue, 08 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frölunda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Sätra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%A4tra",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Översvämning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96versv%C3%A4mning",
         "pubdate": "Mon, 07 Aug 2023 14:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Hans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hans",
         "pubdate": "Mon, 07 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England",
-        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
       }
     ]
   ]

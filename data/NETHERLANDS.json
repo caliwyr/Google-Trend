@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-08-2023 , 17:48:31",
+  "lastUpdate": "08-08-2023 , 17:57:52",
   "data": [
+    [
+      {
+        "title": "Thijs Römer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20R%C3%B6mer",
+        "pubdate": "Tue, 08 Aug 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bryan Randall",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Harrie Lavreysen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harrie%20Lavreysen",
+        "title": "Lavreysen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lavreysen",
         "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
@@ -34,13 +41,6 @@
         "title": "Storm Hans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20Hans",
         "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zomergasten Arib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zomergasten%20Arib",
-        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Slovenie noodweer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Slovenie%20noodweer",
+        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 04 Aug 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Gerrit Kouwenaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerrit%20Kouwenaar",
         "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
-        "pubdate": "Thu, 03 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
