@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-08-2023 , 00:55:17",
+  "lastUpdate": "08-08-2023 , 01:58:50",
   "data": [
+    [
+      {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Tue, 08 Aug 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Tue, 08 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lill Lindfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lill%20Lindfors",
-        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Norrköping mot IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping%20mot%20IFK%20G%C3%B6teborg",
+        "title": "Anna Lindberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Lindberg",
         "pubdate": "Mon, 07 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tony Irving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Irving",
-        "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VM",
-        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hurtig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hurtig",
         "pubdate": "Sun, 06 Aug 2023 13:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Ian Watkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ian%20Watkins",
         "pubdate": "Sun, 06 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kebnekaise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kebnekaise",
+        "pubdate": "Sun, 06 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
       }
     ]
   ]

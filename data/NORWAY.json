@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 00:55:15",
+  "lastUpdate": "08-08-2023 , 01:58:48",
   "data": [
     [
       {
@@ -45,23 +45,16 @@
     ],
     [
       {
+        "title": "Oa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oa",
+        "pubdate": "Mon, 07 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fantasy premier league",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fantasy%20premier%20league",
         "pubdate": "Mon, 07 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gardermoen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
-        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#GD",
-        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Oa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oa",
-        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
+        "title": "Gardermoen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
+        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Hadeland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hadeland",
-        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gummistøvler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gummist%C3%B8vler",
         "pubdate": "Mon, 07 Aug 2023 09:00:00 +0200"
@@ -138,6 +124,20 @@
       {
         "title": "Klaksvik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Klaksvik",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ha",
+        "pubdate": "Mon, 07 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Depeche Mode",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Depeche%20Mode",
         "pubdate": "Mon, 07 Aug 2023 20:00:00 +0200"
       }
     ]
