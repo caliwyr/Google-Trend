@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 21:43:50",
+  "lastUpdate": "08-08-2023 , 21:53:04",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
+        "title": "Arni Frederiksberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arni%20Frederiksberg",
+        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Dokka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dokka",
-        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Only Murders in the Building",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Only%20Murders%20in%20the%20Building",
         "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "Akerselva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Akerselva",
-        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
+        "title": "Dokka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dokka",
+        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wrexham",
+        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Hol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hol",
-        "pubdate": "Tue, 08 Aug 2023 20:00:00 +0200"
+        "title": "Akerselva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Akerselva",
+        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Alexandra Joner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Joner",
         "pubdate": "Tue, 08 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hol",
+        "pubdate": "Tue, 08 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Lapskaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lapskaus",
+        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Adressa.no",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adressa.no",
         "pubdate": "Tue, 08 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christer Rødseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Christer%20R%C3%B8dseth",
-        "pubdate": "Tue, 08 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sandra Bullock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandra%20Bullock",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
