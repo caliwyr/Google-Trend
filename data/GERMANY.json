@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 18:49:30",
+  "lastUpdate": "08-08-2023 , 18:58:47",
   "data": [
     [
       {
@@ -10,15 +10,8 @@
     ],
     [
       {
-        "title": "ALS Krankheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ALS%20Krankheit",
-        "pubdate": "Tue, 08 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Als",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Als",
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ALS",
         "pubdate": "Tue, 08 Aug 2023 06:00:00 +0200"
       }
     ],
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Sturmflut Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Hamburg",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Mon, 07 Aug 2023 23:00:00 +0200"
@@ -111,6 +97,13 @@
         "title": "Senne Lynen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Senne%20Lynen",
         "pubdate": "Mon, 07 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kolo Muani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kolo%20Muani",
         "pubdate": "Sat, 05 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Reutlingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reutlingen",
+        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
