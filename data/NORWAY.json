@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-08-2023 , 19:34:09",
+  "lastUpdate": "09-08-2023 , 19:52:43",
   "data": [
-    [
-      {
-        "title": "Våler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5ler",
-        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Liltay",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Hønefoss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8nefoss",
+        "title": "Glomma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Glomma",
         "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
@@ -52,20 +45,6 @@
     ],
     [
       {
-        "title": "Benjamin Pavard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Benjamin%20Pavard",
-        "pubdate": "Wed, 09 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kåre Conradi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#K%C3%A5re%20Conradi",
-        "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Drammen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drammen",
         "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
@@ -73,9 +52,9 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League",
-        "pubdate": "Wed, 09 Aug 2023 00:00:00 +0200"
+        "title": "Kåre Conradi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#K%C3%A5re%20Conradi",
+        "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -108,6 +87,13 @@
     ],
     [
       {
+        "title": "Lorde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lorde",
+        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dillon Danis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dillon%20Danis",
         "pubdate": "Wed, 09 Aug 2023 00:00:00 +0200"
@@ -115,16 +101,16 @@
     ],
     [
       {
-        "title": "Otta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Otta",
-        "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
+        "title": "Pavard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pavard",
+        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mjøsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mj%C3%B8sa",
-        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
+        "title": "Marna Haugen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marna%20Haugen",
+        "pubdate": "Wed, 09 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Aurlandsdalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurlandsdalen",
-        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
+        "title": "Mummi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mummi",
+        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nesbyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nesbyen",
+        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Molde Klaksvik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20Klaksvik",
+        "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
