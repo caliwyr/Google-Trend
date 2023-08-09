@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2023 , 21:45:03",
+  "lastUpdate": "09-08-2023 , 21:54:15",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Kia K3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kia%20K3",
-        "pubdate": "Wed, 09 Aug 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Lil Tay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lil%20Tay",
         "pubdate": "Wed, 09 Aug 2023 11:00:00 -0600"
@@ -33,6 +26,13 @@
       {
         "title": "Monterrey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey",
+        "pubdate": "Wed, 09 Aug 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Kia K3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kia%20K3",
         "pubdate": "Wed, 09 Aug 2023 00:00:00 -0600"
       }
     ],
@@ -73,15 +73,15 @@
     ],
     [
       {
-        "title": "Sinead o'connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sinead%20o'connor",
+        "title": "Manuel Turizo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manuel%20Turizo",
         "pubdate": "Wed, 09 Aug 2023 12:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Manuel Turizo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manuel%20Turizo",
+        "title": "Sinead o'connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sinead%20o'connor",
         "pubdate": "Wed, 09 Aug 2023 12:00:00 -0600"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Paty cantu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paty%20cantu",
-        "pubdate": "Wed, 09 Aug 2023 03:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Eclipse solar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20solar",
         "pubdate": "Wed, 09 Aug 2023 12:00:00 -0600"
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "Paty cantu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paty%20cantu",
+        "pubdate": "Wed, 09 Aug 2023 03:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Mega Millions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mega%20Millions",
         "pubdate": "Wed, 09 Aug 2023 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Banda MS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Banda%20MS",
+        "pubdate": "Wed, 09 Aug 2023 09:00:00 -0600"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "América  Nashville SC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Am%C3%A9rica%20%20Nashville%20SC",
-        "pubdate": "Tue, 08 Aug 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Toluca  Minnesota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Toluca%20%20Minnesota",
         "pubdate": "Tue, 08 Aug 2023 12:00:00 -0600"
       }
     ]
