@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2023 , 17:46:56",
+  "lastUpdate": "09-08-2023 , 17:56:35",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sergei Barracuda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sergei%20Barracuda",
         "pubdate": "Wed, 09 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GTA6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GTA6",
+        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "GTA6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GTA6",
-        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "David Pastrňák",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Pastr%C5%88%C3%A1k",
         "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Slavia Dnipro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Dnipro",
+        "title": "Slavia - Dnipro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20-%20Dnipro",
         "pubdate": "Wed, 09 Aug 2023 18:00:00 +0200"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "ALS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ALS",
         "pubdate": "Tue, 08 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Veronika Křesťanová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika%20K%C5%99es%C5%A5anov%C3%A1",
-        "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Natalie Portman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Natalie%20Portman",
         "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "William Friedkin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#William%20Friedkin",
+        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
       }
     ]
   ]
