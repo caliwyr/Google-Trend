@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 23:45:33",
+  "lastUpdate": "10-08-2023 , 23:54:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Maui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maui",
         "pubdate": "Thu, 10 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Czech Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Czech%20Open",
+        "pubdate": "Thu, 10 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Řepiště",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%98epi%C5%A1t%C4%9B",
+        "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Red Dead Redemption",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Red%20Dead%20Redemption",
         "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "Czech Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Czech%20Open",
-        "pubdate": "Thu, 10 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SK Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
+        "title": "Sk slavia praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sk%20slavia%20praha",
         "pubdate": "Thu, 10 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TJ Řepiště",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#TJ%20%C5%98epi%C5%A1t%C4%9B",
-        "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "MOL Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MOL%20Cup",
-        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Whitney%20Houston",
+        "pubdate": "Wed, 09 Aug 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Whitney Houston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Whitney%20Houston",
-        "pubdate": "Wed, 09 Aug 2023 15:00:00 +0200"
+        "title": "Rychnov nad Kněžnou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rychnov%20nad%20Kn%C4%9B%C5%BEnou",
+        "pubdate": "Wed, 09 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
