@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "10-08-2023 , 18:47:00",
+  "lastUpdate": "10-08-2023 , 18:56:21",
   "data": [
+    [
+      {
+        "title": "Sverige Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Japan",
+        "pubdate": "Thu, 10 Aug 2023 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Hawaii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hawaii",
         "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malte Strömwall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malte%20Str%C3%B6mwall",
+        "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -24,13 +38,6 @@
     ],
     [
       {
-        "title": "Jens Cajuste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jens%20Cajuste",
-        "pubdate": "Thu, 10 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Devo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Devo",
         "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Lil Tay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lil%20Tay",
-        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
+        "title": "Jens Cajuste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jens%20Cajuste",
+        "pubdate": "Thu, 10 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eris covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eris%20covid",
+        "pubdate": "Thu, 10 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Alba August",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alba%20August",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sinead O'Connor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sinead%20O'Connor",
         "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
         "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trafiken Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken%20G%C3%B6teborg",
-        "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trafiken.nu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken.nu",
-        "pubdate": "Tue, 08 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
-        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
