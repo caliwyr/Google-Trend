@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-08-2023 , 09:43:07",
+  "lastUpdate": "10-08-2023 , 09:52:01",
   "data": [
-    [
-      {
-        "title": "Hawaii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hawaii",
-        "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jens Cajuste",
@@ -41,6 +34,13 @@
         "title": "Tory Lanez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tory%20Lanez",
         "pubdate": "Wed, 09 Aug 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Felix Herngren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Felix%20Herngren",
+        "pubdate": "Wed, 09 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Trafiken Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken%20G%C3%B6teborg",
-        "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trafiken.nu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken.nu",
         "pubdate": "Tue, 08 Aug 2023 15:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Översvämning Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96versv%C3%A4mning%20G%C3%B6teborg",
-        "pubdate": "Tue, 08 Aug 2023 19:00:00 +0200"
+        "title": "HIF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
+        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novo%20Nordisk",
+        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
