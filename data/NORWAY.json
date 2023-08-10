@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-08-2023 , 08:44:13",
+  "lastUpdate": "10-08-2023 , 08:54:05",
   "data": [
     [
       {
         "title": "MJØNDALEN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MJ%C3%98NDALEN",
         "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vålerenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
-        "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -26,6 +19,13 @@
       {
         "title": "Hønefoss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8nefoss",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Glomma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Glomma",
         "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "Robbie Robertson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Robbie%20Robertson",
         "pubdate": "Wed, 09 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Braskereidfoss kraftstasjon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Braskereidfoss%20kraftstasjon",
-        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Øyafestivalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98yafestivalen",
-        "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
+        "title": "Elverum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elverum",
+        "pubdate": "Wed, 09 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Øyafestivalen 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98yafestivalen%202023",
         "pubdate": "Wed, 09 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pavard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pavard",
+        "pubdate": "Wed, 09 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
