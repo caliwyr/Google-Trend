@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 15:36:25",
+  "lastUpdate": "10-08-2023 , 15:46:07",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WK wielrennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20wielrennen",
         "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
@@ -97,6 +90,13 @@
         "title": "Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
         "pubdate": "Sat, 05 Aug 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Dortmund",
+        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Slovenie noodweer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Slovenie%20noodweer",
+        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 04 Aug 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Gerrit Kouwenaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerrit%20Kouwenaar",
         "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
-        "pubdate": "Thu, 03 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
