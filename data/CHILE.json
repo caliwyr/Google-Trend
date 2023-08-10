@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-08-2023 , 10:56:31",
+  "lastUpdate": "10-08-2023 , 11:11:26",
   "data": [
-    [
-      {
-        "title": "Lluvia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvia",
-        "pubdate": "Thu, 10 Aug 2023 05:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "San Lorenzo",
@@ -20,6 +13,13 @@
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
         "pubdate": "Wed, 09 Aug 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Wed, 09 Aug 2023 16:00:00 -0400"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Wed, 09 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
         "pubdate": "Wed, 09 Aug 2023 13:00:00 -0400"
@@ -55,13 +48,6 @@
         "title": "Independiente del Valle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Independiente%20del%20Valle",
         "pubdate": "Wed, 09 Aug 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Panathinaikos  Marsella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Panathinaikos%20%20Marsella",
-        "pubdate": "Wed, 09 Aug 2023 14:00:00 -0400"
       }
     ],
     [
@@ -87,16 +73,16 @@
     ],
     [
       {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
-        "pubdate": "Wed, 09 Aug 2023 23:00:00 -0400"
+        "title": "Linea 9 Metro Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Linea%209%20Metro%20Santiago",
+        "pubdate": "Wed, 09 Aug 2023 16:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Linea 9 Metro Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Linea%209%20Metro%20Santiago",
-        "pubdate": "Wed, 09 Aug 2023 16:00:00 -0400"
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
+        "pubdate": "Wed, 09 Aug 2023 23:00:00 -0400"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Feriado agosto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feriado%20agosto",
         "pubdate": "Wed, 09 Aug 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rodrigo martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rodrigo%20martinez",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo",
         "pubdate": "Wed, 09 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lamine%20Yamal",
+        "pubdate": "Wed, 09 Aug 2023 00:00:00 -0400"
       }
     ]
   ]
