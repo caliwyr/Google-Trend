@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 13:45:51",
+  "lastUpdate": "10-08-2023 , 13:55:09",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Hawaii",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hawaii",
+        "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maria Wolrath Söderberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maria%20Wolrath%20S%C3%B6derberg",
         "pubdate": "Thu, 10 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beirut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beirut",
+        "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Felix Herngren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Felix%20Herngren",
-        "pubdate": "Wed, 09 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tommy Körberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20K%C3%B6rberg",
         "pubdate": "Wed, 09 Aug 2023 01:00:00 +0200"
@@ -83,6 +90,13 @@
         "title": "Doja Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Doja%20Cat",
         "pubdate": "Wed, 09 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Åre Översvämning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%85re%20%C3%96versv%C3%A4mning",
+        "pubdate": "Tue, 08 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
         "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trafiken.nu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken.nu",
-        "pubdate": "Tue, 08 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
-        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
       }
     ]
   ]

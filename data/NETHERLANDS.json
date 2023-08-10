@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 13:45:46",
+  "lastUpdate": "10-08-2023 , 13:55:06",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ecuador",
         "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica",
-        "pubdate": "Thu, 10 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -41,13 +34,6 @@
         "title": "Robbie Robertson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robbie%20Robertson",
         "pubdate": "Wed, 09 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sutalo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sutalo",
-        "pubdate": "Wed, 09 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "WK wielrennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20wielrennen",
         "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Ajax Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Dortmund",
-        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Canal Parade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
         "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Pride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pride",
         "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Sat, 05 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Fri, 04 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
