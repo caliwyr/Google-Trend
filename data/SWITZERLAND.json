@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 14:47:41",
+  "lastUpdate": "10-08-2023 , 14:56:59",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
+        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Atlas Fallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atlas%20Fallen",
         "pubdate": "Thu, 10 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oberalppass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oberalppass",
+        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,16 @@
     ],
     [
       {
-        "title": "Oberalppass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oberalppass",
-        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
+        "title": "Jugendwort 2023 Abstimmung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jugendwort%202023%20Abstimmung",
+        "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gaël Monfils",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ga%C3%ABl%20Monfils",
+        "pubdate": "Thu, 10 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kane",
         "pubdate": "Wed, 09 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tory Lanez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tory%20Lanez",
-        "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tranq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tranq",
-        "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Überschwemmungen Norwegen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%9Cberschwemmungen%20Norwegen",
-        "pubdate": "Wed, 09 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
