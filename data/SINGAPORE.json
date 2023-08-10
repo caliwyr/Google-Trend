@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-08-2023 , 03:42:11",
+  "lastUpdate": "10-08-2023 , 03:51:33",
   "data": [
     [
       {
         "title": "Lil Tay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lil%20Tay",
         "pubdate": "Thu, 10 Aug 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jailer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jailer",
+        "pubdate": "Thu, 10 Aug 2023 11:00:00 +0800"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Maui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Maui",
+        "pubdate": "Thu, 10 Aug 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lee Chong Wei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lee%20Chong%20Wei",
         "pubdate": "Thu, 10 Aug 2023 09:00:00 +0800"
@@ -24,8 +38,15 @@
     ],
     [
       {
-        "title": "Singapore National Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20National%20Day",
+        "title": "Honkai: Star Rail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Honkai:%20Star%20Rail",
+        "pubdate": "Thu, 10 Aug 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "SINGAPORE National Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SINGAPORE%20National%20Day",
         "pubdate": "Wed, 09 Aug 2023 00:00:00 +0800"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "National Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#National%20Day",
         "pubdate": "Mon, 07 Aug 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Megan Rapinoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Megan%20Rapinoe",
-        "pubdate": "Mon, 07 Aug 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lauren James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lauren%20James",
-        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Seah Kian Peng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Seah%20Kian%20Peng",
-        "pubdate": "Mon, 07 Aug 2023 23:00:00 +0800"
       }
     ]
   ]
