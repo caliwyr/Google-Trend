@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-08-2023 , 01:34:16",
+  "lastUpdate": "10-08-2023 , 02:25:43",
   "data": [
     [
       {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benfica",
         "pubdate": "Thu, 10 Aug 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ofis Yem halka arz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ofis%20Yem%20halka%20arz",
-        "pubdate": "Thu, 10 Aug 2023 03:00:00 +0300"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Lukaku",
         "pubdate": "Thu, 10 Aug 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "SPK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#SPK",
+        "pubdate": "Thu, 10 Aug 2023 01:00:00 +0300"
       }
     ],
     [
@@ -68,7 +68,7 @@
       {
         "title": "Galatasaray Olimpija Ljubljana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20Olimpija%20Ljubljana",
-        "pubdate": "Wed, 09 Aug 2023 08:00:00 +0300"
+        "pubdate": "Wed, 09 Aug 2023 10:00:00 +0300"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "UEFA ÜLKE SIRALAMASI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UEFA%20%C3%9CLKE%20SIRALAMASI",
-        "pubdate": "Wed, 09 Aug 2023 03:00:00 +0300"
+        "title": "UEFA ülke puanı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UEFA%20%C3%BClke%20puan%C4%B1",
+        "pubdate": "Wed, 09 Aug 2023 10:00:00 +0300"
       }
     ],
     [
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Benzin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benzin",
-        "pubdate": "Wed, 09 Aug 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "UEFA ülke puanı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UEFA%20%C3%BClke%20puan%C4%B1",
-        "pubdate": "Wed, 09 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Pençe-Kilit Operasyonu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Pen%C3%A7e-Kilit%20Operasyonu",
         "pubdate": "Wed, 09 Aug 2023 23:00:00 +0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Emekli maaşı zammı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emekli%20maa%C5%9F%C4%B1%20zamm%C4%B1",
-        "pubdate": "Wed, 09 Aug 2023 01:00:00 +0300"
+        "title": "Fallout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fallout",
+        "pubdate": "Wed, 09 Aug 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Weghorst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Weghorst",
+        "pubdate": "Wed, 09 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Özgür Özel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zg%C3%BCr%20%C3%96zel",
+        "pubdate": "Wed, 09 Aug 2023 00:00:00 +0300"
       }
     ]
   ]
