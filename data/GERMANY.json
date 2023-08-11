@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "11-08-2023 , 10:48:37",
+  "lastUpdate": "11-08-2023 , 10:57:52",
   "data": [
-    [
-      {
-        "title": "Taurus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taurus",
-        "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ecowas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ecowas",
-        "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bianca%20Censori",
         "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
       }
     ],
@@ -34,13 +20,6 @@
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
         "pubdate": "Thu, 10 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lahaina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lahaina",
-        "pubdate": "Thu, 10 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,6 +59,13 @@
     ],
     [
       {
+        "title": "Hund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hund",
+        "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Wed, 09 Aug 2023 15:00:00 +0200"
@@ -94,23 +80,9 @@
     ],
     [
       {
-        "title": "Atlas Fallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Atlas%20Fallen",
-        "pubdate": "Wed, 09 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Reinhard Mey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reinhard%20Mey",
         "pubdate": "Wed, 09 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aktenzeichen XY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aktenzeichen%20XY",
-        "pubdate": "Wed, 09 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +111,34 @@
         "title": "William Friedkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#William%20Friedkin",
         "pubdate": "Tue, 08 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Afghanistan",
+        "pubdate": "Tue, 08 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Gottschalk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
+        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
+        "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCM",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
