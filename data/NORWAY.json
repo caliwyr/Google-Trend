@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 04:45:23",
+  "lastUpdate": "11-08-2023 , 04:54:43",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Blur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Blur",
+        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bodø/Glimt Pyunik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20Pyunik",
         "pubdate": "Thu, 10 Aug 2023 18:00:00 +0200"
@@ -59,22 +66,8 @@
     ],
     [
       {
-        "title": "Blur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Blur",
-        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Susanne Sundfør",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susanne%20Sundf%C3%B8r",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Muhammad Hassan K2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Muhammad%20Hassan%20K2",
         "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -97,6 +90,13 @@
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Thu, 10 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "K2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#K2",
+        "pubdate": "Thu, 10 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Vålerenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
-        "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
+        "title": "Lil Tay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lil%20Tay",
+        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lil Tay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lil%20Tay",
-        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
+        "title": "Våler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5ler",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ]
   ]
