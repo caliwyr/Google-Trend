@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 19:50:43",
+  "lastUpdate": "11-08-2023 , 19:59:59",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Fußball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball-WM",
-        "pubdate": "Fri, 11 Aug 2023 19:00:00 +0200"
+        "title": "Hannover 96",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Fri, 11 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Ecowas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ecowas",
-        "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
+        "title": "Caicedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Caicedo",
+        "pubdate": "Fri, 11 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "AnnenMayKantereit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AnnenMayKantereit",
-        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
+        "title": "Ecowas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ecowas",
+        "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Rita Falk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rita%20Falk",
-        "pubdate": "Thu, 10 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Harry Kane FC Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Kane%20FC%20Bayern%20M%C3%BCnchen",
         "pubdate": "Wed, 09 Aug 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "TSMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#TSMC",
         "pubdate": "Tue, 08 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD CDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20CDU",
-        "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-08-2023 , 19:50:43",
+  "lastUpdate": "11-08-2023 , 20:00:00",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
-        "pubdate": "Fri, 11 Aug 2023 19:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Caicedo",
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "Köllő Babett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6ll%C5%91%20Babett",
-        "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Carson Coma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carson%20Coma",
         "pubdate": "Fri, 11 Aug 2023 20:00:00 +0200"
@@ -41,6 +27,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
         "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Robin Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robin%20Williams",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Malta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Malta",
         "pubdate": "Fri, 11 Aug 2023 19:00:00 +0200"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rapid%20Wien",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
         "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
@@ -115,8 +108,15 @@
     ],
     [
       {
-        "title": "Florence and The Machine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Florence%20and%20The%20Machine",
+        "title": "Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rapid%20Wien",
+        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Florence and the Machine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Florence%20and%20the%20Machine",
         "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tóth Gabi Krausz Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi%20Krausz%20G%C3%A1bor",
-        "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meghan%20Markle",
+        "pubdate": "Thu, 10 Aug 2023 10:00:00 +0200"
       }
     ]
   ]

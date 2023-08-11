@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 19:50:38",
+  "lastUpdate": "11-08-2023 , 19:59:56",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
+        "pubdate": "Fri, 11 Aug 2023 23:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Red, White and Royal Blue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Red,%20White%20and%20Royal%20Blue",
         "pubdate": "Fri, 11 Aug 2023 09:00:00 +1000"
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
-        "pubdate": "Fri, 11 Aug 2023 23:00:00 +1000"
+        "title": "Australia vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20France",
+        "pubdate": "Fri, 11 Aug 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Heart of Stone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Heart%20of%20Stone",
+        "pubdate": "Fri, 11 Aug 2023 19:00:00 +1000"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "OMG 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#OMG%202",
-        "pubdate": "Fri, 11 Aug 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Faculty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Faculty",
         "pubdate": "Fri, 11 Aug 2023 11:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "England vs Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Colombia",
         "pubdate": "Fri, 11 Aug 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Karlie Kloss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Karlie%20Kloss",
-        "pubdate": "Fri, 11 Aug 2023 08:00:00 +1000"
       }
     ]
   ]
