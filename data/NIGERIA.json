@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-08-2023 , 17:50:24",
+  "lastUpdate": "11-08-2023 , 17:59:57",
   "data": [
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
+        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "FPL",
@@ -27,6 +34,13 @@
         "title": "Heart of Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Heart%20of%20Stone",
         "pubdate": "Fri, 11 Aug 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "El-Rufai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#El-Rufai",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#La%20Liga",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Moises Caicedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Moises%20Caicedo",
         "pubdate": "Thu, 10 Aug 2023 00:00:00 +0100"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Tyler Adams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tyler%20Adams",
-        "pubdate": "Thu, 10 Aug 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ECOWAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#ECOWAS",
         "pubdate": "Thu, 10 Aug 2023 22:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "PDF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PDF",
         "pubdate": "Thu, 10 Aug 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Burna Boy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burna%20Boy",
-        "pubdate": "Thu, 10 Aug 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Iyabo Oko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Iyabo%20Oko",
-        "pubdate": "Thu, 10 Aug 2023 18:00:00 +0100"
       }
     ]
   ]
