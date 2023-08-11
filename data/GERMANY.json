@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-08-2023 , 11:50:10",
+  "lastUpdate": "11-08-2023 , 11:59:32",
   "data": [
+    [
+      {
+        "title": "Taurus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taurus",
+        "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ecowas",
@@ -13,13 +20,6 @@
         "title": "Hawaii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hawaii",
         "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
-        "pubdate": "Thu, 10 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Wed, 09 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lil Tay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lil%20Tay",
-        "pubdate": "Wed, 09 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FCM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCM",
         "pubdate": "Sun, 06 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SummerSlam 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SummerSlam%202023",
+        "pubdate": "Sat, 05 Aug 2023 10:00:00 +0200"
       }
     ]
   ]
