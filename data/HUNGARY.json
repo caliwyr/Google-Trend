@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "11-08-2023 , 16:44:10",
+  "lastUpdate": "11-08-2023 , 16:53:39",
   "data": [
     [
       {
         "title": "Caicedo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Caicedo",
         "pubdate": "Fri, 11 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Köllő Babett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6ll%C5%91%20Babett",
-        "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Csondor Kata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csondor%20Kata",
-        "pubdate": "Fri, 11 Aug 2023 13:00:00 +0200"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -73,8 +66,15 @@
     ],
     [
       {
-        "title": "Florence and the Machine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Florence%20and%20the%20Machine",
+        "title": "Gyopáros Alpár",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyop%C3%A1ros%20Alp%C3%A1r",
+        "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Florence and The Machine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Florence%20and%20The%20Machine",
         "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Rácz Jenő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1cz%20Jen%C5%91",
+        "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "ByeAlex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ByeAlex",
         "pubdate": "Thu, 10 Aug 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Csepregi Éva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csepregi%20%C3%89va",
         "pubdate": "Thu, 10 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robbie Robertson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robbie%20Robertson",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0200"
       }
     ]
   ]

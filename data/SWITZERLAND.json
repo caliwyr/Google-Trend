@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-08-2023 , 16:44:16",
+  "lastUpdate": "11-08-2023 , 16:53:45",
   "data": [
-    [
-      {
-        "title": "Street Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Street%20Parade",
-        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Michela Murgia",
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Street Parade Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Street%20Parade%20Z%C3%BCrich",
+        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Corona-Variante Eris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Corona-Variante%20Eris",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
@@ -41,6 +41,13 @@
         "title": "Taylor Russell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Russell",
         "pubdate": "Fri, 11 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Streetparade Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Streetparade%20Z%C3%BCrich",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -59,15 +66,15 @@
     ],
     [
       {
-        "title": "Spanien gegen Niederlande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Spanien%20gegen%20Niederlande",
-        "pubdate": "Fri, 11 Aug 2023 07:00:00 +0200"
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
+        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zurich Street Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zurich%20Street%20Parade",
+        "title": "Zurich street parade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zurich%20street%20parade",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
       }
     ],
@@ -80,16 +87,9 @@
     ],
     [
       {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
-        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Virgin Galactic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Virgin%20Galactic",
-        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
+        "title": "Spanien gegen Niederlande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Spanien%20gegen%20Niederlande",
+        "pubdate": "Fri, 11 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -97,6 +97,27 @@
         "title": "Aktie UBS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aktie%20UBS",
         "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#China",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heart of Stone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heart%20of%20Stone",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Virgin Galactic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Virgin%20Galactic",
+        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Gotthard-Tunnel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
         "pubdate": "Thu, 10 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hibernian gegen Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hibernian%20gegen%20Luzern",
-        "pubdate": "Thu, 10 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Waldbrände Maui Hawaii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Waldbr%C3%A4nde%20Maui%20Hawaii",
-        "pubdate": "Thu, 10 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nouveau variant Covid Eris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nouveau%20variant%20Covid%20Eris",
-        "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
       }
     ]
   ]
