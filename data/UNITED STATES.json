@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-08-2023 , 07:38:17",
+  "lastUpdate": "11-08-2023 , 07:47:39",
   "data": [
+    [
+      {
+        "title": "Adam Sandler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adam%20Sandler",
+        "pubdate": "Fri, 11 Aug 2023 00:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -13,13 +20,6 @@
         "title": "Patriots",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots",
         "pubdate": "Thu, 10 Aug 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dale Gribble",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dale%20Gribble",
-        "pubdate": "Thu, 10 Aug 2023 11:00:00 -0700"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Malik Cunningham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malik%20Cunningham",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 -0700"
+        "title": "CPI report",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI%20report",
+        "pubdate": "Thu, 10 Aug 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dale Gribble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dale%20Gribble",
+        "pubdate": "Thu, 10 Aug 2023 15:00:00 -0700"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Phil Mickelson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phil%20Mickelson",
         "pubdate": "Thu, 10 Aug 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cistern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cistern",
-        "pubdate": "Thu, 10 Aug 2023 17:00:00 -0700"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Moises Caicedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Moises%20Caicedo",
-        "pubdate": "Thu, 10 Aug 2023 20:00:00 -0700"
+        "title": "Clarence Thomas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clarence%20Thomas",
+        "pubdate": "Thu, 10 Aug 2023 19:00:00 -0700"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
-        "title": "Clarence Thomas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clarence%20Thomas",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 -0700"
+        "title": "Atlas Fallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlas%20Fallen",
+        "pubdate": "Thu, 10 Aug 2023 11:00:00 -0700"
       }
     ],
     [
       {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI",
-        "pubdate": "Thu, 10 Aug 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "North Korean leader Kim Jong Un",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#North%20Korean%20leader%20Kim%20Jong%20Un",
+        "title": "Kyle Richards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Richards",
         "pubdate": "Thu, 10 Aug 2023 22:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Maui Fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maui%20Fire",
+        "pubdate": "Wed, 09 Aug 2023 06:00:00 -0700"
       }
     ]
   ]
