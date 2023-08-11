@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 09:41:07",
+  "lastUpdate": "11-08-2023 , 09:50:31",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Polling Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20Day",
+        "title": "Teachers' Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Teachers'%20Day",
         "pubdate": "Fri, 11 Aug 2023 16:00:00 +0800"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Durian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Durian",
         "pubdate": "Fri, 11 Aug 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Japan vs Sweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20vs%20Sweden",
+        "pubdate": "Fri, 11 Aug 2023 16:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Japan vs Sweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20vs%20Sweden",
-        "pubdate": "Fri, 11 Aug 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "De Gea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#De%20Gea",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0800"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "President election 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#President%20election%202023",
-        "pubdate": "Thu, 10 Aug 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "COE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
         "pubdate": "Thu, 10 Aug 2023 17:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "South Korea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#South%20Korea",
         "pubdate": "Thu, 10 Aug 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI",
+        "pubdate": "Thu, 10 Aug 2023 21:00:00 +0800"
       }
     ]
   ]
