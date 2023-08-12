@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2023 , 02:48:42",
+  "lastUpdate": "12-08-2023 , 02:57:59",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami",
+        "pubdate": "Fri, 11 Aug 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fantasy Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fantasy%20Premier%20League",
         "pubdate": "Fri, 11 Aug 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LiveScore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LiveScore",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0100"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Inter Miami vs Charlotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami%20vs%20Charlotte",
+        "title": "Japan vs Sweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Japan%20vs%20Sweden",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0100"
       }
     ],
@@ -48,13 +62,6 @@
         "title": "Spain vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Spain%20vs%20Netherlands",
         "pubdate": "Fri, 11 Aug 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Japan vs Sweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Japan%20vs%20Sweden",
-        "pubdate": "Fri, 11 Aug 2023 10:00:00 +0100"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "El-Rufai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#El-Rufai",
         "pubdate": "Fri, 11 Aug 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sunday Mbang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sunday%20Mbang",
-        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rihanna",
-        "pubdate": "Fri, 11 Aug 2023 09:00:00 +0100"
+        "title": "Sunday Mbang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sunday%20Mbang",
+        "pubdate": "Fri, 11 Aug 2023 15:00:00 +0100"
       }
     ]
   ]

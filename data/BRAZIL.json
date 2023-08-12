@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-08-2023 , 02:48:37",
+  "lastUpdate": "12-08-2023 , 02:57:54",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Premier%20League",
         "pubdate": "Fri, 11 Aug 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami",
+        "pubdate": "Fri, 11 Aug 2023 19:00:00 -0500"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
         "pubdate": "Fri, 11 Aug 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami",
-        "pubdate": "Fri, 11 Aug 2023 19:00:00 -0500"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Mensagem Dia do Estudante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mensagem%20Dia%20do%20Estudante",
+        "title": "Mensagem DIA DO ESTUDANTE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mensagem%20DIA%20DO%20ESTUDANTE",
         "pubdate": "Fri, 11 Aug 2023 07:00:00 -0500"
       }
     ],
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#WSL",
+        "title": "PAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PAC",
         "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Agente Stone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agente%20Stone",
-        "pubdate": "Fri, 11 Aug 2023 12:00:00 -0500"
+        "title": "WSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#WSL",
+        "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
       }
     ],
     [
@@ -101,8 +101,22 @@
     ],
     [
       {
-        "title": "PAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PAC",
+        "title": "Bad Idea Right",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bad%20Idea%20Right",
+        "pubdate": "Fri, 11 Aug 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Payet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Payet",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Quartas de final Libertadores 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quartas%20de%20final%20Libertadores%202023",
         "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Santa Clara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Clara",
-        "pubdate": "Fri, 11 Aug 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Gal Gadot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gal%20Gadot",
         "pubdate": "Fri, 11 Aug 2023 11:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alcaraz",
-        "pubdate": "Fri, 11 Aug 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bad idea right",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bad%20idea%20right",
-        "pubdate": "Fri, 11 Aug 2023 10:00:00 -0500"
+        "title": "Santa Clara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Clara",
+        "pubdate": "Fri, 11 Aug 2023 09:00:00 -0500"
       }
     ]
   ]
