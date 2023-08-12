@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-08-2023 , 20:47:48",
+  "lastUpdate": "12-08-2023 , 20:57:05",
   "data": [
-    [
-      {
-        "title": "Baník – Hradec Králové",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "pubdate": "Sat, 12 Aug 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Arsenal – Nottingham",
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "Adam Ondra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Ondra",
-        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern",
+        "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern",
-        "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
+        "title": "Adam Ondra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Ondra",
+        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
-        "pubdate": "Fri, 11 Aug 2023 16:00:00 +0200"
+        "title": "Prague Pride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prague%20Pride",
+        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pride Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pride%20Praha",
-        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
+        "pubdate": "Fri, 11 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,16 +73,23 @@
     ],
     [
       {
-        "title": "BMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BMI",
-        "pubdate": "Fri, 11 Aug 2023 00:00:00 +0200"
+        "title": "Gal Gadot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gal%20Gadot",
+        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gal Gadot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gal%20Gadot",
-        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
+        "title": "Josef Laufer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Laufer",
+        "pubdate": "Fri, 11 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BMI",
+        "pubdate": "Fri, 11 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Markéta Stehlíková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Stehl%C3%ADkov%C3%A1",
-        "pubdate": "Fri, 11 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chris Hemsworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chris%20Hemsworth",
         "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Peru",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Moises Caicedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Moises%20Caicedo",
+        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
       }
     ]
   ]

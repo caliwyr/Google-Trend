@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2023 , 20:47:46",
+  "lastUpdate": "12-08-2023 , 20:57:03",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bundesliga",
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
         "pubdate": "Sat, 12 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
+        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Ath Bilbao – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ath%20Bilbao%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
         "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
@@ -59,9 +80,30 @@
     ],
     [
       {
+        "title": "Bayern – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
         "pubdate": "Sat, 12 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,9 +122,9 @@
     ],
     [
       {
-        "title": "L'équipe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%A9quipe",
-        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,51 +136,9 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20a",
-        "pubdate": "Sat, 12 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juliette Armanet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliette%20Armanet",
-        "pubdate": "Sat, 12 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elon%20Musk",
-        "pubdate": "Sat, 12 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Des",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Des",
         "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Axel Laurance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Axel%20Laurance",
-        "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
