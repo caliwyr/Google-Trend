@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-08-2023 , 23:56:42",
+  "lastUpdate": "12-08-2023 , 00:57:09",
   "data": [
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
+        "pubdate": "Sat, 12 Aug 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Salma Paralluelo",
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "FC Wil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Wil",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nuit des etoiles filantes 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nuit%20des%20etoiles%20filantes%202023",
         "pubdate": "Fri, 11 Aug 2023 14:00:00 +0200"
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "FC Wil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Wil",
-        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marlen Reusser Zeitfahren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marlen%20Reusser%20Zeitfahren",
-        "pubdate": "Fri, 11 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#La%20Liga",
         "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Sag niemals nie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sag%20niemals%20nie",
-        "pubdate": "Fri, 11 Aug 2023 22:00:00 +0200"
+        "title": "Marlen Reusser Zeitfahren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marlen%20Reusser%20Zeitfahren",
+        "pubdate": "Fri, 11 Aug 2023 14:00:00 +0200"
       }
     ]
   ]

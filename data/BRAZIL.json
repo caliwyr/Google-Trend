@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 23:56:33",
+  "lastUpdate": "12-08-2023 , 00:57:02",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
+        "pubdate": "Fri, 11 Aug 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami",
+        "pubdate": "Fri, 11 Aug 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Bolsonaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsonaro",
         "pubdate": "Fri, 11 Aug 2023 12:00:00 -0500"
@@ -24,8 +38,8 @@
     ],
     [
       {
-        "title": "Al Ahli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Ahli",
+        "title": "Al-Ahli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ahli",
         "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
       }
     ],
@@ -73,6 +87,20 @@
     ],
     [
       {
+        "title": "Quartas de final Libertadores 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quartas%20de%20final%20Libertadores%202023",
+        "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PAC",
+        "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ligue 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ligue%201",
         "pubdate": "Fri, 11 Aug 2023 16:00:00 -0500"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "PAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PAC",
-        "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bundesliga",
         "pubdate": "Fri, 11 Aug 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato Espanhol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Espanhol",
-        "pubdate": "Fri, 11 Aug 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jade Picon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jade%20Picon",
-        "pubdate": "Fri, 11 Aug 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia do Garçom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Gar%C3%A7om",
-        "pubdate": "Fri, 11 Aug 2023 16:00:00 -0500"
       }
     ]
   ]
