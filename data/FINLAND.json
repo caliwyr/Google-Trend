@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2023 , 06:46:24",
+  "lastUpdate": "12-08-2023 , 06:55:45",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Tiesto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tiesto",
+        "pubdate": "Sat, 12 Aug 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#La%20Liga",
         "pubdate": "Sat, 12 Aug 2023 01:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Kane",
         "pubdate": "Thu, 10 Aug 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ecuador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ecuador",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0300"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-08-2023 , 06:46:24",
+  "lastUpdate": "12-08-2023 , 06:55:43",
   "data": [
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City",
-        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Premier League",
@@ -139,6 +132,13 @@
         "title": "FC Viktoria Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
         "pubdate": "Thu, 10 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+        "pubdate": "Thu, 10 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
