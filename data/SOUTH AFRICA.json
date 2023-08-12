@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2023 , 08:45:11",
+  "lastUpdate": "12-08-2023 , 08:54:17",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Australia vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20France",
+        "pubdate": "Sat, 12 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Burnley vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley%20vs%20Man%20City",
         "pubdate": "Fri, 11 Aug 2023 14:00:00 +0200"
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Fantasy Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
+        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Spain vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spain%20vs%20Netherlands",
         "pubdate": "Fri, 11 Aug 2023 04:00:00 +0200"
@@ -55,20 +69,6 @@
         "title": "Japan vs Sweden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Japan%20vs%20Sweden",
         "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fantasy Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
-        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League%20fixtures",
-        "pubdate": "Fri, 11 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "FPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FPL",
-        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "ECOWAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#ECOWAS",
         "pubdate": "Fri, 11 Aug 2023 06:00:00 +0200"
@@ -118,6 +111,13 @@
         "title": "Coco Gauff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Coco%20Gauff",
         "pubdate": "Fri, 11 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LaLiga",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
       }
     ],
     [
