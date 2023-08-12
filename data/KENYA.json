@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2023 , 03:43:27",
+  "lastUpdate": "12-08-2023 , 03:52:53",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "LiveScore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LiveScore",
+        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Heart of Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Heart%20of%20Stone",
         "pubdate": "Fri, 11 Aug 2023 16:00:00 +0300"
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Senator Gloria Orwoba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Senator%20Gloria%20Orwoba",
+        "pubdate": "Fri, 11 Aug 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rihanna",
         "pubdate": "Fri, 11 Aug 2023 15:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Red, White and Royal Blue movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Red,%20White%20and%20Royal%20Blue%20movie",
         "pubdate": "Fri, 11 Aug 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Moises Caicedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moises%20Caicedo",
-        "pubdate": "Thu, 10 Aug 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kane",
-        "pubdate": "Thu, 10 Aug 2023 19:00:00 +0300"
       }
     ]
   ]
