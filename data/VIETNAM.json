@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "12-08-2023 , 10:44:09",
+  "lastUpdate": "12-08-2023 , 10:53:33",
   "data": [
     [
       {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Miami",
         "pubdate": "Sat, 12 Aug 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kết quả bóng đá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%E1%BA%BFt%20qu%E1%BA%A3%20b%C3%B3ng%20%C4%91%C3%A1",
-        "pubdate": "Sat, 12 Aug 2023 05:00:00 +0700"
       }
     ],
     [
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Rap Việt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Rap%20Vi%E1%BB%87t",
-        "pubdate": "Sat, 12 Aug 2023 10:00:00 +0700"
+        "title": "MC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
+        "pubdate": "Sat, 12 Aug 2023 02:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Làng trong phố tập 10",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%A0ng%20trong%20ph%E1%BB%91%20t%E1%BA%ADp%2010",
-        "pubdate": "Sat, 12 Aug 2023 00:00:00 +0700"
+        "title": "HAGL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#HAGL",
+        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0700"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Serie%20A",
         "pubdate": "Sat, 12 Aug 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Làng trong phố tập 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%A0ng%20trong%20ph%E1%BB%91%20t%E1%BA%ADp%2010",
+        "pubdate": "Sat, 12 Aug 2023 00:00:00 +0700"
       }
     ],
     [
@@ -94,9 +94,16 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City",
-        "pubdate": "Fri, 11 Aug 2023 20:00:00 +0700"
+        "title": "Nha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nha",
+        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Bóng đá Ngoại hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0700"
       }
     ],
     [
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Lịch thi đấu Ngoại hạng Anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City",
         "pubdate": "Fri, 11 Aug 2023 20:00:00 +0700"
       }
     ],
@@ -117,7 +124,7 @@
       {
         "title": "Truc tiep bong da",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Truc%20tiep%20bong%20da",
-        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0700"
+        "pubdate": "Fri, 11 Aug 2023 17:00:00 +0700"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "TP.HCM đấu với Bình Dương",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#TP.HCM%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20B%C3%ACnh%20D%C6%B0%C6%A1ng",
-        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kane",
-        "pubdate": "Fri, 11 Aug 2023 13:00:00 +0700"
+        "title": "Lịch Ngoại hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Fri, 11 Aug 2023 20:00:00 +0700"
       }
     ]
   ]
