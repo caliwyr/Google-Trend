@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-08-2023 , 11:43:57",
+  "lastUpdate": "12-08-2023 , 11:53:16",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Will Smith",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Aurdal Fjordcamping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurdal%20Fjordcamping",
-        "pubdate": "Sat, 12 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
         "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
@@ -75,7 +75,7 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
+        "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ecowas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ecowas",
-        "pubdate": "Fri, 11 Aug 2023 02:00:00 +0200"
+        "title": "Anette Trettebergstuen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anette%20Trettebergstuen",
+        "pubdate": "Fri, 11 Aug 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sarpsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg",
-        "pubdate": "Fri, 11 Aug 2023 09:00:00 +0200"
+        "title": "Ecowas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ecowas",
+        "pubdate": "Fri, 11 Aug 2023 02:00:00 +0200"
       }
     ]
   ]
