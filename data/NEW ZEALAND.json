@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-08-2023 , 11:47:00",
+  "lastUpdate": "13-08-2023 , 11:56:12",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Sun, 13 Aug 2023 00:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Bayern Munich",
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Stadium Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stadium%20Australia",
+        "pubdate": "Sat, 12 Aug 2023 00:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Shane van Gisbergen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shane%20van%20Gisbergen",
         "pubdate": "Sat, 12 Aug 2023 16:00:00 +1200"
@@ -125,20 +139,6 @@
         "title": "Benedict Arnold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Benedict%20Arnold",
         "pubdate": "Sat, 12 Aug 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "NASCAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NASCAR",
-        "pubdate": "Sat, 12 Aug 2023 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Carlos%20Alcaraz",
-        "pubdate": "Sat, 12 Aug 2023 14:00:00 +1200"
       }
     ]
   ]
