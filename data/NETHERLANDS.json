@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 17:50:46",
+  "lastUpdate": "13-08-2023 , 17:59:57",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "title": "Almere City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea%20%20Liverpool",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Lotte Kopecky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lotte%20Kopecky",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rulli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rulli",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Natascha Kampusch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Natascha%20Kampusch",
-        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Thu, 10 Aug 2023 20:00:00 +0200"
       }
     ]
   ]

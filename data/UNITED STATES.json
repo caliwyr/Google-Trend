@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "13-08-2023 , 17:50:36",
+  "lastUpdate": "13-08-2023 , 17:59:49",
   "data": [
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
+        "title": "Chelsea vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea%20vs%20Liverpool",
         "pubdate": "Sun, 13 Aug 2023 09:00:00 -0700"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
         "pubdate": "Sun, 13 Aug 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Felix Hernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Felix%20Hernandez",
+        "pubdate": "Sun, 13 Aug 2023 01:00:00 -0700"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Buffalo Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
-        "pubdate": "Sat, 12 Aug 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bayern%20Munich",
         "pubdate": "Sat, 12 Aug 2023 08:00:00 -0700"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Buffalo Bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
+        "pubdate": "Sat, 12 Aug 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Chargers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chargers",
         "pubdate": "Sat, 12 Aug 2023 20:00:00 -0700"
@@ -83,13 +90,6 @@
         "title": "Chicago Bears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bears",
         "pubdate": "Sat, 12 Aug 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Joshua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anthony%20Joshua",
-        "pubdate": "Sat, 12 Aug 2023 16:00:00 -0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Oscar Valdez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oscar%20Valdez",
-        "pubdate": "Sat, 12 Aug 2023 23:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cristiano%20Ronaldo",
         "pubdate": "Sat, 12 Aug 2023 16:00:00 -0700"
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "USA basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20basketball",
+        "title": "USA Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20Basketball",
         "pubdate": "Sat, 12 Aug 2023 19:00:00 -0700"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Navarrete vs Valdez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Navarrete%20vs%20Valdez",
         "pubdate": "Sat, 12 Aug 2023 23:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Meteor shower",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meteor%20shower",
+        "pubdate": "Fri, 11 Aug 2023 14:00:00 -0700"
       }
     ]
   ]
