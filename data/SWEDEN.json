@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 05:50:10",
+  "lastUpdate": "13-08-2023 , 05:59:19",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Linn Grant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linn%20Grant",
         "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Australien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Australien",
-        "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sport",
+        "pubdate": "Fri, 11 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Haaland",
         "pubdate": "Fri, 11 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nermin Sulejmanovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nermin%20Sulejmanovic",
+        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
       }
     ]
   ]

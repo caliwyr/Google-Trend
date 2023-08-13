@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 05:50:02",
+  "lastUpdate": "13-08-2023 , 05:59:11",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Marseille – Reims",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Reims",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Union Saint-Gilloise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
         "pubdate": "Sat, 12 Aug 2023 23:00:00 +0200"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "RWDM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
         "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Benenwerk brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benenwerk%20brugge",
         "pubdate": "Sat, 12 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thomas%20Smith",
+        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vallende sterren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vallende%20sterren",
+        "pubdate": "Sat, 12 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
