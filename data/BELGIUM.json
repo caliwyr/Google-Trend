@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 18:48:11",
+  "lastUpdate": "13-08-2023 , 18:57:25",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Soeur Sourire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Soeur%20Sourire",
         "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Brentford  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brentford%20%20Tottenham",
-        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
+        "title": "Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20Palmade",
+        "pubdate": "Sun, 13 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brentford  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brentford%20%20Tottenham",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +101,13 @@
     ],
     [
       {
+        "title": "KV Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Oostende",
+        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "France Ecosse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20Ecosse",
         "pubdate": "Sun, 13 Aug 2023 10:00:00 +0200"
@@ -90,13 +118,6 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Madonna",
         "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KV Oostende",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Oostende",
-        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Etoile filante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Etoile%20filante",
-        "pubdate": "Sun, 13 Aug 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Conner Rousseau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conner%20Rousseau",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Villa",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kepa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kepa",
-        "pubdate": "Sun, 13 Aug 2023 11:00:00 +0200"
       }
     ]
   ]
