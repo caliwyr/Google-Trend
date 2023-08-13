@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-08-2023 , 15:55:33",
+  "lastUpdate": "13-08-2023 , 16:13:12",
   "data": [
     [
       {
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Östersund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96stersund",
+        "pubdate": "Sun, 13 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Boygenius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boygenius",
-        "pubdate": "Sun, 13 Aug 2023 03:00:00 +0200"
+        "title": "Tommy Nilsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20Nilsson",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sirius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,9 +45,23 @@
     ],
     [
       {
+        "title": "Boygenius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boygenius",
+        "pubdate": "Sun, 13 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
         "pubdate": "Sat, 12 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,13 +87,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
-        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Linn Grant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linn%20Grant",
         "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "AIK Brommapojkarna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Brommapojkarna",
-        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Gais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England",
         "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
@@ -111,34 +139,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Fri, 11 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VM",
-        "pubdate": "Fri, 11 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Fri, 11 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "070 Shake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#070%20Shake",
-        "pubdate": "Fri, 11 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nermin Sulejmanovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nermin%20Sulejmanovic",
-        "pubdate": "Fri, 11 Aug 2023 23:00:00 +0200"
       }
     ]
   ]

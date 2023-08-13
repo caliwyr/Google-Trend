@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 15:55:27",
+  "lastUpdate": "13-08-2023 , 16:13:07",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "Szoboszlai Dominik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rúzsa Magdi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%BAzsa%20Magdi",
-        "pubdate": "Sun, 13 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Újpest FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
-        "pubdate": "Sun, 13 Aug 2023 05:00:00 +0200"
       }
     ],
     [
@@ -45,6 +31,13 @@
     ],
     [
       {
+        "title": "Újpest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest",
+        "pubdate": "Sun, 13 Aug 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Matt Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Matt%20Smith",
         "pubdate": "Sun, 13 Aug 2023 10:00:00 +0200"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hertha",
-        "pubdate": "Sun, 13 Aug 2023 09:00:00 +0200"
+        "title": "Rúzsa Magdi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%BAzsa%20Magdi",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kínai horoszkóp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADnai%20horoszk%C3%B3p",
-        "pubdate": "Sun, 13 Aug 2023 13:00:00 +0200"
+        "title": "Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hertha",
+        "pubdate": "Sun, 13 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Kerkez Milos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kerkez%20Milos",
-        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+        "title": "Mellékhatások",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mell%C3%A9khat%C3%A1sok",
         "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mimi Webb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mimi%20Webb",
+        "pubdate": "Sat, 12 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
