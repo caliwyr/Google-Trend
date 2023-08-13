@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 22:49:56",
+  "lastUpdate": "13-08-2023 , 22:59:11",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
         "pubdate": "Sun, 13 Aug 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Sun, 13 Aug 2023 12:00:00 -0400"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool%20FC",
-        "pubdate": "Sun, 13 Aug 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Edwin Encarnacion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edwin%20Encarnacion",
         "pubdate": "Sun, 13 Aug 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sridevi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sridevi",
-        "pubdate": "Sun, 13 Aug 2023 15:00:00 -0400"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
-        "pubdate": "Sat, 12 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "India vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#India%20vs%20West%20Indies",
         "pubdate": "Sat, 12 Aug 2023 11:00:00 -0400"
@@ -122,9 +108,16 @@
     ],
     [
       {
-        "title": "Morgan Wallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Morgan%20Wallen",
-        "pubdate": "Sat, 12 Aug 2023 10:00:00 -0400"
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
+        "pubdate": "Sat, 12 Aug 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rybakina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rybakina",
+        "pubdate": "Sat, 12 Aug 2023 02:00:00 -0400"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
         "pubdate": "Sat, 12 Aug 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Morgan Wallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Morgan%20Wallen",
+        "pubdate": "Sat, 12 Aug 2023 10:00:00 -0400"
       }
     ],
     [
