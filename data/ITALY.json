@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 07:50:08",
+  "lastUpdate": "13-08-2023 , 07:59:33",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Parma Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parma%20Calcio",
+        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kepa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kepa",
         "pubdate": "Sun, 13 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ogni maledetta domenica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ogni%20maledetta%20domenica",
+        "pubdate": "Sun, 13 Aug 2023 02:00:00 +0200"
       }
     ],
     [
@@ -80,20 +94,6 @@
     ],
     [
       {
-        "title": "Bari-Parma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari-Parma",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sherpa muore sul K2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sherpa%20muore%20sul%20K2",
-        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Empoli-Cittadella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Empoli-Cittadella",
         "pubdate": "Sat, 12 Aug 2023 07:00:00 +0200"
@@ -103,7 +103,14 @@
       {
         "title": "Matic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matic",
-        "pubdate": "Sat, 12 Aug 2023 15:00:00 +0200"
+        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zapata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zapata",
+        "pubdate": "Sat, 12 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Zapata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zapata",
-        "pubdate": "Sat, 12 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20Miami",
         "pubdate": "Sat, 12 Aug 2023 08:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Psg",
-        "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
+        "title": "Choupo-Moting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Choupo-Moting",
+        "pubdate": "Sat, 12 Aug 2023 09:00:00 +0200"
       }
     ]
   ]

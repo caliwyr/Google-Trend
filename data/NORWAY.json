@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 07:50:10",
+  "lastUpdate": "13-08-2023 , 07:59:35",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Mia Gundersen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mia%20Gundersen",
-        "pubdate": "Sat, 12 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mats Zuccarello",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mats%20Zuccarello",
         "pubdate": "Sat, 12 Aug 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Depeche Mode",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Depeche%20Mode",
         "pubdate": "Fri, 11 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viaplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viaplay",
+        "pubdate": "Fri, 11 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
