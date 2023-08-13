@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-08-2023 , 09:49:38",
+  "lastUpdate": "13-08-2023 , 09:58:53",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Sun, 13 Aug 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Anthony Joshua",
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Everton vs Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20vs%20Fulham",
+        "title": "Brighton vs Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Luton%20Town",
         "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
       }
     ],
@@ -83,6 +90,13 @@
         "title": "PSG vs Lorient",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Lorient",
         "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20vs%20Fulham",
+        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -101,23 +115,9 @@
     ],
     [
       {
-        "title": "Australia vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20France",
-        "pubdate": "Sat, 12 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "England vs Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Colombia",
         "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton vs Luton Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Luton%20Town",
-        "pubdate": "Sat, 12 Aug 2023 16:00:00 +0200"
       }
     ],
     [
