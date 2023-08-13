@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-08-2023 , 04:53:51",
+  "lastUpdate": "13-08-2023 , 05:07:55",
   "data": [
+    [
+      {
+        "title": "Supercoppa di Germania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Supercoppa%20di%20Germania",
+        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mietta",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Negramaro Galatina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Negramaro%20Galatina",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Narni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Narni",
         "pubdate": "Sun, 13 Aug 2023 01:00:00 +0200"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Ilary Blasi. Francesco Totti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ilary%20Blasi.%20Francesco%20Totti",
+        "title": "Ilary Blasi Francesco Totti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ilary%20Blasi%20Francesco%20Totti",
         "pubdate": "Sun, 13 Aug 2023 01:00:00 +0200"
       }
     ],
@@ -48,13 +48,6 @@
         "title": "Kepa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kepa",
         "pubdate": "Sun, 13 Aug 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juventus-Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus-Atalanta",
-        "pubdate": "Sat, 12 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,16 +87,9 @@
     ],
     [
       {
-        "title": "Bari-Parma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari-Parma",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Empoli-Cittadella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Empoli-Cittadella",
-        "pubdate": "Sat, 12 Aug 2023 07:00:00 +0200"
+        "pubdate": "Sat, 12 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Bayern Monaco  RB Lipsia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bayern%20Monaco%20%20RB%20Lipsia",
-        "pubdate": "Sat, 12 Aug 2023 21:00:00 +0200"
+        "title": "Bari-Parma Coppa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari-Parma%20Coppa%20Italia",
+        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Bayern Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bayern%20Monaco",
         "pubdate": "Sat, 12 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verona-Ascoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Ascoli",
+        "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20Miami",
+        "pubdate": "Sat, 12 Aug 2023 08:00:00 +0200"
       }
     ]
   ]

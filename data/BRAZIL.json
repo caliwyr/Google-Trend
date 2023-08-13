@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2023 , 04:53:47",
+  "lastUpdate": "13-08-2023 , 05:07:48",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Feliz Dia dos Pais!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feliz%20Dia%20dos%20Pais!",
+        "pubdate": "Sat, 12 Aug 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Arsenal x Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal%20x%20Nottingham%20Forest",
         "pubdate": "Sat, 12 Aug 2023 01:00:00 -0500"
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Feliz Dia dos Pais!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feliz%20Dia%20dos%20Pais!",
-        "pubdate": "Sat, 12 Aug 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vila Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-        "pubdate": "Sat, 12 Aug 2023 15:00:00 -0500"
+        "title": "Bayern x RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20RB%20Leipzig",
+        "pubdate": "Sat, 12 Aug 2023 14:00:00 -0500"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Supercopa da Alemanha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Supercopa%20da%20Alemanha",
-        "pubdate": "Sat, 12 Aug 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Everton",
         "pubdate": "Sat, 12 Aug 2023 10:00:00 -0500"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
-        "pubdate": "Sat, 12 Aug 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brighton",
         "pubdate": "Sat, 12 Aug 2023 09:00:00 -0500"
@@ -122,9 +108,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea",
-        "pubdate": "Sat, 12 Aug 2023 22:00:00 -0500"
+        "title": "Orlando Morais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Orlando%20Morais",
+        "pubdate": "Sat, 12 Aug 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tiquinho Soares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tiquinho%20Soares",
+        "pubdate": "Sat, 12 Aug 2023 20:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Orlando Morais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Orlando%20Morais",
-        "pubdate": "Sat, 12 Aug 2023 21:00:00 -0500"
+        "title": "Volta Redonda x Operário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volta%20Redonda%20x%20Oper%C3%A1rio",
+        "pubdate": "Sat, 12 Aug 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "pubdate": "Sat, 12 Aug 2023 10:00:00 -0500"
       }
     ]
   ]
