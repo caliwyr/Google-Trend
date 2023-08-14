@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 01:34:38",
+  "lastUpdate": "14-08-2023 , 02:03:45",
   "data": [
     [
       {
@@ -10,23 +10,16 @@
     ],
     [
       {
-        "title": "Taylor Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Russell",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Campus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
-        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Russell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Russell",
+        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -45,16 +38,23 @@
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Neymar",
-        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
+        "title": "Campus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nora Haukland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nora%20Haukland",
-        "pubdate": "Sun, 13 Aug 2023 13:00:00 +0200"
+        "title": "NTNU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NTNU",
+        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Neymar",
+        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Jenny Jenssen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenny%20Jenssen",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KORK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KORK",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
         "pubdate": "Sat, 12 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Ødegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
+        "pubdate": "Sat, 12 Aug 2023 17:00:00 +0200"
       }
     ]
   ]

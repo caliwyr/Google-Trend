@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-08-2023 , 01:34:27",
+  "lastUpdate": "14-08-2023 , 02:03:39",
   "data": [
     [
       {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johnny%20Depp",
         "pubdate": "Mon, 14 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Doku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Doku",
+        "pubdate": "Mon, 14 Aug 2023 03:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Chelsea – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Liverpool",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "De Zaak Alzheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Zaak%20Alzheimer",
-        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
+        "title": "Zulte Waregem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem",
+        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Westerlo  Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo%20%20Gent",
-        "pubdate": "Sun, 13 Aug 2023 19:00:00 +0200"
+        "title": "De Zaak Alzheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Zaak%20Alzheimer",
+        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,16 +87,9 @@
     ],
     [
       {
-        "title": "Zulte Waregem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem",
-        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
-        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+        "title": "Westerlo  Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo%20%20Gent",
+        "pubdate": "Sun, 13 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
+        "title": "Imke Courtois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Imke%20Courtois",
+        "pubdate": "Sun, 13 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Pierre Palmade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20Palmade",
-        "pubdate": "Sun, 13 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
         "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Sanne Cant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sanne%20Cant",
-        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Van Vleuten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Vleuten",
         "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mats Rits",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mats%20Rits",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
       }
     ]
   ]
