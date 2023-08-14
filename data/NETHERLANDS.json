@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 10:45:25",
+  "lastUpdate": "14-08-2023 , 10:54:47",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-        "pubdate": "Sun, 13 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Annemiek van Vleuten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Annemiek%20van%20Vleuten",
-        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
+        "title": "Akpom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Akpom",
+        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Almere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere",
+        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -111,13 +118,6 @@
         "title": "Van den Boomen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20den%20Boomen",
         "pubdate": "Sat, 12 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20der%20Poel",
-        "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
       }
     ],
     [

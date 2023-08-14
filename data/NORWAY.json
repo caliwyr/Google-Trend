@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-08-2023 , 10:45:26",
+  "lastUpdate": "14-08-2023 , 10:54:48",
   "data": [
     [
       {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Billie%20Eilish",
         "pubdate": "Mon, 14 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HVL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HVL",
+        "pubdate": "Mon, 14 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Sun, 13 Aug 2023 23:00:00 +0200"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Campus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
-        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Neymar",
         "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-        "pubdate": "Sun, 13 Aug 2023 22:00:00 +0200"
+        "title": "Campus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Jenny Jenssen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenny%20Jenssen",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Sun, 13 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Pochettino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pochettino",
         "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vålerenga Haugesund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Haugesund",
+        "pubdate": "Sun, 13 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern%20munchen",
         "pubdate": "Sat, 12 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sigrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigrid",
-        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Will%20Smith",
-        "pubdate": "Sat, 12 Aug 2023 07:00:00 +0200"
       }
     ]
   ]
