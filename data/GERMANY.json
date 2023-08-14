@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-08-2023 , 12:45:27",
+  "lastUpdate": "14-08-2023 , 12:59:51",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
         "pubdate": "Mon, 14 Aug 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mariä Himmelfahrt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mari%C3%A4%20Himmelfahrt",
+        "pubdate": "Mon, 14 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Hansa Rostock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock",
-        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neymar",
+        "pubdate": "Sun, 13 Aug 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neymar",
-        "pubdate": "Sun, 13 Aug 2023 19:00:00 +0200"
+        "title": "Hansa Rostock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock",
+        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -55,20 +62,6 @@
         "title": "SC-Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC-Freiburg",
         "pubdate": "Sun, 13 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unterhaching",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unterhaching",
-        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tuchel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
-        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Thu, 10 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hawaii",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hawaii",
+        "pubdate": "Thu, 10 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
