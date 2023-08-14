@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-08-2023 , 11:46:07",
+  "lastUpdate": "14-08-2023 , 11:56:00",
   "data": [
+    [
+      {
+        "title": "Flamengo x São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20S%C3%A3o%20Paulo",
+        "pubdate": "Sun, 13 Aug 2023 11:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Atlético-MG x Bahia",
@@ -24,20 +31,6 @@
     ],
     [
       {
-        "title": "Sao Paulo X Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20X%20Flamengo",
-        "pubdate": "Sun, 13 Aug 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
-        "pubdate": "Sun, 13 Aug 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fantastico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fantastico",
         "pubdate": "Sun, 13 Aug 2023 01:00:00 -0500"
@@ -48,6 +41,13 @@
         "title": "América-MG x Goiás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Goi%C3%A1s",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 -0500"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Corinthians hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20hoje",
+        "title": "Jorge Aragão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jorge%20Arag%C3%A3o",
         "pubdate": "Sun, 13 Aug 2023 19:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Jorge Aragão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jorge%20Arag%C3%A3o",
-        "pubdate": "Sun, 13 Aug 2023 19:00:00 -0500"
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina",
+        "pubdate": "Sun, 13 Aug 2023 20:00:00 -0500"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Remo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
         "pubdate": "Sun, 13 Aug 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina",
-        "pubdate": "Sun, 13 Aug 2023 20:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Flu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flu",
         "pubdate": "Sun, 13 Aug 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Eliana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eliana",
+        "pubdate": "Sun, 13 Aug 2023 14:00:00 -0500"
       }
     ]
   ]
