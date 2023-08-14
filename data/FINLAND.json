@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-08-2023 , 14:46:28",
+  "lastUpdate": "14-08-2023 , 14:55:47",
   "data": [
     [
       {
         "title": "Tom Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Jones",
         "pubdate": "Mon, 14 Aug 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
-        "pubdate": "Mon, 14 Aug 2023 09:00:00 +0300"
       }
     ],
     [
@@ -24,23 +17,16 @@
     ],
     [
       {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
+        "pubdate": "Mon, 14 Aug 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
         "pubdate": "Mon, 14 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-        "pubdate": "Mon, 14 Aug 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snapchat",
-        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
       }
     ],
     [
@@ -52,8 +38,8 @@
     ],
     [
       {
-        "title": "Word",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Word",
+        "title": "Snapchat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snapchat",
         "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
       }
     ],
@@ -62,6 +48,20 @@
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Etna",
         "pubdate": "Mon, 14 Aug 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Word",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Word",
+        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
+        "pubdate": "Mon, 14 Aug 2023 08:00:00 +0300"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Geometry Dash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Geometry%20Dash",
         "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
+        "pubdate": "Mon, 14 Aug 2023 11:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Brentford – Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brentford%20%E2%80%93%20Tottenham",
         "pubdate": "Sun, 13 Aug 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tyson%20Fury",
-        "pubdate": "Sun, 13 Aug 2023 01:00:00 +0300"
       }
     ]
   ]

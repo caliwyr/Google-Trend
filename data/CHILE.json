@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-08-2023 , 14:46:26",
+  "lastUpdate": "14-08-2023 , 14:55:46",
   "data": [
     [
       {
         "title": "Feriado 15 de agosto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feriado%2015%20de%20agosto",
         "pubdate": "Mon, 14 Aug 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CNTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CNTV",
+        "pubdate": "Mon, 14 Aug 2023 02:00:00 -0400"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Claudio Bravo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Bravo",
         "pubdate": "Mon, 14 Aug 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "La hora en Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20hora%20en%20Chile",
-        "pubdate": "Mon, 14 Aug 2023 00:00:00 -0400"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
-        "pubdate": "Sun, 13 Aug 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Union Española",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
         "pubdate": "Sun, 13 Aug 2023 15:00:00 -0400"
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
-        "pubdate": "Sun, 13 Aug 2023 14:00:00 -0400"
+        "title": "Hora Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hora%20Chile",
+        "pubdate": "Sun, 13 Aug 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Karla Constant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karla%20Constant",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 -0400"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "Ricardo Lagos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Lagos",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Flamengo  São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo%20%20S%C3%A3o%20Paulo",
-        "pubdate": "Sun, 13 Aug 2023 19:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dia del zurdo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20zurdo",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "San Luis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 -0400"
       }
     ]
   ]
