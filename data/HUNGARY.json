@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 15:50:16",
+  "lastUpdate": "14-08-2023 , 15:59:39",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Etna",
         "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shelley Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shelley%20Smith",
+        "pubdate": "Mon, 14 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Z generáció",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%20gener%C3%A1ci%C3%B3",
+        "pubdate": "Sun, 13 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Balkezesek világnapja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balkezesek%20vil%C3%A1gnapja",
         "pubdate": "Sun, 13 Aug 2023 14:00:00 +0200"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Keveházi Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keveh%C3%A1zi%20G%C3%A1bor",
-        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Freddie Mercury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Freddie%20Mercury",
         "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Chelsea–Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93Liverpool",
         "pubdate": "Sat, 12 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20Chelsea",
-        "pubdate": "Sat, 12 Aug 2023 14:00:00 +0200"
       }
     ]
   ]

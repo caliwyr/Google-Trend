@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 15:50:13",
+  "lastUpdate": "14-08-2023 , 15:59:37",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Etna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Etna",
+        "pubdate": "Mon, 14 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meghan%20Markle",
         "pubdate": "Mon, 14 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boleslav – Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Slavia",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Olomouc – Teplice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc%20%E2%80%93%20Teplice",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ronaldo",
         "pubdate": "Sun, 13 Aug 2023 11:00:00 +0200"
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Kamarád do deště",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamar%C3%A1d%20do%20de%C5%A1t%C4%9B",
-        "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dynamo České Budějovice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dynamo%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "pubdate": "Sun, 13 Aug 2023 23:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Ewa Farna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ewa%20Farna",
         "pubdate": "Sat, 12 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LP",
-        "pubdate": "Sat, 12 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern",
-        "pubdate": "Sat, 12 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
