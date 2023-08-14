@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-08-2023 , 16:50:52",
+  "lastUpdate": "14-08-2023 , 17:00:04",
   "data": [
-    [
-      {
-        "title": "Easee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Easee",
-        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ringebu",
@@ -38,9 +31,30 @@
     ],
     [
       {
+        "title": "Vålerenga fotball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20fotball",
+        "pubdate": "Mon, 14 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vindafjord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vindafjord",
+        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Vålerenga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
         "pubdate": "Sun, 13 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-        "pubdate": "Sun, 13 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern%20munchen",
         "pubdate": "Sat, 12 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sigrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigrid",
-        "pubdate": "Sat, 12 Aug 2023 13:00:00 +0200"
       }
     ]
   ]
