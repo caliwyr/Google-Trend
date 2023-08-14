@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 08:48:47",
+  "lastUpdate": "14-08-2023 , 08:59:36",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Chris Kläfford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chris%20Kl%C3%A4fford",
-        "pubdate": "Sun, 13 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kajsa Bergqvist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kajsa%20Bergqvist",
         "pubdate": "Sun, 13 Aug 2023 23:00:00 +0200"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "HBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
+        "title": "Häcken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken",
         "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
         "pubdate": "Sat, 12 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sat, 12 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
