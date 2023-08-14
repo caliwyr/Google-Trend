@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 05:53:49",
+  "lastUpdate": "14-08-2023 , 06:11:24",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#F1",
-        "pubdate": "Mon, 14 Aug 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Zonguldak Haber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zonguldak%20Haber",
         "pubdate": "Mon, 14 Aug 2023 02:00:00 +0300"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e",
-        "pubdate": "Sun, 13 Aug 2023 07:00:00 +0300"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#F1",
+        "pubdate": "Mon, 14 Aug 2023 01:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Son depremler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
-        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0300"
+        "title": "Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e",
+        "pubdate": "Sun, 13 Aug 2023 07:00:00 +0300"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Çorum FK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
-        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0300"
+        "title": "Koruk nedir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Koruk%20nedir",
+        "pubdate": "Sun, 13 Aug 2023 23:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Erzurumspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurumspor",
         "pubdate": "Sun, 13 Aug 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bodrum deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bodrum%20deprem",
+        "pubdate": "Sun, 13 Aug 2023 16:00:00 +0300"
       }
     ]
   ]

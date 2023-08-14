@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2023 , 05:53:38",
+  "lastUpdate": "14-08-2023 , 06:11:15",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Chad Wingard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chad%20Wingard",
+        "pubdate": "Mon, 14 Aug 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
         "pubdate": "Sun, 13 Aug 2023 09:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia",
         "pubdate": "Sun, 13 Aug 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Port Adelaide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Port%20Adelaide",
-        "pubdate": "Sun, 13 Aug 2023 22:00:00 +1000"
       }
     ]
   ]
