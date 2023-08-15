@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2023 , 00:54:53",
+  "lastUpdate": "15-08-2023 , 01:41:36",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Van Gogh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Van%20Gogh",
+        "pubdate": "Mon, 14 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
         "pubdate": "Mon, 14 Aug 2023 13:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Schumacher",
         "pubdate": "Mon, 14 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Van Gogh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Van%20Gogh",
-        "pubdate": "Mon, 14 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
