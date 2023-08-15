@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "15-08-2023 , 07:47:30",
+  "lastUpdate": "15-08-2023 , 07:56:47",
   "data": [
     [
       {
         "title": "Europa-Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa-Park",
         "pubdate": "Tue, 15 Aug 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette",
-        "pubdate": "Tue, 15 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Argeles-sur-Mer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Argeles-sur-Mer",
+        "title": "Argeles sur-Mer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Argeles%20sur-Mer",
+        "pubdate": "Tue, 15 Aug 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette",
         "pubdate": "Tue, 15 Aug 2023 07:00:00 +0200"
       }
     ],
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Office",
+        "pubdate": "Tue, 15 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cincinnati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cincinnati",
+        "pubdate": "Tue, 15 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Mon, 14 Aug 2023 22:00:00 +0200"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "& Other Stories",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%26%20Other%20Stories",
-        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
+        "title": "Listerien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Listerien",
+        "pubdate": "Mon, 14 Aug 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Listerien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Listerien",
-        "pubdate": "Mon, 14 Aug 2023 17:00:00 +0200"
+        "title": "& Other Stories",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%26%20Other%20Stories",
+        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Ferragosto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ferragosto",
-        "pubdate": "Mon, 14 Aug 2023 15:00:00 +0200"
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Teams",
+        "pubdate": "Mon, 14 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "15 aout férié",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#15%20aout%20f%C3%A9ri%C3%A9",
         "pubdate": "Mon, 14 Aug 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vulkan Ätna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vulkan%20%C3%84tna",
-        "pubdate": "Mon, 14 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Openair Gampel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Openair%20Gampel",
-        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Javier%20Milei",
-        "pubdate": "Mon, 14 Aug 2023 15:00:00 +0200"
+        "title": "Powerdays Knutwil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Powerdays%20Knutwil",
+        "pubdate": "Mon, 14 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
