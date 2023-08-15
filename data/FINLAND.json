@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2023 , 12:51:02",
+  "lastUpdate": "15-08-2023 , 13:03:19",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Snapchat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snapchat",
+        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Mon, 14 Aug 2023 23:00:00 +0300"
@@ -97,6 +104,13 @@
         "title": "Wind River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wind%20River",
         "pubdate": "Mon, 14 Aug 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Slope",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slope",
+        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Forrest Gump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Forrest%20Gump",
         "pubdate": "Sun, 13 Aug 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Getafe – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Getafe%20%E2%80%93%20Barcelona",
-        "pubdate": "Sun, 13 Aug 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Blur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Blur",
-        "pubdate": "Sun, 13 Aug 2023 22:00:00 +0300"
       }
     ]
   ]
