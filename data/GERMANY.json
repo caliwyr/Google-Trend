@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-08-2023 , 22:52:12",
+  "lastUpdate": "15-08-2023 , 23:04:42",
   "data": [
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Willis",
-        "pubdate": "Tue, 15 Aug 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ursula Cantieni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ursula%20Cantieni",
         "pubdate": "Tue, 15 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Willis",
+        "pubdate": "Tue, 15 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Robin Gosens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robin%20Gosens",
+        "pubdate": "Tue, 15 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Stefan Ortega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Ortega",
         "pubdate": "Tue, 15 Aug 2023 10:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Robin Gosens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robin%20Gosens",
-        "pubdate": "Tue, 15 Aug 2023 23:00:00 +0200"
+        "title": "Prinz William",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinz%20William",
+        "pubdate": "Tue, 15 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bayern Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Leipzig",
         "pubdate": "Sat, 12 Aug 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sat, 12 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
