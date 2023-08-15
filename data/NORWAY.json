@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2023 , 14:55:21",
+  "lastUpdate": "15-08-2023 , 15:10:57",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
         "pubdate": "Tue, 15 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sverige Spania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverige%20Spania",
-        "pubdate": "Tue, 15 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Uka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Uka",
-        "pubdate": "Tue, 15 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -66,6 +52,13 @@
     ],
     [
       {
+        "title": "Aleksander With",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aleksander%20With",
+        "pubdate": "Mon, 14 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mia Gundersen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mia%20Gundersen",
         "pubdate": "Mon, 14 Aug 2023 23:00:00 +0200"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Pstereo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pstereo",
-        "pubdate": "Mon, 14 Aug 2023 14:00:00 +0200"
+        "title": "HVL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HVL",
+        "pubdate": "Mon, 14 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "UiS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UiS",
         "pubdate": "Mon, 14 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vindafjord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vindafjord",
-        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Gekko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gekko",
         "pubdate": "Sun, 13 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Sun, 13 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NTNU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NTNU",
+        "pubdate": "Sun, 13 Aug 2023 18:00:00 +0200"
       }
     ]
   ]
