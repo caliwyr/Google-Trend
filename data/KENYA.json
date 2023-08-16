@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 18:49:58",
+  "lastUpdate": "16-08-2023 , 18:59:06",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
         "pubdate": "Wed, 16 Aug 2023 05:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sevilla",
+        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0300"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Multiple myeloma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Multiple%20myeloma",
+        "pubdate": "Tue, 15 Aug 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica",
         "pubdate": "Tue, 15 Aug 2023 01:00:00 +0300"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Multiple myeloma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Multiple%20myeloma",
-        "pubdate": "Tue, 15 Aug 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Fuel prices",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fuel%20prices",
         "pubdate": "Tue, 15 Aug 2023 12:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "UEFA champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20champions%20League",
         "pubdate": "Tue, 15 Aug 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Assumption of Mary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Assumption%20of%20Mary",
-        "pubdate": "Tue, 15 Aug 2023 12:00:00 +0300"
       }
     ]
   ]
