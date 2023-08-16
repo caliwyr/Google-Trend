@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 22:53:28",
+  "lastUpdate": "16-08-2023 , 23:07:51",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Britney%20Spears",
+        "pubdate": "Wed, 16 Aug 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "ELVIS PRESLEY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ELVIS%20PRESLEY",
         "pubdate": "Wed, 16 Aug 2023 12:00:00 -0400"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "VinFast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#VinFast",
-        "pubdate": "Wed, 16 Aug 2023 12:00:00 -0400"
+        "title": "Wataru Endo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wataru%20Endo",
+        "pubdate": "Wed, 16 Aug 2023 17:00:00 -0400"
       }
     ],
     [
@@ -62,6 +69,20 @@
         "title": "Keremeos fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keremeos%20fire",
         "pubdate": "Wed, 16 Aug 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "VinFast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#VinFast",
+        "pubdate": "Wed, 16 Aug 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Juror",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Juror",
+        "pubdate": "Wed, 16 Aug 2023 16:00:00 -0400"
       }
     ],
     [
@@ -80,23 +101,9 @@
     ],
     [
       {
-        "title": "Juror",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Juror",
-        "pubdate": "Wed, 16 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "LTT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LTT",
         "pubdate": "Wed, 16 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Wataru Endo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wataru%20Endo",
-        "pubdate": "Wed, 16 Aug 2023 17:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
         "pubdate": "Tue, 15 Aug 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Darren Kent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Darren%20Kent",
-        "pubdate": "Tue, 15 Aug 2023 17:00:00 -0400"
       }
     ]
   ]
