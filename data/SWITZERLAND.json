@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 19:50:51",
+  "lastUpdate": "16-08-2023 , 20:00:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sam Kerr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sam%20Kerr",
         "pubdate": "Wed, 16 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ursula Cantieni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ursula%20Cantieni",
+        "pubdate": "Wed, 16 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
-        "pubdate": "Wed, 16 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chris von Rohr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20von%20Rohr",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
@@ -45,8 +45,22 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
+        "pubdate": "Wed, 16 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
+        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mls",
         "pubdate": "Wed, 16 Aug 2023 09:00:00 +0200"
       }
     ],
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elvis Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elvis%20Presley",
         "pubdate": "Wed, 16 Aug 2023 10:00:00 +0200"
@@ -83,6 +90,13 @@
         "title": "VinFast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VinFast",
         "pubdate": "Wed, 16 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
+        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Petit Émile disparition",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petit%20%C3%89mile%20disparition",
+        "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "China news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#China%20news",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Gotthard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michel Sardou Juliette Armanet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Sardou%20Juliette%20Armanet",
-        "pubdate": "Wed, 16 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Australie - Angleterre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Australie%20-%20Angleterre",
-        "pubdate": "Wed, 16 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
