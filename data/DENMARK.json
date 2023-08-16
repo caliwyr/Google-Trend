@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 13:44:43",
+  "lastUpdate": "16-08-2023 , 13:53:58",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Vuelta espana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20espana",
         "pubdate": "Wed, 16 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
+        "pubdate": "Wed, 16 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Afghanistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Afghanistan",
         "pubdate": "Tue, 15 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
-        "pubdate": "Mon, 14 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
