@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 16:53:17",
+  "lastUpdate": "16-08-2023 , 17:06:49",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Miss Suomi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miss%20Suomi",
+        "pubdate": "Tue, 15 Aug 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Jackie Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jackie%20Kennedy",
         "pubdate": "Tue, 15 Aug 2023 23:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Kahoot!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kahoot!",
         "pubdate": "Mon, 14 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
-        "pubdate": "Mon, 14 Aug 2023 09:00:00 +0300"
       }
     ]
   ]
