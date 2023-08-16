@@ -1,17 +1,24 @@
 {
-  "lastUpdate": "16-08-2023 , 20:44:49",
+  "lastUpdate": "16-08-2023 , 20:54:20",
   "data": [
     [
       {
-        "title": "Sydney Trains",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+        "pubdate": "Thu, 17 Aug 2023 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Sevilla",
         "pubdate": "Thu, 17 Aug 2023 01:00:00 +1000"
       }
     ],
     [
       {
-        "title": "UEFA Super Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Super%20Cup",
+        "title": "Sydney Trains",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
         "pubdate": "Thu, 17 Aug 2023 01:00:00 +1000"
       }
     ],
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "Good Things",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Good%20Things",
-        "pubdate": "Wed, 16 Aug 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Alex Greenwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alex%20Greenwood",
         "pubdate": "Wed, 16 Aug 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLS",
-        "pubdate": "Wed, 16 Aug 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Go Matildas!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Go%20Matildas!",
-        "pubdate": "Wed, 16 Aug 2023 13:00:00 +1000"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Elvis Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elvis%20Presley",
-        "pubdate": "Wed, 16 Aug 2023 10:00:00 +1000"
+        "title": "Tim Sheens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Sheens",
+        "pubdate": "Wed, 16 Aug 2023 14:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Tim Sheens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Sheens",
-        "pubdate": "Wed, 16 Aug 2023 14:00:00 +1000"
+        "title": "Corey Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Corey%20Taylor",
+        "pubdate": "Wed, 16 Aug 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Seven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Seven",
+        "pubdate": "Wed, 16 Aug 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Madonna",
+        "pubdate": "Wed, 16 Aug 2023 18:00:00 +1000"
       }
     ]
   ]
