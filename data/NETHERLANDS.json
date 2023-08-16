@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 01:38:37",
+  "lastUpdate": "16-08-2023 , 02:04:11",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Pierre van Hooijdonk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pierre%20van%20Hooijdonk",
+        "pubdate": "Mon, 14 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Henri Bontenbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henri%20Bontenbal",
         "pubdate": "Mon, 14 Aug 2023 19:00:00 +0200"
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Van Hooijdonk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Hooijdonk",
-        "pubdate": "Mon, 14 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Philips",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Philips",
         "pubdate": "Mon, 14 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jong PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20PSV",
-        "pubdate": "Mon, 14 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ecuador",
         "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robbie Robertson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robbie%20Robertson",
+        "pubdate": "Wed, 09 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
