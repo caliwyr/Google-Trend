@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 21:46:52",
+  "lastUpdate": "16-08-2023 , 21:55:58",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Madonna",
-        "pubdate": "Wed, 16 Aug 2023 01:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
+        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Super Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Super%20Cup",
+        "pubdate": "Wed, 16 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -38,30 +45,16 @@
     ],
     [
       {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Madonna",
+        "pubdate": "Wed, 16 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Johnny%20Depp",
         "pubdate": "Wed, 16 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ManCity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ManCity",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
-        "pubdate": "Wed, 16 Aug 2023 08:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,16 @@
     ],
     [
       {
-        "title": "UEFA Super Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Super%20Cup",
-        "pubdate": "Wed, 16 Aug 2023 21:00:00 +0200"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
+        "pubdate": "Wed, 16 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mls",
+        "pubdate": "Wed, 16 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
         "pubdate": "Wed, 16 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille",
+        "pubdate": "Wed, 16 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,15 +115,8 @@
     ],
     [
       {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Union%20Berlin",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petit Émile disparition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petit%20%C3%89mile%20disparition",
+        "title": "Petit émile disparition",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petit%20%C3%A9mile%20disparition",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Nile Rodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nile%20Rodgers",
-        "pubdate": "Wed, 16 Aug 2023 14:00:00 +0200"
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Union%20Berlin",
+        "pubdate": "Wed, 16 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "China news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#China%20news",
-        "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
+        "title": "Nile Rodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nile%20Rodgers",
+        "pubdate": "Wed, 16 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
