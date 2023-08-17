@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2023 , 06:45:34",
+  "lastUpdate": "17-08-2023 , 06:55:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Elvis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elvis",
         "pubdate": "Thu, 17 Aug 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Blue Bombers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Blue%20Bombers",
+        "pubdate": "Thu, 17 Aug 2023 02:00:00 -0400"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Sam Asghari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sam%20Asghari",
         "pubdate": "Wed, 16 Aug 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Leagues Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leagues%20Cup",
-        "pubdate": "Wed, 16 Aug 2023 05:00:00 -0400"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Manchester City – Séville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20City%20%E2%80%93%20S%C3%A9ville",
+        "pubdate": "Wed, 16 Aug 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Malahat Fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Malahat%20Fire",
         "pubdate": "Wed, 16 Aug 2023 03:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Irina Shayk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Irina%20Shayk",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Keke Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keke%20Palmer",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 -0400"
       }
     ]
   ]
