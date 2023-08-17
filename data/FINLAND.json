@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2023 , 11:50:24",
+  "lastUpdate": "17-08-2023 , 11:59:36",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
+        "pubdate": "Thu, 17 Aug 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Linus Tech Tips",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Linus%20Tech%20Tips",
         "pubdate": "Thu, 17 Aug 2023 09:00:00 +0300"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Thu, 17 Aug 2023 13:00:00 +0300"
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Britney%20Spears",
+        "pubdate": "Thu, 17 Aug 2023 14:00:00 +0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Darren Kent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Darren%20Kent",
-        "pubdate": "Tue, 15 Aug 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sanna%20Marin",
         "pubdate": "Tue, 15 Aug 2023 23:00:00 +0300"
       }
     ]
