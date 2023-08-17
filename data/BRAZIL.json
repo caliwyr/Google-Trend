@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-08-2023 , 10:48:28",
+  "lastUpdate": "17-08-2023 , 10:57:46",
   "data": [
+    [
+      {
+        "title": "Covid-19",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Covid-19",
+        "pubdate": "Thu, 17 Aug 2023 05:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Prime Video",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prime%20Video",
-        "pubdate": "Wed, 16 Aug 2023 19:00:00 -0500"
+        "pubdate": "Wed, 16 Aug 2023 18:00:00 -0500"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Payet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Payet",
         "pubdate": "Wed, 16 Aug 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Havai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Havai",
+        "pubdate": "Wed, 16 Aug 2023 21:00:00 -0500"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Incêndio no Havaí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inc%C3%AAndio%20no%20Hava%C3%AD",
-        "pubdate": "Wed, 16 Aug 2023 22:00:00 -0500"
+        "title": "Sandy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sandy",
+        "pubdate": "Wed, 16 Aug 2023 06:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sandy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sandy",
-        "pubdate": "Wed, 16 Aug 2023 06:00:00 -0500"
+        "title": "Nova variante Covid Eris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20variante%20Covid%20Eris",
+        "pubdate": "Wed, 16 Aug 2023 17:00:00 -0500"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Prime",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prime",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 -0500"
+        "title": "Robinho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Robinho",
+        "pubdate": "Wed, 16 Aug 2023 18:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Lotofacil 2891",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lotofacil%202891",
         "pubdate": "Wed, 16 Aug 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Placar do jogo de hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Placar%20do%20jogo%20de%20hoje",
-        "pubdate": "Wed, 16 Aug 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Covid",
-        "pubdate": "Wed, 16 Aug 2023 17:00:00 -0500"
       }
     ]
   ]
