@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "17-08-2023 , 05:44:13",
+  "lastUpdate": "17-08-2023 , 05:53:33",
   "data": [
     [
       {
         "title": "Tenerife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tenerife",
+        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haaland",
         "pubdate": "Thu, 17 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Jeremy Doku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeremy%20Doku",
-        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0200"
+        "title": "Leonard Bernstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leonard%20Bernstein",
+        "pubdate": "Thu, 17 Aug 2023 06:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Leonard Bernstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leonard%20Bernstein",
-        "pubdate": "Thu, 17 Aug 2023 06:00:00 +0200"
+        "title": "Jeremy Doku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeremy%20Doku",
+        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Sevilla FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sevilla%20FC",
-        "pubdate": "Wed, 16 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hakim Ziyech",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hakim%20Ziyech",
         "pubdate": "Wed, 16 Aug 2023 18:00:00 +0200"
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "Australie-Angleterre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Australie-Angleterre",
+        "title": "Australie Angleterre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Australie%20Angleterre",
         "pubdate": "Wed, 16 Aug 2023 15:00:00 +0200"
       }
     ],
@@ -97,6 +97,13 @@
         "title": "Blue Beetle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blue%20Beetle",
         "pubdate": "Wed, 16 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sevilla%20FC",
+        "pubdate": "Wed, 16 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MotoGP",
         "pubdate": "Wed, 16 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michel Sardou Juliette Armanet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Sardou%20Juliette%20Armanet",
-        "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
