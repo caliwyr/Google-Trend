@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2023 , 21:53:52",
+  "lastUpdate": "17-08-2023 , 22:07:59",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Harrison Ford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harrison%20Ford",
         "pubdate": "Thu, 17 Aug 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "San Francisco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#San%20Francisco",
-        "pubdate": "Thu, 17 Aug 2023 03:00:00 -0400"
       }
     ],
     [
@@ -38,6 +31,20 @@
     ],
     [
       {
+        "title": "San Francisco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#San%20Francisco",
+        "pubdate": "Thu, 17 Aug 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Michael Parkinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Parkinson",
+        "pubdate": "Thu, 17 Aug 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Scott Pilgrim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scott%20Pilgrim",
         "pubdate": "Thu, 17 Aug 2023 00:00:00 -0400"
@@ -48,13 +55,6 @@
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruce%20Springsteen",
         "pubdate": "Thu, 17 Aug 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Michael Parkinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Parkinson",
-        "pubdate": "Thu, 17 Aug 2023 14:00:00 -0400"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Keremeos fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keremeos%20fire",
+        "title": "West Kelowna fire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Kelowna%20fire",
         "pubdate": "Wed, 16 Aug 2023 15:00:00 -0400"
       }
     ],
