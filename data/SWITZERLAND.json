@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-08-2023 , 08:47:47",
+  "lastUpdate": "18-08-2023 , 08:57:07",
   "data": [
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin",
+        "pubdate": "Fri, 18 Aug 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Alcaraz",
@@ -10,15 +17,15 @@
     ],
     [
       {
-        "title": "Poupette Kenza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poupette%20Kenza",
-        "pubdate": "Fri, 18 Aug 2023 00:00:00 +0200"
+        "title": "Nürnberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#N%C3%BCrnberg",
+        "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nürnberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#N%C3%BCrnberg",
+        "title": "Warnung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Warnung",
         "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Klausenpass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klausenpass",
         "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Peretz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniel%20Peretz",
+        "pubdate": "Fri, 18 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "UnwetterGewitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UnwetterGewitter",
-        "pubdate": "Thu, 17 Aug 2023 10:00:00 +0200"
+        "title": "Stan Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
+        "pubdate": "Thu, 17 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Stan Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
-        "pubdate": "Thu, 17 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IShowSpeed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#IShowSpeed",
         "pubdate": "Thu, 17 Aug 2023 10:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Yellowknife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yellowknife",
         "pubdate": "Thu, 17 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
-        "pubdate": "Thu, 17 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
