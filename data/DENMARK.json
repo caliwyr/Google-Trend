@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-08-2023 , 21:42:51",
+  "lastUpdate": "18-08-2023 , 21:52:24",
   "data": [
     [
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
         "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "A good year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#A%20good%20year",
+        "pubdate": "Fri, 18 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Pride Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%20Parade",
-        "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Music for Free",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Music%20for%20Free",
         "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Wayfinder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayfinder",
-        "pubdate": "Fri, 18 Aug 2023 02:00:00 +0200"
+        "title": "Pride Parade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%20Parade",
+        "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Tom Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Jones",
         "pubdate": "Fri, 18 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wayfinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayfinder",
+        "pubdate": "Fri, 18 Aug 2023 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robert%20De%20Niro",
         "pubdate": "Thu, 17 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madeira",
-        "pubdate": "Thu, 17 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
