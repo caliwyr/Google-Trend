@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2023 , 04:46:08",
+  "lastUpdate": "18-08-2023 , 04:55:30",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Riga FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Riga%20FC%20Twente",
         "pubdate": "Thu, 17 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AZ  Santa Coloma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Santa%20Coloma",
-        "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Anton Gaaei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anton%20Gaaei",
+        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Thijs Boermans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20Boermans",
         "pubdate": "Wed, 16 Aug 2023 17:00:00 +0200"
@@ -76,13 +76,6 @@
         "title": "Meindert Talma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meindert%20Talma",
         "pubdate": "Wed, 16 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
-        "pubdate": "Wed, 16 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 13 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
+        "pubdate": "Sun, 13 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
