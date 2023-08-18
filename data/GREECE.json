@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-08-2023 , 14:45:46",
+  "lastUpdate": "18-08-2023 , 14:55:02",
   "data": [
+    [
+      {
+        "title": "Τσουκαρίτσκι",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CF%83%CE%BF%CF%85%CE%BA%CE%B1%CF%81%CE%AF%CF%84%CF%83%CE%BA%CE%B9",
+        "pubdate": "Fri, 18 Aug 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "ΦΩΤΙΑ ΤΩΡΑ",
@@ -10,22 +17,8 @@
     ],
     [
       {
-        "title": "Τσουκαριτσκι",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CF%83%CE%BF%CF%85%CE%BA%CE%B1%CF%81%CE%B9%CF%84%CF%83%CE%BA%CE%B9",
-        "pubdate": "Fri, 18 Aug 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "ΚΡΙΣ ΠΕΛΟΥΖΟ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%A1%CE%99%CE%A3%20%CE%A0%CE%95%CE%9B%CE%9F%CE%A5%CE%96%CE%9F",
-        "pubdate": "Fri, 18 Aug 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Partizan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Partizan",
         "pubdate": "Fri, 18 Aug 2023 01:00:00 +0300"
       }
     ],
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Λαγοκεφαλοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B1%CE%B3%CE%BF%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BF%CF%83",
-        "pubdate": "Fri, 18 Aug 2023 15:00:00 +0300"
+        "title": "Partizan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Partizan",
+        "pubdate": "Fri, 18 Aug 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Νεεσ ταυτοτητεσ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B5%CE%B5%CF%83%20%CF%84%CE%B1%CF%85%CF%84%CE%BF%CF%84%CE%B7%CF%84%CE%B5%CF%83",
+        "pubdate": "Fri, 18 Aug 2023 16:00:00 +0300"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Ελένη Φιλίνη",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%AD%CE%BD%CE%B7%20%CE%A6%CE%B9%CE%BB%CE%AF%CE%BD%CE%B7",
         "pubdate": "Fri, 18 Aug 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Evergrande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Evergrande",
+        "pubdate": "Fri, 18 Aug 2023 15:00:00 +0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Maestro Bradley Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Maestro%20Bradley%20Cooper",
-        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Βρισηίδα Ανδριώτου",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CF%81%CE%B9%CF%83%CE%B7%CE%AF%CE%B4%CE%B1%20%CE%91%CE%BD%CE%B4%CF%81%CE%B9%CF%8E%CF%84%CE%BF%CF%85",
         "pubdate": "Thu, 17 Aug 2023 23:00:00 +0300"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Γκουαρντιολα",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%BA%CE%BF%CF%85%CE%B1%CF%81%CE%BD%CF%84%CE%B9%CE%BF%CE%BB%CE%B1",
-        "pubdate": "Thu, 17 Aug 2023 09:00:00 +0300"
+        "title": "Maestro Bradley Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Maestro%20Bradley%20Cooper",
+        "pubdate": "Thu, 17 Aug 2023 00:00:00 +0300"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Meghan%20Markle",
         "pubdate": "Thu, 17 Aug 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Γκουαρντιολα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%BA%CE%BF%CF%85%CE%B1%CF%81%CE%BD%CF%84%CE%B9%CE%BF%CE%BB%CE%B1",
+        "pubdate": "Thu, 17 Aug 2023 09:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ευτυχια παπαγιαννοπουλου",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CF%85%CF%84%CF%85%CF%87%CE%B9%CE%B1%20%CF%80%CE%B1%CF%80%CE%B1%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
         "pubdate": "Thu, 17 Aug 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Σκαρπα",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%BA%CE%B1%CF%81%CF%80%CE%B1",
-        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0300"
       }
     ]
   ]
