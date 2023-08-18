@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2023 , 13:41:07",
+  "lastUpdate": "18-08-2023 , 13:50:27",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
+        "pubdate": "Fri, 18 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Romeo Lavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Romeo%20Lavia",
         "pubdate": "Fri, 18 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poupette Kenza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Poupette%20Kenza",
+        "pubdate": "Fri, 18 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Poupette Kenza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Poupette%20Kenza",
-        "pubdate": "Fri, 18 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alcaraz",
         "pubdate": "Fri, 18 Aug 2023 01:00:00 +0200"
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Metejoor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Metejoor",
-        "pubdate": "Fri, 18 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wayfinder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wayfinder",
         "pubdate": "Fri, 18 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The subs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20subs",
-        "pubdate": "Fri, 18 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Kiewit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kiewit",
-        "pubdate": "Fri, 18 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Genk  Olympiakos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%20Olympiakos",
         "pubdate": "Thu, 17 Aug 2023 14:00:00 +0200"
@@ -101,16 +87,16 @@
     ],
     [
       {
-        "title": "Pogoń Szczecin  Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pogo%C5%84%20Szczecin%20%20Gent",
-        "pubdate": "Thu, 17 Aug 2023 18:00:00 +0200"
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Billie%20Eilish",
+        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Billie%20Eilish",
-        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0200"
+        "title": "Pogoń Szczecin  Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pogo%C5%84%20Szczecin%20%20Gent",
+        "pubdate": "Thu, 17 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Genk – Olympiakos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%E2%80%93%20Olympiakos",
-        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0200"
+        "title": "Adyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adyen",
+        "pubdate": "Thu, 17 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Adyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adyen",
-        "pubdate": "Thu, 17 Aug 2023 16:00:00 +0200"
+        "title": "Genk voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20voetbal",
+        "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IShowSpeed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#IShowSpeed",
+        "pubdate": "Thu, 17 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Accident avion Gérard Leclerc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20avion%20G%C3%A9rard%20Leclerc",
+        "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
