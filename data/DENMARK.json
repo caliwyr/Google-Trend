@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-08-2023 , 19:47:35",
+  "lastUpdate": "18-08-2023 , 19:56:51",
   "data": [
-    [
-      {
-        "title": "Lucy Letby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lucy%20Letby",
-        "pubdate": "Fri, 18 Aug 2023 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bundesliga",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Wayfinder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayfinder",
-        "pubdate": "Fri, 18 Aug 2023 02:00:00 +0200"
+        "title": "Lucy Letby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lucy%20Letby",
+        "pubdate": "Fri, 18 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Music for Free",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Music%20for%20Free",
+        "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Pride Parade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%20Parade",
         "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wayfinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayfinder",
+        "pubdate": "Fri, 18 Aug 2023 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
         "pubdate": "Wed, 16 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Endo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Endo",
-        "pubdate": "Wed, 16 Aug 2023 22:00:00 +0200"
       }
     ]
   ]

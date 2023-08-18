@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2023 , 19:47:44",
+  "lastUpdate": "18-08-2023 , 19:57:00",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Poupette Kenza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poupette%20Kenza",
         "pubdate": "Fri, 18 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schweizer Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
+        "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Schweizer Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
+        "title": "FC Breitenrain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Breitenrain",
         "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
       }
     ],
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Daniel Peretz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniel%20Peretz",
-        "pubdate": "Fri, 18 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sergio Rico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Rico",
         "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
@@ -73,9 +73,23 @@
     ],
     [
       {
-        "title": "FC Breitenrain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Breitenrain",
-        "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
+        "title": "Daniel Peretz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniel%20Peretz",
+        "pubdate": "Fri, 18 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nürnberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#N%C3%BCrnberg",
+        "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kelowna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kelowna",
+        "pubdate": "Fri, 18 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,27 +122,6 @@
     ],
     [
       {
-        "title": "Klausenpass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klausenpass",
-        "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kelowna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kelowna",
-        "pubdate": "Fri, 18 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pavard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pavard",
-        "pubdate": "Fri, 18 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chris Peluso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20Peluso",
         "pubdate": "Fri, 18 Aug 2023 19:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Otto Waalkes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Otto%20Waalkes",
-        "pubdate": "Fri, 18 Aug 2023 17:00:00 +0200"
+        "title": "Klausenpass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klausenpass",
+        "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pavard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pavard",
+        "pubdate": "Fri, 18 Aug 2023 09:00:00 +0200"
       }
     ]
   ]
