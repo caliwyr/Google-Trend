@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2023 , 15:49:55",
+  "lastUpdate": "18-08-2023 , 15:59:28",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Airshow Gold Coast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Airshow%20Gold%20Coast",
-        "pubdate": "Fri, 18 Aug 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Guy Sebastian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guy%20Sebastian",
         "pubdate": "Fri, 18 Aug 2023 18:00:00 +1000"
@@ -139,6 +132,13 @@
         "title": "Vietnam war",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vietnam%20war",
         "pubdate": "Fri, 18 Aug 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Crypto news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crypto%20news",
+        "pubdate": "Fri, 18 Aug 2023 18:00:00 +1000"
       }
     ]
   ]
