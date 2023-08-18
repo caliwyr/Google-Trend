@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2023 , 10:48:49",
+  "lastUpdate": "18-08-2023 , 10:57:59",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20League",
-        "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cole Palmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cole%20Palmer",
         "pubdate": "Thu, 17 Aug 2023 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Wataru Endo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wataru%20Endo",
         "pubdate": "Wed, 16 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swellendam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Swellendam",
+        "pubdate": "Wed, 16 Aug 2023 13:00:00 +0200"
       }
     ]
   ]
