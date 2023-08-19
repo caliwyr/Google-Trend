@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2023 , 02:45:43",
+  "lastUpdate": "19-08-2023 , 02:55:04",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Gais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "pubdate": "Fri, 18 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bitcoin",
         "pubdate": "Fri, 18 Aug 2023 16:00:00 +0200"
@@ -69,13 +76,6 @@
         "title": "Markoolio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Markoolio",
         "pubdate": "Fri, 18 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Säkerhetsläget i Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%A4kerhetsl%C3%A4get%20i%20Sverige",
-        "pubdate": "Fri, 18 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "Ulf Kristersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Kristersson",
+        "title": "Terrorhotnivå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Terrorhotniv%C3%A5",
         "pubdate": "Thu, 17 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Koranbränning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koranbr%C3%A4nning",
-        "pubdate": "Thu, 17 Aug 2023 18:00:00 +0200"
+        "title": "Surströmming",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Surstr%C3%B6mming",
+        "pubdate": "Thu, 17 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Surströmming",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Surstr%C3%B6mming",
-        "pubdate": "Thu, 17 Aug 2023 16:00:00 +0200"
+        "title": "Ulf Kristersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Kristersson",
+        "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
