@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2023 , 05:43:19",
+  "lastUpdate": "19-08-2023 , 05:52:39",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Hrůza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hr%C5%AFza",
+        "pubdate": "Fri, 18 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zbrojovka Brno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zbrojovka%20Brno",
         "pubdate": "Fri, 18 Aug 2023 21:00:00 +0200"
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Pavel Blažek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Bla%C5%BEek",
-        "pubdate": "Thu, 17 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AI",
         "pubdate": "Thu, 17 Aug 2023 12:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Veronika Kopřivová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika%20Kop%C5%99ivov%C3%A1",
-        "pubdate": "Thu, 17 Aug 2023 23:00:00 +0200"
+        "title": "Megadeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megadeth",
+        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Megadeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megadeth",
-        "pubdate": "Thu, 17 Aug 2023 20:00:00 +0200"
+        "title": "Linda Nosková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Linda%20Noskov%C3%A1",
+        "pubdate": "Thu, 17 Aug 2023 08:00:00 +0200"
       }
     ]
   ]

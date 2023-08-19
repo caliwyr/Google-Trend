@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-08-2023 , 05:43:19",
+  "lastUpdate": "19-08-2023 , 05:52:39",
   "data": [
+    [
+      {
+        "title": "Pride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride",
+        "pubdate": "Sat, 19 Aug 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dolly Parton",
@@ -132,13 +139,6 @@
         "title": "COO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#COO",
         "pubdate": "Thu, 17 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IBEX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IBEX",
-        "pubdate": "Thu, 17 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
