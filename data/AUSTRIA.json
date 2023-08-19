@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2023 , 03:49:47",
+  "lastUpdate": "19-08-2023 , 03:59:04",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "GAK gegen Sturm Graz II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK%20gegen%20Sturm%20Graz%20II",
-        "pubdate": "Fri, 18 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20De%20Niro",
         "pubdate": "Fri, 18 Aug 2023 00:00:00 +0200"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Corona-Variante Eris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corona-Variante%20Eris",
+        "title": "Corona Variante Eris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corona%20Variante%20Eris",
         "pubdate": "Fri, 18 Aug 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP",
         "pubdate": "Fri, 18 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Evergrande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Evergrande",
+        "pubdate": "Fri, 18 Aug 2023 09:00:00 +0200"
       }
     ]
   ]
