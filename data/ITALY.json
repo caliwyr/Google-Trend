@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2023 , 06:43:45",
+  "lastUpdate": "19-08-2023 , 06:53:04",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "MALICE IL SOSPETTO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MALICE%20IL%20SOSPETTO",
-        "pubdate": "Fri, 18 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Evergrande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Evergrande",
         "pubdate": "Fri, 18 Aug 2023 08:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bundesliga",
         "pubdate": "Fri, 18 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Hateful Eight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Hateful%20Eight",
+        "pubdate": "Fri, 18 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
