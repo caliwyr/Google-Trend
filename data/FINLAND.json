@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 01:31:58",
+  "lastUpdate": "20-08-2023 , 02:03:09",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Usain Bolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Usain%20Bolt",
-        "pubdate": "Sat, 19 Aug 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Budapest 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Budapest%202023",
         "pubdate": "Sat, 19 Aug 2023 15:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Britney Spears Sam Asghari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Britney%20Spears%20Sam%20Asghari",
         "pubdate": "Sat, 19 Aug 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Fast and Furious",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fast%20and%20Furious",
+        "pubdate": "Sat, 19 Aug 2023 23:00:00 +0300"
       }
     ]
   ]
