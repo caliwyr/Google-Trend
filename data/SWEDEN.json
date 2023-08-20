@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 11:52:39",
+  "lastUpdate": "20-08-2023 , 12:11:04",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Asllani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Asllani",
+        "pubdate": "Sat, 19 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Degerfors mot IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20mot%20IFK%20G%C3%B6teborg",
         "pubdate": "Sat, 19 Aug 2023 14:00:00 +0200"
@@ -38,15 +45,15 @@
     ],
     [
       {
-        "title": "Ironman Kalmar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ironman%20Kalmar",
-        "pubdate": "Sat, 19 Aug 2023 00:00:00 +0200"
+        "title": "England Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England%20Spanien",
+        "pubdate": "Sat, 19 Aug 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kosovare Asllani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kosovare%20Asllani",
+        "title": "Musovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Musovic",
         "pubdate": "Sat, 19 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "England Spanien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England%20Spanien",
-        "pubdate": "Sat, 19 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Caroline Seger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caroline%20Seger",
         "pubdate": "Sat, 19 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spanien England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spanien%20England",
-        "pubdate": "Sat, 19 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Peter Gerhardsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Gerhardsson",
-        "pubdate": "Sat, 19 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stina Blackstenius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stina%20Blackstenius",
         "pubdate": "Sat, 19 Aug 2023 18:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Ironman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ironman",
+        "pubdate": "Sat, 19 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joakim Lundell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joakim%20Lundell",
         "pubdate": "Sat, 19 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ted Lasso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ted%20Lasso",
+        "pubdate": "Sat, 19 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
