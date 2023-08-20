@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-08-2023 , 23:46:49",
+  "lastUpdate": "20-08-2023 , 23:56:05",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+        "pubdate": "Sun, 20 Aug 2023 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 20 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
-        "pubdate": "Sun, 20 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "UFC 292",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20292",
-        "pubdate": "Sun, 20 Aug 2023 03:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Sun, 20 Aug 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
-        "pubdate": "Sun, 20 Aug 2023 07:00:00 +0200"
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
+        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Spanien England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spanien%20England",
         "pubdate": "Sat, 19 Aug 2023 16:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Kosovare Asllani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kosovare%20Asllani",
-        "pubdate": "Sat, 19 Aug 2023 13:00:00 +0200"
+        "title": "Asllani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Asllani",
+        "pubdate": "Sat, 19 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Caroline Seger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caroline%20Seger",
         "pubdate": "Sat, 19 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
+        "pubdate": "Sat, 19 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
