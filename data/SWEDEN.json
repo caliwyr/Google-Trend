@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 21:49:28",
+  "lastUpdate": "20-08-2023 , 21:58:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
         "pubdate": "Sun, 20 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luis Rubiales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20Rubiales",
+        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Luis Rubiales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20Rubiales",
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
         "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
       }
     ],
@@ -62,13 +69,6 @@
         "title": "Alexia Putellas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexia%20Putellas",
         "pubdate": "Sun, 20 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
-        "pubdate": "Sat, 19 Aug 2023 14:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
+        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
