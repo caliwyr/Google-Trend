@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 03:45:31",
+  "lastUpdate": "20-08-2023 , 03:54:45",
   "data": [
     [
       {
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "WM-Final Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM-Final%20Frauen",
+        "title": "WM Final Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM%20Final%20Frauen",
         "pubdate": "Sat, 19 Aug 2023 11:00:00 +0200"
       }
     ],
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Lausanne-Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lausanne-Sport",
+        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Limmatschwimmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Limmatschwimmen",
+        "pubdate": "Sat, 19 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Etoile Carouge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Etoile%20Carouge",
         "pubdate": "Sat, 19 Aug 2023 00:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cristiano%20Ronaldo",
         "pubdate": "Sat, 19 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Budapest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Budapest",
-        "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli",
-        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
