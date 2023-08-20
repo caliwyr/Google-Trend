@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 05:50:01",
+  "lastUpdate": "20-08-2023 , 05:59:14",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Copa Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Chile",
-        "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
         "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
-        "pubdate": "Sat, 19 Aug 2023 10:00:00 -0400"
       }
     ],
     [
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "Toulouse vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20vs%20PSG",
-        "pubdate": "Sat, 19 Aug 2023 18:00:00 -0400"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
+        "pubdate": "Sat, 19 Aug 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Magallanes  O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20%20O'Higgins",
+        "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
       }
     ],
     [
@@ -66,9 +59,16 @@
     ],
     [
       {
-        "title": "Toulouse - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20-%20PSG",
+        "title": "Toulouse  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20%20PSG",
         "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Toulouse vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20vs%20PSG",
+        "pubdate": "Sat, 19 Aug 2023 18:00:00 -0400"
       }
     ],
     [
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
+        "pubdate": "Sat, 19 Aug 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier",
+        "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20A",
         "pubdate": "Sat, 19 Aug 2023 20:00:00 -0400"
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "San Luis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
+        "pubdate": "Sat, 19 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Colo Colo vs catolica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20catolica",
         "pubdate": "Sat, 19 Aug 2023 19:00:00 -0400"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Lluvias en Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvias%20en%20Santiago",
-        "pubdate": "Sat, 19 Aug 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Budapest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Budapest",
-        "pubdate": "Sat, 19 Aug 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
-        "pubdate": "Sat, 19 Aug 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#City%20vs",
-        "pubdate": "Sat, 19 Aug 2023 18:00:00 -0400"
+        "title": "Chile vs Argentina basquet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20vs%20Argentina%20basquet",
+        "pubdate": "Sat, 19 Aug 2023 19:00:00 -0400"
       }
     ]
   ]

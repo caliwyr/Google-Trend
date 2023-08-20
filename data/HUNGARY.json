@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 05:50:04",
+  "lastUpdate": "20-08-2023 , 05:59:18",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Femke Bol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Femke%20Bol",
+        "title": "MTK Kecskemét",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MTK%20Kecskem%C3%A9t",
         "pubdate": "Sun, 20 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Paks–újpest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paks%E2%80%93%C3%BAjpest",
-        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Femke%20Bol",
+        "pubdate": "Sat, 19 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Mészáros Lőrinc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
-        "pubdate": "Sat, 19 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Üzbegisztán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Czbegiszt%C3%A1n",
         "pubdate": "Sat, 19 Aug 2023 19:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Halász Bence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1sz%20Bence",
-        "pubdate": "Sat, 19 Aug 2023 15:00:00 +0200"
+        "title": "Mészáros Lőrinc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
+        "pubdate": "Sat, 19 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mészáros Lőrinc Várkonyi Andrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc%20V%C3%A1rkonyi%20Andrea",
+        "pubdate": "Sat, 19 Aug 2023 18:00:00 +0200"
       }
     ]
   ]
