@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2023 , 10:53:38",
+  "lastUpdate": "20-08-2023 , 11:06:05",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Milan",
         "pubdate": "Sun, 20 Aug 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seahawks",
+        "pubdate": "Sun, 20 Aug 2023 04:00:00 -0400"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Almería vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Almer%C3%ADa%20vs%20Real%20Madrid",
-        "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Chris Weidman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chris%20Weidman",
         "pubdate": "Sat, 19 Aug 2023 22:00:00 -0400"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Marlon Vera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marlon%20Vera",
-        "pubdate": "Sat, 19 Aug 2023 23:00:00 -0400"
+        "title": "Almería vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Almer%C3%ADa%20vs%20Real%20Madrid",
+        "pubdate": "Sat, 19 Aug 2023 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20a",
-        "pubdate": "Sat, 19 Aug 2023 13:00:00 -0400"
+        "title": "Marlon Vera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marlon%20Vera",
+        "pubdate": "Sat, 19 Aug 2023 23:00:00 -0400"
       }
     ]
   ]
