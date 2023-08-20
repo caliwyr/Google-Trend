@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "20-08-2023 , 08:46:32",
+  "lastUpdate": "20-08-2023 , 08:55:43",
   "data": [
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+        "pubdate": "Sun, 20 Aug 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
         "pubdate": "Sun, 20 Aug 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Niesen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niesen",
+        "pubdate": "Sun, 20 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -27,6 +41,13 @@
         "title": "Selah Sue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Selah%20Sue",
         "pubdate": "Sun, 20 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
+        "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,16 +80,9 @@
     ],
     [
       {
-        "title": "Waldbrände Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Waldbr%C3%A4nde%20Kanada",
+        "title": "Waldbrände Kanada British Columbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Waldbr%C3%A4nde%20Kanada%20British%20Columbia",
         "pubdate": "Sat, 19 Aug 2023 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,23 +101,16 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Sat, 19 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schwägalp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schw%C3%A4galp",
-        "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WM Final Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM%20Final%20Frauen",
         "pubdate": "Sat, 19 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
+        "pubdate": "Sat, 19 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Toulouse – paris-sg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Toulouse%20%E2%80%93%20paris-sg",
         "pubdate": "Sat, 19 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Garrett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Garrett",
-        "pubdate": "Sat, 19 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
