@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2023 , 00:54:24",
+  "lastUpdate": "21-08-2023 , 01:40:52",
   "data": [
     [
       {
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "Olga Carmona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olga%20Carmona",
+        "title": "Ethan Katzberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ethan%20Katzberg",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jorge Vilda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jorge%20Vilda",
         "pubdate": "Sun, 20 Aug 2023 16:00:00 +0300"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Heptathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Heptathlon",
         "pubdate": "Sun, 20 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Katzberg Ethan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Katzberg%20Ethan",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Barcelona – Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20C%C3%A1diz",
+        "title": "Barcelona – cádiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20c%C3%A1diz",
         "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vuleta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vuleta",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0300"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eminem",
         "pubdate": "Sun, 20 Aug 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Olga Carmona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olga%20Carmona",
+        "pubdate": "Sun, 20 Aug 2023 18:00:00 +0300"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City",
+        "pubdate": "Sun, 20 Aug 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "John Wick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#John%20Wick",
         "pubdate": "Sun, 20 Aug 2023 02:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Toulouse – PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Toulouse%20%E2%80%93%20PSG",
         "pubdate": "Sun, 20 Aug 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa – Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aston%20Villa%20%E2%80%93%20Everton",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
       }
     ]
   ]
