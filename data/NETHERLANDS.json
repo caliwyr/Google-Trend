@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-08-2023 , 05:53:45",
+  "lastUpdate": "21-08-2023 , 06:12:02",
   "data": [
+    [
+      {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#West%20Ham",
+        "pubdate": "Mon, 21 Aug 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nieuw Sociaal Contract",
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "West Ham  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#West%20Ham%20%20Chelsea",
+        "title": "RKC  AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC%20%20AZ",
         "pubdate": "Sun, 20 Aug 2023 18:00:00 +0200"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Olga Carmona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olga%20Carmona",
-        "pubdate": "Sun, 20 Aug 2023 19:00:00 +0200"
+        "title": "Sutalo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sutalo",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sifan Hassan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sifan%20Hassan",
         "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tineke Beishuizen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tineke%20Beishuizen",
-        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
