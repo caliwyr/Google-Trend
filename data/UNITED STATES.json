@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-08-2023 , 12:47:15",
+  "lastUpdate": "21-08-2023 , 13:00:54",
   "data": [
     [
       {
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
         "pubdate": "Sun, 20 Aug 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Djokovic",
+        "pubdate": "Sun, 20 Aug 2023 11:00:00 -0700"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
-        "pubdate": "Sun, 20 Aug 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Chargers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chargers",
         "pubdate": "Sun, 20 Aug 2023 21:00:00 -0700"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Myles Jack",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Myles%20Jack",
-        "pubdate": "Sun, 20 Aug 2023 11:00:00 -0700"
+        "title": "Dak Prescott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dak%20Prescott",
+        "pubdate": "Sun, 20 Aug 2023 14:00:00 -0700"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Sister Wives season 18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sister%20Wives%20season%2018",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Women's World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Women's%20World%20Cup",
         "pubdate": "Sat, 19 Aug 2023 18:00:00 -0700"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Leagues Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leagues%20Cup",
+        "title": "Isaiah Bolden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Isaiah%20Bolden",
+        "pubdate": "Sat, 19 Aug 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Nashville vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nashville%20vs%20Inter%20Miami",
         "pubdate": "Sat, 19 Aug 2023 17:00:00 -0700"
       }
     ]
