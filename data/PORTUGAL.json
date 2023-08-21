@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "21-08-2023 , 02:51:39",
+  "lastUpdate": "21-08-2023 , 03:04:46",
   "data": [
+    [
+      {
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paris%20Hilton",
+        "pubdate": "Mon, 21 Aug 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Putin",
+        "pubdate": "Mon, 21 Aug 2023 03:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Praia da Ursa",
@@ -13,6 +27,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
         "pubdate": "Sun, 20 Aug 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Olga Carmona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olga%20Carmona",
+        "pubdate": "Sun, 20 Aug 2023 11:00:00 +0100"
       }
     ],
     [
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "Estoril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
-        "pubdate": "Sun, 20 Aug 2023 16:00:00 +0100"
+        "title": "Vizela  Arouca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20%20Arouca",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0100"
       }
     ],
     [
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Vizela  Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20%20Arouca",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0100"
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Sun, 20 Aug 2023 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sergio Conceição",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20Concei%C3%A7%C3%A3o",
-        "pubdate": "Sun, 20 Aug 2023 13:00:00 +0100"
+        "title": "Estoril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
+        "pubdate": "Sun, 20 Aug 2023 16:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
         "pubdate": "Sun, 20 Aug 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
-        "pubdate": "Sun, 20 Aug 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Resultado Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Resultado%20Porto",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Coritiba  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coritiba%20%20Flamengo",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0100"
       }
     ]
   ]
