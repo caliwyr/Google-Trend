@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2023 , 01:40:51",
+  "lastUpdate": "21-08-2023 , 02:04:19",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
-        "pubdate": "Sun, 20 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cincinnati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cincinnati",
         "pubdate": "Sun, 20 Aug 2023 22:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Iron Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iron%20Man",
-        "pubdate": "Sun, 20 Aug 2023 10:00:00 +0200"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
+        "pubdate": "Sun, 20 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Usain Bolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Usain%20Bolt",
         "pubdate": "Sun, 20 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20Zealand",
-        "pubdate": "Sun, 20 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holland",
         "pubdate": "Sun, 20 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hurricane Hilary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hurricane%20Hilary",
+        "pubdate": "Sun, 20 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hakim Ziyech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hakim%20Ziyech",
+        "pubdate": "Sun, 20 Aug 2023 07:00:00 +0200"
       }
     ]
   ]
