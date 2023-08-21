@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-08-2023 , 09:54:01",
+  "lastUpdate": "21-08-2023 , 10:14:52",
   "data": [
     [
       {
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Mon, 21 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kahoot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kahoot",
+        "pubdate": "Mon, 21 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Sun, 20 Aug 2023 18:00:00 +0200"
+        "title": "Olga Carmona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Olga%20Carmona",
+        "pubdate": "Sun, 20 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Mathias Normann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mathias%20Normann",
         "pubdate": "Sun, 20 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olga Carmona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Olga%20Carmona",
-        "pubdate": "Sun, 20 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Strømsgodset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
         "pubdate": "Sun, 20 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luis Rubiales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luis%20Rubiales",
-        "pubdate": "Sun, 20 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sat, 19 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jakob Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
+        "pubdate": "Sat, 19 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
