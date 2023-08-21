@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2023 , 10:55:15",
+  "lastUpdate": "21-08-2023 , 11:09:01",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
-        "pubdate": "Sun, 20 Aug 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Sun, 20 Aug 2023 13:00:00 +0800"
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
+        "pubdate": "Sun, 20 Aug 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MLS",
         "pubdate": "Sun, 20 Aug 2023 15:00:00 +0800"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
-        "pubdate": "Sun, 20 Aug 2023 23:00:00 +0800"
+        "title": "Luna-25",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Luna-25",
+        "pubdate": "Sun, 20 Aug 2023 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Luna 25",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Luna%2025",
-        "pubdate": "Sun, 20 Aug 2023 19:00:00 +0800"
+        "title": "Mary Earps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mary%20Earps",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0800"
       }
     ]
   ]
