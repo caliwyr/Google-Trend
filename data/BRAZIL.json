@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2023 , 03:47:43",
+  "lastUpdate": "21-08-2023 , 03:56:57",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sun, 20 Aug 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Mega Sena 2622",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega%20Sena%202622",
         "pubdate": "Sun, 20 Aug 2023 08:00:00 -0500"
@@ -52,9 +45,23 @@
     ],
     [
       {
-        "title": "Atletico de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
-        "pubdate": "Sun, 20 Aug 2023 13:00:00 -0500"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Sun, 20 Aug 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "TDI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#TDI",
+        "pubdate": "Sun, 20 Aug 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Sun, 20 Aug 2023 16:00:00 -0500"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
-        "pubdate": "Sun, 20 Aug 2023 16:00:00 -0500"
+        "title": "Mister M",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mister%20M",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 -0500"
       }
     ],
     [
@@ -94,9 +101,30 @@
     ],
     [
       {
+        "title": "Atlético de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20de%20Madrid",
+        "pubdate": "Sun, 20 Aug 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Maurício Kubrusly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maur%C3%ADcio%20Kubrusly",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Anitta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Anitta",
         "pubdate": "Sun, 20 Aug 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Sun, 20 Aug 2023 13:00:00 -0500"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Jenni Hermoso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jenni%20Hermoso",
         "pubdate": "Sun, 20 Aug 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Maurício Kubrusly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maur%C3%ADcio%20Kubrusly",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
-        "pubdate": "Sun, 20 Aug 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mussum, O Filmis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mussum,%20O%20Filmis",
-        "pubdate": "Sun, 20 Aug 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Domingo Legal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Domingo%20Legal",
-        "pubdate": "Sun, 20 Aug 2023 14:00:00 -0500"
       }
     ]
   ]
