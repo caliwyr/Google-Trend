@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2023 , 04:47:40",
+  "lastUpdate": "21-08-2023 , 04:56:58",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Katzberg Ethan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Katzberg%20Ethan",
+        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sarina Wiegman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sarina%20Wiegman",
         "pubdate": "Sun, 20 Aug 2023 15:00:00 +0300"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Vuleta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vuleta",
-        "pubdate": "Sun, 20 Aug 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eminem",
         "pubdate": "Sun, 20 Aug 2023 00:00:00 +0300"
@@ -97,13 +97,6 @@
         "title": "Fraser-Pryce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fraser-Pryce",
         "pubdate": "Sun, 20 Aug 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Katzberg Ethan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Katzberg%20Ethan",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cheems",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cheems",
         "pubdate": "Sun, 20 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Toulouse – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Toulouse%20%E2%80%93%20PSG",
+        "pubdate": "Sun, 20 Aug 2023 10:00:00 +0300"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-08-2023 , 04:47:37",
+  "lastUpdate": "21-08-2023 , 04:56:55",
   "data": [
+    [
+      {
+        "title": "Ecuador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador",
+        "pubdate": "Mon, 21 Aug 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Vasco da Gama",
@@ -24,9 +31,23 @@
     ],
     [
       {
+        "title": "Funes Mori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Funes%20Mori",
+        "pubdate": "Mon, 21 Aug 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Alexia Putellas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexia%20Putellas",
         "pubdate": "Mon, 21 Aug 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rio Cuarto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rio%20Cuarto",
+        "pubdate": "Mon, 21 Aug 2023 01:00:00 -0300"
       }
     ],
     [
@@ -38,9 +59,16 @@
     ],
     [
       {
-        "title": "San Lorenzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
-        "pubdate": "Sun, 20 Aug 2023 19:00:00 -0300"
+        "title": "Rubiales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rubiales",
+        "pubdate": "Mon, 21 Aug 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Porto",
+        "pubdate": "Mon, 21 Aug 2023 01:00:00 -0300"
       }
     ],
     [
@@ -48,6 +76,13 @@
         "title": "Dia del Niño",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Ni%C3%B1o",
         "pubdate": "Sun, 20 Aug 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "San Lorenzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
+        "pubdate": "Sun, 20 Aug 2023 19:00:00 -0300"
       }
     ],
     [
@@ -87,6 +122,13 @@
     ],
     [
       {
+        "title": "Argentina basquet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20basquet",
+        "pubdate": "Sun, 20 Aug 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Central",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central",
         "pubdate": "Sun, 20 Aug 2023 13:00:00 -0300"
@@ -97,48 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
         "pubdate": "Sun, 20 Aug 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "David Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#David%20Beckham",
-        "pubdate": "Sun, 20 Aug 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Udinese  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Udinese%20%20Juventus",
-        "pubdate": "Sun, 20 Aug 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#MLS",
-        "pubdate": "Sun, 20 Aug 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami vs Charlotte FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami%20vs%20Charlotte%20FC",
-        "pubdate": "Sun, 20 Aug 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Saqueos en neuquen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Saqueos%20en%20neuquen",
-        "pubdate": "Sun, 20 Aug 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dia de la Niñez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20de%20la%20Ni%C3%B1ez",
-        "pubdate": "Sun, 20 Aug 2023 10:00:00 -0300"
       }
     ]
   ]
