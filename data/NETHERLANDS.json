@@ -1,27 +1,6 @@
 {
-  "lastUpdate": "22-08-2023 , 14:55:27",
+  "lastUpdate": "22-08-2023 , 15:11:39",
   "data": [
-    [
-      {
-        "title": "Rangers PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rangers%20PSV",
-        "pubdate": "Tue, 22 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duncan Laurence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
-        "pubdate": "Tue, 22 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Tue, 22 Aug 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Fatbike",
@@ -45,9 +24,23 @@
     ],
     [
       {
+        "title": "PSV Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Rangers",
+        "pubdate": "Mon, 21 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Adyen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Adyen",
         "pubdate": "Mon, 21 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
+        "pubdate": "Mon, 21 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Mon, 21 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Edwin Evers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Edwin%20Evers",
         "pubdate": "Mon, 21 Aug 2023 23:00:00 +0200"
@@ -87,8 +73,8 @@
     ],
     [
       {
-        "title": "Nieuw Sociaal Contract",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuw%20Sociaal%20Contract",
+        "title": "Pieter Omtzigt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
         "pubdate": "Sun, 20 Aug 2023 23:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Zelensky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zelensky",
         "pubdate": "Sun, 20 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wende",
+        "pubdate": "Sun, 20 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Underworld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Underworld",
+        "pubdate": "Sat, 19 Aug 2023 01:00:00 +0200"
       }
     ]
   ]
