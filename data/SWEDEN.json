@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2023 , 00:44:49",
+  "lastUpdate": "22-08-2023 , 01:35:58",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Sun, 20 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elfsborg mot Mjällby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20mot%20Mj%C3%A4llby",
         "pubdate": "Sun, 20 Aug 2023 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "West ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#West%20ham",
         "pubdate": "Sun, 20 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simon Pettersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20Pettersson",
+        "pubdate": "Sun, 20 Aug 2023 08:00:00 +0200"
       }
     ]
   ]
