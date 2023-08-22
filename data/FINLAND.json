@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2023 , 10:54:04",
+  "lastUpdate": "22-08-2023 , 11:07:36",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "CS2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CS2",
-        "pubdate": "Mon, 21 Aug 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Hilary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hilary",
         "pubdate": "Mon, 21 Aug 2023 10:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Ethan Katzberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ethan%20Katzberg",
         "pubdate": "Sun, 20 Aug 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Noah Lyles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Noah%20Lyles",
+        "pubdate": "Sun, 20 Aug 2023 22:00:00 +0300"
       }
     ]
   ]
