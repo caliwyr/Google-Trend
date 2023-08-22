@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2023 , 16:56:50",
+  "lastUpdate": "22-08-2023 , 17:12:01",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#BRICS",
+        "pubdate": "Tue, 22 Aug 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tobi Amusan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tobi%20Amusan",
         "pubdate": "Tue, 22 Aug 2023 16:00:00 +0100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "BRICS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#BRICS",
-        "pubdate": "Tue, 22 Aug 2023 15:00:00 +0100"
+        "title": "Folarin Balogun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Folarin%20Balogun",
+        "pubdate": "Tue, 22 Aug 2023 17:00:00 +0100"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Doku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Doku",
-        "pubdate": "Mon, 21 Aug 2023 20:00:00 +0100"
+        "title": "Blue Economy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Blue%20Economy",
+        "pubdate": "Mon, 21 Aug 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Blue Economy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Blue%20Economy",
-        "pubdate": "Mon, 21 Aug 2023 19:00:00 +0100"
+        "title": "Doku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Doku",
+        "pubdate": "Mon, 21 Aug 2023 20:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Commodity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Commodity",
-        "pubdate": "Mon, 21 Aug 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zaha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Zaha",
         "pubdate": "Mon, 21 Aug 2023 22:00:00 +0100"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Bunmi Tunji-Ojo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bunmi%20Tunji-Ojo",
+        "title": "Commodity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Commodity",
         "pubdate": "Mon, 21 Aug 2023 13:00:00 +0100"
       }
     ]
