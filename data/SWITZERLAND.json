@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2023 , 03:48:09",
+  "lastUpdate": "22-08-2023 , 03:57:28",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Openair Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Openair%20Z%C3%BCrich",
+        "pubdate": "Mon, 21 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meteo France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
         "pubdate": "Mon, 21 Aug 2023 22:00:00 +0200"
@@ -97,13 +104,6 @@
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#US%20Open",
         "pubdate": "Mon, 21 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frauen WM-Finale Kuss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frauen%20WM-Finale%20Kuss",
-        "pubdate": "Mon, 21 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Los%20Angeles",
-        "pubdate": "Mon, 21 Aug 2023 07:00:00 +0200"
+        "title": "Guatemala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Guatemala",
+        "pubdate": "Mon, 21 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
