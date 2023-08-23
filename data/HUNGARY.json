@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-08-2023 , 22:47:50",
+  "lastUpdate": "23-08-2023 , 22:57:29",
   "data": [
+    [
+      {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BRICS",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tanév rendje 2023",
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Szíjj László",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%ADjj%20L%C3%A1szl%C3%B3",
-        "pubdate": "Wed, 23 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mortal Kombat 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mortal%20Kombat%201",
         "pubdate": "Wed, 23 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Max%20Verstappen",
-        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Újpest FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
-        "pubdate": "Wed, 23 Aug 2023 18:00:00 +0200"
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Max%20Verstappen",
+        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wagner",
         "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Újpest FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
+        "pubdate": "Wed, 23 Aug 2023 18:00:00 +0200"
       }
     ]
   ]
