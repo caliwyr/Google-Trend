@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 10:45:04",
+  "lastUpdate": "23-08-2023 , 10:54:04",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Cerruti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cerruti",
         "pubdate": "Wed, 23 Aug 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Exodo jujeño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Exodo%20juje%C3%B1o",
+        "pubdate": "Wed, 23 Aug 2023 07:00:00 -0300"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "El tiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20tiempo",
+        "pubdate": "Tue, 22 Aug 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bolivar vs Internacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bolivar%20vs%20Internacional",
         "pubdate": "Tue, 22 Aug 2023 19:00:00 -0300"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Saqueos en Once",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Saqueos%20en%20Once",
-        "pubdate": "Tue, 22 Aug 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Saqueos en Mar del Plata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Saqueos%20en%20Mar%20del%20Plata",
         "pubdate": "Tue, 22 Aug 2023 21:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Clara Muzzio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clara%20Muzzio",
-        "pubdate": "Tue, 22 Aug 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Copa Libertadores Hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Libertadores%20Hoy",
-        "pubdate": "Tue, 22 Aug 2023 20:00:00 -0300"
+        "title": "Servicio meteorologico Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Servicio%20meteorologico%20Nacional",
+        "pubdate": "Tue, 22 Aug 2023 07:00:00 -0300"
       }
     ]
   ]
