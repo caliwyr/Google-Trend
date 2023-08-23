@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 23:42:22",
+  "lastUpdate": "23-08-2023 , 23:51:50",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Nina Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nina%20Kennedy",
+        "pubdate": "Thu, 24 Aug 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia",
         "pubdate": "Thu, 24 Aug 2023 07:00:00 +1000"
@@ -34,6 +41,13 @@
         "title": "Frasier reboot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Frasier%20reboot",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Terry Funk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Terry%20Funk",
+        "pubdate": "Thu, 24 Aug 2023 09:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Serena Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serena%20Williams",
         "pubdate": "Wed, 23 Aug 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Sam Burgess",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Burgess",
-        "pubdate": "Wed, 23 Aug 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Drew Barrymore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Drew%20Barrymore",
-        "pubdate": "Wed, 23 Aug 2023 13:00:00 +1000"
       }
     ]
   ]

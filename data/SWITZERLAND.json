@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 23:42:32",
+  "lastUpdate": "23-08-2023 , 23:51:59",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Japankäfer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Japank%C3%A4fer",
-        "pubdate": "Wed, 23 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ingebrigtsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ingebrigtsen",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Roche-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roche-Aktie",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0200"
+        "title": "Japankäfer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Japank%C3%A4fer",
+        "pubdate": "Wed, 23 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nvidia",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hitzewelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hitzewelle",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -118,6 +104,13 @@
         "title": "Serena Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serena%20Williams",
         "pubdate": "Wed, 23 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Seeüberquerung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#See%C3%BCberquerung",
+        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Gone Girl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gone%20Girl",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Killers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Killers",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ]

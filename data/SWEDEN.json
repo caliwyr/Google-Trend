@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-08-2023 , 23:42:31",
+  "lastUpdate": "23-08-2023 , 23:51:59",
   "data": [
     [
       {
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -38,20 +45,6 @@
     ],
     [
       {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20Ingebrigtsen",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
-        "pubdate": "Wed, 23 Aug 2023 09:00:00 +0200"
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
+        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
-        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
+        "pubdate": "Wed, 23 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Toto Cutugno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Toto%20Cutugno",
         "pubdate": "Tue, 22 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brics",
+        "pubdate": "Tue, 22 Aug 2023 10:00:00 +0200"
       }
     ]
   ]
