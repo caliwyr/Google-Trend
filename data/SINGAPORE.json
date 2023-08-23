@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 11:45:39",
+  "lastUpdate": "23-08-2023 , 11:55:15",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Ahsoka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ahsoka",
+        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Fukushima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fukushima",
         "pubdate": "Wed, 23 Aug 2023 10:00:00 +0800"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Presidential election 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Presidential%20election%202023",
-        "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Thaksin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thaksin",
         "pubdate": "Tue, 22 Aug 2023 10:00:00 +0800"
@@ -69,6 +69,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Tue, 22 Aug 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Polling station",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20station",
+        "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Halimah Yacob",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Halimah%20Yacob",
-        "pubdate": "Tue, 22 Aug 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Scooter Braun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scooter%20Braun",
         "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Jeremy Doku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jeremy%20Doku",
-        "pubdate": "Tue, 22 Aug 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Election",
         "pubdate": "Tue, 22 Aug 2023 17:00:00 +0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Straits Times singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Straits%20Times%20singapore",
+        "title": "Straits Times Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Straits%20Times%20Singapore",
         "pubdate": "Tue, 22 Aug 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Presidential Election Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Presidential%20Election%20Singapore",
+        "pubdate": "Mon, 21 Aug 2023 13:00:00 +0800"
       }
     ]
   ]
