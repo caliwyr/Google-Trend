@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 05:44:03",
+  "lastUpdate": "23-08-2023 , 05:53:38",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Trebel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trebel",
-        "pubdate": "Wed, 23 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Toto Cutugno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toto%20Cutugno",
         "pubdate": "Tue, 22 Aug 2023 18:00:00 +0200"
@@ -52,23 +45,16 @@
     ],
     [
       {
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Tue, 22 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Argenta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Argenta",
         "pubdate": "Tue, 22 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
-        "pubdate": "Tue, 22 Aug 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antwerp  AEK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%20AEK",
-        "pubdate": "Tue, 22 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Bon d'etat belge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bon%20d'etat%20belge",
         "pubdate": "Tue, 22 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Antwerp FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20FC",
+        "pubdate": "Tue, 22 Aug 2023 06:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Budapest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Budapest",
         "pubdate": "Tue, 22 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charles Martinet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charles%20Martinet",
+        "pubdate": "Tue, 22 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
