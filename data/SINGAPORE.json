@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-08-2023 , 13:48:57",
+  "lastUpdate": "23-08-2023 , 13:58:31",
   "data": [
     [
       {
         "title": "ISRO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ISRO",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Nassr",
+        "pubdate": "Wed, 23 Aug 2023 12:00:00 +0800"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Brics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brics",
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BRICS",
         "pubdate": "Wed, 23 Aug 2023 00:00:00 +0800"
       }
     ],
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Ahsoka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ahsoka",
+        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Heath Streak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Heath%20Streak",
         "pubdate": "Wed, 23 Aug 2023 15:00:00 +0800"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Ahsoka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ahsoka",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0800"
+        "title": "Altay Bayindir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Altay%20Bayindir",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0800"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Polling station",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20station",
-        "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Tue, 22 Aug 2023 06:00:00 +0800"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Nassr",
-        "pubdate": "Tue, 22 Aug 2023 21:00:00 +0800"
+        "title": "Polling station",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20station",
+        "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Scooter Braun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scooter%20Braun",
-        "pubdate": "Tue, 22 Aug 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "ELD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ELD",
-        "pubdate": "Tue, 22 Aug 2023 15:00:00 +0800"
+        "title": "Where to vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Where%20to%20vote",
+        "pubdate": "Tue, 22 Aug 2023 17:00:00 +0800"
       }
     ]
   ]
