@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-08-2023 , 21:42:29",
+  "lastUpdate": "23-08-2023 , 21:51:50",
   "data": [
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Galatasaray",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Max Verstappen",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Ludogorets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ludogorets",
-        "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
+        "title": "Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wagner",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
+        "title": "Ludogorets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ludogorets",
+        "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Renewi Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Renewi%20Tour",
         "pubdate": "Wed, 23 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bas Dost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bas%20Dost",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Sifan Hassan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sifan%20Hassan",
         "pubdate": "Tue, 22 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fatbikes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fatbikes",
-        "pubdate": "Tue, 22 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sun, 20 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dest",
+        "pubdate": "Sun, 20 Aug 2023 15:00:00 +0200"
       }
     ]
   ]

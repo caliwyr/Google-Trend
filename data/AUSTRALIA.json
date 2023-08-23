@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "23-08-2023 , 21:42:22",
+  "lastUpdate": "23-08-2023 , 21:51:42",
   "data": [
+    [
+      {
+        "title": "Prigozhin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prigozhin",
+        "pubdate": "Thu, 24 Aug 2023 07:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billie%20Eilish",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Frasier reboot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Frasier%20reboot",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 +1000"
       }
     ],
@@ -17,9 +31,16 @@
     ],
     [
       {
-        "title": "Frasier reboot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Frasier%20reboot",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 +1000"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
+        "pubdate": "Thu, 24 Aug 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia",
+        "pubdate": "Thu, 24 Aug 2023 07:00:00 +1000"
       }
     ],
     [
@@ -66,8 +87,8 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al-Nassr",
         "pubdate": "Wed, 23 Aug 2023 11:00:00 +1000"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Drew Barrymore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Drew%20Barrymore",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Selena%20Gomez",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ray Stevenson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ray%20Stevenson",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "BRICS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BRICS",
-        "pubdate": "Wed, 23 Aug 2023 09:00:00 +1000"
       }
     ]
   ]

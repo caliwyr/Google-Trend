@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-08-2023 , 21:42:23",
+  "lastUpdate": "23-08-2023 , 21:51:43",
   "data": [
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Prigojine",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
-        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
+        "title": "Renewi Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Renewi%20Tour",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "Aston Martin Valkyrie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Martin%20Valkyrie",
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC%20News",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
         "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -48,6 +62,13 @@
         "title": "Ahsoka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ahsoka",
         "pubdate": "Wed, 23 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aston Martin Valkyrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Martin%20Valkyrie",
+        "pubdate": "Wed, 23 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,8 +101,8 @@
     ],
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC",
+        "title": "Brigitte Bardot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Bardot",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ],
@@ -90,13 +111,6 @@
         "title": "Els De Schepper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Els%20De%20Schepper",
         "pubdate": "Wed, 23 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brigitte Bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Bardot",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tamberi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tamberi",
         "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Au Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Au%20Niger",
-        "pubdate": "Wed, 23 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nvidia",
-        "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
