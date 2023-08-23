@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-08-2023 , 16:50:11",
+  "lastUpdate": "23-08-2023 , 16:59:23",
   "data": [
+    [
+      {
+        "title": "Crimson Desert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crimson%20Desert",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Frasier reboot",
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al-Nassr",
         "pubdate": "Wed, 23 Aug 2023 11:00:00 +1000"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Ray Stevenson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ray%20Stevenson",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BRICS",
         "pubdate": "Wed, 23 Aug 2023 09:00:00 +1000"
@@ -125,20 +139,6 @@
         "title": "Wildlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wildlands",
         "pubdate": "Wed, 23 Aug 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Steven Bradbury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steven%20Bradbury",
-        "pubdate": "Wed, 23 Aug 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Max%20Verstappen",
-        "pubdate": "Wed, 23 Aug 2023 09:00:00 +1000"
       }
     ]
   ]
