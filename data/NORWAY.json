@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 09:43:42",
+  "lastUpdate": "23-08-2023 , 09:53:04",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "BUDAPEST",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BUDAPEST",
+        "pubdate": "Tue, 22 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gamescom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gamescom",
         "pubdate": "Tue, 22 Aug 2023 20:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Warholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Warholm",
-        "pubdate": "Tue, 22 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rihanna",
         "pubdate": "Tue, 22 Aug 2023 09:00:00 +0200"
@@ -108,16 +108,9 @@
     ],
     [
       {
-        "title": "Kristin Moe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristin%20Moe",
-        "pubdate": "Tue, 22 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Linnea Løtvedt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linnea%20L%C3%B8tvedt",
-        "pubdate": "Mon, 21 Aug 2023 16:00:00 +0200"
+        "title": "Farmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
+        "pubdate": "Tue, 22 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Mon, 21 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mason Greenwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mason%20Greenwood",
+        "pubdate": "Mon, 21 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
