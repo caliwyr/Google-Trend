@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2023 , 03:46:08",
+  "lastUpdate": "23-08-2023 , 03:55:20",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Micheline Presle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Micheline%20Presle",
-        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rappeur Médine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rappeur%20M%C3%A9dine",
         "pubdate": "Wed, 23 Aug 2023 03:00:00 +0200"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Trebel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trebel",
-        "pubdate": "Wed, 23 Aug 2023 01:00:00 +0200"
+        "title": "Micheline Presle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Micheline%20Presle",
+        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,23 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
-        "pubdate": "Tue, 22 Aug 2023 14:00:00 +0200"
+        "title": "Antwerp  AEK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%20AEK",
+        "pubdate": "Tue, 22 Aug 2023 06:00:00 +0200"
       }
     ],
     [
       {
         "title": "Antwerp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
-        "pubdate": "Tue, 22 Aug 2023 06:00:00 +0200"
+        "pubdate": "Tue, 22 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
+        "pubdate": "Tue, 22 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -115,15 +115,8 @@
     ],
     [
       {
-        "title": "Rangers  PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rangers%20%20PSV",
-        "pubdate": "Tue, 22 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brics",
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BRICS",
         "pubdate": "Tue, 22 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Budapest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Budapest",
         "pubdate": "Tue, 22 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fatbike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fatbike",
+        "pubdate": "Tue, 22 Aug 2023 12:00:00 +0200"
       }
     ]
   ]
