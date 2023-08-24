@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 08:48:21",
+  "lastUpdate": "24-08-2023 , 08:57:43",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Thu, 24 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Perseus Karlström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Perseus%20Karlstr%C3%B6m",
+        "pubdate": "Thu, 24 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Alica Schmidt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alica%20Schmidt",
         "pubdate": "Wed, 23 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Svenska Cupen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svenska%20Cupen",
-        "pubdate": "Tue, 22 Aug 2023 19:00:00 +0200"
       }
     ]
   ]

@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-08-2023 , 08:48:12",
+  "lastUpdate": "24-08-2023 , 08:57:34",
   "data": [
     [
       {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#MLS",
         "pubdate": "Thu, 24 Aug 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Almendra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almendra",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Gardel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Gardel",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Almendra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almendra",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Jordi Alba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jordi%20Alba",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
@@ -47,20 +54,6 @@
       {
         "title": "The Bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#The%20Bear",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Boca Juniors vs Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors%20vs%20Nacional",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Agustín Almendra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Agust%C3%ADn%20Almendra",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
       }
     ],
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Castells",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Castells",
-        "pubdate": "Wed, 23 Aug 2023 10:00:00 -0300"
+        "title": "La Mona Jiménez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Mona%20Jim%C3%A9nez",
+        "pubdate": "Wed, 23 Aug 2023 20:00:00 -0300"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Mona jimenez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mona%20jimenez",
-        "pubdate": "Wed, 23 Aug 2023 20:00:00 -0300"
+        "title": "Pluto TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pluto%20TV",
+        "pubdate": "Wed, 23 Aug 2023 23:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Pluto TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pluto%20TV",
-        "pubdate": "Wed, 23 Aug 2023 23:00:00 -0300"
+        "title": "Olimpia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
+        "pubdate": "Wed, 23 Aug 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
+        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0300"
       }
     ]
   ]
