@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 05:43:55",
+  "lastUpdate": "24-08-2023 , 05:53:15",
   "data": [
+    [
+      {
+        "title": "Rusia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rusia",
+        "pubdate": "Thu, 24 Aug 2023 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Inter de Miami",
@@ -48,6 +55,13 @@
         "title": "Daniela Vega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniela%20Vega",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Laguna de Aculeo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Laguna%20de%20Aculeo",
+        "pubdate": "Wed, 23 Aug 2023 07:00:00 -0400"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Terry Funk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terry%20Funk",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Javier Altamirano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Javier%20Altamirano",
         "pubdate": "Wed, 23 Aug 2023 05:00:00 -0400"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Terry Funk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terry%20Funk",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
         "pubdate": "Wed, 23 Aug 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Mercurio retrogrado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mercurio%20retrogrado",
-        "pubdate": "Wed, 23 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "League of Legends",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#League%20of%20Legends",
-        "pubdate": "Wed, 23 Aug 2023 18:00:00 -0400"
       }
     ]
   ]
