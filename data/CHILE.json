@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 12:45:56",
+  "lastUpdate": "24-08-2023 , 13:00:21",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ticketmaster",
-        "pubdate": "Wed, 23 Aug 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Laguna de Aculeo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Laguna%20de%20Aculeo",
         "pubdate": "Wed, 23 Aug 2023 07:00:00 -0400"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Martina Weil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Martina%20Weil",
-        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Saqueos en Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Saqueos%20en%20Argentina",
         "pubdate": "Wed, 23 Aug 2023 17:00:00 -0400"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Terry Funk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terry%20Funk",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Javier Altamirano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Javier%20Altamirano",
         "pubdate": "Wed, 23 Aug 2023 05:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Mineduc.cl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mineduc.cl",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 -0400"
       }
     ]
   ]
