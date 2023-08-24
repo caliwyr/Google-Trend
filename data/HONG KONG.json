@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-08-2023 , 00:27:01",
+  "lastUpdate": "24-08-2023 , 01:29:32",
   "data": [
     [
       {
         "title": "普里戈津",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%99%AE%E9%87%8C%E6%88%88%E6%B4%A5",
         "pubdate": "Thu, 24 Aug 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "習近平",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BF%92%E8%BF%91%E5%B9%B3",
+        "pubdate": "Thu, 24 Aug 2023 04:00:00 +0800"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "三星堆",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%89%E6%98%9F%E5%A0%86",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "NVDA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#NVDA",
         "pubdate": "Wed, 23 Aug 2023 01:00:00 +0800"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "王陽明",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%8E%8B%E9%99%BD%E6%98%8E",
-        "pubdate": "Wed, 23 Aug 2023 18:00:00 +0800"
+        "title": "三星堆",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%89%E6%98%9F%E5%A0%86",
+        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0800"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "劉永",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%89%E6%B0%B8",
-        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "橋本環奈",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A9%8B%E6%9C%AC%E7%92%B0%E5%A5%88",
-        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0800"
+        "title": "炎明熹演唱會",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%82%8E%E6%98%8E%E7%86%B9%E6%BC%94%E5%94%B1%E6%9C%83",
+        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0800"
       }
     ],
     [
@@ -83,6 +76,13 @@
         "title": "颱風",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%A2%B1%E9%A2%A8",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "橋本環奈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A9%8B%E6%9C%AC%E7%92%B0%E5%A5%88",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0800"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "鍾健威",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%8D%BE%E5%81%A5%E5%A8%81",
-        "pubdate": "Tue, 22 Aug 2023 13:00:00 +0800"
+        "title": "Lauv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Lauv",
+        "pubdate": "Tue, 22 Aug 2023 11:00:00 +0800"
       }
     ],
     [
       {
-        "title": "習近平",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BF%92%E8%BF%91%E5%B9%B3",
+        "title": "郭鳳儀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%83%AD%E9%B3%B3%E5%84%80",
         "pubdate": "Tue, 22 Aug 2023 18:00:00 +0800"
       }
     ]
