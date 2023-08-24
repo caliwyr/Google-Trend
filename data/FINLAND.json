@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 04:46:14",
+  "lastUpdate": "24-08-2023 , 04:55:44",
   "data": [
+    [
+      {
+        "title": "Cincinnati – Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cincinnati%20%E2%80%93%20Inter%20Miami",
+        "pubdate": "Thu, 24 Aug 2023 07:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Ray Stevenson",
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20News",
+        "title": "Leo Komarov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leo%20Komarov",
+        "pubdate": "Wed, 23 Aug 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0300"
       }
     ],
@@ -41,13 +55,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Leo Komarov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leo%20Komarov",
-        "pubdate": "Wed, 23 Aug 2023 12:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Fort Solis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fort%20Solis",
         "pubdate": "Wed, 23 Aug 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "The edge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20edge",
-        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0300"
       }
     ]
   ]

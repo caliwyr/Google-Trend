@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 04:46:12",
+  "lastUpdate": "24-08-2023 , 04:55:43",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Garin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Licanten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Licanten",
-        "pubdate": "Wed, 23 Aug 2023 08:00:00 -0400"
       }
     ],
     [
@@ -55,13 +48,6 @@
         "title": "Daniela Vega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniela%20Vega",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Laguna de Aculeo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Laguna%20de%20Aculeo",
-        "pubdate": "Wed, 23 Aug 2023 07:00:00 -0400"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Terry Funk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terry%20Funk",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
         "pubdate": "Wed, 23 Aug 2023 15:00:00 -0400"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Terry Funk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terry%20Funk",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0400"
+        "title": "Mercurio retrogrado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mercurio%20retrogrado",
+        "pubdate": "Wed, 23 Aug 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "League of Legends",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#League%20of%20Legends",
+        "pubdate": "Wed, 23 Aug 2023 18:00:00 -0400"
       }
     ]
   ]
