@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 09:43:01",
+  "lastUpdate": "24-08-2023 , 09:52:27",
   "data": [
+    [
+      {
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
+        "pubdate": "Thu, 24 Aug 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nvidia",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
-        "pubdate": "Thu, 24 Aug 2023 08:00:00 +0200"
+        "title": "Gabri Veiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gabri%20Veiga",
+        "pubdate": "Thu, 24 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Obos-ligaen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Obos-ligaen",
+        "title": "OBOS-ligaen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OBOS-ligaen",
         "pubdate": "Wed, 23 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Iceland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iceland",
         "pubdate": "Wed, 23 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MFK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MFK",
-        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
