@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-08-2023 , 01:29:36",
+  "lastUpdate": "24-08-2023 , 02:02:33",
   "data": [
-    [
-      {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Cincinnati  Inter Miami",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Thu, 24 Aug 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Futsal Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futsal%20Sporting",
+        "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nuno Ribeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Ribeiro",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Pinto da Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pinto%20da%20Costa",
-        "pubdate": "Wed, 23 Aug 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Incendio Nelas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendio%20Nelas",
         "pubdate": "Wed, 23 Aug 2023 16:00:00 +0100"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Sporar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporar",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0100"
+        "title": "Casamento Pinto da Costa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casamento%20Pinto%20da%20Costa",
+        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0100"
       }
     ],
     [
@@ -73,23 +73,9 @@
     ],
     [
       {
-        "title": "Agustin Giay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agustin%20Giay",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Teleférico Paquistão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Telef%C3%A9rico%20Paquist%C3%A3o",
         "pubdate": "Wed, 23 Aug 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ahsoka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ahsoka",
-        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0100"
       }
     ],
     [
@@ -101,9 +87,23 @@
     ],
     [
       {
+        "title": "Ahsoka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ahsoka",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Selena%20Gomez",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Colocação de professores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coloca%C3%A7%C3%A3o%20de%20professores",
+        "pubdate": "Wed, 23 Aug 2023 19:00:00 +0100"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Pedro Teixeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira",
-        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0100"
+        "title": "Matheus Nunes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matheus%20Nunes",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Matheus Nunes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matheus%20Nunes",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0100"
+        "title": "Pedro Teixeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira",
+        "pubdate": "Wed, 23 Aug 2023 00:00:00 +0100"
       }
     ]
   ]

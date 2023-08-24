@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 01:29:33",
+  "lastUpdate": "24-08-2023 , 02:02:30",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "BBC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BBC%20news",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Millie Bobby Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Millie%20Bobby%20Brown",
-        "pubdate": "Wed, 23 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Újpest FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
         "pubdate": "Wed, 23 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toto Cutugno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Toto%20Cutugno",
+        "pubdate": "Tue, 22 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
