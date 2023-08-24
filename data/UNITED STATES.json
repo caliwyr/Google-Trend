@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "24-08-2023 , 20:51:32",
+  "lastUpdate": "24-08-2023 , 21:02:07",
   "data": [
     [
       {
         "title": "Isaiah Simmons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Isaiah%20Simmons",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mastodon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mastodon",
+        "pubdate": "Thu, 24 Aug 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Hart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20Hart",
+        "pubdate": "Thu, 24 Aug 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dave Chappelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dave%20Chappelle",
+        "pubdate": "Thu, 24 Aug 2023 12:00:00 -0700"
       }
     ],
     [
@@ -17,9 +38,37 @@
     ],
     [
       {
+        "title": "Aaron Judge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
+        "pubdate": "Thu, 24 Aug 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Houston Dynamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20Dynamo",
+        "pubdate": "Thu, 24 Aug 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Mike Trout",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Trout",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jerry Jeudy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20Jeudy",
+        "pubdate": "Thu, 24 Aug 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Stephen Strasburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stephen%20Strasburg",
+        "pubdate": "Thu, 24 Aug 2023 13:00:00 -0700"
       }
     ],
     [
@@ -59,13 +108,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump",
-        "pubdate": "Wed, 23 Aug 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami vs Cincinnati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami%20vs%20Cincinnati",
         "pubdate": "Wed, 23 Aug 2023 16:00:00 -0700"
@@ -73,16 +115,16 @@
     ],
     [
       {
-        "title": "Verve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Verve",
-        "pubdate": "Wed, 23 Aug 2023 01:00:00 -0700"
+        "title": "Terry Funk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Terry%20Funk",
+        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Terry Funk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Terry%20Funk",
-        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0700"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Donald%20Trump",
+        "pubdate": "Wed, 23 Aug 2023 20:00:00 -0700"
       }
     ],
     [
@@ -97,48 +139,6 @@
         "title": "Rudy Giuliani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rudy%20Giuliani",
         "pubdate": "Wed, 23 Aug 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cook's Corner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cook's%20Corner",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tucker%20Carlson",
-        "pubdate": "Wed, 23 Aug 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Shohei Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Trey Lance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trey%20Lance",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kobe Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
-        "pubdate": "Wed, 23 Aug 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Corey Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Corey%20Davis",
-        "pubdate": "Wed, 23 Aug 2023 13:00:00 -0700"
       }
     ]
   ]
