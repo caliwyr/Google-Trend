@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 14:43:16",
+  "lastUpdate": "24-08-2023 , 14:52:30",
   "data": [
+    [
+      {
+        "title": "Riverdale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Riverdale",
+        "pubdate": "Thu, 24 Aug 2023 06:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Vivek Ramaswamy",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Haley",
-        "pubdate": "Wed, 23 Aug 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Kobe Bryant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
         "pubdate": "Wed, 23 Aug 2023 01:00:00 -0700"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Cook's Corner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cook's%20Corner",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0700"
+        "title": "Shohei Ohtani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
+        "pubdate": "Wed, 23 Aug 2023 15:00:00 -0700"
       }
     ],
     [
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Shohei Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Doug Burgum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doug%20Burgum",
-        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0700"
+        "title": "Cook's Corner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cook's%20Corner",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 -0700"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Trump interview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20interview",
-        "pubdate": "Wed, 23 Aug 2023 19:00:00 -0700"
+        "title": "Doug Burgum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doug%20Burgum",
+        "pubdate": "Wed, 23 Aug 2023 14:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20Reynolds",
-        "pubdate": "Wed, 23 Aug 2023 16:00:00 -0700"
+        "title": "Trump interview",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20interview",
+        "pubdate": "Wed, 23 Aug 2023 19:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Trump mugshot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20mugshot",
         "pubdate": "Wed, 23 Aug 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Halle Berry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Halle%20Berry",
+        "pubdate": "Wed, 23 Aug 2023 18:00:00 -0700"
       }
     ]
   ]
