@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 10:44:54",
+  "lastUpdate": "24-08-2023 , 10:54:10",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Fousey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fousey",
+        "pubdate": "Wed, 23 Aug 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Kobe Bryant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kobe%20Bryant",
         "pubdate": "Wed, 23 Aug 2023 11:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Trey Lance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trey%20Lance",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Crimson Desert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crimson%20Desert",
-        "pubdate": "Wed, 23 Aug 2023 03:00:00 -0400"
       }
     ]
   ]
