@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-08-2023 , 07:48:10",
+  "lastUpdate": "24-08-2023 , 07:57:31",
   "data": [
-    [
-      {
-        "title": "Cincinnati – Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cincinnati%20%E2%80%93%20Inter%20Miami",
-        "pubdate": "Thu, 24 Aug 2023 07:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Nvidia stock",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Cincinnati – Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cincinnati%20%E2%80%93%20Inter%20Miami",
+        "pubdate": "Thu, 24 Aug 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Warholm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Warholm",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bradley Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bradley%20Cooper",
+        "pubdate": "Thu, 24 Aug 2023 10:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Immortals of Aveum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Immortals%20of%20Aveum",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dillon Danis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dillon%20Danis",
-        "pubdate": "Wed, 23 Aug 2023 02:00:00 +0300"
       }
     ]
   ]

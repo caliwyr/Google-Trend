@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 07:48:17",
+  "lastUpdate": "24-08-2023 , 07:57:38",
   "data": [
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CNN",
+        "pubdate": "Thu, 24 Aug 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nvidia Aktie",
@@ -27,6 +34,13 @@
         "title": "AVF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AVF",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coco Austin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coco%20Austin",
+        "pubdate": "Thu, 24 Aug 2023 09:00:00 +0200"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Chandrayaan-3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chandrayaan-3",
-        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0200"
+        "title": "Jakob Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jakob%20Ingebrigtsen",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jakob%20Ingebrigtsen",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+        "title": "Chandrayaan-3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chandrayaan-3",
+        "pubdate": "Wed, 23 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Baloise Session",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baloise%20Session",
         "pubdate": "Wed, 23 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hitzewelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hitzewelle",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karsten Warholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karsten%20Warholm",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
