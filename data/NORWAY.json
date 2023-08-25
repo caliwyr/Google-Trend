@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-08-2023 , 02:46:45",
+  "lastUpdate": "25-08-2023 , 02:56:09",
   "data": [
     [
       {
         "title": "Viktor Hovland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viktor%20Hovland",
         "pubdate": "Fri, 25 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "pubdate": "Fri, 25 Aug 2023 04:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Brics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brics",
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BRICS",
         "pubdate": "Thu, 24 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ukraina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ukraina",
+        "pubdate": "Thu, 24 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Molde Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20Galatasaray",
+        "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jakob Ingebrigtsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
         "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
@@ -87,8 +108,8 @@
     ],
     [
       {
-        "title": "Molde Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20Galatasaray",
+        "title": "Wagner-gruppen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wagner-gruppen",
         "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
       }
     ],
@@ -97,13 +118,6 @@
         "title": "BBC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BBC%20news",
         "pubdate": "Wed, 23 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wagner",
-        "pubdate": "Wed, 23 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Easee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Easee",
-        "pubdate": "Wed, 23 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Al-Nassr",
-        "pubdate": "Wed, 23 Aug 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nio",
         "pubdate": "Wed, 23 Aug 2023 16:00:00 +0200"
       }
     ]
