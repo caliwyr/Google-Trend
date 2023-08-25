@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-08-2023 , 09:50:41",
+  "lastUpdate": "25-08-2023 , 09:59:56",
   "data": [
+    [
+      {
+        "title": "Mugshot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mugshot",
+        "pubdate": "Fri, 25 Aug 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Carl Söderberg",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Perseus Karlström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Perseus%20Karlstr%C3%B6m",
-        "pubdate": "Thu, 24 Aug 2023 10:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
+        "title": "Perseus Karlström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Perseus%20Karlstr%C3%B6m",
+        "pubdate": "Thu, 24 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Elisabeth Svantesson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Svantesson",
+        "pubdate": "Thu, 24 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Thu, 24 Aug 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Grimeton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grimeton",
+        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
         "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
-        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dillon Danis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dillon%20Danis",
-        "pubdate": "Wed, 23 Aug 2023 08:00:00 +0200"
       }
     ]
   ]
