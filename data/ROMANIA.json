@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 03:42:35",
+  "lastUpdate": "25-08-2023 , 03:51:56",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
         "pubdate": "Thu, 24 Aug 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mihai Malaimare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Malaimare",
+        "pubdate": "Thu, 24 Aug 2023 13:00:00 +0300"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Mac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mac",
-        "pubdate": "Thu, 24 Aug 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Ilie Năstase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ilie%20N%C4%83stase",
         "pubdate": "Thu, 24 Aug 2023 14:00:00 +0300"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galatasaray",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Madalina Ghenea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Madalina%20Ghenea",
         "pubdate": "Wed, 23 Aug 2023 03:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CNN",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galatasaray",
-        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0300"
       }
     ]
   ]

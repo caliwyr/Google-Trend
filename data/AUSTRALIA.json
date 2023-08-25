@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "25-08-2023 , 03:42:27",
+  "lastUpdate": "25-08-2023 , 03:51:48",
   "data": [
     [
       {
-        "title": "Jetstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jetstar",
-        "pubdate": "Fri, 25 Aug 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Donald%20Trump",
         "pubdate": "Fri, 25 Aug 2023 08:00:00 +1000"
       }
     ],
@@ -20,6 +13,13 @@
         "title": "Bray Wyatt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bray%20Wyatt",
         "pubdate": "Fri, 25 Aug 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jetstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jetstar",
+        "pubdate": "Fri, 25 Aug 2023 08:00:00 +1000"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Riverdale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Riverdale",
-        "pubdate": "Fri, 25 Aug 2023 07:00:00 +1000"
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Magnus%20Carlsen",
+        "pubdate": "Fri, 25 Aug 2023 11:00:00 +1000"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Reynolds",
-        "pubdate": "Fri, 25 Aug 2023 09:00:00 +1000"
+        "title": "Riverdale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Riverdale",
+        "pubdate": "Fri, 25 Aug 2023 07:00:00 +1000"
       }
     ],
     [
@@ -76,6 +76,27 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikki%20Haley",
         "pubdate": "Fri, 25 Aug 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Reynolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Reynolds",
+        "pubdate": "Fri, 25 Aug 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Weekend",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weekend",
+        "pubdate": "Fri, 25 Aug 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "FIBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FIBA",
+        "pubdate": "Fri, 25 Aug 2023 13:00:00 +1000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Terry Funk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Terry%20Funk",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vivek%20Ramaswamy",
-        "pubdate": "Thu, 24 Aug 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Penrith Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
-        "pubdate": "Thu, 24 Aug 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Malka Leifer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Malka%20Leifer",
-        "pubdate": "Thu, 24 Aug 2023 14:00:00 +1000"
       }
     ]
   ]

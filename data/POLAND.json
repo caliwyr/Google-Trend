@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 03:42:35",
+  "lastUpdate": "25-08-2023 , 03:51:55",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BRICS",
+        "pubdate": "Fri, 25 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ochman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ochman",
         "pubdate": "Fri, 25 Aug 2023 01:00:00 +0200"
       }
     ],
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Ewa Bem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Bem",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alica Schmidt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alica%20Schmidt",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 +0200"
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Anna Karwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Karwan",
-        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Briar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Briar",
         "pubdate": "Thu, 24 Aug 2023 14:00:00 +0200"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Ragnarok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ragnarok",
-        "pubdate": "Thu, 24 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
         "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Hubert Urbański",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hubert%20Urba%C5%84ski",
-        "pubdate": "Thu, 24 Aug 2023 00:00:00 +0200"
+        "title": "Ragnarok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ragnarok",
+        "pubdate": "Thu, 24 Aug 2023 17:00:00 +0200"
       }
     ]
   ]

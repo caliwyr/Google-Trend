@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-08-2023 , 03:42:37",
+  "lastUpdate": "25-08-2023 , 03:51:57",
   "data": [
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "pubdate": "Fri, 25 Aug 2023 05:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Skellefteå AIK",
@@ -132,13 +139,6 @@
         "title": "Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Albin Lee Meldau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Albin%20Lee%20Meldau",
-        "pubdate": "Wed, 23 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
