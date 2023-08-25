@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-08-2023 , 23:56:23",
+  "lastUpdate": "25-08-2023 , 00:58:20",
   "data": [
+    [
+      {
+        "title": "Bray Wyatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bray%20Wyatt",
+        "pubdate": "Fri, 25 Aug 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Coupe du monde basket",
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "La rochelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20rochelle",
-        "pubdate": "Thu, 24 Aug 2023 20:00:00 +0200"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taylor%20Swift",
+        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taylor%20Swift",
-        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
+        "title": "La rochelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20rochelle",
+        "pubdate": "Thu, 24 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Benoit Magimel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benoit%20Magimel",
-        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nvidia",
         "pubdate": "Thu, 24 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Femke Bol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Femke%20Bol",
-        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Orages Vendée",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orages%20Vend%C3%A9e",
-        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Femke%20Bol",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aurelien Quinion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurelien%20Quinion",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ]
   ]

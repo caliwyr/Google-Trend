@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 23:56:22",
+  "lastUpdate": "25-08-2023 , 00:58:18",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Taussig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taussig",
-        "pubdate": "Thu, 24 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Legionella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Legionella",
         "pubdate": "Thu, 24 Aug 2023 15:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BRICS",
         "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taussig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taussig",
+        "pubdate": "Thu, 24 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Radek Juška",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radek%20Ju%C5%A1ka",
-        "pubdate": "Thu, 24 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shopaholic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shopaholic",
         "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nvidia",
-        "pubdate": "Thu, 24 Aug 2023 13:00:00 +0200"
+        "title": "Radek Juška",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radek%20Ju%C5%A1ka",
+        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -97,6 +90,13 @@
         "title": "Jiří Černý",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20%C4%8Cern%C3%BD",
         "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nvidia",
+        "pubdate": "Thu, 24 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Smích se lepí na paty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sm%C3%ADch%20se%20lep%C3%AD%20na%20paty",
+        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Požár Otrokovice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20Otrokovice",
         "pubdate": "Wed, 23 Aug 2023 08:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Utkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Utkin",
         "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adam Sandler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Sandler",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 +0200"
       }
     ]
   ]
