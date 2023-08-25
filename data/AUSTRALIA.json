@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 04:43:14",
+  "lastUpdate": "25-08-2023 , 04:52:35",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Alien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alien",
-        "pubdate": "Fri, 25 Aug 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Magnus%20Carlsen",
         "pubdate": "Fri, 25 Aug 2023 11:00:00 +1000"
@@ -62,6 +55,13 @@
         "title": "Kevin Hart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Hart",
         "pubdate": "Fri, 25 Aug 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Weekend",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weekend",
+        "pubdate": "Fri, 25 Aug 2023 13:00:00 +1000"
       }
     ],
     [
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Reynolds",
-        "pubdate": "Fri, 25 Aug 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Weekend",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weekend",
-        "pubdate": "Fri, 25 Aug 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "FIBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FIBA",
         "pubdate": "Fri, 25 Aug 2023 13:00:00 +1000"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Intergenerational Report 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Intergenerational%20Report%202023",
-        "pubdate": "Fri, 25 Aug 2023 07:00:00 +1000"
+        "title": "Ryan Reynolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Reynolds",
+        "pubdate": "Fri, 25 Aug 2023 09:00:00 +1000"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Wear It Purple Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wear%20It%20Purple%20Day",
+        "pubdate": "Thu, 24 Aug 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Nina Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nina%20Kennedy",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 +1000"
@@ -132,6 +125,13 @@
         "title": "Nvidia share price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia%20share%20price",
         "pubdate": "Thu, 24 Aug 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Penrith Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
+        "pubdate": "Thu, 24 Aug 2023 20:00:00 +1000"
       }
     ],
     [
