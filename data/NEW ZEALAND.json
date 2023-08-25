@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 11:50:44",
+  "lastUpdate": "25-08-2023 , 12:00:05",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fortnite",
+        "pubdate": "Fri, 25 Aug 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Japan nuclear water",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Japan%20nuclear%20water",
         "pubdate": "Fri, 25 Aug 2023 09:00:00 +1200"
@@ -97,6 +104,13 @@
         "title": "BRICS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BRICS",
         "pubdate": "Fri, 25 Aug 2023 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Basketball World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Basketball%20World%20Cup",
+        "pubdate": "Fri, 25 Aug 2023 23:00:00 +1200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "FIBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIBA",
+        "pubdate": "Fri, 25 Aug 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Prigozhin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Prigozhin",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
-        "pubdate": "Thu, 24 Aug 2023 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Daffodil Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daffodil%20Day",
-        "pubdate": "Thu, 24 Aug 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Gas leak Auckland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gas%20leak%20Auckland",
-        "pubdate": "Thu, 24 Aug 2023 19:00:00 +1200"
       }
     ]
   ]

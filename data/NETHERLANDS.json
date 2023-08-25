@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-08-2023 , 11:50:44",
+  "lastUpdate": "25-08-2023 , 12:00:05",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Fri, 25 Aug 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formule 1 Zandvoort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201%20Zandvoort",
+        "pubdate": "Fri, 25 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Fenerbahçe  Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbah%C3%A7e%20%20Twente",
-        "pubdate": "Thu, 24 Aug 2023 18:00:00 +0200"
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Bol",
+        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Femke Bol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Bol",
-        "pubdate": "Thu, 24 Aug 2023 23:00:00 +0200"
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
+        "pubdate": "Thu, 24 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nieuw Sociaal Contract",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuw%20Sociaal%20Contract",
         "pubdate": "Sun, 20 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 20 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
