@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 12:33:45",
+  "lastUpdate": "25-08-2023 , 12:54:02",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "General Georgelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#General%20Georgelin",
+        "title": "Georgelin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georgelin",
         "pubdate": "Fri, 25 Aug 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Saint Louis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint%20Louis",
-        "pubdate": "Fri, 25 Aug 2023 09:00:00 +0200"
+        "title": "Darmanin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Darmanin",
+        "pubdate": "Fri, 25 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fortnite",
+        "pubdate": "Fri, 25 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Saint Louis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint%20Louis",
+        "pubdate": "Fri, 25 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Diane Kruger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diane%20Kruger",
         "pubdate": "Fri, 25 Aug 2023 11:00:00 +0200"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
-        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
+        "title": "Lille – Rijeka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Rijeka",
+        "pubdate": "Thu, 24 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Gabri Veiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gabri%20Veiga",
-        "pubdate": "Thu, 24 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benzema",
         "pubdate": "Thu, 24 Aug 2023 10:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Vivek Ramaswamy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vivek%20Ramaswamy",
         "pubdate": "Thu, 24 Aug 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Femke Bol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Femke%20Bol",
-        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
