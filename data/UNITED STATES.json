@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2023 , 07:45:05",
+  "lastUpdate": "25-08-2023 , 07:54:21",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Kevin Hart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20Hart",
         "pubdate": "Thu, 24 Aug 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miley%20Cyrus",
+        "pubdate": "Thu, 24 Aug 2023 20:00:00 -0700"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Danny Trejo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Danny%20Trejo",
+        "pubdate": "Thu, 24 Aug 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Mike Trout",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Trout",
         "pubdate": "Thu, 24 Aug 2023 09:00:00 -0700"
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Tucker Carlson Trump interview",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tucker%20Carlson%20Trump%20interview",
+        "pubdate": "Thu, 24 Aug 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Magnus%20Carlsen",
         "pubdate": "Thu, 24 Aug 2023 19:00:00 -0700"
@@ -94,16 +115,9 @@
     ],
     [
       {
-        "title": "ERCOT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ERCOT",
-        "pubdate": "Thu, 24 Aug 2023 21:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Trump mugshot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20mugshot",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 -0700"
+        "pubdate": "Wed, 23 Aug 2023 19:00:00 -0700"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Prigozhin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prigozhin",
-        "pubdate": "Wed, 23 Aug 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Vivek Ramaswamy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vivek%20Ramaswamy",
         "pubdate": "Wed, 23 Aug 2023 20:00:00 -0700"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
-        "pubdate": "Wed, 23 Aug 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami vs Cincinnati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami%20vs%20Cincinnati",
-        "pubdate": "Wed, 23 Aug 2023 16:00:00 -0700"
+        "title": "Prigozhin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prigozhin",
+        "pubdate": "Wed, 23 Aug 2023 11:00:00 -0700"
       }
     ]
   ]

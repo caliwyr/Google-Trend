@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-08-2023 , 07:45:18",
+  "lastUpdate": "25-08-2023 , 07:54:31",
   "data": [
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-        "pubdate": "Fri, 25 Aug 2023 05:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Carl Söderberg",
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vivek%20Ramaswamy",
-        "pubdate": "Thu, 24 Aug 2023 10:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,23 +59,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Grimeton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grimeton",
-        "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ebba Busch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
         "pubdate": "Thu, 24 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luis Rubiales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20Rubiales",
+        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -97,13 +83,6 @@
         "title": "Häcken Aberdeen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20Aberdeen",
         "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luis Rubiales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20Rubiales",
-        "pubdate": "Thu, 24 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -138,6 +117,27 @@
       {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
+        "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
         "pubdate": "Wed, 23 Aug 2023 22:00:00 +0200"
       }
     ]
