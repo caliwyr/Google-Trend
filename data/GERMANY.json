@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2023 , 03:45:07",
+  "lastUpdate": "26-08-2023 , 03:54:18",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Hund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hund",
-        "pubdate": "Fri, 25 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Thu, 24 Aug 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Mähdrescher Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%A4hdrescher%20Unfall",
         "pubdate": "Mon, 21 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rubiales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rubiales",
+        "pubdate": "Mon, 21 Aug 2023 12:00:00 +0200"
       }
     ]
   ]
