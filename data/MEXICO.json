@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2023 , 12:44:23",
+  "lastUpdate": "26-08-2023 , 12:56:17",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "TV Azteca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#TV%20Azteca",
-        "pubdate": "Fri, 25 Aug 2023 22:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LaLiga",
         "pubdate": "Fri, 25 Aug 2023 16:00:00 -0600"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "El pajaro Ortiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20pajaro%20Ortiz",
-        "pubdate": "Fri, 25 Aug 2023 21:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Used To Be Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Used%20To%20Be%20Young",
         "pubdate": "Fri, 25 Aug 2023 15:00:00 -0600"
@@ -139,6 +125,20 @@
         "title": "Talk To Me",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Talk%20To%20Me",
         "pubdate": "Fri, 25 Aug 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Cuestion de Tiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuestion%20de%20Tiempo",
+        "pubdate": "Fri, 25 Aug 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Flash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Flash",
+        "pubdate": "Fri, 25 Aug 2023 19:00:00 -0600"
       }
     ]
   ]
