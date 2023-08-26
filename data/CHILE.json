@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2023 , 05:50:38",
+  "lastUpdate": "26-08-2023 , 05:59:47",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Nomina seleccion chilena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nomina%20seleccion%20chilena",
+        "pubdate": "Fri, 25 Aug 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
         "pubdate": "Fri, 25 Aug 2023 09:00:00 -0400"
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Sismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismo",
-        "pubdate": "Fri, 25 Aug 2023 00:00:00 -0400"
+        "title": "Alexis Sánchez Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexis%20S%C3%A1nchez%20Inter",
+        "pubdate": "Fri, 25 Aug 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Primera a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20a",
+        "pubdate": "Fri, 25 Aug 2023 20:00:00 -0400"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Pablo Mackenna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pablo%20Mackenna",
+        "title": "Sismo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismo",
         "pubdate": "Fri, 25 Aug 2023 00:00:00 -0400"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Sociedad",
         "pubdate": "Fri, 25 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cobreloa vs Colo Colo Copa Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa%20vs%20Colo%20Colo%20Copa%20Chile",
-        "pubdate": "Fri, 25 Aug 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fortaleza",
-        "pubdate": "Fri, 25 Aug 2023 01:00:00 -0400"
       }
     ]
   ]
