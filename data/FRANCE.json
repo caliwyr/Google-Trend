@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-08-2023 , 08:48:27",
+  "lastUpdate": "26-08-2023 , 08:57:50",
   "data": [
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Selena%20Gomez",
-        "pubdate": "Sat, 26 Aug 2023 04:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jordan Bardella",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Costa Rica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Costa%20Rica",
-        "pubdate": "Sat, 26 Aug 2023 00:00:00 +0200"
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Selena%20Gomez",
+        "pubdate": "Sat, 26 Aug 2023 04:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Noah Lyles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Noah%20Lyles",
         "pubdate": "Sat, 26 Aug 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Costa%20Rica",
+        "pubdate": "Sat, 26 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Évelyne Dhéliat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#%C3%89velyne%20Dh%C3%A9liat",
-        "pubdate": "Fri, 25 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1",
         "pubdate": "Fri, 25 Aug 2023 22:00:00 +0200"
@@ -89,13 +82,6 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
-        "pubdate": "Fri, 25 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nouvelle zelande Afrique du Sud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nouvelle%20zelande%20Afrique%20du%20Sud",
         "pubdate": "Fri, 25 Aug 2023 22:00:00 +0200"
       }
     ],
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Euromillions 25 aout 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Euromillions%2025%20aout%202023",
-        "pubdate": "Fri, 25 Aug 2023 23:00:00 +0200"
+        "title": "PSG Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20Lens",
+        "pubdate": "Fri, 25 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Moustiques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Moustiques",
         "pubdate": "Fri, 25 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tijl De Decker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tijl%20De%20Decker",
+        "pubdate": "Fri, 25 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dune 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dune%202",
+        "pubdate": "Fri, 25 Aug 2023 18:00:00 +0200"
       }
     ]
   ]
