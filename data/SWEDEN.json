@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-08-2023 , 18:51:56",
+  "lastUpdate": "27-08-2023 , 19:02:12",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Sun, 27 Aug 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "IFK Göteborg",
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Jörn Donner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J%C3%B6rn%20Donner",
-        "pubdate": "Sat, 26 Aug 2023 13:00:00 +0200"
+        "title": "Christiania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christiania",
+        "pubdate": "Sat, 26 Aug 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Christiania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christiania",
-        "pubdate": "Sat, 26 Aug 2023 22:00:00 +0200"
+        "title": "Loch Ness",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loch%20Ness",
+        "pubdate": "Sat, 26 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Kungsträdgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kungstr%C3%A4dg%C3%A5rden",
+        "pubdate": "Sat, 26 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jimmie Åkesson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
         "pubdate": "Sat, 26 Aug 2023 19:00:00 +0200"
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Meg 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meg%202",
+        "title": "Meg2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meg2",
         "pubdate": "Sat, 26 Aug 2023 17:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#United",
         "pubdate": "Sat, 26 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ymer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ymer",
-        "pubdate": "Fri, 25 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernie Marsden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bernie%20Marsden",
-        "pubdate": "Fri, 25 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
