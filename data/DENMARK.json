@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-08-2023 , 19:54:41",
+  "lastUpdate": "28-08-2023 , 20:10:45",
   "data": [
     [
       {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open",
+        "title": "U.S. Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#U.S.%20Open",
         "pubdate": "Mon, 28 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Abaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Abaya",
-        "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Holger Rune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
         "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Abaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Abaya",
+        "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Vuelta a espana 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20espana%202023",
-        "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iss",
         "pubdate": "Mon, 28 Aug 2023 13:00:00 +0200"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mallorca",
+        "pubdate": "Mon, 28 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia%20stock",
         "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
@@ -69,6 +69,20 @@
         "title": "Corona 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Corona%202023",
         "pubdate": "Mon, 28 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mitchel Musso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mitchel%20Musso",
+        "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robotyne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robotyne",
+        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Usyk vs Dubois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Usyk%20vs%20Dubois",
         "pubdate": "Sun, 27 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jakob%20Ingebrigtsen",
-        "pubdate": "Sun, 27 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gemini Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gemini%20Man",
-        "pubdate": "Sun, 27 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
