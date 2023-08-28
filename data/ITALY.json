@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2023 , 02:56:14",
+  "lastUpdate": "28-08-2023 , 03:13:10",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Genova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genova",
+        "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pino Daniele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pino%20Daniele",
         "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -62,6 +69,13 @@
         "title": "Lindstrom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lindstrom",
         "pubdate": "Sun, 27 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roberto Mancini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Mancini",
+        "pubdate": "Sun, 27 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Cagliari-Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cagliari-Inter",
         "pubdate": "Sun, 27 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roberto Mancini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Mancini",
-        "pubdate": "Sun, 27 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Il sapore del successo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20sapore%20del%20successo",
-        "pubdate": "Sun, 27 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
