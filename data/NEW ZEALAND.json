@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-08-2023 , 23:56:36",
+  "lastUpdate": "28-08-2023 , 00:59:46",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
+        "pubdate": "Mon, 28 Aug 2023 07:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "F1 results",
@@ -10,29 +17,8 @@
     ],
     [
       {
-        "title": "Newcastle vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20Liverpool",
-        "pubdate": "Mon, 28 Aug 2023 07:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Steve Harvey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steve%20Harvey",
-        "pubdate": "Mon, 28 Aug 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield United vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sheffield%20United%20vs%20Man%20City",
-        "pubdate": "Mon, 28 Aug 2023 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Winston Peters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Winston%20Peters",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
         "pubdate": "Mon, 28 Aug 2023 08:00:00 +1200"
       }
     ],
@@ -45,15 +31,29 @@
     ],
     [
       {
-        "title": "France vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#France%20vs%20Australia",
-        "pubdate": "Sun, 27 Aug 2023 06:00:00 +1200"
+        "title": "Steve Harvey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steve%20Harvey",
+        "pubdate": "Mon, 28 Aug 2023 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Winston Peters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Winston%20Peters",
+        "pubdate": "Mon, 28 Aug 2023 08:00:00 +1200"
       }
     ],
     [
       {
         "title": "Fiji vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fiji%20vs%20England",
+        "pubdate": "Sun, 27 Aug 2023 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "France vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#France%20vs%20Australia",
         "pubdate": "Sun, 27 Aug 2023 06:00:00 +1200"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "USA vs NZ Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#USA%20vs%20NZ%20Basketball",
-        "pubdate": "Sun, 27 Aug 2023 10:00:00 +1200"
+        "title": "Mea Motu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mea%20Motu",
+        "pubdate": "Sun, 27 Aug 2023 09:00:00 +1200"
       }
     ]
   ]
