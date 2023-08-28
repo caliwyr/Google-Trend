@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2023 , 17:52:23",
+  "lastUpdate": "28-08-2023 , 18:08:28",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#US%20Open",
+        "title": "U.S. Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#U.S.%20Open",
         "pubdate": "Mon, 28 Aug 2023 19:00:00 +1000"
       }
     ],
@@ -69,13 +69,6 @@
         "title": "Anthony Albanese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Albanese",
         "pubdate": "Mon, 28 Aug 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Gina Chick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gina%20Chick",
-        "pubdate": "Mon, 28 Aug 2023 21:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
         "pubdate": "Sun, 27 Aug 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "AFL Finals 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20Finals%202023",
+        "pubdate": "Sun, 27 Aug 2023 07:00:00 +1000"
       }
     ]
   ]
