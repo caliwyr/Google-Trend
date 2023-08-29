@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2023 , 23:56:58",
+  "lastUpdate": "29-08-2023 , 01:02:00",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Robotyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robotyne",
-        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mohamed Salah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mohamed%20Salah",
         "pubdate": "Mon, 28 Aug 2023 13:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Andreas Kron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andreas%20Kron",
         "pubdate": "Sun, 27 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nova Scotia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nova%20Scotia",
+        "pubdate": "Sun, 27 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
