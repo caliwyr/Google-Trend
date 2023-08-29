@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-08-2023 , 03:56:31",
+  "lastUpdate": "29-08-2023 , 04:15:42",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US%20Open",
         "pubdate": "Mon, 28 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EVG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EVG",
-        "pubdate": "Mon, 28 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "EVG Urabstimmung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EVG%20Urabstimmung",
+        "pubdate": "Mon, 28 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lamine%20Yamal",
         "pubdate": "Mon, 28 Aug 2023 10:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mallorca",
-        "pubdate": "Sun, 27 Aug 2023 23:00:00 +0200"
+        "title": "Jürgen von der Lippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20von%20der%20Lippe",
+        "pubdate": "Sun, 27 Aug 2023 06:00:00 +0200"
       }
     ],
     [
