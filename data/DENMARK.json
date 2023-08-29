@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-08-2023 , 01:02:00",
+  "lastUpdate": "29-08-2023 , 02:17:43",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "NVIDIA stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NVIDIA%20stock",
+        "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mitchel Musso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mitchel%20Musso",
         "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
@@ -90,6 +97,13 @@
         "title": "Lourdes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lourdes",
         "pubdate": "Mon, 28 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robotyne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robotyne",
+        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Drea de Matteo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Drea%20de%20Matteo",
         "pubdate": "Sun, 27 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andreas Kron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Andreas%20Kron",
-        "pubdate": "Sun, 27 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nova Scotia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nova%20Scotia",
-        "pubdate": "Sun, 27 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
