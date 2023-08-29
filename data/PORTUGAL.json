@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-08-2023 , 07:51:25",
+  "lastUpdate": "29-08-2023 , 08:07:00",
   "data": [
-    [
-      {
-        "title": "João Félix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20F%C3%A9lix",
-        "pubdate": "Tue, 29 Aug 2023 03:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Praia dos Galapinhos",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Al Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Ittihad",
-        "pubdate": "Tue, 29 Aug 2023 02:00:00 +0100"
+        "title": "João Félix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20F%C3%A9lix",
+        "pubdate": "Tue, 29 Aug 2023 03:00:00 +0100"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Robotyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Robotyne",
         "pubdate": "Tue, 29 Aug 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "João Catarré",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Catarr%C3%A9",
+        "pubdate": "Mon, 28 Aug 2023 14:00:00 +0100"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Rayo Vallecano  Atlético Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rayo%20Vallecano%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Mon, 28 Aug 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al-Hilal  Al-Ettifaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Hilal%20%20Al-Ettifaq",
-        "pubdate": "Mon, 28 Aug 2023 19:00:00 +0100"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Taremi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taremi",
-        "pubdate": "Mon, 28 Aug 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "US Open 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#US%20Open%202023",
         "pubdate": "Mon, 28 Aug 2023 23:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Grêmio  Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gr%C3%AAmio%20%20Cruzeiro",
         "pubdate": "Mon, 28 Aug 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cagliari  Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cagliari%20%20Inter",
+        "pubdate": "Mon, 28 Aug 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Quim Barreiros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quim%20Barreiros",
+        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0100"
       }
     ]
   ]
