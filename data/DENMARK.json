@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-08-2023 , 14:54:59",
+  "lastUpdate": "29-08-2023 , 15:11:25",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "US Open 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open%202023",
         "pubdate": "Mon, 28 Aug 2023 14:00:00 +0200"
@@ -52,15 +59,8 @@
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vuelta a espana 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20espana%202023",
+        "title": "Vuelta a Espana 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20Espana%202023",
         "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
       }
     ],
@@ -82,6 +82,13 @@
       {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Celine%20Dion",
+        "pubdate": "Mon, 28 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mallorca",
         "pubdate": "Mon, 28 Aug 2023 21:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mallorca",
-        "pubdate": "Mon, 28 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NVIDIA stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NVIDIA%20stock",
         "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "EUROSPORT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#EUROSPORT",
+        "title": "Eurosport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eurosport",
         "pubdate": "Mon, 28 Aug 2023 22:00:00 +0200"
       }
     ]
