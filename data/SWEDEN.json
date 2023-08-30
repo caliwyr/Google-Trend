@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2023 , 08:49:19",
+  "lastUpdate": "30-08-2023 , 08:58:31",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Florida",
-        "pubdate": "Wed, 30 Aug 2023 08:00:00 +0200"
+        "title": "Tuva Novotny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tuva%20Novotny",
+        "pubdate": "Wed, 30 Aug 2023 05:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AI",
-        "pubdate": "Tue, 29 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Peter turchin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20turchin",
         "pubdate": "Tue, 29 Aug 2023 14:00:00 +0200"
@@ -66,8 +59,22 @@
     ],
     [
       {
+        "title": "AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AI",
+        "pubdate": "Tue, 29 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hanna Ferm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hanna%20Ferm",
+        "pubdate": "Tue, 29 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ockelbo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ockelbo",
         "pubdate": "Tue, 29 Aug 2023 21:00:00 +0200"
       }
     ],
@@ -90,6 +97,13 @@
         "title": "Kristallen 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristallen%202023",
         "pubdate": "Mon, 28 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Idol 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idol%202023",
+        "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Händelser vid vatten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4ndelser%20vid%20vatten",
-        "pubdate": "Mon, 28 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
-        "pubdate": "Mon, 28 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Idol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idol",
-        "pubdate": "Mon, 28 Aug 2023 20:00:00 +0200"
+        "title": "Alexander Isak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Isak",
+        "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
       }
     ]
   ]

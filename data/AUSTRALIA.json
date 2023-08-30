@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2023 , 08:49:10",
+  "lastUpdate": "30-08-2023 , 08:58:23",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Hurricane Idalia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hurricane%20Idalia",
+        "pubdate": "Wed, 30 Aug 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlos%20Alcaraz",
         "pubdate": "Wed, 30 Aug 2023 12:00:00 +1000"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Hurricane Idalia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hurricane%20Idalia",
-        "pubdate": "Wed, 30 Aug 2023 10:00:00 +1000"
+        "title": "Nepal vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nepal%20vs%20Pakistan",
+        "pubdate": "Wed, 30 Aug 2023 14:00:00 +1000"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Nepal vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nepal%20vs%20Pakistan",
-        "pubdate": "Wed, 30 Aug 2023 14:00:00 +1000"
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adele",
+        "pubdate": "Wed, 30 Aug 2023 16:00:00 +1000"
       }
     ],
     [
@@ -66,30 +73,9 @@
     ],
     [
       {
-        "title": "Adele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adele",
-        "pubdate": "Wed, 30 Aug 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Spanish Football Luis Rubiales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spanish%20Football%20Luis%20Rubiales",
         "pubdate": "Wed, 30 Aug 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tennis",
-        "pubdate": "Wed, 30 Aug 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "FIBA Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FIBA%20Basketball",
-        "pubdate": "Wed, 30 Aug 2023 14:00:00 +1000"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "US Open Tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#US%20Open%20Tennis",
-        "pubdate": "Tue, 29 Aug 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Onyx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Onyx",
         "pubdate": "Tue, 29 Aug 2023 06:00:00 +1000"
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Ibex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ibex",
-        "pubdate": "Tue, 29 Aug 2023 07:00:00 +1000"
+        "title": "Lynx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lynx",
+        "pubdate": "Tue, 29 Aug 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Mike Enriquez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mike%20Enriquez",
+        "pubdate": "Tue, 29 Aug 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Linda Burney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Linda%20Burney",
+        "pubdate": "Tue, 29 Aug 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
+        "pubdate": "Tue, 29 Aug 2023 16:00:00 +1000"
       }
     ]
   ]
