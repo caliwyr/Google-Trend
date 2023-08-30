@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2023 , 07:48:27",
+  "lastUpdate": "30-08-2023 , 07:57:50",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
-        "pubdate": "Wed, 30 Aug 2023 07:00:00 +0800"
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
+        "pubdate": "Wed, 30 Aug 2023 03:00:00 +0800"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Cucurella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cucurella",
+        "pubdate": "Wed, 30 Aug 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Bali earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bali%20earthquake",
         "pubdate": "Tue, 29 Aug 2023 09:00:00 +0800"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Onyx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Onyx",
-        "pubdate": "Tue, 29 Aug 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Bali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bali",
         "pubdate": "Tue, 29 Aug 2023 21:00:00 +0800"
@@ -69,6 +69,13 @@
         "title": "VinFast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#VinFast",
         "pubdate": "Tue, 29 Aug 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sea of Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sea%20of%20Stars",
+        "pubdate": "Tue, 29 Aug 2023 19:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Noah Lyles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Noah%20Lyles",
         "pubdate": "Mon, 28 Aug 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bob Barker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bob%20Barker",
-        "pubdate": "Sun, 27 Aug 2023 09:00:00 +0800"
       }
     ]
   ]
