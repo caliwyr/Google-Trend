@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2023 , 23:50:13",
+  "lastUpdate": "30-08-2023 , 23:59:37",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Saibari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Saibari",
-        "pubdate": "Wed, 30 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gabon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gabon",
         "pubdate": "Wed, 30 Aug 2023 09:00:00 +0200"
@@ -34,13 +27,6 @@
         "title": "Ruud de Wild",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ruud%20de%20Wild",
         "pubdate": "Wed, 30 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florida",
-        "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,6 +66,20 @@
     ],
     [
       {
+        "title": "Florida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florida",
+        "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beter Laat Dan Nooit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beter%20Laat%20Dan%20Nooit",
+        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Opsporing Verzocht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Opsporing%20Verzocht",
         "pubdate": "Wed, 30 Aug 2023 07:00:00 +0200"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Silberbauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Silberbauer",
-        "pubdate": "Tue, 29 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#US%20Open",
         "pubdate": "Mon, 28 Aug 2023 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
         "pubdate": "Mon, 28 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Almere City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
+        "pubdate": "Mon, 28 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
