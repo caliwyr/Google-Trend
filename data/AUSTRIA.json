@@ -1,25 +1,18 @@
 {
-  "lastUpdate": "30-08-2023 , 22:46:37",
+  "lastUpdate": "30-08-2023 , 22:55:53",
   "data": [
+    [
+      {
+        "title": "Ali Bongo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ali%20Bongo",
+        "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Vollmond August",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vollmond%20August",
         "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joyn",
-        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mietpreisdeckel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mietpreisdeckel",
-        "pubdate": "Wed, 30 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Hot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hot",
-        "pubdate": "Wed, 30 Aug 2023 12:00:00 +0200"
+        "title": "Sebastian Ofner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Ofner",
+        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Hurricane Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hurricane%20Florida",
+        "title": "Florida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Florida",
         "pubdate": "Wed, 30 Aug 2023 13:00:00 +0200"
       }
     ],
@@ -73,16 +66,9 @@
     ],
     [
       {
-        "title": "Christoph Freund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christoph%20Freund",
-        "pubdate": "Wed, 30 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ronaldo",
-        "pubdate": "Wed, 30 Aug 2023 17:00:00 +0200"
+        "title": "Ofner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ofner",
+        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -97,6 +83,20 @@
         "title": "Fairphone 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fairphone%205",
         "pubdate": "Wed, 30 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ronaldo",
+        "pubdate": "Wed, 30 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mietpreisdeckel Österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mietpreisdeckel%20%C3%96sterreich",
+        "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Clemens Doppler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Clemens%20Doppler",
-        "pubdate": "Wed, 30 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
         "pubdate": "Wed, 30 Aug 2023 22:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Ofner Sebastian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ofner%20Sebastian",
-        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
+        "title": "Falafel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Falafel",
+        "pubdate": "Wed, 30 Aug 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Agnetha Fältskog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Agnetha%20F%C3%A4ltskog",
+        "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
