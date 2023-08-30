@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-08-2023 , 02:56:20",
+  "lastUpdate": "30-08-2023 , 03:13:06",
   "data": [
-    [
-      {
-        "title": "Joana Machado Madeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Machado%20Madeira",
-        "pubdate": "Wed, 30 Aug 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Florida",
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Lua Azul 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lua%20Azul%202023",
+        "title": "LUA AZUL 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#LUA%20AZUL%202023",
         "pubdate": "Tue, 29 Aug 2023 01:00:00 +0100"
       }
     ],
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Kanye West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kanye%20West",
+        "pubdate": "Tue, 29 Aug 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Quarteira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quarteira",
         "pubdate": "Tue, 29 Aug 2023 13:00:00 +0100"
@@ -83,13 +83,6 @@
         "title": "Praia dos Galapinhos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Praia%20dos%20Galapinhos",
         "pubdate": "Tue, 29 Aug 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zila",
-        "pubdate": "Tue, 29 Aug 2023 19:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Kanye West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kanye%20West",
-        "pubdate": "Tue, 29 Aug 2023 16:00:00 +0100"
+        "title": "Nova lei da droga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nova%20lei%20da%20droga",
+        "pubdate": "Tue, 29 Aug 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Beto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beto",
+        "pubdate": "Tue, 29 Aug 2023 17:00:00 +0100"
       }
     ]
   ]
