@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-08-2023 , 13:50:35",
+  "lastUpdate": "30-08-2023 , 13:59:59",
   "data": [
     [
       {
         "title": "Gabon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gabon",
         "pubdate": "Wed, 30 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gaslighting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaslighting",
+        "pubdate": "Wed, 30 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
-        "pubdate": "Wed, 30 Aug 2023 11:00:00 +0200"
+        "title": "Florida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florida",
+        "pubdate": "Wed, 30 Aug 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florida",
-        "pubdate": "Wed, 30 Aug 2023 13:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
+        "pubdate": "Wed, 30 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -40,7 +47,7 @@
       {
         "title": "Molde - Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20-%20Galatasaray",
-        "pubdate": "Tue, 29 Aug 2023 19:00:00 +0200"
+        "pubdate": "Tue, 29 Aug 2023 16:00:00 +0200"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Tue, 29 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emil Breivik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emil%20Breivik",
-        "pubdate": "Tue, 29 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Kaizers Orchestra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaizers%20Orchestra",
         "pubdate": "Tue, 29 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Raymond Johansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raymond%20Johansen",
-        "pubdate": "Tue, 29 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Høyre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8yre",
         "pubdate": "Mon, 28 Aug 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#US%20Open",
+        "pubdate": "Mon, 28 Aug 2023 10:00:00 +0200"
       }
     ]
   ]
