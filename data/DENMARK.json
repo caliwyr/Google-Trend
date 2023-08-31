@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-08-2023 , 06:46:44",
+  "lastUpdate": "31-08-2023 , 06:56:03",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Blue Moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Blue%20Moon",
+        "title": "Blue moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Blue%20moon",
         "pubdate": "Wed, 30 Aug 2023 14:00:00 +0200"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Wozniacki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wozniacki",
+        "pubdate": "Tue, 29 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Paris Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paris%20Jackson",
         "pubdate": "Tue, 29 Aug 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Kanye West",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kanye%20West",
         "pubdate": "Tue, 29 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Henry%20Cavill",
-        "pubdate": "Tue, 29 Aug 2023 19:00:00 +0200"
       }
     ]
   ]
