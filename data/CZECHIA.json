@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "31-08-2023 , 22:53:23",
+  "lastUpdate": "31-08-2023 , 23:08:02",
   "data": [
     [
       {
         "title": "Sparta – Dinamo Záhřeb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20%E2%80%93%20Dinamo%20Z%C3%A1h%C5%99eb",
+        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Plzeň – Tobol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Tobol",
         "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Los Evropské ligy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Evropsk%C3%A9%20ligy",
-        "pubdate": "Thu, 31 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jakub Menšík",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Men%C5%A1%C3%ADk",
         "pubdate": "Thu, 31 Aug 2023 09:00:00 +0200"
@@ -69,13 +69,6 @@
         "title": "Alfa Romeo 33 Stradale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alfa%20Romeo%2033%20Stradale",
         "pubdate": "Thu, 31 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Přemek Forejt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C5%99emek%20Forejt",
-        "pubdate": "Thu, 31 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Vašo Patejdl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Va%C5%A1o%20Patejdl",
-        "pubdate": "Wed, 30 Aug 2023 20:00:00 +0200"
+        "title": "Modrý Měsíc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Modr%C3%BD%20M%C4%9Bs%C3%ADc",
+        "pubdate": "Wed, 30 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Modrý Měsíc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Modr%C3%BD%20M%C4%9Bs%C3%ADc",
-        "pubdate": "Wed, 30 Aug 2023 17:00:00 +0200"
+        "title": "Patejdl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patejdl",
+        "pubdate": "Wed, 30 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Kraus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kraus",
         "pubdate": "Wed, 30 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kamu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamu",
+        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
       }
     ],
     [

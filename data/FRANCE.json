@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "31-08-2023 , 22:53:24",
+  "lastUpdate": "31-08-2023 , 23:08:03",
   "data": [
+    [
+      {
+        "title": "Sylvain Tesson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvain%20Tesson",
+        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cruella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cruella",
+        "pubdate": "Thu, 31 Aug 2023 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Idriss Aberkane Polytechnique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Idriss%20Aberkane%20Polytechnique",
         "pubdate": "Thu, 31 Aug 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Qamis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Qamis",
-        "pubdate": "Thu, 31 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Gad Elmaleh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gad%20Elmaleh",
         "pubdate": "Thu, 31 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rijeka – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rijeka%20%E2%80%93%20Lille",
+        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
-        "pubdate": "Thu, 31 Aug 2023 12:00:00 +0200"
+        "title": "Lenny Martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lenny%20Martinez",
+        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -62,6 +76,20 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
         "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
+        "pubdate": "Thu, 31 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nouveau variant Covid Pirola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nouveau%20variant%20Covid%20Pirola",
+        "pubdate": "Thu, 31 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -80,13 +108,6 @@
     ],
     [
       {
-        "title": "Nouveau variant Covid Pirola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nouveau%20variant%20Covid%20Pirola",
-        "pubdate": "Thu, 31 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mitch McConnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mitch%20McConnell",
         "pubdate": "Thu, 31 Aug 2023 10:00:00 +0200"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Cyril Hanouna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
-        "pubdate": "Thu, 31 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UEFA",
         "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Equipe de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Equipe%20de%20France",
-        "pubdate": "Thu, 31 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Clement Beaune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clement%20Beaune",
+        "title": "Cyril Hanouna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
         "pubdate": "Thu, 31 Aug 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle",
-        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antoine Dupont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Antoine%20Dupont",
-        "pubdate": "Thu, 31 Aug 2023 09:00:00 +0200"
+        "title": "Equipe de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Equipe%20de%20France",
+        "pubdate": "Thu, 31 Aug 2023 16:00:00 +0200"
       }
     ]
   ]
