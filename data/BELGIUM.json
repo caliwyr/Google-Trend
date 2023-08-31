@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-08-2023 , 18:47:03",
+  "lastUpdate": "31-08-2023 , 18:56:33",
   "data": [
     [
       {
-        "title": "Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
         "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Club Brugge  Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Osasuna",
+        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA",
         "pubdate": "Thu, 31 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lenny Martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lenny%20Martinez",
-        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,15 @@
     ],
     [
       {
-        "title": "Saibari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saibari",
+        "title": "Idriss Aberkane polytechnique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Idriss%20Aberkane%20polytechnique",
+        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Balikwisha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Balikwisha",
         "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Pico del Buitre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pico%20del%20Buitre",
-        "pubdate": "Thu, 31 Aug 2023 17:00:00 +0200"
+        "title": "Sepp Kuss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sepp%20Kuss",
+        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Sepp Kuss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sepp%20Kuss",
-        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ernest Nuamah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ernest%20Nuamah",
         "pubdate": "Thu, 31 Aug 2023 09:00:00 +0200"
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Dirk Demol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dirk%20Demol",
-        "pubdate": "Thu, 31 Aug 2023 16:00:00 +0200"
+        "title": "Helmut Lotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helmut%20Lotti",
+        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Idriss Aberkane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Idriss%20Aberkane",
-        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
+        "title": "Starfield review",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Starfield%20review",
+        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eerste schooldag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eerste%20schooldag",
+        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
       }
     ],
     [
@@ -103,13 +110,6 @@
       {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
-        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Club Brugge Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20Osasuna",
         "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Mustii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mustii",
-        "pubdate": "Wed, 30 Aug 2023 13:00:00 +0200"
+        "title": "Champions League loting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League%20loting",
+        "pubdate": "Wed, 30 Aug 2023 23:00:00 +0200"
       }
     ]
   ]
