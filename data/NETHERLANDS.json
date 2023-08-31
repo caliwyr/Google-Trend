@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-08-2023 , 07:49:38",
+  "lastUpdate": "31-08-2023 , 07:59:08",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Saibari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Saibari",
+        "pubdate": "Wed, 30 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gabon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gabon",
         "pubdate": "Wed, 30 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Blauwe supermaan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blauwe%20supermaan",
+        "pubdate": "Wed, 30 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ruud de Wild",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ruud%20de%20Wild",
+        "pubdate": "Wed, 30 Aug 2023 11:00:00 +0200"
       }
     ],
     [
@@ -45,23 +66,9 @@
     ],
     [
       {
-        "title": "Johan Derksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Derksen",
-        "pubdate": "Wed, 30 Aug 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wopke Hoekstra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wopke%20Hoekstra",
         "pubdate": "Wed, 30 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Blauwe maan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blauwe%20maan",
-        "pubdate": "Tue, 29 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Loch Ness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Loch%20Ness",
         "pubdate": "Sat, 26 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
-        "pubdate": "Fri, 25 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
