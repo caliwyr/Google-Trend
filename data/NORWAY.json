@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-08-2023 , 13:47:50",
+  "lastUpdate": "31-08-2023 , 13:57:04",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Moulin Rouge!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moulin%20Rouge!",
+        "title": "Moulin Rouge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moulin%20Rouge",
         "pubdate": "Thu, 31 Aug 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sivert Mannsverk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sivert%20Mannsverk",
+        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Sivert Mannsverk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sivert%20Mannsverk",
-        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
+        "title": "Chateau Neuf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chateau%20Neuf",
+        "pubdate": "Thu, 31 Aug 2023 15:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Molde Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20Galatasaray",
+        "title": "Galatasaray-Molde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Galatasaray-Molde",
         "pubdate": "Tue, 29 Aug 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Molde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
-        "pubdate": "Tue, 29 Aug 2023 23:00:00 +0200"
       }
     ]
   ]

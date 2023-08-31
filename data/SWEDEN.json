@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-08-2023 , 13:47:53",
+  "lastUpdate": "31-08-2023 , 13:57:06",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Gröna Lund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%B6na%20Lund",
-        "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Joel Lundqvist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joel%20Lundqvist",
-        "pubdate": "Wed, 30 Aug 2023 19:00:00 +0200"
+        "title": "Agnetha Fältskog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Agnetha%20F%C3%A4ltskog",
+        "pubdate": "Wed, 30 Aug 2023 10:00:00 +0200"
       }
     ],
     [
@@ -89,6 +82,13 @@
       {
         "title": "Florida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Florida",
+        "pubdate": "Wed, 30 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Finnkampen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finnkampen",
         "pubdate": "Wed, 30 Aug 2023 08:00:00 +0200"
       }
     ],
