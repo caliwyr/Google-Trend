@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 17:54:53",
+  "lastUpdate": "01-09-2023 , 18:11:32",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Gotthardtunnel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthardtunnel",
+        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Prinz Harry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinz%20Harry",
         "pubdate": "Fri, 01 Sep 2023 12:00:00 +0200"
@@ -73,20 +80,6 @@
     ],
     [
       {
-        "title": "BSC YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BSC%20YB",
-        "pubdate": "Fri, 01 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gotthard-Tunnel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
-        "pubdate": "Fri, 01 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
         "pubdate": "Fri, 01 Sep 2023 17:00:00 +0200"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Klaassen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klaassen",
-        "pubdate": "Fri, 01 Sep 2023 12:00:00 +0200"
+        "title": "Matteo Berrettini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matteo%20Berrettini",
+        "pubdate": "Fri, 01 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -111,13 +104,6 @@
         "title": "ABBA Agnetha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ABBA%20Agnetha",
         "pubdate": "Fri, 01 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matteo Berrettini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matteo%20Berrettini",
-        "pubdate": "Fri, 01 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Capital Bra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Capital%20Bra",
+        "pubdate": "Fri, 01 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lenny Martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lenny%20Martinez",
         "pubdate": "Fri, 01 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lewis%20Hamilton",
+        "pubdate": "Fri, 01 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
