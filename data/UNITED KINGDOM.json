@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 12:51:21",
+  "lastUpdate": "01-09-2023 , 13:06:55",
   "data": [
     [
       {
@@ -34,6 +34,20 @@
         "title": "House prices",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#House%20prices",
         "pubdate": "Fri, 01 Sep 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#UCL",
+        "pubdate": "Fri, 01 Sep 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Villa",
+        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
       }
     ],
     [
@@ -108,15 +122,15 @@
     ],
     [
       {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Andrew%20Tate",
+        "title": "Ricky Hatton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ricky%20Hatton",
         "pubdate": "Thu, 31 Aug 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ricky Hatton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ricky%20Hatton",
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Andrew%20Tate",
         "pubdate": "Thu, 31 Aug 2023 22:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Glen Kamara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Glen%20Kamara",
         "pubdate": "Thu, 31 Aug 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Big Zuu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Big%20Zuu",
-        "pubdate": "Thu, 31 Aug 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Beto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Beto",
-        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0100"
       }
     ]
   ]
