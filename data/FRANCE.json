@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-09-2023 , 21:00:55",
+  "lastUpdate": "01-09-2023 , 21:15:26",
   "data": [
+    [
+      {
+        "title": "Nantes – Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes%20%E2%80%93%20Marseille",
+        "pubdate": "Fri, 01 Sep 2023 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ekitike",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starfield",
-        "pubdate": "Fri, 01 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nantes – Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes%20%E2%80%93%20Marseille",
-        "pubdate": "Fri, 01 Sep 2023 19:00:00 +0200"
+        "title": "Florent Pagny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Florent%20Pagny",
+        "pubdate": "Fri, 01 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tesla",
-        "pubdate": "Fri, 01 Sep 2023 10:00:00 +0200"
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starfield",
+        "pubdate": "Fri, 01 Sep 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc",
-        "pubdate": "Fri, 01 Sep 2023 03:00:00 +0200"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tesla",
+        "pubdate": "Fri, 01 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,30 @@
     ],
     [
       {
+        "title": "Maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc",
+        "pubdate": "Fri, 01 Sep 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Capitaine Marleau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Capitaine%20Marleau",
+        "pubdate": "Fri, 01 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ludovic Vaty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ludovic%20Vaty",
         "pubdate": "Fri, 01 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UFC%20Paris",
+        "pubdate": "Fri, 01 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,6 +87,13 @@
     ],
     [
       {
+        "title": "Akouokou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Akouokou",
+        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Andy Carroll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andy%20Carroll",
         "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
@@ -73,8 +101,15 @@
     ],
     [
       {
-        "title": "Vincent Lacoste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vincent%20Lacoste",
+        "title": "Mayday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mayday",
+        "pubdate": "Fri, 01 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lionel Jospin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lionel%20Jospin",
         "pubdate": "Fri, 01 Sep 2023 10:00:00 +0200"
       }
     ],
@@ -87,13 +122,6 @@
     ],
     [
       {
-        "title": "Lionel Jospin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lionel%20Jospin",
-        "pubdate": "Fri, 01 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rose Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rose%20Festival",
         "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
@@ -101,9 +129,9 @@
     ],
     [
       {
-        "title": "Sochaux – GOAL FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sochaux%20%E2%80%93%20GOAL%20FC",
-        "pubdate": "Fri, 01 Sep 2023 21:00:00 +0200"
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joao%20Felix",
+        "pubdate": "Fri, 01 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Gaël Monfils",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
         "pubdate": "Fri, 01 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Akouokou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Akouokou",
-        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zendaya",
-        "pubdate": "Fri, 01 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AC%20Milan",
-        "pubdate": "Fri, 01 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brighton",
-        "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
