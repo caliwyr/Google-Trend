@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-09-2023 , 05:52:57",
+  "lastUpdate": "01-09-2023 , 06:10:29",
   "data": [
     [
       {
         "title": "Spring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spring",
         "pubdate": "Fri, 01 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "September",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#September",
+        "pubdate": "Fri, 01 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -19,13 +26,6 @@
       {
         "title": "Marshalltown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marshalltown",
-        "pubdate": "Thu, 31 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20League%20draw",
         "pubdate": "Thu, 31 Aug 2023 09:00:00 +0200"
       }
     ],
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "Mbuleli Mathanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mbuleli%20Mathanga",
-        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bafana Bafana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-        "pubdate": "Thu, 31 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mitch McConnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mitch%20McConnell",
         "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Champions League draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20League%20draw",
+        "pubdate": "Wed, 30 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Australia vs South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20South%20Africa",
         "pubdate": "Wed, 30 Aug 2023 08:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Chelsea vs AFC Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20AFC%20Wimbledon",
         "pubdate": "Wed, 30 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
+        "pubdate": "Wed, 30 Aug 2023 20:00:00 +0200"
       }
     ]
   ]
