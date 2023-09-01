@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 07:49:41",
+  "lastUpdate": "01-09-2023 , 07:58:52",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
-        "pubdate": "Fri, 01 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Olimpia  Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olimpia%20%20Fluminense",
         "pubdate": "Fri, 01 Sep 2023 06:00:00 +0100"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Fernando Cunha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Cunha",
-        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
+        "pubdate": "Fri, 01 Sep 2023 01:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Palmeiras  Deportivo Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Deportivo%20Pereira",
         "pubdate": "Thu, 31 Aug 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mitch McConnell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mitch%20McConnell",
+        "pubdate": "Thu, 31 Aug 2023 01:00:00 +0100"
       }
     ]
   ]

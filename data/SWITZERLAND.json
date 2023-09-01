@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 07:49:43",
+  "lastUpdate": "01-09-2023 , 07:58:54",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Abba Agnetha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abba%20Agnetha",
+        "title": "ABBA Agnetha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ABBA%20Agnetha",
         "pubdate": "Fri, 01 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tesla Model 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla%20Model%203",
+        "pubdate": "Fri, 01 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monza",
         "pubdate": "Fri, 01 Sep 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tirage au sort Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tirage%20au%20sort%20Europa%20League",
-        "pubdate": "Fri, 01 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
+        "title": "Luca Hänni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luca%20H%C3%A4nni",
         "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
       }
     ],
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Thu, 31 Aug 2023 13:00:00 +0200"
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
+        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Luca Hänni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luca%20H%C3%A4nni",
-        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0200"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "pubdate": "Thu, 31 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Letzigrund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Letzigrund",
-        "pubdate": "Thu, 31 Aug 2023 16:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
+        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Dominic Thiem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Thiem",
         "pubdate": "Thu, 31 Aug 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
-        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gaspard Lamunière",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gaspard%20Lamuni%C3%A8re",
         "pubdate": "Thu, 31 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Liverpool",
+        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
