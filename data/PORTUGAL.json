@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-09-2023 , 08:49:28",
+  "lastUpdate": "01-09-2023 , 08:58:51",
   "data": [
-    [
-      {
-        "title": "São Paulo x LDU Quito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A3o%20Paulo%20x%20LDU%20Quito",
-        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Bolsonaro",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "CS2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CS2",
-        "pubdate": "Fri, 01 Sep 2023 02:00:00 +0100"
+        "title": "Bernat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernat",
+        "pubdate": "Fri, 01 Sep 2023 09:00:00 +0100"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "CS2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CS2",
+        "pubdate": "Fri, 01 Sep 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
         "pubdate": "Fri, 01 Sep 2023 01:00:00 +0100"
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Fernando Cunha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Cunha",
+        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rotten Tomatoes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rotten%20Tomatoes",
         "pubdate": "Fri, 01 Sep 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Transferências futebol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Transfer%C3%AAncias%20futebol",
+        "pubdate": "Fri, 01 Sep 2023 07:00:00 +0100"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Haaland",
-        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Sociedad",
         "pubdate": "Thu, 31 Aug 2023 18:00:00 +0100"
@@ -97,6 +104,13 @@
         "title": "Starfield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Starfield",
         "pubdate": "Thu, 31 Aug 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "São Paulo x LDU Quito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A3o%20Paulo%20x%20LDU%20Quito",
+        "pubdate": "Thu, 31 Aug 2023 10:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Blur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Blur",
         "pubdate": "Thu, 31 Aug 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Palmeiras  Deportivo Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Deportivo%20Pereira",
-        "pubdate": "Thu, 31 Aug 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mitch McConnell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mitch%20McConnell",
-        "pubdate": "Thu, 31 Aug 2023 01:00:00 +0100"
       }
     ]
   ]
