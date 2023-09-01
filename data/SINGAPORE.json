@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 11:57:38",
+  "lastUpdate": "01-09-2023 , 12:28:43",
   "data": [
     [
       {
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Hong Kong typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20typhoon",
+        "title": "Hong Kong Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20Typhoon",
         "pubdate": "Thu, 31 Aug 2023 13:00:00 +0800"
       }
     ],
@@ -97,6 +97,13 @@
         "title": "Supermoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Supermoon",
         "pubdate": "Thu, 31 Aug 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "MoneyOwl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MoneyOwl",
+        "pubdate": "Thu, 31 Aug 2023 20:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Everton",
         "pubdate": "Thu, 31 Aug 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
-        "pubdate": "Thu, 31 Aug 2023 21:00:00 +0800"
       }
     ]
   ]
