@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 17:52:16",
+  "lastUpdate": "02-09-2023 , 18:06:53",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Cirstea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cirstea",
+        "pubdate": "Sat, 02 Sep 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Caroline Wozniacki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Caroline%20Wozniacki",
         "pubdate": "Sat, 02 Sep 2023 00:00:00 -0400"
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Cirstea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cirstea",
-        "pubdate": "Sat, 02 Sep 2023 00:00:00 -0400"
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cricket",
+        "pubdate": "Sat, 02 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid vs Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Getafe",
+        "pubdate": "Sat, 02 Sep 2023 12:00:00 -0400"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Real Madrid vs Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Getafe",
+        "title": "Chelsea vs nottm Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea%20vs%20nottm%20Forest",
         "pubdate": "Sat, 02 Sep 2023 12:00:00 -0400"
       }
     ],
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Chelsea vs nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea%20vs%20nottm%20Forest",
+        "title": "Burnley vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Burnley%20vs%20Tottenham",
         "pubdate": "Sat, 02 Sep 2023 12:00:00 -0400"
       }
     ],
@@ -69,13 +83,6 @@
         "title": "UTMB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UTMB",
         "pubdate": "Sat, 02 Sep 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Burnley vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Burnley%20vs%20Tottenham",
-        "pubdate": "Sat, 02 Sep 2023 12:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wheel of Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wheel%20of%20Time",
         "pubdate": "Fri, 01 Sep 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Blue Jays vs Rockies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20vs%20Rockies",
-        "pubdate": "Fri, 01 Sep 2023 22:00:00 -0400"
       }
     ]
   ]
