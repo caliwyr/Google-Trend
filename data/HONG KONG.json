@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 01:34:00",
+  "lastUpdate": "02-09-2023 , 02:02:19",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "輕鐵",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%BC%95%E9%90%B5",
-        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Hong Kong news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Hong%20Kong%20news",
         "pubdate": "Fri, 01 Sep 2023 08:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "AIRSIDE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#AIRSIDE",
         "pubdate": "Fri, 01 Sep 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "華為Mate 60",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%8F%AF%E7%82%BAMate%2060",
+        "pubdate": "Fri, 01 Sep 2023 01:00:00 +0800"
       }
     ]
   ]

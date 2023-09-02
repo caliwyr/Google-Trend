@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 01:34:04",
+  "lastUpdate": "02-09-2023 , 02:02:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Schjelderup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Schjelderup",
         "pubdate": "Sat, 02 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cole Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cole%20Palmer",
+        "pubdate": "Sat, 02 Sep 2023 02:00:00 +0100"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Al-Ittihad  Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Ittihad%20%20Al-Hilal",
-        "pubdate": "Fri, 01 Sep 2023 19:00:00 +0100"
+        "title": "Rakow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rakow",
+        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rakow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rakow",
-        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
+        "title": "Al-Ittihad  Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Ittihad%20%20Al-Hilal",
+        "pubdate": "Fri, 01 Sep 2023 19:00:00 +0100"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Vizela. Gil Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela.%20Gil%20Vicente",
+        "title": "Vizela  Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20%20Gil%20Vicente",
         "pubdate": "Fri, 01 Sep 2023 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "CS2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CS2",
         "pubdate": "Fri, 01 Sep 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bjork",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bjork",
-        "pubdate": "Fri, 01 Sep 2023 18:00:00 +0100"
       }
     ]
   ]
