@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 11:55:49",
+  "lastUpdate": "02-09-2023 , 12:20:32",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Louisville football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
-        "pubdate": "Fri, 01 Sep 2023 18:00:00 -0700"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Djokovic",
+        "pubdate": "Fri, 01 Sep 2023 20:00:00 -0700"
       }
     ],
     [
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Bishop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bishop",
-        "pubdate": "Fri, 01 Sep 2023 06:00:00 -0700"
+        "title": "Louisville football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
+        "pubdate": "Fri, 01 Sep 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Miami football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20football",
+        "pubdate": "Fri, 01 Sep 2023 19:00:00 -0700"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Colorado football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20football",
+        "pubdate": "Fri, 01 Sep 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "The Equalizer 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Equalizer%203",
         "pubdate": "Fri, 01 Sep 2023 01:00:00 -0700"
@@ -73,23 +87,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
-        "pubdate": "Fri, 01 Sep 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#West%20Ham",
         "pubdate": "Fri, 01 Sep 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "ACC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ACC",
-        "pubdate": "Fri, 01 Sep 2023 10:00:00 -0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Miami football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20football",
-        "pubdate": "Fri, 01 Sep 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Joao Felix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joao%20Felix",
         "pubdate": "Fri, 01 Sep 2023 16:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Mike Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Evans",
         "pubdate": "Fri, 01 Sep 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Danelo Cavalcante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Danelo%20Cavalcante",
+        "pubdate": "Fri, 01 Sep 2023 07:00:00 -0700"
       }
     ]
   ]
