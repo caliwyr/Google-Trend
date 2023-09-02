@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 04:52:28",
+  "lastUpdate": "02-09-2023 , 05:06:04",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20Conference%20League",
-        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Fri, 01 Sep 2023 00:00:00 +0200"
@@ -62,13 +55,6 @@
         "title": "Charly Hübner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charly%20H%C3%BCbner",
         "pubdate": "Fri, 01 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simon Zoller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simon%20Zoller",
-        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Europa Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20Conference%20League",
+        "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gravenberch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gravenberch",
         "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Champions%20League",
         "pubdate": "Thu, 31 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Thu, 31 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
