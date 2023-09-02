@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "02-09-2023 , 16:57:39",
+  "lastUpdate": "02-09-2023 , 17:11:52",
   "data": [
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Djokovic",
-        "pubdate": "Sat, 02 Sep 2023 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Manchester City - Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20-%20Fulham",
         "pubdate": "Sat, 02 Sep 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Djokovic",
+        "pubdate": "Sat, 02 Sep 2023 00:00:00 -0300"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Joao Cancelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Joao%20Cancelo",
+        "pubdate": "Sat, 02 Sep 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Central Córdoba  Platense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Platense",
         "pubdate": "Fri, 01 Sep 2023 18:00:00 -0300"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Sonido de Libertad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sonido%20de%20Libertad",
+        "title": "Sonido de libertad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sonido%20de%20libertad",
         "pubdate": "Fri, 01 Sep 2023 04:00:00 -0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dortmund  Heidenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dortmund%20%20Heidenheim",
         "pubdate": "Fri, 01 Sep 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dialisis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dialisis",
-        "pubdate": "Fri, 01 Sep 2023 01:00:00 -0300"
       }
     ]
   ]
