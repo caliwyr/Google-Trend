@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2023 , 23:55:07",
+  "lastUpdate": "02-09-2023 , 00:48:25",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Legionella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Legionella",
-        "pubdate": "Fri, 01 Sep 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Fricassee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fricassee",
         "pubdate": "Fri, 01 Sep 2023 13:00:00 +0300"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Starfield",
-        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0300"
+        "title": "Kap Verde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kap%20Verde",
+        "pubdate": "Thu, 31 Aug 2023 08:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Kap Verde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kap%20Verde",
-        "pubdate": "Thu, 31 Aug 2023 08:00:00 +0300"
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Starfield",
+        "pubdate": "Thu, 31 Aug 2023 18:00:00 +0300"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "The town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20town",
+        "title": "The Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Town",
         "pubdate": "Thu, 31 Aug 2023 22:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Ansu Fati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ansu%20Fati",
         "pubdate": "Thu, 31 Aug 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Billie Jean King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Billie%20Jean%20King",
+        "pubdate": "Thu, 31 Aug 2023 21:00:00 +0300"
       }
     ]
   ]
