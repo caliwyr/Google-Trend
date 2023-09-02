@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2023 , 00:48:33",
+  "lastUpdate": "02-09-2023 , 01:34:05",
   "data": [
     [
       {
@@ -45,16 +45,9 @@
     ],
     [
       {
-        "title": "CS2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CS2",
-        "pubdate": "Sat, 02 Sep 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Polling station",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20station",
-        "pubdate": "Fri, 01 Sep 2023 01:00:00 +0800"
+        "title": "Ind vs Pak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ind%20vs%20Pak",
+        "pubdate": "Sat, 02 Sep 2023 07:00:00 +0800"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "CNA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNA",
         "pubdate": "Fri, 01 Sep 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Polling station",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polling%20station",
+        "pubdate": "Fri, 01 Sep 2023 01:00:00 +0800"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Hong Kong Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20Typhoon",
+        "title": "Hong Kong typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20typhoon",
         "pubdate": "Thu, 31 Aug 2023 13:00:00 +0800"
       }
     ],

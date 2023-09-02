@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "02-09-2023 , 00:48:32",
+  "lastUpdate": "02-09-2023 , 01:34:04",
   "data": [
     [
       {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Celine%20Dion",
+        "pubdate": "Sat, 02 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schjelderup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Schjelderup",
         "pubdate": "Sat, 02 Sep 2023 00:00:00 +0100"
       }
     ],
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Supertaça futsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Superta%C3%A7a%20futsal",
-        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bernat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernat",
         "pubdate": "Fri, 01 Sep 2023 09:00:00 +0100"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Rakow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rakow",
+        "title": "Supertaça futsal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Superta%C3%A7a%20futsal",
         "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Convocatoria Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Convocatoria%20Portugal",
+        "pubdate": "Fri, 01 Sep 2023 11:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Pedro Neto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Neto",
-        "pubdate": "Fri, 01 Sep 2023 12:00:00 +0100"
+        "title": "Rakow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rakow",
+        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "Florence and the Machine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Florence%20and%20the%20Machine",
+        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Festa do Avante!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Festa%20do%20Avante!",
         "pubdate": "Fri, 01 Sep 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chuva setembro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chuva%20setembro",
+        "pubdate": "Fri, 01 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bjork",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bjork",
         "pubdate": "Fri, 01 Sep 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Alcaraz",
-        "pubdate": "Fri, 01 Sep 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mongolia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mongolia",
-        "pubdate": "Fri, 01 Sep 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jair Bolsonaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jair%20Bolsonaro",
-        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0100"
       }
     ]
   ]
