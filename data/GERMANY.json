@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-09-2023 , 08:53:58",
+  "lastUpdate": "03-09-2023 , 09:08:20",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Al%20Nassr",
+        "title": "WWE Payback",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WWE%20Payback",
         "pubdate": "Sun, 03 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burning Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burning%20Man",
+        "pubdate": "Sun, 03 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Freie Wähler, Hubert Aiwanger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freie%20W%C3%A4hler,%20Hubert%20Aiwanger",
+        "pubdate": "Sat, 02 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Sat, 02 Sep 2023 18:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Bonucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bonucci",
         "pubdate": "Thu, 31 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gravenberch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gravenberch",
-        "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deadline Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deadline%20Day",
-        "pubdate": "Thu, 31 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
