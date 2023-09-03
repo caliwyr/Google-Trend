@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-09-2023 , 21:58:39",
+  "lastUpdate": "03-09-2023 , 22:14:31",
   "data": [
     [
       {
         "title": "FC Basel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
         "pubdate": "Sun, 03 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
+        "pubdate": "Sun, 03 Sep 2023 02:00:00 +0200"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Morgan Samuelsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morgan%20Samuelsson",
         "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrouille Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Patrouille Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schlag den Star",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schlag%20den%20Star",
         "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20M%C3%BCnchen",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+        "title": "Cirstea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cirstea",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,30 @@
     ],
     [
       {
+        "title": "Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20M%C3%BCnchen",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Steve Guerdat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steve%20Guerdat",
         "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyon – Paris-SG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lyon%20%E2%80%93%20Paris-SG",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atletico%20Madrid",
+        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Lyon – paris-sg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lyon%20%E2%80%93%20paris-sg",
+        "title": "Mathieu Kassovitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mathieu%20Kassovitz",
         "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stanislas Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stanislas%20Wawrinka",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atletico%20Madrid",
-        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Shelton",
-        "pubdate": "Sun, 03 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beond",
-        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
