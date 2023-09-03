@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-09-2023 , 23:54:00",
+  "lastUpdate": "03-09-2023 , 00:44:01",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sirius",
@@ -132,13 +139,6 @@
         "title": "Fångarna på fortet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A5ngarna%20p%C3%A5%20fortet",
         "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fares Fares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fares%20Fares",
-        "pubdate": "Fri, 01 Sep 2023 09:00:00 +0200"
       }
     ]
   ]
