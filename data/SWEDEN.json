@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "03-09-2023 , 17:54:36",
+  "lastUpdate": "03-09-2023 , 18:11:31",
   "data": [
     [
       {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sun, 03 Sep 2023 11:00:00 +0200"
+        "title": "Finnkampen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finnkampen",
+        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Norrköping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping",
         "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Thomas Stenström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thomas%20Stenstr%C3%B6m",
-        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20utd",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
+        "title": "Tilde Johansson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tilde%20Johansson",
+        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Thomas Stenström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thomas%20Stenstr%C3%B6m",
+        "pubdate": "Sat, 02 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sat, 02 Sep 2023 18:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "IFK Värnamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
         "pubdate": "Sat, 02 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
-        "pubdate": "Sat, 02 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
-        "pubdate": "Sat, 02 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Starfield",
-        "pubdate": "Fri, 01 Sep 2023 00:00:00 +0200"
       }
     ]
   ]
