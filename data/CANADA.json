@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-09-2023 , 10:55:16",
+  "lastUpdate": "03-09-2023 , 11:08:17",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zverev",
+        "pubdate": "Sat, 02 Sep 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Caroline Wozniacki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Caroline%20Wozniacki",
         "pubdate": "Sat, 02 Sep 2023 00:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
         "pubdate": "Sat, 02 Sep 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Michigan football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michigan%20football",
-        "pubdate": "Sat, 02 Sep 2023 14:00:00 -0400"
       }
     ]
   ]
