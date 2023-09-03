@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "03-09-2023 , 22:53:59",
+  "lastUpdate": "03-09-2023 , 23:08:25",
   "data": [
+    [
+      {
+        "title": "Barcola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcola",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Audrey Fleurot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Audrey%20Fleurot",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UBB Toulon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB%20Toulon",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Concarneau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Concarneau",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mathieu Kassovitz",
@@ -24,6 +52,13 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
+        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool – Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liverpool%20%E2%80%93%20Aston%20Villa",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
@@ -34,6 +69,13 @@
         "title": "Toulouse – Clermont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toulouse%20%E2%80%93%20Clermont",
         "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Osasuna – Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Osasuna%20%E2%80%93%20Barcelone",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,8 +101,8 @@
     ],
     [
       {
-        "title": "Compagnie creole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Compagnie%20creole",
+        "title": "La Compagnie créole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Compagnie%20cr%C3%A9ole",
         "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -80,13 +122,6 @@
     ],
     [
       {
-        "title": "Plouay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plouay",
-        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Theo Curin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Theo%20Curin",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Puff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Puff",
         "pubdate": "Sun, 03 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter – Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20%E2%80%93%20Fiorentina",
-        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mayotte",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galatasaray",
-        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sergio%20Ramos",
-        "pubdate": "Sun, 03 Sep 2023 23:00:00 +0200"
       }
     ]
   ]
