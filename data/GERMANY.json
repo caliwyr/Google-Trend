@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-09-2023 , 00:43:55",
+  "lastUpdate": "03-09-2023 , 01:38:55",
   "data": [
     [
       {
@@ -68,14 +68,7 @@
       {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Fri, 01 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Fri, 01 Sep 2023 14:00:00 +0200"
+        "pubdate": "Fri, 01 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -115,6 +108,20 @@
     ],
     [
       {
+        "title": "Rafael Borré",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rafael%20Borr%C3%A9",
+        "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rente",
+        "pubdate": "Fri, 01 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Das Rad der Zeit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20Rad%20der%20Zeit",
         "pubdate": "Fri, 01 Sep 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Bonucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bonucci",
         "pubdate": "Thu, 31 Aug 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gravenberch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gravenberch",
-        "pubdate": "Thu, 31 Aug 2023 00:00:00 +0200"
       }
     ]
   ]
