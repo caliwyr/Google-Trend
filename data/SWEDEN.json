@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-09-2023 , 15:57:15",
+  "lastUpdate": "03-09-2023 , 16:16:37",
   "data": [
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
+        "title": "Finnkampen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finnkampen",
+        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 +0200"
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Thomas Stenström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thomas%20Stenstr%C3%B6m",
         "pubdate": "Sun, 03 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Evan Ferguson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Evan%20Ferguson",
-        "pubdate": "Sat, 02 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Emma Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Stone",
         "pubdate": "Sat, 02 Sep 2023 00:00:00 +0200"
@@ -97,6 +90,13 @@
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sat, 02 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Sat, 02 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "HBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
-        "pubdate": "Sat, 02 Sep 2023 19:00:00 +0200"
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
+        "pubdate": "Sat, 02 Sep 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
-        "pubdate": "Sat, 02 Sep 2023 22:00:00 +0200"
+        "title": "Utsiktens BK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Utsiktens%20BK",
+        "pubdate": "Sat, 02 Sep 2023 23:00:00 +0200"
       }
     ]
   ]
