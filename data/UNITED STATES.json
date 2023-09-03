@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "03-09-2023 , 01:38:51",
+  "lastUpdate": "03-09-2023 , 02:06:44",
   "data": [
     [
       {
         "title": "Jimmy Buffett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Buffett",
         "pubdate": "Sat, 02 Sep 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "College football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20football",
-        "pubdate": "Sat, 02 Sep 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Michigan football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20football",
-        "pubdate": "Sat, 02 Sep 2023 05:00:00 -0700"
       }
     ],
     [
@@ -31,6 +17,13 @@
     ],
     [
       {
+        "title": "Michigan football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20football",
+        "pubdate": "Sat, 02 Sep 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Oklahoma football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oklahoma%20football",
         "pubdate": "Sat, 02 Sep 2023 10:00:00 -0700"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "India vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#India%20vs%20Pakistan",
-        "pubdate": "Sat, 02 Sep 2023 03:00:00 -0700"
+        "title": "Penn State football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20football",
+        "pubdate": "Sat, 02 Sep 2023 07:00:00 -0700"
       }
     ],
     [
@@ -48,6 +41,20 @@
         "title": "Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sports",
         "pubdate": "Sat, 02 Sep 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Auburn football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20football",
+        "pubdate": "Sat, 02 Sep 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "India vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#India%20vs%20Pakistan",
+        "pubdate": "Sat, 02 Sep 2023 03:00:00 -0700"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Texas football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20football",
+        "title": "Texas Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Football",
         "pubdate": "Sat, 02 Sep 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Penn State football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20football",
-        "pubdate": "Sat, 02 Sep 2023 07:00:00 -0700"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "LSUfootball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSUfootball",
-        "pubdate": "Sat, 02 Sep 2023 12:00:00 -0700"
+        "title": "Burning Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Burning%20Man",
+        "pubdate": "Sat, 02 Sep 2023 13:00:00 -0700"
       }
     ],
     [
@@ -108,8 +108,15 @@
     ],
     [
       {
-        "title": "Burning Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Burning%20Man",
+        "title": "LSUfootball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSUfootball",
+        "pubdate": "Sat, 02 Sep 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Oregon football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20football",
         "pubdate": "Sat, 02 Sep 2023 13:00:00 -0700"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Iowa State football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iowa%20State%20football",
-        "pubdate": "Sat, 02 Sep 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Oregon football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20football",
-        "pubdate": "Sat, 02 Sep 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "CM Punk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CM%20Punk",
         "pubdate": "Sat, 02 Sep 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "South Carolina football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#South%20Carolina%20football",
+        "pubdate": "Sat, 02 Sep 2023 11:00:00 -0700"
       }
     ]
   ]
