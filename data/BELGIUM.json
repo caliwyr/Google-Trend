@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 03:54:27",
+  "lastUpdate": "04-09-2023 , 04:11:42",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+        "title": "Burning Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burning%20Man",
+        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Liverpool – Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Aston%20Villa",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burning Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burning%20Man",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 03:54:35",
+  "lastUpdate": "04-09-2023 , 04:11:52",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
@@ -27,6 +34,13 @@
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Silje Ulstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Ulstein",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Silje Ulstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Ulstein",
-        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Gylne Gutuer 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gylne%20Gutuer%202023",
         "pubdate": "Sun, 03 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LIVERPOOL-ASTON VILLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LIVERPOOL-ASTON%20VILLA",
-        "pubdate": "Sun, 03 Sep 2023 23:00:00 +0200"
       }
     ]
   ]

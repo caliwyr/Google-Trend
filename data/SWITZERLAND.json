@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-09-2023 , 03:54:38",
+  "lastUpdate": "04-09-2023 , 04:11:56",
   "data": [
+    [
+      {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jonas Kaufmann",
@@ -40,7 +47,7 @@
       {
         "title": "Wawrinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
-        "pubdate": "Sun, 03 Sep 2023 02:00:00 +0200"
+        "pubdate": "Sun, 03 Sep 2023 04:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Morgan Samuelsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morgan%20Samuelsson",
+        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
         "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
+        "title": "Patrouille Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Patrouille Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Burning Man",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burning%20Man",
         "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
+        "pubdate": "Sun, 03 Sep 2023 02:00:00 +0200"
       }
     ],
     [
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "FC Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Porto",
+        "title": "Porto FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto%20FC",
         "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Lyon – paris-sg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lyon%20%E2%80%93%20paris-sg",
         "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Steve Guerdat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steve%20Guerdat",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20M%C3%BCnchen",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Sun, 03 Sep 2023 07:00:00 +0200"
       }
     ]
   ]
