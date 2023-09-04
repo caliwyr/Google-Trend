@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 15:53:27",
+  "lastUpdate": "04-09-2023 , 16:09:53",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Lori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lori",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
         "pubdate": "Sun, 03 Sep 2023 00:00:00 +0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WTF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WTF",
-        "pubdate": "Sun, 03 Sep 2023 10:00:00 +0300"
+        "title": "Arthur Ashe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arthur%20Ashe",
+        "pubdate": "Sun, 03 Sep 2023 14:00:00 +0300"
       }
     ]
   ]
