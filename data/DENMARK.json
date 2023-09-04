@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-09-2023 , 16:57:41",
+  "lastUpdate": "04-09-2023 , 17:12:53",
   "data": [
-    [
-      {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open",
-        "pubdate": "Mon, 04 Sep 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Inter Miami",
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "US Open tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open%20tennis",
-        "pubdate": "Mon, 04 Sep 2023 10:00:00 +0200"
+        "title": "Robinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robinson",
+        "pubdate": "Mon, 04 Sep 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robinson",
-        "pubdate": "Mon, 04 Sep 2023 12:00:00 +0200"
+        "title": "US Open tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open%20tennis",
+        "pubdate": "Mon, 04 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,8 +66,29 @@
     ],
     [
       {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Putin",
+        "pubdate": "Mon, 04 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Labor Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Labor%20Day",
+        "pubdate": "Mon, 04 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gabriel Guevara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gabriel%20Guevara",
+        "pubdate": "Mon, 04 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sergio Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sergio%20Ramos",
         "pubdate": "Mon, 04 Sep 2023 14:00:00 +0200"
       }
     ],
@@ -90,6 +104,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
         "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Rasmus højlund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Osasuna  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Osasuna%20%20Barcelona",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lyon  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lyon%20%20PSG",
-        "pubdate": "Sun, 03 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tennis US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tennis%20US%20Open",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
