@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "04-09-2023 , 10:55:17",
+  "lastUpdate": "04-09-2023 , 11:09:31",
   "data": [
     [
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
         "pubdate": "Mon, 04 Sep 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Monza",
-        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Knabenschiessen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Knabenschiessen%202023",
-        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,9 +31,16 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
-        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
+        "title": "Knabenschiessen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Knabenschiessen",
+        "pubdate": "Mon, 04 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swatch Blancpain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swatch%20Blancpain",
+        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Swatch Blancpain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swatch%20Blancpain",
-        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0200"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Steve Harwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steve%20Harwell",
+        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ukraine Russland konflikt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ukraine%20Russland%20konflikt",
         "pubdate": "Mon, 04 Sep 2023 07:00:00 +0200"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Steve Harwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steve%20Harwell",
-        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Osasuna  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osasuna%20%20Barcelona",
         "pubdate": "Mon, 04 Sep 2023 01:00:00 +0200"
@@ -111,6 +104,13 @@
         "title": "Elliot Page",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elliot%20Page",
         "pubdate": "Mon, 04 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HSV",
+        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Patrouille Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
