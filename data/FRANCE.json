@@ -1,27 +1,6 @@
 {
-  "lastUpdate": "03-09-2023 , 23:57:42",
+  "lastUpdate": "04-09-2023 , 01:07:40",
   "data": [
-    [
-      {
-        "title": "Barcola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcola",
-        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Audrey Fleurot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Audrey%20Fleurot",
-        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UBB Toulon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB%20Toulon",
-        "pubdate": "Mon, 04 Sep 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Concarneau",
@@ -41,6 +20,13 @@
         "title": "Bac Nord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bac%20Nord",
         "pubdate": "Sun, 03 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ciryl Gane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ciryl%20Gane",
+        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,13 +52,6 @@
     ],
     [
       {
-        "title": "Toulouse – Clermont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toulouse%20%E2%80%93%20Clermont",
-        "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Osasuna – Barcelone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Osasuna%20%E2%80%93%20Barcelone",
         "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
@@ -80,16 +59,16 @@
     ],
     [
       {
-        "title": "Nice – Strasbourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nice%20%E2%80%93%20Strasbourg",
-        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
+        "title": "Toulouse – Clermont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toulouse%20%E2%80%93%20Clermont",
+        "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lille – Montpellier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Montpellier",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+        "title": "Compagnie creole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Compagnie%20creole",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,9 +80,9 @@
     ],
     [
       {
-        "title": "La Compagnie créole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Compagnie%20cr%C3%A9ole",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+        "title": "Lille – Montpellier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Montpellier",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Puff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Puff",
         "pubdate": "Sun, 03 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nouvelle zelande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nouvelle%20zelande",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mayotte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mayotte",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Plouay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plouay",
+        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
