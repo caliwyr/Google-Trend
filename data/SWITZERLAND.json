@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 01:57:40",
+  "lastUpdate": "04-09-2023 , 02:20:34",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Burning Man 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burning%20Man%202023",
-        "pubdate": "Sun, 03 Sep 2023 03:00:00 +0200"
+        "title": "Burning Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burning%20Man",
+        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Burning Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burning%20Man",
-        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrouille Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Servette FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
@@ -104,6 +90,13 @@
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Union%20Berlin",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Patrouille Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrouille%20Suisse",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20M%C3%BCnchen",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Sun, 03 Sep 2023 07:00:00 +0200"
       }
     ]
   ]
