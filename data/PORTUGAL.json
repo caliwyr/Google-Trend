@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 14:57:23",
+  "lastUpdate": "04-09-2023 , 15:14:44",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Lenocínio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lenoc%C3%ADnio",
+        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "SIC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC",
         "pubdate": "Mon, 04 Sep 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Morangos com Açúcar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morangos%20com%20A%C3%A7%C3%BAcar",
+        "pubdate": "Mon, 04 Sep 2023 01:00:00 +0100"
       }
     ],
     [
@@ -38,9 +52,23 @@
     ],
     [
       {
+        "title": "Sodexo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sodexo",
+        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bruno Mars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruno%20Mars",
         "pubdate": "Mon, 04 Sep 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu Kassovitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mathieu%20Kassovitz",
+        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0100"
       }
     ],
     [
@@ -52,8 +80,8 @@
     ],
     [
       {
-        "title": "Mathieu Kassovitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mathieu%20Kassovitz",
+        "title": "Luisa Sonza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luisa%20Sonza",
         "pubdate": "Mon, 04 Sep 2023 11:00:00 +0100"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Matias damasio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matias%20damasio",
         "pubdate": "Sun, 03 Sep 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Burning Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Burning%20Man",
-        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Aston%20Villa",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo%20%20Flamengo",
-        "pubdate": "Sun, 03 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Sevilla",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 +0100"
       }
     ]
   ]
