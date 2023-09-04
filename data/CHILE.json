@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 04:55:10",
+  "lastUpdate": "04-09-2023 , 05:10:47",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Inter  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Fiorentina",
-        "pubdate": "Sun, 03 Sep 2023 13:00:00 -0300"
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iga%20Swiatek",
+        "pubdate": "Mon, 04 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ostapenko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ostapenko",
+        "pubdate": "Mon, 04 Sep 2023 01:00:00 -0300"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Inter  Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Fiorentina",
+        "pubdate": "Sun, 03 Sep 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Osasuna - Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Osasuna%20-%20Barcelona",
         "pubdate": "Sun, 03 Sep 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Sun, 03 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -80,16 +101,9 @@
     ],
     [
       {
-        "title": "Magallanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 -0300"
+        "title": "Ben Shelton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben%20Shelton",
+        "pubdate": "Sun, 03 Sep 2023 16:00:00 -0300"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "Deportes Temuco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
         "pubdate": "Sun, 03 Sep 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben%20Shelton",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 -0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Midtjylland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Midtjylland",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Seleccion chilena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Seleccion%20chilena",
         "pubdate": "Sun, 03 Sep 2023 14:00:00 -0300"
       }
     ]
