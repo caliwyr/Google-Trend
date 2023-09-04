@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "04-09-2023 , 12:48:49",
+  "lastUpdate": "04-09-2023 , 13:02:29",
   "data": [
+    [
+      {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Racing",
+        "pubdate": "Mon, 04 Sep 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Eliminatorias",
+        "pubdate": "Mon, 04 Sep 2023 07:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Autodromo de tocancipa",
@@ -10,9 +24,9 @@
     ],
     [
       {
-        "title": "Liverpool  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liverpool%20%20Aston%20Villa",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 -0500"
+        "title": "LAFC vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#LAFC%20vs%20Inter%20Miami",
+        "pubdate": "Mon, 04 Sep 2023 07:00:00 -0500"
       }
     ],
     [
@@ -24,6 +38,13 @@
     ],
     [
       {
+        "title": "Liverpool  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liverpool%20%20Aston%20Villa",
+        "pubdate": "Sun, 03 Sep 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Atlético Nacional  Deportivo Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional%20%20Deportivo%20Pereira",
         "pubdate": "Sun, 03 Sep 2023 16:00:00 -0500"
@@ -31,8 +52,8 @@
     ],
     [
       {
-        "title": "Águilas Doradas  Millonarios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#%C3%81guilas%20Doradas%20%20Millonarios",
+        "title": "Águilas Doradas - Millonarios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#%C3%81guilas%20Doradas%20-%20Millonarios",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 -0500"
       }
     ],
@@ -59,16 +80,16 @@
     ],
     [
       {
-        "title": "Inter  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20%20Fiorentina",
-        "pubdate": "Sun, 03 Sep 2023 10:00:00 -0500"
+        "title": "Sindrome de Asperger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sindrome%20de%20Asperger",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sindrome de Asperger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sindrome%20de%20Asperger",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 -0500"
+        "title": "Inter  Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20%20Fiorentina",
+        "pubdate": "Sun, 03 Sep 2023 10:00:00 -0500"
       }
     ],
     [
@@ -94,8 +115,8 @@
     ],
     [
       {
-        "title": "Atlético Madrid-Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Madrid-Sevilla",
+        "title": "Atlético Madrid - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Madrid%20-%20Sevilla",
         "pubdate": "Sun, 03 Sep 2023 10:00:00 -0500"
       }
     ],
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Lefty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lefty",
-        "pubdate": "Sun, 03 Sep 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cali vs Pasto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cali%20vs%20Pasto",
         "pubdate": "Sun, 03 Sep 2023 21:00:00 -0500"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Loteria de boyaca 2 de septiembre 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Loteria%20de%20boyaca%202%20de%20septiembre%202023",
-        "pubdate": "Sun, 03 Sep 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sergio%20Ramos",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Joe Jonas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Joe%20Jonas",
-        "pubdate": "Sun, 03 Sep 2023 22:00:00 -0500"
+        "title": "Lefty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lefty",
+        "pubdate": "Sun, 03 Sep 2023 12:00:00 -0500"
       }
     ]
   ]
