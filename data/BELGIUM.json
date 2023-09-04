@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-09-2023 , 05:53:44",
+  "lastUpdate": "04-09-2023 , 06:12:19",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Mon, 04 Sep 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Wozniacki",
@@ -38,6 +31,20 @@
     ],
     [
       {
+        "title": "Union  Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Antwerp",
+        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
-        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KRC Genk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
         "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
@@ -68,13 +68,6 @@
       {
         "title": "K.A.A. Gent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#K.A.A.%20Gent",
-        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gent Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20Club%20Brugge",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Inter – Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Fiorentina",
-        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
+        "title": "Mathieu Kassovitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20Kassovitz",
+        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "AA Gent Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent%20Club%20Brugge",
+        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Mathieu Kassovitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20Kassovitz",
-        "pubdate": "Sun, 03 Sep 2023 21:00:00 +0200"
+        "title": "Inter – Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Fiorentina",
+        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
