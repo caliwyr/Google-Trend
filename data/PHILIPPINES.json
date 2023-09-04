@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-09-2023 , 20:58:26",
+  "lastUpdate": "04-09-2023 , 21:23:01",
   "data": [
-    [
-      {
-        "title": "Ateneo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ateneo",
-        "pubdate": "Tue, 05 Sep 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "U.S Labor Day 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#U.S%20Labor%20Day%202023",
         "pubdate": "Tue, 05 Sep 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ateneo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ateneo",
+        "pubdate": "Tue, 05 Sep 2023 00:00:00 +0800"
       }
     ],
     [
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Class suspension",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Class%20suspension",
-        "pubdate": "Mon, 04 Sep 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "What is literature",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20literature",
         "pubdate": "Mon, 04 Sep 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "What is research",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20research",
-        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0800"
       }
     ],
     [
@@ -87,13 +73,6 @@
     ],
     [
       {
-        "title": "Showtime suspended",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Showtime%20suspended",
-        "pubdate": "Mon, 04 Sep 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "What is politics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20politics",
         "pubdate": "Mon, 04 Sep 2023 09:00:00 +0800"
@@ -108,6 +87,13 @@
     ],
     [
       {
+        "title": "Steve Harwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Steve%20Harwell",
+        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Globalization",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Globalization",
         "pubdate": "Mon, 04 Sep 2023 11:00:00 +0800"
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Steve Harwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Steve%20Harwell",
-        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0800"
+        "title": "Showtime suspended",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Showtime%20suspended",
+        "pubdate": "Mon, 04 Sep 2023 20:00:00 +0800"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "What is research",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20research",
+        "pubdate": "Mon, 04 Sep 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "What is art",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20art",
         "pubdate": "Mon, 04 Sep 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Technology",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Technology",
+        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0800"
       }
     ]
   ]

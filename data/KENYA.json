@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 20:58:24",
+  "lastUpdate": "04-09-2023 , 21:22:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sancho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sancho",
         "pubdate": "Mon, 04 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
+        "pubdate": "Mon, 04 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Logan Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Logan%20Paul",
-        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Carbon credits",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Carbon%20credits",
         "pubdate": "Mon, 04 Sep 2023 22:00:00 +0300"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Logan Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Logan%20Paul",
+        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "John Kerry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#John%20Kerry",
         "pubdate": "Mon, 04 Sep 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Climate change",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Climate%20change",
+        "pubdate": "Mon, 04 Sep 2023 21:00:00 +0300"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Lyon vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lyon%20vs%20PSG",
-        "pubdate": "Sun, 03 Sep 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Osasuna vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Osasuna%20vs%20Barcelona",
         "pubdate": "Sun, 03 Sep 2023 12:00:00 +0300"
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Africa climate summit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Africa%20climate%20summit",
+        "title": "Africa Climate Summit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Africa%20Climate%20Summit",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
         "pubdate": "Sun, 03 Sep 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Onana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Onana",
-        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0300"
       }
     ]
   ]

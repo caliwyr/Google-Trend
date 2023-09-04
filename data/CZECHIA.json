@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 20:58:20",
+  "lastUpdate": "04-09-2023 , 21:22:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sophie Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sophie%20Turner",
         "pubdate": "Mon, 04 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Love Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Love%20Island",
+        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Veronika Rajek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika%20Rajek",
-        "pubdate": "Mon, 04 Sep 2023 17:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG",
+        "pubdate": "Mon, 04 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Markéta Vondroušová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Vondrou%C5%A1ov%C3%A1",
+        "pubdate": "Mon, 04 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rustem Umerov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rustem%20Umerov",
         "pubdate": "Mon, 04 Sep 2023 17:00:00 +0200"
@@ -73,9 +87,23 @@
     ],
     [
       {
+        "title": "Gayle Hunnicutt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gayle%20Hunnicutt",
+        "pubdate": "Mon, 04 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Strava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Strava",
         "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Plzeň – Bohemians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Bohemians",
+        "pubdate": "Sun, 03 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "FC Viktoria Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
         "pubdate": "Sun, 03 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burning Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Burning%20Man",
-        "pubdate": "Sun, 03 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Sun, 03 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
-        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Whitney Houston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Whitney%20Houston",
-        "pubdate": "Sun, 03 Sep 2023 00:00:00 +0200"
       }
     ]
   ]
