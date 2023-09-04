@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2023 , 08:55:25",
+  "lastUpdate": "04-09-2023 , 09:12:02",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Sun, 03 Sep 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Burning Man",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burning%20Man",
         "pubdate": "Sun, 03 Sep 2023 09:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sun, 03 Sep 2023 09:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,15 +52,8 @@
     ],
     [
       {
-        "title": "Sigrid Klausmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sigrid%20Klausmann",
-        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "title": "FC Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
         "pubdate": "Sat, 02 Sep 2023 21:00:00 +0200"
       }
     ],
