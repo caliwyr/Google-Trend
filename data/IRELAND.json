@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-09-2023 , 05:51:59",
+  "lastUpdate": "05-09-2023 , 06:08:16",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "The Script",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Script",
-        "pubdate": "Mon, 04 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "The Killers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Killers",
         "pubdate": "Mon, 04 Sep 2023 13:00:00 +0100"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Sharon Tobin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sharon%20Tobin",
-        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michelle Keegan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Michelle%20Keegan",
         "pubdate": "Mon, 04 Sep 2023 22:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Novak%20Djokovic",
         "pubdate": "Mon, 04 Sep 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ludvig Aberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ludvig%20Aberg",
+        "pubdate": "Mon, 04 Sep 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mark Goldbridge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mark%20Goldbridge",
+        "pubdate": "Mon, 04 Sep 2023 08:00:00 +0100"
       }
     ]
   ]
