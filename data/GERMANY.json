@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-09-2023 , 01:11:56",
+  "lastUpdate": "05-09-2023 , 01:55:44",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Steve Harwell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steve%20Harwell",
         "pubdate": "Mon, 04 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IAA München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#IAA%20M%C3%BCnchen",
-        "pubdate": "Mon, 04 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20Costner",
-        "pubdate": "Mon, 04 Sep 2023 18:00:00 +0200"
+        "title": "Füllkrug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
+        "pubdate": "Mon, 04 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,9 @@
     ],
     [
       {
-        "title": "Thomas Müller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20M%C3%BCller",
-        "pubdate": "Mon, 04 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
-        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
+        "title": "IAA München 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#IAA%20M%C3%BCnchen%202023",
+        "pubdate": "Mon, 04 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -80,9 +66,23 @@
     ],
     [
       {
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
+        "pubdate": "Sun, 03 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Markus Söder Hubert Aiwanger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20S%C3%B6der%20Hubert%20Aiwanger",
         "pubdate": "Sun, 03 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
+        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -97,6 +97,13 @@
         "title": "FC Köln",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20K%C3%B6ln",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sigrid Klausmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sigrid%20Klausmann",
+        "pubdate": "Sun, 03 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Thu, 31 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bonucci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bonucci",
-        "pubdate": "Thu, 31 Aug 2023 15:00:00 +0200"
       }
     ]
   ]
