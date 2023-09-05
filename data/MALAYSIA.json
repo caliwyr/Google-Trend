@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-09-2023 , 10:56:21",
+  "lastUpdate": "05-09-2023 , 11:10:29",
   "data": [
     [
       {
         "title": "BWF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BWF",
         "pubdate": "Tue, 05 Sep 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sri Lanka vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sri%20Lanka%20vs%20Afghanistan",
+        "pubdate": "Tue, 05 Sep 2023 18:00:00 +0800"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
+        "title": "Arsenal vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Man%20United",
         "pubdate": "Mon, 04 Sep 2023 00:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Milan",
         "pubdate": "Mon, 04 Sep 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Burning Man festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Burning%20Man%20festival",
-        "pubdate": "Mon, 04 Sep 2023 10:00:00 +0800"
       }
     ]
   ]
