@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "05-09-2023 , 13:53:23",
+  "lastUpdate": "05-09-2023 , 14:07:36",
   "data": [
     [
       {
         "title": "T-Mobile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#T-Mobile",
         "pubdate": "Tue, 05 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Caroline van der Plas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Caroline%20van%20der%20Plas",
+        "pubdate": "Tue, 05 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Antony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Antony",
+        "pubdate": "Tue, 05 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Juventus",
-        "pubdate": "Mon, 04 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Vitesse  AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse%20%20AZ",
-        "pubdate": "Sun, 03 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
@@ -104,20 +104,6 @@
         "title": "ADO Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
         "pubdate": "Sun, 03 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freddie Mercury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Freddie%20Mercury",
-        "pubdate": "Sun, 03 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Volendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Volendam",
-        "pubdate": "Sun, 03 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Pec Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pec%20Zwolle",
         "pubdate": "Sat, 02 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wereldhavendagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wereldhavendagen",
+        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beste zangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beste%20zangers",
+        "pubdate": "Fri, 01 Sep 2023 16:00:00 +0200"
       }
     ]
   ]
