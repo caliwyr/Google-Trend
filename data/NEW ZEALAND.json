@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-09-2023 , 13:41:51",
+  "lastUpdate": "06-09-2023 , 13:51:18",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
+        "pubdate": "Thu, 07 Sep 2023 01:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Timothee Chalamet",
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Laneway 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Laneway%202024",
-        "pubdate": "Tue, 05 Sep 2023 12:00:00 +1200"
+        "title": "Laneway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Laneway",
+        "pubdate": "Tue, 05 Sep 2023 13:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joe Jonas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Jonas",
         "pubdate": "Mon, 04 Sep 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
-        "pubdate": "Mon, 04 Sep 2023 16:00:00 +1200"
       }
     ]
   ]
