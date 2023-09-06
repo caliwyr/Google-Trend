@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2023 , 20:44:37",
+  "lastUpdate": "06-09-2023 , 20:53:59",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "T.Danny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T.Danny",
         "pubdate": "Wed, 06 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Törökország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C3%B6korsz%C3%A1g",
+        "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Kínai nagy fal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADnai%20nagy%20fal",
+        "pubdate": "Wed, 06 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Woody Allen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Woody%20Allen",
         "pubdate": "Wed, 06 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gulyás Márton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20M%C3%A1rton",
+        "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,15 +87,15 @@
     ],
     [
       {
-        "title": "Erste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erste",
-        "pubdate": "Tue, 05 Sep 2023 22:00:00 +0200"
+        "title": "Eszenyi Enikő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eszenyi%20Enik%C5%91",
+        "pubdate": "Tue, 05 Sep 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eszenyi Enikő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eszenyi%20Enik%C5%91",
+        "title": "Lisztes Krisztián",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lisztes%20Kriszti%C3%A1n",
         "pubdate": "Tue, 05 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Freddie Mercury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Freddie%20Mercury",
         "pubdate": "Tue, 05 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Meghan Markle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meghan%20Markle",
-        "pubdate": "Tue, 05 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Papp László Sportaréna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Papp%20L%C3%A1szl%C3%B3%20Sportar%C3%A9na",
-        "pubdate": "Tue, 05 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
-        "pubdate": "Tue, 05 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
