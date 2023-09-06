@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2023 , 22:44:29",
+  "lastUpdate": "06-09-2023 , 22:53:37",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Jeune genevois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jeune%20genevois",
-        "pubdate": "Wed, 06 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gstaad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gstaad",
         "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
@@ -73,16 +66,23 @@
     ],
     [
       {
-        "title": "Istanbul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Istanbul",
-        "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
+        "title": "Mick Jagger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mick%20Jagger",
+        "pubdate": "Wed, 06 Sep 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
-        "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
+        "title": "Urban Angehrn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Urban%20Angehrn",
+        "pubdate": "Wed, 06 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Istanbul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Istanbul",
+        "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -96,6 +96,13 @@
       {
         "title": "Porterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porterhouse",
+        "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
         "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Novartis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novartis",
         "pubdate": "Wed, 06 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Travis%20Scott",
-        "pubdate": "Wed, 06 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
