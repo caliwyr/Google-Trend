@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-09-2023 , 23:47:57",
+  "lastUpdate": "06-09-2023 , 23:57:33",
   "data": [
+    [
+      {
+        "title": "Pokemon GO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pokemon%20GO",
+        "pubdate": "Thu, 07 Sep 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Joe Jonas",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Bola de Ouro 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bola%20de%20Ouro%202023",
+        "pubdate": "Wed, 06 Sep 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Covid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Covid",
         "pubdate": "Wed, 06 Sep 2023 20:00:00 +0100"
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Bola de Ouro 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bola%20de%20Ouro%202023",
-        "pubdate": "Wed, 06 Sep 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dia do Sexo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Sexo",
         "pubdate": "Wed, 06 Sep 2023 16:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Olena Zelenska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olena%20Zelenska",
-        "pubdate": "Wed, 06 Sep 2023 04:00:00 +0100"
+        "title": "Benfica feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20feminino",
+        "pubdate": "Wed, 06 Sep 2023 21:00:00 +0100"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Big bang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Big%20bang",
         "pubdate": "Wed, 06 Sep 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Olena Zelenska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olena%20Zelenska",
+        "pubdate": "Wed, 06 Sep 2023 04:00:00 +0100"
       }
     ],
     [
@@ -80,37 +94,9 @@
     ],
     [
       {
-        "title": "Covid-19",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Covid-19",
-        "pubdate": "Wed, 06 Sep 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
-        "pubdate": "Wed, 06 Sep 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kanye West Veneza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kanye%20West%20Veneza",
-        "pubdate": "Wed, 06 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kourtney Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kourtney%20Kardashian",
+        "title": "Futsal sub-19",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futsal%20sub-19",
         "pubdate": "Wed, 06 Sep 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gibraltar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gibraltar",
-        "pubdate": "Wed, 06 Sep 2023 10:00:00 +0100"
       }
     ],
     [
@@ -122,23 +108,37 @@
     ],
     [
       {
-        "title": "Deucalion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Deucalion",
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
         "pubdate": "Wed, 06 Sep 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alvaro djalo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alvaro%20djalo",
+        "title": "Gato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gato",
+        "pubdate": "Wed, 06 Sep 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Covid-19",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Covid-19",
+        "pubdate": "Wed, 06 Sep 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kourtney Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kourtney%20Kardashian",
         "pubdate": "Wed, 06 Sep 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Entrevista Rui Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Entrevista%20Rui%20Costa",
-        "pubdate": "Wed, 06 Sep 2023 00:00:00 +0100"
+        "title": "Kanye West Veneza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kanye%20West%20Veneza",
+        "pubdate": "Wed, 06 Sep 2023 01:00:00 +0100"
       }
     ]
   ]
