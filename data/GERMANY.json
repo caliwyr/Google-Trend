@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2023 , 02:48:03",
+  "lastUpdate": "07-09-2023 , 02:57:13",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Joe Jonas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Jonas",
-        "pubdate": "Wed, 06 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones",
         "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Rolling Stones Hackney diamonds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones%20Hackney%20diamonds",
-        "pubdate": "Wed, 06 Sep 2023 19:00:00 +0200"
+        "title": "Joe Jonas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Jonas",
+        "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Schwere Unwetter Griechenland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwere%20Unwetter%20Griechenland",
+        "title": "Griechenland Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Griechenland%20Unwetter",
         "pubdate": "Tue, 05 Sep 2023 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Fri, 01 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Thu, 31 Aug 2023 21:00:00 +0200"
       }
     ]
   ]
