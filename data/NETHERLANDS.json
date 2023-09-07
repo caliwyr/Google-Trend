@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2023 , 14:46:46",
+  "lastUpdate": "07-09-2023 , 14:55:58",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Medvedev",
-        "pubdate": "Wed, 06 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Henk van Essen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20van%20Essen",
         "pubdate": "Wed, 06 Sep 2023 20:00:00 +0200"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Heleen van Royen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heleen%20van%20Royen",
-        "pubdate": "Tue, 05 Sep 2023 22:00:00 +0200"
+        "title": "Mick Jagger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mick%20Jagger",
+        "pubdate": "Tue, 05 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Fri, 01 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Monza",
+        "pubdate": "Fri, 01 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
