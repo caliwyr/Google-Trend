@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2023 , 12:34:26",
+  "lastUpdate": "07-09-2023 , 12:54:40",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Noma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Noma",
-        "pubdate": "Wed, 06 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ben Shelton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ben%20Shelton",
         "pubdate": "Wed, 06 Sep 2023 13:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Tue, 05 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Margrethe Vestager",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Margrethe%20Vestager",
+        "pubdate": "Tue, 05 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
