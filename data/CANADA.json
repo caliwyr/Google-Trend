@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2023 , 01:05:32",
+  "lastUpdate": "07-09-2023 , 01:55:58",
   "data": [
     [
       {
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vondrousova",
+        "pubdate": "Wed, 06 Sep 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sabalenka",
+        "pubdate": "Wed, 06 Sep 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Enbridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Enbridge",
         "pubdate": "Wed, 06 Sep 2023 02:00:00 -0400"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rublev",
-        "pubdate": "Wed, 06 Sep 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rolling%20Stones",
         "pubdate": "Wed, 06 Sep 2023 12:00:00 -0400"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Porter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Porter",
-        "pubdate": "Wed, 06 Sep 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mick%20Jagger",
         "pubdate": "Wed, 06 Sep 2023 11:00:00 -0400"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Krishna Janmashtami 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Krishna%20Janmashtami%202023",
-        "pubdate": "Wed, 06 Sep 2023 02:00:00 -0400"
+        "title": "Porter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Porter",
+        "pubdate": "Wed, 06 Sep 2023 00:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Smashing Pumpkins Ottawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Smashing%20Pumpkins%20Ottawa",
-        "pubdate": "Wed, 06 Sep 2023 06:00:00 -0400"
+        "title": "San Francisco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#San%20Francisco",
+        "pubdate": "Wed, 06 Sep 2023 19:00:00 -0400"
       }
     ]
   ]
