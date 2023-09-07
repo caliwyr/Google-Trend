@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-09-2023 , 21:45:45",
+  "lastUpdate": "07-09-2023 , 21:54:58",
   "data": [
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carlos%20Alcaraz",
-        "pubdate": "Thu, 07 Sep 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jody Scheckter",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
+        "pubdate": "Thu, 07 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lucy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lucy",
         "pubdate": "Thu, 07 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Danny Masterson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Danny%20Masterson",
+        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Martin Selmayr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Selmayr",
         "pubdate": "Thu, 07 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frankreich gegen Irland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frankreich%20gegen%20Irland",
+        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,23 +101,9 @@
     ],
     [
       {
-        "title": "Danny Masterson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Danny%20Masterson",
-        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Türkei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei",
         "pubdate": "Thu, 07 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schatz, nimm du sie!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schatz,%20nimm%20du%20sie!",
-        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,9 +115,16 @@
     ],
     [
       {
-        "title": "The Nun 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Nun%202",
-        "pubdate": "Thu, 07 Sep 2023 09:00:00 +0200"
+        "title": "Schatz, nimm du sie!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schatz,%20nimm%20du%20sie!",
+        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chirurgenstahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chirurgenstahl",
+        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Rolls-Royce Boat Tail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rolls-Royce%20Boat%20Tail",
-        "pubdate": "Thu, 07 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple iPhone 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apple%20iPhone%2015",
-        "pubdate": "Thu, 07 Sep 2023 14:00:00 +0200"
+        "title": "The Nun 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Nun%202",
+        "pubdate": "Thu, 07 Sep 2023 09:00:00 +0200"
       }
     ]
   ]
