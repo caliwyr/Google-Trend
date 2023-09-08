@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 17:51:28",
+  "lastUpdate": "08-09-2023 , 18:05:06",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Spain",
+        "pubdate": "Fri, 08 Sep 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Algeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Algeria",
         "pubdate": "Fri, 08 Sep 2023 10:00:00 +0100"
@@ -48,6 +55,13 @@
         "title": "Manatee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manatee",
         "pubdate": "Fri, 08 Sep 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Portugal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portugal%20vs",
+        "pubdate": "Fri, 08 Sep 2023 18:00:00 +0100"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Denmark vs San Marino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Denmark%20vs%20San%20Marino",
-        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0100"
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France",
+        "pubdate": "Thu, 07 Sep 2023 20:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Ghana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ghana",
-        "pubdate": "Thu, 07 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "MC Oluomo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MC%20Oluomo",
         "pubdate": "Thu, 07 Sep 2023 22:00:00 +0100"
@@ -122,22 +129,15 @@
     ],
     [
       {
+        "title": "Ghana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ghana",
+        "pubdate": "Thu, 07 Sep 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Poland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Poland",
-        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "France vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France%20vs",
-        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Denmark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Denmark",
         "pubdate": "Thu, 07 Sep 2023 22:00:00 +0100"
       }
     ]
