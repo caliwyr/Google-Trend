@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 19:53:17",
+  "lastUpdate": "08-09-2023 , 20:08:14",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Birmingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Birmingham",
-        "pubdate": "Fri, 08 Sep 2023 12:00:00 +0200"
+        "title": "Rugby World Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rugby%20World%20Cup%202023",
+        "pubdate": "Fri, 08 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Worth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Worth",
+        "pubdate": "Fri, 08 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,20 @@
         "title": "Apple stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Apple%20stock",
         "pubdate": "Fri, 08 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Birmingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Birmingham",
+        "pubdate": "Fri, 08 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sidemen Charity Match 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sidemen%20Charity%20Match%202023",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Springsteen",
         "pubdate": "Thu, 07 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polestar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar",
-        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Braithwaite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Braithwaite",
-        "pubdate": "Thu, 07 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ruby Franke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ruby%20Franke",
-        "pubdate": "Thu, 07 Sep 2023 23:00:00 +0200"
       }
     ]
   ]
