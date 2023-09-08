@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 05:43:14",
+  "lastUpdate": "08-09-2023 , 05:52:36",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Disney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Disney",
-        "pubdate": "Thu, 07 Sep 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Eduardo verastegui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eduardo%20verastegui",
         "pubdate": "Thu, 07 Sep 2023 18:00:00 -0600"
@@ -55,6 +48,13 @@
         "title": "Danny Masterson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Danny%20Masterson",
         "pubdate": "Thu, 07 Sep 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Disney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Disney",
+        "pubdate": "Thu, 07 Sep 2023 12:00:00 -0600"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sabalenka",
+        "pubdate": "Thu, 07 Sep 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Paraguay vs peru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paraguay%20vs%20peru",
         "pubdate": "Thu, 07 Sep 2023 17:00:00 -0600"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Francia vs Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Francia%20vs%20Irlanda",
-        "pubdate": "Thu, 07 Sep 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Eliminatorias Eurocopa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Eurocopa",
-        "pubdate": "Thu, 07 Sep 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Portugal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Portugal%20vs",
-        "pubdate": "Thu, 07 Sep 2023 16:00:00 -0600"
+        "title": "Selección Mexicana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Selecci%C3%B3n%20Mexicana",
+        "pubdate": "Thu, 07 Sep 2023 19:00:00 -0600"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Selección Mexicana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Selecci%C3%B3n%20Mexicana",
-        "pubdate": "Thu, 07 Sep 2023 19:00:00 -0600"
+        "title": "Eliminatorias Eurocopa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Eurocopa",
+        "pubdate": "Thu, 07 Sep 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Mac Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mac%20Miller",
+        "pubdate": "Thu, 07 Sep 2023 12:00:00 -0600"
       }
     ]
   ]
