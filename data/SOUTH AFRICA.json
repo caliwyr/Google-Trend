@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 13:49:38",
+  "lastUpdate": "08-09-2023 , 13:59:07",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket",
-        "pubdate": "Fri, 08 Sep 2023 07:00:00 +0200"
+        "title": "Rugby fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20fixtures",
+        "pubdate": "Fri, 08 Sep 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rugby fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20fixtures",
-        "pubdate": "Fri, 08 Sep 2023 10:00:00 +0200"
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket",
+        "pubdate": "Fri, 08 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -61,13 +61,6 @@
       {
         "title": "Julius Malema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Julius%20Malema",
-        "pubdate": "Fri, 08 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rwc 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rwc%202023",
         "pubdate": "Fri, 08 Sep 2023 12:00:00 +0200"
       }
     ],
@@ -117,6 +110,13 @@
       {
         "title": "Netherlands vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Netherlands%20vs%20Greece",
+        "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euro qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Euro%20qualifiers",
         "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
       }
     ],
