@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 09:52:35",
+  "lastUpdate": "08-09-2023 , 10:07:27",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "RCN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#RCN",
+        "pubdate": "Thu, 07 Sep 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Caracol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol",
         "pubdate": "Thu, 07 Sep 2023 17:00:00 -0500"
@@ -24,15 +31,15 @@
     ],
     [
       {
-        "title": "Partidos HOY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Partidos%20HOY",
-        "pubdate": "Thu, 07 Sep 2023 15:00:00 -0500"
+        "title": "Francia vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Francia%20vs",
+        "pubdate": "Thu, 07 Sep 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Francia vs Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Francia%20vs%20Irlanda",
+        "title": "Partidos hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Partidos%20hoy",
         "pubdate": "Thu, 07 Sep 2023 13:00:00 -0500"
       }
     ],
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportes",
-        "pubdate": "Thu, 07 Sep 2023 19:00:00 -0500"
+        "title": "Portugal vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Portugal%20vs",
+        "pubdate": "Thu, 07 Sep 2023 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Agmeth Escaf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Agmeth%20Escaf",
-        "pubdate": "Thu, 07 Sep 2023 21:00:00 -0500"
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportes",
+        "pubdate": "Thu, 07 Sep 2023 19:00:00 -0500"
       }
     ],
     [
@@ -76,6 +83,20 @@
         "title": "Deiver Machado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deiver%20Machado",
         "pubdate": "Thu, 07 Sep 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tabla de posiciones Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tabla%20de%20posiciones%20Eliminatorias",
+        "pubdate": "Thu, 07 Sep 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luis diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Luis%20diaz",
+        "pubdate": "Thu, 07 Sep 2023 01:00:00 -0500"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Luis diaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Luis%20diaz",
-        "pubdate": "Thu, 07 Sep 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Brasil vs Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Brasil%20vs%20Bolivia",
         "pubdate": "Thu, 07 Sep 2023 19:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sabalenka",
         "pubdate": "Thu, 07 Sep 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Uruguay vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Uruguay%20vs%20Chile",
-        "pubdate": "Thu, 07 Sep 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Falcao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Falcao",
-        "pubdate": "Thu, 07 Sep 2023 19:00:00 -0500"
       }
     ]
   ]
