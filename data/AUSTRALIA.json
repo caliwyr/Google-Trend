@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-09-2023 , 18:52:56",
+  "lastUpdate": "08-09-2023 , 19:06:05",
   "data": [
+    [
+      {
+        "title": "USA vs Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20vs%20Germany",
+        "pubdate": "Sat, 09 Sep 2023 01:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Broncos vs Storm",
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Sake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sake",
+        "title": "KAWS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KAWS",
         "pubdate": "Fri, 08 Sep 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dear Child Netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dear%20Child%20Netflix",
-        "pubdate": "Fri, 08 Sep 2023 17:00:00 +1000"
       }
     ]
   ]
