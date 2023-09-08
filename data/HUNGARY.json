@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2023 , 01:09:37",
+  "lastUpdate": "08-09-2023 , 01:57:35",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Thu, 07 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vona Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vona%20G%C3%A1bor",
-        "pubdate": "Thu, 07 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Keleti Ágnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20%C3%81gnes",
         "pubdate": "Thu, 07 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nego",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nego",
+        "pubdate": "Thu, 07 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,22 +115,15 @@
     ],
     [
       {
-        "title": "Voksán Virág",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Voks%C3%A1n%20Vir%C3%A1g",
-        "pubdate": "Thu, 07 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szerbia–Magyarország",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerbia%E2%80%93Magyarorsz%C3%A1g",
+        "title": "Szerbia–magyarország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerbia%E2%80%93magyarorsz%C3%A1g",
         "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Szerbia Magyarország",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerbia%20Magyarorsz%C3%A1g",
+        "title": "Szerb magyar meccs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerb%20magyar%20meccs",
         "pubdate": "Wed, 06 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Joe Jonas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Jonas",
         "pubdate": "Wed, 06 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kis hableány",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kis%20hable%C3%A1ny",
+        "pubdate": "Wed, 06 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
