@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2023 , 07:54:50",
+  "lastUpdate": "09-09-2023 , 08:12:12",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Crooner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crooner",
+        "pubdate": "Fri, 08 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lionel%20Messi",
         "pubdate": "Fri, 08 Sep 2023 20:00:00 +0300"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Kourtney Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kourtney%20Kardashian",
-        "pubdate": "Fri, 08 Sep 2023 09:00:00 +0300"
+        "title": "Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Masked%20Singer",
+        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Masked Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Masked%20Singer",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
+        "title": "Kourtney Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kourtney%20Kardashian",
+        "pubdate": "Fri, 08 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kasperi Kapanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kasperi%20Kapanen",
         "pubdate": "Thu, 07 Sep 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
-        "pubdate": "Thu, 07 Sep 2023 20:00:00 +0300"
       }
     ]
   ]
