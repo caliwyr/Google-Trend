@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2023 , 21:58:00",
+  "lastUpdate": "09-09-2023 , 22:13:26",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alexia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alexia",
         "pubdate": "Sat, 09 Sep 2023 13:00:00 +0200"
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Monumentendag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Monumentendag",
-        "pubdate": "Sat, 09 Sep 2023 09:00:00 +0200"
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
+        "pubdate": "Sat, 09 Sep 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Telstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
+        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Telstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
-        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
+        "title": "UFC 293",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20293",
+        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Geheim van Haastrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geheim%20van%20Haastrecht",
-        "pubdate": "Fri, 08 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brigitte Bardot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brigitte%20Bardot",
         "pubdate": "Fri, 08 Sep 2023 00:00:00 +0200"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Slimste Mens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Slimste%20Mens",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Temptation Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Temptation%20Island",
         "pubdate": "Fri, 08 Sep 2023 21:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Smog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Smog",
-        "pubdate": "Fri, 08 Sep 2023 08:00:00 +0200"
+        "title": "Het Geheim van Haastrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Het%20Geheim%20van%20Haastrecht",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mark Rutte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
-        "pubdate": "Fri, 08 Sep 2023 00:00:00 +0200"
+        "title": "Smog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Smog",
+        "pubdate": "Fri, 08 Sep 2023 08:00:00 +0200"
       }
     ]
   ]
