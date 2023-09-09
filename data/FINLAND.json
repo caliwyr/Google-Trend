@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2023 , 03:45:53",
+  "lastUpdate": "09-09-2023 , 03:55:17",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Crooner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crooner",
+        "pubdate": "Fri, 08 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lionel%20Messi",
         "pubdate": "Fri, 08 Sep 2023 20:00:00 +0300"
@@ -47,13 +54,6 @@
       {
         "title": "Graceland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Graceland",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
         "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
       }
     ],
