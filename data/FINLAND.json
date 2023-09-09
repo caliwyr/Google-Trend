@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-09-2023 , 22:53:34",
+  "lastUpdate": "09-09-2023 , 23:07:41",
   "data": [
     [
       {
         "title": "Marrakech",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marrakech",
         "pubdate": "Sat, 09 Sep 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sabalenka",
+        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "CO2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CO2",
+        "title": "Miss Suomi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miss%20Suomi",
         "pubdate": "Sat, 09 Sep 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sabalenka",
-        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
+        "title": "CO2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CO2",
+        "pubdate": "Sat, 09 Sep 2023 22:00:00 +0300"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Topher Grace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Topher%20Grace",
+        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Pelicans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
@@ -83,13 +97,6 @@
         "title": "ANI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ANI",
         "pubdate": "Sat, 09 Sep 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Topher Grace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Topher%20Grace",
-        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Lionel Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lionel%20Messi",
-        "pubdate": "Fri, 08 Sep 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Avicii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Avicii",
         "pubdate": "Fri, 08 Sep 2023 20:00:00 +0300"
       }
     ]
