@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-09-2023 , 19:52:46",
+  "lastUpdate": "09-09-2023 , 20:06:58",
   "data": [
     [
       {
         "title": "Maroc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Maroc",
         "pubdate": "Sat, 09 Sep 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rugby",
+        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Pepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pepe",
-        "pubdate": "Sat, 09 Sep 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "CSM bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
         "pubdate": "Sat, 09 Sep 2023 20:00:00 +0300"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "România",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rom%C3%A2nia",
-        "pubdate": "Sat, 09 Sep 2023 17:00:00 +0300"
+        "title": "Pepe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pepe",
+        "pubdate": "Sat, 09 Sep 2023 03:00:00 +0300"
       }
     ],
     [
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "Azerbaijan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Azerbaijan",
-        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Raed Arafat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raed%20Arafat",
-        "pubdate": "Sat, 09 Sep 2023 12:00:00 +0300"
+        "title": "România - Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rom%C3%A2nia%20-%20Israel",
+        "pubdate": "Fri, 08 Sep 2023 10:00:00 +0300"
       }
     ],
     [
@@ -76,20 +69,6 @@
         "title": "Calendar ortodox septembrie 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calendar%20ortodox%20septembrie%202023",
         "pubdate": "Fri, 08 Sep 2023 07:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Meci romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meci%20romania",
-        "pubdate": "Fri, 08 Sep 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rugby",
-        "pubdate": "Fri, 08 Sep 2023 08:00:00 +0300"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Flori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori",
         "pubdate": "Fri, 08 Sep 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Smiley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Smiley",
+        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Queen Elizabeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Queen%20Elizabeth",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0300"
       }
     ]
   ]
