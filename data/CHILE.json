@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-09-2023 , 08:53:46",
+  "lastUpdate": "09-09-2023 , 09:07:42",
   "data": [
     [
       {
         "title": "Laguna de Aculeo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Laguna%20de%20Aculeo",
         "pubdate": "Sat, 09 Sep 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Terremoto en Marruecos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto%20en%20Marruecos",
+        "pubdate": "Sat, 09 Sep 2023 04:00:00 -0300"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Terremoto en Marruecos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto%20en%20Marruecos",
-        "pubdate": "Sat, 09 Sep 2023 04:00:00 -0300"
+        "title": "Las Condes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Las%20Condes",
+        "pubdate": "Sat, 09 Sep 2023 02:00:00 -0300"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Fri, 08 Sep 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil",
         "pubdate": "Fri, 08 Sep 2023 01:00:00 -0300"
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Fri, 08 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Mehssatou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mehssatou",
         "pubdate": "Fri, 08 Sep 2023 21:00:00 -0300"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Alexander Aravena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Aravena",
-        "pubdate": "Fri, 08 Sep 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "TVN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN",
         "pubdate": "Fri, 08 Sep 2023 21:00:00 -0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Gary Medel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gary%20Medel",
-        "pubdate": "Fri, 08 Sep 2023 21:00:00 -0300"
+        "title": "Alexander Aravena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Aravena",
+        "pubdate": "Fri, 08 Sep 2023 16:00:00 -0300"
       }
     ]
   ]
