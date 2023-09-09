@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2023 , 15:55:55",
+  "lastUpdate": "09-09-2023 , 16:14:24",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Namibia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Namibia",
         "pubdate": "Sat, 09 Sep 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Virgin Media",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Virgin%20Media",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Johnny Sexton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Johnny%20Sexton",
-        "pubdate": "Sat, 09 Sep 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Topher Grace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Topher%20Grace",
         "pubdate": "Sat, 09 Sep 2023 12:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Basketball World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Basketball%20World%20Cup",
-        "pubdate": "Sat, 09 Sep 2023 11:00:00 +0100"
+        "title": "Patrick Kielty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Patrick%20Kielty",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,20 @@
     ],
     [
       {
+        "title": "Basketball World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Basketball%20World%20Cup",
+        "pubdate": "Sat, 09 Sep 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Declan Hannon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Declan%20Hannon",
+        "pubdate": "Sat, 09 Sep 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ozempic",
         "pubdate": "Sat, 09 Sep 2023 02:00:00 +0100"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "England v Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#England%20v%20Argentina",
-        "pubdate": "Sat, 09 Sep 2023 15:00:00 +0100"
+        "title": "England Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#England%20Rugby",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Siobhan McCrohan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Siobhan%20McCrohan",
-        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jonah Lomu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jonah%20Lomu",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 +0100"
@@ -108,37 +115,30 @@
     ],
     [
       {
-        "title": "Rugby World Cup fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rugby%20World%20Cup%20fixtures",
-        "pubdate": "Fri, 08 Sep 2023 19:00:00 +0100"
+        "title": "Siobhan McCrohan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Siobhan%20McCrohan",
+        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Electric Picnic 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Electric%20Picnic%202024",
-        "pubdate": "Fri, 08 Sep 2023 09:00:00 +0100"
+        "title": "ITV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#ITV",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Shelton",
-        "pubdate": "Fri, 08 Sep 2023 23:00:00 +0100"
+        "title": "Leinster Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leinster%20Rugby",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Freddie Flintoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Freddie%20Flintoff",
-        "pubdate": "Fri, 08 Sep 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sidemen Charity Match 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sidemen%20Charity%20Match%202023",
-        "pubdate": "Fri, 08 Sep 2023 19:00:00 +0100"
+        "title": "Ashton Kutcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ashton%20Kutcher",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0100"
       }
     ]
   ]
