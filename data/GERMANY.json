@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2023 , 21:48:43",
+  "lastUpdate": "10-09-2023 , 21:57:59",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sport",
-        "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Moritz Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moritz%20Wagner",
         "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
@@ -45,23 +38,16 @@
     ],
     [
       {
-        "title": "Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "US-Open-Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Open-Finale",
-        "pubdate": "Sun, 10 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tatort: Erbarmen. Zu spät",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort:%20Erbarmen.%20Zu%20sp%C3%A4t",
         "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "US Open Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US%20Open%20Finale",
+        "pubdate": "Sun, 10 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,13 +59,6 @@
     ],
     [
       {
-        "title": "Peter Maffay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Maffay",
-        "pubdate": "Sun, 10 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Triathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Triathlon",
         "pubdate": "Sun, 10 Sep 2023 15:00:00 +0200"
@@ -87,8 +66,8 @@
     ],
     [
       {
-        "title": "Basketball-WM, Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM,%20Finale",
+        "title": "Basketball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM",
         "pubdate": "Sat, 09 Sep 2023 11:00:00 +0200"
       }
     ],
@@ -96,7 +75,7 @@
       {
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
+        "pubdate": "Sat, 09 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -104,13 +83,6 @@
         "title": "Erdbeben Marokko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdbeben%20Marokko",
         "pubdate": "Sat, 09 Sep 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -129,16 +101,44 @@
     ],
     [
       {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
-        "pubdate": "Sat, 09 Sep 2023 22:00:00 +0200"
+        "title": "Hallstatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hallstatt",
+        "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hallstatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hallstatt",
-        "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
+        "title": "G20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G20",
+        "pubdate": "Sat, 09 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Basketball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM",
+        "pubdate": "Fri, 08 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Japan",
+        "pubdate": "Fri, 08 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland gegen Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20Japan",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Basketball-WM Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM%20Finale",
+        "pubdate": "Fri, 08 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
