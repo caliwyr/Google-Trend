@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-09-2023 , 15:47:34",
+  "lastUpdate": "10-09-2023 , 15:56:56",
   "data": [
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
+        "pubdate": "Sun, 10 Sep 2023 20:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "KL Rahul",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "King's Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#King's%20Cup%202023",
+        "pubdate": "Sun, 10 Sep 2023 19:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Android",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Android",
         "pubdate": "Sun, 10 Sep 2023 11:30:00 +0530"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "India vs Lebanon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Lebanon",
-        "pubdate": "Sun, 10 Sep 2023 19:30:00 +0530"
+        "title": "The Nun II",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20Nun%20II",
+        "pubdate": "Sun, 10 Sep 2023 14:30:00 +0530"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Colombo weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Colombo%20weather",
+        "title": "Colombo Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Colombo%20Weather",
         "pubdate": "Sat, 09 Sep 2023 09:30:00 +0530"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Daniil Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Daniil%20Medvedev",
         "pubdate": "Sat, 09 Sep 2023 09:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Carlos%20Alcaraz",
-        "pubdate": "Sat, 09 Sep 2023 12:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Italy",
-        "pubdate": "Sat, 09 Sep 2023 18:30:00 +0530"
       }
     ]
   ]
