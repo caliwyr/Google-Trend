@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-09-2023 , 20:57:00",
+  "lastUpdate": "10-09-2023 , 21:11:07",
   "data": [
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC",
-        "pubdate": "Sun, 10 Sep 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Elon Musk",
@@ -27,6 +20,13 @@
         "title": "Grimes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grimes",
         "pubdate": "Sun, 10 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Lindh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anna%20Lindh",
+        "pubdate": "Sun, 10 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "PAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PAI",
         "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC",
+        "pubdate": "Sat, 09 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Gro Harlem Brundtland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gro%20Harlem%20Brundtland",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Woke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Woke",
         "pubdate": "Fri, 08 Sep 2023 22:00:00 +0200"
       }
     ]

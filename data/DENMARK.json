@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "10-09-2023 , 20:56:55",
+  "lastUpdate": "10-09-2023 , 21:11:02",
   "data": [
     [
       {
-        "title": "Israel Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Israel%20Adesanya",
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sun, 10 Sep 2023 02:00:00 +0200"
       }
     ],
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Finland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Finland",
         "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
-        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ruby Franke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ruby%20Franke",
         "pubdate": "Sun, 10 Sep 2023 09:00:00 +0200"
@@ -55,6 +55,13 @@
         "title": "Ashton Kutcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ashton%20Kutcher",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dennis Schröder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dennis%20Schr%C3%B6der",
+        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -83,20 +90,6 @@
         "title": "Priscilla Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Priscilla%20Presley",
         "pubdate": "Sun, 10 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dennis Schröder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dennis%20Schr%C3%B6der",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Delaney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Delaney",
-        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ukraine  England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ukraine%20%20England",
         "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sam%20Altman",
+        "pubdate": "Sat, 09 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
