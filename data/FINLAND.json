@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2023 , 18:53:04",
+  "lastUpdate": "10-09-2023 , 19:05:58",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "India vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#India%20vs%20Pakistan",
         "pubdate": "Sun, 10 Sep 2023 18:00:00 +0300"
@@ -27,6 +34,13 @@
         "title": "Widows",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Widows",
         "pubdate": "Sun, 10 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "World Trade Center",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#World%20Trade%20Center",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Pelicans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
+        "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Elvis Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elvis%20Presley",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyonce",
         "pubdate": "Sat, 09 Sep 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Crooner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crooner",
-        "pubdate": "Fri, 08 Sep 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Masked Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Masked%20Singer",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lionel%20Messi",
-        "pubdate": "Fri, 08 Sep 2023 20:00:00 +0300"
       }
     ]
   ]

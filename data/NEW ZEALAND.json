@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2023 , 18:53:08",
+  "lastUpdate": "10-09-2023 , 19:06:02",
   "data": [
     [
       {
@@ -38,8 +38,15 @@
     ],
     [
       {
-        "title": "IND vs PAK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20PAK",
+        "title": "Rugby World Cup results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rugby%20World%20Cup%20results",
+        "pubdate": "Sun, 10 Sep 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "IND vs Pak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20Pak",
         "pubdate": "Sun, 10 Sep 2023 20:00:00 +1200"
       }
     ],
@@ -48,13 +55,6 @@
         "title": "Tai Tuivasa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tai%20Tuivasa",
         "pubdate": "Sun, 10 Sep 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Rugby World Cup results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rugby%20World%20Cup%20results",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 +1200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Namibia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Namibia",
-        "pubdate": "Sun, 10 Sep 2023 00:00:00 +1200"
+        "title": "UFC schedule",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC%20schedule",
+        "pubdate": "Sun, 10 Sep 2023 15:00:00 +1200"
       }
     ]
   ]
