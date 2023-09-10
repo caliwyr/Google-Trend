@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "09-09-2023 , 23:56:51",
+  "lastUpdate": "10-09-2023 , 01:04:19",
   "data": [
     [
       {
-        "title": "River Plate  u Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20u%20Cat%C3%B3lica",
+        "title": "River Plate  U Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20U%20Cat%C3%B3lica",
         "pubdate": "Sat, 09 Sep 2023 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Alemania  Japón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania%20%20Jap%C3%B3n",
+        "title": "Alemania vs Japón",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania%20vs%20Jap%C3%B3n",
         "pubdate": "Sat, 09 Sep 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami  Sporting KC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20Miami%20%20Sporting%20KC",
+        "pubdate": "Sat, 09 Sep 2023 21:00:00 -0300"
       }
     ],
     [
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Rugby chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rugby%20chile",
-        "pubdate": "Sat, 09 Sep 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Paul vasquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paul%20vasquez",
-        "pubdate": "Sat, 09 Sep 2023 09:00:00 -0300"
+        "title": "Deportes Temuco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
+        "pubdate": "Sat, 09 Sep 2023 21:00:00 -0300"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Joey King",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joey%20King",
         "pubdate": "Sat, 09 Sep 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "San Luis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
+        "pubdate": "Sat, 09 Sep 2023 19:00:00 -0300"
       }
     ],
     [
@@ -59,29 +66,8 @@
     ],
     [
       {
-        "title": "Laguna de Aculeo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Laguna%20de%20Aculeo",
-        "pubdate": "Sat, 09 Sep 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate",
-        "pubdate": "Sat, 09 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Brazil vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brazil%20vs",
-        "pubdate": "Sat, 09 Sep 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bolivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolivia",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 -0300"
       }
     ],
@@ -97,6 +83,13 @@
         "title": "Tiramisu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiramisu",
         "pubdate": "Sat, 09 Sep 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Racing  Huracán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20Hurac%C3%A1n",
+        "pubdate": "Sat, 09 Sep 2023 21:00:00 -0300"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
-        "pubdate": "Fri, 08 Sep 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
         "pubdate": "Fri, 08 Sep 2023 17:00:00 -0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
+        "pubdate": "Fri, 08 Sep 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Djokovic",
         "pubdate": "Fri, 08 Sep 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Brasil vs Bolivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20vs%20Bolivia",
+        "pubdate": "Fri, 08 Sep 2023 09:00:00 -0300"
       }
     ]
   ]
