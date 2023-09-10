@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-09-2023 , 19:52:46",
+  "lastUpdate": "10-09-2023 , 20:06:57",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC",
+        "pubdate": "Sun, 10 Sep 2023 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Elon Musk",
@@ -41,6 +48,13 @@
         "title": "Hansi Flick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hansi%20Flick",
         "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PAI",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Woke",
         "pubdate": "Fri, 08 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lamine%20Yamal",
-        "pubdate": "Fri, 08 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Ødegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
-        "pubdate": "Fri, 08 Sep 2023 00:00:00 +0200"
       }
     ]
   ]
