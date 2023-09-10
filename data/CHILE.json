@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-09-2023 , 04:54:24",
+  "lastUpdate": "10-09-2023 , 05:08:49",
   "data": [
+    [
+      {
+        "title": "Salvador Allende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Salvador%20Allende",
+        "pubdate": "Sun, 10 Sep 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "México  Australia",
@@ -17,8 +24,15 @@
     ],
     [
       {
-        "title": "River Plate  U Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20U%20Cat%C3%B3lica",
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing",
+        "pubdate": "Sun, 10 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "River Plate  u Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20u%20Cat%C3%B3lica",
         "pubdate": "Sat, 09 Sep 2023 18:00:00 -0300"
       }
     ],
@@ -38,16 +52,9 @@
     ],
     [
       {
-        "title": "Alemania vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania%20vs",
-        "pubdate": "Sat, 09 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Coco Gauff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coco%20Gauff",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 -0300"
+        "title": "Japon vs Alemania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Japon%20vs%20Alemania",
+        "pubdate": "Sat, 09 Sep 2023 17:00:00 -0300"
       }
     ],
     [
@@ -59,30 +66,16 @@
     ],
     [
       {
-        "title": "Ucrania - Inglaterra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ucrania%20-%20Inglaterra",
-        "pubdate": "Sat, 09 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rugby chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rugby%20chile",
+        "title": "Rugby Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rugby%20Chile",
         "pubdate": "Sat, 09 Sep 2023 03:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Racing  Huracán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20Hurac%C3%A1n",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Scream",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Scream",
-        "pubdate": "Sat, 09 Sep 2023 17:00:00 -0300"
+        "title": "Ucrania vs Inglaterra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ucrania%20vs%20Inglaterra",
+        "pubdate": "Sat, 09 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Joey King",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joey%20King",
         "pubdate": "Sat, 09 Sep 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Scream",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Scream",
+        "pubdate": "Sat, 09 Sep 2023 17:00:00 -0300"
       }
     ],
     [
@@ -108,16 +108,23 @@
     ],
     [
       {
-        "title": "Tiramisu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiramisu",
-        "pubdate": "Sat, 09 Sep 2023 13:00:00 -0300"
+        "title": "UFC 293",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC%20293",
+        "pubdate": "Sat, 09 Sep 2023 23:00:00 -0300"
       }
     ],
     [
       {
-        "title": "UFC 293",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC%20293",
-        "pubdate": "Sat, 09 Sep 2023 23:00:00 -0300"
+        "title": "Bolivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolivia",
+        "pubdate": "Sat, 09 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tiramisu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiramisu",
+        "pubdate": "Sat, 09 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Anemia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anemia",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "All Blacks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#All%20Blacks",
-        "pubdate": "Sat, 09 Sep 2023 13:00:00 -0300"
       }
     ]
   ]
