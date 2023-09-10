@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2023 , 10:53:50",
+  "lastUpdate": "10-09-2023 , 11:06:46",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
+        "title": "Partij voor de Dieren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Partij%20voor%20de%20Dieren",
+        "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,22 +59,15 @@
     ],
     [
       {
-        "title": "Partij voor de Dieren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Partij%20voor%20de%20Dieren",
-        "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Telstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
-        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UFC 293",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20293",
+        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VVV-Venlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV-Venlo",
         "pubdate": "Sat, 09 Sep 2023 23:00:00 +0200"
       }
     ],
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Extinction Rebellion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Extinction%20Rebellion",
-        "pubdate": "Fri, 08 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Coco Gauff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coco%20Gauff",
         "pubdate": "Fri, 08 Sep 2023 14:00:00 +0200"
@@ -104,6 +97,13 @@
         "title": "Brigitte Bardot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brigitte%20Bardot",
         "pubdate": "Fri, 08 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "A12-blokkade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A12-blokkade",
+        "pubdate": "Fri, 08 Sep 2023 23:00:00 +0200"
       }
     ],
     [
