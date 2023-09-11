@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-09-2023 , 23:50:15",
+  "lastUpdate": "11-09-2023 , 23:59:39",
   "data": [
-    [
-      {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal",
-        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "9/11",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Unwetter in Libyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20in%20Libyen",
+        "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogba",
         "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
@@ -48,20 +48,6 @@
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
         "pubdate": "Mon, 11 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unwetter in Libyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20in%20Libyen",
-        "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple Keynote 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Keynote%202023",
-        "pubdate": "Mon, 11 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,8 +73,8 @@
     ],
     [
       {
-        "title": "Dennis Schröder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dennis%20Schr%C3%B6der",
+        "title": "Basketball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM",
         "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
       }
     ],
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Nordhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Prinz Harry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinz%20Harry",
         "pubdate": "Sun, 10 Sep 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Matthias Sammer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matthias%20Sammer",
         "pubdate": "Sun, 10 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
+        "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
