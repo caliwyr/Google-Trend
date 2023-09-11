@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 22:53:54",
+  "lastUpdate": "11-09-2023 , 23:08:41",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ticketmaster",
-        "pubdate": "Mon, 11 Sep 2023 12:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Timothee%20Chalamet",
         "pubdate": "Mon, 11 Sep 2023 22:00:00 +1200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Ginseng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ginseng",
+        "title": "The Weeknd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Weeknd",
         "pubdate": "Mon, 11 Sep 2023 21:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Indigenous",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Indigenous",
+        "pubdate": "Mon, 11 Sep 2023 14:00:00 +1200"
       }
     ]
   ]

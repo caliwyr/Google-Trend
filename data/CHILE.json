@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-09-2023 , 22:53:48",
+  "lastUpdate": "11-09-2023 , 23:08:36",
   "data": [
-    [
-      {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias",
-        "pubdate": "Mon, 11 Sep 2023 15:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Chile vs Colombia",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Portugal  Luxemburgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Portugal%20%20Luxemburgo",
-        "pubdate": "Mon, 11 Sep 2023 17:00:00 -0300"
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias",
+        "pubdate": "Mon, 11 Sep 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rugby Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rugby%20Chile",
+        "pubdate": "Mon, 11 Sep 2023 03:00:00 -0300"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Rugby Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rugby%20Chile",
-        "pubdate": "Mon, 11 Sep 2023 09:00:00 -0300"
+        "title": "Clasificatorias Mundial 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasificatorias%20Mundial%202026",
+        "pubdate": "Mon, 11 Sep 2023 18:00:00 -0300"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
+        "title": "Timothée Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Timoth%C3%A9e%20Chalamet",
+        "pubdate": "Mon, 11 Sep 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Tiempo en Viña",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20en%20Vi%C3%B1a",
-        "pubdate": "Mon, 11 Sep 2023 03:00:00 -0300"
+        "pubdate": "Mon, 11 Sep 2023 02:00:00 -0300"
       }
     ],
     [
@@ -101,20 +108,6 @@
     ],
     [
       {
-        "title": "Kylie Jenner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kylie%20Jenner",
-        "pubdate": "Mon, 11 Sep 2023 08:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Eliminatorias Sudamericanas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias%20Sudamericanas",
-        "pubdate": "Mon, 11 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Portugal",
         "pubdate": "Mon, 11 Sep 2023 17:00:00 -0300"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Clasificatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasificatorias",
-        "pubdate": "Mon, 11 Sep 2023 18:00:00 -0300"
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias%20Sudamericanas",
+        "pubdate": "Mon, 11 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ricardo Lagos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Lagos",
         "pubdate": "Mon, 11 Sep 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Partidos Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20Eliminatorias",
+        "pubdate": "Mon, 11 Sep 2023 17:00:00 -0300"
       }
     ]
   ]
