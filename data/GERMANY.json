@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-09-2023 , 20:53:54",
+  "lastUpdate": "11-09-2023 , 21:07:59",
   "data": [
-    [
-      {
-        "title": "9/11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#9/11",
-        "pubdate": "Mon, 11 Sep 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Djokovic",
@@ -24,6 +17,27 @@
     ],
     [
       {
+        "title": "9/11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#9/11",
+        "pubdate": "Mon, 11 Sep 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Annalena Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Annalena%20Baerbock",
+        "pubdate": "Mon, 11 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "11. September",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#11.%20September",
+        "pubdate": "Mon, 11 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rubiales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rubiales",
         "pubdate": "Mon, 11 Sep 2023 12:00:00 +0200"
@@ -31,9 +45,16 @@
     ],
     [
       {
-        "title": "Apple Event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Event",
+        "title": "World Trade Center",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#World%20Trade%20Center",
         "pubdate": "Mon, 11 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple Keynote 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Keynote%202023",
+        "pubdate": "Mon, 11 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,16 +66,16 @@
     ],
     [
       {
-        "title": "Basketball-WM Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM%20Finale",
+        "title": "Dennis Schröder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dennis%20Schr%C3%B6der",
         "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gordon Herbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gordon%20Herbert",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
+        "title": "Van Gaal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Van%20Gaal",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Jan Frodeno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jan%20Frodeno",
-        "pubdate": "Sun, 10 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tatort Erbarmen. Zu spät",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Erbarmen.%20Zu%20sp%C3%A4t",
         "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Isaac Bonga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Isaac%20Bonga",
-        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
+        "title": "AfD Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20Alice%20Weidel",
+        "pubdate": "Sun, 10 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LeBron%20James",
-        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
+        "title": "Frodeno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frodeno",
+        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
         "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdbeben Marokko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdbeben%20Marokko",
-        "pubdate": "Sat, 09 Sep 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland - Serbien Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20-%20Serbien%20Basketball",
-        "pubdate": "Sat, 09 Sep 2023 11:00:00 +0200"
       }
     ]
   ]
