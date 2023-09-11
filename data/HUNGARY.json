@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 04:56:03",
+  "lastUpdate": "11-09-2023 , 05:11:59",
   "data": [
     [
       {
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Német válogatott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9met%20v%C3%A1logatott",
-        "pubdate": "Sun, 10 Sep 2023 13:00:00 +0200"
+        "title": "Montenegró–Bulgária",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Montenegr%C3%B3%E2%80%93Bulg%C3%A1ria",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Nagy Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Zsolt",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Puzsér Róbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Puzs%C3%A9r%20R%C3%B3bert",
-        "pubdate": "Sun, 10 Sep 2023 09:00:00 +0200"
+        "title": "Német válogatott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9met%20v%C3%A1logatott",
+        "pubdate": "Sun, 10 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Montenegro bulgaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Montenegro%20bulgaria",
-        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gyurcsány Ferenc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyurcs%C3%A1ny%20Ferenc",
         "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Himnusz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Himnusz",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Halász Judit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1sz%20Judit",
         "pubdate": "Sun, 10 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magyarország–csehország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g%E2%80%93csehorsz%C3%A1g",
+        "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
