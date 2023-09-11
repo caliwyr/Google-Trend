@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 14:54:13",
+  "lastUpdate": "11-09-2023 , 15:10:06",
   "data": [
     [
       {
@@ -38,8 +38,15 @@
     ],
     [
       {
-        "title": "9/11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#9/11",
+        "title": "Spice Girls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spice%20Girls",
+        "pubdate": "Mon, 11 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "911",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#911",
         "pubdate": "Mon, 11 Sep 2023 13:00:00 +0200"
       }
     ],
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Vuelta a Espana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20Espana",
+        "title": "Vuelta a espana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20espana",
         "pubdate": "Sun, 10 Sep 2023 16:00:00 +0200"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Dennis Schröder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dennis%20Schr%C3%B6der",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami  Sporting KC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami%20%20Sporting%20KC",
         "pubdate": "Sun, 10 Sep 2023 07:00:00 +0200"
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Roti canai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roti%20canai",
+        "title": "Dennis Schröder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dennis%20Schr%C3%B6der",
         "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
       }
     ],
