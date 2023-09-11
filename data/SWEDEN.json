@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 16:50:10",
+  "lastUpdate": "11-09-2023 , 16:59:26",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Färjestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
         "pubdate": "Mon, 11 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sven-Bertil Taube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sven-Bertil%20Taube",
+        "pubdate": "Mon, 11 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Hammarby Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Djurg%C3%A5rden",
+        "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Berberine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Berberine",
         "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Gyökeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gy%C3%B6keres",
+        "title": "Viktor Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viktor%20Gy%C3%B6keres",
         "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Morocco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morocco",
-        "pubdate": "Sat, 09 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joakim Lundell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joakim%20Lundell",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ashton Kutcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ashton%20Kutcher",
-        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0200"
+        "title": "Stashing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stashing",
+        "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
       }
     ]
   ]

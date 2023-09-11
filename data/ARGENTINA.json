@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 16:49:57",
+  "lastUpdate": "11-09-2023 , 16:59:14",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Quilmes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quilmes",
-        "pubdate": "Mon, 11 Sep 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "IPV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IPV",
         "pubdate": "Mon, 11 Sep 2023 12:00:00 -0300"
@@ -66,9 +59,37 @@
     ],
     [
       {
+        "title": "Federer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Federer",
+        "pubdate": "Mon, 11 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Quilmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quilmes",
+        "pubdate": "Mon, 11 Sep 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Dia del Maestro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Maestro",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 -0300"
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Djokovic",
+        "pubdate": "Sun, 10 Sep 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "11 de septiembre feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#11%20de%20septiembre%20feriado",
+        "pubdate": "Sun, 10 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -76,13 +97,6 @@
         "title": "Chacarita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chacarita",
         "pubdate": "Sun, 10 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Independiente Rivadavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20Rivadavia",
-        "pubdate": "Sun, 10 Sep 2023 22:00:00 -0300"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Feriado 11 de septiembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feriado%2011%20de%20septiembre",
-        "pubdate": "Sun, 10 Sep 2023 15:00:00 -0300"
+        "title": "Independiente Rivadavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20Rivadavia",
+        "pubdate": "Sun, 10 Sep 2023 22:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "IndyCar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IndyCar",
         "pubdate": "Sun, 10 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UFC",
-        "pubdate": "Sun, 10 Sep 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "México  Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#M%C3%A9xico%20%20Australia",
-        "pubdate": "Sun, 10 Sep 2023 00:00:00 -0300"
       }
     ]
   ]
