@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 02:58:51",
+  "lastUpdate": "11-09-2023 , 03:17:27",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Vuelta a Espana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20Espana",
+        "title": "Vuelta a espana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta%20a%20espana",
         "pubdate": "Sun, 10 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Finland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Finland",
         "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
-        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Jane Fonda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jane%20Fonda",
+        "pubdate": "Sun, 10 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Halloumi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Halloumi",
         "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Dolly Parton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dolly%20Parton",
         "pubdate": "Sat, 09 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medvedev",
-        "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
