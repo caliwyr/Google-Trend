@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "10-09-2023 , 23:57:09",
+  "lastUpdate": "11-09-2023 , 01:04:52",
   "data": [
     [
       {
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bengals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
       }
     ],
@@ -31,8 +17,29 @@
     ],
     [
       {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Packers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Packers",
+        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
-        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Baltimore Ravens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Baltimore%20Ravens",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
@@ -59,50 +59,8 @@
     ],
     [
       {
-        "title": "Michigan State football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20football",
-        "pubdate": "Sun, 10 Sep 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Falcons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons",
-        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Saints",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Washington Commanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Commanders",
-        "pubdate": "Sun, 10 Sep 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Colts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
-        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Auburn football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20football",
+        "title": "Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
         "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
       }
     ],
@@ -115,9 +73,16 @@
     ],
     [
       {
-        "title": "Ashton Kutcher Mila Kunis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashton%20Kutcher%20Mila%20Kunis",
-        "pubdate": "Sun, 10 Sep 2023 00:00:00 -0700"
+        "title": "Falcons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons",
+        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Washington Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Commanders",
+        "pubdate": "Sun, 10 Sep 2023 10:00:00 -0700"
       }
     ],
     [
@@ -129,16 +94,51 @@
     ],
     [
       {
-        "title": "NFL Sunday Ticket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Sunday%20Ticket",
+        "title": "Colts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
+        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Michigan State football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20football",
         "pubdate": "Sun, 10 Sep 2023 06:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Joe Burrow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Burrow",
-        "pubdate": "Sun, 10 Sep 2023 13:00:00 -0700"
+        "title": "Saints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
+        "pubdate": "Sun, 10 Sep 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Auburn football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20football",
+        "pubdate": "Sun, 10 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Ashton Kutcher Mila Kunis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashton%20Kutcher%20Mila%20Kunis",
+        "pubdate": "Sun, 10 Sep 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jets",
+        "pubdate": "Sun, 10 Sep 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Novak%20Djokovic",
+        "pubdate": "Sun, 10 Sep 2023 07:00:00 -0700"
       }
     ]
   ]
