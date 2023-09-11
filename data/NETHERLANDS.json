@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 18:58:11",
+  "lastUpdate": "11-09-2023 , 19:12:30",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Taghi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taghi",
+        "pubdate": "Mon, 11 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Geert Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
         "pubdate": "Mon, 11 Sep 2023 19:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Sun, 10 Sep 2023 12:00:00 +0200"
+        "title": "9/11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#9/11",
+        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "9/11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#9/11",
-        "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
+        "title": "Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Weghorst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weghorst",
+        "pubdate": "Sun, 10 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Hansi Flick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hansi%20Flick",
-        "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
+        "title": "FC Utrecht vrouwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht%20vrouwen",
+        "pubdate": "Sun, 10 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Virgil van Dijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Virgil%20van%20Dijk",
-        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Medvedev",
         "pubdate": "Sat, 09 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sunglow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sunglow",
-        "pubdate": "Sat, 09 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
