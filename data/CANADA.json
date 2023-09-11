@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 21:56:11",
+  "lastUpdate": "11-09-2023 , 22:11:35",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tesla%20stock",
+        "pubdate": "Mon, 11 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Grammarly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grammarly",
         "pubdate": "Mon, 11 Sep 2023 15:00:00 -0400"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tesla%20stock",
-        "pubdate": "Mon, 11 Sep 2023 11:00:00 -0400"
+        "title": "Drive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drive",
+        "pubdate": "Mon, 11 Sep 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drive",
-        "pubdate": "Mon, 11 Sep 2023 12:00:00 -0400"
+        "title": "Portugal vs Luxembourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Portugal%20vs%20Luxembourg",
+        "pubdate": "Mon, 11 Sep 2023 16:00:00 -0400"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Apple stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20stock",
-        "pubdate": "Mon, 11 Sep 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Manulife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manulife",
         "pubdate": "Mon, 11 Sep 2023 13:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Calendar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calendar",
-        "pubdate": "Mon, 11 Sep 2023 14:00:00 -0400"
+        "title": "Apple stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20stock",
+        "pubdate": "Mon, 11 Sep 2023 13:00:00 -0400"
       }
     ]
   ]
