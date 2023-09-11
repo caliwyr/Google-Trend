@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-09-2023 , 12:52:37",
+  "lastUpdate": "11-09-2023 , 13:10:14",
   "data": [
     [
       {
         "title": "Voetbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
         "pubdate": "Mon, 11 Sep 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chris Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chris%20Evans",
+        "pubdate": "Mon, 11 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Chris Evans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chris%20Evans",
-        "pubdate": "Mon, 11 Sep 2023 12:00:00 +0200"
+        "title": "9/11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#9/11",
+        "pubdate": "Mon, 11 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Extinction Rebellion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Extinction%20Rebellion",
-        "pubdate": "Sun, 10 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "9/11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#9/11",
         "pubdate": "Sun, 10 Sep 2023 18:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Elon%20Musk",
         "pubdate": "Sun, 10 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK",
+        "pubdate": "Sun, 10 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Aardbeving Marokko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Aardbeving%20Marokko",
         "pubdate": "Sat, 09 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carice van Houten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carice%20van%20Houten",
-        "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
