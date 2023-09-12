@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-09-2023 , 18:56:37",
+  "lastUpdate": "12-09-2023 , 19:10:25",
   "data": [
     [
       {
         "title": "iPhone 15",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#iPhone%2015",
         "pubdate": "Tue, 12 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France Allemagne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Allemagne",
+        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,23 @@
     ],
     [
       {
+        "title": "Maroc Burkina Faso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc%20Burkina%20Faso",
+        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Botulisme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Botulisme",
         "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jamel Debbouze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jamel%20Debbouze",
+        "pubdate": "Tue, 12 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,58 +52,16 @@
     ],
     [
       {
+        "title": "Mohamed Bouhafsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mohamed%20Bouhafsi",
+        "pubdate": "Tue, 12 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mohammed VI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mohammed%20VI",
         "pubdate": "Tue, 12 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maroc Burkina Faso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc%20Burkina%20Faso",
-        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "France Allemagne foot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Allemagne%20foot",
-        "pubdate": "Tue, 12 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vianney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vianney",
-        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Algerie Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Algerie%20Maroc",
-        "pubdate": "Tue, 12 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mort cerebrale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mort%20cerebrale",
-        "pubdate": "Tue, 12 Sep 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barbara Opsomer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barbara%20Opsomer",
-        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nathan Van Hooydonck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nathan%20Van%20Hooydonck",
-        "pubdate": "Tue, 12 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -94,9 +73,16 @@
     ],
     [
       {
-        "title": "Marocain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marocain",
+        "title": "Vianney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vianney",
         "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Algerie maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Algerie%20maroc",
+        "pubdate": "Tue, 12 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,6 +94,34 @@
     ],
     [
       {
+        "title": "Nathan Van Hooydonck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nathan%20Van%20Hooydonck",
+        "pubdate": "Tue, 12 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mort cerebrale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mort%20cerebrale",
+        "pubdate": "Tue, 12 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yvan Attal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yvan%20Attal",
+        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barbara Opsomer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barbara%20Opsomer",
+        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Luxembourg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Luxembourg",
         "pubdate": "Tue, 12 Sep 2023 15:00:00 +0200"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Kim Jong-un",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kim%20Jong-un",
+        "pubdate": "Tue, 12 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Edouard philippe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20philippe",
         "pubdate": "Mon, 11 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pogba",
-        "pubdate": "Mon, 11 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portugal – Luxembourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Portugal%20%E2%80%93%20Luxembourg",
-        "pubdate": "Mon, 11 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic",
-        "pubdate": "Mon, 11 Sep 2023 02:00:00 +0200"
       }
     ]
   ]
