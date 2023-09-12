@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-09-2023 , 07:49:58",
+  "lastUpdate": "12-09-2023 , 07:59:08",
   "data": [
+    [
+      {
+        "title": "Apple Event",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Apple%20Event",
+        "pubdate": "Tue, 12 Sep 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Apple Keynote",
@@ -41,13 +48,6 @@
         "title": "Harry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Harry",
         "pubdate": "Mon, 11 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Microsoft Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Microsoft%20Teams",
-        "pubdate": "Mon, 11 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Grimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Grimes",
-        "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dennis schroder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dennis%20schroder",
         "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Vykoupení z věznice Shawshank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vykoupen%C3%AD%20z%20v%C4%9Bznice%20Shawshank",
         "pubdate": "Sat, 09 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Julia Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Julia%20Fox",
+        "pubdate": "Sat, 09 Sep 2023 23:00:00 +0200"
       }
     ]
   ]

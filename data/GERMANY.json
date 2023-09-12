@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-09-2023 , 07:49:59",
+  "lastUpdate": "12-09-2023 , 07:59:10",
   "data": [
+    [
+      {
+        "title": "Aaron Rodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aaron%20Rodgers",
+        "pubdate": "Tue, 12 Sep 2023 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Portugal",
@@ -27,6 +34,13 @@
         "title": "Unwetter in Libyen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20in%20Libyen",
         "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Love Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Love%20Island",
+        "pubdate": "Mon, 11 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Pinochet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pinochet",
-        "pubdate": "Mon, 11 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Melanie Leupolz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melanie%20Leupolz",
         "pubdate": "Mon, 11 Sep 2023 20:00:00 +0200"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Basketball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball-WM",
+        "title": "Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball",
         "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL",
-        "pubdate": "Sun, 10 Sep 2023 22:00:00 +0200"
+        "title": "Van Gaal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Van%20Gaal",
+        "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Triathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Triathlon",
         "pubdate": "Sun, 10 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Sat, 09 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
