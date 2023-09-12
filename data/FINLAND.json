@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2023 , 23:59:38",
+  "lastUpdate": "12-09-2023 , 01:15:17",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "911",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#911",
         "pubdate": "Mon, 11 Sep 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WTC",
-        "pubdate": "Mon, 11 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "WTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WTC",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami – Sporting KC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20Miami%20%E2%80%93%20Sporting%20KC",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "World Trade Center",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#World%20Trade%20Center",
-        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "India vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#India%20vs%20Pakistan",
         "pubdate": "Sun, 10 Sep 2023 18:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sabalenka",
         "pubdate": "Sat, 09 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Marrakech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marrakech",
+        "pubdate": "Sat, 09 Sep 2023 16:00:00 +0300"
       }
     ]
   ]
