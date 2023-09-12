@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2023 , 13:55:42",
+  "lastUpdate": "12-09-2023 , 14:11:21",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Ba.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ba.no",
-        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Martin Ødegaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
         "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
@@ -31,15 +24,22 @@
     ],
     [
       {
-        "title": "An",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#An",
-        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
+        "title": "Ba.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ba.no",
+        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tromsø",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Troms%C3%B8",
+        "title": "Sunnhordland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sunnhordland",
+        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "An",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#An",
         "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
       }
     ],
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Trygve Slagsvold Vedum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trygve%20Slagsvold%20Vedum",
-        "pubdate": "Tue, 12 Sep 2023 01:00:00 +0200"
+        "title": "Libya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Libya",
+        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Libya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Libya",
-        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
+        "title": "Trygve Slagsvold Vedum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trygve%20Slagsvold%20Vedum",
+        "pubdate": "Tue, 12 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Fvn.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fvn.no",
+        "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Charlie Newling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Charlie%20Newling",
         "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Nrk.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nrk.no",
-        "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
+        "title": "Amta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amta",
+        "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "INP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#INP",
-        "pubdate": "Mon, 11 Sep 2023 10:00:00 +0200"
+        "title": "Nrk.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nrk.no",
+        "pubdate": "Mon, 11 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Alba Baptista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alba%20Baptista",
         "pubdate": "Mon, 11 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rauma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rauma",
-        "pubdate": "Mon, 11 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
