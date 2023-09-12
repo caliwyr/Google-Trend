@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2023 , 03:53:46",
+  "lastUpdate": "12-09-2023 , 04:10:53",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "WTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WTC",
-        "pubdate": "Mon, 11 Sep 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Mot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mot",
         "pubdate": "Mon, 11 Sep 2023 19:00:00 +0300"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "WTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WTC",
+        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami – Sporting KC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20Miami%20%E2%80%93%20Sporting%20KC",
         "pubdate": "Sun, 10 Sep 2023 08:00:00 +0300"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "World Trade Center",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#World%20Trade%20Center",
-        "pubdate": "Sun, 10 Sep 2023 21:00:00 +0300"
+        "title": "Green Book",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Green%20Book",
+        "pubdate": "Sun, 10 Sep 2023 22:00:00 +0300"
       }
     ],
     [
