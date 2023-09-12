@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2023 , 17:55:23",
+  "lastUpdate": "12-09-2023 , 18:14:29",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
+        "pubdate": "Mon, 11 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
         "pubdate": "Mon, 11 Sep 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Prinz Harry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinz%20Harry",
         "pubdate": "Sun, 10 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Triathlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Triathlon",
-        "pubdate": "Sun, 10 Sep 2023 15:00:00 +0200"
       }
     ]
   ]

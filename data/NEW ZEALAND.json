@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2023 , 17:55:26",
+  "lastUpdate": "12-09-2023 , 18:14:34",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "DoorDash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DoorDash",
         "pubdate": "Tue, 12 Sep 2023 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Margot%20Robbie",
+        "pubdate": "Tue, 12 Sep 2023 20:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Timothee%20Chalamet",
         "pubdate": "Mon, 11 Sep 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "9/11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#9/11",
-        "pubdate": "Mon, 11 Sep 2023 11:00:00 +1200"
       }
     ]
   ]
