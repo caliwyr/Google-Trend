@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "13-09-2023 , 12:44:17",
+  "lastUpdate": "13-09-2023 , 13:01:04",
   "data": [
-    [
-      {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
-        "pubdate": "Wed, 13 Sep 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Nagelsmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Worms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Worms",
-        "pubdate": "Wed, 13 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -31,8 +17,8 @@
     ],
     [
       {
-        "title": "MSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MSC",
+        "title": "Wahl-O-Mat Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl-O-Mat%20Bayern",
         "pubdate": "Wed, 13 Sep 2023 12:00:00 +0200"
       }
     ],
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD",
-        "pubdate": "Tue, 12 Sep 2023 21:00:00 +0200"
+        "title": "Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
+        "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Tue, 12 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Styles",
+        "pubdate": "Tue, 12 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal",
         "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Gündogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BCndogan",
-        "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "A2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#A2",
-        "pubdate": "Tue, 12 Sep 2023 18:00:00 +0200"
+        "title": "Zoo Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zoo%20Salzburg",
+        "pubdate": "Tue, 12 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Wetterleuchten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wetterleuchten",
-        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
+        "title": "Gewitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
+        "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simona Halep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simona%20Halep",
+        "pubdate": "Tue, 12 Sep 2023 23:00:00 +0200"
       }
     ]
   ]
