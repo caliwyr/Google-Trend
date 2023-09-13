@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "13-09-2023 , 14:57:41",
+  "lastUpdate": "13-09-2023 , 15:15:57",
   "data": [
     [
       {
         "title": "Apple Watch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Apple%20Watch",
-        "pubdate": "Wed, 13 Sep 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "AirPods Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AirPods%20Pro",
         "pubdate": "Wed, 13 Sep 2023 09:00:00 +0800"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "AirPods Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AirPods%20Pro",
+        "pubdate": "Wed, 13 Sep 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "鬼門關夜市",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AC%BC%E9%96%80%E9%97%9C%E5%A4%9C%E5%B8%82",
         "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#CPI",
+        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0800"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "柯美蘭",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E7%BE%8E%E8%98%AD",
+        "title": "傑尼斯",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%82%91%E5%B0%BC%E6%96%AF",
         "pubdate": "Wed, 13 Sep 2023 08:00:00 +0800"
       }
     ],
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#CPI",
-        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0800"
+        "title": "柯美蘭",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E7%BE%8E%E8%98%AD",
+        "pubdate": "Wed, 13 Sep 2023 08:00:00 +0800"
       }
     ],
     [
       {
-        "title": "傑尼斯",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%82%91%E5%B0%BC%E6%96%AF",
-        "pubdate": "Wed, 13 Sep 2023 08:00:00 +0800"
+        "title": "MagSafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MagSafe",
+        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Pixel 8",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Pixel%208",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "iPhone 12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#iPhone%2012",
         "pubdate": "Wed, 13 Sep 2023 12:00:00 +0800"
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Pixel 8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Pixel%208",
+        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Unity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Unity",
         "pubdate": "Wed, 13 Sep 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "三星手機",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%89%E6%98%9F%E6%89%8B%E6%A9%9F",
+        "pubdate": "Wed, 13 Sep 2023 22:00:00 +0800"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "MagSafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MagSafe",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "郭家雞肉飯",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E5%AE%B6%E9%9B%9E%E8%82%89%E9%A3%AF",
         "pubdate": "Wed, 13 Sep 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "堤維西",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A0%A4%E7%B6%AD%E8%A5%BF",
-        "pubdate": "Wed, 13 Sep 2023 12:00:00 +0800"
       }
     ]
   ]
