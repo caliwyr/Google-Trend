@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-09-2023 , 09:51:10",
+  "lastUpdate": "13-09-2023 , 10:00:24",
   "data": [
+    [
+      {
+        "title": "iPhone 14 Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iPhone%2014%20Pro",
+        "pubdate": "Wed, 13 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sylwia Grzeszczak",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Siatkówka mecze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siatk%C3%B3wka%20mecze",
-        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sławomir Mentzen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Mentzen",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
@@ -47,13 +47,6 @@
       {
         "title": "Natalia Nykiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natalia%20Nykiel",
-        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Apple%2015",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
       }
     ],
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Bari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bari",
-        "pubdate": "Tue, 12 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Apple Watch 9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Apple%20Watch%209",
         "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
@@ -108,16 +94,9 @@
     ],
     [
       {
-        "title": "iOS 17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2017",
-        "pubdate": "Tue, 12 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spot Kaczyńskiego",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Spot%20Kaczy%C5%84skiego",
-        "pubdate": "Tue, 12 Sep 2023 08:00:00 +0200"
+        "title": "Bari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bari",
+        "pubdate": "Tue, 12 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -129,6 +108,20 @@
     ],
     [
       {
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2017",
+        "pubdate": "Tue, 12 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Natalia Maliszewska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natalia%20Maliszewska",
+        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Simona Halep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Simona%20Halep",
         "pubdate": "Tue, 12 Sep 2023 21:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Teściowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Te%C5%9Bciowie",
-        "pubdate": "Tue, 12 Sep 2023 17:00:00 +0200"
+        "title": "Libia powódź",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Libia%20pow%C3%B3d%C5%BA",
+        "pubdate": "Tue, 12 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kate%20Middleton",
+        "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
