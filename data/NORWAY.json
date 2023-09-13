@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "13-09-2023 , 01:59:13",
+  "lastUpdate": "13-09-2023 , 02:22:52",
   "data": [
     [
       {
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England",
         "pubdate": "Wed, 13 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
-        "pubdate": "Tue, 12 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "Martin Ødegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
-        "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Smp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Smp",
         "pubdate": "Tue, 12 Sep 2023 07:00:00 +0200"
@@ -38,16 +24,16 @@
     ],
     [
       {
-        "title": "Libya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Libya",
-        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
+        "title": "Martin Ødegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
+        "pubdate": "Tue, 12 Sep 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bt.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bt.no",
-        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
+        "title": "Libya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Libya",
+        "pubdate": "Tue, 12 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -69,6 +55,20 @@
         "title": "Jørgen Strand Larsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#J%C3%B8rgen%20Strand%20Larsen",
         "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ødegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98degaard",
+        "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sissel Knutsen Hegdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sissel%20Knutsen%20Hegdal",
+        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "An.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#An.no",
-        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Terje Søviknes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Terje%20S%C3%B8viknes",
         "pubdate": "Tue, 12 Sep 2023 08:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Apple Watch Ultra 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Apple%20Watch%20Ultra%202",
-        "pubdate": "Tue, 12 Sep 2023 23:00:00 +0200"
+        "title": "Valg Kristiansand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valg%20Kristiansand",
+        "pubdate": "Tue, 12 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sarpsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg",
+        "pubdate": "Tue, 12 Sep 2023 09:00:00 +0200"
       }
     ]
   ]
