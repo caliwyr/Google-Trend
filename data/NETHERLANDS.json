@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2023 , 16:59:31",
+  "lastUpdate": "13-09-2023 , 17:16:24",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Angliru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Angliru",
         "pubdate": "Wed, 13 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
+        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Carice van Houten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carice%20van%20Houten",
         "pubdate": "Sat, 09 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Partij voor de Dieren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Partij%20voor%20de%20Dieren",
-        "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
       }
     ]
   ]

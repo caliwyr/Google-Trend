@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2023 , 16:59:23",
+  "lastUpdate": "13-09-2023 , 17:16:16",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Perth Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Weather",
+        "title": "Perth weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20weather",
         "pubdate": "Wed, 13 Sep 2023 13:00:00 +1000"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Tim Gurner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Gurner",
         "pubdate": "Wed, 13 Sep 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Apple Watch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Watch",
-        "pubdate": "Wed, 13 Sep 2023 20:00:00 +1000"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "iPhone 12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#iPhone%2012",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "USB-C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USB-C",
+        "pubdate": "Wed, 13 Sep 2023 11:00:00 +1000"
       }
     ],
     [
