@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-09-2023 , 23:59:42",
+  "lastUpdate": "13-09-2023 , 01:18:02",
   "data": [
-    [
-      {
-        "title": "TPS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TPS",
-        "pubdate": "Wed, 13 Sep 2023 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "iPhone 15",
@@ -139,6 +132,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Novak%20Djokovic",
         "pubdate": "Mon, 11 Sep 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alba Baptista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alba%20Baptista",
+        "pubdate": "Mon, 11 Sep 2023 15:00:00 +0300"
       }
     ]
   ]
