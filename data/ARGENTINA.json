@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "14-09-2023 , 04:54:34",
+  "lastUpdate": "14-09-2023 , 05:09:52",
   "data": [
     [
       {
         "title": "Devolucion de IVA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Devolucion%20de%20IVA",
-        "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional",
         "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
-        "title": "Campeonato Argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Campeonato%20Argentino",
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional",
         "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Elementos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elementos",
+        "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Nasa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nasa",
+        "pubdate": "Thu, 14 Sep 2023 01:00:00 -0300"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Central cordoba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20cordoba",
-        "pubdate": "Wed, 13 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Inflacion agosto 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inflacion%20agosto%202023",
         "pubdate": "Wed, 13 Sep 2023 17:00:00 -0300"
@@ -66,8 +66,15 @@
     ],
     [
       {
-        "title": "Partido Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20Argentina",
+        "title": "Central cordoba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20cordoba",
+        "pubdate": "Wed, 13 Sep 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Coki ramirez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Coki%20ramirez",
         "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
       }
     ],
@@ -76,13 +83,6 @@
         "title": "Dia del Chocolate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Chocolate",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Coki ramirez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Coki%20ramirez",
-        "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "Pity alvarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pity%20alvarez",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Asperger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Asperger",
-        "pubdate": "Wed, 13 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Credito Anses trabajadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Credito%20Anses%20trabajadores",
-        "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
+        "title": "Resultados Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Resultados%20Eliminatorias",
+        "pubdate": "Wed, 13 Sep 2023 01:00:00 -0300"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Internacional  São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional%20%20S%C3%A3o%20Paulo",
-        "pubdate": "Wed, 13 Sep 2023 22:00:00 -0300"
+        "title": "Asperger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Asperger",
+        "pubdate": "Wed, 13 Sep 2023 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Superliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Superliga",
-        "pubdate": "Wed, 13 Sep 2023 21:00:00 -0300"
+        "title": "Pity alvarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pity%20alvarez",
+        "pubdate": "Wed, 13 Sep 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Credito ANSES trabajadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Credito%20ANSES%20trabajadores",
+        "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Internacional  São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional%20%20S%C3%A3o%20Paulo",
+        "pubdate": "Wed, 13 Sep 2023 22:00:00 -0300"
       }
     ]
   ]
