@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2023 , 02:49:04",
+  "lastUpdate": "14-09-2023 , 02:58:31",
   "data": [
     [
       {
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France",
-        "pubdate": "Wed, 13 Sep 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Autopsy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Autopsy",
         "pubdate": "Wed, 13 Sep 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Buchi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Buchi",
-        "pubdate": "Wed, 13 Sep 2023 16:00:00 +0100"
       }
     ],
     [
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "iOS 17 release date",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#iOS%2017%20release%20date",
-        "pubdate": "Wed, 13 Sep 2023 01:00:00 +0100"
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France",
+        "pubdate": "Wed, 13 Sep 2023 19:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "iOS 17 release date",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#iOS%2017%20release%20date",
+        "pubdate": "Wed, 13 Sep 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Wizard of Oz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wizard%20of%20Oz",
         "pubdate": "Wed, 13 Sep 2023 21:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Kendry Paez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kendry%20Paez",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0100"
+        "title": "Desire Oparanozie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Desire%20Oparanozie",
+        "pubdate": "Wed, 13 Sep 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lamine%20Yamal",
+        "pubdate": "Wed, 13 Sep 2023 20:00:00 +0100"
       }
     ]
   ]

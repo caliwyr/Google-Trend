@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-09-2023 , 02:49:05",
+  "lastUpdate": "14-09-2023 , 02:58:32",
   "data": [
     [
       {
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
         "pubdate": "Thu, 14 Sep 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fernando Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Santos",
+        "pubdate": "Thu, 14 Sep 2023 00:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Snapdragon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Snapdragon",
         "pubdate": "Thu, 14 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NASA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NASA",
+        "pubdate": "Thu, 14 Sep 2023 03:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Brasil x Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasil%20x%20Peru",
+        "pubdate": "Wed, 13 Sep 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nolito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nolito",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Bebe morre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bebe%20morre",
-        "pubdate": "Wed, 13 Sep 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Selena%20Gomez",
         "pubdate": "Wed, 13 Sep 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angliru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Angliru",
-        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Harry%20Maguire",
-        "pubdate": "Wed, 13 Sep 2023 09:00:00 +0100"
       }
     ]
   ]
