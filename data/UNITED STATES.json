@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "14-09-2023 , 11:53:03",
+  "lastUpdate": "14-09-2023 , 12:14:33",
   "data": [
+    [
+      {
+        "title": "DACA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DACA",
+        "pubdate": "Thu, 14 Sep 2023 01:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nintendo%20Direct",
+        "pubdate": "Thu, 14 Sep 2023 01:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Arm IPO",
@@ -20,13 +34,6 @@
         "title": "Lauren Boebert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lauren%20Boebert",
         "pubdate": "Wed, 13 Sep 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "UNC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC",
-        "pubdate": "Wed, 13 Sep 2023 11:00:00 -0700"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "UNC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC",
+        "pubdate": "Wed, 13 Sep 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Stetson Bennett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stetson%20Bennett",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "UNC-Chapel Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC-Chapel%20Hill",
+        "pubdate": "Wed, 13 Sep 2023 12:00:00 -0700"
       }
     ],
     [
@@ -90,13 +111,6 @@
         "title": "Unity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Unity",
         "pubdate": "Wed, 13 Sep 2023 00:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Danelo Cavalcante update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Danelo%20Cavalcante%20update",
-        "pubdate": "Wed, 13 Sep 2023 08:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Starfield update",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Starfield%20update",
         "pubdate": "Wed, 13 Sep 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI",
-        "pubdate": "Wed, 13 Sep 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "The Morning Show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Morning%20Show",
-        "pubdate": "Wed, 13 Sep 2023 19:00:00 -0700"
       }
     ]
   ]
