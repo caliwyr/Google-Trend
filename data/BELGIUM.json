@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-09-2023 , 08:44:49",
+  "lastUpdate": "14-09-2023 , 08:54:16",
   "data": [
     [
       {
         "title": "Manon Lanza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manon%20Lanza",
         "pubdate": "Thu, 14 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nivelles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nivelles",
+        "pubdate": "Thu, 14 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Calogero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Calogero",
-        "pubdate": "Wed, 13 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Voetbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voetbal",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "Moustique tigre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Moustique%20tigre",
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BYD",
         "pubdate": "Wed, 13 Sep 2023 20:00:00 +0200"
       }
     ],
@@ -118,13 +118,6 @@
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Selena%20Gomez",
         "pubdate": "Wed, 13 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BYD",
-        "pubdate": "Wed, 13 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haaland",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jaime Maussan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jaime%20Maussan",
+        "pubdate": "Wed, 13 Sep 2023 22:00:00 +0200"
       }
     ]
   ]

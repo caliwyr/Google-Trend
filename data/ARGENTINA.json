@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2023 , 08:44:48",
+  "lastUpdate": "14-09-2023 , 08:54:15",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Miranda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Miranda",
+        "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional",
         "pubdate": "Thu, 14 Sep 2023 00:00:00 -0300"
       }
     ],
@@ -54,20 +61,13 @@
       {
         "title": "Liga Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
-        "pubdate": "Wed, 13 Sep 2023 09:00:00 -0300"
+        "pubdate": "Wed, 13 Sep 2023 21:00:00 -0300"
       }
     ],
     [
       {
         "title": "Partido Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20Argentina",
-        "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Coki ramirez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Coki%20ramirez",
         "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
       }
     ],
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Futbol argentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
+        "pubdate": "Wed, 13 Sep 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Paraguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paraguay",
         "pubdate": "Wed, 13 Sep 2023 17:00:00 -0300"
@@ -115,15 +122,8 @@
     ],
     [
       {
-        "title": "Pity alvarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pity%20alvarez",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Credito Anses trabajadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Credito%20Anses%20trabajadores",
+        "title": "Credito ANSES trabajadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Credito%20ANSES%20trabajadores",
         "pubdate": "Wed, 13 Sep 2023 15:00:00 -0300"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Futbol argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
-        "pubdate": "Wed, 13 Sep 2023 21:00:00 -0300"
+        "title": "Internacional  São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Internacional%20%20S%C3%A3o%20Paulo",
+        "pubdate": "Wed, 13 Sep 2023 22:00:00 -0300"
       }
     ]
   ]
