@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-09-2023 , 14:46:40",
+  "lastUpdate": "14-09-2023 , 14:56:12",
   "data": [
-    [
-      {
-        "title": "Vanadisvägen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vanadisv%C3%A4gen",
-        "pubdate": "Thu, 14 Sep 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Vasastan",
@@ -20,6 +13,13 @@
         "title": "Inflation Sverige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inflation%20Sverige",
         "pubdate": "Thu, 14 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inflation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inflation",
+        "pubdate": "Thu, 14 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Lidköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lidk%C3%B6ping",
+        "pubdate": "Wed, 13 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sport",
         "pubdate": "Wed, 13 Sep 2023 11:00:00 +0200"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "NSYNC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NSYNC",
+        "title": "NSync",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NSync",
         "pubdate": "Wed, 13 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dillon Danis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dillon%20Danis",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iphone 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Iphone%2015",
-        "pubdate": "Tue, 12 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
