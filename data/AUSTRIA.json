@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-09-2023 , 00:00:05",
+  "lastUpdate": "14-09-2023 , 01:16:18",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
+        "pubdate": "Thu, 14 Sep 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Luis Rubiales",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Durek Verrett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Durek%20Verrett",
-        "pubdate": "Wed, 13 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arena Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arena%20Wien",
         "pubdate": "Wed, 13 Sep 2023 11:00:00 +0200"
@@ -76,6 +76,13 @@
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GTA%206",
         "pubdate": "Wed, 13 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aktenzeichen XY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aktenzeichen%20XY",
+        "pubdate": "Wed, 13 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Tom Brady",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tom%20Brady",
-        "pubdate": "Wed, 13 Sep 2023 12:00:00 +0200"
+        "title": "Märtha Louise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%A4rtha%20Louise",
+        "pubdate": "Wed, 13 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Harry Maguire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Maguire",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Brady",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tom%20Brady",
+        "pubdate": "Wed, 13 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "USB-C",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#USB-C",
         "pubdate": "Wed, 13 Sep 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julian Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julian%20Nagelsmann",
-        "pubdate": "Wed, 13 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AfD%20Alice%20Weidel",
-        "pubdate": "Wed, 13 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
