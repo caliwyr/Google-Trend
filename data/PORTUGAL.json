@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2023 , 10:51:05",
+  "lastUpdate": "14-09-2023 , 11:00:40",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
+        "pubdate": "Wed, 13 Sep 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "iPhone 13",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#iPhone%2013",
         "pubdate": "Wed, 13 Sep 2023 09:00:00 +0100"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Nolito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nolito",
-        "pubdate": "Wed, 13 Sep 2023 18:00:00 +0100"
+        "title": "Natália Correia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nat%C3%A1lia%20Correia",
+        "pubdate": "Wed, 13 Sep 2023 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Adelaide Ferreira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Adelaide%20Ferreira",
         "pubdate": "Wed, 13 Sep 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tempestade Daniel na Líbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempestade%20Daniel%20na%20L%C3%ADbia",
-        "pubdate": "Wed, 13 Sep 2023 15:00:00 +0100"
       }
     ]
   ]
