@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2023 , 17:55:54",
+  "lastUpdate": "14-09-2023 , 18:15:47",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Michael Jordan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Michael%20Jordan",
+        "pubdate": "Thu, 14 Sep 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "VMA 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#VMA%202023",
         "pubdate": "Wed, 13 Sep 2023 10:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Bolivia vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bolivia%20vs%20Argentina",
         "pubdate": "Wed, 13 Sep 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Libya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Libya",
-        "pubdate": "Wed, 13 Sep 2023 16:00:00 +0800"
       }
     ]
   ]
