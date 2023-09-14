@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2023 , 21:46:25",
+  "lastUpdate": "14-09-2023 , 21:55:37",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "Arm stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arm%20stock",
         "pubdate": "Thu, 14 Sep 2023 01:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Hunter Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden",
+        "pubdate": "Thu, 14 Sep 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mortal Kombat 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mortal%20Kombat%201",
+        "pubdate": "Thu, 14 Sep 2023 14:00:00 -0700"
       }
     ],
     [
@@ -80,23 +94,16 @@
     ],
     [
       {
+        "title": "UNC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC",
+        "pubdate": "Wed, 13 Sep 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Lauren Boebert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lauren%20Boebert",
         "pubdate": "Wed, 13 Sep 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Hunter Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden",
-        "pubdate": "Wed, 13 Sep 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Elemental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elemental",
-        "pubdate": "Wed, 13 Sep 2023 15:00:00 -0700"
       }
     ],
     [
@@ -108,16 +115,9 @@
     ],
     [
       {
-        "title": "Dancing With the Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dancing%20With%20the%20Stars",
+        "title": "Dancing with the Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dancing%20with%20the%20Stars",
         "pubdate": "Wed, 13 Sep 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "UNC-Chapel Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC-Chapel%20Hill",
-        "pubdate": "Wed, 13 Sep 2023 12:00:00 -0700"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "UNC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC",
-        "pubdate": "Wed, 13 Sep 2023 11:00:00 -0700"
+        "title": "Unity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Unity",
+        "pubdate": "Wed, 13 Sep 2023 00:00:00 -0700"
       }
     ]
   ]
