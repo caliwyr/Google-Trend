@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-09-2023 , 23:48:18",
+  "lastUpdate": "15-09-2023 , 23:57:28",
   "data": [
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DAZN",
+        "pubdate": "Sat, 16 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Roch Voisine",
@@ -20,6 +27,13 @@
         "title": "Coupe de Suisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coupe%20de%20Suisse",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Xabi Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xabi%20Alonso",
+        "pubdate": "Sat, 16 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andy%20Murray",
         "pubdate": "Fri, 15 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Davis-Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davis-Cup",
-        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern",
-        "pubdate": "Fri, 15 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
