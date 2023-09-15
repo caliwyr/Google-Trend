@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2023 , 15:42:58",
+  "lastUpdate": "15-09-2023 , 15:52:29",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Zara Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zara%20Larsson",
+        "pubdate": "Fri, 15 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LHC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LHC",
         "pubdate": "Fri, 15 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Västertorp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4stertorp",
+        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,20 +73,6 @@
     ],
     [
       {
-        "title": "Vasastan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasastan",
-        "pubdate": "Thu, 14 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skjutning Västertorp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skjutning%20V%C3%A4stertorp",
-        "pubdate": "Thu, 14 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rögle Malmö",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle%20Malm%C3%B6",
         "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
@@ -96,13 +96,6 @@
       {
         "title": "Modo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo",
-        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malmö Redhawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20Redhawks",
         "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
         "pubdate": "Wed, 13 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Avgrunden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Avgrunden",
+        "pubdate": "Wed, 13 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
