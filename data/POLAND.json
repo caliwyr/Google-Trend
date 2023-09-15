@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-09-2023 , 06:48:58",
+  "lastUpdate": "15-09-2023 , 06:58:15",
   "data": [
     [
       {
         "title": "Idris Elba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Idris%20Elba",
         "pubdate": "Fri, 15 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shannen Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Shannen%20Doherty",
+        "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Najniższa krajowa 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Najni%C5%BCsza%20krajowa%202024",
         "pubdate": "Thu, 14 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alois Alzheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alois%20Alzheimer",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Zakazany owoc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakazany%20owoc",
-        "pubdate": "Thu, 14 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bartosz Kurek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bartosz%20Kurek",
         "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Norbert Huber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Norbert%20Huber",
-        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +94,6 @@
     ],
     [
       {
-        "title": "Edyta Górniak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Edyta%20G%C3%B3rniak",
-        "pubdate": "Thu, 14 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anita Sokołowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anita%20Soko%C5%82owska",
         "pubdate": "Thu, 14 Sep 2023 23:00:00 +0200"
@@ -122,9 +101,9 @@
     ],
     [
       {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Maguire",
-        "pubdate": "Thu, 14 Sep 2023 13:00:00 +0200"
+        "title": "Edyta Górniak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Edyta%20G%C3%B3rniak",
+        "pubdate": "Thu, 14 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Warnke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Warnke",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
+        "title": "Harry Maguire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Maguire",
+        "pubdate": "Thu, 14 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amy Winehouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amy%20Winehouse",
+        "pubdate": "Thu, 14 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Monika Goździalska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monika%20Go%C5%BAdzialska",
+        "pubdate": "Thu, 14 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zamek w Stobnicy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamek%20w%20Stobnicy",
+        "pubdate": "Thu, 14 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
