@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2023 , 09:42:17",
+  "lastUpdate": "15-09-2023 , 09:51:27",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Euribor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Euribor",
+        "pubdate": "Thu, 14 Sep 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Peniche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peniche",
         "pubdate": "Thu, 14 Sep 2023 15:00:00 +0100"
@@ -55,13 +62,6 @@
         "title": "NASA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NASA",
         "pubdate": "Thu, 14 Sep 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Euribor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Euribor",
-        "pubdate": "Thu, 14 Sep 2023 18:00:00 +0100"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Pedrito de Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedrito%20de%20Portugal",
         "pubdate": "Thu, 14 Sep 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angelique Cauchy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Angelique%20Cauchy",
-        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Amy Winehouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amy%20Winehouse",
         "pubdate": "Thu, 14 Sep 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Internacional x São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional%20x%20S%C3%A3o%20Paulo",
+        "pubdate": "Thu, 14 Sep 2023 07:00:00 +0100"
       }
     ]
   ]
