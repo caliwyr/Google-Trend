@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2023 , 01:12:18",
+  "lastUpdate": "15-09-2023 , 01:58:54",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Georg Jensen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Georg%20Jensen",
         "pubdate": "Thu, 14 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laura Mærsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Laura%20M%C3%A6rsk",
+        "pubdate": "Thu, 14 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Porsche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Porsche",
         "pubdate": "Wed, 13 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snapdragon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapdragon",
-        "pubdate": "Wed, 13 Sep 2023 12:00:00 +0200"
       }
     ]
   ]
