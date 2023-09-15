@@ -1,32 +1,18 @@
 {
-  "lastUpdate": "15-09-2023 , 12:43:52",
+  "lastUpdate": "15-09-2023 , 12:59:34",
   "data": [
-    [
-      {
-        "title": "15 september",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#15%20september",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Poker face",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Poker%20face",
-        "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
+        "pubdate": "Fri, 15 Sep 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Te Deum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Te%20Deum",
-        "pubdate": "Fri, 15 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LHC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LHC",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0200"
+        "title": "Skellefteå aik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20aik",
+        "pubdate": "Fri, 15 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -34,6 +20,13 @@
         "title": "Timrå Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Timr%C3%A5%20Fr%C3%B6lunda",
         "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Västertorp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4stertorp",
+        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Hockeyallsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hockeyallsvenskan",
         "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SHL 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL%202023",
+        "pubdate": "Thu, 14 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harry%20Maguire",
-        "pubdate": "Thu, 14 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Amber Heard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amber%20Heard",
         "pubdate": "Thu, 14 Sep 2023 13:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Nasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nasa",
-        "pubdate": "Thu, 14 Sep 2023 23:00:00 +0200"
+        "title": "Blink-182",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Blink-182",
+        "pubdate": "Wed, 13 Sep 2023 03:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Blink-182",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Blink-182",
-        "pubdate": "Wed, 13 Sep 2023 03:00:00 +0200"
+        "title": "Edvin Ryding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Ryding",
+        "pubdate": "Wed, 13 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
+        "pubdate": "Wed, 13 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
