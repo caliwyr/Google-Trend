@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2023 , 04:49:37",
+  "lastUpdate": "15-09-2023 , 04:59:03",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Monument préféré des Français",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Monument%20pr%C3%A9f%C3%A9r%C3%A9%20des%20Fran%C3%A7ais",
+        "title": "Monument prefere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Monument%20prefere",
         "pubdate": "Thu, 14 Sep 2023 08:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Marwan Berreni disparition",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marwan%20Berreni%20disparition",
         "pubdate": "Thu, 14 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antoine Dupont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Antoine%20Dupont",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Sangliers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sangliers",
-        "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Dassin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joe%20Dassin",
         "pubdate": "Thu, 14 Sep 2023 08:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Loup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loup",
-        "pubdate": "Thu, 14 Sep 2023 17:00:00 +0200"
+        "title": "Montauban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Montauban",
+        "pubdate": "Thu, 14 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France-Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France-Uruguay",
+        "pubdate": "Wed, 13 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Edouard Philippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
+        "pubdate": "Wed, 13 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
