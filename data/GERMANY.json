@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-09-2023 , 07:43:11",
+  "lastUpdate": "15-09-2023 , 07:52:31",
   "data": [
     [
       {
-        "title": "EZB Leitzins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB%20Leitzins",
+        "title": "Nipah-Virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nipah-Virus",
+        "pubdate": "Thu, 14 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leitzins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leitzins",
         "pubdate": "Thu, 14 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -13,13 +20,6 @@
         "title": "Libyen Überschwemmung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Libyen%20%C3%9Cberschwemmung",
         "pubdate": "Thu, 14 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gäste zum Essen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4ste%20zum%20Essen",
-        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -34,13 +34,6 @@
         "title": "Lampedusa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lampedusa",
         "pubdate": "Wed, 13 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Constantin Schreiber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Constantin%20Schreiber",
-        "pubdate": "Wed, 13 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
         "pubdate": "Mon, 11 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball",
+        "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
