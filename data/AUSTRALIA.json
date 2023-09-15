@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "14-09-2023 , 23:58:14",
+  "lastUpdate": "15-09-2023 , 01:12:16",
   "data": [
     [
       {
-        "title": "NASA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NASA",
-        "pubdate": "Fri, 15 Sep 2023 07:00:00 +1000"
+        "title": "PGA Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Tour",
+        "pubdate": "Fri, 15 Sep 2023 09:00:00 +1000"
       }
     ],
     [
@@ -17,9 +17,23 @@
     ],
     [
       {
-        "title": "PGA Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Tour",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +1000"
+        "title": "NASA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NASA",
+        "pubdate": "Fri, 15 Sep 2023 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Aquaman 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aquaman%202",
+        "pubdate": "Fri, 15 Sep 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jacinta Nampijinpa Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacinta%20Nampijinpa%20Price",
+        "pubdate": "Fri, 15 Sep 2023 10:00:00 +1000"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "The Gold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Gold",
+        "title": "The gold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20gold",
         "pubdate": "Thu, 14 Sep 2023 22:00:00 +1000"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
         "pubdate": "Thu, 14 Sep 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ben Stokes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Stokes",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Neil Currey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neil%20Currey",
-        "pubdate": "Thu, 14 Sep 2023 13:00:00 +1000"
       }
     ]
   ]
