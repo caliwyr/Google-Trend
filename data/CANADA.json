@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-09-2023 , 14:52:41",
+  "lastUpdate": "16-09-2023 , 15:06:15",
   "data": [
-    [
-      {
-        "title": "Boebert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boebert",
-        "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Boebert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boebert",
+        "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Russell Brand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russell%20Brand",
-        "pubdate": "Sat, 16 Sep 2023 06:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shohei%20Ohtani",
         "pubdate": "Sat, 16 Sep 2023 08:00:00 -0400"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Russell Brand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russell%20Brand",
+        "pubdate": "Sat, 16 Sep 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20a",
         "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#La%20Liga",
+        "pubdate": "Sat, 16 Sep 2023 00:00:00 -0400"
       }
     ],
     [
@@ -80,20 +87,6 @@
     ],
     [
       {
-        "title": "IND VS BAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IND%20VS%20BAN",
-        "pubdate": "Fri, 15 Sep 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
-        "pubdate": "Fri, 15 Sep 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Rosh Hashanah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rosh%20Hashanah",
         "pubdate": "Fri, 15 Sep 2023 06:00:00 -0400"
@@ -108,9 +101,30 @@
     ],
     [
       {
+        "title": "Edmonton Elks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Elks",
+        "pubdate": "Fri, 15 Sep 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
+        "pubdate": "Fri, 15 Sep 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Roberto Clemente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Roberto%20Clemente",
         "pubdate": "Fri, 15 Sep 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jeannie Mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeannie%20Mai",
+        "pubdate": "Fri, 15 Sep 2023 17:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ouragan Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ouragan%20Lee",
         "pubdate": "Fri, 15 Sep 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jeannie Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeannie%20Mai",
-        "pubdate": "Fri, 15 Sep 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Edmonton Elks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Elks",
-        "pubdate": "Fri, 15 Sep 2023 22:00:00 -0400"
       }
     ]
   ]
