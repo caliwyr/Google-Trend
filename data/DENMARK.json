@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 05:44:09",
+  "lastUpdate": "16-09-2023 , 05:53:25",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
-        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The proposal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20proposal",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
+        "title": "PSG  Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG%20%20Nice",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
+        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,30 @@
     ],
     [
       {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
+        "pubdate": "Fri, 15 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carl Gustaf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carl%20Gustaf",
+        "pubdate": "Fri, 15 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bahrain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bahrain",
         "pubdate": "Fri, 15 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FCM",
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Laura Mærsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Laura%20M%C3%A6rsk",
         "pubdate": "Thu, 14 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alix Earle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alix%20Earle",
-        "pubdate": "Thu, 14 Sep 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cat",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lampedusa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lampedusa",
-        "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
