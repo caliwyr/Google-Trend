@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 01:04:04",
+  "lastUpdate": "16-09-2023 , 01:52:58",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Pragsdorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pragsdorf",
+        "pubdate": "Fri, 15 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Premier%20League",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Frauen-Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauen-Bundesliga",
         "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andreas Rettig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Rettig",
-        "pubdate": "Fri, 15 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Kanye West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kanye%20West",
-        "pubdate": "Fri, 15 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Botero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Botero",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0200"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Thüringen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Th%C3%BCringen",
-        "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
+        "title": "Gäste zum Essen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4ste%20zum%20Essen",
+        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gäste zum Essen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4ste%20zum%20Essen",
-        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0200"
+        "title": "CDU AfD Thüringen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU%20AfD%20Th%C3%BCringen",
+        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "DFB-Team",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Team",
         "pubdate": "Tue, 12 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Tue, 12 Sep 2023 01:00:00 +0200"
       }
     ]
   ]

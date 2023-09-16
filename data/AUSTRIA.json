@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "16-09-2023 , 01:04:00",
+  "lastUpdate": "16-09-2023 , 01:52:54",
   "data": [
     [
       {
         "title": "Senta Berger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Senta%20Berger",
+        "pubdate": "Sat, 16 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KAC",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 +0200"
       }
     ],
@@ -19,7 +26,7 @@
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bundesliga",
-        "pubdate": "Fri, 15 Sep 2023 18:00:00 +0200"
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -33,7 +40,14 @@
       {
         "title": "Davis-Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis-Cup",
-        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
+        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201",
+        "pubdate": "Fri, 15 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
-        "pubdate": "Fri, 15 Sep 2023 21:00:00 +0200"
+        "title": "Kalte Progression",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kalte%20Progression",
+        "pubdate": "Fri, 15 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Hunter Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hunter%20Biden",
         "pubdate": "Fri, 15 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GAK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
+        "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -83,13 +104,6 @@
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shakira",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Klimastreik Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimastreik%20Wien",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "ICE Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
         "pubdate": "Fri, 15 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "2. Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#2.%20Bundesliga",
-        "pubdate": "Fri, 15 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aufsteirern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aufsteirern",
-        "pubdate": "Fri, 15 Sep 2023 11:00:00 +0200"
       }
     ]
   ]
