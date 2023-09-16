@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 16:48:42",
+  "lastUpdate": "16-09-2023 , 16:57:54",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bundesliga",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bayern%20Munich",
         "pubdate": "Sat, 16 Sep 2023 16:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Storm vs Roosters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Storm%20vs%20Roosters",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Kim Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kim%20Hill",
-        "pubdate": "Fri, 15 Sep 2023 15:00:00 +1200"
       }
     ]
   ]
