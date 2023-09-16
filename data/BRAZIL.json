@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "16-09-2023 , 11:54:54",
+  "lastUpdate": "16-09-2023 , 12:17:52",
   "data": [
     [
       {
         "title": "City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City",
         "pubdate": "Sat, 16 Sep 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sat, 16 Sep 2023 00:00:00 -0500"
       }
     ],
     [
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Campeonato Inglês",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Ingl%C3%AAs",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 -0500"
       }
     ],
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "PSG x Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG%20x%20Nice",
+        "pubdate": "Fri, 15 Sep 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cuiaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
         "pubdate": "Fri, 15 Sep 2023 10:00:00 -0500"
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 -0500"
+        "title": "Maquiador Rico Tavares, ; morreu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maquiador%20Rico%20Tavares,%20;%20morreu",
+        "pubdate": "Fri, 15 Sep 2023 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Maquiador Rico Tavares, ; morreu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maquiador%20Rico%20Tavares,%20;%20morreu",
-        "pubdate": "Fri, 15 Sep 2023 11:00:00 -0500"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Fri, 15 Sep 2023 09:00:00 -0500"
       }
     ],
     [
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "Nossa Senhora das Dores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nossa%20Senhora%20das%20Dores",
-        "pubdate": "Fri, 15 Sep 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fernando Botero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fernando%20Botero",
-        "pubdate": "Fri, 15 Sep 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
         "pubdate": "Fri, 15 Sep 2023 13:00:00 -0500"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Dia do consumidor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20consumidor",
-        "pubdate": "Fri, 15 Sep 2023 07:00:00 -0500"
+        "title": "Nossa Senhora das Dores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nossa%20Senhora%20das%20Dores",
+        "pubdate": "Fri, 15 Sep 2023 06:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Fernando Botero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fernando%20Botero",
+        "pubdate": "Fri, 15 Sep 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Dia do consumidor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20consumidor",
+        "pubdate": "Fri, 15 Sep 2023 07:00:00 -0500"
       }
     ]
   ]

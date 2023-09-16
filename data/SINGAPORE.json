@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-09-2023 , 11:55:02",
+  "lastUpdate": "16-09-2023 , 12:18:00",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Premier%20League",
+        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Hugh Jackman",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Lauren Boebert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lauren%20Boebert",
+        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
         "pubdate": "Sat, 16 Sep 2023 07:00:00 +0800"
@@ -27,13 +41,6 @@
         "title": "Malaysia Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malaysia%20Day",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lauren Boebert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lauren%20Boebert",
-        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nipah virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nipah%20virus",
         "pubdate": "Thu, 14 Sep 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arm IPO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arm%20IPO",
-        "pubdate": "Thu, 14 Sep 2023 19:00:00 +0800"
       }
     ]
   ]
