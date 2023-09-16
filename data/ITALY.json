@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-09-2023 , 19:52:36",
+  "lastUpdate": "16-09-2023 , 20:06:19",
   "data": [
     [
       {
         "title": "Frecce Tricolori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frecce%20Tricolori",
         "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Classifica serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20serie%20a",
+        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Juve-Lazio Dove vederla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve-Lazio%20Dove%20vederla",
-        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0200"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Juve-Lazio Dove vederla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve-Lazio%20Dove%20vederla",
+        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Brescia calcio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia%20calcio",
         "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
@@ -45,16 +59,23 @@
     ],
     [
       {
-        "title": "Pisa  Bari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa%20%20Bari",
+        "title": "Pisa-Bari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa-Bari",
         "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Reggiana-Cremonese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggiana-Cremonese",
+        "title": "REGGIANA-CREMONESE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#REGGIANA-CREMONESE",
         "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Champions%20League",
+        "pubdate": "Sat, 16 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,8 +87,15 @@
     ],
     [
       {
-        "title": "Inter-Milan, formazioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter-Milan,%20formazioni",
+        "title": "Cosenza- Südtirol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cosenza-%20S%C3%BCdtirol",
+        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter-Milan formazioni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter-Milan%20formazioni",
         "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
       }
     ],
@@ -94,6 +122,13 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Newcastle",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tottenham",
         "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
@@ -104,41 +139,6 @@
         "title": "Asia Argento",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Asia%20Argento",
         "pubdate": "Sat, 16 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juventus Football Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus%20Football%20Club",
-        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cosenza Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cosenza%20Calcio",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie A classifica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A%20classifica",
-        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Partita Inter-Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partita%20Inter-Milan",
-        "pubdate": "Sat, 16 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
