@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-09-2023 , 18:51:36",
+  "lastUpdate": "16-09-2023 , 19:01:30",
   "data": [
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
+        "pubdate": "Sat, 16 Sep 2023 10:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Manchester City",
@@ -10,23 +17,16 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Formula%201",
         "pubdate": "Sat, 16 Sep 2023 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Formula%201",
-        "pubdate": "Sat, 16 Sep 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Nassr",
-        "pubdate": "Sat, 16 Sep 2023 10:00:00 -0500"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
+        "pubdate": "Sat, 16 Sep 2023 07:00:00 -0500"
       }
     ],
     [
@@ -52,20 +52,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sat, 16 Sep 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Flamengo x São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20S%C3%A3o%20Paulo",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Vasco x Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20x%20Fluminense",
         "pubdate": "Sat, 16 Sep 2023 07:00:00 -0500"
@@ -73,9 +59,23 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Sat, 16 Sep 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Campeonato Inglês",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Ingl%C3%AAs",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Sat, 16 Sep 2023 11:00:00 -0500"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Atletico de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
-        "pubdate": "Sat, 16 Sep 2023 11:00:00 -0500"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Sat, 16 Sep 2023 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 -0500"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LaLiga",
+        "pubdate": "Sat, 16 Sep 2023 10:00:00 -0500"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LaLiga",
-        "pubdate": "Sat, 16 Sep 2023 10:00:00 -0500"
+        "title": "Juventude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventude",
+        "pubdate": "Sat, 16 Sep 2023 13:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Fri, 15 Sep 2023 04:00:00 -0500"
+        "title": "Cuiabá x América-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Am%C3%A9rica-MG",
+        "pubdate": "Fri, 15 Sep 2023 10:00:00 -0500"
       }
     ]
   ]
