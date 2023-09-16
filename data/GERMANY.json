@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-09-2023 , 13:49:30",
+  "lastUpdate": "16-09-2023 , 13:58:52",
   "data": [
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sat, 16 Sep 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Oktoberfest",
@@ -17,9 +24,16 @@
     ],
     [
       {
+        "title": "Bayern gegen Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Leverkusen",
+        "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
-        "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Jonas Kaufmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jonas%20Kaufmann",
-        "pubdate": "Fri, 15 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fridays for Future",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fridays%20for%20Future",
         "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Thüringen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Th%C3%BCringen",
-        "pubdate": "Thu, 14 Sep 2023 20:00:00 +0200"
+        "title": "CDU AfD Thüringen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU%20AfD%20Th%C3%BCringen",
+        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Unwetter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
         "pubdate": "Tue, 12 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Libyen Überschwemmung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Libyen%20%C3%9Cberschwemmung",
-        "pubdate": "Tue, 12 Sep 2023 13:00:00 +0200"
       }
     ]
   ]

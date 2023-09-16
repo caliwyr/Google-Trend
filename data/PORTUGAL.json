@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 13:49:35",
+  "lastUpdate": "16-09-2023 , 13:58:58",
   "data": [
     [
       {
@@ -12,7 +12,14 @@
       {
         "title": "Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-        "pubdate": "Sat, 16 Sep 2023 09:00:00 +0100"
+        "pubdate": "Sat, 16 Sep 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jose Cid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20Cid",
+        "pubdate": "Sat, 16 Sep 2023 01:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Palmeiras  Goiás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Goi%C3%A1s",
-        "pubdate": "Sat, 16 Sep 2023 05:00:00 +0100"
+        "title": "Porto B  Marítimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B%20%20Mar%C3%ADtimo",
+        "pubdate": "Sat, 16 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Porto B-Marítimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B-Mar%C3%ADtimo",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 +0100"
+        "title": "Campeonato português",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20portugu%C3%AAs",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0100"
       }
     ],
     [
@@ -55,20 +62,6 @@
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
         "pubdate": "Sat, 16 Sep 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kadyrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kadyrov",
-        "pubdate": "Sat, 16 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20FC",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -94,9 +87,16 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
-        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0100"
+        "pubdate": "Fri, 15 Sep 2023 17:00:00 +0100"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Bayern  Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20%20Leverkusen",
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
         "pubdate": "Fri, 15 Sep 2023 20:00:00 +0100"
       }
     ],
