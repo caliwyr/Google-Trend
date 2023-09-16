@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-09-2023 , 04:47:45",
+  "lastUpdate": "16-09-2023 , 04:57:05",
   "data": [
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
-        "pubdate": "Sat, 16 Sep 2023 02:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Hugh Jackman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hugh%20Jackman",
         "pubdate": "Sat, 16 Sep 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
+        "pubdate": "Sat, 16 Sep 2023 02:00:00 +0800"
       }
     ],
     [
@@ -26,13 +26,6 @@
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
-        "pubdate": "Sat, 16 Sep 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Singapore lee kuan yew",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20lee%20kuan%20yew",
         "pubdate": "Sat, 16 Sep 2023 07:00:00 +0800"
       }
     ],
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Jaahnavi Kandula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jaahnavi%20Kandula",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0800"
+        "title": "Li Shangfu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Shangfu",
+        "pubdate": "Fri, 15 Sep 2023 23:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Li Shangfu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Shangfu",
-        "pubdate": "Fri, 15 Sep 2023 23:00:00 +0800"
+        "title": "Jaahnavi Kandula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jaahnavi%20Kandula",
+        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Unity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Unity",
         "pubdate": "Wed, 13 Sep 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "USB-C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USB-C",
+        "pubdate": "Wed, 13 Sep 2023 11:00:00 +0800"
       }
     ]
   ]
