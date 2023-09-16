@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 02:44:33",
+  "lastUpdate": "16-09-2023 , 02:53:56",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Bayern gegen Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Leverkusen",
-        "pubdate": "Fri, 15 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Celine%20Dion",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Bayern Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Leverkusen",
+        "pubdate": "Fri, 15 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Botero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Botero",
         "pubdate": "Fri, 15 Sep 2023 17:00:00 +0200"
@@ -76,6 +76,13 @@
         "title": "YB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
         "pubdate": "Fri, 15 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Xamax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax",
+        "pubdate": "Fri, 15 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andy%20Murray",
         "pubdate": "Fri, 15 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davis%20Cup",
-        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
