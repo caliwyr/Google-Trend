@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 15:56:37",
+  "lastUpdate": "16-09-2023 , 16:15:21",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
+        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Hugh Jackman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hugh%20Jackman",
         "pubdate": "Sat, 16 Sep 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0800"
       }
     ],
     [
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "title": "Lance Stroll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lance%20Stroll",
         "pubdate": "Sat, 16 Sep 2023 22:00:00 +0800"
       }
     ],
@@ -59,16 +73,9 @@
     ],
     [
       {
-        "title": "Man United vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Brighton",
-        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lance Stroll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lance%20Stroll",
-        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0800"
+        "title": "East Asia forum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#East%20Asia%20forum",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0800"
       }
     ],
     [
@@ -80,16 +87,9 @@
     ],
     [
       {
-        "title": "East Asia forum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#East%20Asia%20forum",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Shubman Gill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shubman%20Gill",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 +0800"
+        "title": "Aston Villa vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa%20vs%20Crystal%20Palace",
+        "pubdate": "Sat, 16 Sep 2023 23:00:00 +0800"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Robbie Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Robbie%20Williams",
-        "pubdate": "Fri, 15 Sep 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Li Shangfu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Shangfu",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0800"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Jaahnavi Kandula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jaahnavi%20Kandula",
-        "pubdate": "Fri, 15 Sep 2023 09:00:00 +0800"
+        "title": "Radio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Radio",
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hunter Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hunter%20Biden",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1 Singapore 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20Singapore%202023",
+        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0800"
       }
     ]
   ]

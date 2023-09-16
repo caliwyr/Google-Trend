@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-09-2023 , 15:56:31",
+  "lastUpdate": "16-09-2023 , 16:15:16",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Botero",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Liverpool Wolverhampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20Wolverhampton",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+        "title": "Manchester united",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20united",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
+        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Őrségi Tökfesztivál",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C5%90rs%C3%A9gi%20T%C3%B6kfesztiv%C3%A1l",
         "pubdate": "Sat, 16 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Oktoberfest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oktoberfest",
-        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0200"
+        "title": "KTE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KTE",
+        "pubdate": "Sat, 16 Sep 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bilbao–Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bilbao%E2%80%93C%C3%A1diz",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+        "title": "Oktoberfest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oktoberfest",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
+        "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern münchen–leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93leverkusen",
         "pubdate": "Fri, 15 Sep 2023 10:00:00 +0200"
@@ -108,15 +122,15 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
-        "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
+        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
+        "title": "Magyar Kupa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
         "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Reviczky Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reviczky%20G%C3%A1bor",
         "pubdate": "Fri, 15 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eszenyi Enikő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eszenyi%20Enik%C5%91",
-        "pubdate": "Fri, 15 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Magyar Kupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
-        "pubdate": "Fri, 15 Sep 2023 15:00:00 +0200"
       }
     ]
   ]
