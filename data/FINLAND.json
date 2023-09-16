@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 06:44:49",
+  "lastUpdate": "16-09-2023 , 06:54:12",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Steve Vai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Steve%20Vai",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hugh Jackman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugh%20Jackman",
+        "pubdate": "Sat, 16 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Davis%20Cup",
-        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Kadyrov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kadyrov",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0300"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Maguire",
-        "pubdate": "Fri, 15 Sep 2023 10:00:00 +0300"
+        "title": "Davis Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Davis%20Cup",
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0300"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Harry Maguire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Maguire",
+        "pubdate": "Fri, 15 Sep 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+        "pubdate": "Fri, 15 Sep 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Emoji Kitchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emoji%20Kitchen",
         "pubdate": "Fri, 15 Sep 2023 00:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Metallica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Metallica",
         "pubdate": "Fri, 15 Sep 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aki Kaurismäki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aki%20Kaurism%C3%A4ki",
-        "pubdate": "Thu, 14 Sep 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arm stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arm%20stock",
-        "pubdate": "Thu, 14 Sep 2023 22:00:00 +0300"
       }
     ]
   ]
