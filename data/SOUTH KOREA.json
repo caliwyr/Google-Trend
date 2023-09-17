@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "17-09-2023 , 21:57:30",
+  "lastUpdate": "17-09-2023 , 22:12:52",
   "data": [
     [
       {
         "title": "첼시",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%BC%EC%8B%9C",
-        "pubdate": "Sun, 17 Sep 2023 00:00:00 +0900"
+        "pubdate": "Sun, 17 Sep 2023 02:00:00 +0900"
       }
     ],
     [
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#EPL",
-        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0900"
+        "title": "PL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PL",
+        "pubdate": "Sun, 17 Sep 2023 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "토트넘",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0900"
       }
     ],
     [
@@ -40,13 +47,6 @@
       {
         "title": "P의 거짓",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#P%EC%9D%98%20%EA%B1%B0%EC%A7%93",
-        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "아이유",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%EC%9C%A0",
         "pubdate": "Sat, 16 Sep 2023 14:00:00 +0900"
       }
     ],
@@ -83,6 +83,13 @@
         "title": "ARM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#ARM",
         "pubdate": "Fri, 15 Sep 2023 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "조인성",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EC%9D%B8%EC%84%B1",
+        "pubdate": "Fri, 15 Sep 2023 16:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "이희진",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%9D%AC%EC%A7%84",
         "pubdate": "Thu, 14 Sep 2023 10:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "아이폰15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%ED%8F%B015",
-        "pubdate": "Wed, 13 Sep 2023 01:00:00 +0900"
       }
     ]
   ]
