@@ -3,7 +3,7 @@
 
 ## Google Trends Keywords Scraper 
  
-Last Update 17-09-2023 , 22:12:54
+Last Update 17-09-2023 , 22:25:33
 
 Country List :
 VIETNAM.json
