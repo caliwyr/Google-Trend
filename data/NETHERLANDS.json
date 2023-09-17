@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "17-09-2023 , 17:52:06",
+  "lastUpdate": "17-09-2023 , 18:07:00",
   "data": [
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 17 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Singapore",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sun, 17 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -38,9 +24,16 @@
     ],
     [
       {
-        "title": "Cambuur  Willem II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur%20%20Willem%20II",
-        "pubdate": "Sun, 17 Sep 2023 18:00:00 +0200"
+        "title": "Race Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Race%20Singapore",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dam tot Damloop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dam%20tot%20Damloop",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Sat, 16 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wout Poels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20Poels",
         "pubdate": "Sat, 16 Sep 2023 18:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0200"
+        "title": "Sepp Kuss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepp%20Kuss",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
