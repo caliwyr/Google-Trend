@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-09-2023 , 09:57:30",
+  "lastUpdate": "17-09-2023 , 10:14:14",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "GP Singapur 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#GP%20Singapur%202023",
-        "pubdate": "Sun, 17 Sep 2023 02:00:00 -0600"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Monterrey vs leon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey%20vs%20leon",
-        "pubdate": "Sat, 16 Sep 2023 16:00:00 -0600"
+        "title": "Monterrey vs León",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey%20vs%20Le%C3%B3n",
+        "pubdate": "Sat, 16 Sep 2023 19:00:00 -0600"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Necaxa  Juárez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Necaxa%20%20Ju%C3%A1rez",
+        "pubdate": "Sat, 16 Sep 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Nassr",
         "pubdate": "Sat, 16 Sep 2023 09:00:00 -0600"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Necaxa  Juárez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Necaxa%20%20Ju%C3%A1rez",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 -0600"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1",
+        "pubdate": "Sat, 16 Sep 2023 09:00:00 -0600"
       }
     ],
     [
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Formula%201",
+        "pubdate": "Sat, 16 Sep 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Swift",
         "pubdate": "Sat, 16 Sep 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 -0600"
       }
     ],
     [
@@ -94,30 +108,9 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli",
         "pubdate": "Sat, 16 Sep 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "LAFC  LA Galaxy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LAFC%20%20LA%20Galaxy",
-        "pubdate": "Sat, 16 Sep 2023 21:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Pericos de Puebla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pericos%20de%20Puebla",
-        "pubdate": "Sat, 16 Sep 2023 00:00:00 -0600"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Leona Vicario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leona%20Vicario",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Monterrey fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey%20fc",
+        "pubdate": "Sat, 16 Sep 2023 18:00:00 -0600"
       }
     ]
   ]
