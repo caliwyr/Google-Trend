@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-09-2023 , 02:52:34",
+  "lastUpdate": "17-09-2023 , 03:06:51",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
+        "pubdate": "Sun, 17 Sep 2023 01:00:00 +0700"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Min",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Min",
+        "pubdate": "Sun, 17 Sep 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Bảng xếp hạng serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20serie%20a",
         "pubdate": "Sun, 17 Sep 2023 07:00:00 +0700"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Wolves đấu với Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Wolves%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
-        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0700"
+        "title": "Nha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nha",
+        "pubdate": "Sun, 17 Sep 2023 07:00:00 +0700"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Atlanta United đấu với Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atlanta%20United%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Inter%20Miami",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0700"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
+        "pubdate": "Sat, 16 Sep 2023 19:00:00 +0700"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Epl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Epl",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Lịch thi đấu ngoại hạng anh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20ngo%E1%BA%A1i%20h%E1%BA%A1ng%20anh",
         "pubdate": "Sat, 16 Sep 2023 19:00:00 +0700"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Lịch Ngoại Hạng Anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20Ngo%E1%BA%A1i%20H%E1%BA%A1ng%20Anh",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0700"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Miami",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0700"
       }
     ],
     [
@@ -101,16 +122,9 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
-        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
-        "pubdate": "Sat, 16 Sep 2023 09:00:00 +0700"
+        "title": "Lịch Ngoại Hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20Ngo%E1%BA%A1i%20H%E1%BA%A1ng%20Anh",
+        "pubdate": "Sat, 16 Sep 2023 15:00:00 +0700"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
-        "pubdate": "Sat, 16 Sep 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Serie%20a",
-        "pubdate": "Sat, 16 Sep 2023 02:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kết Quả Ngoại Hạng Anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%E1%BA%BFt%20Qu%E1%BA%A3%20Ngo%E1%BA%A1i%20H%E1%BA%A1ng%20Anh",
-        "pubdate": "Sat, 16 Sep 2023 06:00:00 +0700"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
+        "pubdate": "Sat, 16 Sep 2023 09:00:00 +0700"
       }
     ]
   ]
