@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2023 , 01:14:06",
+  "lastUpdate": "17-09-2023 , 02:00:26",
   "data": [
     [
       {
@@ -45,16 +45,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20qualifying",
-        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0800"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
+        "pubdate": "Sat, 16 Sep 2023 19:00:00 +0800"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Singapore lee kuan yew",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20lee%20kuan%20yew",
-        "pubdate": "Sat, 16 Sep 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "East Asia forum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#East%20Asia%20forum",
         "pubdate": "Sat, 16 Sep 2023 20:00:00 +0800"
@@ -118,6 +104,13 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Championship",
         "pubdate": "Sat, 16 Sep 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
+        "pubdate": "Fri, 15 Sep 2023 13:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "George Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Russell",
-        "pubdate": "Fri, 15 Sep 2023 13:00:00 +0800"
+        "title": "Li Shangfu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Shangfu",
+        "pubdate": "Fri, 15 Sep 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1 Singapore 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20Singapore%202023",
+        "pubdate": "Thu, 14 Sep 2023 21:00:00 +0800"
       }
     ]
   ]

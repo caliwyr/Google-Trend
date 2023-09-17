@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2023 , 01:14:06",
+  "lastUpdate": "17-09-2023 , 02:00:26",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
+        "pubdate": "Sat, 16 Sep 2023 06:00:00 +0200"
       }
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
-        "pubdate": "Sat, 16 Sep 2023 06:00:00 +0200"
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sat, 16 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Truls Möregårdh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Truls%20M%C3%B6reg%C3%A5rdh",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0200"
+        "title": "Sirius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
+        "title": "Annie Lööf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annie%20L%C3%B6%C3%B6f",
+        "pubdate": "Sat, 16 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "DIF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
         "pubdate": "Sat, 16 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Formel%201",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
