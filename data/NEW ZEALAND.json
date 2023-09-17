@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-09-2023 , 03:58:04",
+  "lastUpdate": "17-09-2023 , 04:18:06",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+        "pubdate": "Sun, 17 Sep 2023 01:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Rugby World Cup results",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPL",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-        "pubdate": "Sun, 17 Sep 2023 01:00:00 +1200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Serie%20A",
+        "pubdate": "Sun, 17 Sep 2023 15:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Warriors vs Knights",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Knights",
         "pubdate": "Sat, 16 Sep 2023 18:00:00 +1200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "India vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Bangladesh",
-        "pubdate": "Sat, 16 Sep 2023 03:00:00 +1200"
+        "title": "Samoa vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Samoa%20vs%20Chile",
+        "pubdate": "Sat, 16 Sep 2023 16:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Samoa vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Samoa%20vs%20Chile",
-        "pubdate": "Sat, 16 Sep 2023 16:00:00 +1200"
+        "title": "India vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Bangladesh",
+        "pubdate": "Sat, 16 Sep 2023 03:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tohu Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tohu%20Harris",
         "pubdate": "Sat, 16 Sep 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Gambit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gambit",
-        "pubdate": "Sat, 16 Sep 2023 12:00:00 +1200"
       }
     ]
   ]
