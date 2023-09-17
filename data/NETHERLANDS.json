@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-09-2023 , 16:58:07",
+  "lastUpdate": "17-09-2023 , 17:12:41",
   "data": [
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 17 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Singapore",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 17 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -24,16 +38,9 @@
     ],
     [
       {
-        "title": "Radio 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
-        "pubdate": "Sun, 17 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Race Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Race%20Singapore",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
+        "title": "Cambuur  Willem II",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur%20%20Willem%20II",
+        "pubdate": "Sun, 17 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Dam tot Damloop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dam%20tot%20Damloop",
+        "pubdate": "Sat, 16 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
         "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Pmdd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pmdd",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sepp Kuss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepp%20Kuss",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Sat, 16 Sep 2023 13:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Sat, 16 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
