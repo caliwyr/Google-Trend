@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2023 , 18:52:08",
+  "lastUpdate": "17-09-2023 , 19:02:55",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
+        "pubdate": "Sun, 17 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Sylvester Stallone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sylvester%20Stallone",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 -0400"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
-        "pubdate": "Sun, 17 Sep 2023 11:00:00 -0400"
+        "title": "Buffalo Bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Buffalo%20Bills",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0400"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Ken Paxton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ken%20Paxton",
-        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0400"
+        "title": "Detroit Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Xi Jinping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Xi%20Jinping",
+        "pubdate": "Sun, 17 Sep 2023 13:00:00 -0400"
       }
     ],
     [
@@ -80,9 +94,16 @@
     ],
     [
       {
-        "title": "Xi Jinping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Xi%20Jinping",
-        "pubdate": "Sun, 17 Sep 2023 13:00:00 -0400"
+        "title": "Ken Paxton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ken%20Paxton",
+        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ben Affleck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ben%20Affleck",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0400"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20United",
-        "pubdate": "Sat, 16 Sep 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
         "pubdate": "Sat, 16 Sep 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "UFC Fight Night",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC%20Fight%20Night",
-        "pubdate": "Sat, 16 Sep 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Shohei Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shohei%20Ohtani",
-        "pubdate": "Sat, 16 Sep 2023 08:00:00 -0400"
       }
     ]
   ]
