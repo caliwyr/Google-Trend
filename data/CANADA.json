@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2023 , 23:58:07",
+  "lastUpdate": "17-09-2023 , 01:13:59",
   "data": [
     [
       {
@@ -31,23 +31,30 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20United",
+        "pubdate": "Sat, 16 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
+        "pubdate": "Sat, 16 Sep 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
+        "pubdate": "Sat, 16 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shohei%20Ohtani",
         "pubdate": "Sat, 16 Sep 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
-        "pubdate": "Sat, 16 Sep 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20A",
-        "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20A",
+        "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Drew Barrymore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drew%20Barrymore",
         "pubdate": "Sat, 16 Sep 2023 00:00:00 -0400"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "West Ham vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Ham%20vs%20Man%20City",
-        "pubdate": "Sat, 16 Sep 2023 13:00:00 -0400"
+        "title": "Inter vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20vs%20Milan",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 -0400"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Lies of P",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lies%20of%20P",
-        "pubdate": "Sat, 16 Sep 2023 09:00:00 -0400"
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Milan",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 -0400"
       }
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AC%20Milan",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 -0400"
+        "title": "Lies of P",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lies%20of%20P",
+        "pubdate": "Sat, 16 Sep 2023 09:00:00 -0400"
       }
     ],
     [
@@ -108,30 +122,9 @@
     ],
     [
       {
-        "title": "Romana Didulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Romana%20Didulo",
-        "pubdate": "Sat, 16 Sep 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Sat, 16 Sep 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United",
-        "pubdate": "Sat, 16 Sep 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Mahsa Amini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mahsa%20Amini",
-        "pubdate": "Sat, 16 Sep 2023 18:00:00 -0400"
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Power%20outage",
+        "pubdate": "Sat, 16 Sep 2023 13:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CCMA) awards 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CCMA)%20awards%202023",
         "pubdate": "Sat, 16 Sep 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Sat, 16 Sep 2023 14:00:00 -0400"
       }
     ]
   ]
