@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-09-2023 , 23:57:10",
+  "lastUpdate": "18-09-2023 , 01:03:18",
   "data": [
     [
       {
-        "title": "Pumas  Atl San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas%20%20Atl%20San%20Luis",
+        "title": "Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas",
         "pubdate": "Sun, 17 Sep 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Querétaro  Puebla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Quer%C3%A9taro%20%20Puebla",
+        "pubdate": "Sun, 17 Sep 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Cowboys  Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys%20%20Jets",
+        "pubdate": "Sun, 17 Sep 2023 15:00:00 -0600"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Roma  Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20%20Empoli",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Bills  Raiders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20%20Raiders",
         "pubdate": "Sun, 17 Sep 2023 12:00:00 -0600"
@@ -45,51 +52,16 @@
     ],
     [
       {
-        "title": "Cowboys  Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys%20%20Jets",
+        "title": "Roma  Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20%20Empoli",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Rams  49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rams%20%2049ers",
         "pubdate": "Sun, 17 Sep 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal  Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Villarreal%20%20Almer%C3%ADa",
-        "pubdate": "Sun, 17 Sep 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Queretaro vs Puebla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Queretaro%20vs%20Puebla",
-        "pubdate": "Sun, 17 Sep 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Alexis Vega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alexis%20Vega",
-        "pubdate": "Sun, 17 Sep 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lionel%20Messi%20Inter%20Miami",
-        "pubdate": "Sun, 17 Sep 2023 03:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Eclipse solar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20solar",
-        "pubdate": "Sun, 17 Sep 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "America vs Chivas femenil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Chivas%20femenil",
-        "pubdate": "Sun, 17 Sep 2023 11:00:00 -0600"
       }
     ],
     [
@@ -101,23 +73,9 @@
     ],
     [
       {
-        "title": "AEK  olympiacos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#AEK%20%20olympiacos",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Twente  Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Twente%20%20Ajax",
-        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Green Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Green%20Bay",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
+        "title": "Villarreal  Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Villarreal%20%20Almer%C3%ADa",
+        "pubdate": "Sun, 17 Sep 2023 11:00:00 -0600"
       }
     ],
     [
@@ -129,6 +87,41 @@
     ],
     [
       {
+        "title": "Eclipse solar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20solar",
+        "pubdate": "Sun, 17 Sep 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Lionel Messi Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lionel%20Messi%20Inter%20Miami",
+        "pubdate": "Sun, 17 Sep 2023 03:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "AEK  Olympiacos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#AEK%20%20Olympiacos",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Alexa Moreno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alexa%20Moreno",
+        "pubdate": "Sun, 17 Sep 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Twente  Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Twente%20%20Ajax",
+        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Checo perez hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Checo%20perez%20hoy",
         "pubdate": "Sun, 17 Sep 2023 10:00:00 -0600"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bengals,  Ravens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals,%20%20Ravens",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0600"
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#iOS%2017",
+        "pubdate": "Sun, 17 Sep 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Kheira Hamraoui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kheira%20Hamraoui",
+        "pubdate": "Sun, 17 Sep 2023 18:00:00 -0600"
       }
     ]
   ]

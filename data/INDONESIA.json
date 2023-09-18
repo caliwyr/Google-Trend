@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2023 , 23:57:09",
+  "lastUpdate": "18-09-2023 , 01:03:16",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lyon",
+        "pubdate": "Mon, 18 Sep 2023 05:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Airlangga Hartarto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Airlangga%20Hartarto",
         "pubdate": "Mon, 18 Sep 2023 00:00:00 +0700"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lyon",
-        "pubdate": "Mon, 18 Sep 2023 05:00:00 +0700"
+        "title": "China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#China",
+        "pubdate": "Mon, 18 Sep 2023 07:00:00 +0700"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Getafe",
+        "pubdate": "Sun, 17 Sep 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Pangandaran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pangandaran",
         "pubdate": "Sun, 17 Sep 2023 11:00:00 +0700"
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Boruto Two Blue Vortex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Boruto%20Two%20Blue%20Vortex",
+        "title": "Boruto: Two Blue Vortex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Boruto:%20Two%20Blue%20Vortex",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 +0700"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "AS Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AS%20Monaco",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Celine%20Dion",
-        "pubdate": "Sun, 17 Sep 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Pertandingan Persib vs Persikabo 1973",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pertandingan%20Persib%20vs%20Persikabo%201973",
-        "pubdate": "Sun, 17 Sep 2023 00:00:00 +0700"
       }
     ]
   ]
