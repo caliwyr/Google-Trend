@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-09-2023 , 05:56:04",
+  "lastUpdate": "18-09-2023 , 06:17:05",
   "data": [
     [
       {
         "title": "Terremoto oggi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
         "pubdate": "Mon, 18 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elodie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elodie",
+        "pubdate": "Mon, 18 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Alonso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alonso",
-        "pubdate": "Mon, 18 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alessandria Padova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessandria%20Padova",
         "pubdate": "Mon, 18 Sep 2023 00:00:00 +0200"
@@ -52,8 +52,22 @@
     ],
     [
       {
-        "title": "Frosinone Sassuolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frosinone%20Sassuolo",
+        "title": "Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alonso",
+        "pubdate": "Mon, 18 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verona-Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Bologna",
+        "pubdate": "Mon, 18 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frosinone-Sassuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frosinone-Sassuolo",
         "pubdate": "Sun, 17 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Finale Pallavolo maschile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Finale%20Pallavolo%20maschile",
-        "pubdate": "Sun, 17 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Catania Calcio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catania%20Calcio",
         "pubdate": "Sun, 17 Sep 2023 19:00:00 +0200"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "EVERTON-ARSENAL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#EVERTON-ARSENAL",
+        "title": "Everton  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Everton%20%20Arsenal",
         "pubdate": "Sun, 17 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -104,6 +111,13 @@
         "title": "Avellino-Foggia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Avellino-Foggia",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Derby Milan Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Derby%20Milan%20Inter",
+        "pubdate": "Sun, 17 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Celine%20Dion",
-        "pubdate": "Sun, 17 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Di Gregorio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Di%20Gregorio",
         "pubdate": "Sun, 17 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beatrice Venezi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Beatrice%20Venezi",
-        "pubdate": "Sun, 17 Sep 2023 18:00:00 +0200"
       }
     ]
   ]

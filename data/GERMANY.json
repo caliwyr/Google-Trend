@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "18-09-2023 , 05:56:02",
+  "lastUpdate": "18-09-2023 , 06:17:03",
   "data": [
     [
       {
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Sun, 17 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Hertha BSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Sun, 17 Sep 2023 11:00:00 +0200"
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "Magdeburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Magdeburg",
-        "pubdate": "Sun, 17 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Von der Leyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
-        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
+        "title": "Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,8 +73,15 @@
     ],
     [
       {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "title": "Von der Leyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
+        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel-1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
         "pubdate": "Sat, 16 Sep 2023 13:00:00 +0200"
       }
     ],
@@ -90,13 +90,6 @@
         "title": "Eritrea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eritrea",
         "pubdate": "Sat, 16 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20Dortmund",
-        "pubdate": "Sat, 16 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Formel 1 heute",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20heute",
+        "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serie%20a",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
       }
     ]
