@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2023 , 12:54:07",
+  "lastUpdate": "18-09-2023 , 13:11:16",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Jens Haaning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jens%20Haaning",
+        "pubdate": "Mon, 18 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Yale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yale",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
@@ -52,8 +59,15 @@
     ],
     [
       {
-        "title": "Yale University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yale%20University",
+        "title": "Yale university",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yale%20university",
+        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Snapchat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -62,13 +76,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
         "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
-        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Rhode Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rhode%20Island",
-        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Influencer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Influencer",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
       }
     ]

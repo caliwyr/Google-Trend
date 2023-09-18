@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2023 , 12:54:05",
+  "lastUpdate": "18-09-2023 , 13:11:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
         "pubdate": "Sun, 17 Sep 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Giants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0700"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Giants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yellowstone",
         "pubdate": "Sun, 17 Sep 2023 13:00:00 -0700"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills",
+        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Travis Hunter injury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Travis%20Hunter%20injury",
         "pubdate": "Sun, 17 Sep 2023 00:00:00 -0700"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills",
-        "pubdate": "Sun, 17 Sep 2023 09:00:00 -0700"
+        "title": "Nfl standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nfl%20standings",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0700"
       }
     ],
     [
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Nfl standings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nfl%20standings",
-        "pubdate": "Sun, 17 Sep 2023 14:00:00 -0700"
+        "title": "Dolphins vs Patriots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins%20vs%20Patriots",
+        "pubdate": "Sun, 17 Sep 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Arkansas Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arkansas%20Football",
+        "pubdate": "Sun, 17 Sep 2023 15:00:00 -0700"
       }
     ],
     [
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Dolphins vs Patriots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins%20vs%20Patriots",
-        "pubdate": "Sun, 17 Sep 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Opulent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Opulent",
-        "pubdate": "Sun, 17 Sep 2023 06:00:00 -0700"
+        "title": "David Montgomery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Montgomery",
+        "pubdate": "Sun, 17 Sep 2023 12:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Commanders vs Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Commanders%20vs%20Broncos",
         "pubdate": "Sun, 17 Sep 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sergio%20Brown",
-        "pubdate": "Sun, 17 Sep 2023 13:00:00 -0700"
       }
     ]
   ]
