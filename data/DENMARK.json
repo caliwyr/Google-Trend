@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2023 , 05:59:45",
+  "lastUpdate": "19-09-2023 , 06:23:57",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Yale University",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yale%20University",
+        "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Snapchat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
         "pubdate": "Sun, 17 Sep 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "OB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
         "pubdate": "Sun, 17 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
-        "pubdate": "Sun, 17 Sep 2023 00:00:00 +0200"
       }
     ]
   ]
