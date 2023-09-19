@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "19-09-2023 , 18:50:15",
+  "lastUpdate": "19-09-2023 , 18:59:31",
   "data": [
     [
       {
-        "title": "Milan Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20Newcastle",
+        "title": "Milan-Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan-Newcastle",
         "pubdate": "Tue, 19 Sep 2023 17:00:00 +0200"
       }
     ],
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Cyril Hanouna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyril%20Hanouna",
-        "pubdate": "Tue, 19 Sep 2023 02:00:00 +0200"
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
-        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
+        "title": "Cyril Hanouna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyril%20Hanouna",
+        "pubdate": "Tue, 19 Sep 2023 02:00:00 +0200"
       }
     ],
     [
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Sky Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sky%20Sport",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Bayern%20M%C3%BCnchen",
         "pubdate": "Tue, 19 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,20 +80,6 @@
     ],
     [
       {
-        "title": "Cl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cl",
-        "pubdate": "Tue, 19 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Champions%20League",
-        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Munich",
         "pubdate": "Tue, 19 Sep 2023 14:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Sky Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sky%20Sport",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
-        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UCL",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "Payday 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Payday%203",
         "pubdate": "Tue, 19 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UCL",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Roger Whittaker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Whittaker",
         "pubdate": "Mon, 18 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Uttar Pradesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Uttar%20Pradesh",
+        "pubdate": "Mon, 18 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
