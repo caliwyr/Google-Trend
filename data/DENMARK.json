@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-09-2023 , 17:46:42",
+  "lastUpdate": "19-09-2023 , 17:56:03",
   "data": [
     [
       {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ariana%20Grande",
         "pubdate": "Tue, 19 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League groups",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League%20groups",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Sun, 17 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jumbo-Visma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jumbo-Visma",
-        "pubdate": "Sun, 17 Sep 2023 07:00:00 +0200"
       }
     ]
   ]
