@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2023 , 08:50:29",
+  "lastUpdate": "19-09-2023 , 08:59:50",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "Steffen Seibert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steffen%20Seibert",
-        "pubdate": "Mon, 18 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Mon, 18 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Baerbock China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock%20China",
-        "pubdate": "Mon, 18 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,15 +38,15 @@
     ],
     [
       {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
+        "title": "Brandenburger Tor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brandenburger%20Tor",
         "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Brandenburger Tor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brandenburger%20Tor",
+        "title": "Hertha BSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
@@ -80,9 +66,9 @@
     ],
     [
       {
-        "title": "Bad Dürkheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bad%20D%C3%BCrkheim",
-        "pubdate": "Sun, 17 Sep 2023 19:00:00 +0200"
+        "title": "Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
+        "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Fortuna Düsseldorf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortuna%20D%C3%BCsseldorf",
         "pubdate": "Sat, 16 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Davis-Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Davis-Cup",
+        "pubdate": "Sat, 16 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
+        "pubdate": "Fri, 15 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
