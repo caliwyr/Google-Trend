@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2023 , 14:46:19",
+  "lastUpdate": "19-09-2023 , 14:55:33",
   "data": [
     [
       {
@@ -48,13 +48,6 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 17 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andreas Rettig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Rettig",
-        "pubdate": "Sun, 17 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Formel 1 heute",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20heute",
+        "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serie%20a",
         "pubdate": "Fri, 15 Sep 2023 22:00:00 +0200"
       }
     ]
