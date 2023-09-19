@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2023 , 19:51:41",
+  "lastUpdate": "19-09-2023 , 20:02:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Gunnar Strömmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gunnar%20Str%C3%B6mmer",
         "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "CL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
+        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Husköp i blindo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Husk%C3%B6p%20i%20blindo",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "CL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
+        "title": "Emma Ribom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Ribom",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Kadyrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kadyrov",
+        "pubdate": "Mon, 18 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lss",
         "pubdate": "Mon, 18 Sep 2023 14:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Gavin DeGraw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gavin%20DeGraw",
         "pubdate": "Mon, 18 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mikael Persbrandt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mikael%20Persbrandt",
-        "pubdate": "Sun, 17 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sun, 17 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-        "pubdate": "Sun, 17 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
