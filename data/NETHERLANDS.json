@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 07:44:28",
+  "lastUpdate": "20-09-2023 , 07:54:00",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Alexia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alexia",
-        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
@@ -38,23 +31,9 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Planetarium Franeker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Planetarium%20Franeker",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AC%20Milan",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,6 +52,13 @@
     ],
     [
       {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UEFA%20Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carola Schouten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carola%20Schouten",
         "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
@@ -83,6 +69,13 @@
         "title": "Willem-Alexander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem-Alexander",
         "pubdate": "Tue, 19 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RB%20Leipzig",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FNV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FNV",
         "pubdate": "Mon, 18 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jumbo-Visma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jumbo-Visma",
+        "pubdate": "Mon, 18 Sep 2023 10:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 07:44:31",
+  "lastUpdate": "20-09-2023 , 07:54:03",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0200"
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sky",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "ZSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Union%20Berlin",
         "pubdate": "Wed, 20 Sep 2023 01:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rihanna",
         "pubdate": "Wed, 20 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tokyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tokyo",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,15 +80,15 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
         "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "PFAS was ist das",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PFAS%20was%20ist%20das",
+        "title": "PFAS was ist Das",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PFAS%20was%20ist%20Das",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
       }
     ],
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al-Nassr",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sommerhaus der Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sommerhaus%20der%20Stars",
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barca",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
+        "pubdate": "Tue, 19 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al-Nassr",
         "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ariana Grande",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ariana%20Grande",
-        "pubdate": "Tue, 19 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cyril Hanouna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyril%20Hanouna",
-        "pubdate": "Tue, 19 Sep 2023 02:00:00 +0200"
       }
     ]
   ]
