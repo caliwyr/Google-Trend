@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2023 , 23:51:39",
+  "lastUpdate": "20-09-2023 , 00:27:19",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joao%20Felix",
+        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taylor%20Swift",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
@@ -34,13 +41,6 @@
         "title": "Plastic Bertrand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Plastic%20Bertrand",
         "pubdate": "Tue, 19 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dengue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dengue",
-        "pubdate": "Tue, 19 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
+        "title": "Dengue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dengue",
+        "pubdate": "Tue, 19 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RB%20Leipzig",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Typh Barrow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Typh%20Barrow",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Adolf Eichmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adolf%20Eichmann",
         "pubdate": "Tue, 19 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lou and the Hollywood Bananas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lou%20and%20the%20Hollywood%20Bananas",
+        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
