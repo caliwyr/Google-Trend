@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 09:44:08",
+  "lastUpdate": "20-09-2023 , 09:53:28",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
         "pubdate": "Tue, 19 Sep 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
+        "pubdate": "Tue, 19 Sep 2023 14:00:00 -0500"
       }
     ],
     [
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Tue, 19 Sep 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Alerta laranja baixa umidade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alerta%20laranja%20baixa%20umidade",
+        "pubdate": "Tue, 19 Sep 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feyenoord",
         "pubdate": "Tue, 19 Sep 2023 08:00:00 -0500"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Tue, 19 Sep 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Brasileiro 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%202023",
         "pubdate": "Tue, 19 Sep 2023 10:00:00 -0500"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Shakhtar Donetsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shakhtar%20Donetsk",
-        "pubdate": "Tue, 19 Sep 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Champions League 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League%202023",
-        "pubdate": "Tue, 19 Sep 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Tue, 19 Sep 2023 17:00:00 -0500"
+        "title": "Mariana Ximenes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mariana%20Ximenes",
+        "pubdate": "Tue, 19 Sep 2023 10:00:00 -0500"
       }
     ]
   ]

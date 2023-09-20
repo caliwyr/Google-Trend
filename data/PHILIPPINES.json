@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-09-2023 , 09:44:14",
+  "lastUpdate": "20-09-2023 , 09:53:36",
   "data": [
-    [
-      {
-        "title": "Love",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Love",
-        "pubdate": "Wed, 20 Sep 2023 11:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Nipah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nipah",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Love",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Love",
+        "pubdate": "Wed, 20 Sep 2023 11:00:00 +0800"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "WNBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#WNBA",
-        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Fentanyl",
         "pubdate": "Wed, 20 Sep 2023 13:00:00 +0800"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "WNBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#WNBA",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Sagittarius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sagittarius",
         "pubdate": "Wed, 20 Sep 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gojo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gojo",
+        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0800"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Lies of P",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lies%20of%20P",
-        "pubdate": "Wed, 20 Sep 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Jeron Teng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jeron%20Teng",
         "pubdate": "Wed, 20 Sep 2023 14:00:00 +0800"
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "iOS 17 new features",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#iOS%2017%20new%20features",
-        "pubdate": "Wed, 20 Sep 2023 01:00:00 +0800"
+        "title": "Lies of P",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lies%20of%20P",
+        "pubdate": "Wed, 20 Sep 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Melbourne",
+        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rottweiler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Rottweiler",
         "pubdate": "Wed, 20 Sep 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taylor%20Swift",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0800"
       }
     ]
   ]
