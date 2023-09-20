@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 01:32:44",
+  "lastUpdate": "20-09-2023 , 02:05:21",
   "data": [
     [
       {
@@ -31,20 +31,6 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
-        "pubdate": "Tue, 19 Sep 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brasileirão Série A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o%20S%C3%A9rie%20A",
-        "pubdate": "Tue, 19 Sep 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
         "pubdate": "Tue, 19 Sep 2023 09:00:00 -0500"
@@ -55,6 +41,13 @@
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
         "pubdate": "Tue, 19 Sep 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "America MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 -0500"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "America MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
-        "pubdate": "Tue, 19 Sep 2023 09:00:00 -0500"
+        "title": "Vila Nova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
+        "pubdate": "Tue, 19 Sep 2023 17:00:00 -0500"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Vila Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-        "pubdate": "Tue, 19 Sep 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Shakhtar Donetsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shakhtar%20Donetsk",
         "pubdate": "Tue, 19 Sep 2023 11:00:00 -0500"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Jogos de brasileirão Série a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogos%20de%20brasileir%C3%A3o%20S%C3%A9rie%20a",
+        "pubdate": "Tue, 19 Sep 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Goias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
         "pubdate": "Tue, 19 Sep 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+        "pubdate": "Tue, 19 Sep 2023 17:00:00 -0500"
       }
     ]
   ]
