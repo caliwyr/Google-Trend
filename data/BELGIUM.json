@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 05:46:19",
+  "lastUpdate": "20-09-2023 , 05:55:30",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
+        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Dengue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dengue",
         "pubdate": "Tue, 19 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -75,6 +82,13 @@
       {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
         "pubdate": "Tue, 19 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Adolf Eichmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adolf%20Eichmann",
         "pubdate": "Tue, 19 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Voice Kids Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Voice%20Kids%20Belgique",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lou and the Hollywood Bananas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lou%20and%20the%20Hollywood%20Bananas",
-        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
