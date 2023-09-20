@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-09-2023 , 12:30:59",
+  "lastUpdate": "20-09-2023 , 12:53:50",
   "data": [
-    [
-      {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lazio",
-        "pubdate": "Wed, 20 Sep 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bijou Phillips",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bijou%20Phillips",
         "pubdate": "Wed, 20 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lazio",
+        "pubdate": "Wed, 20 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Web app",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Web%20app",
-        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0200"
+        "title": "New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20City",
+        "pubdate": "Wed, 20 Sep 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "New York City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20City",
-        "pubdate": "Wed, 20 Sep 2023 10:00:00 +0200"
+        "title": "Web app",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Web%20app",
+        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ariana Grande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ariana%20Grande",
         "pubdate": "Tue, 19 Sep 2023 06:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al%20Nassr",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CL",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ]
   ]

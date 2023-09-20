@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "20-09-2023 , 12:30:57",
+  "lastUpdate": "20-09-2023 , 12:53:48",
   "data": [
     [
       {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift",
-        "pubdate": "Wed, 20 Sep 2023 06:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "From The Vault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#From%20The%20Vault",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 +1000"
       }
     ],
@@ -38,15 +31,15 @@
     ],
     [
       {
-        "title": "New york city",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20york%20city",
+        "title": "New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20City",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Golf Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Golf%20Club",
+        "title": "Golf club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Golf%20club",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
       }
     ],
@@ -108,23 +101,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
-        "pubdate": "Wed, 20 Sep 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
-        "pubdate": "Wed, 20 Sep 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York",
         "pubdate": "Wed, 20 Sep 2023 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
+        "pubdate": "Wed, 20 Sep 2023 07:00:00 +1000"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
+        "pubdate": "Wed, 20 Sep 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rihanna",
         "pubdate": "Wed, 20 Sep 2023 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NSW fires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NSW%20fires",
+        "pubdate": "Wed, 20 Sep 2023 00:00:00 +1000"
       }
     ]
   ]

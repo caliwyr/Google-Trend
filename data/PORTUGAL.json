@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 12:31:04",
+  "lastUpdate": "20-09-2023 , 12:53:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Web app",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Web%20app",
         "pubdate": "Wed, 20 Sep 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "EA FC 24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#EA%20FC%2024",
+        "pubdate": "Wed, 20 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Fentanil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fentanil",
+        "pubdate": "Wed, 20 Sep 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
         "pubdate": "Wed, 20 Sep 2023 09:00:00 +0100"
@@ -38,16 +52,9 @@
     ],
     [
       {
-        "title": "Jogo do Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20do%20Benfica",
-        "pubdate": "Wed, 20 Sep 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0100"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
+        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
-        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0100"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0100"
       }
     ],
     [
@@ -75,13 +82,6 @@
       {
         "title": "City  Estrela Vermelha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Estrela%20Vermelha",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Borussia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Borussia",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "PSG  Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Borussia",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Milan  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan%20%20Newcastle",
         "pubdate": "Tue, 19 Sep 2023 18:00:00 +0100"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Futebol clube do Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20clube%20do%20Porto",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nagorno-Karabakh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nagorno-Karabakh",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neymar",
-        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0100"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
-        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0100"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neymar",
+        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0100"
       }
     ]
   ]
