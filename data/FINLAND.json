@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 13:46:12",
+  "lastUpdate": "20-09-2023 , 13:55:23",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Levi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Levi",
-        "pubdate": "Wed, 20 Sep 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "New York City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20City",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +0300"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0300"
+        "title": "Levi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Levi",
+        "pubdate": "Wed, 20 Sep 2023 11:00:00 +0300"
       }
     ],
     [
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
+        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Golf club",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Golf%20club",
         "pubdate": "Wed, 20 Sep 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UEFA%20Champions%20League",
+        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "George Russell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Russell",
         "pubdate": "Tue, 19 Sep 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aurora borealis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aurora%20borealis",
-        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0300"
       }
     ]
   ]
