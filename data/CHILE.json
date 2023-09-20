@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 04:50:24",
+  "lastUpdate": "20-09-2023 , 04:59:44",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "New York City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#New%20York%20City",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Wednesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wednesday",
+        "pubdate": "Wed, 20 Sep 2023 01:00:00 -0300"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Milan  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan%20%20Newcastle",
+        "title": "Milan - Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan%20-%20Newcastle",
         "pubdate": "Tue, 19 Sep 2023 13:00:00 -0300"
       }
     ],
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leipzig",
+        "pubdate": "Tue, 19 Sep 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
         "pubdate": "Tue, 19 Sep 2023 18:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leipzig",
-        "pubdate": "Tue, 19 Sep 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Jordan 23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jordan%2023",
-        "pubdate": "Tue, 19 Sep 2023 02:00:00 -0300"
       }
     ]
   ]

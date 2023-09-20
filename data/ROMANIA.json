@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "20-09-2023 , 04:50:31",
+  "lastUpdate": "20-09-2023 , 04:59:51",
   "data": [
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lazio",
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
         "pubdate": "Wed, 20 Sep 2023 01:00:00 +0300"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20League",
         "pubdate": "Wed, 20 Sep 2023 06:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Calin Donca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calin%20Donca",
+        "pubdate": "Tue, 19 Sep 2023 14:00:00 +0300"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Calin donca arestat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calin%20donca%20arestat",
-        "pubdate": "Tue, 19 Sep 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Accident A1 azi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20A1%20azi",
         "pubdate": "Tue, 19 Sep 2023 16:00:00 +0300"
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Armenia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Armenia",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
         "pubdate": "Tue, 19 Sep 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sebastian Colțescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sebastian%20Col%C8%9Bescu",
-        "pubdate": "Tue, 19 Sep 2023 10:00:00 +0300"
       }
     ],
     [
@@ -94,9 +80,16 @@
     ],
     [
       {
-        "title": "Brio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brio",
-        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0300"
+        "title": "Armenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Armenia",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sebastian Colțescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sebastian%20Col%C8%9Bescu",
+        "pubdate": "Tue, 19 Sep 2023 10:00:00 +0300"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City",
         "pubdate": "Tue, 19 Sep 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Brio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brio",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -122,16 +122,16 @@
     ],
     [
       {
-        "title": "Wargha Enayati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wargha%20Enayati",
-        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0300"
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan",
+        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0300"
+        "title": "Wargha Enayati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wargha%20Enayati",
+        "pubdate": "Tue, 19 Sep 2023 17:00:00 +0300"
       }
     ],
     [
