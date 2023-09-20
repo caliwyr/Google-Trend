@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "20-09-2023 , 11:48:25",
+  "lastUpdate": "20-09-2023 , 11:57:43",
   "data": [
     [
       {
-        "title": "Bösendorfer Wiener Neustadt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6sendorfer%20Wiener%20Neustadt",
+        "title": "Bösendorfer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6sendorfer",
         "pubdate": "Wed, 20 Sep 2023 05:00:00 +0200"
       }
     ],
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Sky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
-        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0200"
+        "title": "Love",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Love",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#New%20York%20City",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Love",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Love",
-        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0200"
+        "title": "Sky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
+        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
         "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
@@ -122,15 +122,8 @@
     ],
     [
       {
-        "title": "Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nagelsmann",
-        "pubdate": "Tue, 19 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Flixbus Unfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flixbus%20Unfall",
+        "title": "Flixbus-Unfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flixbus-Unfall",
         "pubdate": "Tue, 19 Sep 2023 13:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Champions League Spiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Champions%20League%20Spiele",
         "pubdate": "Tue, 19 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AC%20Milan",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ]
   ]

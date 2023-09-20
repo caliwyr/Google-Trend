@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-09-2023 , 11:48:33",
+  "lastUpdate": "20-09-2023 , 11:57:51",
   "data": [
+    [
+      {
+        "title": "TSF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TSF",
+        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Web app",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Benfica jogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20jogo",
+        "title": "Jogo do Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20do%20Benfica",
         "pubdate": "Wed, 20 Sep 2023 10:00:00 +0100"
       }
     ],
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
-        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0100"
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
+        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0100"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
+        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0100"
       }
     ],
     [
@@ -108,22 +115,15 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
-        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0100"
+        "title": "Futebol clube do Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20clube%20do%20Porto",
+        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
       }
     ],
     [
       {
         "title": "Nagorno-Karabakh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nagorno-Karabakh",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Futebol clube do Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20clube%20do%20Porto",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0100"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Pedro Teixeira da Mota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira%20da%20Mota",
-        "pubdate": "Tue, 19 Sep 2023 12:00:00 +0100"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 15:00:00 +0100"
       }
     ]
   ]
