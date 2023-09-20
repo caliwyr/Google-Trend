@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 18:48:59",
+  "lastUpdate": "20-09-2023 , 18:58:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Moa Wallin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moa%20Wallin",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elisabeth Svantesson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Svantesson",
+        "pubdate": "Wed, 20 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Elisabeth Svantesson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Svantesson",
-        "pubdate": "Wed, 20 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC 24",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FC%2024",
         "pubdate": "Wed, 20 Sep 2023 14:00:00 +0200"
@@ -47,6 +47,13 @@
       {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
+        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Wed, 20 Sep 2023 17:00:00 +0200"
       }
     ],
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
-        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0200"
+        "title": "EA FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EA%20FC",
+        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Swish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Swish",
         "pubdate": "Tue, 19 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skjutning Lidingö",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skjutning%20Liding%C3%B6",
-        "pubdate": "Tue, 19 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
