@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 19:50:57",
+  "lastUpdate": "20-09-2023 , 20:00:26",
   "data": [
     [
       {
@@ -26,13 +26,6 @@
       {
         "title": "Tokyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tokyo",
-        "pubdate": "Wed, 20 Sep 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "New York City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#New%20York%20City",
         "pubdate": "Wed, 20 Sep 2023 10:00:00 +0800"
       }
     ],
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Percy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Percy%20Jackson",
-        "pubdate": "Wed, 20 Sep 2023 05:00:00 +0800"
+        "title": "Sagittarius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sagittarius",
+        "pubdate": "Wed, 20 Sep 2023 14:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Sagittarius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sagittarius",
-        "pubdate": "Wed, 20 Sep 2023 14:00:00 +0800"
+        "title": "Percy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Percy%20Jackson",
+        "pubdate": "Wed, 20 Sep 2023 05:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sydney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sydney",
         "pubdate": "Wed, 20 Sep 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Melbourne",
+        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0800"
       }
     ]
   ]
