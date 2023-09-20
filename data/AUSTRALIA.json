@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2023 , 17:46:17",
+  "lastUpdate": "20-09-2023 , 17:55:39",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20City",
+        "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Love",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Love",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
@@ -38,22 +45,8 @@
     ],
     [
       {
-        "title": "Wednesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wednesday",
-        "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "New York City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20City",
-        "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Golf club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Golf%20club",
+        "title": "Golf Club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Golf%20Club",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
       }
     ],
@@ -62,6 +55,13 @@
         "title": "New Zealand earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20earthquake",
         "pubdate": "Wed, 20 Sep 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Milan vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Milan%20vs%20Newcastle",
+        "pubdate": "Wed, 20 Sep 2023 04:00:00 +1000"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "New York",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York",
-        "pubdate": "Wed, 20 Sep 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Los%20Angeles",
         "pubdate": "Wed, 20 Sep 2023 18:00:00 +1000"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
-        "pubdate": "Wed, 20 Sep 2023 07:00:00 +1000"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
+        "pubdate": "Wed, 20 Sep 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Rihanna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rihanna",
+        "pubdate": "Wed, 20 Sep 2023 14:00:00 +1000"
       }
     ]
   ]
