@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "21-09-2023 , 16:51:10",
+  "lastUpdate": "21-09-2023 , 17:00:46",
   "data": [
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MLS",
-        "pubdate": "Fri, 22 Sep 2023 00:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Gore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gore",
         "pubdate": "Thu, 21 Sep 2023 16:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Twizel fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Twizel%20fire",
-        "pubdate": "Thu, 21 Sep 2023 07:00:00 +1200"
       }
     ],
     [
@@ -38,6 +24,13 @@
     ],
     [
       {
+        "title": "Twizel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Twizel",
+        "pubdate": "Thu, 21 Sep 2023 07:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inter%20Miami",
         "pubdate": "Thu, 21 Sep 2023 14:00:00 +1200"
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Sex Education' Season 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sex%20Education'%20Season%204",
+        "title": "Sex Education: Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sex%20Education:%20Season%204",
         "pubdate": "Thu, 21 Sep 2023 19:00:00 +1200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taylor%20Swift",
         "pubdate": "Wed, 20 Sep 2023 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Wed, 20 Sep 2023 10:00:00 +1200"
       }
     ]
   ]
