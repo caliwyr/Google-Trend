@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 04:45:51",
+  "lastUpdate": "21-09-2023 , 04:55:11",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Tue, 19 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kiruna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kiruna",
         "pubdate": "Tue, 19 Sep 2023 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "CL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sha'Carri Richardson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sha'Carri%20Richardson",
+        "pubdate": "Tue, 19 Sep 2023 06:00:00 +0200"
       }
     ]
   ]

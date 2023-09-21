@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 04:45:48",
+  "lastUpdate": "21-09-2023 , 04:55:09",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Narvik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Narvik",
+        "pubdate": "Wed, 20 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Travis%20Kelce",
         "pubdate": "Wed, 20 Sep 2023 23:00:00 +0200"
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Fjord Line",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fjord%20Line",
+        "pubdate": "Wed, 20 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
@@ -124,20 +138,6 @@
       {
         "title": "Barcelona mot Antwerpen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona%20mot%20Antwerpen",
-        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Newcastle",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kiruna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiruna",
         "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ]
