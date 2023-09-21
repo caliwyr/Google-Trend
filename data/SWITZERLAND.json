@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 22:55:35",
+  "lastUpdate": "21-09-2023 , 23:11:43",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Unfall a1 heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20a1%20heute",
-        "pubdate": "Thu, 21 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
         "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
@@ -34,6 +27,13 @@
         "title": "Ronan Keating",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ronan%20Keating",
         "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France-Namibie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France-Namibie",
+        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Unfall A1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20A1",
+        "pubdate": "Thu, 21 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20Munich",
         "pubdate": "Thu, 21 Sep 2023 14:00:00 +0200"
@@ -76,13 +83,6 @@
         "title": "Leitzins Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leitzins%20Schweiz",
         "pubdate": "Thu, 21 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "France Namibie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20Namibie",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
-        "pubdate": "Thu, 21 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ajax",
         "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fenerbahce",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heidi%20Klum",
         "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
+        "pubdate": "Thu, 21 Sep 2023 09:00:00 +0200"
       }
     ]
   ]
