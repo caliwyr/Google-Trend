@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 01:16:44",
+  "lastUpdate": "21-09-2023 , 01:58:04",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA",
-        "pubdate": "Wed, 20 Sep 2023 16:00:00 +0300"
+        "title": "Galatasaray vs Copenhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray%20vs%20Copenhagen",
+        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0300"
       }
     ],
     [
@@ -38,15 +38,8 @@
     ],
     [
       {
-        "title": "Galatasaray vs Copenhagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray%20vs%20Copenhagen",
-        "pubdate": "Wed, 20 Sep 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Benfica FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica%20FC",
+        "title": "Benfica vs Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica%20vs%20Salzburg",
         "pubdate": "Wed, 20 Sep 2023 15:00:00 +0300"
       }
     ],
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Hull vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hull%20vs%20Leeds",
+        "pubdate": "Wed, 20 Sep 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "LiveScore Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LiveScore%20Today",
         "pubdate": "Wed, 20 Sep 2023 18:00:00 +0300"
@@ -76,13 +76,6 @@
         "title": "Blackburn vs Sunderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blackburn%20vs%20Sunderland",
         "pubdate": "Wed, 20 Sep 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Hull City vs Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hull%20City%20vs%20Leeds%20United",
-        "pubdate": "Wed, 20 Sep 2023 23:00:00 +0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Prichard Colon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Prichard%20Colon",
-        "pubdate": "Wed, 20 Sep 2023 08:00:00 +0300"
+        "title": "Huddersfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Huddersfield",
+        "pubdate": "Wed, 20 Sep 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Watford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Watford",
+        "pubdate": "Wed, 20 Sep 2023 23:00:00 +0300"
       }
     ]
   ]
