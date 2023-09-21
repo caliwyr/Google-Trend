@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 14:48:53",
+  "lastUpdate": "21-09-2023 , 14:58:11",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0300"
+        "title": "Real Madrid – Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Union%20Berlin",
+        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Real Madrid – Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Union%20Berlin",
-        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0300"
+        "title": "Zimbabwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zimbabwe",
+        "pubdate": "Wed, 20 Sep 2023 22:00:00 +0300"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Tokyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tokyo",
         "pubdate": "Wed, 20 Sep 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "New York City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20City",
+        "pubdate": "Wed, 20 Sep 2023 12:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Windy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Windy",
-        "pubdate": "Wed, 20 Sep 2023 07:00:00 +0300"
       }
     ]
   ]
