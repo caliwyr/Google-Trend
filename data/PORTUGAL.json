@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 11:47:53",
+  "lastUpdate": "21-09-2023 , 11:57:04",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Simic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simic",
-        "pubdate": "Thu, 21 Sep 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sex Education",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sex%20Education",
         "pubdate": "Thu, 21 Sep 2023 02:00:00 +0100"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Simic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simic",
+        "pubdate": "Thu, 21 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Thu, 21 Sep 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marco Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
+        "pubdate": "Thu, 21 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Sevilla  Lens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sevilla%20%20Lens",
         "pubdate": "Thu, 21 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Trubin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trubin",
+        "pubdate": "Wed, 20 Sep 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Goiás  Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goi%C3%A1s%20%20Flamengo",
         "pubdate": "Wed, 20 Sep 2023 23:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Fentanil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fentanil",
         "pubdate": "Wed, 20 Sep 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sturm Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sturm%20Graz",
-        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 11:47:47",
+  "lastUpdate": "21-09-2023 , 11:56:58",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Web app",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Web%20app",
         "pubdate": "Wed, 20 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Clara Tauson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clara%20Tauson",
+        "pubdate": "Wed, 20 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "SOUNDBOKS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SOUNDBOKS",
-        "pubdate": "Wed, 20 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Add",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Add",
         "pubdate": "Wed, 20 Sep 2023 21:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ruby Franke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ruby%20Franke",
-        "pubdate": "Wed, 20 Sep 2023 15:00:00 +0200"
+        "title": "SOUNDBOKS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SOUNDBOKS",
+        "pubdate": "Wed, 20 Sep 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Prichard Colon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prichard%20Colon",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0200"
+        "title": "Ruby Franke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ruby%20Franke",
+        "pubdate": "Wed, 20 Sep 2023 15:00:00 +0200"
       }
     ]
   ]
