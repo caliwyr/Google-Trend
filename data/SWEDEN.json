@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-09-2023 , 05:44:35",
+  "lastUpdate": "21-09-2023 , 05:53:41",
   "data": [
     [
       {
         "title": "Kick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kick",
         "pubdate": "Thu, 21 Sep 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
+        "pubdate": "Wed, 20 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-        "pubdate": "Wed, 20 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Husköp i blindo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Husk%C3%B6p%20i%20blindo",
-        "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "CL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
         "pubdate": "Tue, 19 Sep 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Sha'Carri Richardson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sha'Carri%20Richardson",
         "pubdate": "Tue, 19 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emma Ribom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Ribom",
+        "pubdate": "Tue, 19 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
