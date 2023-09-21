@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 08:46:52",
+  "lastUpdate": "21-09-2023 , 08:56:02",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
-        "pubdate": "Wed, 20 Sep 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "FOMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
         "pubdate": "Wed, 20 Sep 2023 23:00:00 +0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Springleaf Prata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Springleaf%20Prata",
-        "pubdate": "Wed, 20 Sep 2023 17:00:00 +0800"
+        "title": "Instacart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Instacart",
+        "pubdate": "Wed, 20 Sep 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Azerbaijan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azerbaijan",
+        "pubdate": "Wed, 20 Sep 2023 12:00:00 +0800"
       }
     ]
   ]

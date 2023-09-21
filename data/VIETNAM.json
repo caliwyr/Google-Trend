@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2023 , 08:46:55",
+  "lastUpdate": "21-09-2023 , 08:56:05",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lazio",
-        "pubdate": "Wed, 20 Sep 2023 04:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Giá xăng dầu hôm nay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay",
         "pubdate": "Wed, 20 Sep 2023 22:00:00 +0700"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Châu Khải Phong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%A2u%20Kh%E1%BA%A3i%20Phong",
-        "pubdate": "Wed, 20 Sep 2023 23:00:00 +0700"
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lazio",
+        "pubdate": "Wed, 20 Sep 2023 04:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Champions League 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League%202023",
+        "pubdate": "Wed, 20 Sep 2023 01:00:00 +0700"
       }
     ]
   ]
