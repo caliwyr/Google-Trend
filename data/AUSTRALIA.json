@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 02:51:51",
+  "lastUpdate": "22-09-2023 , 03:06:13",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
+        "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
         "pubdate": "Fri, 22 Sep 2023 05:00:00 +1000"
@@ -45,23 +52,16 @@
     ],
     [
       {
-        "title": "WWE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE",
-        "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
-        "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Queenstown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Queenstown",
         "pubdate": "Fri, 22 Sep 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "WWE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE",
+        "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
       }
     ],
     [
@@ -75,6 +75,13 @@
       {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
+        "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "About my father",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#About%20my%20father",
         "pubdate": "Fri, 22 Sep 2023 08:00:00 +1000"
       }
     ],
@@ -125,13 +132,6 @@
         "title": "Sam Newman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Newman",
         "pubdate": "Thu, 21 Sep 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-        "pubdate": "Thu, 21 Sep 2023 07:00:00 +1000"
       }
     ],
     [
