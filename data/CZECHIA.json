@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "22-09-2023 , 13:48:25",
+  "lastUpdate": "22-09-2023 , 13:57:45",
   "data": [
     [
       {
         "title": "Václav Šašek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20%C5%A0a%C5%A1ek",
         "pubdate": "Fri, 22 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Volby Slovensko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20Slovensko",
-        "pubdate": "Fri, 22 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -24,23 +17,16 @@
     ],
     [
       {
+        "title": "Volby Slovensko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20Slovensko",
+        "pubdate": "Fri, 22 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rupert Murdoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rupert%20Murdoch",
         "pubdate": "Fri, 22 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88",
-        "pubdate": "Fri, 22 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham",
-        "pubdate": "Fri, 22 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -54,14 +40,7 @@
       {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viktoria Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20Plze%C5%88",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+        "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +52,23 @@
     ],
     [
       {
+        "title": "Viktoria Plzeň",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20Plze%C5%88",
+        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sex Education",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sex%20Education",
         "pubdate": "Thu, 21 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "West Ham – Bačka Topola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Ba%C4%8Dka%20Topola",
+        "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,8 +80,15 @@
     ],
     [
       {
-        "title": "SK Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
+        "title": "Konferenční liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Konferen%C4%8Dn%C3%AD%20liga",
+        "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Servette",
         "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -101,16 +101,16 @@
     ],
     [
       {
-        "title": "Kordula Stropnická",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kordula%20Stropnick%C3%A1",
-        "pubdate": "Thu, 21 Sep 2023 16:00:00 +0200"
+        "title": "SK Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
+        "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FC Viktoria Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
-        "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
+        "title": "Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Evropská konferenční liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropsk%C3%A1%20konferen%C4%8Dn%C3%AD%20liga",
+        "title": "Evropská Konferenční liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropsk%C3%A1%20Konferen%C4%8Dn%C3%AD%20liga",
         "pubdate": "Thu, 21 Sep 2023 23:00:00 +0200"
       }
     ]

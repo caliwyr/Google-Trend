@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 13:48:32",
+  "lastUpdate": "22-09-2023 , 13:57:53",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "India Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20Canada",
+        "title": "India-Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India-Canada",
         "pubdate": "Fri, 22 Sep 2023 11:00:00 +0800"
       }
     ],
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Sex Education: Season 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sex%20Education:%20Season%204",
+        "title": "Sex Education Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sex%20Education%20Season%204",
         "pubdate": "Thu, 21 Sep 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fed interest rate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20interest%20rate",
-        "pubdate": "Thu, 21 Sep 2023 08:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift",
-        "pubdate": "Wed, 20 Sep 2023 00:00:00 +0800"
+        "title": "Fed interest rate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20interest%20rate",
+        "pubdate": "Thu, 21 Sep 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed",
+        "pubdate": "Thu, 21 Sep 2023 09:00:00 +0800"
       }
     ]
   ]
