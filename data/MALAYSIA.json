@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 08:55:21",
+  "lastUpdate": "22-09-2023 , 09:11:24",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Hilal",
+        "title": "Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Hilal",
         "pubdate": "Fri, 22 Sep 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Australia vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australia%20vs%20India",
+        "pubdate": "Fri, 22 Sep 2023 16:00:00 +0800"
       }
     ],
     [
@@ -101,16 +108,9 @@
     ],
     [
       {
-        "title": "MU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU",
+        "title": "Mu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu",
         "pubdate": "Thu, 21 Sep 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MLS",
-        "pubdate": "Thu, 21 Sep 2023 10:00:00 +0800"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "Sex Education",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sex%20Education",
         "pubdate": "Thu, 21 Sep 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MLS",
+        "pubdate": "Thu, 21 Sep 2023 10:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "India women vs Malaysia women",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20women%20vs%20Malaysia%20women",
         "pubdate": "Thu, 21 Sep 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Suspect X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Suspect%20X",
-        "pubdate": "Thu, 21 Sep 2023 23:00:00 +0800"
       }
     ]
   ]
