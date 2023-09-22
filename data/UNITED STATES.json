@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-09-2023 , 23:50:46",
+  "lastUpdate": "21-09-2023 , 23:59:57",
   "data": [
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
-        "pubdate": "Thu, 21 Sep 2023 07:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
         "pubdate": "Thu, 21 Sep 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
+        "pubdate": "Thu, 21 Sep 2023 07:00:00 -0700"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "WWE releases",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WWE%20releases",
-        "pubdate": "Thu, 21 Sep 2023 13:00:00 -0700"
+        "title": "Splunk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Splunk",
+        "pubdate": "Thu, 21 Sep 2023 09:00:00 -0700"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Splunk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Splunk",
-        "pubdate": "Thu, 21 Sep 2023 09:00:00 -0700"
+        "title": "Brandon Aiyuk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brandon%20Aiyuk",
+        "pubdate": "Thu, 21 Sep 2023 11:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Brandon Aiyuk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brandon%20Aiyuk",
-        "pubdate": "Thu, 21 Sep 2023 11:00:00 -0700"
+        "title": "WWE releases",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WWE%20releases",
+        "pubdate": "Thu, 21 Sep 2023 13:00:00 -0700"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Sex Education",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sex%20Education",
-        "pubdate": "Thu, 21 Sep 2023 15:00:00 -0700"
+        "title": "Blink-182",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Blink-182",
+        "pubdate": "Thu, 21 Sep 2023 16:00:00 -0700"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Wed, 20 Sep 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
         "pubdate": "Wed, 20 Sep 2023 17:00:00 -0700"
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Cam Akers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Akers",
-        "pubdate": "Wed, 20 Sep 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
-        "pubdate": "Wed, 20 Sep 2023 13:00:00 -0700"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
+        "pubdate": "Wed, 20 Sep 2023 10:00:00 -0700"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MLS",
+        "pubdate": "Wed, 20 Sep 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Donald%20Trump",
         "pubdate": "Wed, 20 Sep 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Wed, 20 Sep 2023 13:00:00 -0700"
       }
     ]
   ]
