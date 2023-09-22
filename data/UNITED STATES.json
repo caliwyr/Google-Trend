@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 05:45:31",
+  "lastUpdate": "22-09-2023 , 05:54:55",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Tropical storm warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tropical%20storm%20warning",
+        "pubdate": "Thu, 21 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Angus Cloud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Angus%20Cloud",
         "pubdate": "Thu, 21 Sep 2023 12:00:00 -0700"
@@ -41,6 +48,13 @@
         "title": "Splunk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Splunk",
         "pubdate": "Thu, 21 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Sex Education",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sex%20Education",
+        "pubdate": "Thu, 21 Sep 2023 15:00:00 -0700"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "WWE releases",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WWE%20releases",
         "pubdate": "Thu, 21 Sep 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Darren Waller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Darren%20Waller",
+        "pubdate": "Thu, 21 Sep 2023 17:00:00 -0700"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Sex Education: Season 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sex%20Education:%20Season%204",
+        "title": "Writers strike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Writers%20strike",
         "pubdate": "Thu, 21 Sep 2023 18:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Writers' strike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Writers'%20strike",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Stock market",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market",
-        "pubdate": "Thu, 21 Sep 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dave Portnoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dave%20Portnoy",
-        "pubdate": "Thu, 21 Sep 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Tropical storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tropical%20storm",
-        "pubdate": "Thu, 21 Sep 2023 21:00:00 -0700"
+        "title": "USWNT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USWNT",
+        "pubdate": "Thu, 21 Sep 2023 19:00:00 -0700"
       }
     ]
   ]
