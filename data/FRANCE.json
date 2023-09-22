@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 04:48:31",
+  "lastUpdate": "22-09-2023 , 04:57:55",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Sex Education",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sex%20Education",
+        "pubdate": "Thu, 21 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Union Saint-Gilloise – Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Union%20Saint-Gilloise%20%E2%80%93%20Toulouse",
         "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Sex Education",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sex%20Education",
-        "pubdate": "Thu, 21 Sep 2023 01:00:00 +0200"
+        "title": "Le Diable s'habille en Prada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Diable%20s'habille%20en%20Prada",
+        "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Louis Bielle-Biarrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louis%20Bielle-Biarrey",
+        "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,20 +87,6 @@
     ],
     [
       {
-        "title": "Pierre Palmade accident bébé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade%20accident%20b%C3%A9b%C3%A9",
-        "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Automne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Automne",
-        "pubdate": "Thu, 21 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liverpool",
         "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
@@ -97,6 +97,13 @@
         "title": "Stephane Plaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stephane%20Plaza",
         "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TFC",
+        "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Vincent Clerc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vincent%20Clerc",
-        "pubdate": "Thu, 21 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Afrique du Sud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Afrique%20du%20Sud",
-        "pubdate": "Thu, 21 Sep 2023 23:00:00 +0200"
+        "title": "Bielle-Biarrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bielle-Biarrey",
+        "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
       }
     ]
   ]

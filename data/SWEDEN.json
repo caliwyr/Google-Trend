@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 04:48:41",
+  "lastUpdate": "22-09-2023 , 04:58:01",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Solheim Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Solheim%20Cup",
+        "pubdate": "Thu, 21 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dalsland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dalsland",
         "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Wed, 20 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
       }
     ]
   ]

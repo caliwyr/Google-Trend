@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2023 , 04:48:27",
+  "lastUpdate": "22-09-2023 , 04:57:53",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "FC Bruges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Bruges",
+        "pubdate": "Fri, 22 Sep 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KRC Genk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
         "pubdate": "Thu, 21 Sep 2023 19:00:00 +0200"
@@ -47,13 +54,6 @@
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
         "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "AA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+        "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Conner Rousseau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conner%20Rousseau",
         "pubdate": "Thu, 21 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "France-Namibie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France-Namibie",
+        "title": "France Namibie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20Namibie",
         "pubdate": "Thu, 21 Sep 2023 22:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Europa Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20Conference%20League",
         "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrice Charlemagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrice%20Charlemagne",
-        "pubdate": "Thu, 21 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jean Dujardin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean%20Dujardin",
-        "pubdate": "Thu, 21 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
