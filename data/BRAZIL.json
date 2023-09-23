@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2023 , 06:45:04",
+  "lastUpdate": "23-09-2023 , 06:54:28",
   "data": [
     [
       {
@@ -80,8 +80,15 @@
     ],
     [
       {
-        "title": "Campeonato Italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Italiano",
+        "title": "Cantillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cantillo",
+        "pubdate": "Fri, 22 Sep 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Campeonato italiano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20italiano",
         "pubdate": "Fri, 22 Sep 2023 12:00:00 -0500"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "John Wick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#John%20Wick",
         "pubdate": "Fri, 22 Sep 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tite",
-        "pubdate": "Fri, 22 Sep 2023 16:00:00 -0500"
       }
     ]
   ]
