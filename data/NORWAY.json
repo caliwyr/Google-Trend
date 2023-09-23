@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2023 , 12:41:00",
+  "lastUpdate": "23-09-2023 , 12:54:58",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Maria Stavang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maria%20Stavang",
+        "pubdate": "Fri, 22 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jakob Oftebro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Oftebro",
         "pubdate": "Fri, 22 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KF Entreprenør",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KF%20Entrepren%C3%B8r",
+        "pubdate": "Fri, 22 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Thu, 21 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "John Fredriksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#John%20Fredriksen",
-        "pubdate": "Thu, 21 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Angus Cloud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angus%20Cloud",
-        "pubdate": "Thu, 21 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
