@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2023 , 10:45:28",
+  "lastUpdate": "23-09-2023 , 10:54:52",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Simon and Garfunkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simon%20and%20Garfunkel",
         "pubdate": "Sat, 23 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Sat, 23 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Sat, 23 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sophie Marceau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophie%20Marceau",
         "pubdate": "Sat, 23 Sep 2023 01:00:00 +0200"
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Whatsapp Kanäle löschen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Whatsapp%20Kan%C3%A4le%20l%C3%B6schen",
+        "title": "WhatsApp Kanäle löschen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WhatsApp%20Kan%C3%A4le%20l%C3%B6schen",
         "pubdate": "Fri, 22 Sep 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Challenge League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
-        "pubdate": "Fri, 22 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Fete des vendanges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20des%20vendanges",
+        "title": "Fete des Vendanges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20des%20Vendanges",
         "pubdate": "Fri, 22 Sep 2023 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Laver Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laver%20Cup",
         "pubdate": "Fri, 22 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pape François",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pape%20Fran%C3%A7ois",
+        "pubdate": "Fri, 22 Sep 2023 01:00:00 +0200"
       }
     ]
   ]
