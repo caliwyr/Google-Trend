@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-09-2023 , 22:51:22",
+  "lastUpdate": "24-09-2023 , 23:00:48",
   "data": [
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
+        "pubdate": "Mon, 25 Sep 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Arsenal vs Tottenham",
@@ -132,13 +139,6 @@
         "title": "Wayne Rooney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wayne%20Rooney",
         "pubdate": "Sun, 24 Sep 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Japanese Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japanese%20Grand%20Prix",
-        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0300"
       }
     ]
   ]
