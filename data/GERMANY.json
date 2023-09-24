@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-09-2023 , 18:48:51",
+  "lastUpdate": "24-09-2023 , 18:58:11",
   "data": [
+    [
+      {
+        "title": "Berlin-Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Eintracht Frankfurt gegen Freiburg",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Ajax Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ajax%20Feyenoord",
-        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tigist Assefa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tigist%20Assefa",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
@@ -45,8 +45,15 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ajax%20Feyenoord",
         "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
       }
     ],
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Timo Baumgartl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Timo%20Baumgartl",
-        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+        "title": "MDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Fernsehgarten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fernsehgarten",
-        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
         "pubdate": "Sat, 23 Sep 2023 21:00:00 +0200"
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
+        "title": "Nordhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
+        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nordhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
-        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Berlin-Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
-        "pubdate": "Fri, 22 Sep 2023 20:00:00 +0200"
+        "title": "Söder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%B6der",
+        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
       }
     ],
     [
