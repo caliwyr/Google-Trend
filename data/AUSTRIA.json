@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-09-2023 , 07:51:42",
+  "lastUpdate": "24-09-2023 , 08:06:38",
   "data": [
+    [
+      {
+        "title": "Oscar Piastri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oscar%20Piastri",
+        "pubdate": "Sun, 24 Sep 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Starship Troopers",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Julio Iglesias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julio%20Iglesias",
-        "pubdate": "Sun, 24 Sep 2023 06:00:00 +0200"
+        "title": "Berlin-Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berlin-Marathon",
+        "pubdate": "Sun, 24 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Berlin-Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berlin-Marathon",
-        "pubdate": "Sun, 24 Sep 2023 01:00:00 +0200"
+        "title": "Julio Iglesias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julio%20Iglesias",
+        "pubdate": "Sun, 24 Sep 2023 06:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Sizilien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sizilien",
         "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Grubinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Grubinger",
+        "pubdate": "Sun, 24 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Austria Klagenfurt gegen Austria Lustenau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20gegen%20Austria%20Lustenau",
-        "pubdate": "Sat, 23 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund gegen Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20gegen%20Wolfsburg",
         "pubdate": "Sat, 23 Sep 2023 15:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "GAK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
-        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Senta Berger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Senta%20Berger",
         "pubdate": "Sat, 23 Sep 2023 23:00:00 +0200"
       }
     ]

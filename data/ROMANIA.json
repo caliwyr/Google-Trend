@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-09-2023 , 07:51:48",
+  "lastUpdate": "24-09-2023 , 08:06:45",
   "data": [
     [
       {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
         "pubdate": "Sun, 24 Sep 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Max%20Verstappen",
+        "pubdate": "Sun, 24 Sep 2023 10:00:00 +0300"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Vreme Timisoara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vreme%20Timisoara",
+        "title": "Vreme TIMISOARA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vreme%20TIMISOARA",
         "pubdate": "Sun, 24 Sep 2023 06:00:00 +0300"
       }
     ],
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Voluntari  Poli Iași",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Voluntari%20%20Poli%20Ia%C8%99i",
+        "title": "Voluntari Poli Iași",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Voluntari%20Poli%20Ia%C8%99i",
         "pubdate": "Sat, 23 Sep 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "CSM bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
+        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0300"
       }
     ],
     [
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Sassuolo - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sassuolo%20-%20Juventus",
+        "title": "Sassuolo  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sassuolo%20%20Juventus",
         "pubdate": "Sat, 23 Sep 2023 20:00:00 +0300"
       }
     ],
@@ -76,13 +90,6 @@
         "title": "Giorgio Napolitano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Giorgio%20Napolitano",
         "pubdate": "Sat, 23 Sep 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CSM bucuresti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
-        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0300"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Julio Iglesias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Julio%20Iglesias",
-        "pubdate": "Sat, 23 Sep 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Accident",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident",
         "pubdate": "Sat, 23 Sep 2023 09:00:00 +0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Manchester city–nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20city%E2%80%93nottingham%20Forest",
-        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0300"
+        "title": "Julio Iglesias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Julio%20Iglesias",
+        "pubdate": "Sat, 23 Sep 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Gabriela Cretu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gabriela%20Cretu",
-        "pubdate": "Fri, 22 Sep 2023 22:00:00 +0300"
+        "title": "Manchester city–nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20city%E2%80%93nottingham%20Forest",
+        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0300"
       }
     ]
   ]
