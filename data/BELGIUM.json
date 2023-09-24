@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-09-2023 , 10:42:55",
+  "lastUpdate": "24-09-2023 , 10:52:13",
   "data": [
-    [
-      {
-        "title": "MHD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MHD",
-        "pubdate": "Sun, 24 Sep 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Francois Glorieux",
@@ -20,6 +13,13 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
         "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Irlande Afrique du Sud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Irlande%20Afrique%20du%20Sud",
+        "pubdate": "Sun, 24 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Barcelone – Celta Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Celta%20Vigo",
-        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
+        "title": "Anderlecht Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20Club%20Brugge",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
-        "pubdate": "Sat, 23 Sep 2023 22:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Sat, 23 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "KV Mechelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
         "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "VAM-berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VAM-berg",
-        "pubdate": "Sat, 23 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julio Iglesias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julio%20Iglesias",
         "pubdate": "Sat, 23 Sep 2023 17:00:00 +0200"
       }
     ]
