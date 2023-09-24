@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-09-2023 , 12:53:00",
+  "lastUpdate": "24-09-2023 , 13:06:54",
   "data": [
     [
       {
-        "title": "Grand Prix Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grand%20Prix%20Japan",
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sun, 24 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
         "pubdate": "Sun, 24 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MHD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MHD",
+        "pubdate": "Sun, 24 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -24,20 +38,6 @@
     ],
     [
       {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MHD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MHD",
-        "pubdate": "Sun, 24 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Feyenoord",
         "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
@@ -48,6 +48,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sat, 23 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heerenveen  Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20Excelsior",
+        "pubdate": "Sat, 23 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
       }
     ]
   ]
