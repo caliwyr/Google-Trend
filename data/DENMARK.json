@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-09-2023 , 15:45:58",
+  "lastUpdate": "24-09-2023 , 15:55:14",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Sun, 24 Sep 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Liam Neeson",
@@ -10,23 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Tottenham",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20West%20Ham",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Derby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Derby",
-        "pubdate": "Sun, 24 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Denise Richards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Denise%20Richards",
-        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Whitney Houston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Whitney%20Houston",
         "pubdate": "Sat, 23 Sep 2023 19:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al%20Nassr",
         "pubdate": "Fri, 22 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pauline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pauline",
+        "pubdate": "Fri, 22 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lizzo",
+        "pubdate": "Fri, 22 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
