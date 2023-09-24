@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2023 , 23:44:50",
+  "lastUpdate": "24-09-2023 , 23:54:10",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
-        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+        "pubdate": "Mon, 25 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anderlecht  Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20%20Club%20Brugge",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
         "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Wout van Aert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
+        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Francois Glorieux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Francois%20Glorieux",
         "pubdate": "Sun, 24 Sep 2023 08:00:00 +0200"
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
-        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+        "title": "STVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#STVV",
+        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,23 +115,9 @@
     ],
     [
       {
-        "title": "Anderlecht Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20Brugge",
-        "pubdate": "Sun, 24 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Beerschot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
         "pubdate": "Sun, 24 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "STVV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#STVV",
-        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
         "pubdate": "Sun, 24 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luc Besson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luc%20Besson",
-        "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
       }
     ]
   ]
