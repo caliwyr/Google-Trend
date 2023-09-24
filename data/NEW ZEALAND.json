@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2023 , 14:51:59",
+  "lastUpdate": "24-09-2023 , 15:03:50",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Dunkirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunkirk",
+        "pubdate": "Sun, 24 Sep 2023 22:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Burnley vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Burnley%20vs%20Man%20United",
         "pubdate": "Sun, 24 Sep 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Cleaver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cleaver",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 +1300"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "England vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Chile",
-        "pubdate": "Sun, 24 Sep 2023 11:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Nicola Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicola%20Willis",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +1300"
@@ -104,6 +111,13 @@
         "title": "Madelyn Cline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Madelyn%20Cline",
         "pubdate": "Sun, 24 Sep 2023 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Daylight saving time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daylight%20saving%20time",
+        "pubdate": "Sun, 24 Sep 2023 08:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Billy Walters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Billy%20Walters",
         "pubdate": "Sun, 24 Sep 2023 10:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Broncos",
-        "pubdate": "Sat, 23 Sep 2023 01:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Daylight savings NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daylight%20savings%20NZ",
-        "pubdate": "Sat, 23 Sep 2023 06:00:00 +1200"
       }
     ]
   ]

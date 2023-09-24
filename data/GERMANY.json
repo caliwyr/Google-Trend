@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "24-09-2023 , 14:51:55",
+  "lastUpdate": "24-09-2023 , 15:03:46",
   "data": [
+    [
+      {
+        "title": "Fortuna Düsseldorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortuna%20D%C3%BCsseldorf",
+        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Marathon-Weltrekord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marathon-Weltrekord",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -24,13 +38,6 @@
     ],
     [
       {
-        "title": "Formel 1 Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Japan",
-        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Werder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder",
-        "pubdate": "Sat, 23 Sep 2023 21:00:00 +0200"
+        "title": "Nordhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
+        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nordhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
-        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
+        "title": "Werder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder",
+        "pubdate": "Sat, 23 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -61,13 +68,6 @@
       {
         "title": "Berlin-Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
-        "pubdate": "Fri, 22 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Fri, 22 Sep 2023 19:00:00 +0200"
       }
     ],
