@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-09-2023 , 01:51:31",
+  "lastUpdate": "24-09-2023 , 02:14:28",
   "data": [
-    [
-      {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Almere  PSV",
@@ -27,6 +20,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heerenveen  Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20Excelsior",
+        "pubdate": "Sat, 23 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20munchen",
-        "pubdate": "Sat, 23 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bilal Wahib",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bilal%20Wahib",
         "pubdate": "Fri, 22 Sep 2023 23:00:00 +0200"
@@ -69,13 +62,6 @@
         "title": "Duncan Laurence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
         "pubdate": "Fri, 22 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Viaplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
-        "pubdate": "Fri, 22 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -101,8 +87,8 @@
     ],
     [
       {
-        "title": "Willem II - TOP Oss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20-%20TOP%20Oss",
+        "title": "Willem II  TOP Oss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20%20TOP%20Oss",
         "pubdate": "Fri, 22 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Wed, 20 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Tue, 19 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
+        "pubdate": "Tue, 19 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
