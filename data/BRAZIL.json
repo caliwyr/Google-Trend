@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2023 , 06:49:14",
+  "lastUpdate": "24-09-2023 , 06:58:33",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Burnley x Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Burnley%20x%20Manchester%20United",
-        "pubdate": "Sat, 23 Sep 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
         "pubdate": "Sat, 23 Sep 2023 16:00:00 -0500"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Sat, 23 Sep 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Mega-Sena 2636",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202636",
         "pubdate": "Sat, 23 Sep 2023 14:00:00 -0500"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "title": "Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
         "pubdate": "Sat, 23 Sep 2023 16:00:00 -0500"
       }
     ],
@@ -90,13 +90,6 @@
         "title": "Operario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Operario",
         "pubdate": "Sat, 23 Sep 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Guarani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
-        "pubdate": "Sat, 23 Sep 2023 16:00:00 -0500"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Dia do Sorvete",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Sorvete",
+        "pubdate": "Sat, 23 Sep 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "São Paulo x Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Flamengo",
         "pubdate": "Sat, 23 Sep 2023 07:00:00 -0500"
       }
     ]
