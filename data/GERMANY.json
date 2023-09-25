@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 09:53:55",
+  "lastUpdate": "25-09-2023 , 10:10:32",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
+        "pubdate": "Mon, 25 Sep 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Berlin-Marathon",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Dynamo Dresden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
-        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "SC Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
-        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -68,6 +54,20 @@
       {
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frankfurt Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Freiburg",
         "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ],
