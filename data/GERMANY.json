@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-09-2023 , 06:49:14",
+  "lastUpdate": "25-09-2023 , 06:58:26",
   "data": [
     [
       {
         "title": "Berlin-Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
         "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%20Leverkusen",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "SC Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
-        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
+        "pubdate": "Sun, 24 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Tatort: Blinder Fleck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort:%20Blinder%20Fleck",
+        "title": "Tatort Blinder Fleck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Blinder%20Fleck",
         "pubdate": "Sun, 24 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Führerschein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BChrerschein",
-        "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union",
         "pubdate": "Wed, 20 Sep 2023 20:00:00 +0200"
       }
     ]
