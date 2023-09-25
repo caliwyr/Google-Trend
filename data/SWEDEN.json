@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2023 , 20:50:26",
+  "lastUpdate": "25-09-2023 , 20:59:45",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sirius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
+        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sophia Loren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophia%20Loren",
         "pubdate": "Mon, 25 Sep 2023 18:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Sirius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
+        "title": "HBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
+        "pubdate": "Mon, 25 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "HBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HBK",
-        "pubdate": "Mon, 25 Sep 2023 21:00:00 +0200"
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NHL",
+        "pubdate": "Mon, 25 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 24 Sep 2023 22:00:00 +0200"
+        "title": "Mjällby mot IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mjällby mot IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 24 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Lena Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lena%20Andersson",
         "pubdate": "Sun, 24 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
-        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1%20Japan",
-        "pubdate": "Sun, 24 Sep 2023 08:00:00 +0200"
       }
     ]
   ]
