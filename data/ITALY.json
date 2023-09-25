@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 01:38:47",
+  "lastUpdate": "25-09-2023 , 02:09:12",
   "data": [
+    [
+      {
+        "title": "Lindstrom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lindstrom",
+        "pubdate": "Mon, 25 Sep 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Amici Witty",
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Torino-Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Torino-Roma",
+        "title": "Torino Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Torino%20Roma",
         "pubdate": "Sun, 24 Sep 2023 02:00:00 +0200"
       }
     ],
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Giulio Berruti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giulio%20Berruti",
-        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brigitte Nielsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brigitte%20Nielsen",
         "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
@@ -108,8 +108,15 @@
     ],
     [
       {
-        "title": "Gigi D'Alessio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20D'Alessio",
+        "title": "Maria Elena Boschi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maria%20Elena%20Boschi",
+        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Tatangelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anna%20Tatangelo",
         "pubdate": "Sun, 24 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Amici",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amici",
         "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bari Catanzaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari%20Catanzaro",
-        "pubdate": "Sun, 24 Sep 2023 16:00:00 +0200"
       }
     ]
   ]
