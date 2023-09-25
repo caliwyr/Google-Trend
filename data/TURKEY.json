@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2023 , 22:52:26",
+  "lastUpdate": "25-09-2023 , 23:06:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Trabzon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzon",
         "pubdate": "Tue, 26 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cemre Uyanık",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cemre%20Uyan%C4%B1k",
+        "pubdate": "Tue, 26 Sep 2023 01:00:00 +0300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "İzmir Adliyesi çatışma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20Adliyesi%20%C3%A7at%C4%B1%C5%9Fma",
-        "pubdate": "Mon, 25 Sep 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Tüpraş",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCpra%C5%9F",
         "pubdate": "Mon, 25 Sep 2023 19:00:00 +0300"
@@ -83,6 +83,13 @@
         "title": "İstanbulspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbulspor",
         "pubdate": "Mon, 25 Sep 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İzmir Adliyesi çatışma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20Adliyesi%20%C3%A7at%C4%B1%C5%9Fma",
+        "pubdate": "Mon, 25 Sep 2023 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Meral Akşener",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Meral%20Ak%C5%9Fener",
         "pubdate": "Mon, 25 Sep 2023 07:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Travis Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Travis%20Kelce",
-        "pubdate": "Mon, 25 Sep 2023 10:00:00 +0300"
       }
     ]
   ]

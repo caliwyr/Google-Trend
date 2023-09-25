@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 22:52:17",
+  "lastUpdate": "25-09-2023 , 23:06:10",
   "data": [
+    [
+      {
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gmail",
+        "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Registro Civil",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Scotiabank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Scotiabank",
-        "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
+        "title": "Bci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bci",
+        "pubdate": "Mon, 25 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Chat GPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chat%20GPT",
         "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bci",
-        "pubdate": "Mon, 25 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "UF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UF",
+        "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
         "pubdate": "Mon, 25 Sep 2023 16:00:00 -0300"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "UF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UF",
+        "title": "Itau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Itau",
         "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Inter de Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20de%20Miami",
         "pubdate": "Mon, 25 Sep 2023 05:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Drive",
-        "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
       }
     ]
   ]
