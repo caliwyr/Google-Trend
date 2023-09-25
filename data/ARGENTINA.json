@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-09-2023 , 02:47:35",
+  "lastUpdate": "25-09-2023 , 02:56:51",
   "data": [
-    [
-      {
-        "title": "Atlético Madrid  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20Real%20Madrid",
-        "pubdate": "Sun, 24 Sep 2023 16:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Orlando City  Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Orlando%20City%20%20Inter%20Miami",
         "pubdate": "Sun, 24 Sep 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Atlético Madrid  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20Real%20Madrid",
+        "pubdate": "Sun, 24 Sep 2023 16:00:00 -0300"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Independiente  Instituto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20%20Instituto",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Banfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield",
+        "pubdate": "Sun, 24 Sep 2023 14:00:00 -0300"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Newell's  Estudiantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's%20%20Estudiantes",
         "pubdate": "Sun, 24 Sep 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Banfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "25 de septiembre es feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#25%20de%20septiembre%20es%20feriado",
+        "pubdate": "Sun, 24 Sep 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Arsenal vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20vs%20Tottenham",
         "pubdate": "Sun, 24 Sep 2023 13:00:00 -0300"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brighton",
-        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Empoli - Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Empoli%20-%20Inter",
-        "pubdate": "Sun, 24 Sep 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Travis%20Kelce",
         "pubdate": "Sun, 24 Sep 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brighton",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
       }
     ]
   ]
