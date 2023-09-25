@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-09-2023 , 18:50:53",
+  "lastUpdate": "25-09-2023 , 19:00:14",
   "data": [
     [
       {
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Travis%20Kelce",
         "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Tatort Blinder Fleck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Blinder%20Fleck",
-        "pubdate": "Sun, 24 Sep 2023 21:00:00 +0200"
+        "title": "Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marathon",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Julian Nagelsmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Nagelsmann",
         "pubdate": "Fri, 22 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Berlin-Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
-        "pubdate": "Fri, 22 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
