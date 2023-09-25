@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2023 , 14:12:30",
+  "lastUpdate": "25-09-2023 , 14:28:05",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "E6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E6",
-        "pubdate": "Sat, 23 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kalmar FF Mot Häcken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF%20Mot%20H%C3%A4cken",
         "pubdate": "Sat, 23 Sep 2023 17:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "MFF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
+        "pubdate": "Sat, 23 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Degerfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors",
         "pubdate": "Sat, 23 Sep 2023 15:00:00 +0200"
       }
     ]
