@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 05:44:22",
+  "lastUpdate": "25-09-2023 , 05:53:51",
   "data": [
+    [
+      {
+        "title": "Dave Roelvink",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dave%20Roelvink",
+        "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Steijn",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Mislintat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mislintat",
-        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
+        "title": "Sepsis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepsis",
+        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sepsis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepsis",
-        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
+        "title": "Mislintat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mislintat",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Radio 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
-        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+        "title": "Ajax Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Nieuws",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "MHD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MHD",
         "pubdate": "Sun, 24 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
+        "pubdate": "Sun, 24 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Piastri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Piastri",
-        "pubdate": "Sat, 23 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Duncan Laurence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
         "pubdate": "Fri, 22 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GP Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Japan",
-        "pubdate": "Fri, 22 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
