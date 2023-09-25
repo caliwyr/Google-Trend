@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2023 , 17:48:32",
+  "lastUpdate": "25-09-2023 , 17:57:54",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Steijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steijn",
+        "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kosovo",
         "pubdate": "Mon, 25 Sep 2023 08:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Sepsis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepsis",
-        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
+        "title": "Mislintat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mislintat",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sven Mislintat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sven%20Mislintat",
-        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+        "title": "Sepsis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sepsis",
+        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ESPN",
+        "pubdate": "Sun, 24 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Louis van Gaal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Louis%20van%20Gaal",
         "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Ajax-Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-Feyenoord",
         "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Almere City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
-        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duncan Laurence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
-        "pubdate": "Fri, 22 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GP Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Japan",
-        "pubdate": "Fri, 22 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
