@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 03:53:01",
+  "lastUpdate": "25-09-2023 , 04:09:55",
   "data": [
+    [
+      {
+        "title": "Francisco Dañobeitía",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francisco%20Da%C3%B1obeit%C3%ADa",
+        "pubdate": "Mon, 25 Sep 2023 00:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Atlético Madrid  Real Madrid",
@@ -13,6 +20,13 @@
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
         "pubdate": "Sun, 24 Sep 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
+        "pubdate": "Sun, 24 Sep 2023 11:00:00 -0300"
       }
     ],
     [
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "Arsenal - Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20-%20Tottenham",
-        "pubdate": "Sun, 24 Sep 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Cobreloa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
         "pubdate": "Sun, 24 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
-        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
       }
     ],
     [
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Rayo Vallecano  Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20%20Villarreal",
-        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea%20%20Aston%20Villa",
-        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
+        "title": "Banfield  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banfield%20%20River%20Plate",
+        "pubdate": "Sun, 24 Sep 2023 21:00:00 -0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton",
-        "pubdate": "Sun, 24 Sep 2023 13:00:00 -0300"
+        "title": "Rayo Vallecano  Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20%20Villarreal",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea%20%20Aston%20Villa",
+        "pubdate": "Sun, 24 Sep 2023 12:00:00 -0300"
       }
     ]
   ]
