@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-09-2023 , 16:51:47",
+  "lastUpdate": "25-09-2023 , 17:03:33",
   "data": [
+    [
+      {
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Mon, 25 Sep 2023 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -132,13 +139,6 @@
         "title": "LSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
         "pubdate": "Sun, 24 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tyra Banks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tyra%20Banks",
-        "pubdate": "Sun, 24 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
