@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-09-2023 , 08:47:50",
+  "lastUpdate": "26-09-2023 , 08:57:06",
   "data": [
     [
       {
         "title": "Huawei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Huawei",
         "pubdate": "Tue, 26 Sep 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bukit Batok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bukit%20Batok",
+        "pubdate": "Tue, 26 Sep 2023 10:00:00 +0800"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Wheeler's Yard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wheeler's%20Yard",
-        "pubdate": "Tue, 26 Sep 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Anthropic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anthropic",
         "pubdate": "Tue, 26 Sep 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bukit Batok death",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bukit%20Batok%20death",
-        "pubdate": "Tue, 26 Sep 2023 14:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Japan F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20F1",
         "pubdate": "Sat, 23 Sep 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Hangzhou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hangzhou",
+        "pubdate": "Sat, 23 Sep 2023 22:00:00 +0800"
       }
     ]
   ]
