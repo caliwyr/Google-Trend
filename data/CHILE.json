@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-09-2023 , 21:50:04",
+  "lastUpdate": "26-09-2023 , 21:59:11",
   "data": [
-    [
-      {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sevilla",
-        "pubdate": "Tue, 26 Sep 2023 15:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Manchester United  Crystal Palace",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
-        "pubdate": "Tue, 26 Sep 2023 16:00:00 -0300"
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sevilla",
+        "pubdate": "Tue, 26 Sep 2023 15:00:00 -0300"
       }
     ],
     [
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20Cristal",
-        "pubdate": "Tue, 26 Sep 2023 00:00:00 -0300"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern",
+        "pubdate": "Tue, 26 Sep 2023 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern",
-        "pubdate": "Tue, 26 Sep 2023 17:00:00 -0300"
+        "title": "Sporting Cristal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20Cristal",
+        "pubdate": "Tue, 26 Sep 2023 00:00:00 -0300"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Talleres",
-        "pubdate": "Tue, 26 Sep 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Galatasaray",
         "pubdate": "Tue, 26 Sep 2023 16:00:00 -0300"
@@ -87,9 +73,23 @@
     ],
     [
       {
+        "title": "Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Talleres",
+        "pubdate": "Tue, 26 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "DJI Mini 4 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DJI%20Mini%204%20Pro",
         "pubdate": "Tue, 26 Sep 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Zealandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zealandia",
+        "pubdate": "Tue, 26 Sep 2023 18:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santander",
-        "pubdate": "Mon, 25 Sep 2023 15:00:00 -0300"
+        "title": "Entel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entel",
+        "pubdate": "Mon, 25 Sep 2023 19:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Entel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entel",
-        "pubdate": "Mon, 25 Sep 2023 19:00:00 -0300"
+        "title": "Chat GPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chat%20GPT",
+        "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
       }
     ]
   ]
