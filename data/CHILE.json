@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2023 , 07:53:18",
+  "lastUpdate": "26-09-2023 , 08:11:52",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Entel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entel",
+        "pubdate": "Mon, 25 Sep 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Chat GPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chat%20GPT",
         "pubdate": "Mon, 25 Sep 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bci",
+        "pubdate": "Mon, 25 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Registrosocial de hogares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Registrosocial%20de%20hogares",
         "pubdate": "Mon, 25 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bci",
-        "pubdate": "Mon, 25 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "CGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
         "pubdate": "Mon, 25 Sep 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Enel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Enel",
-        "pubdate": "Mon, 25 Sep 2023 15:00:00 -0300"
       }
     ]
   ]
