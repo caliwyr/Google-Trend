@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-09-2023 , 04:47:46",
+  "lastUpdate": "26-09-2023 , 04:57:23",
   "data": [
-    [
-      {
-        "title": "Jeremy Sochan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jeremy%20Sochan",
-        "pubdate": "Tue, 26 Sep 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Latarnik Wyborczy",
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Chlopi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chlopi",
+        "title": "Chłopi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ch%C5%82opi",
         "pubdate": "Mon, 25 Sep 2023 16:00:00 +0200"
       }
     ],
@@ -55,6 +48,13 @@
         "title": "Koalicja Obywatelska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Koalicja%20Obywatelska",
         "pubdate": "Mon, 25 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rodzina różowatych",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rodzina%20r%C3%B3%C5%BCowatych",
+        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Miodowe lata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miodowe%20lata",
         "pubdate": "Mon, 25 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Obligacje skarbowe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Obligacje%20skarbowe",
+        "pubdate": "Mon, 25 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bruce%20Willis",
         "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Otwock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Otwock",
-        "pubdate": "Mon, 25 Sep 2023 18:00:00 +0200"
       }
     ]
   ]

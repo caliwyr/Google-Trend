@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2023 , 04:47:47",
+  "lastUpdate": "26-09-2023 , 04:57:25",
   "data": [
     [
       {
@@ -10,15 +10,22 @@
     ],
     [
       {
-        "title": "Anthropic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anthropic",
+        "title": "David McCallum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20McCallum",
         "pubdate": "Tue, 26 Sep 2023 11:00:00 +0800"
       }
     ],
     [
       {
-        "title": "David McCallum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20McCallum",
+        "title": "Bukit Batok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bukit%20Batok",
+        "pubdate": "Tue, 26 Sep 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Anthropic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anthropic",
         "pubdate": "Tue, 26 Sep 2023 11:00:00 +0800"
       }
     ],
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
-        "pubdate": "Mon, 25 Sep 2023 03:00:00 +0800"
+        "title": "Bomb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bomb",
+        "pubdate": "Mon, 25 Sep 2023 14:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Bukit Timah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bukit%20Timah",
-        "pubdate": "Mon, 25 Sep 2023 14:00:00 +0800"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
+        "pubdate": "Mon, 25 Sep 2023 03:00:00 +0800"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Asian Games medal tally",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Asian%20Games%20medal%20tally",
+        "pubdate": "Sun, 24 Sep 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Wynners",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wynners",
         "pubdate": "Sun, 24 Sep 2023 22:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "Asian Games 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Asian%20Games%202023",
         "pubdate": "Sat, 23 Sep 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Japan F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20F1",
-        "pubdate": "Sat, 23 Sep 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hangzhou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hangzhou",
-        "pubdate": "Sat, 23 Sep 2023 22:00:00 +0800"
       }
     ]
   ]
