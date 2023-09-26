@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2023 , 06:58:24",
+  "lastUpdate": "26-09-2023 , 07:15:22",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
+        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sandy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sandy",
         "pubdate": "Mon, 25 Sep 2023 20:00:00 +0100"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
-        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0100"
+        "title": "Gonçalo Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gon%C3%A7alo%20Ramos",
+        "pubdate": "Mon, 25 Sep 2023 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pedro Teixeira da Mota",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira%20da%20Mota",
         "pubdate": "Mon, 25 Sep 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tottenham",
-        "pubdate": "Mon, 25 Sep 2023 03:00:00 +0100"
       }
     ]
   ]
