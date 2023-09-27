@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-09-2023 , 03:49:08",
+  "lastUpdate": "27-09-2023 , 03:58:40",
   "data": [
     [
       {
         "title": "Mallorca x Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mallorca%20x%20Barcelona",
         "pubdate": "Tue, 26 Sep 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Preussen Munster x Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Preussen%20Munster%20x%20Bayern",
+        "pubdate": "Tue, 26 Sep 2023 13:00:00 -0500"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Diego Alemão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Diego%20Alem%C3%A3o",
-        "pubdate": "Tue, 26 Sep 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
         "pubdate": "Tue, 26 Sep 2023 08:00:00 -0500"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Tue, 26 Sep 2023 13:00:00 -0500"
+        "title": "Diego Alemão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Diego%20Alem%C3%A3o",
+        "pubdate": "Tue, 26 Sep 2023 09:00:00 -0500"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "LDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LDU",
+        "pubdate": "Tue, 26 Sep 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Comportas Rio guaiba Porto Alegre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Comportas%20Rio%20guaiba%20Porto%20Alegre",
         "pubdate": "Tue, 26 Sep 2023 07:00:00 -0500"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "LDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LDU",
-        "pubdate": "Tue, 26 Sep 2023 16:00:00 -0500"
+        "title": "Mega-Sena 2637",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202637",
+        "pubdate": "Tue, 26 Sep 2023 12:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "O Som da Liberdade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20Som%20da%20Liberdade",
         "pubdate": "Tue, 26 Sep 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mega-Sena 2637",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202637",
-        "pubdate": "Tue, 26 Sep 2023 12:00:00 -0500"
       }
     ]
   ]
