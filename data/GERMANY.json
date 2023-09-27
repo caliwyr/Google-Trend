@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 12:29:24",
+  "lastUpdate": "27-09-2023 , 12:53:18",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "Artgemeinschaft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Artgemeinschaft",
         "pubdate": "Wed, 27 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schalke news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke%20news",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manuel Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manuel%20Neuer",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Hanno Koffler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hanno%20Koffler",
+        "pubdate": "Mon, 25 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Giovanni Zarrella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Giovanni%20Zarrella",
         "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
-        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nordhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nordhausen",
-        "pubdate": "Sat, 23 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Sat, 23 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
