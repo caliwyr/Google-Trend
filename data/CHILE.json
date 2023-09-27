@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 13:45:18",
+  "lastUpdate": "27-09-2023 , 13:54:35",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zverev",
         "pubdate": "Wed, 27 Sep 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Partido Colo Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20Colo%20Colo",
+        "pubdate": "Wed, 27 Sep 2023 10:00:00 -0300"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Christian garín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Christian%20gar%C3%ADn",
-        "pubdate": "Tue, 26 Sep 2023 08:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corinthians",
         "pubdate": "Tue, 26 Sep 2023 22:00:00 -0300"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Garin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
+        "pubdate": "Tue, 26 Sep 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sony",
         "pubdate": "Tue, 26 Sep 2023 19:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Santa Cruz,  San Luis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santa%20Cruz,%20%20San%20Luis",
         "pubdate": "Tue, 26 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
-        "pubdate": "Tue, 26 Sep 2023 21:00:00 -0300"
       }
     ]
   ]

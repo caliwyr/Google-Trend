@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 13:45:21",
+  "lastUpdate": "27-09-2023 , 13:54:36",
   "data": [
     [
       {
@@ -45,15 +45,8 @@
     ],
     [
       {
-        "title": "Pragsdorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pragsdorf",
-        "pubdate": "Tue, 26 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Münster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnster",
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -62,6 +55,13 @@
         "title": "DFB-Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
         "pubdate": "Tue, 26 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Willis",
+        "pubdate": "Tue, 26 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Hanno Koffler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hanno%20Koffler",
-        "pubdate": "Mon, 25 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Giovanni Zarrella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Giovanni%20Zarrella",
         "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
+        "pubdate": "Sun, 24 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
