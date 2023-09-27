@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-09-2023 , 05:45:30",
+  "lastUpdate": "27-09-2023 , 05:54:48",
   "data": [
+    [
+      {
+        "title": "The Creator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Creator",
+        "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "David McCallum",
@@ -13,13 +20,6 @@
         "title": "Pragsdorf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pragsdorf",
         "pubdate": "Tue, 26 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Münster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnster",
-        "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Südafrika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%BCdafrika",
         "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reinhold Messner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reinhold%20Messner",
-        "pubdate": "Mon, 25 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Berlin-Marathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin-Marathon",
         "pubdate": "Fri, 22 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Muriel Baumeister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Muriel%20Baumeister",
+        "pubdate": "Fri, 22 Sep 2023 23:00:00 +0200"
       }
     ]
   ]
