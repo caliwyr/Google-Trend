@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 19:51:41",
+  "lastUpdate": "27-09-2023 , 20:05:15",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liga",
+        "title": "Real Madrid – Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20Las%20Palmas",
+        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20liga",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
       }
     ],
@@ -24,20 +31,6 @@
     ],
     [
       {
-        "title": "Real Madrid – Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20Las%20Palmas",
-        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruno Guillon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruno%20Guillon",
-        "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
         "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozempic",
-        "pubdate": "Wed, 27 Sep 2023 02:00:00 +0200"
+        "title": "Osimhen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Osimhen",
+        "pubdate": "Wed, 27 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Osimhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Osimhen",
-        "pubdate": "Wed, 27 Sep 2023 15:00:00 +0200"
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozempic",
+        "pubdate": "Wed, 27 Sep 2023 02:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Cagliari – AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cagliari%20%E2%80%93%20AC%20Milan",
+        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
         "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Cagliari – AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cagliari%20%E2%80%93%20AC%20Milan",
-        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
+        "title": "Gran Turismo film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gran%20Turismo%20film",
+        "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Gran Turismo film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gran%20Turismo%20film",
-        "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Woody Allen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Woody%20Allen",
         "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Gattuso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gattuso",
+        "title": "Jenna Ortega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jenna%20Ortega",
         "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kim%20Kardashian",
+        "pubdate": "Wed, 27 Sep 2023 06:00:00 +0200"
       }
     ]
   ]
