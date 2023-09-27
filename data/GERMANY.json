@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-09-2023 , 22:47:58",
+  "lastUpdate": "27-09-2023 , 22:57:15",
   "data": [
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Susanne Daubner Tagesschau",
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "SV Wehen Wiesbaden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SV%20Wehen%20Wiesbaden",
+        "title": "League Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#League%20Cup",
         "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Tue, 26 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
         "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wehen Wiesbaden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wehen%20Wiesbaden",
+        "pubdate": "Tue, 26 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB%20Frauen",
+        "pubdate": "Tue, 26 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Travis%20Kelce",
         "pubdate": "Mon, 25 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KfW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KfW",
-        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gerit Kling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerit%20Kling",
-        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
