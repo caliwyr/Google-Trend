@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 02:52:08",
+  "lastUpdate": "27-09-2023 , 03:07:07",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Assurance maladie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Assurance%20maladie",
+        "pubdate": "Tue, 26 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
         "pubdate": "Tue, 26 Sep 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "FC Zürich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
         "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
-        "pubdate": "Tue, 26 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
