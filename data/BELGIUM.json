@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 17:47:11",
+  "lastUpdate": "27-09-2023 , 17:56:40",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Ajax-Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax-Feyenoord",
         "pubdate": "Wed, 27 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid – Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20Las%20Palmas",
+        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Open Bedrijvendag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Open%20Bedrijvendag",
+        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Creator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Creator",
         "pubdate": "Wed, 27 Sep 2023 11:00:00 +0200"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Dafne Schippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dafne%20Schippers",
-        "pubdate": "Wed, 27 Sep 2023 08:00:00 +0200"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20utd",
+        "pubdate": "Wed, 27 Sep 2023 01:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "Dafne Schippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dafne%20Schippers",
+        "pubdate": "Wed, 27 Sep 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Woody Allen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Woody%20Allen",
         "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gran Turismo film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gran%20Turismo%20film",
+        "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "David McCallum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20McCallum",
-        "pubdate": "Tue, 26 Sep 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United",
-        "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Disparition Lina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Disparition%20Lina",
-        "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Tue, 26 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Majorque – Barcelone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Majorque%20%E2%80%93%20Barcelone",
-        "pubdate": "Tue, 26 Sep 2023 22:00:00 +0200"
+        "title": "Tofu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tofu",
+        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
       }
     ]
   ]

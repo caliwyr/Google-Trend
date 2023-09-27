@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 17:47:14",
+  "lastUpdate": "27-09-2023 , 17:56:43",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Björn Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bj%C3%B6rn%20Borg",
-        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Viktor Sokolov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Viktor%20Sokolov",
         "pubdate": "Mon, 25 Sep 2023 20:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Orlando City – Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Orlando%20City%20%E2%80%93%20Inter%20Miami",
         "pubdate": "Mon, 25 Sep 2023 08:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Armenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Armenia",
+        "pubdate": "Mon, 25 Sep 2023 19:00:00 +0300"
       }
     ]
   ]
