@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2023 , 20:48:43",
+  "lastUpdate": "27-09-2023 , 20:57:57",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "La liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20liga",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liga",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
       }
     ],
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
+        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Open Bedrijvendag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Open%20Bedrijvendag",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Creator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Creator",
         "pubdate": "Wed, 27 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Eredivisie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
-        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gran Turismo film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gran%20Turismo%20film",
         "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Britney%20Spears",
-        "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
+        "title": "Podium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Podium",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20utd",
-        "pubdate": "Wed, 27 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dafne Schippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dafne%20Schippers",
-        "pubdate": "Wed, 27 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Woody Allen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Woody%20Allen",
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Britney%20Spears",
         "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jenna Ortega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jenna%20Ortega",
+        "title": "Gattuso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gattuso",
         "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kim%20Kardashian",
-        "pubdate": "Wed, 27 Sep 2023 06:00:00 +0200"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20utd",
+        "pubdate": "Wed, 27 Sep 2023 01:00:00 +0200"
       }
     ]
   ]
