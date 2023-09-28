@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 04:49:33",
+  "lastUpdate": "28-09-2023 , 04:58:59",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB",
-        "pubdate": "Wed, 27 Sep 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Hermannstadt - Sepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt%20-%20Sepsi",
-        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0300"
+        "title": "Cupa Romaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20Romaniei",
+        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
       }
     ],
     [
@@ -66,8 +52,22 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20Liga",
+        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hermannstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt",
         "pubdate": "Wed, 27 Sep 2023 20:00:00 +0300"
       }
     ],
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
-        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0300"
+        "title": "Ben Oni Ardelean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ben%20Oni%20Ardelean",
+        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Ben Oni Ardelean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ben%20Oni%20Ardelean",
-        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0300"
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Namibia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Namibia",
-        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Víktor Sokolov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#V%C3%ADktor%20Sokolov",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Marius Elisei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marius%20Elisei",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "The Creator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#The%20Creator",
+        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0300"
       }
     ]
   ]
