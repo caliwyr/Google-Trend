@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 06:49:48",
+  "lastUpdate": "28-09-2023 , 06:58:52",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Kjelsås Molde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kjels%C3%A5s%20Molde",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City",
         "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
@@ -52,16 +45,23 @@
     ],
     [
       {
-        "title": "The Creator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Creator",
-        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+        "title": "Kjelsås",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kjels%C3%A5s",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Creator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Creator",
+        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Long covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Long%20covid",
-        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
+        "title": "Liverpool Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Leicester",
+        "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Springsteen",
         "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Long covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Long%20covid",
+        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ada Hegerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ada%20Hegerberg",
-        "pubdate": "Wed, 27 Sep 2023 01:00:00 +0200"
       }
     ]
   ]
