@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 19:51:19",
+  "lastUpdate": "28-09-2023 , 20:00:39",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Michael van Praag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Praag",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Connie Palmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Connie%20Palmen",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Raspberry Pi 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Raspberry%20Pi%205",
         "pubdate": "Thu, 28 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Van Praag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Praag",
+        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Omtzigt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omtzigt",
-        "pubdate": "Wed, 27 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chemours",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chemours",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Noorderlicht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
         "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Radio 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
+        "pubdate": "Sun, 24 Sep 2023 17:00:00 +0200"
       }
     ]
   ]
