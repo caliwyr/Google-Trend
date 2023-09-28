@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 07:44:11",
+  "lastUpdate": "28-09-2023 , 07:53:39",
   "data": [
     [
       {
@@ -24,8 +24,22 @@
     ],
     [
       {
-        "title": "Cupa Romaniei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20Romaniei",
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Newcastle",
+        "pubdate": "Thu, 28 Sep 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Horoscop 28 septembrie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2028%20septembrie%202023",
+        "pubdate": "Thu, 28 Sep 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FCSB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
       }
     ],
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "UTA Arad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
-        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Monica Macovei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Monica%20Macovei",
         "pubdate": "Wed, 27 Sep 2023 18:00:00 +0300"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Hilal",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Víktor Sokolov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#V%C3%ADktor%20Sokolov",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Nashawn Breedlove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nashawn%20Breedlove",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "The Creator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#The%20Creator",
-        "pubdate": "Wed, 27 Sep 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Osimhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Osimhen",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0300"
+        "title": "Incendiu bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20bucuresti",
+        "pubdate": "Wed, 27 Sep 2023 17:00:00 +0300"
       }
     ]
   ]

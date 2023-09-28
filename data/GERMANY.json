@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 07:44:06",
+  "lastUpdate": "28-09-2023 , 07:53:31",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Artgemeinschaft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Artgemeinschaft",
-        "pubdate": "Wed, 27 Sep 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Manuel Neuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manuel%20Neuer",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
+        "title": "Artgemeinschaft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Artgemeinschaft",
+        "pubdate": "Wed, 27 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Anika Decker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anika%20Decker",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Tue, 26 Sep 2023 11:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20M%C3%BCnchen",
-        "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Tue, 26 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Tue, 26 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB%20Frauen",
-        "pubdate": "Tue, 26 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Sun, 24 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
+        "pubdate": "Sun, 24 Sep 2023 15:00:00 +0200"
       }
     ]
   ]
