@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 20:55:00",
+  "lastUpdate": "28-09-2023 , 21:09:30",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Al Di Meola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Di%20Meola",
+        "pubdate": "Thu, 28 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AC%20Milan",
         "pubdate": "Thu, 28 Sep 2023 07:00:00 +0200"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Al Di Meola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Di%20Meola",
-        "pubdate": "Thu, 28 Sep 2023 18:00:00 +0200"
+        "title": "Jennifer Aniston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Aniston",
+        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Aniston",
-        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Szentkirályi Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentkir%C3%A1lyi%20Alexandra",
         "pubdate": "Thu, 28 Sep 2023 14:00:00 +0200"
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Hős utca!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C5%91s%20utca!",
+        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Miller Dávid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miller%20D%C3%A1vid",
         "pubdate": "Thu, 28 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Poka",
+        "pubdate": "Thu, 28 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Csonka András",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csonka%20Andr%C3%A1s",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
-        "pubdate": "Wed, 27 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
