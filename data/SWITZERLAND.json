@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 17:47:13",
+  "lastUpdate": "28-09-2023 , 17:56:24",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Yb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yb",
+        "pubdate": "Thu, 28 Sep 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Reinhold Messner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Reinhold%20Messner",
         "pubdate": "Thu, 28 Sep 2023 12:00:00 +0200"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Bauer, ledig, sucht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bauer,%20ledig,%20sucht",
-        "pubdate": "Thu, 28 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruce%20Springsteen",
         "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Damian%20Lillard",
-        "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
+        "title": "Bauer, ledig, sucht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bauer,%20ledig,%20sucht",
+        "pubdate": "Thu, 28 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Raspberry Pi 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raspberry%20Pi%205",
         "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Damian%20Lillard",
+        "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Henry%20Cavill",
-        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stan Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brigitte Bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Bardot",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
+        "title": "Dumbledore Schauspieler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dumbledore%20Schauspieler",
+        "pubdate": "Thu, 28 Sep 2023 18:00:00 +0200"
       }
     ],
     [
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Henry Sugar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Henry%20Sugar",
-        "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ken Block",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ken%20Block",
+        "title": "Amira Pocher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amira%20Pocher",
         "pubdate": "Thu, 28 Sep 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dumbledore Schauspieler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dumbledore%20Schauspieler",
-        "pubdate": "Thu, 28 Sep 2023 18:00:00 +0200"
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Henry%20Cavill",
+        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brigitte Bardot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Bardot",
+        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rotterdam",
+        "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
