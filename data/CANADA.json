@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-09-2023 , 14:47:28",
+  "lastUpdate": "28-09-2023 , 14:56:50",
   "data": [
-    [
-      {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Thu, 28 Sep 2023 00:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Michael Gambon",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+        "pubdate": "Thu, 28 Sep 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Canadiens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
         "pubdate": "Thu, 28 Sep 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Thu, 28 Sep 2023 10:00:00 -0400"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damian%20Lillard",
-        "pubdate": "Wed, 27 Sep 2023 15:00:00 -0400"
+        "title": "Lotto 6/49",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lotto%206/49",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Lotto 6/49",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lotto%206/49",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damian%20Lillard",
+        "pubdate": "Wed, 27 Sep 2023 15:00:00 -0400"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "CS2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CS2",
-        "pubdate": "Wed, 27 Sep 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruce%20Springsteen",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 -0400"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
+        "title": "CS2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CS2",
+        "pubdate": "Wed, 27 Sep 2023 10:00:00 -0400"
       }
     ],
     [
@@ -94,15 +94,15 @@
     ],
     [
       {
-        "title": "ET Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ET%20Canada",
-        "pubdate": "Wed, 27 Sep 2023 17:00:00 -0400"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
       }
     ],
     [
       {
-        "title": "The Wonderful Story of Henry Sugar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Wonderful%20Story%20of%20Henry%20Sugar",
+        "title": "ET Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ET%20Canada",
         "pubdate": "Wed, 27 Sep 2023 17:00:00 -0400"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "The Wonderful Story of Henry Sugar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Wonderful%20Story%20of%20Henry%20Sugar",
+        "pubdate": "Wed, 27 Sep 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Survivor",
         "pubdate": "Wed, 27 Sep 2023 19:00:00 -0400"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Barrie News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barrie%20News",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Houston Dynamo vs Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Houston%20Dynamo%20vs%20Inter%20Miami",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 -0400"
       }
     ]
   ]
