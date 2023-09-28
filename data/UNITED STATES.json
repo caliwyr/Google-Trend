@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 08:47:34",
+  "lastUpdate": "28-09-2023 , 08:56:59",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Deandre Ayton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deandre%20Ayton",
-        "pubdate": "Wed, 27 Sep 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Springsteen",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0700"
@@ -62,6 +55,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Deandre Ayton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deandre%20Ayton",
+        "pubdate": "Wed, 27 Sep 2023 13:00:00 -0700"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Marlins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marlins",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Aaron Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Jones",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Marlins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marlins",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0700"
       }
     ]
   ]
