@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 09:43:23",
+  "lastUpdate": "28-09-2023 , 09:52:32",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Gulácsi Péter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gul%C3%A1csi%20P%C3%A9ter",
         "pubdate": "Thu, 28 Sep 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RB%20Leipzig",
+        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Hvg.hu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hvg.hu",
-        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pick Szeged",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pick%20Szeged",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Henry Sugar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Henry%20Sugar",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+        "title": "Hvg.hu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hvg.hu",
+        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0200"
       }
     ]
   ]
