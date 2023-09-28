@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 05:46:50",
+  "lastUpdate": "28-09-2023 , 05:56:18",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Damian%20Lillard",
         "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zebra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zebra",
+        "pubdate": "Thu, 28 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Sanitas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sanitas",
-        "pubdate": "Wed, 27 Sep 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Erdbeben Neapel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdbeben%20Neapel",
         "pubdate": "Wed, 27 Sep 2023 17:00:00 +0200"
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "FC St. Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.%20Gallen",
+        "title": "FC St.Gallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20St.Gallen",
         "pubdate": "Wed, 27 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Lugano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
         "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Lugano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [

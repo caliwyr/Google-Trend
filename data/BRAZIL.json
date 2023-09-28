@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "28-09-2023 , 05:46:41",
+  "lastUpdate": "28-09-2023 , 05:56:09",
   "data": [
+    [
+      {
+        "title": "Walewska Oliveira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Walewska%20Oliveira",
+        "pubdate": "Thu, 28 Sep 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Sainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Sainz",
+        "pubdate": "Thu, 28 Sep 2023 00:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "São Paulo x Coritiba",
@@ -33,7 +47,7 @@
       {
         "title": "Enquete A Fazenda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20A%20Fazenda",
-        "pubdate": "Wed, 27 Sep 2023 10:00:00 -0500"
+        "pubdate": "Wed, 27 Sep 2023 05:00:00 -0500"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "CS:GO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CS:GO",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Damian%20Lillard",
         "pubdate": "Wed, 27 Sep 2023 15:00:00 -0500"
@@ -108,27 +129,6 @@
     ],
     [
       {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
-        "pubdate": "Wed, 27 Sep 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
-        "pubdate": "Wed, 27 Sep 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Enner Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enner%20Valencia",
-        "pubdate": "Wed, 27 Sep 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Granizo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Granizo",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "CS:GO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CS:GO",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0500"
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+        "pubdate": "Wed, 27 Sep 2023 12:00:00 -0500"
       }
     ]
   ]
