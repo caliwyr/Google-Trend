@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 21:48:10",
+  "lastUpdate": "28-09-2023 , 21:57:35",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Northvolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northvolt",
+        "pubdate": "Thu, 28 Sep 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Winnipeg Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
         "pubdate": "Thu, 28 Sep 2023 10:00:00 -0400"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Northvolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northvolt",
-        "pubdate": "Thu, 28 Sep 2023 12:00:00 -0400"
+        "title": "Argylle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argylle",
+        "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
       }
     ],
     [
@@ -59,37 +66,9 @@
     ],
     [
       {
-        "title": "Argylle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argylle",
-        "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Raspberry Pi 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raspberry%20Pi%205",
         "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Castlevania: Nocturne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Castlevania:%20Nocturne",
-        "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "ALS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ALS",
-        "pubdate": "Thu, 28 Sep 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Chandler Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandler%20Jones",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 -0400"
       }
     ],
     [
@@ -101,9 +80,16 @@
     ],
     [
       {
-        "title": "Agt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Agt",
+        "title": "Castlevania: Nocturne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Castlevania:%20Nocturne",
         "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chandler Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandler%20Jones",
+        "pubdate": "Thu, 28 Sep 2023 16:00:00 -0400"
       }
     ],
     [
@@ -111,6 +97,27 @@
         "title": "Sycamore Gap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sycamore%20Gap",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ALS",
+        "pubdate": "Thu, 28 Sep 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ty Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ty%20Smith",
+        "pubdate": "Thu, 28 Sep 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Agt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Agt",
+        "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damian%20Lillard",
         "pubdate": "Wed, 27 Sep 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Chris Snow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chris%20Snow",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0400"
       }
     ]
   ]
