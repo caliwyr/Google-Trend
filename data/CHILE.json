@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 12:51:09",
+  "lastUpdate": "28-09-2023 , 13:07:43",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
-        "pubdate": "Wed, 27 Sep 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0300"
@@ -62,6 +55,13 @@
         "title": "Inter Miami  Dynamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20Miami%20%20Dynamo",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0300"
       }
     ],
     [
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Univ Concepción  Magallanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Univ%20Concepci%C3%B3n%20%20Magallanes",
-        "pubdate": "Wed, 27 Sep 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cagliari - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cagliari%20-%20Milan",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 -0300"
       }
     ],
     [
@@ -122,8 +108,22 @@
     ],
     [
       {
+        "title": "Fluminense vs Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20vs%20Internacional",
+        "pubdate": "Wed, 27 Sep 2023 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Nuevo socavon en Cachagua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nuevo%20socavon%20en%20Cachagua",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ghost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ghost",
         "pubdate": "Wed, 27 Sep 2023 22:00:00 -0300"
       }
     ],
