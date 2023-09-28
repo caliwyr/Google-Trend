@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-09-2023 , 10:45:30",
+  "lastUpdate": "28-09-2023 , 10:55:09",
   "data": [
     [
       {
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Thu, 28 Sep 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Canadiens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
+        "pubdate": "Thu, 28 Sep 2023 06:00:00 -0400"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
         "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "CS2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CS2",
-        "pubdate": "Wed, 27 Sep 2023 10:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Chelsea vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea%20vs%20Brighton",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
+        "title": "Counter-Strike 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Counter-Strike%202",
+        "pubdate": "Wed, 27 Sep 2023 17:00:00 -0400"
       }
     ]
   ]
