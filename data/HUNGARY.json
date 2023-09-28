@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-09-2023 , 11:47:10",
+  "lastUpdate": "28-09-2023 , 11:56:26",
   "data": [
-    [
-      {
-        "title": "Planet Budapest 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Planet%20Budapest%202023",
-        "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kormányinfó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
         "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gulácsi Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gul%C3%A1csi%20P%C3%A9ter",
+        "pubdate": "Thu, 28 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Damian%20Lillard",
-        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
+        "title": "Kocsis Máté",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20M%C3%A1t%C3%A9",
+        "pubdate": "Thu, 28 Sep 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kocsis Máté",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20M%C3%A1t%C3%A9",
-        "pubdate": "Thu, 28 Sep 2023 01:00:00 +0200"
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Damian%20Lillard",
+        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
       }
     ],
     [
@@ -52,22 +52,15 @@
     ],
     [
       {
-        "title": "Gulácsi Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gul%C3%A1csi%20P%C3%A9ter",
-        "pubdate": "Thu, 28 Sep 2023 07:00:00 +0200"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle",
+        "pubdate": "Thu, 28 Sep 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RB%20Leipzig",
-        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool–leicester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93leicester",
+        "title": "Liverpool–Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93Leicester",
         "pubdate": "Wed, 27 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -118,6 +111,13 @@
         "title": "Szallas.hu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szallas.hu",
         "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Götz Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%B6tz%20Anna",
+        "pubdate": "Wed, 27 Sep 2023 11:00:00 +0200"
       }
     ],
     [
