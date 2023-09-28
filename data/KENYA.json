@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 00:27:57",
+  "lastUpdate": "28-09-2023 , 01:33:16",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid vs Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Las%20Palmas",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Victor Osimhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Victor%20Osimhen",
-        "pubdate": "Wed, 27 Sep 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
         "pubdate": "Wed, 27 Sep 2023 19:00:00 +0300"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "AFCON 2027",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AFCON%202027",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0300"
+        "title": "Victor Osimhen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Victor%20Osimhen",
+        "pubdate": "Wed, 27 Sep 2023 10:00:00 +0300"
       }
     ],
     [
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Napoli vs Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20vs%20Udinese",
-        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
+        "title": "Lincoln City vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lincoln%20City%20vs%20West%20Ham",
+        "pubdate": "Wed, 27 Sep 2023 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Lincoln City vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lincoln%20City%20vs%20West%20Ham",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0300"
+        "title": "AFCON 2027",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AFCON%202027",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli vs Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20vs%20Udinese",
+        "pubdate": "Wed, 27 Sep 2023 13:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves",
         "pubdate": "Wed, 27 Sep 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Eric Maigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eric%20Maigo",
-        "pubdate": "Wed, 27 Sep 2023 17:00:00 +0300"
       }
     ]
   ]

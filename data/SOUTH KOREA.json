@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 00:28:01",
+  "lastUpdate": "28-09-2023 , 01:33:19",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "황선우",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EC%84%A0%EC%9A%B0",
         "pubdate": "Wed, 27 Sep 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "GV80 쿠페",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#GV80%20%EC%BF%A0%ED%8E%98",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0900"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "오시멘",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%A4%EC%8B%9C%EB%A9%98",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "추석 이미지",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%94%EC%84%9D%20%EC%9D%B4%EB%AF%B8%EC%A7%80",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0900"
@@ -52,22 +52,8 @@
     ],
     [
       {
-        "title": "GV80",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#GV80",
-        "pubdate": "Wed, 27 Sep 2023 19:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "천박사 퇴마연구소",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%9C%EB%B0%95%EC%82%AC%20%ED%87%B4%EB%A7%88%EC%97%B0%EA%B5%AC%EC%86%8C",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "이재명 구속",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%AC%EB%AA%85%20%EA%B5%AC%EC%86%8D",
+        "title": "이재명",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%AC%EB%AA%85",
         "pubdate": "Tue, 26 Sep 2023 12:00:00 +0900"
       }
     ],
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "국군의날 시가행진",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B5%AD%EA%B5%B0%EC%9D%98%EB%82%A0%20%EC%8B%9C%EA%B0%80%ED%96%89%EC%A7%84",
-        "pubdate": "Tue, 26 Sep 2023 12:00:00 +0900"
+        "title": "이세영",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%84%B8%EC%98%81",
+        "pubdate": "Tue, 26 Sep 2023 13:00:00 +0900"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "반짝이는 워터멜론",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94%20%EC%9B%8C%ED%84%B0%EB%A9%9C%EB%A1%A0",
         "pubdate": "Mon, 25 Sep 2023 23:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "국민건강보험공단",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8",
+        "pubdate": "Mon, 25 Sep 2023 22:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "두산로보틱스",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%91%90%EC%82%B0%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4",
+        "pubdate": "Mon, 25 Sep 2023 17:00:00 +0900"
       }
     ]
   ]
