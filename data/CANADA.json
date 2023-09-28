@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2023 , 03:50:26",
+  "lastUpdate": "28-09-2023 , 03:59:48",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Chris Snow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chris%20Snow",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cat",
-        "pubdate": "Wed, 27 Sep 2023 21:00:00 -0400"
       }
     ],
     [
@@ -55,6 +41,13 @@
         "title": "CS2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CS2",
         "pubdate": "Wed, 27 Sep 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cat",
+        "pubdate": "Wed, 27 Sep 2023 21:00:00 -0400"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Happy Birthday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Birthday",
-        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
+        "title": "Houston Dynamo vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Houston%20Dynamo%20vs%20Inter%20Miami",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 -0400"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Alexandre Cormier-Denis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alexandre%20Cormier-Denis",
-        "pubdate": "Wed, 27 Sep 2023 15:00:00 -0400"
+        "title": "Happy Birthday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Birthday",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Brentford vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brentford%20vs%20Arsenal",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 -0400"
       }
     ]
   ]
