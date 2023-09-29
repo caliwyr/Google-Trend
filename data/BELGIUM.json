@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 18:47:09",
+  "lastUpdate": "29-09-2023 , 18:56:23",
   "data": [
     [
       {
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "Visma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Visma",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gen V",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gen%20V",
+        "pubdate": "Fri, 29 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cedric doumbe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cedric%20doumbe",
         "pubdate": "Fri, 29 Sep 2023 11:00:00 +0200"
@@ -59,9 +73,16 @@
     ],
     [
       {
-        "title": "Gen V",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gen%20V",
-        "pubdate": "Fri, 29 Sep 2023 17:00:00 +0200"
+        "title": "Dianne Feinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dianne%20Feinstein",
+        "pubdate": "Fri, 29 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EA Sports FC 24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EA%20Sports%20FC%2024",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "Dianne Feinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dianne%20Feinstein",
-        "pubdate": "Fri, 29 Sep 2023 19:00:00 +0200"
+        "title": "Mr. Brightside",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mr.%20Brightside",
+        "pubdate": "Fri, 29 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "RWDM – Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20%E2%80%93%20Union%20Saint-Gilloise",
-        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ryder Cup 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ryder%20Cup%202023",
         "pubdate": "Thu, 28 Sep 2023 09:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Arnaud De Lie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arnaud%20De%20Lie",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luc Martens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luc%20Martens",
-        "pubdate": "Thu, 28 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Le secret de la cité perdue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20secret%20de%20la%20cit%C3%A9%20perdue",
-        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
