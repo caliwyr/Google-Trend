@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-09-2023 , 11:48:17",
+  "lastUpdate": "29-09-2023 , 11:57:31",
   "data": [
+    [
+      {
+        "title": "Discord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Discord",
+        "pubdate": "Fri, 29 Sep 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Michael Gambon",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Bad Emstal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bad%20Emstal",
+        "pubdate": "Thu, 28 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rotterdam",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "Oliver Pocher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Pocher",
-        "pubdate": "Thu, 28 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Merz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz",
         "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bad Emstal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bad%20Emstal",
-        "pubdate": "Thu, 28 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "VW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
-        "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
+        "title": "VW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
+        "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Rookie Staffel 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Rookie%20Staffel%206",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "KfW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KfW",
         "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gerit Kling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerit%20Kling",
+        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
