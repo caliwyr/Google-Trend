@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 07:49:12",
+  "lastUpdate": "29-09-2023 , 07:58:26",
   "data": [
     [
       {
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
+        "title": "VW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
+        "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leipzig RB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig%20RB",
+        "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "KfW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KfW",
         "pubdate": "Mon, 25 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gerit Kling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerit%20Kling",
-        "pubdate": "Mon, 25 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
