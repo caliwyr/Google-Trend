@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 03:51:31",
+  "lastUpdate": "29-09-2023 , 04:03:29",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Bokmässan Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bokm%C3%A4ssan%20G%C3%B6teborg",
-        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Wed, 27 Sep 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Madelen Janogy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madelen%20Janogy",
         "pubdate": "Wed, 27 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CS2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CS2",
+        "pubdate": "Wed, 27 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
