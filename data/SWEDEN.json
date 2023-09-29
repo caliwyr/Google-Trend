@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 16:44:51",
+  "lastUpdate": "29-09-2023 , 16:54:15",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harry%20Potter",
-        "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sprängning Uppsala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spr%C3%A4ngning%20Uppsala",
-        "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
@@ -94,9 +80,23 @@
     ],
     [
       {
+        "title": "Undantagstillstånd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Undantagstillst%C3%A5nd",
+        "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ulf Kristersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Kristersson",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sprängning Uppsala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spr%C3%A4ngning%20Uppsala",
+        "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
       }
     ],
     [
