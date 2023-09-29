@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 09:44:52",
+  "lastUpdate": "29-09-2023 , 09:54:11",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Mid-Autumn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mid-Autumn",
         "pubdate": "Fri, 29 Sep 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Azure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azure",
-        "pubdate": "Fri, 29 Sep 2023 08:00:00 +0800"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "T-bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T-bills",
+        "pubdate": "Thu, 28 Sep 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Yoona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yoona",
         "pubdate": "Thu, 28 Sep 2023 17:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Asian Games badminton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Asian%20Games%20badminton",
-        "pubdate": "Thu, 28 Sep 2023 22:00:00 +0800"
+        "title": "Jrue Holiday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jrue%20Holiday",
+        "pubdate": "Thu, 28 Sep 2023 14:00:00 +0800"
       }
     ]
   ]

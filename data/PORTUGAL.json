@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 09:44:51",
+  "lastUpdate": "29-09-2023 , 09:54:10",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Estrela Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela%20Braga",
+        "title": "Estrela-Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela-Braga",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lei do tabaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lei%20do%20tabaco",
-        "pubdate": "Thu, 28 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Porto Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20Benfica",
         "pubdate": "Thu, 28 Sep 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lei do tabaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lei%20do%20tabaco",
+        "pubdate": "Thu, 28 Sep 2023 12:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Eurodreams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurodreams",
+        "pubdate": "Thu, 28 Sep 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
         "pubdate": "Thu, 28 Sep 2023 12:00:00 +0100"
@@ -69,6 +76,13 @@
         "title": "São Paulo x Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A3o%20Paulo%20x%20Coritiba",
         "pubdate": "Thu, 28 Sep 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zika",
+        "pubdate": "Thu, 28 Sep 2023 09:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Luva de Pedreiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luva%20de%20Pedreiro",
         "pubdate": "Thu, 28 Sep 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Madalena Costa patinagem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madalena%20Costa%20patinagem",
-        "pubdate": "Thu, 28 Sep 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zika",
-        "pubdate": "Thu, 28 Sep 2023 09:00:00 +0100"
       }
     ]
   ]
