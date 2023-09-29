@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 14:51:40",
+  "lastUpdate": "29-09-2023 , 15:04:47",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Weet-Bix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weet-Bix",
+        "pubdate": "Fri, 29 Sep 2023 11:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Raspberry Pi 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Raspberry%20Pi%205",
         "pubdate": "Fri, 29 Sep 2023 18:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Damian%20Lillard",
         "pubdate": "Thu, 28 Sep 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "IND vs AUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IND%20vs%20AUS",
-        "pubdate": "Thu, 28 Sep 2023 07:00:00 +1300"
       }
     ]
   ]
