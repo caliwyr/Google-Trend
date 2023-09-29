@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 21:47:14",
+  "lastUpdate": "29-09-2023 , 21:56:32",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Britney%20Spears",
+        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mick%20Jagger",
         "pubdate": "Fri, 29 Sep 2023 19:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Magdalena Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magdalena%20Andersson",
         "pubdate": "Fri, 29 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meg 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meg%202",
+        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Mathias Holmgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mathias%20Holmgren",
         "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Soha Saad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Soha%20Saad",
-        "pubdate": "Thu, 28 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Raspberry Pi 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Raspberry%20Pi%205",
         "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hanna Öberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hanna%20%C3%96berg",
-        "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
