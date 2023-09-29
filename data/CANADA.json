@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 00:27:52",
+  "lastUpdate": "29-09-2023 , 01:33:08",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Thu, 28 Sep 2023 00:00:00 -0400"
+        "pubdate": "Thu, 28 Sep 2023 01:00:00 -0400"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Canadiens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
         "pubdate": "Thu, 28 Sep 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Detroit Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
+        "pubdate": "Thu, 28 Sep 2023 18:00:00 -0400"
       }
     ],
     [
@@ -59,23 +66,16 @@
     ],
     [
       {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
-        "pubdate": "Thu, 28 Sep 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "British Airways pilot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#British%20Airways%20pilot",
-        "pubdate": "Thu, 28 Sep 2023 07:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Tim Wakefield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tim%20Wakefield",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Aniston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
+        "pubdate": "Thu, 28 Sep 2023 19:00:00 -0400"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "America's Got Talent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#America's%20Got%20Talent",
-        "pubdate": "Thu, 28 Sep 2023 11:00:00 -0400"
+        "title": "British Airways pilot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#British%20Airways%20pilot",
+        "pubdate": "Thu, 28 Sep 2023 07:00:00 -0400"
       }
     ],
     [
@@ -108,23 +108,16 @@
     ],
     [
       {
+        "title": "America's Got Talent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#America's%20Got%20Talent",
+        "pubdate": "Thu, 28 Sep 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Chandler Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandler%20Jones",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Detroit Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
-        "pubdate": "Thu, 28 Sep 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Canada population growth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20population%20growth",
-        "pubdate": "Thu, 28 Sep 2023 13:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jonathan Van Ness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jonathan%20Van%20Ness",
         "pubdate": "Thu, 28 Sep 2023 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Suzanne Morphew",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Suzanne%20Morphew",
+        "pubdate": "Thu, 28 Sep 2023 14:00:00 -0400"
       }
     ]
   ]
