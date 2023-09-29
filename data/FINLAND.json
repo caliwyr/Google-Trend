@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 22:45:06",
+  "lastUpdate": "29-09-2023 , 22:54:19",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Gen V",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gen%20V",
         "pubdate": "Sat, 30 Sep 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Discord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discord",
+        "pubdate": "Fri, 29 Sep 2023 15:00:00 +0300"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Barcelona – Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Sevilla",
+        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Dianne Feinstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dianne%20Feinstein",
         "pubdate": "Fri, 29 Sep 2023 21:00:00 +0300"
@@ -76,13 +90,6 @@
         "title": "Azure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Azure",
         "pubdate": "Fri, 29 Sep 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona – Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Sevilla",
-        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0300"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Discord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discord",
+        "title": "Discord down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discord%20down",
         "pubdate": "Thu, 28 Sep 2023 01:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Saw X",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Saw%20X",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sanna Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sanna%20Marin",
-        "pubdate": "Thu, 28 Sep 2023 15:00:00 +0300"
       }
     ]
   ]
