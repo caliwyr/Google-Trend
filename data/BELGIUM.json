@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "29-09-2023 , 06:46:58",
+  "lastUpdate": "29-09-2023 , 06:56:14",
   "data": [
+    [
+      {
+        "title": "Bonnie Wright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bonnie%20Wright",
+        "pubdate": "Fri, 29 Sep 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Michael Gambon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Gambon",
         "pubdate": "Thu, 28 Sep 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Club Brugge  Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Genk",
+        "pubdate": "Thu, 28 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,20 +94,6 @@
     ],
     [
       {
-        "title": "Jupiler League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20League",
-        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Damian%20Lillard",
-        "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Syndroom van Guillain-Barré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Syndroom%20van%20Guillain-Barr%C3%A9",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
@@ -108,15 +108,22 @@
     ],
     [
       {
-        "title": "Hondsdolheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hondsdolheid",
-        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
+        "title": "Damian Lillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Damian%20Lillard",
+        "pubdate": "Thu, 28 Sep 2023 00:00:00 +0200"
       }
     ],
     [
       {
         "title": "Nos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nos",
+        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hondsdolheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hondsdolheid",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Alice On The Roof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20On%20The%20Roof",
         "pubdate": "Thu, 28 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antwerp FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20FC",
-        "pubdate": "Thu, 28 Sep 2023 08:00:00 +0200"
       }
     ]
   ]
