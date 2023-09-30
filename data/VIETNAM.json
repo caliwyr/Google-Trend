@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "30-09-2023 , 23:48:23",
+  "lastUpdate": "30-09-2023 , 23:57:38",
   "data": [
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
+        "title": "Real",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +0700"
       }
     ],
@@ -13,20 +13,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20Milan",
         "pubdate": "Sun, 01 Oct 2023 02:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Bảng xếp hạng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng",
-        "pubdate": "Sun, 01 Oct 2023 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter",
-        "pubdate": "Sun, 01 Oct 2023 03:00:00 +0700"
       }
     ],
     [
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
         "pubdate": "Sat, 30 Sep 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Bảng xếp hạng Ngoại hạng Anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20Ngo%E1%BA%A1i%20h%E1%BA%A1ng%20Anh",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0700"
       }
     ],
     [
@@ -62,13 +55,6 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20Nassr",
         "pubdate": "Sat, 30 Sep 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
-        "pubdate": "Sat, 30 Sep 2023 23:00:00 +0700"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Mixue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mixue",
+        "pubdate": "Sat, 30 Sep 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Bóng chuyền",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20chuy%E1%BB%81n",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "Faker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Faker",
         "pubdate": "Sat, 30 Sep 2023 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Thuốc nhỏ mắt đau mắt đỏ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thu%E1%BB%91c%20nh%E1%BB%8F%20m%E1%BA%AFt%20%C4%91au%20m%E1%BA%AFt%20%C4%91%E1%BB%8F",
+        "pubdate": "Sat, 30 Sep 2023 07:00:00 +0700"
       }
     ]
   ]

@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "30-09-2023 , 23:48:12",
+  "lastUpdate": "30-09-2023 , 23:57:29",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Sun, 01 Oct 2023 03:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Crystal%20Palace",
-        "pubdate": "Sun, 01 Oct 2023 05:00:00 +1100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +1100"
+        "title": "Man United vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Crystal%20Palace",
+        "pubdate": "Sun, 01 Oct 2023 05:00:00 +1100"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Cardinal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cardinal",
         "pubdate": "Sun, 01 Oct 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpoolfc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpoolfc",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +1100"
       }
     ],
     [
@@ -59,6 +59,20 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
+        "pubdate": "Sun, 01 Oct 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Rory McIlroy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
+        "pubdate": "Sun, 01 Oct 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "NRL grand final 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20grand%20final%202023",
         "pubdate": "Sat, 30 Sep 2023 06:00:00 +1000"
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "AFL grand final entertainment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20grand%20final%20entertainment",
+        "title": "KISS grand final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KISS%20grand%20final",
         "pubdate": "Sat, 30 Sep 2023 14:00:00 +1000"
       }
     ],
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Dianne Feinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dianne%20Feinstein",
-        "pubdate": "Sat, 30 Sep 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Pendlebury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pendlebury",
         "pubdate": "Sat, 30 Sep 2023 17:00:00 +1000"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Dianne Feinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dianne%20Feinstein",
+        "pubdate": "Sat, 30 Sep 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Channel 7",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Channel%207",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "New York flooding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20flooding",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Listen Out Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Listen%20Out%20Sydney",
-        "pubdate": "Sat, 30 Sep 2023 07:00:00 +1000"
       }
     ]
   ]
