@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 20:48:18",
+  "lastUpdate": "30-09-2023 , 20:57:38",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Sat, 30 Sep 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
+        "pubdate": "Sat, 30 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
-        "pubdate": "Sat, 30 Sep 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Ñublense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
         "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20vs",
-        "pubdate": "Sat, 30 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
+        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
         "pubdate": "Sat, 30 Sep 2023 10:00:00 -0300"
@@ -73,8 +73,15 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
+        "title": "Wolves vs Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wolves%20vs%20Manchester%20City",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Colo Colo Femenino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20Femenino",
         "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
       }
     ],
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Nowhere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nowhere",
         "pubdate": "Sat, 30 Sep 2023 01:00:00 -0300"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Wolves vs Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wolves%20vs%20Manchester%20City",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 -0300"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle",
+        "pubdate": "Sat, 30 Sep 2023 13:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle",
-        "pubdate": "Sat, 30 Sep 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Tupac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tupac",
+        "title": "Rotting in the sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rotting%20in%20the%20sun",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "El Purgatorio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Purgatorio",
-        "pubdate": "Sat, 30 Sep 2023 00:00:00 -0300"
       }
     ]
   ]
