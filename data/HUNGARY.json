@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 18:44:07",
+  "lastUpdate": "30-09-2023 , 18:53:42",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Szlovák választások",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szlov%C3%A1k%20v%C3%A1laszt%C3%A1sok",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#New%20York",
+        "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nemzeti Vágta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemzeti%20V%C3%A1gta",
         "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
@@ -38,22 +52,29 @@
     ],
     [
       {
-        "title": "New York",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#New%20York",
-        "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szlovák választások",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szlov%C3%A1k%20v%C3%A1laszt%C3%A1sok",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ],
     [
       {
         "title": "Carson Coma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carson%20Coma",
+        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polgár Árpád",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20%C3%81rp%C3%A1d",
         "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -73,8 +94,8 @@
     ],
     [
       {
-        "title": "Polgár Árpád",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20%C3%81rp%C3%A1d",
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20Villa",
         "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
       }
     ],
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20Villa",
-        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
+        "title": "James Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#James%20Dean",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ],
     [
@@ -117,28 +138,7 @@
       {
         "title": "Kutatók Éjszakája 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kutat%C3%B3k%20%C3%89jszak%C3%A1ja%202023",
-        "pubdate": "Fri, 29 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kutatók éjszakája",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kutat%C3%B3k%20%C3%A9jszak%C3%A1ja",
         "pubdate": "Fri, 29 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mihály napi vásár",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mih%C3%A1ly%20napi%20v%C3%A1s%C3%A1r",
-        "pubdate": "Fri, 29 Sep 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manuel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manuel",
-        "pubdate": "Fri, 29 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
