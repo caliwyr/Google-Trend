@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "30-09-2023 , 19:53:24",
+  "lastUpdate": "30-09-2023 , 20:07:54",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "India vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20England",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "LPGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LPGA",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +1300"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Simon Barnett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Simon%20Barnett",
-        "pubdate": "Sat, 30 Sep 2023 12:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "New York flooding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20flooding",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "El Nino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#El%20Nino",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Nipah Virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nipah%20Virus",
-        "pubdate": "Sat, 30 Sep 2023 01:00:00 +1300"
       }
     ]
   ]
