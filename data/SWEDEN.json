@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-09-2023 , 05:45:12",
+  "lastUpdate": "30-09-2023 , 05:54:28",
   "data": [
     [
       {
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20York",
         "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Russell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Russell",
+        "pubdate": "Sat, 30 Sep 2023 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Uppsala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppsala",
-        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0200"
       }
     ]
   ]

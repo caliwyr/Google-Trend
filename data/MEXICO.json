@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "30-09-2023 , 05:45:08",
+  "lastUpdate": "30-09-2023 , 05:54:25",
   "data": [
     [
       {
-        "title": "Barcelona  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20%20Sevilla",
+        "title": "Barcelona - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20-%20Sevilla",
         "pubdate": "Fri, 29 Sep 2023 10:00:00 -0600"
       }
     ],
@@ -19,7 +19,7 @@
       {
         "title": "Querétaro  León",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Quer%C3%A9taro%20%20Le%C3%B3n",
-        "pubdate": "Fri, 29 Sep 2023 02:00:00 -0600"
+        "pubdate": "Fri, 29 Sep 2023 12:00:00 -0600"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Tijuana vs juarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tijuana%20vs%20juarez",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Al Hilal  al-shabab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Hilal%20%20al-shabab",
         "pubdate": "Fri, 29 Sep 2023 12:00:00 -0600"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Checo perez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Checo%20perez",
-        "pubdate": "Fri, 29 Sep 2023 01:00:00 -0600"
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Benfica",
+        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Benfica",
-        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0600"
+        "title": "Checo perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Checo%20perez",
+        "pubdate": "Fri, 29 Sep 2023 01:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Hilal",
         "pubdate": "Fri, 29 Sep 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Xolos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xolos",
-        "pubdate": "Fri, 29 Sep 2023 22:00:00 -0600"
       }
     ]
   ]
