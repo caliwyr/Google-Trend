@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-09-2023 , 01:13:08",
+  "lastUpdate": "30-09-2023 , 01:55:52",
   "data": [
+    [
+      {
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
+        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Barcelona",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
-        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0500"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Fri, 29 Sep 2023 09:00:00 -0500"
       }
     ],
     [
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "São Miguel Arcanjo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Miguel%20Arcanjo",
+        "pubdate": "Fri, 29 Sep 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia%20Dortmund",
         "pubdate": "Fri, 29 Sep 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ec Vitória x Tombense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ec%20Vit%C3%B3ria%20x%20Tombense",
+        "pubdate": "Fri, 29 Sep 2023 19:00:00 -0500"
       }
     ],
     [
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Dia de São Miguel Arcanjo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20de%20S%C3%A3o%20Miguel%20Arcanjo",
-        "pubdate": "Fri, 29 Sep 2023 08:00:00 -0500"
+        "title": "Oração de São Miguel Arcanjo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ora%C3%A7%C3%A3o%20de%20S%C3%A3o%20Miguel%20Arcanjo",
+        "pubdate": "Fri, 29 Sep 2023 07:00:00 -0500"
       }
     ],
     [
@@ -69,13 +90,6 @@
         "title": "Star",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star",
         "pubdate": "Fri, 29 Sep 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Oração de São Miguel Arcanjo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ora%C3%A7%C3%A3o%20de%20S%C3%A3o%20Miguel%20Arcanjo",
-        "pubdate": "Fri, 29 Sep 2023 07:00:00 -0500"
       }
     ],
     [
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Mulheres de Areia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mulheres%20de%20Areia",
-        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0500"
+        "title": "São Paulo x Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Corinthians",
+        "pubdate": "Fri, 29 Sep 2023 18:00:00 -0500"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Dia dos Arcanjos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20dos%20Arcanjos",
-        "pubdate": "Fri, 29 Sep 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rod Stewart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rod%20Stewart",
-        "pubdate": "Fri, 29 Sep 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pastor Valdemiro Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pastor%20Valdemiro%20Santiago",
+        "title": "Mulheres de Areia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mulheres%20de%20Areia",
         "pubdate": "Fri, 29 Sep 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Mick Jagger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mick%20Jagger",
-        "pubdate": "Fri, 29 Sep 2023 00:00:00 -0500"
+        "title": "Concurso Nacional Unificado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20Nacional%20Unificado",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 -0500"
       }
     ]
   ]
