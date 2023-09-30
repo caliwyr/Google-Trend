@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 04:49:49",
+  "lastUpdate": "30-09-2023 , 04:58:54",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "NYC flooding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NYC%20flooding",
+        "title": "Nyc flooding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nyc%20flooding",
         "pubdate": "Fri, 29 Sep 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0700"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Barcelona vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona%20vs%20Sevilla",
+        "title": "Utah football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20football",
         "pubdate": "Fri, 29 Sep 2023 13:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0700"
+        "title": "Gen V",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gen%20V",
+        "pubdate": "Fri, 29 Sep 2023 21:00:00 -0700"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Government shutdown 2023 Update",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Government%20shutdown%202023%20Update",
         "pubdate": "Fri, 29 Sep 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Utah football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20football",
-        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0700"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Nancy Pelosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nancy%20Pelosi",
-        "pubdate": "Fri, 29 Sep 2023 14:00:00 -0700"
+        "title": "Miss USA 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miss%20USA%202023",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 -0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Sukkot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sukkot",
-        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "WNBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WNBA",
         "pubdate": "Fri, 29 Sep 2023 19:00:00 -0700"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Miss USA 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miss%20USA%202023",
+        "title": "Sukkot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sukkot",
+        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Reptile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Reptile",
         "pubdate": "Fri, 29 Sep 2023 20:00:00 -0700"
       }
     ]
