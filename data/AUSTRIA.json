@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 13:50:39",
+  "lastUpdate": "30-09-2023 , 14:00:07",
   "data": [
     [
       {
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "USA Shutdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#USA%20Shutdown",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jan Böhmermann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jan%20B%C3%B6hmermann",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mihály Csíkszentmihályi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mih%C3%A1ly%20Cs%C3%ADkszentmih%C3%A1lyi",
         "pubdate": "Fri, 29 Sep 2023 01:00:00 +0200"
@@ -69,6 +83,13 @@
         "title": "Mette-Marit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mette-Marit",
         "pubdate": "Fri, 29 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Discord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Discord",
+        "pubdate": "Fri, 29 Sep 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tupac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tupac",
         "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Leipzig",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
         "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Friedrich Merz Zahnarzt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedrich%20Merz%20Zahnarzt",
-        "pubdate": "Fri, 29 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alexander Eder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Eder",
-        "pubdate": "Fri, 29 Sep 2023 20:00:00 +0200"
       }
     ]
   ]

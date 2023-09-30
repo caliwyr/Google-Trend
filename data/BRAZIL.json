@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-09-2023 , 13:50:40",
+  "lastUpdate": "30-09-2023 , 14:00:07",
   "data": [
-    [
-      {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
-        "pubdate": "Fri, 29 Sep 2023 13:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Barcelona",
@@ -20,6 +13,13 @@
         "title": "Ferdinand Berthier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferdinand%20Berthier",
         "pubdate": "Fri, 29 Sep 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
+        "pubdate": "Fri, 29 Sep 2023 15:00:00 -0500"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Sao Miguel Arcanjo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Miguel%20Arcanjo",
+        "pubdate": "Fri, 29 Sep 2023 05:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Borussia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
         "pubdate": "Fri, 29 Sep 2023 06:00:00 -0500"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Al-Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
-        "pubdate": "Fri, 29 Sep 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Minha Casa, Minha Vida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minha%20Casa,%20Minha%20Vida",
         "pubdate": "Fri, 29 Sep 2023 15:00:00 -0500"
@@ -87,15 +87,8 @@
     ],
     [
       {
-        "title": "Dia de São Miguel Arcanjo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20de%20S%C3%A3o%20Miguel%20Arcanjo",
-        "pubdate": "Fri, 29 Sep 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cirurgia Lula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cirurgia%20Lula",
+        "title": "Al-Ittihad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
         "pubdate": "Fri, 29 Sep 2023 14:00:00 -0500"
       }
     ],
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "Star",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star",
+        "title": "Cirurgia Lula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cirurgia%20Lula",
         "pubdate": "Fri, 29 Sep 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
+        "pubdate": "Fri, 29 Sep 2023 21:00:00 -0500"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
+        "title": "A Fazenda 15",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#A%20Fazenda%2015",
+        "pubdate": "Fri, 29 Sep 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Star",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star",
+        "pubdate": "Fri, 29 Sep 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Carlos Carvalhal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Carvalhal",
         "pubdate": "Fri, 29 Sep 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sao Paulo x Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20x%20Corinthians",
-        "pubdate": "Fri, 29 Sep 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Casamento Iraque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Casamento%20Iraque",
-        "pubdate": "Fri, 29 Sep 2023 16:00:00 -0500"
       }
     ]
   ]
