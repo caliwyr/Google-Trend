@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2023 , 23:58:45",
+  "lastUpdate": "30-09-2023 , 01:13:16",
   "data": [
     [
       {
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
+        "title": "Tupac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tupac",
         "pubdate": "Fri, 29 Sep 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tupac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tupac",
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
         "pubdate": "Fri, 29 Sep 2023 20:00:00 +0100"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Porto",
         "pubdate": "Fri, 29 Sep 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lorran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lorran",
+        "pubdate": "Fri, 29 Sep 2023 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "The Black Book",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#The%20Black%20Book",
         "pubdate": "Thu, 28 Sep 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Covenant University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Covenant%20University",
-        "pubdate": "Thu, 28 Sep 2023 13:00:00 +0100"
       }
     ]
   ]
