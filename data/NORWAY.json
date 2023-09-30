@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 21:50:03",
+  "lastUpdate": "30-09-2023 , 21:59:18",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Myra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Myra",
+        "pubdate": "Sat, 30 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
         "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Ange Postecoglou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ange%20Postecoglou",
+        "title": "Backstreet Boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Backstreet%20Boys",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Backstreet Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Backstreet%20Boys",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#New%20York",
         "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
@@ -83,6 +83,13 @@
         "title": "Sky Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sky%20Sports",
         "pubdate": "Sat, 30 Sep 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stabæk Tromsø",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stab%C3%A6k%20Troms%C3%B8",
+        "pubdate": "Sat, 30 Sep 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rod Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rod%20Stewart",
         "pubdate": "Fri, 29 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Britney%20Spears",
-        "pubdate": "Fri, 29 Sep 2023 22:00:00 +0200"
       }
     ]
   ]
