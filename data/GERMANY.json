@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 02:46:35",
+  "lastUpdate": "30-09-2023 , 02:55:48",
   "data": [
     [
       {
@@ -66,20 +66,6 @@
     ],
     [
       {
-        "title": "Maria Simon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maria%20Simon",
-        "pubdate": "Fri, 29 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Gambon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Gambon",
-        "pubdate": "Thu, 28 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Deutscher Fernsehpreis 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutscher%20Fernsehpreis%202023",
         "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "VW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
         "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kindergrundsicherung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kindergrundsicherung",
+        "pubdate": "Wed, 27 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Counter-Strike 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Counter-Strike%202",
+        "pubdate": "Wed, 27 Sep 2023 11:00:00 +0200"
       }
     ]
   ]
