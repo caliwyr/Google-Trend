@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 16:49:08",
+  "lastUpdate": "30-09-2023 , 16:58:35",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Überschwemmungen New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%9Cberschwemmungen%20New%20York",
         "pubdate": "Sat, 30 Sep 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pop Con Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pop%20Con%20Z%C3%BCrich",
-        "pubdate": "Sat, 30 Sep 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "JEREMIAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#JEREMIAS",
-        "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
+        "title": "USA Shutdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#USA%20Shutdown",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
       }
     ],
     [
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "USA Shutdown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#USA%20Shutdown",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
+        "title": "JEREMIAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#JEREMIAS",
+        "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Foire du Valais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Foire%20du%20Valais",
         "pubdate": "Fri, 29 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Discord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Discord",
+        "pubdate": "Fri, 29 Sep 2023 14:00:00 +0200"
       }
     ]
   ]

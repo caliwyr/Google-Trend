@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 16:49:03",
+  "lastUpdate": "30-09-2023 , 16:58:31",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#New%20York",
         "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RKC Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC%20Ajax",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Musical De Tocht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Musical%20De%20Tocht",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kane",
         "pubdate": "Fri, 29 Sep 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Fri, 29 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,13 +104,6 @@
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mick%20Jagger",
         "pubdate": "Fri, 29 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Fri, 29 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "AZ - Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20-%20Heracles",
-        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "50 Cent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#50%20Cent",
-        "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erasmus Universiteit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erasmus%20Universiteit",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
       }
     ]
