@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 16:56:30",
+  "lastUpdate": "01-10-2023 , 17:11:21",
   "data": [
+    [
+      {
+        "title": "Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20M%C3%BCnchen",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ankara",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Jerome Boateng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jerome%20Boateng",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
+        "title": "Austria gegen Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20gegen%20Rapid%20Wien",
+        "pubdate": "Sun, 01 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Erntedankfest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erntedankfest",
-        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
+        "title": "Andreas Mölzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andreas%20M%C3%B6lzer",
+        "pubdate": "Sun, 01 Oct 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andreas Mölzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andreas%20M%C3%B6lzer",
-        "pubdate": "Sun, 01 Oct 2023 10:00:00 +0200"
+        "title": "Erntedankfest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erntedankfest",
+        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Robert fico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20fico",
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alaba",
         "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Murcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Murcia",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -90,6 +111,13 @@
         "title": "Balkonkraftwerk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Balkonkraftwerk",
         "pubdate": "Sun, 01 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP%20Japan",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Dominic Thiem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dominic%20Thiem",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig gegen Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Leipzig%20gegen%20Bayern",
-        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schlag den Star",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schlag%20den%20Star",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kosovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kosovo",
-        "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
