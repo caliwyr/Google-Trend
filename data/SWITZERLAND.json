@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 17:53:35",
+  "lastUpdate": "01-10-2023 , 18:09:51",
   "data": [
     [
       {
@@ -73,9 +73,30 @@
     ],
     [
       {
+        "title": "Woke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Woke",
+        "pubdate": "Sun, 01 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tag der Deutschen Einheit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tag%20der%20Deutschen%20Einheit",
         "pubdate": "Sun, 01 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Murcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Murcia",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luzern gegen Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luzern%20gegen%20Z%C3%BCrich",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Murcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Murcia",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+        "title": "Pascal Obispo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pascal%20Obispo",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruce%20Willis",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20FC",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wann ist Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wann%20ist%20Halloween",
-        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ferdinand Berthier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ferdinand%20Berthier",
-        "pubdate": "Sat, 30 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EuroMillions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EuroMillions",
-        "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cedric doumbe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cedric%20doumbe",
-        "pubdate": "Sat, 30 Sep 2023 10:00:00 +0200"
       }
     ]
   ]
