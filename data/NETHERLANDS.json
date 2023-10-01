@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "01-10-2023 , 19:53:17",
+  "lastUpdate": "01-10-2023 , 20:08:08",
   "data": [
     [
       {
-        "title": "NEC Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC%20Vitesse",
+        "title": "NEC-Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC-Vitesse",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
       }
     ],
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
@@ -31,9 +24,16 @@
     ],
     [
       {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fortuna Sittard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,15 +45,8 @@
     ],
     [
       {
-        "title": "Eredivisie live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie%20live",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "title": "Etienne Vaessen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Etienne%20Vaessen",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
@@ -94,6 +80,13 @@
     ],
     [
       {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lone van Roosendaal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lone%20van%20Roosendaal",
         "pubdate": "Sat, 30 Sep 2023 23:00:00 +0200"
@@ -104,13 +97,6 @@
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#New%20York",
         "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sweet Dreams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sweet%20Dreams",
-        "pubdate": "Sat, 30 Sep 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "50 Cent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#50%20Cent",
         "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Erasmus Universiteit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erasmus%20Universiteit",
+        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0200"
       }
     ]
   ]

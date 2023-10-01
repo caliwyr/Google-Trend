@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-10-2023 , 19:53:18",
+  "lastUpdate": "01-10-2023 , 20:08:10",
   "data": [
     [
       {
         "title": "Murcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Murcia",
         "pubdate": "Sun, 01 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "U2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#U2",
+        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "MotoGP Japão Miguel Oliveira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP%20Jap%C3%A3o%20Miguel%20Oliveira",
         "pubdate": "Sun, 01 Oct 2023 14:00:00 +0100"
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Campeonato de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20de%20Portugal",
+        "pubdate": "Sun, 01 Oct 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +0100"
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Campeonato de Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20de%20Portugal",
-        "pubdate": "Sun, 01 Oct 2023 01:00:00 +0100"
+        "title": "Povoa de Varzim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Povoa%20de%20Varzim",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 +0100"
       }
     ],
     [
@@ -80,16 +101,9 @@
     ],
     [
       {
-        "title": "Arouca FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20FC",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "U2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#U2",
-        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0100"
+        "title": "Preço dos Combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20dos%20Combust%C3%ADveis",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "AVS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AVS",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter",
         "pubdate": "Sun, 01 Oct 2023 02:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Montalegre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Montalegre",
         "pubdate": "Sun, 01 Oct 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AVS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AVS",
-        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mourinho Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mourinho%20Roma",
-        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tabela do Brasileirão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tabela%20do%20Brasileir%C3%A3o",
-        "pubdate": "Sun, 01 Oct 2023 14:00:00 +0100"
       }
     ]
   ]
