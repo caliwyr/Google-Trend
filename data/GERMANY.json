@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 01:15:39",
+  "lastUpdate": "01-10-2023 , 02:06:07",
   "data": [
+    [
+      {
+        "title": "Slowakei Wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowakei%20Wahlen",
+        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bayern Leipzig",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "VfB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kosovo",
         "pubdate": "Sat, 30 Sep 2023 11:00:00 +0200"
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Tupac Shakur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tupac%20Shakur",
+        "pubdate": "Sat, 30 Sep 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Fri, 29 Sep 2023 22:00:00 +0200"
@@ -68,13 +89,6 @@
       {
         "title": "New York",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#New%20York",
-        "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tupac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tupac",
         "pubdate": "Fri, 29 Sep 2023 23:00:00 +0200"
       }
     ],
@@ -90,13 +104,6 @@
         "title": "Ryder Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ryder%20Cup",
         "pubdate": "Fri, 29 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gen V",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gen%20V",
-        "pubdate": "Fri, 29 Sep 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Wed, 27 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
-        "pubdate": "Wed, 27 Sep 2023 23:00:00 +0200"
       }
     ]
   ]

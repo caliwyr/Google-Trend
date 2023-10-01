@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 01:15:45",
+  "lastUpdate": "01-10-2023 , 02:06:10",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Carter",
+        "pubdate": "Sun, 01 Oct 2023 14:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Joe Rogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Rogan",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +1300"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Black Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 +1300"
+        "title": "Pakistan vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20New%20Zealand",
+        "pubdate": "Sat, 30 Sep 2023 02:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Pakistan vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20New%20Zealand",
-        "pubdate": "Sat, 30 Sep 2023 02:00:00 +1300"
+        "title": "Black Ferns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Roger Waters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Roger%20Waters",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Madeleine McCann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Madeleine%20McCann",
-        "pubdate": "Sat, 30 Sep 2023 18:00:00 +1300"
       }
     ]
   ]
