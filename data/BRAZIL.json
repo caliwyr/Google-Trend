@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 09:50:35",
+  "lastUpdate": "01-10-2023 , 10:00:08",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0500"
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0500"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "São paulo futebol clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20paulo%20futebol%20clube",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
         "pubdate": "Sat, 30 Sep 2023 09:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
         "pubdate": "Sat, 30 Sep 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
-        "pubdate": "Sat, 30 Sep 2023 13:00:00 -0500"
       }
     ]
   ]
