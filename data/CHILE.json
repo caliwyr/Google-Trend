@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 18:53:51",
+  "lastUpdate": "01-10-2023 , 19:06:46",
   "data": [
+    [
+      {
+        "title": "Cyber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cyber",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "O'Higgins",
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Charlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Charlo",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona",
         "pubdate": "Sun, 01 Oct 2023 11:00:00 -0300"
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Boca vs River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20vs%20River",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Inter vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20vs",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 -0300"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Boca vs River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20vs%20River",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0300"
+        "title": "Mundial rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mundial%20rugby",
+        "pubdate": "Sat, 30 Sep 2023 11:00:00 -0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Huachipato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
         "pubdate": "Sat, 30 Sep 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chile Argentina Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20Argentina%20Rugby",
-        "pubdate": "Sat, 30 Sep 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Canelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canelo",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Union Española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-        "pubdate": "Sat, 30 Sep 2023 23:00:00 -0300"
       }
     ]
   ]
