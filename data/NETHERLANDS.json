@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 14:23:32",
+  "lastUpdate": "01-10-2023 , 14:33:16",
   "data": [
+    [
+      {
+        "title": "NEC Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC%20Vitesse",
+        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Reiky de Valk",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "NEC Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC%20Vitesse",
-        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
+        "title": "Stoptober",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stoptober",
+        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Psg",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ai Weiwei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ai%20Weiwei",
         "pubdate": "Sat, 30 Sep 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Marco Borsato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marco%20Borsato",
         "pubdate": "Wed, 27 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chemours",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chemours",
-        "pubdate": "Wed, 27 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bas Muijs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bas%20Muijs",
-        "pubdate": "Tue, 26 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
