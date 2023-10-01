@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-10-2023 , 13:56:05",
+  "lastUpdate": "01-10-2023 , 14:10:22",
   "data": [
-    [
-      {
-        "title": "YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-        "pubdate": "Sun, 01 Oct 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Slowakei Wahlen",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Sun, 01 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Etienne Vaessen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Etienne%20Vaessen",
         "pubdate": "Sun, 01 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jerome Boateng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jerome%20Boateng",
+        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Murtenlauf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Murtenlauf",
         "pubdate": "Sun, 01 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jerome Boateng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jerome%20Boateng",
-        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0200"
       }
     ],
     [
