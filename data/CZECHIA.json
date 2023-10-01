@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 05:53:21",
+  "lastUpdate": "01-10-2023 , 06:10:43",
   "data": [
+    [
+      {
+        "title": "Peter Pellegrini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Peter%20Pellegrini",
+        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sparta",
@@ -24,23 +31,9 @@
     ],
     [
       {
-        "title": "Pellegrini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pellegrini",
-        "pubdate": "Sat, 30 Sep 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kozlovice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kozlovice",
         "pubdate": "Sat, 30 Sep 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sigma Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sigma%20Olomouc",
-        "pubdate": "Sat, 30 Sep 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Sigma Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sigma%20Olomouc",
+        "pubdate": "Sat, 30 Sep 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
         "pubdate": "Sat, 30 Sep 2023 19:00:00 +0200"
@@ -76,6 +76,13 @@
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Světlana Witowská",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sv%C4%9Btlana%20Witowsk%C3%A1",
+        "pubdate": "Sat, 30 Sep 2023 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hana Mašlíková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hana%20Ma%C5%A1l%C3%ADkov%C3%A1",
         "pubdate": "Fri, 29 Sep 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Automatické mlýny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Automatick%C3%A9%20ml%C3%BDny",
-        "pubdate": "Fri, 29 Sep 2023 18:00:00 +0200"
       }
     ]
   ]

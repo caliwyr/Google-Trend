@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 05:53:29",
+  "lastUpdate": "01-10-2023 , 06:10:52",
   "data": [
+    [
+      {
+        "title": "뮌헨 라이프치히",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%B9%98%ED%9E%88",
+        "pubdate": "Sun, 01 Oct 2023 04:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "토트넘 리버풀",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "신한카드",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%ED%95%9C%EC%B9%B4%EB%93%9C",
-        "pubdate": "Sat, 30 Sep 2023 11:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "배드민턴",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%B0%EB%93%9C%EB%AF%BC%ED%84%B4",
         "pubdate": "Sat, 30 Sep 2023 11:00:00 +0900"
@@ -41,13 +41,6 @@
         "title": "투팍",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%88%AC%ED%8C%8D",
         "pubdate": "Sat, 30 Sep 2023 09:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "기상청",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%83%81%EC%B2%AD",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0900"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "이강인",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EA%B0%95%EC%9D%B8",
         "pubdate": "Thu, 28 Sep 2023 17:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "리버풀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
+        "pubdate": "Thu, 28 Sep 2023 07:00:00 +0900"
       }
     ]
   ]

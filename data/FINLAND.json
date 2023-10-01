@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 05:53:22",
+  "lastUpdate": "01-10-2023 , 06:10:44",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Snooker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snooker",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dianne Feinstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dianne%20Feinstein",
         "pubdate": "Fri, 29 Sep 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chile",
+        "pubdate": "Fri, 29 Sep 2023 12:00:00 +0300"
       }
     ]
   ]
