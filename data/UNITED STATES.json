@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 07:49:22",
+  "lastUpdate": "01-10-2023 , 07:58:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Georgia football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20football",
         "pubdate": "Sat, 30 Sep 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Duke football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20football",
+        "pubdate": "Sat, 30 Sep 2023 06:00:00 -0700"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Jamaal Bowman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jamaal%20Bowman",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
         "pubdate": "Sat, 30 Sep 2023 11:00:00 -0700"
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Notre Dame vs Duke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20vs%20Duke",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Shutdown 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shutdown%202023",
         "pubdate": "Sat, 30 Sep 2023 12:00:00 -0700"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Purdue football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20football",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0700"
+        "title": "UCF football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCF%20football",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0700"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Rory McIlroy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rory%20McIlroy",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
         "pubdate": "Sat, 30 Sep 2023 10:00:00 -0700"
@@ -94,8 +80,15 @@
     ],
     [
       {
-        "title": "Washington Huskies football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Huskies%20football",
+        "title": "Rory McIlroy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rory%20McIlroy",
+        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Washington Huskies Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Huskies%20Football",
         "pubdate": "Sat, 30 Sep 2023 20:00:00 -0700"
       }
     ],
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Diamondbacks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Diamondbacks",
+        "pubdate": "Sat, 30 Sep 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Shilo Sanders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shilo%20Sanders",
         "pubdate": "Sat, 30 Sep 2023 11:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "BYU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#BYU",
-        "pubdate": "Sat, 30 Sep 2023 01:00:00 -0700"
+        "title": "Cade McNamara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cade%20McNamara",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0700"
       }
     ]
   ]
