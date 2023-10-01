@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "01-10-2023 , 11:48:37",
+  "lastUpdate": "01-10-2023 , 11:57:42",
   "data": [
+    [
+      {
+        "title": "Brasileirão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o",
+        "pubdate": "Sun, 01 Oct 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Outubro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Outubro",
+        "pubdate": "Sun, 01 Oct 2023 06:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Bem-vindo, outubro",
@@ -108,20 +122,6 @@
     ],
     [
       {
-        "title": "Sao Paulo FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20FC",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "São paulo futebol clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20paulo%20futebol%20clube",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
         "pubdate": "Sat, 30 Sep 2023 09:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
-        "pubdate": "Sat, 30 Sep 2023 09:00:00 -0500"
+        "title": "Ituano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ituano",
+        "pubdate": "Sat, 30 Sep 2023 18:00:00 -0500"
       }
     ]
   ]
