@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 12:48:24",
+  "lastUpdate": "01-10-2023 , 12:59:21",
   "data": [
+    [
+      {
+        "title": "50 Cent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#50%20Cent",
+        "pubdate": "Sun, 01 Oct 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Kylie Minogue",
@@ -20,6 +27,13 @@
         "title": "Lil Tay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lil%20Tay",
         "pubdate": "Sun, 01 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nets",
+        "pubdate": "Sun, 01 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Elements",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elements",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alisha Lehmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alisha%20Lehmann",
         "pubdate": "Sat, 30 Sep 2023 07:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Joachim Andersen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joachim%20Andersen",
         "pubdate": "Sat, 30 Sep 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kosovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kosovo",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Discord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Discord",
-        "pubdate": "Fri, 29 Sep 2023 13:00:00 +0200"
       }
     ]
   ]
