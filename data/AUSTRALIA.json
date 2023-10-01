@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-10-2023 , 14:51:38",
+  "lastUpdate": "01-10-2023 , 15:02:51",
   "data": [
+    [
+      {
+        "title": "Kevin Walters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Walters",
+        "pubdate": "Mon, 02 Oct 2023 00:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Tottenham",
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Rory McIlroy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
+        "pubdate": "Sun, 01 Oct 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
         "pubdate": "Sun, 01 Oct 2023 12:00:00 +1100"
@@ -69,13 +83,6 @@
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Carter",
         "pubdate": "Sun, 01 Oct 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Rory McIlroy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
-        "pubdate": "Sun, 01 Oct 2023 10:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
         "pubdate": "Sun, 01 Oct 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Us government shutdown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Us%20government%20shutdown",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 +1100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 14:51:43",
+  "lastUpdate": "01-10-2023 , 15:02:55",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
+        "pubdate": "Sun, 01 Oct 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hertha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hertha",
         "pubdate": "Sun, 01 Oct 2023 01:00:00 +0200"
@@ -48,6 +55,13 @@
         "title": "Németh Kristóf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9meth%20Krist%C3%B3f",
         "pubdate": "Sun, 01 Oct 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marco Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Presser Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Presser%20G%C3%A1bor",
-        "pubdate": "Sat, 30 Sep 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "István, a király",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Istv%C3%A1n,%20a%20kir%C3%A1ly",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Tupac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tupac",
-        "pubdate": "Sat, 30 Sep 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polgár Árpád",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20%C3%81rp%C3%A1d",
-        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
+        "title": "Presser Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Presser%20G%C3%A1bor",
+        "pubdate": "Sat, 30 Sep 2023 01:00:00 +0200"
       }
     ]
   ]
