@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-09-2023 , 23:57:32",
+  "lastUpdate": "01-10-2023 , 01:15:40",
   "data": [
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
+        "pubdate": "Sun, 01 Oct 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Liverpool",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Presser Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Presser%20G%C3%A1bor",
+        "pubdate": "Sat, 30 Sep 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tupac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tupac",
         "pubdate": "Sat, 30 Sep 2023 07:00:00 +0200"
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Fekete Dávid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20D%C3%A1vid",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+        "title": "James Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#James%20Dean",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "James Dean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#James%20Dean",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
+        "title": "Fekete Dávid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20D%C3%A1vid",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Szabados Ágnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szabados%20%C3%81gnes",
-        "pubdate": "Sat, 30 Sep 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20Villa",
         "pubdate": "Sat, 30 Sep 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paks Mezőkövesd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paks%20Mez%C5%91k%C3%B6vesd",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2023 , 23:57:30",
+  "lastUpdate": "01-10-2023 , 01:15:37",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Magallanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
+        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Ñublense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
         "pubdate": "Sat, 30 Sep 2023 14:00:00 -0300"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0300"
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing",
+        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Everton vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20vs",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 -0300"
+        "title": "Noelia Voigt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noelia%20Voigt",
+        "pubdate": "Sat, 30 Sep 2023 18:00:00 -0300"
       }
     ]
   ]
