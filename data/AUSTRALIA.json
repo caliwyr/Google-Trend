@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2023 , 15:55:12",
+  "lastUpdate": "01-10-2023 , 16:12:51",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Daylight savings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daylight%20savings",
+        "pubdate": "Sun, 01 Oct 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Cardinal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cardinal",
         "pubdate": "Sun, 01 Oct 2023 09:00:00 +1100"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Las Vegas Sphere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Las%20Vegas%20Sphere",
-        "pubdate": "Sun, 01 Oct 2023 14:00:00 +1100"
+        "title": "Lil Tay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lil%20Tay",
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Lil Tay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lil%20Tay",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 +1100"
+        "title": "Las Vegas Sphere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Las%20Vegas%20Sphere",
+        "pubdate": "Sun, 01 Oct 2023 14:00:00 +1100"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Boxing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Willis",
         "pubdate": "Sun, 01 Oct 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpoolfc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpoolfc",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +1100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
-        "pubdate": "Sun, 01 Oct 2023 11:00:00 +1100"
+        "title": "Knockout festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Knockout%20festival",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Jamaal Bowman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamaal%20Bowman",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 +1100"
       }
     ]
   ]

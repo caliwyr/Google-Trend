@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-10-2023 , 15:55:23",
+  "lastUpdate": "01-10-2023 , 16:13:04",
   "data": [
     [
       {
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wolves",
         "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NFL",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Blackburn Rovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Blackburn%20Rovers",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "October",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#October",
         "pubdate": "Sun, 01 Oct 2023 11:00:00 +0100"
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Las Vegas sphere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Las%20Vegas%20sphere",
+        "title": "Las Vegas Sphere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Las%20Vegas%20Sphere",
         "pubdate": "Sun, 01 Oct 2023 10:00:00 +0100"
       }
     ],
@@ -69,6 +83,13 @@
         "title": "Jude Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jude%20Bellingham",
         "pubdate": "Sun, 01 Oct 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hamish Ogston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hamish%20Ogston",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "WSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#WSL",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "QPR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#QPR",
         "pubdate": "Sun, 01 Oct 2023 07:00:00 +0100"
@@ -94,9 +122,16 @@
     ],
     [
       {
-        "title": "Hamish Ogston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hamish%20Ogston",
-        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0100"
+        "title": "Anna Chancellor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Anna%20Chancellor",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Billy Connolly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Billy%20Connolly",
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 +0100"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool",
         "pubdate": "Sat, 30 Sep 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20Utd",
-        "pubdate": "Sat, 30 Sep 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
-        "pubdate": "Sat, 30 Sep 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aston%20Villa",
-        "pubdate": "Sat, 30 Sep 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Amanda Abbington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Amanda%20Abbington",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Canelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Canelo",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0100"
       }
     ]
   ]
