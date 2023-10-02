@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 18:58:42",
+  "lastUpdate": "02-10-2023 , 19:13:27",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "SIC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC",
         "pubdate": "Mon, 02 Oct 2023 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Liga dos Campeões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20dos%20Campe%C3%B5es",
+        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dino Alves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dino%20Alves",
         "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Benfica",
+        "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Inter-Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter-Benfica",
-        "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
+        "title": "Drew Weissman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Drew%20Weissman",
+        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
       }
     ],
     [
@@ -68,13 +75,6 @@
       {
         "title": "Estoril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
-        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Drew Weissman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Drew%20Weissman",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
       }
     ],
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Carro Escadas Monumentais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carro%20Escadas%20Monumentais",
+        "title": "Greve dia 6 de outubro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20dia%206%20de%20outubro",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Queixa-crime Ricardo araujo Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Queixa-crime%20Ricardo%20araujo%20Pereira",
-        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
+        "title": "Carro Escadas Monumentais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carro%20Escadas%20Monumentais",
+        "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Carolina Patrocínio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carolina%20Patroc%C3%ADnio",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 +0100"
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Snoop%20Dogg",
+        "pubdate": "Mon, 02 Oct 2023 17:00:00 +0100"
       }
     ]
   ]
