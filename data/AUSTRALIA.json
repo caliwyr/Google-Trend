@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-10-2023 , 19:50:53",
+  "lastUpdate": "02-10-2023 , 20:00:08",
   "data": [
     [
       {
         "title": "UCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
         "pubdate": "Tue, 03 Oct 2023 02:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Interest rates Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
+        "pubdate": "Tue, 03 Oct 2023 03:00:00 +1100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Jrue Holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jrue%20Holiday",
         "pubdate": "Mon, 02 Oct 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Kansas City Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kansas%20City%20Chiefs",
-        "pubdate": "Mon, 02 Oct 2023 15:00:00 +1100"
       }
     ],
     [
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Chiefs vs Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chiefs%20vs%20Jets",
+        "pubdate": "Mon, 02 Oct 2023 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Jacinta Allan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacinta%20Allan",
+        "pubdate": "Mon, 02 Oct 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Slovakia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Slovakia",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +1100"
@@ -125,20 +139,6 @@
         "title": "Nathan Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20Cleary",
         "pubdate": "Sun, 01 Oct 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
-        "pubdate": "Sun, 01 Oct 2023 03:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Reece Walsh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reece%20Walsh",
-        "pubdate": "Sun, 01 Oct 2023 23:00:00 +1100"
       }
     ]
   ]
