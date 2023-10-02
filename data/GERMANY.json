@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-10-2023 , 11:57:52",
+  "lastUpdate": "02-10-2023 , 12:31:54",
   "data": [
-    [
-      {
-        "title": "Tag der Deutschen Einheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit",
-        "pubdate": "Mon, 02 Oct 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Stromausfall Rastatt",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Jerome Boateng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jerome%20Boateng",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
         "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
@@ -54,13 +40,6 @@
       {
         "title": "Erntedankfest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erntedankfest",
-        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slowakei wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowakei%20wahlen",
         "pubdate": "Sun, 01 Oct 2023 00:00:00 +0200"
       }
     ],
@@ -108,16 +87,16 @@
     ],
     [
       {
-        "title": "USA Shutdown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA%20Shutdown",
-        "pubdate": "Sat, 30 Sep 2023 11:00:00 +0200"
+        "title": "Jerome Boateng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jerome%20Boateng",
+        "pubdate": "Sat, 30 Sep 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+        "title": "USA Shutdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA%20Shutdown",
+        "pubdate": "Sat, 30 Sep 2023 11:00:00 +0200"
       }
     ],
     [
@@ -129,6 +108,13 @@
     ],
     [
       {
+        "title": "Hertha BSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
         "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ryder Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ryder%20Cup",
         "pubdate": "Fri, 29 Sep 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Merz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz",
+        "pubdate": "Thu, 28 Sep 2023 11:00:00 +0200"
       }
     ]
   ]
