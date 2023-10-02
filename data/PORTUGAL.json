@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 17:55:36",
+  "lastUpdate": "02-10-2023 , 18:15:32",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Preços dos combustíveis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20dos%20combust%C3%ADveis",
-        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Mon, 02 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "João Paulo Sousa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Paulo%20Sousa",
         "pubdate": "Mon, 02 Oct 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Preços dos combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20dos%20combust%C3%ADveis",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
       }
     ],
     [
@@ -45,15 +52,8 @@
     ],
     [
       {
-        "title": "Estoril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
-        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Benfica",
+        "title": "Inter-Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter-Benfica",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
       }
     ],
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Estoril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
+        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Drew Weissman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Drew%20Weissman",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sofia Ribeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Ribeiro",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
       }
     ],
     [
@@ -80,23 +94,16 @@
     ],
     [
       {
-        "title": "Pedro Teixeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira",
-        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marco Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
-        "pubdate": "Mon, 02 Oct 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "5 de outubro: Feriado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#5%20de%20outubro:%20Feriado",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pedro Teixeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Teixeira",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Carolina Patrocínio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carolina%20Patroc%C3%ADnio",
         "pubdate": "Mon, 02 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gil Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
-        "pubdate": "Mon, 02 Oct 2023 13:00:00 +0100"
       }
     ]
   ]

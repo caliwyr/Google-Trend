@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-10-2023 , 17:55:39",
+  "lastUpdate": "02-10-2023 , 18:15:33",
   "data": [
     [
       {
         "title": "Drew Weissman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Drew%20Weissman",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helena Seger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Helena%20Seger",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Helena Seger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Helena%20Seger",
-        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
+        "title": "MFF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
+        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Ingrid Bonde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ingrid%20Bonde",
         "pubdate": "Mon, 02 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Robinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
+        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -75,13 +89,6 @@
       {
         "title": "Björn Skifs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Skifs",
-        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macken",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Claes Eriksson Galenskaparna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Claes%20Eriksson%20Galenskaparna",
+        "pubdate": "Sun, 01 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pesto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pesto",
         "pubdate": "Sun, 01 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Willis",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taiwan",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
