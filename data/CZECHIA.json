@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 14:55:57",
+  "lastUpdate": "02-10-2023 , 15:13:19",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Kateřina Marie Tichá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Marie%20Tich%C3%A1",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sophia Loren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sophia%20Loren",
         "pubdate": "Mon, 02 Oct 2023 00:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Karel Gott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Gott",
         "pubdate": "Sun, 01 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ilona Csáková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ilona%20Cs%C3%A1kov%C3%A1",
+        "pubdate": "Sun, 01 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Volby Slovensko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20Slovensko",
         "pubdate": "Sat, 30 Sep 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emilia",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
       }
     ]
   ]
