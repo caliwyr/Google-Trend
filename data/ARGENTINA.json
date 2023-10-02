@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 13:55:52",
+  "lastUpdate": "02-10-2023 , 14:11:59",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Encuestas presidenciales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Encuestas%20presidenciales",
+        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus",
         "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Encuesta debate presidencial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Encuesta%20debate%20presidencial",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 -0300"
       }
     ],
     [
@@ -52,30 +66,16 @@
     ],
     [
       {
-        "title": "Chocolate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chocolate",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Milo J",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milo%20J",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Maria Shriver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maria%20Shriver",
-        "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "2 de octubre que se celebra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#2%20de%20octubre%20que%20se%20celebra",
         "pubdate": "Mon, 02 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Chocolate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chocolate",
+        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Boca hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20hoy",
+        "pubdate": "Sun, 01 Oct 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Colon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colon",
         "pubdate": "Sun, 01 Oct 2023 16:00:00 -0300"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milei",
-        "pubdate": "Sun, 01 Oct 2023 16:00:00 -0300"
+        "title": "Quien gano el debate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quien%20gano%20el%20debate",
+        "pubdate": "Sun, 01 Oct 2023 21:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Flow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flow",
         "pubdate": "Sun, 01 Oct 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Deportes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportes",
-        "pubdate": "Sun, 01 Oct 2023 16:00:00 -0300"
       }
     ]
   ]

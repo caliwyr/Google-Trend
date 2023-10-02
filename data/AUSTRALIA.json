@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-10-2023 , 13:55:52",
+  "lastUpdate": "02-10-2023 , 14:12:00",
   "data": [
-    [
-      {
-        "title": "AEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AEC",
-        "pubdate": "Mon, 02 Oct 2023 17:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Wallabies vs Portugal",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "MKR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MKR",
-        "pubdate": "Mon, 02 Oct 2023 09:00:00 +1100"
+        "title": "Masked Singer Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masked%20Singer%20Australia",
+        "pubdate": "Mon, 02 Oct 2023 21:00:00 +1100"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Masked Singer Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masked%20Singer%20Australia",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +1100"
+        "title": "MKR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MKR",
+        "pubdate": "Mon, 02 Oct 2023 09:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
         "pubdate": "Sun, 01 Oct 2023 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Reece Walsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reece%20Walsh",
+        "pubdate": "Sun, 01 Oct 2023 23:00:00 +1100"
       }
     ]
   ]
