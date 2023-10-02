@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 08:57:41",
+  "lastUpdate": "02-10-2023 , 09:15:55",
   "data": [
     [
       {
@@ -45,22 +45,8 @@
     ],
     [
       {
-        "title": "MKR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MKR",
-        "pubdate": "Mon, 02 Oct 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Chiefs vs Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chiefs%20vs%20Jets",
-        "pubdate": "Mon, 02 Oct 2023 15:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Gippsland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gippsland",
         "pubdate": "Mon, 02 Oct 2023 15:00:00 +1100"
       }
     ],
@@ -101,8 +87,8 @@
     ],
     [
       {
-        "title": "Early voting referendum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Early%20voting%20referendum",
+        "title": "Early voting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Early%20voting",
         "pubdate": "Sun, 01 Oct 2023 20:00:00 +1100"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Jarome Luai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jarome%20Luai",
         "pubdate": "Sun, 01 Oct 2023 22:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time",
+        "pubdate": "Sun, 01 Oct 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sphere Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sphere%20Las%20Vegas",
+        "pubdate": "Sun, 01 Oct 2023 17:00:00 +1100"
       }
     ]
   ]

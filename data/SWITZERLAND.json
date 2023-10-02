@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-10-2023 , 08:57:49",
+  "lastUpdate": "02-10-2023 , 09:16:06",
   "data": [
     [
       {
         "title": "Andermatt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andermatt",
         "pubdate": "Mon, 02 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simone Biles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simone%20Biles",
+        "pubdate": "Mon, 02 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -19,13 +26,6 @@
       {
         "title": "Nobel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nobel",
-        "pubdate": "Mon, 02 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simone Biles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simone%20Biles",
         "pubdate": "Mon, 02 Oct 2023 08:00:00 +0200"
       }
     ],
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Slowakei Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slowakei%20Wahlen",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
+        "title": "Und morgen seid ihr tot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Und%20morgen%20seid%20ihr%20tot",
+        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "FCB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB",
         "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slowakei wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slowakei%20wahlen",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "The Ice Road",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Ice%20Road",
+        "title": "Ice Road",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ice%20Road",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ankara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ankara",
         "pubdate": "Sun, 01 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Canelo",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0200"
       }
     ]
   ]

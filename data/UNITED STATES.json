@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 08:57:40",
+  "lastUpdate": "02-10-2023 , 09:15:55",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Jaguars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaguars",
-        "pubdate": "Sun, 01 Oct 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
         "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
@@ -31,9 +24,16 @@
     ],
     [
       {
+        "title": "Jaguars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaguars",
+        "pubdate": "Sun, 01 Oct 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Steelers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
+        "pubdate": "Sun, 01 Oct 2023 14:00:00 -0700"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
+        "title": "Zach Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zach%20Wilson",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Zach Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zach%20Wilson",
-        "pubdate": "Sun, 01 Oct 2023 19:00:00 -0700"
+        "title": "Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Bills vs Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Dolphins",
-        "pubdate": "Sun, 01 Oct 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Laphonza Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Laphonza%20Butler",
         "pubdate": "Sun, 01 Oct 2023 22:00:00 -0700"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Rams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
-        "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
+        "title": "Bills vs Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Dolphins",
+        "pubdate": "Sun, 01 Oct 2023 11:00:00 -0700"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Carter",
         "pubdate": "Sun, 01 Oct 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Rams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
+        "pubdate": "Sun, 01 Oct 2023 13:00:00 -0700"
       }
     ],
     [
