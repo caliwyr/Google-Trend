@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-10-2023 , 12:54:17",
+  "lastUpdate": "02-10-2023 , 13:13:03",
   "data": [
     [
       {
         "title": "Akothee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Akothee",
         "pubdate": "Mon, 02 Oct 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
+        "pubdate": "Mon, 02 Oct 2023 15:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jerome Boateng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jerome%20Boateng",
         "pubdate": "Sun, 01 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Liverpool",
-        "pubdate": "Sun, 01 Oct 2023 19:00:00 +0300"
       }
     ]
   ]
