@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-10-2023 , 23:59:07",
+  "lastUpdate": "02-10-2023 , 01:17:21",
   "data": [
-    [
-      {
-        "title": "卓球女子",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8D%93%E7%90%83%E5%A5%B3%E5%AD%90",
-        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "アジア大会 サッカー",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "モンスト",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88",
-        "pubdate": "Sun, 01 Oct 2023 00:00:00 +0900"
+        "title": "卓球女子",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8D%93%E7%90%83%E5%A5%B3%E5%AD%90",
+        "pubdate": "Sun, 01 Oct 2023 08:00:00 +0900"
       }
     ],
     [
@@ -27,13 +20,6 @@
         "title": "宇賀なつみ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%AE%87%E8%B3%80%E3%81%AA%E3%81%A4%E3%81%BF",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "シャングリラフロンティア",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2",
-        "pubdate": "Sun, 01 Oct 2023 14:00:00 +0900"
       }
     ],
     [
@@ -52,9 +38,23 @@
     ],
     [
       {
-        "title": "キョウリュウジャー",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC",
-        "pubdate": "Sun, 01 Oct 2023 14:00:00 +0900"
+        "title": "エジプト 男子バレー",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88%20%E7%94%B7%E5%AD%90%E3%83%90%E3%83%AC%E3%83%BC",
+        "pubdate": "Sun, 01 Oct 2023 07:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "ソシエダ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BD%E3%82%B7%E3%82%A8%E3%83%80",
+        "pubdate": "Sun, 01 Oct 2023 05:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "ママコチャ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%83%9E%E3%82%B3%E3%83%81%E3%83%A3",
+        "pubdate": "Sun, 01 Oct 2023 16:00:00 +0900"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "ロッテ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AD%E3%83%83%E3%83%86",
-        "pubdate": "Sun, 01 Oct 2023 17:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "FC東京",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#FC%E6%9D%B1%E4%BA%AC",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0900"
@@ -101,15 +94,8 @@
     ],
     [
       {
-        "title": "バレーボール男子",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E7%94%B7%E5%AD%90",
-        "pubdate": "Sat, 30 Sep 2023 18:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "宝塚歌劇団",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%AE%9D%E5%A1%9A%E6%AD%8C%E5%8A%87%E5%9B%A3",
+        "title": "宝塚",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%AE%9D%E5%A1%9A",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0900"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "バドミントンアジア大会",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%A7%E4%BC%9A",
-        "pubdate": "Sat, 30 Sep 2023 17:00:00 +0900"
+        "title": "山崎育三郎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B1%B1%E5%B4%8E%E8%82%B2%E4%B8%89%E9%83%8E",
+        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "中秋の名月",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%AD%E7%A7%8B%E3%81%AE%E5%90%8D%E6%9C%88",
+        "pubdate": "Fri, 29 Sep 2023 10:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "葬送のフリーレン",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3",
+        "pubdate": "Fri, 29 Sep 2023 15:00:00 +0900"
       }
     ]
   ]

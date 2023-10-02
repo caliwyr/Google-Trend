@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-10-2023 , 23:59:03",
+  "lastUpdate": "02-10-2023 , 01:17:18",
   "data": [
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "50 Cent",
@@ -26,6 +19,13 @@
       {
         "title": "Bob Dylan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bob%20Dylan",
+        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Biden",
+        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Titanic",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dimitrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dimitrov",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Dimitrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dimitrov",
-        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0200"
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Springsteen",
+        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Springsteen",
-        "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
+        "title": "War Dogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#War%20Dogs",
+        "pubdate": "Sun, 01 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Eric Clapton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eric%20Clapton",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
-        "pubdate": "Sat, 30 Sep 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
