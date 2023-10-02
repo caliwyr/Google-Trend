@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 21:58:26",
+  "lastUpdate": "02-10-2023 , 22:15:32",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Google Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Google%20Maps",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "STANDARD BANK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#STANDARD%20BANK",
+        "pubdate": "Mon, 02 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Al-Nassr vs Istiklol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Istiklol",
+        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sassuolo vs Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassuolo%20vs%20Monza",
         "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
@@ -55,13 +69,6 @@
         "title": "Yahoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Yahoo",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr vs Istiklol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Istiklol",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Senzo meyiwa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Senzo%20meyiwa",
+        "pubdate": "Mon, 02 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EFF shutdown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#EFF%20shutdown",
         "pubdate": "Mon, 02 Oct 2023 12:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Sean Summers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sean%20Summers",
         "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Senzo meyiwa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Senzo%20meyiwa",
-        "pubdate": "Mon, 02 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Big Brother Naija",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Big%20Brother%20Naija",
-        "pubdate": "Mon, 02 Oct 2023 08:00:00 +0200"
       }
     ]
   ]
