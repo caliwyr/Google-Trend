@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 02:00:06",
+  "lastUpdate": "02-10-2023 , 02:24:38",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Molde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
-        "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sirdal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sirdal",
         "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
@@ -61,6 +54,13 @@
       {
         "title": "Ulrik Mathisen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ulrik%20Mathisen",
+        "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Molde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
         "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
       }
     ],
