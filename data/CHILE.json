@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2023 , 10:56:36",
+  "lastUpdate": "02-10-2023 , 11:11:25",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Adidas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Adidas",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "PUMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PUMA",
         "pubdate": "Mon, 02 Oct 2023 00:00:00 -0300"
@@ -41,13 +34,6 @@
         "title": "H&M",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#H%26M",
         "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Samsung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Samsung",
-        "pubdate": "Mon, 02 Oct 2023 01:00:00 -0300"
       }
     ],
     [
@@ -75,6 +61,13 @@
       {
         "title": "Zara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zara",
+        "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Samsung",
         "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
       }
     ],
@@ -108,22 +101,22 @@
     ],
     [
       {
-        "title": "DC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DC",
+        "title": "D.C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D.C",
         "pubdate": "Mon, 02 Oct 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Xiaomi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Xiaomi",
-        "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
       }
     ],
     [
       {
         "title": "Nintendo Switch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nintendo%20Switch",
+        "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Xiaomi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Xiaomi",
         "pubdate": "Mon, 02 Oct 2023 02:00:00 -0300"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "PlayStation 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PlayStation%205",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "iPad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPad",
         "pubdate": "Mon, 02 Oct 2023 01:00:00 -0300"
       }
     ]
