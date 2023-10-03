@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2023 , 11:48:56",
+  "lastUpdate": "03-10-2023 , 11:58:05",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Linda Evangelista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Linda%20Evangelista",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jimmy Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jimmy%20Butler",
         "pubdate": "Tue, 03 Oct 2023 01:00:00 +0100"
@@ -41,6 +48,13 @@
         "title": "David Olusoga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Olusoga",
         "pubdate": "Tue, 03 Oct 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bedbugs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bedbugs",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 +0100"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20FC",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dale Houghton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dale%20Houghton",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Panorama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Panorama",
-        "pubdate": "Mon, 02 Oct 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roger Moore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roger%20Moore",
         "pubdate": "Mon, 02 Oct 2023 20:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Rishi Sunak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rishi%20Sunak",
-        "pubdate": "Mon, 02 Oct 2023 04:00:00 +0100"
+        "title": "Panorama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Panorama",
+        "pubdate": "Mon, 02 Oct 2023 18:00:00 +0100"
       }
     ]
   ]
