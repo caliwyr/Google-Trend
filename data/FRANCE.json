@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "03-10-2023 , 23:48:16",
+  "lastUpdate": "03-10-2023 , 23:57:31",
   "data": [
+    [
+      {
+        "title": "HEC Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#HEC%20Paris",
+        "pubdate": "Wed, 04 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle",
+        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haiti",
+        "pubdate": "Wed, 04 Oct 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jean-Pierre Elkabbach",
@@ -31,8 +52,8 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galatasaray",
+        "title": "Manchester United – Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United%20%E2%80%93%20Galatasaray",
         "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "Edouard Philippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
-        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Helene carrere d'Encausse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Helene%20carrere%20d'Encausse",
         "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
@@ -73,8 +87,15 @@
     ],
     [
       {
-        "title": "Enquête disparition Lina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Enqu%C3%AAte%20disparition%20Lina",
+        "title": "Edouard Philippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
+        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Enquête Disparition Lina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Enqu%C3%AAte%20Disparition%20Lina",
         "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20Milan",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Isabelle Leroy disparition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Leroy%20disparition",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sophia Chikirou Jean-Luc Mélenchon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sophia%20Chikirou%20Jean-Luc%20M%C3%A9lenchon",
-        "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle",
-        "pubdate": "Tue, 03 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
