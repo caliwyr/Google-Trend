@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2023 , 03:51:55",
+  "lastUpdate": "03-10-2023 , 04:07:06",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
+        "title": "Jimmy Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Butler",
+        "pubdate": "Tue, 03 Oct 2023 14:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Jimmy Butler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Butler",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 +1300"
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
       }
     ],
     [
@@ -59,8 +59,15 @@
     ],
     [
       {
-        "title": "Vote NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vote%20NZ",
+        "title": "NRL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
+        "pubdate": "Mon, 02 Oct 2023 01:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Vote.nz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vote.nz",
         "pubdate": "Mon, 02 Oct 2023 04:00:00 +1300"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Where to Vote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Where%20to%20Vote",
-        "pubdate": "Mon, 02 Oct 2023 14:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Australia vs Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20Portugal",
         "pubdate": "Mon, 02 Oct 2023 07:00:00 +1300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Voting NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Voting%20NZ",
-        "pubdate": "Mon, 02 Oct 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Power outage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Power%20outage",
         "pubdate": "Mon, 02 Oct 2023 21:00:00 +1300"
@@ -139,6 +132,13 @@
         "title": "Register to vote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Register%20to%20vote",
         "pubdate": "Mon, 02 Oct 2023 16:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "PSA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSA",
+        "pubdate": "Mon, 02 Oct 2023 14:00:00 +1300"
       }
     ]
   ]

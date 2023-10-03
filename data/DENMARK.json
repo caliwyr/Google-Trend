@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2023 , 03:51:51",
+  "lastUpdate": "03-10-2023 , 04:07:02",
   "data": [
+    [
+      {
+        "title": "Vaccination",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vaccination",
+        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "OB",
@@ -132,13 +139,6 @@
         "title": "Nets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nets",
         "pubdate": "Sun, 01 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Murcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Murcia",
-        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
