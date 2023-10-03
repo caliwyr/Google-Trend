@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-10-2023 , 18:54:36",
+  "lastUpdate": "03-10-2023 , 19:08:29",
   "data": [
-    [
-      {
-        "title": "Powerball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
-        "pubdate": "Tue, 03 Oct 2023 05:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Champions League",
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "Mean Girls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mean%20Girls",
-        "pubdate": "Tue, 03 Oct 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Henry Cuellar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Henry%20Cuellar",
         "pubdate": "Tue, 03 Oct 2023 08:00:00 -0700"
@@ -41,6 +27,13 @@
         "title": "Seahawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seahawks",
         "pubdate": "Mon, 02 Oct 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 -0700"
       }
     ],
     [
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Appalachian Trail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Appalachian%20Trail",
-        "pubdate": "Mon, 02 Oct 2023 06:00:00 -0700"
+        "title": "Trevor Bauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Bauer",
+        "pubdate": "Mon, 02 Oct 2023 15:00:00 -0700"
       }
     ],
     [
@@ -76,20 +69,6 @@
         "title": "Russ Francis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russ%20Francis",
         "pubdate": "Mon, 02 Oct 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "N.Y. Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#N.Y.%20Jets",
-        "pubdate": "Mon, 02 Oct 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Trevor Bauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Bauer",
-        "pubdate": "Mon, 02 Oct 2023 15:00:00 -0700"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Joshua Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joshua%20Jackson",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Saquon Barkley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saquon%20Barkley",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Doug Larsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doug%20Larsen",
+        "pubdate": "Mon, 02 Oct 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "AEW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AEW",
+        "pubdate": "Mon, 02 Oct 2023 00:00:00 -0700"
       }
     ]
   ]

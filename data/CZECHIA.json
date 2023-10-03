@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2023 , 18:54:39",
+  "lastUpdate": "03-10-2023 , 19:08:31",
   "data": [
+    [
+      {
+        "title": "Windy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Windy",
+        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Petr Štěpánek",
@@ -13,13 +20,6 @@
         "title": "Šárka Vaňková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0%C3%A1rka%20Va%C5%88kov%C3%A1",
         "pubdate": "Tue, 03 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jiří Kára",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
-        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Fulham – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fulham%20%E2%80%93%20Chelsea",
-        "pubdate": "Tue, 03 Oct 2023 05:00:00 +0200"
+        "title": "Lucie Vondráčková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20Vondr%C3%A1%C4%8Dkov%C3%A1",
+        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,23 @@
     ],
     [
       {
-        "title": "Dominika Gottová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Gottov%C3%A1",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
+        "title": "Jiří Kára",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
+        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Očkování covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#O%C4%8Dkov%C3%A1n%C3%AD%20covid",
+        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lucie Šafářová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20%C5%A0af%C3%A1%C5%99ov%C3%A1",
+        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,8 +94,8 @@
     ],
     [
       {
-        "title": "Americký stafordširský teriér",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Americk%C3%BD%20staford%C5%A1irsk%C3%BD%20teri%C3%A9r",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
         "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "title": "Americký stafordširský teriér",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Americk%C3%BD%20staford%C5%A1irsk%C3%BD%20teri%C3%A9r",
         "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Raiffeisen Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Raiffeisen%20Bank",
+        "pubdate": "Mon, 02 Oct 2023 05:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Signal Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Signal%20Festival",
         "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cas",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Huawei Watch GT 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Huawei%20Watch%20GT%204",
-        "pubdate": "Mon, 02 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kateřina Marie Tichá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Marie%20Tich%C3%A1",
-        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
       }
     ]
   ]
