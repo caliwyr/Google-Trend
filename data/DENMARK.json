@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-10-2023 , 05:53:18",
+  "lastUpdate": "03-10-2023 , 06:11:36",
   "data": [
-    [
-      {
-        "title": "Vaccination",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vaccination",
-        "pubdate": "Mon, 02 Oct 2023 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "OB",
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Cosmopolitan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cosmopolitan",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
+        "title": "Doug Larsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Doug%20Larsen",
+        "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Doug Larsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Doug%20Larsen",
-        "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
+        "title": "Cosmopolitan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cosmopolitan",
+        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nets",
         "pubdate": "Sun, 01 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Murcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Murcia",
+        "pubdate": "Sun, 01 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
