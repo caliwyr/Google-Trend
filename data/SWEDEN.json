@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2023 , 21:54:09",
+  "lastUpdate": "03-10-2023 , 22:08:45",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "SAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SAS",
+        "pubdate": "Tue, 03 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kanelbullar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanelbullar",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
+        "pubdate": "Tue, 03 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -20,20 +27,6 @@
         "title": "Anne L'Huillier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anne%20L'Huillier",
         "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Power",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Power",
-        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SAS-aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SAS-aktie",
-        "pubdate": "Tue, 03 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
+        "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Skottlossning, Malmö",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skottlossning,%20Malm%C3%B6",
         "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Napoli",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mean Girls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mean%20Girls",
         "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
@@ -90,20 +83,6 @@
         "title": "Zlatan ibrahimović",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan%20ibrahimovi%C4%87",
         "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sam Bankman-Fried",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sam%20Bankman-Fried",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tobias Billström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tobias%20Billstr%C3%B6m",
-        "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MFF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
+        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ingrid Bonde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ingrid%20Bonde",
+        "pubdate": "Mon, 02 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zlatan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
+        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
