@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2023 , 22:53:10",
+  "lastUpdate": "03-10-2023 , 23:07:32",
   "data": [
+    [
+      {
+        "title": "Kevin McCarthy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kevin%20McCarthy",
+        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Galatasaray",
@@ -27,6 +34,13 @@
         "title": "Artis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Artis",
         "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dinteloord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dinteloord",
+        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,8 +94,8 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "title": "Vaessen RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vaessen%20RKC",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Erasmus MC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erasmus%20MC",
         "pubdate": "Thu, 28 Sep 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AZ - Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20-%20Heracles",
-        "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "50 Cent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#50%20Cent",
-        "pubdate": "Thu, 28 Sep 2023 19:00:00 +0200"
       }
     ]
   ]
