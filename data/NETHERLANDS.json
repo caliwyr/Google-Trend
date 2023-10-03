@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-10-2023 , 13:56:05",
+  "lastUpdate": "03-10-2023 , 14:12:28",
   "data": [
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
-        "pubdate": "Mon, 02 Oct 2023 23:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Wopke Hoekstra",
@@ -139,6 +132,13 @@
         "title": "Erasmus Universiteit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erasmus%20Universiteit",
         "pubdate": "Thu, 28 Sep 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Wed, 27 Sep 2023 16:00:00 +0200"
       }
     ]
   ]

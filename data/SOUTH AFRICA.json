@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "03-10-2023 , 13:56:09",
+  "lastUpdate": "03-10-2023 , 14:12:31",
   "data": [
-    [
-      {
-        "title": "National Boyfriend Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#National%20Boyfriend%20Day",
-        "pubdate": "Tue, 03 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
-        "pubdate": "Tue, 03 Oct 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Champions League",
@@ -24,16 +10,30 @@
     ],
     [
       {
-        "title": "Transnet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Transnet",
-        "pubdate": "Tue, 03 Oct 2023 02:00:00 +0200"
+        "title": "National Boyfriend Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#National%20Boyfriend%20Day",
+        "pubdate": "Tue, 03 Oct 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sassa) grant payment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sassa)%20grant%20payment",
-        "pubdate": "Tue, 03 Oct 2023 09:00:00 +0200"
+        "title": "AFC Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AFC%20Champions%20League",
+        "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UCL",
+        "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Transnet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Transnet",
+        "pubdate": "Tue, 03 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "AFC Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AFC%20Champions%20League",
-        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sars",
         "pubdate": "Mon, 02 Oct 2023 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Proteas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Proteas",
         "pubdate": "Mon, 02 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daily Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Daily%20Sun",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
       }
     ]
   ]
