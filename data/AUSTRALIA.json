@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2023 , 01:33:44",
+  "lastUpdate": "03-10-2023 , 02:06:22",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Peter Andre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Andre",
-        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1100"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Interest rates Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
+        "pubdate": "Tue, 03 Oct 2023 03:00:00 +1100"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Interest rates Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
-        "pubdate": "Tue, 03 Oct 2023 03:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Laphonza Butler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Laphonza%20Butler",
-        "pubdate": "Tue, 03 Oct 2023 08:00:00 +1100"
+        "title": "Peter Andre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Andre",
+        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1100"
       }
     ],
     [
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "RBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
-        "pubdate": "Tue, 03 Oct 2023 11:00:00 +1100"
+        "title": "Laphonza Butler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Laphonza%20Butler",
+        "pubdate": "Tue, 03 Oct 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Nepal vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nepal%20vs%20India",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 +1100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blake%20Lively",
-        "pubdate": "Mon, 02 Oct 2023 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Walters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Walters",
-        "pubdate": "Mon, 02 Oct 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Sam Elsom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Elsom",
         "pubdate": "Mon, 02 Oct 2023 21:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Blake Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blake%20Lively",
+        "pubdate": "Mon, 02 Oct 2023 22:00:00 +1100"
       }
     ]
   ]
