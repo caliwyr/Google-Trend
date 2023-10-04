@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-10-2023 , 11:50:40",
+  "lastUpdate": "04-10-2023 , 11:59:59",
   "data": [
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
-        "pubdate": "Wed, 04 Oct 2023 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Arsenal",
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Hà Nội FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20N%E1%BB%99i%20FC",
+        "pubdate": "Wed, 04 Oct 2023 17:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Biệt dược đen tập 14",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bi%E1%BB%87t%20d%C6%B0%E1%BB%A3c%20%C4%91en%20t%E1%BA%ADp%2014",
         "pubdate": "Wed, 04 Oct 2023 10:00:00 +0700"
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "C1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C1",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
         "pubdate": "Tue, 03 Oct 2023 07:00:00 +0700"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League",
-        "pubdate": "Tue, 03 Oct 2023 03:00:00 +0700"
+        "title": "C1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C1",
+        "pubdate": "Tue, 03 Oct 2023 15:00:00 +0700"
       }
     ]
   ]

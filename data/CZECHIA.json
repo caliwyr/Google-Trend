@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 11:50:31",
+  "lastUpdate": "04-10-2023 , 11:59:50",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Jiří Kára",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
-        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Richard Salzmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Salzmann",
         "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Jakub Prachař",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Pracha%C5%99",
+        "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sagrada familia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sagrada%20familia",
         "pubdate": "Tue, 03 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jiří Kára",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
+        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Dominika Gottová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Gottov%C3%A1",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Neymar",
         "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Justice.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Justice.cz",
-        "pubdate": "Tue, 03 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liga mistrů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
         "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Markéta Řeháková mluvčí prezidenta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20%C5%98eh%C3%A1kov%C3%A1%20mluv%C4%8D%C3%AD%20prezidenta",
+        "pubdate": "Mon, 02 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
