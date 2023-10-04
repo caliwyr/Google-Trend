@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 14:49:18",
+  "lastUpdate": "04-10-2023 , 14:58:44",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Rebecca Loos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rebecca%20Loos",
+        "title": "David Beckham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Beckham",
         "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
       }
     ],
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Pixel 8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pixel%208",
+        "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grimes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grimes",
         "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#McCarthy",
-        "pubdate": "Wed, 04 Oct 2023 03:00:00 +0200"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20utd",
+        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -52,37 +59,9 @@
     ],
     [
       {
-        "title": "Pixel 8",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pixel%208",
-        "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Yann Sommer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yann%20Sommer",
         "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20utd",
-        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Google Pixel 8",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Google%20Pixel%208",
-        "pubdate": "Wed, 04 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rolling%20Stones",
-        "pubdate": "Wed, 04 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,9 +73,16 @@
     ],
     [
       {
-        "title": "Hojlund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hojlund",
-        "pubdate": "Wed, 04 Oct 2023 14:00:00 +0200"
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rolling%20Stones",
+        "pubdate": "Wed, 04 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marc Marquez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marc%20Marquez",
+        "pubdate": "Wed, 04 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
+        "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
