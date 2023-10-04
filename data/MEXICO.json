@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 10:48:25",
+  "lastUpdate": "04-10-2023 , 10:57:45",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
+        "title": "Napoli  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Real%20Madrid",
+        "pubdate": "Tue, 03 Oct 2023 07:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20League",
-        "pubdate": "Tue, 03 Oct 2023 07:00:00 -0600"
+        "pubdate": "Tue, 03 Oct 2023 09:00:00 -0600"
       }
     ],
     [
@@ -47,7 +54,7 @@
       {
         "title": "Puebla  Monterrey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Puebla%20%20Monterrey",
-        "pubdate": "Tue, 03 Oct 2023 18:00:00 -0600"
+        "pubdate": "Tue, 03 Oct 2023 19:00:00 -0600"
       }
     ],
     [
@@ -87,20 +94,6 @@
     ],
     [
       {
-        "title": "Chinches",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chinches",
-        "pubdate": "Tue, 03 Oct 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "PSV vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSV%20vs%20Sevilla",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Inter  Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20%20Benfica",
         "pubdate": "Tue, 03 Oct 2023 13:00:00 -0600"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Sociedad",
-        "pubdate": "Tue, 03 Oct 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Karol G mexico 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Karol%20G%20mexico%202024",
         "pubdate": "Tue, 03 Oct 2023 17:00:00 -0600"
@@ -139,6 +125,20 @@
         "title": "Lens - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lens%20-%20Arsenal",
         "pubdate": "Tue, 03 Oct 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Sociedad",
+        "pubdate": "Tue, 03 Oct 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 -0600"
       }
     ]
   ]

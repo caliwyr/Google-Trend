@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 10:48:28",
+  "lastUpdate": "04-10-2023 , 10:57:49",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Shanti Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shanti%20Pereira",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
         "pubdate": "Tue, 03 Oct 2023 09:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "JDT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#JDT",
         "pubdate": "Tue, 03 Oct 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Coinbase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coinbase",
+        "pubdate": "Tue, 03 Oct 2023 12:00:00 +0800"
       }
     ]
   ]

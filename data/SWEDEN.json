@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-10-2023 , 10:48:29",
+  "lastUpdate": "04-10-2023 , 10:57:50",
   "data": [
-    [
-      {
-        "title": "Kevin McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kevin%20McCarthy",
-        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Johan Falk",
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "title": "GAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
         "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Mon, 02 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "På spåret 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A5%20sp%C3%A5ret%202023",
+        "pubdate": "Mon, 02 Oct 2023 11:00:00 +0200"
       }
     ]
   ]

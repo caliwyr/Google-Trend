@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 10:48:23",
+  "lastUpdate": "04-10-2023 , 10:57:42",
   "data": [
     [
       {
@@ -41,6 +41,20 @@
         "title": "Covid vaccines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Covid%20vaccines",
         "pubdate": "Wed, 04 Oct 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Erik ten Hag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Erik%20ten%20Hag",
+        "pubdate": "Wed, 04 Oct 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Venice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Venice",
+        "pubdate": "Wed, 04 Oct 2023 11:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#UEFA%20Champions%20League",
+        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bayern%20Munich",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Liz Truss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liz%20Truss",
         "pubdate": "Tue, 03 Oct 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cian Ducrot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cian%20Ducrot",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luton Town vs Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Luton%20Town%20vs%20Burnley",
-        "pubdate": "Tue, 03 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kevin%20Kennedy",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0100"
       }
     ]
   ]
