@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 17:53:35",
+  "lastUpdate": "04-10-2023 , 18:11:48",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "František svátek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Franti%C5%A1ek%20sv%C3%A1tek",
+        "pubdate": "Wed, 04 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cestmir strakaty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cestmir%20strakaty",
         "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pixel 8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pixel%208",
+        "pubdate": "Wed, 04 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zendaya",
         "pubdate": "Wed, 04 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pixel 8",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pixel%208",
-        "pubdate": "Wed, 04 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Jiří Kára",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
-        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Richard Salzmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Salzmann",
         "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Dominika Gottová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Gottov%C3%A1",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
+        "title": "Jiří Kára",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20K%C3%A1ra",
+        "pubdate": "Tue, 03 Oct 2023 18:00:00 +0200"
       }
     ]
   ]

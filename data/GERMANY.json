@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 17:53:37",
+  "lastUpdate": "04-10-2023 , 18:11:49",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "title": "Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
         "pubdate": "Tue, 03 Oct 2023 03:00:00 +0200"
       }
     ],
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Amazon Prime Video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Video",
+        "title": "Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weidel",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -115,20 +108,6 @@
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Styles",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sara perche ti amo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sara%20perche%20ti%20amo",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DDR",
         "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Deutsche Einheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutsche%20Einheit",
+        "pubdate": "Tue, 03 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tag der Deutschen Einheit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit",
         "pubdate": "Mon, 02 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tag der Deutschen Einheit Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit%20Hamburg",
+        "pubdate": "Mon, 02 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sun, 01 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
