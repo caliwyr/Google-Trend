@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 01:09:32",
+  "lastUpdate": "04-10-2023 , 02:00:13",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Mobilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mobilia",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
         "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
@@ -62,6 +55,13 @@
         "title": "Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
         "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Skottlossning, Malmö",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skottlossning,%20Malm%C3%B6",
+        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Helena Seger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Helena%20Seger",
+        "pubdate": "Mon, 02 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Mon, 02 Oct 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Mon, 02 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
