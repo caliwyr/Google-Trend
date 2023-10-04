@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-10-2023 , 07:52:45",
+  "lastUpdate": "04-10-2023 , 08:10:08",
   "data": [
     [
       {
         "title": "Kevin McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20McCarthy",
         "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Only Murders in the Building",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Only%20Murders%20in%20the%20Building",
+        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Champions-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions-League",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
         "pubdate": "Tue, 03 Oct 2023 03:00:00 +0200"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "3. Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Busunglück Venedig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Busungl%C3%BCck%20Venedig",
         "pubdate": "Tue, 03 Oct 2023 23:00:00 +0200"
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Amazon Prime Video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Video",
+        "title": "3. Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -55,13 +55,6 @@
         "title": "Kopenhagen Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kopenhagen%20Bayern",
         "pubdate": "Tue, 03 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
-        "pubdate": "Tue, 03 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jerome Boateng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jerome%20Boateng",
         "pubdate": "Sat, 30 Sep 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "USA Shutdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA%20Shutdown",
+        "pubdate": "Sat, 30 Sep 2023 11:00:00 +0200"
       }
     ]
   ]
