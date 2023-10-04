@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 02:54:43",
+  "lastUpdate": "04-10-2023 , 03:11:19",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "SAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SAS",
-        "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
+        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
-        "pubdate": "Tue, 03 Oct 2023 00:00:00 +0200"
+        "title": "Kevin McCarthy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20McCarthy",
+        "pubdate": "Tue, 03 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "CL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CL",
         "pubdate": "Tue, 03 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20McCarthy",
-        "pubdate": "Tue, 03 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Vaccination",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vaccination",
         "pubdate": "Mon, 02 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
+        "pubdate": "Mon, 02 Oct 2023 21:00:00 +0200"
       }
     ]
   ]

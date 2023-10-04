@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "04-10-2023 , 02:54:47",
+  "lastUpdate": "04-10-2023 , 03:11:24",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Wed, 04 Oct 2023 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UEFA%20Champions%20League",
         "pubdate": "Wed, 04 Oct 2023 09:00:00 +1300"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-        "pubdate": "Wed, 04 Oct 2023 13:00:00 +1300"
+        "title": "Sri Lanka vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20Afghanistan",
+        "pubdate": "Wed, 04 Oct 2023 14:00:00 +1300"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Sanitarium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sanitarium",
         "pubdate": "Wed, 04 Oct 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Sri Lanka vs Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20Afghanistan",
-        "pubdate": "Wed, 04 Oct 2023 14:00:00 +1300"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
         "pubdate": "Tue, 03 Oct 2023 13:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
       }
     ],
     [
@@ -111,13 +118,6 @@
         "title": "Afghan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Afghan",
         "pubdate": "Tue, 03 Oct 2023 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-        "pubdate": "Tue, 03 Oct 2023 10:00:00 +1300"
       }
     ],
     [

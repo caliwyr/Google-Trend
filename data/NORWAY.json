@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2023 , 02:54:47",
+  "lastUpdate": "04-10-2023 , 03:11:24",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oscar Bobb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oscar%20Bobb",
         "pubdate": "Tue, 03 Oct 2023 12:00:00 +0200"
@@ -33,6 +26,13 @@
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Uka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Uka",
+        "title": "UKA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UKA",
         "pubdate": "Tue, 03 Oct 2023 10:00:00 +0200"
       }
     ],
