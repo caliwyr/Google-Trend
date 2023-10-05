@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-10-2023 , 05:45:27",
+  "lastUpdate": "05-10-2023 , 05:54:33",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "David Beckham",
@@ -13,13 +20,6 @@
         "title": "Luke Combs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luke%20Combs",
         "pubdate": "Wed, 04 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Porto  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Porto%20%20Barcelona",
-        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
       }
     ],
     [
