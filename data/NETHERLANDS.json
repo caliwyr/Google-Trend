@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 09:44:39",
+  "lastUpdate": "05-10-2023 , 09:53:45",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Bernhard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bernhard",
-        "pubdate": "Wed, 04 Oct 2023 10:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prins Bernhard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Prins%20Bernhard",
+        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Morata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Morata",
         "pubdate": "Wed, 04 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "title": "Vaessen RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vaessen%20RKC",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ]
