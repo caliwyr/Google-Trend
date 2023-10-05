@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 22:46:43",
+  "lastUpdate": "05-10-2023 , 22:56:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "SIC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC",
         "pubdate": "Thu, 05 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional",
-        "pubdate": "Thu, 05 Oct 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Assassin's Creed Mirage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Assassin's%20Creed%20Mirage",
-        "pubdate": "Thu, 05 Oct 2023 14:00:00 +0100"
+        "title": "Sporting Clube de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "25 de Novembro de 1975",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#25%20de%20Novembro%20de%201975",
-        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0100"
+        "title": "Assassin's Creed Mirage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Assassin's%20Creed%20Mirage",
+        "pubdate": "Thu, 05 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Internacional x Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional%20x%20Fluminense",
+        "pubdate": "Thu, 05 Oct 2023 04:00:00 +0100"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Instituto Português do Mar e da Atmosfera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Instituto%20Portugu%C3%AAs%20do%20Mar%20e%20da%20Atmosfera",
-        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roma  Servette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma%20%20Servette",
         "pubdate": "Thu, 05 Oct 2023 21:00:00 +0100"
@@ -101,22 +101,15 @@
     ],
     [
       {
-        "title": "Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beckham",
-        "pubdate": "Thu, 05 Oct 2023 14:00:00 +0100"
+        "title": "Dia 5 de Outubro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%205%20de%20Outubro",
+        "pubdate": "Thu, 05 Oct 2023 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "REN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#REN",
-        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hoquei em Patins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20Patins",
+        "title": "Hoquei em patins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
         "pubdate": "Thu, 05 Oct 2023 19:00:00 +0100"
       }
     ],
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "REN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#REN",
+        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bergamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bergamo",
         "pubdate": "Thu, 05 Oct 2023 19:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tenerife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tenerife",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0100"
+        "title": "Gyokeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gyokeres",
+        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0100"
       }
     ]
   ]
