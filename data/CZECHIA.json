@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 10:48:29",
+  "lastUpdate": "05-10-2023 , 10:57:50",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Barcelona",
-        "pubdate": "Thu, 05 Oct 2023 07:00:00 +0200"
+        "title": "Úsvit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Asvit",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pilsner Fest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pilsner%20Fest",
+        "pubdate": "Thu, 05 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Vaclav Havel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vaclav%20Havel",
         "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Barcelona",
+        "pubdate": "Thu, 05 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Android 14",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Android%2014",
+        "pubdate": "Thu, 05 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Skoda Auto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Auto",
         "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
@@ -48,6 +69,13 @@
         "title": "Newcastle – PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20PSG",
         "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dymytry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dymytry",
+        "pubdate": "Wed, 04 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +101,16 @@
     ],
     [
       {
-        "title": "Úsvit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Asvit",
-        "pubdate": "Wed, 04 Oct 2023 14:00:00 +0200"
+        "title": "Andrea Kalousová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrea%20Kalousov%C3%A1",
+        "pubdate": "Wed, 04 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle",
+        "pubdate": "Wed, 04 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -83,13 +118,6 @@
         "title": "František svátek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Franti%C5%A1ek%20sv%C3%A1tek",
         "pubdate": "Wed, 04 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radek Kašpárek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radek%20Ka%C5%A1p%C3%A1rek",
-        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Mezinárodní den zvířat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mezin%C3%A1rodn%C3%AD%20den%20zv%C3%AD%C5%99at",
         "pubdate": "Wed, 04 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zendaya",
-        "pubdate": "Wed, 04 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gerard Depardieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gerard%20Depardieu",
-        "pubdate": "Wed, 04 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kateřina Brožová úklid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Bro%C5%BEov%C3%A1%20%C3%BAklid",
-        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Forza Motorsport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forza%20Motorsport",
-        "pubdate": "Wed, 04 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
