@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 13:55:47",
+  "lastUpdate": "05-10-2023 , 14:11:16",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barca",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
         "pubdate": "Thu, 05 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Julia Ormond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Ormond",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Chrupalla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chrupalla",
-        "pubdate": "Wed, 04 Oct 2023 19:00:00 +0200"
+        "title": "Tino Chrupalla AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tino%20Chrupalla%20AfD",
+        "pubdate": "Wed, 04 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pixel 8",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pixel%208",
         "pubdate": "Wed, 04 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle gegen PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Newcastle%20gegen%20PSG",
-        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Kevin McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20McCarthy",
-        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
+        "title": "BVB Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB%20Milan",
+        "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,8 +108,15 @@
     ],
     [
       {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20Alice%20Weidel",
         "pubdate": "Tue, 03 Oct 2023 22:00:00 +0200"
       }
     ],
