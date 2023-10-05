@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-10-2023 , 06:49:10",
+  "lastUpdate": "05-10-2023 , 06:58:16",
   "data": [
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Wed, 04 Oct 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Pixel 8 Pro",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Newcastle psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle%20psg",
-        "pubdate": "Wed, 04 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nybro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nybro",
         "pubdate": "Wed, 04 Oct 2023 21:00:00 +0200"
@@ -62,6 +62,13 @@
         "title": "Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20United",
         "pubdate": "Wed, 04 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Annika Norlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annika%20Norlin",
+        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
         "pubdate": "Tue, 03 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
-        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
       }
     ]
   ]

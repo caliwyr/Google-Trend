@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 06:49:03",
+  "lastUpdate": "05-10-2023 , 06:58:10",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "UCLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCLA",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Taco Bell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taco%20Bell",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "David Beckham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#David%20Beckham",
         "pubdate": "Wed, 04 Oct 2023 11:00:00 +0300"
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "SAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SAS",
         "pubdate": "Wed, 04 Oct 2023 12:00:00 +0300"
@@ -62,6 +69,13 @@
         "title": "Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nigeria",
         "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
+        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0300"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Agatha Christie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Agatha%20Christie",
         "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lens – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lens%20%E2%80%93%20Arsenal",
+        "pubdate": "Wed, 04 Oct 2023 10:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GTA%206",
         "pubdate": "Tue, 03 Oct 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
-        "pubdate": "Tue, 03 Oct 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jamie Lee Curtis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jamie%20Lee%20Curtis",
-        "pubdate": "Mon, 02 Oct 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Amber Heard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Amber%20Heard",
-        "pubdate": "Mon, 02 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
