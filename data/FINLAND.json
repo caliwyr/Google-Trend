@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-10-2023 , 21:49:09",
+  "lastUpdate": "05-10-2023 , 21:58:26",
   "data": [
+    [
+      {
+        "title": "Kevin Spacey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Spacey",
+        "pubdate": "Fri, 06 Oct 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Jon Fosse",
@@ -20,6 +27,13 @@
         "title": "Assassin's Creed Mirage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Assassin's%20Creed%20Mirage",
         "pubdate": "Thu, 05 Oct 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Madagascar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Madagascar",
+        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Galatasaray",
         "pubdate": "Wed, 04 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
-        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Agatha Christie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Agatha%20Christie",
-        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
       }
     ]
   ]

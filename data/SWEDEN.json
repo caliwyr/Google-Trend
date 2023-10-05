@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 21:49:16",
+  "lastUpdate": "05-10-2023 , 21:58:36",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Kevin James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kevin%20James",
-        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Thu, 05 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Alm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20Alm",
+        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "BK Häcken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BK%20H%C3%A4cken",
         "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kevin%20James",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -38,15 +52,15 @@
     ],
     [
       {
-        "title": "Oliver Ingrosso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oliver%20Ingrosso",
+        "title": "Hotell Draken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hotell%20Draken",
         "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hotell Draken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hotell%20Draken",
+        "title": "Oliver Ingrosso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oliver%20Ingrosso",
         "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -76,13 +90,6 @@
         "title": "Johan Falk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Falk",
         "pubdate": "Wed, 04 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Google Pixel 8 Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Google%20Pixel%208%20Pro",
-        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Kanelbullar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanelbullar",
-        "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anne L'Huillier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anne%20L'Huillier",
         "pubdate": "Tue, 03 Oct 2023 14:00:00 +0200"
       }
     ]
