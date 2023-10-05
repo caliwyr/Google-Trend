@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 23:43:07",
+  "lastUpdate": "05-10-2023 , 23:52:34",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "UCLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCLA",
+        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lil Tay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lil%20Tay",
+        "pubdate": "Thu, 05 Oct 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Taco Bell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taco%20Bell",
         "pubdate": "Thu, 05 Oct 2023 09:00:00 +0300"
@@ -69,6 +83,13 @@
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Banksy",
         "pubdate": "Thu, 05 Oct 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnold%20Schwarzenegger",
+        "pubdate": "Thu, 05 Oct 2023 16:00:00 +0300"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nigeria",
-        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Galatasaray",
-        "pubdate": "Wed, 04 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
-        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Agatha Christie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Agatha%20Christie",
         "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
       }
     ]
