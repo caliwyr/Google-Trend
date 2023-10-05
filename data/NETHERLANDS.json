@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 08:47:33",
+  "lastUpdate": "05-10-2023 , 08:56:53",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Prins Bernhard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Prins%20Bernhard",
-        "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
+        "title": "Bernhard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bernhard",
+        "pubdate": "Wed, 04 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Pixel 8",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pixel%208",
         "pubdate": "Wed, 04 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronald Molendijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronald%20Molendijk",
-        "pubdate": "Wed, 04 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fortuna Sittard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
         "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ]
   ]
