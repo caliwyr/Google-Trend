@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2023 , 02:50:30",
+  "lastUpdate": "05-10-2023 , 02:59:38",
   "data": [
     [
       {
@@ -80,29 +80,8 @@
     ],
     [
       {
-        "title": "Baseball playoffs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Baseball%20playoffs",
-        "pubdate": "Wed, 04 Oct 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FC%20Barcelona",
-        "pubdate": "Wed, 04 Oct 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "David Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Beckham",
-        "pubdate": "Wed, 04 Oct 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#RB%20Leipzig%20vs%20Man%20City",
         "pubdate": "Wed, 04 Oct 2023 15:00:00 -0700"
       }
     ],
@@ -111,6 +90,13 @@
         "title": "Julia Ormond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Julia%20Ormond",
         "pubdate": "Wed, 04 Oct 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#RB%20Leipzig%20vs%20Man%20City",
+        "pubdate": "Wed, 04 Oct 2023 15:00:00 -0700"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Victoria Beckham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victoria%20Beckham",
+        "pubdate": "Wed, 04 Oct 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Found",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Found",
         "pubdate": "Wed, 04 Oct 2023 14:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Kevin McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20McCarthy",
         "pubdate": "Tue, 03 Oct 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Powerball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
+        "pubdate": "Tue, 03 Oct 2023 09:00:00 -0700"
       }
     ]
   ]
