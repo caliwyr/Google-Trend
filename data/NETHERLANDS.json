@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "06-10-2023 , 23:26:17",
+  "lastUpdate": "06-10-2023 , 23:35:44",
   "data": [
-    [
-      {
-        "title": "Philips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Philips",
-        "pubdate": "Sat, 07 Oct 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Max%20Verstappen",
-        "pubdate": "Fri, 06 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,9 +17,9 @@
     ],
     [
       {
-        "title": "Nederlands elftal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
-        "pubdate": "Fri, 06 Oct 2023 17:00:00 +0200"
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Max%20Verstappen",
+        "pubdate": "Fri, 06 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Wopke Hoekstra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wopke%20Hoekstra",
         "pubdate": "Mon, 02 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
+        "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
