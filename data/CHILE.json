@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2023 , 18:49:53",
+  "lastUpdate": "06-10-2023 , 18:59:03",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "IPC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
-        "pubdate": "Fri, 06 Oct 2023 11:00:00 -0300"
+        "title": "Final Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Final%20Libertadores",
+        "pubdate": "Fri, 06 Oct 2023 01:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Final Libertadores 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Final%20Libertadores%202023",
-        "pubdate": "Fri, 06 Oct 2023 01:00:00 -0300"
+        "title": "IPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
+        "pubdate": "Fri, 06 Oct 2023 11:00:00 -0300"
       }
     ],
     [
@@ -54,7 +54,7 @@
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
-        "pubdate": "Thu, 05 Oct 2023 18:00:00 -0300"
+        "pubdate": "Thu, 05 Oct 2023 14:00:00 -0300"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Thu, 05 Oct 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Betis  Sparta praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20Sparta%20praha",
-        "pubdate": "Thu, 05 Oct 2023 14:00:00 -0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Osamentas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Osamentas",
-        "pubdate": "Thu, 05 Oct 2023 20:00:00 -0300"
+        "title": "Copa Libertadores Femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores%20Femenina",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Toulouse  LASK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20%20LASK",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 -0300"
       }
     ]
   ]
