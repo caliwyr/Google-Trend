@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "06-10-2023 , 20:49:30",
+  "lastUpdate": "06-10-2023 , 20:58:48",
   "data": [
     [
       {
         "title": "Korona Kielce – Warta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korona%20Kielce%20%E2%80%93%20Warta",
         "pubdate": "Fri, 06 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maciej Dąbrowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20D%C4%85browski",
-        "pubdate": "Fri, 06 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anonymous",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anonymous",
-        "pubdate": "Fri, 06 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liverpool",
-        "pubdate": "Fri, 06 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -38,9 +17,30 @@
     ],
     [
       {
-        "title": "Narges Mohammadi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Narges%20Mohammadi",
-        "pubdate": "Fri, 06 Oct 2023 12:00:00 +0200"
+        "title": "Anonymous",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anonymous",
+        "pubdate": "Fri, 06 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maciej Dąbrowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20D%C4%85browski",
+        "pubdate": "Fri, 06 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liverpool",
+        "pubdate": "Fri, 06 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Doda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Doda",
+        "pubdate": "Fri, 06 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,30 @@
     ],
     [
       {
+        "title": "Reni Jusis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Reni%20Jusis",
+        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ralph Kaminski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ralph%20Kaminski",
         "pubdate": "Fri, 06 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sinead O'Connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sinead%20O'Connor",
+        "pubdate": "Fri, 06 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Narges Mohammadi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Narges%20Mohammadi",
+        "pubdate": "Fri, 06 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Chrobry Głogów – Odra Opole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chrobry%20G%C5%82og%C3%B3w%20%E2%80%93%20Odra%20Opole",
-        "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Elon%20Musk",
         "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Joanna Krupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
-        "pubdate": "Fri, 06 Oct 2023 06:00:00 +0200"
+        "title": "Lechia – Górnik Łęczna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20%E2%80%93%20G%C3%B3rnik%20%C5%81%C4%99czna",
+        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Rachoń",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Racho%C5%84",
-        "pubdate": "Fri, 06 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jarosław Bieniuk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Bieniuk",
-        "pubdate": "Fri, 06 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hurkacz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
-        "pubdate": "Fri, 06 Oct 2023 15:00:00 +0200"
+        "title": "Joanna Krupa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
+        "pubdate": "Fri, 06 Oct 2023 06:00:00 +0200"
       }
     ]
   ]
