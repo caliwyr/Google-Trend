@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2023 , 15:45:03",
+  "lastUpdate": "06-10-2023 , 15:54:20",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Freiburg West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20West%20Ham",
-        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%20Leverkusen",
         "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
@@ -90,6 +83,20 @@
         "title": "Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Granada",
         "pubdate": "Thu, 05 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kiebitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kiebitz",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rentner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rentner",
+        "pubdate": "Thu, 05 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
         "pubdate": "Tue, 03 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union",
-        "pubdate": "Tue, 03 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
