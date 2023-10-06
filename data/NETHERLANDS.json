@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-10-2023 , 10:44:22",
+  "lastUpdate": "06-10-2023 , 10:53:53",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Fri, 06 Oct 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Paul Young",
@@ -33,7 +26,7 @@
       {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
+        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Dag van de leraar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20leraar",
-        "pubdate": "Thu, 05 Oct 2023 00:00:00 +0200"
+        "title": "F1 Qatar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Qatar",
+        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "F1 Qatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Qatar",
-        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
+        "title": "Dag van de leraar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20leraar",
+        "pubdate": "Thu, 05 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fortuna Sittard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
         "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vaessen RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vaessen%20RKC",
+        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ]
   ]
