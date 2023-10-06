@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2023 , 19:42:18",
+  "lastUpdate": "06-10-2023 , 19:51:51",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Hannover 96",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ozempic",
         "pubdate": "Fri, 06 Oct 2023 00:00:00 +0200"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Hannover 96",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
-        "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
+        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Fri, 06 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -66,15 +80,15 @@
     ],
     [
       {
-        "title": "Matthias Schweighöfer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matthias%20Schweigh%C3%B6fer",
+        "title": "Caren Miosga Tagesthemen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Caren%20Miosga%20Tagesthemen",
         "pubdate": "Thu, 05 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Caren Miosga Tagesthemen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Caren%20Miosga%20Tagesthemen",
+        "title": "Ruby O. Fee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ruby%20O.%20Fee",
         "pubdate": "Thu, 05 Oct 2023 23:00:00 +0200"
       }
     ],
@@ -83,13 +97,6 @@
         "title": "Lupin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lupin",
         "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chrupalla news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chrupalla%20news",
-        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Kiebitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kiebitz",
-        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
+        "title": "Chrupalla news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chrupalla%20news",
+        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Chrupalla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chrupalla",
         "pubdate": "Wed, 04 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
-        "pubdate": "Wed, 04 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
