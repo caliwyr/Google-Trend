@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-10-2023 , 06:48:31",
+  "lastUpdate": "06-10-2023 , 06:57:57",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Fri, 06 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paul Young",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20Young",
+        "pubdate": "Fri, 06 Oct 2023 05:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Conference%20League",
+        "pubdate": "Thu, 05 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dag van de leraar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dag%20van%20de%20leraar",
         "pubdate": "Thu, 05 Oct 2023 00:00:00 +0200"
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "Andre Hazes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andre%20Hazes",
+        "pubdate": "Thu, 05 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Wed, 04 Oct 2023 12:00:00 +0200"
@@ -55,6 +76,13 @@
         "title": "Prins Bernhard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Prins%20Bernhard",
         "pubdate": "Wed, 04 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
+        "pubdate": "Wed, 04 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Klaus makela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Klaus%20makela",
         "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fortuna Sittard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ]
   ]

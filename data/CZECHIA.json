@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2023 , 06:48:26",
+  "lastUpdate": "06-10-2023 , 06:57:50",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
         "pubdate": "Fri, 06 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Čaputová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Caputov%C3%A1",
+        "pubdate": "Fri, 06 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ONEMANSHOW: The Movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ONEMANSHOW:%20The%20Movie",
+        "pubdate": "Fri, 06 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Astana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Astana",
-        "pubdate": "Thu, 05 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Thu, 05 Oct 2023 19:00:00 +0200"
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Evropská liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropsk%C3%A1%20liga",
-        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
+        "title": "Astana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Astana",
+        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC Sparta Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Sparta%20Praha",
+        "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "AC Sparta Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Sparta%20Praha",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
+        "title": "Konferenční liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Konferen%C4%8Dn%C3%AD%20liga",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Evropská Konferenční liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropsk%C3%A1%20Konferen%C4%8Dn%C3%AD%20liga",
         "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Velká pardubická",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velk%C3%A1%20pardubick%C3%A1",
-        "pubdate": "Thu, 05 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Křetínský",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20K%C5%99et%C3%ADnsk%C3%BD",
-        "pubdate": "Thu, 05 Oct 2023 09:00:00 +0200"
       }
     ]
   ]
