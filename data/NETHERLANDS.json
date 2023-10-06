@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-10-2023 , 16:51:24",
+  "lastUpdate": "06-10-2023 , 17:01:51",
   "data": [
     [
       {
         "title": "Paul Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20Young",
         "pubdate": "Fri, 06 Oct 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Aston%20Villa",
+        "pubdate": "Fri, 06 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Vaessen RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vaessen%20RKC",
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sat, 30 Sep 2023 15:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sat, 30 Sep 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sat, 30 Sep 2023 20:00:00 +0200"
       }
     ]
   ]
