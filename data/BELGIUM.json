@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2023 , 02:46:25",
+  "lastUpdate": "06-10-2023 , 02:55:46",
   "data": [
     [
       {
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "KAA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Conner Rousseau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conner%20Rousseau",
         "pubdate": "Thu, 05 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
-        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,6 +66,13 @@
     ],
     [
       {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jon Fosse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jon%20Fosse",
         "pubdate": "Thu, 05 Oct 2023 14:00:00 +0200"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Liverpool – Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Union%20Saint-Gilloise",
+        "title": "Conference League 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League%202023",
         "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Karim Slaoui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Karim%20Slaoui",
-        "pubdate": "Thu, 05 Oct 2023 10:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
         "pubdate": "Thu, 05 Oct 2023 08:00:00 +0200"
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Roma – Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma%20%E2%80%93%20Servette",
+        "title": "THE_KING_S_MAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#THE_KING_S_MAN",
         "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "THE_KING_S_MAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#THE_KING_S_MAN",
-        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0200"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
+        "pubdate": "Thu, 05 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lupin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lupin",
+        "pubdate": "Thu, 05 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AI Yearbook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AI%20Yearbook",
+        "pubdate": "Thu, 05 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
