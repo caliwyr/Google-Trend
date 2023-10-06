@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-10-2023 , 00:33:05",
+  "lastUpdate": "06-10-2023 , 01:35:29",
   "data": [
+    [
+      {
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
+        "pubdate": "Fri, 06 Oct 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Kevin Spacey",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Aberdeen – HJK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aberdeen%20%E2%80%93%20HJK",
+        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Europa%20League",
         "pubdate": "Thu, 05 Oct 2023 21:00:00 +0300"
@@ -27,13 +41,6 @@
         "title": "Assassin's Creed Mirage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Assassin's%20Creed%20Mirage",
         "pubdate": "Thu, 05 Oct 2023 07:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "HJK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HJK",
-        "pubdate": "Thu, 05 Oct 2023 22:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "SAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SAS",
         "pubdate": "Wed, 04 Oct 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nigeria",
-        "pubdate": "Wed, 04 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
