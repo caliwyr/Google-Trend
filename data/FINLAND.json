@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-10-2023 , 10:46:09",
+  "lastUpdate": "07-10-2023 , 10:55:20",
   "data": [
     [
       {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Israel",
         "pubdate": "Sat, 07 Oct 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Simone Biles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Simone%20Biles",
+        "pubdate": "Sat, 07 Oct 2023 13:00:00 +0300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Versace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Versace",
-        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
         "pubdate": "Fri, 06 Oct 2023 08:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Aberdeen FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aberdeen%20FC",
-        "pubdate": "Fri, 06 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Jon Fosse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jon%20Fosse",
         "pubdate": "Thu, 05 Oct 2023 15:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "HJK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HJK",
         "pubdate": "Thu, 05 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Assassin's Creed Mirage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Assassin's%20Creed%20Mirage",
+        "pubdate": "Thu, 05 Oct 2023 07:00:00 +0300"
       }
     ]
   ]
