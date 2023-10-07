@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-10-2023 , 18:44:54",
+  "lastUpdate": "07-10-2023 , 18:54:12",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin",
         "pubdate": "Sat, 07 Oct 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Agatha Christie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Agatha%20Christie",
+        "pubdate": "Sat, 07 Oct 2023 21:00:00 +0300"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Finlandia Trophy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Finlandia%20Trophy",
-        "pubdate": "Fri, 06 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Narges Mohammadi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Narges%20Mohammadi",
         "pubdate": "Fri, 06 Oct 2023 13:00:00 +0300"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Finlandia Trophy 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Finlandia%20Trophy%202023",
+        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sharon Stone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sharon%20Stone",
         "pubdate": "Fri, 06 Oct 2023 12:00:00 +0300"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Rolling stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20stones",
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
         "pubdate": "Fri, 06 Oct 2023 22:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jon Fosse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jon%20Fosse",
         "pubdate": "Thu, 05 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Europa%20League",
-        "pubdate": "Thu, 05 Oct 2023 21:00:00 +0300"
       }
     ]
   ]
