@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-10-2023 , 07:47:55",
+  "lastUpdate": "07-10-2023 , 07:57:16",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Pogba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pogba",
+        "pubdate": "Fri, 06 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Adrian Sellevoll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adrian%20Sellevoll",
         "pubdate": "Fri, 06 Oct 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sanna%20Marin",
         "pubdate": "Fri, 06 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trygve Slagsvold Vedum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trygve%20Slagsvold%20Vedum",
-        "pubdate": "Fri, 06 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
