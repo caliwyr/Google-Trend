@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-10-2023 , 11:46:28",
+  "lastUpdate": "07-10-2023 , 11:55:47",
   "data": [
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Israel",
+        "pubdate": "Sat, 07 Oct 2023 02:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Tottenham",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Israel",
-        "pubdate": "Sat, 07 Oct 2023 02:00:00 -0500"
+        "title": "Pre olimpico volei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pre%20olimpico%20volei",
+        "pubdate": "Sat, 07 Oct 2023 06:00:00 -0500"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Al-Nassr x Abha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr%20x%20Abha",
-        "pubdate": "Fri, 06 Oct 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
         "pubdate": "Fri, 06 Oct 2023 18:00:00 -0500"
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Atletico GO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20GO",
+        "title": "Atletico go",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20go",
         "pubdate": "Fri, 06 Oct 2023 12:00:00 -0500"
       }
     ],
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Corinthians Feminino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20Feminino",
-        "pubdate": "Fri, 06 Oct 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Paul Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paul%20Pogba",
         "pubdate": "Fri, 06 Oct 2023 15:00:00 -0500"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Greve Metro SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Greve%20Metro%20SP",
-        "pubdate": "Fri, 06 Oct 2023 12:00:00 -0500"
+        "title": "Danca evento saude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Danca%20evento%20saude",
+        "pubdate": "Fri, 06 Oct 2023 18:00:00 -0500"
       }
     ],
     [
@@ -104,13 +97,6 @@
         "title": "Athletic Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletic%20Bilbao",
         "pubdate": "Fri, 06 Oct 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Danca evento saude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Danca%20evento%20saude",
-        "pubdate": "Fri, 06 Oct 2023 18:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Keith Jefferson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Keith%20Jefferson",
+        "pubdate": "Fri, 06 Oct 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Dia do prefeito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20prefeito",
         "pubdate": "Fri, 06 Oct 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Acidente Curitiba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Acidente%20Curitiba",
+        "pubdate": "Fri, 06 Oct 2023 22:00:00 -0500"
       }
     ]
   ]

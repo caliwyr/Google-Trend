@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-10-2023 , 11:46:28",
+  "lastUpdate": "07-10-2023 , 11:55:48",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
         "pubdate": "Fri, 06 Oct 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Pakistan vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pakistan%20vs%20Netherlands",
+        "pubdate": "Fri, 06 Oct 2023 06:00:00 -0400"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Edmonton Elks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Elks",
-        "pubdate": "Fri, 06 Oct 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Pet Sematary: Bloodlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pet%20Sematary:%20Bloodlines",
         "pubdate": "Fri, 06 Oct 2023 23:00:00 -0400"
       }
     ]
