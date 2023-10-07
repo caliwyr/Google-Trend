@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-10-2023 , 16:51:15",
+  "lastUpdate": "07-10-2023 , 17:00:59",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+        "pubdate": "Sun, 08 Oct 2023 03:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Man United vs Brentford",
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Asian Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Asian%20Games",
+        "pubdate": "Sat, 07 Oct 2023 06:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Sir Alex Ferguson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sir%20Alex%20Ferguson",
         "pubdate": "Sat, 07 Oct 2023 09:00:00 +1100"
@@ -96,13 +110,6 @@
       {
         "title": "Bianca Censori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bianca%20Censori",
-        "pubdate": "Sat, 07 Oct 2023 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "India vs Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Afghanistan",
         "pubdate": "Sat, 07 Oct 2023 16:00:00 +1100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Referendum voting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Referendum%20voting",
         "pubdate": "Sat, 07 Oct 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Al Jazeera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Jazeera",
-        "pubdate": "Sat, 07 Oct 2023 21:00:00 +1100"
       }
     ]
   ]
