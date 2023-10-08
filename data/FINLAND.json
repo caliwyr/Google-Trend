@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 13:52:49",
+  "lastUpdate": "08-10-2023 , 14:05:57",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Israel",
         "pubdate": "Sat, 07 Oct 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Sat, 07 Oct 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Max%20Verstappen",
+        "pubdate": "Sat, 07 Oct 2023 22:00:00 +0300"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
-        "pubdate": "Fri, 06 Oct 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Game of Thrones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Game%20of%20Thrones",
         "pubdate": "Fri, 06 Oct 2023 22:00:00 +0300"
@@ -90,6 +97,13 @@
         "title": "Dick Butkus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dick%20Butkus",
         "pubdate": "Fri, 06 Oct 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
+        "pubdate": "Fri, 06 Oct 2023 16:00:00 +0300"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
+        "pubdate": "Fri, 06 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Kill Bill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kill%20Bill",
         "pubdate": "Fri, 06 Oct 2023 22:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "Robin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin",
         "pubdate": "Fri, 06 Oct 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
-        "pubdate": "Fri, 06 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
-        "pubdate": "Fri, 06 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clint%20Eastwood",
-        "pubdate": "Fri, 06 Oct 2023 00:00:00 +0300"
       }
     ]
   ]
