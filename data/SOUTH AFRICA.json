@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 20:55:17",
+  "lastUpdate": "08-10-2023 , 21:09:07",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
         "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Granada vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Granada%20vs%20Barcelona",
+        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,20 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
+        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami vs Cincinnati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami%20vs%20Cincinnati",
         "pubdate": "Sun, 08 Oct 2023 02:00:00 +0200"
@@ -59,9 +80,16 @@
     ],
     [
       {
-        "title": "Granada vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Granada%20vs%20Barcelona",
-        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
+        "title": "Napoli vs Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli%20vs%20Fiorentina",
+        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fiji vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fiji%20vs%20Portugal",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Napoli vs Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli%20vs%20Fiorentina",
-        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lazio vs Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lazio%20vs%20Atalanta",
         "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Benfica",
-        "pubdate": "Sun, 08 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WWE Fastlane 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#WWE%20Fastlane%202023",
         "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA",
-        "pubdate": "Sun, 08 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
         "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chicago Marathon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chicago%20Marathon%202023",
-        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
