@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "08-10-2023 , 18:59:57",
+  "lastUpdate": "08-10-2023 , 19:13:29",
   "data": [
     [
       {
-        "title": "Bayern Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20Wahl",
+        "title": "Bayern-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern-Wahl",
         "pubdate": "Sun, 08 Oct 2023 12:00:00 +0200"
       }
     ],
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "LASK gegen SCR Altach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20gegen%20SCR%20Altach",
-        "pubdate": "Sun, 08 Oct 2023 14:00:00 +0200"
+        "title": "Bayern gegen Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20gegen%20Freiburg",
+        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern gegen Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20gegen%20Freiburg",
+        "title": "Arsenal gegen Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20gegen%20Man%20City",
         "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Arsenal gegen Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20gegen%20Man%20City",
+        "title": "LASK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
         "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
-        "pubdate": "Sun, 08 Oct 2023 07:00:00 +0200"
+        "title": "Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Afghanistan",
+        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Afghanistan",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
+        "pubdate": "Sun, 08 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,30 @@
     ],
     [
       {
-        "title": "Schalke gegen Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schalke%20gegen%20Hertha",
-        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
+        "title": "ARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
+        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
+        "title": "Leverkusen gegen Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20gegen%20K%C3%B6ln",
+        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hessen-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hessen-Wahl",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schalke gegen Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schalke%20gegen%20Hertha",
+        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,22 +115,15 @@
     ],
     [
       {
-        "title": "Leverkusen gegen Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20gegen%20K%C3%B6ln",
-        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
+        "title": "Kelvin Kiptum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kelvin%20Kiptum",
+        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nachrichten aktuell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20aktuell",
-        "pubdate": "Sun, 08 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tagesschau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tagesschau",
+        "title": "Nachrichten Aktuell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20Aktuell",
         "pubdate": "Sun, 08 Oct 2023 09:00:00 +0200"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Chris Hemsworth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chris%20Hemsworth",
-        "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hessen-Wahl 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hessen-Wahl%202023",
-        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
+        "title": "Tagesschau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tagesschau",
+        "pubdate": "Sun, 08 Oct 2023 09:00:00 +0200"
       }
     ]
   ]
