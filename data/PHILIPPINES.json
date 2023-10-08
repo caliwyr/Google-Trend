@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-10-2023 , 04:49:37",
+  "lastUpdate": "08-10-2023 , 04:58:55",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA",
+        "pubdate": "Sun, 08 Oct 2023 10:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Lakers",
@@ -31,23 +38,16 @@
     ],
     [
       {
-        "title": "NBA games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20games",
-        "pubdate": "Sun, 08 Oct 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Gilas vs Jordan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gilas%20vs%20Jordan",
-        "pubdate": "Sat, 07 Oct 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Israel",
         "pubdate": "Sat, 07 Oct 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gilas Pilipinas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gilas%20Pilipinas",
+        "pubdate": "Sat, 07 Oct 2023 09:00:00 +0800"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Jaden Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jaden%20Smith",
         "pubdate": "Sat, 07 Oct 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ricardo Cepeda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ricardo%20Cepeda",
-        "pubdate": "Sat, 07 Oct 2023 20:00:00 +0800"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Ahn Hyo-seop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ahn%20Hyo-seop",
         "pubdate": "Sat, 07 Oct 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Miss Universe 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Miss%20Universe%202023",
+        "pubdate": "Sat, 07 Oct 2023 12:00:00 +0800"
       }
     ],
     [

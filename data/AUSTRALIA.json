@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 04:49:30",
+  "lastUpdate": "08-10-2023 , 04:58:49",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
         "pubdate": "Sun, 08 Oct 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Australia",
+        "pubdate": "Sun, 08 Oct 2023 15:00:00 +1100"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Tel Aviv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tel%20Aviv",
+        "pubdate": "Sun, 08 Oct 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Boxing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
         "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "England vs Samoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Samoa",
-        "pubdate": "Sun, 08 Oct 2023 12:00:00 +1100"
+        "title": "WWE Fastlane 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE%20Fastlane%202023",
+        "pubdate": "Sun, 08 Oct 2023 14:00:00 +1100"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Dick Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dick%20Johnson",
+        "title": "England vs Samoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Samoa",
         "pubdate": "Sun, 08 Oct 2023 12:00:00 +1100"
       }
     ],
@@ -111,13 +125,6 @@
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20League",
         "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "WWE Fastlane 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE%20Fastlane%202023",
-        "pubdate": "Sun, 08 Oct 2023 14:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
         "pubdate": "Sat, 07 Oct 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bathurst 1000",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bathurst%201000",
-        "pubdate": "Sat, 07 Oct 2023 15:00:00 +1100"
       }
     ]
   ]
