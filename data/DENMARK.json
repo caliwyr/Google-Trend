@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 05:54:26",
+  "lastUpdate": "08-10-2023 , 06:12:56",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Pamela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pamela",
+        "pubdate": "Sat, 07 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Oxen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oxen",
         "pubdate": "Sat, 07 Oct 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Narges Mohammadi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Narges%20Mohammadi",
         "pubdate": "Fri, 06 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jason Statham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jason%20Statham",
-        "pubdate": "Fri, 06 Oct 2023 22:00:00 +0200"
       }
     ]
   ]

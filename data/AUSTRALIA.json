@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-10-2023 , 05:54:25",
+  "lastUpdate": "08-10-2023 , 06:12:54",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA",
+        "pubdate": "Sun, 08 Oct 2023 16:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "AFLW",
@@ -12,6 +19,13 @@
       {
         "title": "Ireland vs Scotland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ireland%20vs%20Scotland",
+        "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Brentford",
         "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
       }
     ],
@@ -59,20 +73,6 @@
     ],
     [
       {
-        "title": "Weather Brisbane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20Brisbane",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "World news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#World%20news",
-        "pubdate": "Sun, 08 Oct 2023 13:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami vs Cincinnati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami%20vs%20Cincinnati",
         "pubdate": "Sun, 08 Oct 2023 13:00:00 +1100"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Boxing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
-        "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "WWE Fastlane 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE%20Fastlane%202023",
         "pubdate": "Sun, 08 Oct 2023 14:00:00 +1100"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "West Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Bank",
-        "pubdate": "Sun, 08 Oct 2023 13:00:00 +1100"
+        "title": "Boxing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
+        "pubdate": "Sun, 08 Oct 2023 01:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
         "pubdate": "Sat, 07 Oct 2023 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bathurst 1000",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bathurst%201000",
+        "pubdate": "Sat, 07 Oct 2023 19:00:00 +1100"
       }
     ]
   ]
