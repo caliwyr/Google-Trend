@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 21:56:12",
+  "lastUpdate": "08-10-2023 , 22:11:14",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AC%20Milan",
         "pubdate": "Sun, 08 Oct 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Prince Mateen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prince%20Mateen",
+        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Haze Singapore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Haze%20Singapore",
         "pubdate": "Fri, 06 Oct 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "COVID Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COVID%20Singapore",
-        "pubdate": "Fri, 06 Oct 2023 20:00:00 +0800"
       }
     ]
   ]
