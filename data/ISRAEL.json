@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-10-2023 , 22:53:05",
+  "lastUpdate": "08-10-2023 , 23:07:29",
   "data": [
+    [
+      {
+        "title": "ברצלונה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94",
+        "pubdate": "Mon, 09 Oct 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "גל הירש",
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "יזהר שי",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%96%D7%94%D7%A8%20%D7%A9%D7%99",
+        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "רועי לוי",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%A2%D7%99%20%D7%9C%D7%95%D7%99",
         "pubdate": "Sun, 08 Oct 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "ישראייר",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A9%D7%A8%D7%90%D7%99%D7%99%D7%A8",
+        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0300"
       }
     ],
     [
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "יזהר שי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%96%D7%94%D7%A8%20%D7%A9%D7%99",
-        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "ניב רסקין",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%99%D7%91%20%D7%A8%D7%A1%D7%A7%D7%99%D7%9F",
         "pubdate": "Sun, 08 Oct 2023 07:00:00 +0300"
@@ -80,44 +94,9 @@
     ],
     [
       {
-        "title": "נועה ארגמני",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%95%D7%A2%D7%94%20%D7%90%D7%A8%D7%92%D7%9E%D7%A0%D7%99",
-        "pubdate": "Sun, 08 Oct 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "ארסנל",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A8%D7%A1%D7%A0%D7%9C",
         "pubdate": "Sun, 08 Oct 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Arsenal%20vs%20Man%20City",
-        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "ינון מגל",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A0%D7%95%D7%9F%20%D7%9E%D7%92%D7%9C",
-        "pubdate": "Sun, 08 Oct 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "אלון שמלי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%95%D7%9F%20%D7%A9%D7%9E%D7%9C%D7%99",
-        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "אלמוג כהן",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%9E%D7%95%D7%92%20%D7%9B%D7%94%D7%9F",
-        "pubdate": "Sun, 08 Oct 2023 11:00:00 +0300"
       }
     ],
     [
@@ -129,16 +108,37 @@
     ],
     [
       {
-        "title": "התנדבות",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA",
+        "title": "Arsenal vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Arsenal%20vs%20Man%20City",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "מצרים",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A6%D7%A8%D7%99%D7%9D",
+        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "אריאל בן משה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A8%D7%99%D7%90%D7%9C%20%D7%91%D7%9F%20%D7%9E%D7%A9%D7%94",
+        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "אלמוג כהן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%9E%D7%95%D7%92%20%D7%9B%D7%94%D7%9F",
         "pubdate": "Sun, 08 Oct 2023 11:00:00 +0300"
       }
     ],
     [
       {
-        "title": "מעגן מיכאל",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A2%D7%92%D7%9F%20%D7%9E%D7%99%D7%9B%D7%90%D7%9C",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0300"
+        "title": "התנדבות",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA",
+        "pubdate": "Sun, 08 Oct 2023 11:00:00 +0300"
       }
     ]
   ]

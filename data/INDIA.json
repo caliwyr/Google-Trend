@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-10-2023 , 22:53:04",
+  "lastUpdate": "08-10-2023 , 23:07:29",
   "data": [
+    [
+      {
+        "title": "BARCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BARCA",
+        "pubdate": "Mon, 09 Oct 2023 03:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "ऑस्ट्रेलिया बनाम भारत",
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Hardik pandya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hardik%20pandya",
+        "title": "Shreyas Iyer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreyas%20Iyer",
         "pubdate": "Sun, 08 Oct 2023 15:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Temba Bavuma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Temba%20Bavuma",
+        "pubdate": "Sun, 08 Oct 2023 01:30:00 +0530"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Mumbai City FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mumbai%20City%20FC",
-        "pubdate": "Sun, 08 Oct 2023 22:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Qatar gp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Qatar%20gp",
-        "pubdate": "Sun, 08 Oct 2023 23:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "IND vs AUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20AUS",
-        "pubdate": "Sat, 07 Oct 2023 20:30:00 +0530"
+        "title": "Asus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Asus",
+        "pubdate": "Sun, 08 Oct 2023 00:30:00 +0530"
       }
     ]
   ]
