@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 12:44:25",
+  "lastUpdate": "08-10-2023 , 12:57:14",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "LSU Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20Football",
+        "title": "LSU football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20football",
         "pubdate": "Sat, 07 Oct 2023 10:00:00 -0700"
       }
     ],
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Miami football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20football",
-        "pubdate": "Sat, 07 Oct 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Minnesota Twins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Minnesota%20Twins",
-        "pubdate": "Sat, 07 Oct 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Wisconsin football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wisconsin%20football",
         "pubdate": "Sat, 07 Oct 2023 12:00:00 -0700"
@@ -139,6 +125,20 @@
         "title": "Rutgers Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rutgers%20Football",
         "pubdate": "Sat, 07 Oct 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Miami Hurricanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Hurricanes",
+        "pubdate": "Sat, 07 Oct 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kentucky vs Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20vs%20Georgia",
+        "pubdate": "Sat, 07 Oct 2023 19:00:00 -0700"
       }
     ]
   ]

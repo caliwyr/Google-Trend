@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2023 , 12:44:35",
+  "lastUpdate": "08-10-2023 , 12:57:24",
   "data": [
     [
       {
@@ -24,30 +24,9 @@
     ],
     [
       {
-        "title": "Prince Mateen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prince%20Mateen",
-        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Max%20Verstappen",
         "pubdate": "Sun, 08 Oct 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Al Jazeera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Jazeera",
-        "pubdate": "Sun, 08 Oct 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Chris Basham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chris%20Basham",
-        "pubdate": "Sun, 08 Oct 2023 10:00:00 +0800"
       }
     ],
     [
@@ -59,9 +38,30 @@
     ],
     [
       {
+        "title": "Al Jazeera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Jazeera",
+        "pubdate": "Sun, 08 Oct 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
         "pubdate": "Sun, 08 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lebanon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lebanon",
+        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Hong Kong Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20Typhoon",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0800"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Indonesia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Indonesia",
-        "pubdate": "Sun, 08 Oct 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hong Kong Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20Typhoon",
-        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0800"
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0800"
       }
     ],
     [
@@ -108,20 +101,6 @@
     ],
     [
       {
-        "title": "South Africa vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#South%20Africa%20vs%20Sri%20Lanka",
-        "pubdate": "Sat, 07 Oct 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Amos Yee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amos%20Yee",
-        "pubdate": "Sat, 07 Oct 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Show Lo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Show%20Lo",
         "pubdate": "Sat, 07 Oct 2023 21:00:00 +0800"
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Totally Killer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Totally%20Killer",
-        "pubdate": "Sat, 07 Oct 2023 14:00:00 +0800"
+        "title": "Air quality",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Air%20quality",
+        "pubdate": "Sat, 07 Oct 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Haze Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Haze%20Singapore",
+        "pubdate": "Fri, 06 Oct 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "COVID Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COVID%20Singapore",
+        "pubdate": "Fri, 06 Oct 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Pancreatic cancer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pancreatic%20cancer",
+        "pubdate": "Fri, 06 Oct 2023 13:00:00 +0800"
       }
     ]
   ]
