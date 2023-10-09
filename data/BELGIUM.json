@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-10-2023 , 23:57:58",
+  "lastUpdate": "09-10-2023 , 01:10:17",
   "data": [
     [
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Mon, 09 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20Munich",
+        "pubdate": "Mon, 09 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Shani Louk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shani%20Louk",
         "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
@@ -52,16 +66,9 @@
     ],
     [
       {
-        "title": "SK Beveren  zulte-waregem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SK%20Beveren%20%20zulte-waregem",
+        "title": "SK Beveren.  zulte-waregem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SK%20Beveren.%20%20zulte-waregem",
         "pubdate": "Sun, 08 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brighton%20%E2%80%93%20Liverpool",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lens – Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Lille",
         "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Sun, 08 Oct 2023 14:00:00 +0200"
       }
     ]
   ]
