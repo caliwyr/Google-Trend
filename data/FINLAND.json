@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2023 , 13:56:02",
+  "lastUpdate": "09-10-2023 , 14:12:51",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Wonder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wonder",
+        "pubdate": "Sun, 08 Oct 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MLS",
         "pubdate": "Sun, 08 Oct 2023 17:00:00 +0300"
@@ -111,13 +118,6 @@
         "title": "BBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20News",
         "pubdate": "Sat, 07 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-        "pubdate": "Sat, 07 Oct 2023 18:00:00 +0300"
       }
     ],
     [
