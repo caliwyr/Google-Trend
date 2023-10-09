@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-10-2023 , 07:54:44",
+  "lastUpdate": "09-10-2023 , 08:14:45",
   "data": [
     [
       {
         "title": "Nicolas Caeyers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicolas%20Caeyers",
         "pubdate": "Mon, 09 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Mon, 09 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Standard – Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%E2%80%93%20Club%20Brugge",
-        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
+        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0200"
+        "title": "Standard – Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%E2%80%93%20Club%20Brugge",
+        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
+        "title": "Standard Bruges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20Bruges",
+        "pubdate": "Sun, 08 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Alain Delon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Delon",
-        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Afghanistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Afghanistan",
         "pubdate": "Sun, 08 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florian Vermeersch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florian%20Vermeersch",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Marathon Eindhoven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Eindhoven",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
+        "title": "Florian Vermeersch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florian%20Vermeersch",
+        "pubdate": "Sun, 08 Oct 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lens – Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Lille",
-        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
+        "title": "Alain Delon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Delon",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marathon Eindhoven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Eindhoven",
+        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
       }
     ]
   ]
