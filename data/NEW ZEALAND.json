@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2023 , 04:59:02",
+  "lastUpdate": "09-10-2023 , 05:16:42",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Ep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ep",
+        "title": "EP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
         "pubdate": "Mon, 09 Oct 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
+        "pubdate": "Mon, 09 Oct 2023 08:00:00 +1300"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snake",
+        "pubdate": "Mon, 09 Oct 2023 11:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drive",
         "pubdate": "Mon, 09 Oct 2023 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Neil Christensen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Neil%20Christensen",
+        "pubdate": "Mon, 09 Oct 2023 17:00:00 +1300"
       }
     ],
     [
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Brighton vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brighton%20vs%20Liverpool",
-        "pubdate": "Mon, 09 Oct 2023 08:00:00 +1300"
+        "title": "Topp Twins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Topp%20Twins",
+        "pubdate": "Mon, 09 Oct 2023 15:00:00 +1300"
       }
     ],
     [
@@ -62,13 +83,6 @@
         "title": "Tonga vs Romania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tonga%20vs%20Romania",
         "pubdate": "Mon, 09 Oct 2023 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Topp Twins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Topp%20Twins",
-        "pubdate": "Mon, 09 Oct 2023 15:00:00 +1300"
       }
     ],
     [
@@ -96,7 +110,7 @@
       {
         "title": "Australia vs India",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20India",
-        "pubdate": "Sun, 08 Oct 2023 21:00:00 +1300"
+        "pubdate": "Sun, 08 Oct 2023 14:00:00 +1300"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Bathurst 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bathurst%202023",
-        "pubdate": "Sun, 08 Oct 2023 14:00:00 +1300"
+        "title": "Bathurst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bathurst",
+        "pubdate": "Sun, 08 Oct 2023 12:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "England vs Samoa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Samoa",
         "pubdate": "Sun, 08 Oct 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA",
-        "pubdate": "Sun, 08 Oct 2023 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Rugby World Cup quarter finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rugby%20World%20Cup%20quarter%20finals",
-        "pubdate": "Sun, 08 Oct 2023 11:00:00 +1300"
       }
     ]
   ]
