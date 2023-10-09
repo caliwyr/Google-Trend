@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2023 , 01:58:37",
+  "lastUpdate": "09-10-2023 , 02:22:58",
   "data": [
     [
       {
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0200"
+        "title": "ARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -48,6 +48,20 @@
         "title": "Malcolm Ohanwe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Malcolm%20Ohanwe",
         "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nancy Faeser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nancy%20Faeser",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Erdbeben Afghanistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdbeben%20Afghanistan",
         "pubdate": "Sat, 07 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "München-Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnchen-Marathon",
-        "pubdate": "Sat, 07 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel-1-Live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1-Live",
-        "pubdate": "Sat, 07 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
