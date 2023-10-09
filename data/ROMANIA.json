@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2023 , 07:00:14",
+  "lastUpdate": "09-10-2023 , 07:17:16",
   "data": [
     [
       {
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "Cornel Petreanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cornel%20Petreanu",
-        "pubdate": "Sun, 08 Oct 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
         "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Granada - Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Granada%20-%20Barcelona",
-        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
       }
     ],
     [
@@ -80,9 +66,23 @@
     ],
     [
       {
+        "title": "Granada  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Granada%20%20Barcelona",
+        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Brighton - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brighton%20-%20Liverpool",
         "pubdate": "Sun, 08 Oct 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cornel Petreanu Medic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cornel%20Petreanu%20Medic",
+        "pubdate": "Sun, 08 Oct 2023 17:00:00 +0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Bruno Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bruno%20Mars",
-        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Fauda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fauda",
         "pubdate": "Sun, 08 Oct 2023 07:00:00 +0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
-        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0300"
+        "title": "Afganistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Afganistan",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iga%20Swiatek",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0300"
       }
     ]
   ]
