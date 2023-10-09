@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-10-2023 , 05:56:07",
+  "lastUpdate": "09-10-2023 , 06:17:54",
   "data": [
+    [
+      {
+        "title": "Equipe de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Equipe%20de%20France",
+        "pubdate": "Mon, 09 Oct 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bayern",
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Maladie de Charcot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maladie%20de%20Charcot",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
+        "title": "Egypte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Egypte",
+        "pubdate": "Sun, 08 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Guirassy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guirassy",
         "pubdate": "Sun, 08 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Pogba Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Pogba%20Juventus",
-        "pubdate": "Sun, 08 Oct 2023 18:00:00 +0200"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-10-2023 , 05:56:10",
+  "lastUpdate": "09-10-2023 , 06:17:58",
   "data": [
+    [
+      {
+        "title": "Granada  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Granada%20%20Barcelona",
+        "pubdate": "Sun, 08 Oct 2023 13:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Zwolle  Feyenoord",
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Pumas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas",
-        "pubdate": "Sun, 08 Oct 2023 20:00:00 -0600"
+        "title": "Santos vs leon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20vs%20leon",
+        "pubdate": "Sun, 08 Oct 2023 14:00:00 -0600"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Santos vs leon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20vs%20leon",
-        "pubdate": "Sun, 08 Oct 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Tijuana  Atl San Luis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tijuana%20%20Atl%20San%20Luis",
         "pubdate": "Sun, 08 Oct 2023 14:00:00 -0600"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "West Ham  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#West%20Ham%20%20Newcastle",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 -0600"
+        "title": "Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 -0600"
       }
     ],
     [
@@ -69,6 +69,20 @@
         "title": "Rennes  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rennes%20%20PSG",
         "pubdate": "Sun, 08 Oct 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "West Ham - Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#West%20Ham%20-%20Newcastle",
+        "pubdate": "Sun, 08 Oct 2023 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Liga MX tabla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX%20tabla",
+        "pubdate": "Sun, 08 Oct 2023 04:00:00 -0600"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Bills  Jaguars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20%20Jaguars",
+        "title": "West Ham vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#West%20Ham%20vs%20Newcastle",
         "pubdate": "Sun, 08 Oct 2023 09:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Liga MX, tabla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX,%20tabla",
-        "pubdate": "Sun, 08 Oct 2023 04:00:00 -0600"
+        "title": "Bills  Jaguars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20%20Jaguars",
+        "pubdate": "Sun, 08 Oct 2023 09:00:00 -0600"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "West Ham vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#West%20Ham%20vs%20Newcastle",
-        "pubdate": "Sun, 08 Oct 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Napoli  Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Fiorentina",
         "pubdate": "Sun, 08 Oct 2023 13:00:00 -0600"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Anuel AA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Anuel%20AA",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Atlético Madrid  Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Madrid%20%20Real%20Sociedad",
         "pubdate": "Sun, 08 Oct 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Brighton  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Liverpool",
-        "pubdate": "Sun, 08 Oct 2023 08:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Rennes vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rennes%20vs%20PSG",
-        "pubdate": "Sun, 08 Oct 2023 16:00:00 -0600"
       }
     ]
   ]
