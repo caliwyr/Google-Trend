@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-10-2023 , 18:52:50",
+  "lastUpdate": "10-10-2023 , 19:05:27",
   "data": [
-    [
-      {
-        "title": "NHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NHL",
-        "pubdate": "Wed, 11 Oct 2023 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Jerry Seinfeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jerry%20Seinfeld",
         "pubdate": "Wed, 11 Oct 2023 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NHL",
+        "pubdate": "Wed, 11 Oct 2023 00:00:00 +1100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Daniel Caesar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Caesar",
+        "pubdate": "Tue, 10 Oct 2023 18:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Ben Simmons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Simmons",
         "pubdate": "Tue, 10 Oct 2023 15:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Zainab Abbas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zainab%20Abbas",
         "pubdate": "Tue, 10 Oct 2023 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bradley Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradley%20Cooper",
-        "pubdate": "Tue, 10 Oct 2023 22:00:00 +1100"
       }
     ]
   ]
