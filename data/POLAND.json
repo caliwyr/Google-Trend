@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-10-2023 , 04:53:57",
+  "lastUpdate": "10-10-2023 , 05:08:43",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Centralny Rejestr Wyborców",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Centralny%20Rejestr%20Wyborc%C3%B3w",
+        "pubdate": "Mon, 09 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSG",
         "pubdate": "Mon, 09 Oct 2023 00:00:00 +0200"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern",
-        "pubdate": "Mon, 09 Oct 2023 11:00:00 +0200"
+        "title": "Natsu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natsu",
+        "pubdate": "Mon, 09 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "JSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#JSW",
-        "pubdate": "Mon, 09 Oct 2023 13:00:00 +0200"
+        "title": "Polska Reprezentacja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20Reprezentacja",
+        "pubdate": "Mon, 09 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Polska Reprezentacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20Reprezentacja",
-        "pubdate": "Mon, 09 Oct 2023 21:00:00 +0200"
+        "title": "JSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#JSW",
+        "pubdate": "Mon, 09 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Zmiana miejsca glosowania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmiana%20miejsca%20glosowania",
         "pubdate": "Mon, 09 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Claudia Goldin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Claudia%20Goldin",
-        "pubdate": "Mon, 09 Oct 2023 16:00:00 +0200"
       }
     ]
   ]
