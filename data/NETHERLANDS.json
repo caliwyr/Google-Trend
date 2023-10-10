@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-10-2023 , 13:57:04",
+  "lastUpdate": "10-10-2023 , 14:13:32",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Nieuwendijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwendijk",
+        "pubdate": "Tue, 10 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Mon, 09 Oct 2023 11:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Claudia Goldin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Claudia%20Goldin",
-        "pubdate": "Mon, 09 Oct 2023 22:00:00 +0200"
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Mon, 09 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Fri, 06 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Thu, 05 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
