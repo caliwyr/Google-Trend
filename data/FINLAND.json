@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-10-2023 , 16:52:31",
+  "lastUpdate": "10-10-2023 , 17:06:35",
   "data": [
+    [
+      {
+        "title": "Mariska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariska",
+        "pubdate": "Tue, 10 Oct 2023 19:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Mia Khalifa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mia%20Khalifa",
         "pubdate": "Tue, 10 Oct 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rammstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rammstein",
-        "pubdate": "Tue, 10 Oct 2023 14:00:00 +0300"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Mika Aaltola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mika%20Aaltola",
         "pubdate": "Tue, 10 Oct 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Reuters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Reuters",
+        "pubdate": "Tue, 10 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "The Mask",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Mask",
+        "title": "The mask",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20mask",
         "pubdate": "Mon, 09 Oct 2023 23:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Brighton – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brighton%20%E2%80%93%20Liverpool",
         "pubdate": "Sun, 08 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rolling%20Stones",
-        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
