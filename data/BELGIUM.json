@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-10-2023 , 09:53:54",
+  "lastUpdate": "10-10-2023 , 10:10:31",
   "data": [
     [
       {
         "title": "Caroline Receveur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Caroline%20Receveur",
         "pubdate": "Tue, 10 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Greve Vendredi 13 octobre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greve%20Vendredi%2013%20octobre",
+        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Filmfestival Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Filmfestival%20Gent",
+        "pubdate": "Tue, 10 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jean-Luc Mélenchon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Luc%20M%C3%A9lenchon",
         "pubdate": "Tue, 10 Oct 2023 00:00:00 +0200"
@@ -34,6 +48,20 @@
         "title": "Nicolas Caeyers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicolas%20Caeyers",
         "pubdate": "Mon, 09 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Umami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umami",
+        "pubdate": "Mon, 09 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Mon, 09 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -55,13 +83,6 @@
         "title": "Schalke 04",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schalke%2004",
         "pubdate": "Mon, 09 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mohammed Deif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mohammed%20Deif",
-        "pubdate": "Mon, 09 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Bruce Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruce%20Lee",
-        "pubdate": "Mon, 09 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Milli Vanilli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Milli%20Vanilli",
         "pubdate": "Mon, 09 Oct 2023 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris",
-        "pubdate": "Mon, 09 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bouchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bouchez",
-        "pubdate": "Mon, 09 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Festival israel Hamas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Festival%20israel%20Hamas",
-        "pubdate": "Mon, 09 Oct 2023 21:00:00 +0200"
+        "title": "Bruce Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruce%20Lee",
+        "pubdate": "Mon, 09 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
