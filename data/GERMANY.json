@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-10-2023 , 12:56:30",
+  "lastUpdate": "10-10-2023 , 13:17:25",
   "data": [
     [
       {
-        "title": "Rammstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein",
+        "title": "Rammstein-Tour 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein-Tour%202024",
         "pubdate": "Tue, 10 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eden Hazard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eden%20Hazard",
+        "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Flughafen Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20Hamburg",
+        "title": "Hamburg Flughafen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg%20Flughafen",
         "pubdate": "Mon, 09 Oct 2023 14:00:00 +0200"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Mon, 09 Oct 2023 20:00:00 +0200"
+        "title": "Vitesco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vitesco",
+        "pubdate": "Mon, 09 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Vitesco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vitesco",
-        "pubdate": "Mon, 09 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
-        "pubdate": "Mon, 09 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schaeffler Vitesco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schaeffler%20Vitesco",
-        "pubdate": "Mon, 09 Oct 2023 12:00:00 +0200"
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Mon, 09 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nancy Faeser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nancy%20Faeser",
         "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "AfD Hessen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20Hessen",
         "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barca",
+        "pubdate": "Sun, 08 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SPD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SPD",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
