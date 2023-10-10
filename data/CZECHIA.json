@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-10-2023 , 20:55:53",
+  "lastUpdate": "10-10-2023 , 21:10:27",
   "data": [
-    [
-      {
-        "title": "Eden Hazard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eden%20Hazard",
-        "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Mia Khalifa",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Václavské náměstí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD",
-        "pubdate": "Tue, 10 Oct 2023 18:00:00 +0200"
+        "title": "Eden Hazard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eden%20Hazard",
+        "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Brzobohatý",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brzobohat%C3%BD",
         "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Václavské náměstí",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD",
+        "pubdate": "Tue, 10 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Martina Pártlová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martina%20P%C3%A1rtlov%C3%A1",
+        "pubdate": "Mon, 09 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kateřina Brožová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Bro%C5%BEov%C3%A1",
         "pubdate": "Mon, 09 Oct 2023 10:00:00 +0200"
@@ -90,13 +97,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Mon, 09 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dara Rolins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dara%20Rolins",
-        "pubdate": "Mon, 09 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Josef Vařeka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Va%C5%99eka",
-        "pubdate": "Mon, 09 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Verdi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Verdi",
         "pubdate": "Sun, 08 Oct 2023 10:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "FC Viktoria Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Viktoria%20Plze%C5%88",
         "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20milan",
+        "pubdate": "Sun, 08 Oct 2023 08:00:00 +0200"
       }
     ]
   ]
