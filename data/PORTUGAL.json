@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "10-10-2023 , 02:55:27",
+  "lastUpdate": "10-10-2023 , 03:12:12",
   "data": [
     [
       {
         "title": "Sondagem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sondagem",
-        "pubdate": "Tue, 10 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ONU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ONU",
         "pubdate": "Tue, 10 Oct 2023 00:00:00 +0100"
       }
     ],
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Seleção portuguesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sele%C3%A7%C3%A3o%20portuguesa",
+        "pubdate": "Mon, 09 Oct 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Claudia Goldin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Claudia%20Goldin",
         "pubdate": "Mon, 09 Oct 2023 13:00:00 +0100"
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Ataque Hamas Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ataque%20Hamas%20Israel",
+        "pubdate": "Mon, 09 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Mon, 09 Oct 2023 01:00:00 +0100"
@@ -69,13 +76,6 @@
         "title": "Incendios Leiria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios%20Leiria",
         "pubdate": "Mon, 09 Oct 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Armando Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Armando%20Pereira",
-        "pubdate": "Mon, 09 Oct 2023 16:00:00 +0100"
       }
     ],
     [
