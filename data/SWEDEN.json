@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2023 , 02:52:32",
+  "lastUpdate": "11-10-2023 , 03:07:52",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Jimmie Åkesson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
-        "pubdate": "Mon, 09 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pascal Engman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pascal%20Engman",
         "pubdate": "Mon, 09 Oct 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "E-type",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E-type",
         "pubdate": "Sun, 08 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
