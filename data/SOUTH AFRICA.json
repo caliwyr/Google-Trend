@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-10-2023 , 22:42:16",
+  "lastUpdate": "11-10-2023 , 22:51:46",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC",
+        "pubdate": "Thu, 12 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Afghanistan vs India",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Sam Bankman-Fried Caroline Ellison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sam%20Bankman-Fried%20Caroline%20Ellison",
+        "pubdate": "Wed, 11 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tim Ballard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tim%20Ballard",
         "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
@@ -41,13 +55,6 @@
         "title": "Tyla Water",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tyla%20Water",
         "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Caroline Ellison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Caroline%20Ellison",
-        "pubdate": "Wed, 11 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UEFA Champions League Women",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League%20Women",
         "pubdate": "Tue, 10 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carling Black Label Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carling%20Black%20Label%20Cup",
-        "pubdate": "Mon, 09 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
