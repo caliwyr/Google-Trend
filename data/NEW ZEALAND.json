@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-10-2023 , 23:37:50",
+  "lastUpdate": "11-10-2023 , 23:47:11",
   "data": [
-    [
-      {
-        "title": "Polls NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Polls%20NZ",
-        "pubdate": "Thu, 12 Oct 2023 00:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "Caroline Ellison",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Polls NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Polls%20NZ",
+        "pubdate": "Thu, 12 Oct 2023 00:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Jerry Seinfeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jerry%20Seinfeld",
         "pubdate": "Thu, 12 Oct 2023 00:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Paulo Costa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paulo%20Costa",
+        "pubdate": "Thu, 12 Oct 2023 12:00:00 +1300"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "James Roberts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#James%20Roberts",
+        "pubdate": "Wed, 11 Oct 2023 20:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Topp Twins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Topp%20Twins",
         "pubdate": "Wed, 11 Oct 2023 15:00:00 +1300"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "James Roberts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#James%20Roberts",
-        "pubdate": "Wed, 11 Oct 2023 20:00:00 +1300"
+        "title": "Mary Lou Retton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mary%20Lou%20Retton",
+        "pubdate": "Wed, 11 Oct 2023 17:00:00 +1300"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Eden Hazard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eden%20Hazard",
         "pubdate": "Wed, 11 Oct 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Mary Lou Retton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mary%20Lou%20Retton",
-        "pubdate": "Wed, 11 Oct 2023 17:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tom Mulholland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Mulholland",
         "pubdate": "Tue, 10 Oct 2023 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "England vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Bangladesh",
-        "pubdate": "Tue, 10 Oct 2023 19:00:00 +1300"
       }
     ]
   ]
