@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2023 , 10:48:53",
+  "lastUpdate": "11-10-2023 , 10:58:19",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Elisabeth Borne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elisabeth%20Borne",
+        "pubdate": "Wed, 11 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Agresti-Roubache",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Agresti-Roubache",
         "pubdate": "Wed, 11 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Euro%202024",
+        "pubdate": "Wed, 11 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Michel Blanc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Blanc",
+        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grèves 13 octobre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gr%C3%A8ves%2013%20octobre",
         "pubdate": "Tue, 10 Oct 2023 10:00:00 +0200"
@@ -52,20 +73,6 @@
     ],
     [
       {
-        "title": "Gerald de Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gerald%20de%20Palmas",
-        "pubdate": "Tue, 10 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PS5 Slim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PS5%20Slim",
-        "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kfar Aza massacre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kfar%20Aza%20massacre",
         "pubdate": "Tue, 10 Oct 2023 18:00:00 +0200"
@@ -73,23 +80,16 @@
     ],
     [
       {
+        "title": "Gerald de Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gerald%20de%20Palmas",
+        "pubdate": "Tue, 10 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "OSINT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OSINT",
         "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michel Blanc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Blanc",
-        "pubdate": "Tue, 10 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Louane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louane",
-        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -103,6 +103,13 @@
       {
         "title": "Conflit israelo palestinien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Conflit%20israelo%20palestinien",
+        "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PS5 Slim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PS5%20Slim",
         "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ari Assuied",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ari%20Assuied",
         "pubdate": "Tue, 10 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glyphosate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glyphosate",
-        "pubdate": "Tue, 10 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
