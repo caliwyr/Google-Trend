@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2023 , 18:40:51",
+  "lastUpdate": "11-10-2023 , 18:50:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Guardian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guardian",
         "pubdate": "Wed, 11 Oct 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "RSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV",
+        "pubdate": "Wed, 11 Oct 2023 21:00:00 +0300"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Baltic Connector",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Baltic%20Connector",
-        "pubdate": "Tue, 10 Oct 2023 16:00:00 +0300"
+        "title": "Mia Khalifa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mia%20Khalifa",
+        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Mia Khalifa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mia%20Khalifa",
-        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0300"
+        "title": "Balticconnector",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Balticconnector",
+        "pubdate": "Tue, 10 Oct 2023 17:00:00 +0300"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Washingtonpost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Washingtonpost",
+        "title": "Washington Post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Washington%20Post",
         "pubdate": "Tue, 10 Oct 2023 23:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Robert F. Kennedy Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robert%20F.%20Kennedy%20Jr",
         "pubdate": "Tue, 10 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Simone Biles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Simone%20Biles",
-        "pubdate": "Mon, 09 Oct 2023 13:00:00 +0300"
       }
     ]
   ]
