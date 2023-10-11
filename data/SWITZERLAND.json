@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2023 , 21:42:50",
+  "lastUpdate": "11-10-2023 , 21:52:22",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+        "pubdate": "Wed, 11 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karim Adeyemi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karim%20Adeyemi",
+        "pubdate": "Wed, 11 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NHL",
         "pubdate": "Wed, 11 Oct 2023 03:00:00 +0200"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Charles Oliveira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Oliveira",
-        "pubdate": "Wed, 11 Oct 2023 14:00:00 +0200"
+        "title": "Jada Pinkett Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jada%20Pinkett%20Smith",
+        "pubdate": "Wed, 11 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Jada Pinkett Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jada%20Pinkett%20Smith",
+        "title": "Line Renaud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Line%20Renaud",
         "pubdate": "Wed, 11 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -55,27 +69,6 @@
         "title": "Gigi Hadid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gigi%20Hadid",
         "pubdate": "Wed, 11 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karim Adeyemi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karim%20Adeyemi",
-        "pubdate": "Wed, 11 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
-        "pubdate": "Wed, 11 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Line Renaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Line%20Renaud",
-        "pubdate": "Wed, 11 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Fagioli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fagioli",
+        "pubdate": "Wed, 11 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kefir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kefir",
         "pubdate": "Wed, 11 Oct 2023 16:00:00 +0200"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Fagioli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fagioli",
-        "pubdate": "Wed, 11 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lords of the Fallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lords%20of%20the%20Fallen",
         "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Rammstein Tour 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein%20Tour%202024",
-        "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
+        "title": "Jason Momoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jason%20Momoa",
+        "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eden Hazard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eden%20Hazard",
-        "pubdate": "Tue, 10 Oct 2023 12:00:00 +0200"
+        "title": "Mary Lou Retton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mary%20Lou%20Retton",
+        "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rammstein Tour 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein%20Tour%202024",
+        "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
       }
     ]
   ]
