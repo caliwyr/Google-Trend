@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2023 , 08:48:56",
+  "lastUpdate": "11-10-2023 , 08:58:09",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Dolar blue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20blue",
+        "pubdate": "Tue, 10 Oct 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "PS5 Slim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PS5%20Slim",
         "pubdate": "Tue, 10 Oct 2023 18:00:00 -0300"
@@ -69,13 +76,6 @@
         "title": "Chef Michael Chiarello",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chef%20Michael%20Chiarello",
         "pubdate": "Tue, 10 Oct 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dia de la Salud Mental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20la%20Salud%20Mental",
-        "pubdate": "Tue, 10 Oct 2023 17:00:00 -0300"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Fondo de cesantia Solidario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fondo%20de%20cesantia%20Solidario",
-        "pubdate": "Tue, 10 Oct 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Jarry vs Schwartzman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jarry%20vs%20Schwartzman",
         "pubdate": "Tue, 10 Oct 2023 16:00:00 -0300"
@@ -122,9 +115,16 @@
     ],
     [
       {
-        "title": "Dolar blue Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20blue%20Argentina",
-        "pubdate": "Tue, 10 Oct 2023 13:00:00 -0300"
+        "title": "Fondo de cesantia Solidario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fondo%20de%20cesantia%20Solidario",
+        "pubdate": "Tue, 10 Oct 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dia de la Salud Mental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20la%20Salud%20Mental",
+        "pubdate": "Tue, 10 Oct 2023 17:00:00 -0300"
       }
     ],
     [
