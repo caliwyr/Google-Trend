@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-10-2023 , 09:44:55",
+  "lastUpdate": "11-10-2023 , 09:54:23",
   "data": [
     [
       {
         "title": "Justin Bieber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Justin%20Bieber",
         "pubdate": "Wed, 11 Oct 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Eliminatórias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eliminat%C3%B3rias",
+        "pubdate": "Wed, 11 Oct 2023 04:00:00 -0500"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Bunker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bunker",
-        "pubdate": "Tue, 10 Oct 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
         "pubdate": "Tue, 10 Oct 2023 09:00:00 -0500"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "MST",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MST",
+        "pubdate": "Tue, 10 Oct 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ada Lovelace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ada%20Lovelace",
         "pubdate": "Tue, 10 Oct 2023 11:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "MST",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MST",
-        "pubdate": "Tue, 10 Oct 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inconstitucional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inconstitucional",
-        "pubdate": "Tue, 10 Oct 2023 15:00:00 -0500"
+        "title": "Cena 2k23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cena%202k23",
+        "pubdate": "Tue, 10 Oct 2023 18:00:00 -0500"
       }
     ]
   ]
