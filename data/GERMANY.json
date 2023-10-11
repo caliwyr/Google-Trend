@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-10-2023 , 11:42:28",
+  "lastUpdate": "11-10-2023 , 11:51:51",
   "data": [
+    [
+      {
+        "title": "Amazon Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
+        "pubdate": "Wed, 11 Oct 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Birkenstock",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Rammstein-Tour 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein-Tour%202024",
+        "title": "Rammstein Tour 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein%20Tour%202024",
         "pubdate": "Tue, 10 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amazon Prime Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
-        "pubdate": "Tue, 10 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "In aller freundschaft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#In%20aller%20freundschaft",
+        "pubdate": "Tue, 10 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Starlink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starlink",
         "pubdate": "Tue, 10 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Was ist ein kibbuz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Was%20ist%20ein%20kibbuz",
+        "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
-        "pubdate": "Sat, 07 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wahlen Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlen%20Bayern",
         "pubdate": "Sat, 07 Oct 2023 21:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Bayern Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Wahl",
-        "pubdate": "Sat, 07 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wahl bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20bayern",
-        "pubdate": "Sat, 07 Oct 2023 18:00:00 +0200"
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
+        "pubdate": "Sat, 07 Oct 2023 09:00:00 +0200"
       }
     ]
   ]
