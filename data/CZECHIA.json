@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2023 , 13:41:14",
+  "lastUpdate": "12-10-2023 , 13:50:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
         "pubdate": "Thu, 12 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HC slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20slavia",
+        "pubdate": "Thu, 12 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Pianista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pianista",
-        "pubdate": "Wed, 11 Oct 2023 02:00:00 +0200"
+        "title": "Richard Krajčo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Kraj%C4%8Do",
+        "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Richard Krajčo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Kraj%C4%8Do",
-        "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
+        "title": "Pianista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pianista",
+        "pubdate": "Wed, 11 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Forbes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-        "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "eXtra.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#eXtra.cz",
         "pubdate": "Tue, 10 Oct 2023 21:00:00 +0200"
       }
     ]
