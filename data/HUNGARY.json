@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2023 , 08:47:28",
+  "lastUpdate": "12-10-2023 , 08:56:42",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Vona Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vona%20G%C3%A1bor",
         "pubdate": "Thu, 12 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Police.hu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Police.hu",
+        "pubdate": "Wed, 11 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Luton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luton",
-        "pubdate": "Wed, 11 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Will Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Will%20Smith",
         "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Győzike Fradi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C5%91zike%20Fradi",
-        "pubdate": "Wed, 11 Oct 2023 07:00:00 +0200"
+        "title": "Luton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luton",
+        "pubdate": "Wed, 11 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Győzike Fradi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C5%91zike%20Fradi",
+        "pubdate": "Wed, 11 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Iványi Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iv%C3%A1nyi%20G%C3%A1bor",
         "pubdate": "Wed, 11 Oct 2023 22:00:00 +0200"
@@ -103,7 +110,7 @@
       {
         "title": "Azahriah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Azahriah",
-        "pubdate": "Tue, 10 Oct 2023 10:00:00 +0200"
+        "pubdate": "Tue, 10 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rammstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rammstein",
         "pubdate": "Tue, 10 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koncz Zsuzsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koncz%20Zsuzsa",
-        "pubdate": "Tue, 10 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
