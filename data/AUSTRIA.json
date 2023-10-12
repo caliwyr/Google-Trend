@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "12-10-2023 , 05:44:17",
+  "lastUpdate": "12-10-2023 , 05:53:43",
   "data": [
     [
       {
-        "title": "Birkenstock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Birkenstock",
+        "title": "Birkenstock-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Birkenstock-Aktie",
         "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Forsthaus Rampensau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Forsthaus%20Rampensau",
-        "pubdate": "Wed, 11 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pro-Palästina-Demo Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pro-Pal%C3%A4stina-Demo%20Wien",
         "pubdate": "Wed, 11 Oct 2023 21:00:00 +0200"
@@ -38,8 +31,15 @@
     ],
     [
       {
-        "title": "Aquaman 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aquaman%202",
+        "title": "Forsthaus Rampensau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Forsthaus%20Rampensau",
+        "pubdate": "Wed, 11 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amber Heard Aquaman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Amber%20Heard%20Aquaman",
         "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "Wagna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wagna",
         "pubdate": "Wed, 11 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rosenheim-Cops",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenheim-Cops",
-        "pubdate": "Wed, 11 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
         "pubdate": "Wed, 11 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burrata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Burrata",
+        "pubdate": "Wed, 11 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
