@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2023 , 02:46:14",
+  "lastUpdate": "12-10-2023 , 02:55:32",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20Open",
+        "pubdate": "Thu, 12 Oct 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Juul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Juul",
         "pubdate": "Thu, 12 Oct 2023 00:00:00 +1100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20Open",
-        "pubdate": "Thu, 12 Oct 2023 11:00:00 +1100"
+        "title": "Ron Coote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ron%20Coote",
+        "pubdate": "Thu, 12 Oct 2023 09:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Taylor Adams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Adams",
         "pubdate": "Wed, 11 Oct 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Jerry Seinfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jerry%20Seinfeld",
-        "pubdate": "Wed, 11 Oct 2023 01:00:00 +1100"
       }
     ]
   ]

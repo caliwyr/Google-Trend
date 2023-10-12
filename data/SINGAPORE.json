@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2023 , 02:46:24",
+  "lastUpdate": "12-10-2023 , 02:55:44",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "MYAirline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MYAirline",
+        "title": "Birkenstock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Birkenstock",
         "pubdate": "Thu, 12 Oct 2023 09:00:00 +0800"
       }
     ],
@@ -24,30 +24,9 @@
     ],
     [
       {
-        "title": "Birkenstock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Birkenstock",
-        "pubdate": "Thu, 12 Oct 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "IND vs AFG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20AFG",
         "pubdate": "Wed, 11 Oct 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "PS5 Slim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PS5%20Slim",
-        "pubdate": "Wed, 11 Oct 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
-        "pubdate": "Wed, 11 Oct 2023 19:00:00 +0800"
       }
     ],
     [
@@ -59,9 +38,23 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
+        "pubdate": "Wed, 11 Oct 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Louis Koo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Louis%20Koo",
         "pubdate": "Wed, 11 Oct 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "PS5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PS5",
+        "pubdate": "Wed, 11 Oct 2023 11:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Oil price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Oil%20price",
         "pubdate": "Mon, 09 Oct 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Virat Kohli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Virat%20Kohli",
+        "pubdate": "Mon, 09 Oct 2023 00:00:00 +0800"
       }
     ]
   ]
