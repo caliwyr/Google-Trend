@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-10-2023 , 03:43:00",
+  "lastUpdate": "12-10-2023 , 03:52:15",
   "data": [
+    [
+      {
+        "title": "Polls NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Polls%20NZ",
+        "pubdate": "Thu, 12 Oct 2023 00:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Caroline Ellison",
@@ -27,6 +34,13 @@
         "title": "Paulo Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Paulo%20Costa",
         "pubdate": "Thu, 12 Oct 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Eddie Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eddie%20Jones",
+        "pubdate": "Thu, 12 Oct 2023 16:00:00 +1300"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "House Rules NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#House%20Rules%20NZ",
-        "pubdate": "Wed, 11 Oct 2023 15:00:00 +1300"
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
+        "pubdate": "Wed, 11 Oct 2023 21:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tom Mulholland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Mulholland",
         "pubdate": "Tue, 10 Oct 2023 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "England vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Bangladesh",
-        "pubdate": "Tue, 10 Oct 2023 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Sri Lanka vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20Pakistan",
-        "pubdate": "Tue, 10 Oct 2023 22:00:00 +1300"
       }
     ]
   ]
