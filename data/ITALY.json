@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-10-2023 , 14:39:37",
+  "lastUpdate": "12-10-2023 , 14:48:49",
   "data": [
-    [
-      {
-        "title": "Bruno Vespa ultime notizie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bruno%20Vespa%20ultime%20notizie",
-        "pubdate": "Thu, 12 Oct 2023 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Carlo Acutis",
@@ -17,15 +10,22 @@
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Will%20Smith",
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lukaku",
         "pubdate": "Thu, 12 Oct 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lukaku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lukaku",
+        "title": "Bruno Vespa ultime notizie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bruno%20Vespa%20ultime%20notizie",
+        "pubdate": "Thu, 12 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Will%20Smith",
         "pubdate": "Thu, 12 Oct 2023 10:00:00 +0200"
       }
     ],
@@ -59,44 +59,9 @@
     ],
     [
       {
-        "title": "Self/Less",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Self/Less",
-        "pubdate": "Thu, 12 Oct 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maria Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maria%20Callas",
-        "pubdate": "Thu, 12 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lenny Kravitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lenny%20Kravitz",
-        "pubdate": "Thu, 12 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bronzetti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bronzetti",
-        "pubdate": "Thu, 12 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cristoforo Colombo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cristoforo%20Colombo",
-        "pubdate": "Thu, 12 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Unica",
-        "pubdate": "Thu, 12 Oct 2023 12:00:00 +0200"
+        "title": "Korda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Korda",
+        "pubdate": "Thu, 12 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -108,9 +73,23 @@
     ],
     [
       {
-        "title": "Charles Feeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charles%20Feeney",
-        "pubdate": "Thu, 12 Oct 2023 01:00:00 +0200"
+        "title": "Self/Less",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Self/Less",
+        "pubdate": "Thu, 12 Oct 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lenny Kravitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lenny%20Kravitz",
+        "pubdate": "Thu, 12 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maria Callas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maria%20Callas",
+        "pubdate": "Thu, 12 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,23 +101,44 @@
     ],
     [
       {
+        "title": "Bronzetti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bronzetti",
+        "pubdate": "Thu, 12 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Blinken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blinken",
+        "pubdate": "Thu, 12 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Unica",
+        "pubdate": "Thu, 12 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charles Feeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charles%20Feeney",
+        "pubdate": "Thu, 12 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Columbus Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Columbus%20Day",
+        "pubdate": "Thu, 12 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fagioli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fagioli",
         "pubdate": "Wed, 11 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cimici da letto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cimici%20da%20letto",
-        "pubdate": "Wed, 11 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anima gemella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anima%20gemella",
-        "pubdate": "Wed, 11 Oct 2023 14:00:00 +0200"
       }
     ]
   ]
