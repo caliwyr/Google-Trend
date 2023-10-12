@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "12-10-2023 , 18:42:25",
+  "lastUpdate": "12-10-2023 , 18:51:46",
   "data": [
+    [
+      {
+        "title": "Turkiye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Turkiye",
+        "pubdate": "Thu, 12 Oct 2023 17:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Son depremler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
         "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Milli takım",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Milli%20tak%C4%B1m",
+        "pubdate": "Thu, 12 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Türkiye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye",
-        "pubdate": "Thu, 12 Oct 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Duygu Nebioğlu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Duygu%20Nebio%C4%9Flu",
         "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
@@ -31,15 +38,8 @@
     ],
     [
       {
-        "title": "Türkiye milli takım",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye%20milli%20tak%C4%B1m",
-        "pubdate": "Thu, 12 Oct 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Tarım Kredi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tar%C4%B1m%20Kredi",
+        "title": "Halep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Halep",
         "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
       }
     ],
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Halep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Halep",
+        "title": "Tarım Kredi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tar%C4%B1m%20Kredi",
         "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "12 Ekim A101 kataloğu 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#12%20Ekim%20A101%20katalo%C4%9Fu%202023",
         "pubdate": "Thu, 12 Oct 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Abdullah Avcı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Abdullah%20Avc%C4%B1",
-        "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
       }
     ],
     [
@@ -87,23 +80,16 @@
     ],
     [
       {
+        "title": "Tab Gıda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tab%20G%C4%B1da",
+        "pubdate": "Thu, 12 Oct 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Vuslat Doğan Sabancı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Vuslat%20Do%C4%9Fan%20Sabanc%C4%B1",
         "pubdate": "Thu, 12 Oct 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "EVDE BAKIM MAAŞI YATAN İLLER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EVDE%20BAKIM%20MAA%C5%9EI%20YATAN%20%C4%B0LLER",
-        "pubdate": "Thu, 12 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ebru Şancı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ebru%20%C5%9Eanc%C4%B1",
-        "pubdate": "Thu, 12 Oct 2023 15:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Fosfor bombası",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fosfor%20bombas%C4%B1",
         "pubdate": "Wed, 11 Oct 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İstanbul deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbul%20deprem",
+        "pubdate": "Wed, 11 Oct 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Krem karamel tarifi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Krem%20karamel%20tarifi",
+        "pubdate": "Wed, 11 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
