@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 13:48:01",
+  "lastUpdate": "13-10-2023 , 13:57:19",
   "data": [
     [
       {
@@ -31,15 +31,22 @@
     ],
     [
       {
-        "title": "Spanien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spanien",
-        "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
+        "title": "Red Bull Rampage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Red%20Bull%20Rampage",
+        "pubdate": "Fri, 13 Oct 2023 15:00:00 +0200"
       }
     ],
     [
       {
         "title": "EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM",
+        "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spanien",
         "pubdate": "Fri, 13 Oct 2023 13:00:00 +0200"
       }
     ],
@@ -61,14 +68,7 @@
       {
         "title": "Österreich Belgien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20Belgien",
-        "pubdate": "Thu, 12 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Felix Gall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felix%20Gall",
-        "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
+        "pubdate": "Thu, 12 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Felix Gall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felix%20Gall",
+        "pubdate": "Thu, 12 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Spanien gegen Schottland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spanien%20gegen%20Schottland",
         "pubdate": "Thu, 12 Oct 2023 21:00:00 +0200"
@@ -115,8 +122,15 @@
     ],
     [
       {
-        "title": "Albanien - Tschechien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Albanien%20-%20Tschechien",
+        "title": "Albanien Tschechien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Albanien%20Tschechien",
+        "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sportler des Jahres 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sportler%20des%20Jahres%202023",
         "pubdate": "Thu, 12 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Erdbeben heute",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erdbeben%20heute",
         "pubdate": "Thu, 12 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei",
-        "pubdate": "Thu, 12 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lords of the Fallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lords%20of%20the%20Fallen",
-        "pubdate": "Thu, 12 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
