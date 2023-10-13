@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 03:50:52",
+  "lastUpdate": "13-10-2023 , 04:00:06",
   "data": [
     [
       {
@@ -10,15 +10,15 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
+        "title": "Brazil vs Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil%20vs%20Venezuela",
         "pubdate": "Fri, 13 Oct 2023 04:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Brazil vs Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil%20vs%20Venezuela",
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
         "pubdate": "Fri, 13 Oct 2023 04:00:00 +0300"
       }
     ],
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "World Athletics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#World%20Athletics",
-        "pubdate": "Thu, 12 Oct 2023 17:00:00 +0300"
+        "title": "Chile vs Peru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chile%20vs%20Peru",
+        "pubdate": "Thu, 12 Oct 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bigfoot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bigfoot",
+        "pubdate": "Thu, 12 Oct 2023 22:00:00 +0300"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Bigfoot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bigfoot",
-        "pubdate": "Thu, 12 Oct 2023 22:00:00 +0300"
+        "title": "World Athletics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#World%20Athletics",
+        "pubdate": "Thu, 12 Oct 2023 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hamas Israel war",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hamas%20Israel%20war",
         "pubdate": "Wed, 11 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wales vs Gibraltar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wales%20vs%20Gibraltar",
-        "pubdate": "Wed, 11 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
