@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 08:48:56",
+  "lastUpdate": "13-10-2023 , 08:58:26",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Argentina vs Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Argentina%20vs%20Paraguay",
-        "pubdate": "Fri, 13 Oct 2023 13:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Logan Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Logan%20Paul",
         "pubdate": "Fri, 13 Oct 2023 16:00:00 +1300"
@@ -45,8 +38,22 @@
     ],
     [
       {
+        "title": "Argentina vs Paraguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Argentina%20vs%20Paraguay",
+        "pubdate": "Fri, 13 Oct 2023 13:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Lincoln",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lincoln",
+        "pubdate": "Fri, 13 Oct 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Euro qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Euro%20qualifiers",
         "pubdate": "Fri, 13 Oct 2023 10:00:00 +1300"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Stallion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stallion",
+        "pubdate": "Fri, 13 Oct 2023 20:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Brazil vs Venezuela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brazil%20vs%20Venezuela",
         "pubdate": "Fri, 13 Oct 2023 20:00:00 +1300"
@@ -125,20 +139,6 @@
         "title": "Leaders' debate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leaders'%20debate",
         "pubdate": "Thu, 12 Oct 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Australia",
-        "pubdate": "Thu, 12 Oct 2023 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Silver Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silver%20Ferns",
-        "pubdate": "Thu, 12 Oct 2023 22:00:00 +1300"
       }
     ]
   ]
