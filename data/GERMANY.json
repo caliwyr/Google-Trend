@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-10-2023 , 19:43:23",
+  "lastUpdate": "13-10-2023 , 19:51:50",
   "data": [
     [
       {
         "title": "El Niño Winter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ni%C3%B1o%20Winter",
         "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20USA",
+        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,23 @@
     ],
     [
       {
+        "title": "Annalena Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Annalena%20Baerbock",
+        "pubdate": "Fri, 13 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "A94 Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#A94%20Unfall",
         "pubdate": "Fri, 13 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frankreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich",
+        "pubdate": "Fri, 13 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Doro Pesch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Doro%20Pesch",
-        "pubdate": "Thu, 12 Oct 2023 10:00:00 +0200"
+        "title": "Hamas Gaza Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamas%20Gaza%20Israel",
+        "pubdate": "Thu, 12 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "AfD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
         "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlen",
-        "pubdate": "Sun, 08 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Landtagswahlen Bayern Hessen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Landtagswahlen%20Bayern%20Hessen",
-        "pubdate": "Sun, 08 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prime Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Day",
-        "pubdate": "Sun, 08 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
