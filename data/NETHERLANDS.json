@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 21:44:33",
+  "lastUpdate": "13-10-2023 , 21:53:57",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Fri, 13 Oct 2023 19:00:00 +0200"
+        "title": "Ek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ek",
+        "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
+        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Griekenland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekenland",
+        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Universiteit Leiden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Universiteit%20Leiden",
         "pubdate": "Fri, 13 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nederlands elftal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
+        "pubdate": "Thu, 12 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Afghanistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Afghanistan",
         "pubdate": "Sun, 08 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luke Combs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luke%20Combs",
-        "pubdate": "Sun, 08 Oct 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 07 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Israel",
-        "pubdate": "Sat, 07 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
