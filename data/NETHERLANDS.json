@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2023 , 15:52:30",
+  "lastUpdate": "14-10-2023 , 16:07:29",
   "data": [
     [
       {
@@ -17,16 +17,9 @@
     ],
     [
       {
-        "title": "Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Fri, 13 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Verbruggen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verbruggen",
-        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+        "title": "Arras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arras",
+        "pubdate": "Fri, 13 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Frankrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frankrijk",
-        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+        "title": "Weghorst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weghorst",
+        "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Weghorst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weghorst",
-        "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
+        "title": "Oranje Frankrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje%20Frankrijk",
+        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Mon, 09 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 08 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
