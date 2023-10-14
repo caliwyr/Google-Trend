@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2023 , 16:54:15",
+  "lastUpdate": "14-10-2023 , 17:08:07",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Joran van der Sloot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joran%20van%20der%20Sloot",
-        "pubdate": "Sat, 14 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arras",
-        "pubdate": "Fri, 13 Oct 2023 16:00:00 +0200"
+        "title": "Verbruggen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verbruggen",
+        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Voetbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
         "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Griezmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griezmann",
+        "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Frankrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frankrijk",
+        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Weghorst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weghorst",
         "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Universiteit Leiden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Universiteit%20Leiden",
-        "pubdate": "Fri, 13 Oct 2023 17:00:00 +0200"
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MotoGP",
+        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MotoGP",
-        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
+        "title": "Universiteit Leiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Universiteit%20Leiden",
+        "pubdate": "Fri, 13 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Mon, 09 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sun, 08 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
