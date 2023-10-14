@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2023 , 21:56:16",
+  "lastUpdate": "14-10-2023 , 22:11:14",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia",
+        "title": "Ottawa Senators",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
+        "pubdate": "Sat, 14 Oct 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Australia referendum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20referendum",
         "pubdate": "Sat, 14 Oct 2023 13:00:00 -0400"
       }
     ],
@@ -24,23 +31,23 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
-        "pubdate": "Sat, 14 Oct 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Logan Cooley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Logan%20Cooley",
-        "pubdate": "Sat, 14 Oct 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "USA vs Germany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#USA%20vs%20Germany",
         "pubdate": "Sat, 14 Oct 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ireland vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ireland%20vs%20New%20Zealand",
+        "pubdate": "Sat, 14 Oct 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
+        "pubdate": "Sat, 14 Oct 2023 03:00:00 -0400"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "James Harden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Harden",
-        "pubdate": "Sat, 14 Oct 2023 12:00:00 -0400"
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyson%20Fury",
+        "pubdate": "Sat, 14 Oct 2023 17:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Ireland vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ireland%20vs%20New%20Zealand",
-        "pubdate": "Sat, 14 Oct 2023 16:00:00 -0400"
+        "title": "James Harden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Harden",
+        "pubdate": "Sat, 14 Oct 2023 12:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "White phosphorus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#White%20phosphorus",
         "pubdate": "Fri, 13 Oct 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "The Burial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Burial",
-        "pubdate": "Fri, 13 Oct 2023 10:00:00 -0400"
       }
     ]
   ]
