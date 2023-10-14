@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2023 , 23:58:22",
+  "lastUpdate": "14-10-2023 , 01:10:56",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei",
-        "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
+        "title": "Deutschland USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20USA",
+        "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "A94 Unfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#A94%20Unfall",
-        "pubdate": "Fri, 13 Oct 2023 10:00:00 +0200"
+        "title": "Türkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei",
+        "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U21",
+        "title": "Chemie Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chemie%20Leipzig",
         "pubdate": "Fri, 13 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freitag, der 13",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freitag,%20der%2013",
-        "pubdate": "Thu, 12 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Doro Pesch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Doro%20Pesch",
-        "pubdate": "Thu, 12 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Hessen-Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hessen-Wahl",
         "pubdate": "Sun, 08 Oct 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Sun, 08 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 08 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
