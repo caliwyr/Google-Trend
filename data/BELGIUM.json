@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-10-2023 , 11:56:05",
+  "lastUpdate": "15-10-2023 , 12:23:15",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Changement d'heure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Changement%20d'heure",
-        "pubdate": "Sun, 15 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marathon Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Amsterdam",
         "pubdate": "Sun, 15 Oct 2023 01:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris",
-        "pubdate": "Sun, 15 Oct 2023 00:00:00 +0200"
+        "title": "Changement d'heure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Changement%20d'heure",
+        "pubdate": "Sun, 15 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Piper Laurie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Piper%20Laurie",
         "pubdate": "Sun, 15 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris",
+        "pubdate": "Sun, 15 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Éclipse solaire 14 octobre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89clipse%20solaire%2014%20octobre",
+        "title": "EK-kwalificatie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EK-kwalificatie",
         "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
       }
     ],
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Éclipse solaire 14 octobre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89clipse%20solaire%2014%20octobre",
+        "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KSI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KSI",
         "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Roch Voisine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roch%20Voisine",
+        "title": "Roch Voisine!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roch%20Voisine!",
         "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Toon Aerts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toon%20Aerts",
         "pubdate": "Sat, 14 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vertonghen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vertonghen",
-        "pubdate": "Sat, 14 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
