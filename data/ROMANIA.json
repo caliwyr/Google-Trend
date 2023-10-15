@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-10-2023 , 16:47:53",
+  "lastUpdate": "15-10-2023 , 16:57:14",
   "data": [
+    [
+      {
+        "title": "Fotbal romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fotbal%20romania",
+        "pubdate": "Sun, 15 Oct 2023 19:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Rugby",
@@ -48,6 +55,13 @@
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Paris",
         "pubdate": "Sun, 15 Oct 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
+        "pubdate": "Sun, 15 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sfanta Parascheva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfanta%20Parascheva",
         "pubdate": "Fri, 13 Oct 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Hezbollah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hezbollah",
-        "pubdate": "Fri, 13 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "EURO 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#EURO%202024",
-        "pubdate": "Fri, 13 Oct 2023 03:00:00 +0300"
       }
     ]
   ]
