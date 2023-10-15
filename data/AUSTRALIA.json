@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-10-2023 , 05:51:46",
+  "lastUpdate": "15-10-2023 , 06:07:27",
   "data": [
+    [
+      {
+        "title": "Boxing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
+        "pubdate": "Sun, 15 Oct 2023 13:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Wales vs Argentina",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "USA vs Germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20vs%20Germany",
-        "pubdate": "Sun, 15 Oct 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "ACT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ACT",
         "pubdate": "Sun, 15 Oct 2023 11:00:00 +1100"
@@ -48,6 +48,13 @@
         "title": "Johnny Sexton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Johnny%20Sexton",
         "pubdate": "Sun, 15 Oct 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Edson Barboza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Edson%20Barboza",
+        "pubdate": "Sun, 15 Oct 2023 16:00:00 +1100"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "NZ election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NZ%20election",
-        "pubdate": "Sat, 14 Oct 2023 11:00:00 +1100"
+        "title": "Tim Tszyu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
+        "pubdate": "Sat, 14 Oct 2023 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Tim Tszyu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
-        "pubdate": "Sat, 14 Oct 2023 20:00:00 +1100"
+        "title": "NZ election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NZ%20election",
+        "pubdate": "Sat, 14 Oct 2023 11:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sky News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sky%20News",
         "pubdate": "Sat, 14 Oct 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Peter Dutton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Dutton",
-        "pubdate": "Sat, 14 Oct 2023 22:00:00 +1100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-10-2023 , 05:51:56",
+  "lastUpdate": "15-10-2023 , 06:07:36",
   "data": [
+    [
+      {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rugby",
+        "pubdate": "Sun, 15 Oct 2023 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Paris",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rugby",
-        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ironman Hawaii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ironman%20Hawaii",
         "pubdate": "Sat, 14 Oct 2023 19:00:00 +0200"
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "All Blacks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#All%20Blacks",
+        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "James Bond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Bond",
         "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Sonnenfinsternis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonnenfinsternis",
-        "pubdate": "Sat, 14 Oct 2023 19:00:00 +0200"
+        "title": "Daniela Ryf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniela%20Ryf",
+        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Daniela Ryf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniela%20Ryf",
-        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
+        "title": "Sonnenfinsternis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonnenfinsternis",
+        "pubdate": "Sat, 14 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTL",
-        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Madonna",
         "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Louvre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louvre",
-        "pubdate": "Sat, 14 Oct 2023 17:00:00 +0200"
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTL",
+        "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
