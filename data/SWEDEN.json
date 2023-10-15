@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-10-2023 , 04:53:55",
+  "lastUpdate": "15-10-2023 , 05:08:25",
   "data": [
-    [
-      {
-        "title": "Henrik Lundqvist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Lundqvist",
-        "pubdate": "Sun, 15 Oct 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Piper Laurie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Piper%20Laurie",
         "pubdate": "Sun, 15 Oct 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Henrik Lundqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Lundqvist",
+        "pubdate": "Sun, 15 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Frölunda HC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20HC",
-        "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reuters",
         "pubdate": "Sat, 14 Oct 2023 12:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Sara Skyttedal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Skyttedal",
-        "pubdate": "Fri, 13 Oct 2023 18:00:00 +0200"
+        "title": "Per Gessle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Gessle",
+        "pubdate": "Fri, 13 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nybro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nybro",
+        "pubdate": "Fri, 13 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
