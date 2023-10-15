@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-10-2023 , 10:56:06",
+  "lastUpdate": "15-10-2023 , 11:09:20",
   "data": [
-    [
-      {
-        "title": "Kibbutz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kibbutz",
-        "pubdate": "Sun, 15 Oct 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jordie Benn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jordie%20Benn",
         "pubdate": "Sun, 15 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kibbutz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kibbutz",
+        "pubdate": "Sun, 15 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Estonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Estonia",
+        "pubdate": "Sat, 14 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Knives Out",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Knives%20Out",
         "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Michael Caine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michael%20Caine",
-        "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Maria Lundqvist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maria%20Lundqvist",
         "pubdate": "Sat, 14 Oct 2023 20:00:00 +0200"
@@ -69,13 +69,6 @@
         "title": "Modo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo",
         "pubdate": "Sat, 14 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ross Andrew Paquette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ross%20Andrew%20Paquette",
-        "pubdate": "Sat, 14 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Zara Larsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zara%20Larsson",
         "pubdate": "Fri, 13 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sara Skyttedal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Skyttedal",
+        "pubdate": "Fri, 13 Oct 2023 18:00:00 +0200"
       }
     ],
     [
