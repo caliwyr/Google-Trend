@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-10-2023 , 12:44:44",
+  "lastUpdate": "15-10-2023 , 12:57:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Piper Laurie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Piper%20Laurie",
         "pubdate": "Sun, 15 Oct 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Rohit Sharma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rohit%20Sharma",
+        "pubdate": "Sun, 15 Oct 2023 01:00:00 +1100"
       }
     ],
     [
@@ -33,6 +40,13 @@
       {
         "title": "John Farnham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Farnham",
+        "pubdate": "Sun, 15 Oct 2023 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Navratri 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Navratri%202023",
         "pubdate": "Sun, 15 Oct 2023 17:00:00 +1100"
       }
     ],
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Denzel Washington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Denzel%20Washington",
-        "pubdate": "Sun, 15 Oct 2023 22:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Edson Barboza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Edson%20Barboza",
         "pubdate": "Sun, 15 Oct 2023 16:00:00 +1100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Logan Paul vs Dillon Danis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Logan%20Paul%20vs%20Dillon%20Danis",
-        "pubdate": "Sat, 14 Oct 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "ABC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20news",
         "pubdate": "Sat, 14 Oct 2023 20:00:00 +1100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "NZ election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NZ%20election",
-        "pubdate": "Sat, 14 Oct 2023 11:00:00 +1100"
+        "title": "Logan Paul vs Dillon Danis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Logan%20Paul%20vs%20Dillon%20Danis",
+        "pubdate": "Sat, 14 Oct 2023 10:00:00 +1100"
       }
     ]
   ]
