@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 02:57:21",
+  "lastUpdate": "16-10-2023 , 03:15:44",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Afghanistan vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Afghanistan%20vs%20England",
         "pubdate": "Sun, 15 Oct 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Norway vs Spain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Norway%20vs%20Spain",
-        "pubdate": "Sun, 15 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Norway vs Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Norway%20vs%20Spain",
+        "pubdate": "Sun, 15 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arsenal vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal%20vs%20Aston%20Villa",
         "pubdate": "Sun, 15 Oct 2023 15:00:00 +0100"
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Conor%20McGregor",
-        "pubdate": "Sun, 15 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Ex-Wife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Ex-Wife",
-        "pubdate": "Sun, 15 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jim Ratcliffe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jim%20Ratcliffe",
         "pubdate": "Sun, 15 Oct 2023 17:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Jody Strictly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jody%20Strictly",
         "pubdate": "Sun, 15 Oct 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "US",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#US",
+        "pubdate": "Sun, 15 Oct 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Giggs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Giggs",
+        "pubdate": "Sun, 15 Oct 2023 00:00:00 +0100"
       }
     ]
   ]
