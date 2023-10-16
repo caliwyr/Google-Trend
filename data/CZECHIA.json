@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 06:59:24",
+  "lastUpdate": "16-10-2023 , 07:17:08",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Donald Tusk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Donald%20Tusk",
         "pubdate": "Sun, 15 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tommy Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tommy%20Fury",
+        "pubdate": "Sun, 15 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Faerské ostrovy fotbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Faersk%C3%A9%20ostrovy%20fotbal",
-        "pubdate": "Sun, 15 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Siniakova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
         "pubdate": "Sun, 15 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "All Blacks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#All%20Blacks",
-        "pubdate": "Sun, 15 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Petr Štěpánek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20%C5%A0t%C4%9Bp%C3%A1nek",
+        "pubdate": "Sat, 14 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Prachař",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pracha%C5%99",
         "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "KSI vs Tommy Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSI%20vs%20Tommy%20Fury",
-        "pubdate": "Sat, 14 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ewa Farna koncert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ewa%20Farna%20koncert",
         "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jan Kraus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Kraus",
-        "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Kraus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kraus",
+        "title": "Karel Voříšek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Vo%C5%99%C3%AD%C5%A1ek",
         "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zabijáci rozkvetlého měsíce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zabij%C3%A1ci%20rozkvetl%C3%A9ho%20m%C4%9Bs%C3%ADce",
+        "pubdate": "Sat, 14 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michael Caine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Caine",
+        "pubdate": "Sat, 14 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
