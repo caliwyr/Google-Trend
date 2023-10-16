@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 09:56:40",
+  "lastUpdate": "16-10-2023 , 10:15:40",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "William Spetz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#William%20Spetz",
+        "pubdate": "Sun, 15 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Henrik Lundqvist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Lundqvist",
         "pubdate": "Sun, 15 Oct 2023 01:00:00 +0200"
@@ -55,6 +62,13 @@
         "title": "Knives Out",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Knives%20Out",
         "pubdate": "Sat, 14 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "E-type",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E-type",
+        "pubdate": "Sat, 14 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kerstin Ljungström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kerstin%20Ljungstr%C3%B6m",
         "pubdate": "Fri, 13 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oscar Zia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscar%20Zia",
-        "pubdate": "Fri, 13 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Willis",
-        "pubdate": "Fri, 13 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
