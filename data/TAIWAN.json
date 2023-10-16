@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 15:53:44",
+  "lastUpdate": "16-10-2023 , 16:11:48",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "黃仁勳",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E4%BB%81%E5%8B%B3",
+        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "股市",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%82%A1%E5%B8%82",
         "pubdate": "Mon, 16 Oct 2023 10:00:00 +0800"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "0056股價",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#0056%E8%82%A1%E5%83%B9",
         "pubdate": "Mon, 16 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "鴻海",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E6%B5%B7",
+        "pubdate": "Mon, 16 Oct 2023 15:00:00 +0800"
       }
     ],
     [
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "緯創",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B7%AF%E5%89%B5",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "台中太陽",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E4%B8%AD%E5%A4%AA%E9%99%BD",
         "pubdate": "Mon, 16 Oct 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "機捷",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A9%9F%E6%8D%B7",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0800"
       }
     ],
     [
@@ -94,23 +122,9 @@
     ],
     [
       {
-        "title": "鴻海",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E6%B5%B7",
-        "pubdate": "Mon, 16 Oct 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "富邦",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AF%8C%E9%82%A6",
         "pubdate": "Mon, 16 Oct 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "柯美蘭",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E7%BE%8E%E8%98%AD",
-        "pubdate": "Mon, 16 Oct 2023 22:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "FedEx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#FedEx",
         "pubdate": "Mon, 16 Oct 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "力積電",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%9B%E7%A9%8D%E9%9B%BB",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "ETC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#ETC",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 +0800"
       }
     ]
   ]
