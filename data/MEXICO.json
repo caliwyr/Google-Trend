@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-10-2023 , 21:57:41",
+  "lastUpdate": "16-10-2023 , 22:14:14",
   "data": [
-    [
-      {
-        "title": "Chivas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas",
-        "pubdate": "Mon, 16 Oct 2023 00:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Portugal vs",
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Alvaro Prieto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alvaro%20Prieto",
+        "title": "Coraline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Coraline",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Belgica vs Suecia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Belgica%20vs%20Suecia",
         "pubdate": "Mon, 16 Oct 2023 10:00:00 -0600"
       }
     ],
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Vacunacion influenza Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vacunacion%20influenza%20Covid",
+        "title": "Vacunacion influenza COVID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vacunacion%20influenza%20COVID",
         "pubdate": "Mon, 16 Oct 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Alvaro Prieto desaparecido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alvaro%20Prieto%20desaparecido",
+        "pubdate": "Mon, 16 Oct 2023 11:00:00 -0600"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Bélgica - Suecia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#B%C3%A9lgica%20-%20Suecia",
-        "pubdate": "Mon, 16 Oct 2023 14:00:00 -0600"
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jets",
+        "pubdate": "Mon, 16 Oct 2023 15:00:00 -0600"
       }
     ],
     [
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "Sandro Tonali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sandro%20Tonali",
+        "pubdate": "Mon, 16 Oct 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Carlos Rivera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Rivera",
         "pubdate": "Mon, 16 Oct 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Eclipse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse",
+        "pubdate": "Sun, 15 Oct 2023 00:00:00 -0600"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Raiders  Patriots",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Raiders%20%20Patriots",
         "pubdate": "Sun, 15 Oct 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Travis Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Travis%20Kelce",
-        "pubdate": "Sun, 15 Oct 2023 05:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Astros vs Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Astros%20vs%20Rangers",
-        "pubdate": "Sun, 15 Oct 2023 19:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Elecciones presidenciales Ecuador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Elecciones%20presidenciales%20Ecuador",
-        "pubdate": "Sun, 15 Oct 2023 21:00:00 -0600"
       }
     ]
   ]
