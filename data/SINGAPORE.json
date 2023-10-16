@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 10:59:29",
+  "lastUpdate": "16-10-2023 , 11:15:44",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Navratri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Navratri",
-        "pubdate": "Sun, 15 Oct 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Solar eclipse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Solar%20eclipse",
         "pubdate": "Sun, 15 Oct 2023 02:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
         "pubdate": "Sat, 14 Oct 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Car Expo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Car%20Expo",
+        "pubdate": "Sat, 14 Oct 2023 14:00:00 +0800"
       }
     ]
   ]
