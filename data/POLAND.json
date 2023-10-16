@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2023 , 14:56:07",
+  "lastUpdate": "16-10-2023 , 15:13:27",
   "data": [
     [
       {
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "Wiadomosci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wiadomosci",
-        "pubdate": "Mon, 16 Oct 2023 00:00:00 +0200"
+        "title": "WIG20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WIG20",
+        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "WIG20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WIG20",
+        "title": "Mateusz Morawiecki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Morawiecki",
         "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Łukasz Litewka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81ukasz%20Litewka",
         "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mateusz Morawiecki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Morawiecki",
-        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,16 +66,9 @@
     ],
     [
       {
-        "title": "Zbigniew Ziobro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zbigniew%20Ziobro",
-        "pubdate": "Mon, 16 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WP",
-        "pubdate": "Mon, 16 Oct 2023 05:00:00 +0200"
+        "title": "Kaczyński Jarosław",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kaczy%C5%84ski%20Jaros%C5%82aw",
+        "pubdate": "Mon, 16 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "RP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RP",
-        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
+        "title": "Orlen cena paliwa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orlen%20cena%20paliwa",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,8 +101,22 @@
     ],
     [
       {
+        "title": "RP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RP",
+        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "COVID-19",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#COVID-19",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dzień Szefa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Szefa",
         "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Polskie Radio 24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polskie%20Radio%2024",
+        "title": "PolskieRadio24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PolskieRadio24",
         "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
       }
     ]
