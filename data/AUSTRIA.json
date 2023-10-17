@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 02:57:05",
+  "lastUpdate": "17-10-2023 , 03:14:58",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Echtzeitalter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Echtzeitalter",
+        "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Martti Ahtisaari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martti%20Ahtisaari",
         "pubdate": "Mon, 16 Oct 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Arnautovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arnautovic",
         "pubdate": "Mon, 16 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Armin Wolf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Armin%20Wolf",
-        "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
