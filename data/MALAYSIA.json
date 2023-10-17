@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-10-2023 , 20:54:03",
+  "lastUpdate": "17-10-2023 , 21:08:39",
   "data": [
+    [
+      {
+        "title": "France vs Scotland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#France%20vs%20Scotland",
+        "pubdate": "Wed, 18 Oct 2023 03:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Netherlands vs South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Netherlands%20vs%20South%20Africa",
         "pubdate": "Tue, 17 Oct 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bosnia and Herzegovina vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bosnia%20and%20Herzegovina%20vs%20Portugal",
+        "pubdate": "Tue, 17 Oct 2023 03:00:00 +0800"
       }
     ],
     [
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "Belgium vs Sweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Belgium%20vs%20Sweden",
+        "title": "Brussels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brussels",
         "pubdate": "Tue, 17 Oct 2023 05:00:00 +0800"
       }
     ],
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Greece vs Netherlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Greece%20vs%20Netherlands",
-        "pubdate": "Tue, 17 Oct 2023 04:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "England vs Italy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20Italy",
         "pubdate": "Tue, 17 Oct 2023 18:00:00 +0800"
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Portugal vs Bosnia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Portugal%20vs%20Bosnia",
-        "pubdate": "Tue, 17 Oct 2023 07:00:00 +0800"
+        "title": "Greece vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Greece%20vs%20Netherlands",
+        "pubdate": "Tue, 17 Oct 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Portugal",
+        "pubdate": "Tue, 17 Oct 2023 08:00:00 +0800"
       }
     ],
     [
@@ -94,6 +108,20 @@
     ],
     [
       {
+        "title": "Wales vs Croatia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wales%20vs%20Croatia",
+        "pubdate": "Mon, 16 Oct 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "PDRM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PDRM",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Naomi Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Naomi%20Campbell",
         "pubdate": "Mon, 16 Oct 2023 14:00:00 +0800"
@@ -111,34 +139,6 @@
         "title": "M. Nasir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#M.%20Nasir",
         "pubdate": "Mon, 16 Oct 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Art director Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Art%20director%20Milan",
-        "pubdate": "Mon, 16 Oct 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Al Aqsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Aqsa",
-        "pubdate": "Mon, 16 Oct 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jerusalem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jerusalem",
-        "pubdate": "Sun, 15 Oct 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Afghanistan vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Afghanistan%20vs%20England",
-        "pubdate": "Sun, 15 Oct 2023 17:00:00 +0800"
       }
     ]
   ]

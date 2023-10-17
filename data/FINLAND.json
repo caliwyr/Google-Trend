@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 20:54:00",
+  "lastUpdate": "17-10-2023 , 21:08:36",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "ATACMS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ATACMS",
+        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "SVT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SVT",
         "pubdate": "Tue, 17 Oct 2023 00:00:00 +0300"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "ATACMS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ATACMS",
-        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0300"
+        "title": "Wegovy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wegovy",
+        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0300"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Geoguessr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Geoguessr",
         "pubdate": "Tue, 17 Oct 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wegovy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wegovy",
-        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0300"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Namibia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Namibia",
         "pubdate": "Mon, 16 Oct 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kofi Annan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kofi%20Annan",
+        "pubdate": "Mon, 16 Oct 2023 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Michael Caine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Michael%20Caine",
         "pubdate": "Sun, 15 Oct 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jurassic Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jurassic%20Park",
-        "pubdate": "Sun, 15 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
