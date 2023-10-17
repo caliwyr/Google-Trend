@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "17-10-2023 , 07:54:15",
+  "lastUpdate": "17-10-2023 , 08:13:04",
   "data": [
+    [
+      {
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cat",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Walt Disney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Walt%20Disney",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Martti Ahtisaari",
@@ -125,20 +139,6 @@
         "title": "KSI vs Tommy Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KSI%20vs%20Tommy%20Fury",
         "pubdate": "Sat, 14 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vincent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vincent",
-        "pubdate": "Sat, 14 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Robin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin",
-        "pubdate": "Sat, 14 Oct 2023 21:00:00 +0300"
       }
     ]
   ]
