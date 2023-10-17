@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 08:58:30",
+  "lastUpdate": "17-10-2023 , 09:17:05",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "BFMTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BFMTV",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LCI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LCI",
         "pubdate": "Tue, 17 Oct 2023 08:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "BFMTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BFMTV",
-        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lukaku",
+        "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "HBO Max",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#HBO%20Max",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Het smelt film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Het%20smelt%20film",
         "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "HBO Max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#HBO%20Max",
-        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+        "title": "Terrorisme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Terrorisme",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Belgie Zweden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20Zweden",
         "pubdate": "Mon, 16 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTBF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTBF",
-        "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Lesoir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lesoir",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VTM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM",
         "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Azerbaïdjan – Autriche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Azerba%C3%AFdjan%20%E2%80%93%20Autriche",
-        "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
+        "title": "Koranverbranding Zweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koranverbranding%20Zweden",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
