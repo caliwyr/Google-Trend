@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 00:25:23",
+  "lastUpdate": "17-10-2023 , 01:33:22",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Killers of the Flower Moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Killers%20of%20the%20Flower%20Moon",
+        "pubdate": "Tue, 17 Oct 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#News",
         "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "News Brussels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#News%20Brussels",
-        "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#New%20York%20Times",
+        "pubdate": "Tue, 17 Oct 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Le Parisien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Parisien",
+        "pubdate": "Tue, 17 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "RTL info",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTL%20info",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "RTBF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTBF",
         "pubdate": "Mon, 16 Oct 2023 22:00:00 +0200"
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Suzanne Somers décès",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Suzanne%20Somers%20d%C3%A9c%C3%A8s",
-        "pubdate": "Mon, 16 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RTL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTL",
         "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "Azerbaïdjan – Autriche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Azerba%C3%AFdjan%20%E2%80%93%20Autriche",
-        "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
+        "title": "Suzanne Somers décès",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Suzanne%20Somers%20d%C3%A9c%C3%A8s",
+        "pubdate": "Mon, 16 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nieuws",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Égypte – Algérie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89gypte%20%E2%80%93%20Alg%C3%A9rie",
-        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nos",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Azerbeidzjan-Oostenrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Azerbeidzjan-Oostenrijk",
+        "title": "Azerbaïdjan – Autriche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Azerba%C3%AFdjan%20%E2%80%93%20Autriche",
         "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Belgium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgium",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sénégal – Cameroun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#S%C3%A9n%C3%A9gal%20%E2%80%93%20Cameroun",
-        "pubdate": "Mon, 16 Oct 2023 21:00:00 +0200"
+        "title": "Égypte – Algérie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89gypte%20%E2%80%93%20Alg%C3%A9rie",
+        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
