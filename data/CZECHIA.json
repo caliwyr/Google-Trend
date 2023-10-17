@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-10-2023 , 12:57:06",
+  "lastUpdate": "17-10-2023 , 13:18:36",
   "data": [
+    [
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madonna",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ozzy Osbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20Osbourne",
         "pubdate": "Tue, 17 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Big Brother",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Brother",
+        "pubdate": "Tue, 17 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,6 +31,13 @@
     ],
     [
       {
+        "title": "Tabby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tabby%20Brown",
+        "pubdate": "Tue, 17 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Spider-Man 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spider-Man%202",
         "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
@@ -24,9 +45,9 @@
     ],
     [
       {
-        "title": "Big Brother",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Brother",
-        "pubdate": "Tue, 17 Oct 2023 12:00:00 +0200"
+        "title": "Jiří Anderle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Anderle",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Ondřej Sokol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Sokol",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Jiříček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Ji%C5%99%C3%AD%C4%8Dek",
         "pubdate": "Mon, 16 Oct 2023 09:00:00 +0200"
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Ondřej Sokol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Sokol",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MdB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MdB",
         "pubdate": "Mon, 16 Oct 2023 09:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Ondřej Perušič",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Peru%C5%A1i%C4%8D",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Herečka Suzanne Somersová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Here%C4%8Dka%20Suzanne%20Somersov%C3%A1",
         "pubdate": "Mon, 16 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Staroměstské náměstí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Starom%C4%9Bstsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alan Wake 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alan%20Wake%202",
-        "pubdate": "Mon, 16 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
