@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-10-2023 , 18:55:40",
+  "lastUpdate": "17-10-2023 , 19:09:32",
   "data": [
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madonna",
-        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tabby Brown",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "František Savov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Franti%C5%A1ek%20Savov",
-        "pubdate": "Tue, 17 Oct 2023 11:00:00 +0200"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madonna",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "František Savov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Franti%C5%A1ek%20Savov",
+        "pubdate": "Tue, 17 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nehoda Olomouc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20Olomouc",
         "pubdate": "Tue, 17 Oct 2023 15:00:00 +0200"
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Ozzy Osbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20Osbourne",
-        "pubdate": "Tue, 17 Oct 2023 07:00:00 +0200"
+        "title": "ATACMS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ATACMS",
+        "pubdate": "Tue, 17 Oct 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ATACMS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ATACMS",
-        "pubdate": "Tue, 17 Oct 2023 18:00:00 +0200"
+        "title": "Ozzy Osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20Osbourne",
+        "pubdate": "Tue, 17 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Lenny Kravitz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lenny%20Kravitz",
         "pubdate": "Tue, 17 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jean-Claude Van Damme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jean-Claude%20Van%20Damme",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "David Jiříček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Ji%C5%99%C3%AD%C4%8Dek",
         "pubdate": "Mon, 16 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Španělsko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pan%C4%9Blsko",
-        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
