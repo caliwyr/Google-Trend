@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 01:33:22",
+  "lastUpdate": "17-10-2023 , 02:07:00",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Belgium news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgium%20news",
+        "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#New%20York%20Times",
         "pubdate": "Tue, 17 Oct 2023 02:00:00 +0200"
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Gyokeres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gyokeres",
-        "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Belgie Zweden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20Zweden",
         "pubdate": "Mon, 16 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTL info",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTL%20info",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Nederlands elftal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nederlands%20elftal",
         "pubdate": "Mon, 16 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTL",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Nos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nos",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Égypte – Algérie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89gypte%20%E2%80%93%20Alg%C3%A9rie",
         "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Azerbeidzjan-Oostenrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Azerbeidzjan-Oostenrijk",
+        "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
