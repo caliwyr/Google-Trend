@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 10:48:33",
+  "lastUpdate": "17-10-2023 , 10:57:49",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "WhatsApp Web",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#WhatsApp%20Web",
+        "pubdate": "Mon, 16 Oct 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Venezuela vs Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela%20vs%20Chile",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "WhatsApp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#WhatsApp",
         "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
@@ -52,20 +66,6 @@
     ],
     [
       {
-        "title": "Chile Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20Venezuela",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Portugal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Portugal%20vs",
-        "pubdate": "Mon, 16 Oct 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Registro Social de Hogares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Registro%20Social%20de%20Hogares",
         "pubdate": "Mon, 16 Oct 2023 15:00:00 -0300"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Eliminatorias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias",
-        "pubdate": "Mon, 16 Oct 2023 19:00:00 -0300"
+        "title": "Banco Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20Santander",
+        "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Banco Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20Santander",
-        "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
+        "title": "Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias",
+        "pubdate": "Mon, 16 Oct 2023 19:00:00 -0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Certificado de nacimiento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Certificado%20de%20nacimiento",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "CGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
         "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Alvaro Prieto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alvaro%20Prieto",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 -0300"
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Apple",
+        "pubdate": "Mon, 16 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Certificado de nacimiento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Certificado%20de%20nacimiento",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
       }
     ]
   ]
