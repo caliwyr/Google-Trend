@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-10-2023 , 16:52:07",
+  "lastUpdate": "17-10-2023 , 17:05:00",
   "data": [
     [
       {
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Twitter",
         "pubdate": "Tue, 17 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#DH",
+        "pubdate": "Tue, 17 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Le Monde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Monde",
+        "title": "Le monde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20monde",
         "pubdate": "Tue, 17 Oct 2023 14:00:00 +0200"
       }
     ],
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Hon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hon",
-        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
+        "title": "OCAD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OCAD",
+        "pubdate": "Tue, 17 Oct 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "OCAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OCAD",
-        "pubdate": "Tue, 17 Oct 2023 07:00:00 +0200"
+        "title": "Hon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hon",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Revolut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Revolut",
-        "pubdate": "Tue, 17 Oct 2023 12:00:00 +0200"
+        "title": "Anouck Lepère",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anouck%20Lep%C3%A8re",
+        "pubdate": "Tue, 17 Oct 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Het nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Het%20nieuws",
+        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Revolut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Revolut",
+        "pubdate": "Tue, 17 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mons",
         "pubdate": "Tue, 17 Oct 2023 16:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Euronews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Euronews",
-        "pubdate": "Tue, 17 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Abdeslam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Abdeslam",
         "pubdate": "Tue, 17 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HBO Max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#HBO%20Max",
-        "pubdate": "Tue, 17 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La capitale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20capitale",
-        "pubdate": "Tue, 17 Oct 2023 13:00:00 +0200"
       }
     ]
   ]

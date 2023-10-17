@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2023 , 16:52:07",
+  "lastUpdate": "17-10-2023 , 17:05:00",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Metro de Santiago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Metro%20de%20Santiago",
         "pubdate": "Tue, 17 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Metro",
+        "pubdate": "Tue, 17 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Karol G en Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karol%20G%20en%20Chile",
+        "pubdate": "Tue, 17 Oct 2023 11:00:00 -0300"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Alba Baptista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alba%20Baptista",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Día del Profesor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D%C3%ADa%20del%20Profesor",
         "pubdate": "Mon, 16 Oct 2023 01:00:00 -0300"
@@ -38,16 +59,16 @@
     ],
     [
       {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gmail",
-        "pubdate": "Mon, 16 Oct 2023 13:00:00 -0300"
+        "title": "Chile vs Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20vs%20Venezuela",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Venezuela vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela%20vs%20Chile",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gmail",
+        "pubdate": "Mon, 16 Oct 2023 13:00:00 -0300"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Registro Civil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Registro%20Civil",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Dia del Profesor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Profesor",
         "pubdate": "Mon, 16 Oct 2023 01:00:00 -0300"
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "Registro Civil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Registro%20Civil",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Eliminatorias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eliminatorias",
-        "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
+        "pubdate": "Mon, 16 Oct 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Clasificatorias Mundial 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasificatorias%20Mundial%202026",
+        "pubdate": "Mon, 16 Oct 2023 18:00:00 -0300"
       }
     ],
     [
@@ -110,34 +138,6 @@
       {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maps",
-        "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "PODER JUDICIAL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PODER%20JUDICIAL",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Scotiabank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Scotiabank",
-        "pubdate": "Mon, 16 Oct 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Clasificatorias Mundial 2026",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasificatorias%20Mundial%202026",
-        "pubdate": "Mon, 16 Oct 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "CGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
         "pubdate": "Mon, 16 Oct 2023 17:00:00 -0300"
       }
     ]
