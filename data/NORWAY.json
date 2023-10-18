@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 17:50:58",
+  "lastUpdate": "18-10-2023 , 18:00:10",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reuters",
         "pubdate": "Wed, 18 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bellingham",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Espen Barth Eide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Espen%20Barth%20Eide",
         "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lindesnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lindesnes",
+        "pubdate": "Mon, 16 Oct 2023 03:00:00 +0200"
       }
     ]
   ]
