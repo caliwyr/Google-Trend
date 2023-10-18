@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 12:34:29",
+  "lastUpdate": "18-10-2023 , 12:55:30",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dog",
         "pubdate": "Tue, 17 Oct 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kempower",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kempower",
-        "pubdate": "Tue, 17 Oct 2023 14:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dangerous",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dangerous",
         "pubdate": "Sun, 15 Oct 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Piper Laurie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Piper%20Laurie",
+        "pubdate": "Sun, 15 Oct 2023 08:00:00 +0300"
       }
     ]
   ]

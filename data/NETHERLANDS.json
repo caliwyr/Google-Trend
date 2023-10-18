@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 12:34:33",
+  "lastUpdate": "18-10-2023 , 12:55:34",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Orzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orzo",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "El Ghazi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#El%20Ghazi",
         "pubdate": "Wed, 18 Oct 2023 01:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Orzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orzo",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Virgil van Dijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Virgil%20van%20Dijk",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+        "title": "Oranje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
+        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "EK-kwalificatie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK-kwalificatie",
         "pubdate": "Thu, 12 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gouden Televizier-Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gouden%20Televizier-Ring",
-        "pubdate": "Thu, 12 Oct 2023 19:00:00 +0200"
       }
     ]
   ]

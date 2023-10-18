@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-10-2023 , 12:34:28",
+  "lastUpdate": "18-10-2023 , 12:55:29",
   "data": [
-    [
-      {
-        "title": "Štěnice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0t%C4%9Bnice",
-        "pubdate": "Wed, 18 Oct 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Anne Hathaway",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Nehoda Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20Olomouc",
-        "pubdate": "Tue, 17 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eminem",
         "pubdate": "Tue, 17 Oct 2023 22:00:00 +0200"
@@ -48,6 +34,13 @@
         "title": "ATACMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ATACMS",
         "pubdate": "Tue, 17 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nehoda Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20Olomouc",
+        "pubdate": "Tue, 17 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -87,9 +80,30 @@
     ],
     [
       {
+        "title": "Chuck Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chuck%20Norris",
+        "pubdate": "Tue, 17 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jiří Anderle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Anderle",
         "pubdate": "Tue, 17 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nehoda vlaku Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20vlaku%20Olomouc",
+        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mobilní telefon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mobiln%C3%AD%20telefon",
+        "pubdate": "Tue, 17 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Patrik Hartl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20Hartl",
         "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "STEP by STEP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#STEP%20by%20STEP",
-        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MG",
-        "pubdate": "Mon, 16 Oct 2023 14:00:00 +0200"
       }
     ]
   ]

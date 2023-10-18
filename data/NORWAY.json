@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 12:34:33",
+  "lastUpdate": "18-10-2023 , 12:55:34",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Ultimovacs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ultimovacs",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bellingham",
         "pubdate": "Wed, 18 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "San Marino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#San%20Marino",
-        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,9 +31,23 @@
     ],
     [
       {
+        "title": "San Marino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#San%20Marino",
+        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Justin Timberlake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Justin%20Timberlake",
         "pubdate": "Tue, 17 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Thunberg",
+        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Thunberg",
-        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0200"
+        "title": "Emma Krokdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emma%20Krokdal",
+        "pubdate": "Tue, 17 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Dolph Lundgren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dolph%20Lundgren",
-        "pubdate": "Tue, 17 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Cruise",
         "pubdate": "Tue, 17 Oct 2023 23:00:00 +0200"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Espen Barth Eide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Espen%20Barth%20Eide",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
+        "title": "Lyngdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyngdal",
+        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lyngdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyngdal",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+        "title": "Espen Barth Eide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Espen%20Barth%20Eide",
+        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Brussel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brussel",
         "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Campus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
+        "pubdate": "Mon, 16 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
