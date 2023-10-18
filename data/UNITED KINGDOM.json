@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 08:48:19",
+  "lastUpdate": "18-10-2023 , 08:57:29",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Channel 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Channel%204",
-        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0100"
+        "title": "Gaza hospital strike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gaza%20hospital%20strike",
+        "pubdate": "Wed, 18 Oct 2023 09:00:00 +0100"
       }
     ],
     [
@@ -38,8 +38,15 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England",
+        "title": "Bake Off",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bake%20Off",
+        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Channel 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Channel%204",
         "pubdate": "Tue, 17 Oct 2023 20:00:00 +0100"
       }
     ],
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Ramallah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ramallah",
+        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Todd Cantwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Todd%20Cantwell",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sam Neill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sam%20Neill",
         "pubdate": "Tue, 17 Oct 2023 01:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cristiano%20Ronaldo",
-        "pubdate": "Tue, 17 Oct 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Eminem",
-        "pubdate": "Tue, 17 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rolls-Royce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rolls-Royce",
-        "pubdate": "Tue, 17 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Volta Trucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Volta%20Trucks",
-        "pubdate": "Tue, 17 Oct 2023 19:00:00 +0100"
+        "title": "El Shaarawy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#El%20Shaarawy",
+        "pubdate": "Tue, 17 Oct 2023 22:00:00 +0100"
       }
     ]
   ]

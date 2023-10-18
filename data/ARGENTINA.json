@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-10-2023 , 08:48:07",
+  "lastUpdate": "18-10-2023 , 08:57:19",
   "data": [
-    [
-      {
-        "title": "Partidos de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partidos%20de%20hoy",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Paolo Guerrero",
@@ -94,8 +87,8 @@
     ],
     [
       {
-        "title": "TV publica Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TV%20publica%20Argentina",
+        "title": "Tv publica argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tv%20publica%20argentina",
         "pubdate": "Wed, 18 Oct 2023 00:00:00 -0300"
       }
     ],
@@ -111,13 +104,6 @@
         "title": "Papu gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Papu%20gomez",
         "pubdate": "Wed, 18 Oct 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Balon de Oro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Balon%20de%20Oro",
-        "pubdate": "Wed, 18 Oct 2023 02:00:00 -0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Paraguay vs Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paraguay%20vs%20Bolivia",
         "pubdate": "Tue, 17 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ecuador vs Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador%20vs%20Colombia",
+        "pubdate": "Tue, 17 Oct 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Mexico vs Alemania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mexico%20vs%20Alemania",
+        "pubdate": "Tue, 17 Oct 2023 19:00:00 -0300"
       }
     ]
   ]
