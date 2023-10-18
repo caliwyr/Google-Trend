@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 10:47:28",
+  "lastUpdate": "18-10-2023 , 10:57:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reuters",
         "pubdate": "Wed, 18 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ultimovacs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ultimovacs",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Brad Paisley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brad%20Paisley",
         "pubdate": "Mon, 16 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bryan Adams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bryan%20Adams",
-        "pubdate": "Mon, 16 Oct 2023 12:00:00 +0200"
       }
     ]
   ]
