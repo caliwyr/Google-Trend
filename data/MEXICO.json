@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-10-2023 , 14:46:56",
+  "lastUpdate": "18-10-2023 , 14:56:16",
   "data": [
-    [
-      {
-        "title": "Anuel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Anuel",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Radical pelicula",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Seleccion de mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seleccion%20de%20mexico",
+        "pubdate": "Wed, 18 Oct 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Diego Valdés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diego%20Vald%C3%A9s",
         "pubdate": "Wed, 18 Oct 2023 02:00:00 -0600"
@@ -52,9 +52,16 @@
     ],
     [
       {
+        "title": "Eliminatorias Sudamericanas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Sudamericanas",
+        "pubdate": "Wed, 18 Oct 2023 08:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Perú  Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Per%C3%BA%20%20Argentina",
-        "pubdate": "Tue, 17 Oct 2023 08:00:00 -0600"
+        "pubdate": "Tue, 17 Oct 2023 14:00:00 -0600"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Eliminatorias Conmebol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Conmebol",
+        "pubdate": "Tue, 17 Oct 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Venezuela vs Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Venezuela%20vs%20Chile",
         "pubdate": "Tue, 17 Oct 2023 00:00:00 -0600"
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Ecuador vs Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ecuador%20vs%20Colombia",
-        "pubdate": "Tue, 17 Oct 2023 08:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Tony Stark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tony%20Stark",
         "pubdate": "Tue, 17 Oct 2023 13:00:00 -0600"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Tormenta tropical Norma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tormenta%20tropical%20Norma",
-        "pubdate": "Tue, 17 Oct 2023 00:00:00 -0600"
+        "title": "Ecuador vs Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ecuador%20vs%20Colombia",
+        "pubdate": "Tue, 17 Oct 2023 08:00:00 -0600"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Tormenta tropical Norma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tormenta%20tropical%20Norma",
+        "pubdate": "Tue, 17 Oct 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Paraguay vs Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paraguay%20vs%20Bolivia",
         "pubdate": "Tue, 17 Oct 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Erick Sánchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Erick%20S%C3%A1nchez",
-        "pubdate": "Tue, 17 Oct 2023 19:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Robert Downey Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Robert%20Downey%20Jr",
-        "pubdate": "Tue, 17 Oct 2023 11:00:00 -0600"
       }
     ]
   ]
