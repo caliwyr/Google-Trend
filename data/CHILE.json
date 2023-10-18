@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2023 , 19:47:08",
+  "lastUpdate": "18-10-2023 , 19:56:31",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "pubdate": "Wed, 18 Oct 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Alexis sanchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexis%20sanchez",
         "pubdate": "Wed, 18 Oct 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Disney 100",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Disney%20100",
+        "pubdate": "Wed, 18 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Angelica sepulveda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Angelica%20sepulveda",
+        "pubdate": "Wed, 18 Oct 2023 16:00:00 -0300"
       }
     ],
     [
@@ -27,6 +48,20 @@
         "title": "Colombia seleccion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20seleccion",
         "pubdate": "Wed, 18 Oct 2023 07:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "TNT Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TNT%20Sports",
+        "pubdate": "Wed, 18 Oct 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fecha Eliminatorias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fecha%20Eliminatorias",
+        "pubdate": "Wed, 18 Oct 2023 10:00:00 -0300"
       }
     ],
     [
@@ -66,13 +101,6 @@
     ],
     [
       {
-        "title": "Partidos hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20hoy",
-        "pubdate": "Tue, 17 Oct 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Paraguay vs Bolivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paraguay%20vs%20Bolivia",
         "pubdate": "Tue, 17 Oct 2023 19:00:00 -0300"
@@ -87,9 +115,16 @@
     ],
     [
       {
-        "title": "18 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#18%20de%20octubre",
-        "pubdate": "Tue, 17 Oct 2023 15:00:00 -0300"
+        "title": "Clasificatorias CONMEBOL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasificatorias%20CONMEBOL",
+        "pubdate": "Tue, 17 Oct 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Partidos hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20hoy",
+        "pubdate": "Tue, 17 Oct 2023 16:00:00 -0300"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Paramount",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paramount",
         "pubdate": "Tue, 17 Oct 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inglaterra vs Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inglaterra%20vs%20Italia",
-        "pubdate": "Tue, 17 Oct 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Metro de Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Metro%20de%20Santiago",
-        "pubdate": "Tue, 17 Oct 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Berizzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Berizzo",
-        "pubdate": "Tue, 17 Oct 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Garin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
-        "pubdate": "Tue, 17 Oct 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Francia - Escocia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francia%20-%20Escocia",
-        "pubdate": "Tue, 17 Oct 2023 16:00:00 -0300"
       }
     ]
   ]
