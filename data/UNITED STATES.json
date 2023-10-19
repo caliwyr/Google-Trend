@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-10-2023 , 13:50:53",
+  "lastUpdate": "19-10-2023 , 14:00:07",
   "data": [
+    [
+      {
+        "title": "Netflix stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Netflix%20stock",
+        "pubdate": "Thu, 19 Oct 2023 06:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Joran van der Sloot",
@@ -17,15 +24,15 @@
     ],
     [
       {
-        "title": "Earthquake Bay Area",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake%20Bay%20Area",
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
         "pubdate": "Wed, 18 Oct 2023 10:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
+        "title": "Earthquake Bay Area",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake%20Bay%20Area",
         "pubdate": "Wed, 18 Oct 2023 10:00:00 -0700"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Max Scherzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Scherzer",
-        "pubdate": "Wed, 18 Oct 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
         "pubdate": "Wed, 18 Oct 2023 23:00:00 -0700"
@@ -59,8 +59,22 @@
     ],
     [
       {
+        "title": "Max Scherzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Scherzer",
+        "pubdate": "Wed, 18 Oct 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
+        "pubdate": "Wed, 18 Oct 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Detroit Red Wings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Red%20Wings",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 -0700"
       }
     ],
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Charlotte vs Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Charlotte%20vs%20Inter%20Miami",
-        "pubdate": "Wed, 18 Oct 2023 18:00:00 -0700"
+        "title": "Las Vegas Aces",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Las%20Vegas%20Aces",
+        "pubdate": "Wed, 18 Oct 2023 20:00:00 -0700"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neymar",
         "pubdate": "Wed, 18 Oct 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Las Vegas Aces",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Las%20Vegas%20Aces",
-        "pubdate": "Wed, 18 Oct 2023 20:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Leo movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leo%20movie",
         "pubdate": "Wed, 18 Oct 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kyler Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyler%20Murray",
-        "pubdate": "Wed, 18 Oct 2023 17:00:00 -0700"
       }
     ]
   ]
