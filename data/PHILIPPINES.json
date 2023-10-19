@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-10-2023 , 22:52:01",
+  "lastUpdate": "19-10-2023 , 23:04:41",
   "data": [
-    [
-      {
-        "title": "Earthquake today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake%20today",
-        "pubdate": "Fri, 20 Oct 2023 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Cruel Summer",
@@ -20,6 +13,13 @@
         "title": "Iso Valorant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Iso%20Valorant",
         "pubdate": "Fri, 20 Oct 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "McLaren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#McLaren",
+        "pubdate": "Fri, 20 Oct 2023 01:00:00 +0800"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "POA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#POA",
-        "pubdate": "Thu, 19 Oct 2023 08:00:00 +0800"
+        "title": "One Punch Man",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#One%20Punch%20Man",
+        "pubdate": "Thu, 19 Oct 2023 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "One Punch Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#One%20Punch%20Man",
-        "pubdate": "Thu, 19 Oct 2023 15:00:00 +0800"
+        "title": "POA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#POA",
+        "pubdate": "Thu, 19 Oct 2023 08:00:00 +0800"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Election 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Election%202023",
         "pubdate": "Thu, 19 Oct 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Cry Me a River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cry%20Me%20a%20River",
-        "pubdate": "Thu, 19 Oct 2023 02:00:00 +0800"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Ricci Rivero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ricci%20Rivero",
+        "pubdate": "Thu, 19 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami vs Charlotte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Inter%20Miami%20vs%20Charlotte",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +0800"
       }
     ]
