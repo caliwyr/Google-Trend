@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 15:46:14",
+  "lastUpdate": "19-10-2023 , 15:55:30",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Rebordosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rebordosa",
-        "pubdate": "Thu, 19 Oct 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Burt Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Burt%20Young",
         "pubdate": "Thu, 19 Oct 2023 10:00:00 +0100"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Inundações Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inunda%C3%A7%C3%B5es%20Lisboa",
-        "pubdate": "Thu, 19 Oct 2023 11:00:00 +0100"
+        "title": "Vento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vento",
+        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0100"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Cláudio Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udio%20Ramos",
-        "pubdate": "Thu, 19 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
         "pubdate": "Thu, 19 Oct 2023 10:00:00 +0100"
@@ -76,6 +62,20 @@
         "title": "Fábio Paim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F%C3%A1bio%20Paim",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Agata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agata",
+        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tempo Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempo%20Portugal",
+        "pubdate": "Thu, 19 Oct 2023 08:00:00 +0100"
       }
     ],
     [
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Mau tempo em Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mau%20tempo%20em%20Portugal",
-        "pubdate": "Thu, 19 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Transito Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Transito%20Lisboa",
-        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brasileirão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasileir%C3%A3o",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +0100"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Martin Scorsese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Martin%20Scorsese",
-        "pubdate": "Thu, 19 Oct 2023 11:00:00 +0100"
+        "title": "Chuva Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chuva%20Porto",
+        "pubdate": "Thu, 19 Oct 2023 12:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Tempestade Aline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempestade%20Aline",
-        "pubdate": "Wed, 18 Oct 2023 09:00:00 +0100"
+        "title": "Martin Scorsese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Martin%20Scorsese",
+        "pubdate": "Thu, 19 Oct 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tempestade Aline Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempestade%20Aline%20Portugal",
+        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rock in Rio Lisboa 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rock%20in%20Rio%20Lisboa%202024",
+        "pubdate": "Wed, 18 Oct 2023 18:00:00 +0100"
       }
     ]
   ]
