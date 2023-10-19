@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-10-2023 , 23:51:08",
+  "lastUpdate": "19-10-2023 , 00:00:37",
   "data": [
     [
       {
         "title": "Sahra Wagenknecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fussball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
+        "pubdate": "Wed, 18 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
-        "pubdate": "Wed, 18 Oct 2023 18:00:00 +0200"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neymar",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neymar",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
+        "pubdate": "Wed, 18 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Antisemitismus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antisemitismus",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elterngeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
-        "pubdate": "Wed, 18 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "ATACMS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ATACMS",
-        "pubdate": "Tue, 17 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nico Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nico%20Santos",
         "pubdate": "Tue, 17 Oct 2023 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Precht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Precht",
         "pubdate": "Sun, 15 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mexiko - Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mexiko%20-%20Deutschland",
+        "pubdate": "Sun, 15 Oct 2023 17:00:00 +0200"
       }
     ]
   ]
