@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-10-2023 , 16:51:50",
+  "lastUpdate": "19-10-2023 , 17:03:52",
   "data": [
-    [
-      {
-        "title": "Bodies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bodies",
-        "pubdate": "Fri, 20 Oct 2023 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Bangladesh vs India",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "WBBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WBBL",
-        "pubdate": "Thu, 19 Oct 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Curtin University",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Curtin%20University",
         "pubdate": "Thu, 19 Oct 2023 18:00:00 +1100"
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "Firefly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Firefly",
-        "pubdate": "Thu, 19 Oct 2023 09:00:00 +1100"
+        "title": "WBBL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WBBL",
+        "pubdate": "Thu, 19 Oct 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bodies Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bodies%20Netflix",
+        "pubdate": "Thu, 19 Oct 2023 22:00:00 +1100"
       }
     ],
     [
@@ -122,6 +115,20 @@
     ],
     [
       {
+        "title": "Wolf Like Me",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wolf%20Like%20Me",
+        "pubdate": "Thu, 19 Oct 2023 23:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Napoleon",
+        "pubdate": "Thu, 19 Oct 2023 22:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Caretaker's Cottage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Caretaker's%20Cottage",
         "pubdate": "Thu, 19 Oct 2023 06:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "PGA Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Tour",
         "pubdate": "Thu, 19 Oct 2023 23:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lionel%20Messi",
-        "pubdate": "Thu, 19 Oct 2023 09:00:00 +1100"
       }
     ]
   ]
