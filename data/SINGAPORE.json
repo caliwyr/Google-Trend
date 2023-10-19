@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 01:18:54",
+  "lastUpdate": "19-10-2023 , 02:00:17",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Country Garden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Country%20Garden",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Jim Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jim%20Jordan",
         "pubdate": "Wed, 18 Oct 2023 13:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
         "pubdate": "Tue, 17 Oct 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "MYAirline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MYAirline",
-        "pubdate": "Tue, 17 Oct 2023 12:00:00 +0800"
       }
     ]
   ]
