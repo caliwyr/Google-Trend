@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 11:49:22",
+  "lastUpdate": "19-10-2023 , 11:58:45",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Berlin",
         "pubdate": "Thu, 19 Oct 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Vila lui Columbeanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vila%20lui%20Columbeanu",
+        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0300"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Nicolo Fagioli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolo%20Fagioli",
-        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0300"
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Benzema",
+        "pubdate": "Wed, 18 Oct 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Benzema",
-        "pubdate": "Wed, 18 Oct 2023 22:00:00 +0300"
+        "title": "Nicolo Fagioli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolo%20Fagioli",
+        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0300"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Dana Budeanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dana%20Budeanu",
+        "pubdate": "Wed, 18 Oct 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "PASTRY CHEF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PASTRY%20CHEF",
         "pubdate": "Wed, 18 Oct 2023 23:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Sorana Cîrstea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sorana%20C%C3%AErstea",
         "pubdate": "Wed, 18 Oct 2023 07:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Reuters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Reuters",
-        "pubdate": "Wed, 18 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Accident Feleacu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20Feleacu",
-        "pubdate": "Wed, 18 Oct 2023 09:00:00 +0300"
       }
     ]
   ]
