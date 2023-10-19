@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 14:48:44",
+  "lastUpdate": "19-10-2023 , 14:57:52",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Firefly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Firefly",
+        "pubdate": "Thu, 19 Oct 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neymar",
         "pubdate": "Thu, 19 Oct 2023 00:00:00 +1100"
@@ -55,13 +62,6 @@
         "title": "Ed Husic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ed%20Husic",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Super Mario Wonder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20Mario%20Wonder",
-        "pubdate": "Thu, 19 Oct 2023 13:00:00 +1100"
       }
     ],
     [
@@ -80,23 +80,16 @@
     ],
     [
       {
-        "title": "Bianca Bustamante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bianca%20Bustamante",
-        "pubdate": "Thu, 19 Oct 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bodies Netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bodies%20Netflix",
-        "pubdate": "Thu, 19 Oct 2023 22:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Leo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leo",
         "pubdate": "Thu, 19 Oct 2023 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Super Mario Wonder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20Mario%20Wonder",
+        "pubdate": "Thu, 19 Oct 2023 13:00:00 +1100"
       }
     ],
     [
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "PGA TOUR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20TOUR",
+        "title": "PGA Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Tour",
         "pubdate": "Thu, 19 Oct 2023 23:00:00 +1100"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Sara Lee administration",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sara%20Lee%20administration",
+        "pubdate": "Wed, 18 Oct 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "New Zealand vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20Afghanistan",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 +1100"
       }
     ]

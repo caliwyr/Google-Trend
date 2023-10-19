@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 14:48:53",
+  "lastUpdate": "19-10-2023 , 14:58:04",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Ana Morodan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Morodan",
         "pubdate": "Thu, 19 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vila lui Columbeanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vila%20lui%20Columbeanu",
-        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0300"
       }
     ],
     [
@@ -45,9 +38,16 @@
     ],
     [
       {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neymar",
+        "pubdate": "Wed, 18 Oct 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joe%20Biden",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0300"
+        "pubdate": "Wed, 18 Oct 2023 01:00:00 +0300"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Justin Timberlake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Justin%20Timberlake",
         "pubdate": "Wed, 18 Oct 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neymar",
-        "pubdate": "Wed, 18 Oct 2023 21:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina",
         "pubdate": "Wed, 18 Oct 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sorana Cîrstea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sorana%20C%C3%AErstea",
+        "pubdate": "Wed, 18 Oct 2023 07:00:00 +0300"
       }
     ]
   ]
