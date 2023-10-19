@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "19-10-2023 , 20:50:18",
+  "lastUpdate": "19-10-2023 , 20:59:37",
   "data": [
+    [
+      {
+        "title": "Sedan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sedan",
+        "pubdate": "Thu, 19 Oct 2023 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dominique Bernard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dominique%20Bernard",
         "pubdate": "Thu, 19 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Loana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loana",
-        "pubdate": "Thu, 19 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Vise le coeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vise%20le%20coeur",
+        "pubdate": "Thu, 19 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Abonnement Netflix augmentation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Abonnement%20Netflix%20augmentation",
         "pubdate": "Thu, 19 Oct 2023 18:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "Grand Corps Malade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grand%20Corps%20Malade",
         "pubdate": "Thu, 19 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vise le coeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vise%20le%20coeur",
-        "pubdate": "Thu, 19 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Skyr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Skyr",
-        "pubdate": "Thu, 19 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Meilleur Pâtissier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meilleur%20P%C3%A2tissier",
         "pubdate": "Thu, 19 Oct 2023 14:00:00 +0200"
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "Skyr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Skyr",
+        "pubdate": "Thu, 19 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sylvie Kauffmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvie%20Kauffmann",
         "pubdate": "Thu, 19 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Incendie Bretoncelles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Incendie%20Bretoncelles",
+        "pubdate": "Thu, 19 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gaël Monfils",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
         "pubdate": "Thu, 19 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frederic Lenoir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Frederic%20Lenoir",
-        "pubdate": "Thu, 19 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
