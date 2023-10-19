@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-10-2023 , 12:35:07",
+  "lastUpdate": "19-10-2023 , 12:56:02",
   "data": [
+    [
+      {
+        "title": "La Louvière",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Louvi%C3%A8re",
+        "pubdate": "Thu, 19 Oct 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Burt Young",
@@ -13,6 +20,13 @@
         "title": "Alerte a la bombe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alerte%20a%20la%20bombe",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ozempic",
+        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -34,20 +48,6 @@
         "title": "Lidewij Nuitten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lidewij%20Nuitten",
         "pubdate": "Thu, 19 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Louvière",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Louvi%C3%A8re",
-        "pubdate": "Thu, 19 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maarten Bosmans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maarten%20Bosmans",
-        "pubdate": "Thu, 19 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Luchthaven Oostende",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luchthaven%20Oostende",
-        "pubdate": "Wed, 18 Oct 2023 13:00:00 +0200"
+        "title": "Ursula von der Leyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ursula%20von%20der%20Leyen",
+        "pubdate": "Wed, 18 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
-        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Justin Timberlake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Justin%20Timberlake",
         "pubdate": "Wed, 18 Oct 2023 10:00:00 +0200"
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Ursula von der Leyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ursula%20von%20der%20Leyen",
-        "pubdate": "Wed, 18 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Disparition Émile Vernet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Disparition%20%C3%89mile%20Vernet",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Storm Babet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Storm%20Babet",
+        "title": "Brubaker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brubaker",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
+        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barco",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bommelding Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bommelding%20Oostende",
+        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0200"
       }
     ]
   ]
