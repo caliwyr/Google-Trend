@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 05:56:10",
+  "lastUpdate": "19-10-2023 , 06:17:30",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Cry Me a River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cry%20Me%20a%20River",
-        "pubdate": "Thu, 19 Oct 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Campaign",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Campaign",
         "pubdate": "Thu, 19 Oct 2023 11:00:00 +0800"
@@ -34,6 +27,13 @@
         "title": "Vote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Vote",
         "pubdate": "Thu, 19 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Election 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Election%202023",
+        "pubdate": "Thu, 19 Oct 2023 13:00:00 +0800"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Peru vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Peru%20vs%20Argentina",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0800"
+        "title": "Campaign period",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Campaign%20period",
+        "pubdate": "Wed, 18 Oct 2023 15:00:00 +0800"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Alex Eala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Alex%20Eala",
-        "pubdate": "Wed, 18 Oct 2023 03:00:00 +0800"
+        "title": "Peru vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Peru%20vs%20Argentina",
+        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Hazing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hazing",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 +0800"
+        "title": "Avengers: Endgame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Avengers:%20Endgame",
+        "pubdate": "Wed, 18 Oct 2023 20:00:00 +0800"
       }
     ]
   ]

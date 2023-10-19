@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 05:56:03",
+  "lastUpdate": "19-10-2023 , 06:17:24",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Magasins Inno Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Magasins%20Inno%20Belgique",
         "pubdate": "Thu, 19 Oct 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Storm Babette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Storm%20Babette",
+        "pubdate": "Thu, 19 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
-        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
+        "title": "Luchthaven Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luchthaven%20Oostende",
+        "pubdate": "Wed, 18 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -75,6 +82,13 @@
       {
         "title": "Inno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inno",
+        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
         "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Bommelding Oostende",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bommelding%20Oostende",
-        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greta%20Thunberg",
         "pubdate": "Wed, 18 Oct 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Top Gun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Top%20Gun",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kazeem Olaigbe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kazeem%20Olaigbe",
-        "pubdate": "Wed, 18 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
