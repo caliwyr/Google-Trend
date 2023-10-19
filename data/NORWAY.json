@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-10-2023 , 03:49:44",
+  "lastUpdate": "19-10-2023 , 03:58:57",
   "data": [
     [
       {
         "title": "Julie Nataas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Julie%20Nataas",
         "pubdate": "Thu, 19 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Torjus Seland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Torjus%20Seland",
+        "pubdate": "Wed, 18 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Ultimovacs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ultimovacs",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Reuters",
         "pubdate": "Wed, 18 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bellingham",
-        "pubdate": "Wed, 18 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nordic Semiconductor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordic%20Semiconductor",
         "pubdate": "Tue, 17 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England",
+        "pubdate": "Tue, 17 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
