@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 10:47:29",
+  "lastUpdate": "19-10-2023 , 10:56:49",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Ashley Benson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ashley%20Benson",
+        "pubdate": "Thu, 19 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Borderline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Borderline",
         "pubdate": "Wed, 18 Oct 2023 08:00:00 +0200"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Big Lizzie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Big%20Lizzie",
+        "title": "Big lizzie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Big%20lizzie",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Brynäs djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20djurg%C3%A5rden",
+        "title": "Brynäs Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20Djurg%C3%A5rden",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pablo Leiva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pablo%20Leiva",
+        "pubdate": "Wed, 18 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
+        "pubdate": "Tue, 17 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Volta Trucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Volta%20Trucks",
         "pubdate": "Tue, 17 Oct 2023 08:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "San Marino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#San%20Marino",
-        "pubdate": "Tue, 17 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sweden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sweden",
         "pubdate": "Tue, 17 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ericsson aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ericsson%20aktie",
-        "pubdate": "Tue, 17 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ericsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ericsson",
-        "pubdate": "Tue, 17 Oct 2023 14:00:00 +0200"
       }
     ]
   ]

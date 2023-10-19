@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 10:47:26",
+  "lastUpdate": "19-10-2023 , 10:56:45",
   "data": [
     [
       {
@@ -19,13 +19,6 @@
       {
         "title": "FC Twente Vrouwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente%20Vrouwen",
-        "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax Vrouwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Vrouwen",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Sobibor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sobibor",
         "pubdate": "Sat, 14 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ek",
+        "pubdate": "Fri, 13 Oct 2023 07:00:00 +0200"
       }
     ]
   ]
