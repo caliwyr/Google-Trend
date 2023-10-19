@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 04:49:34",
+  "lastUpdate": "19-10-2023 , 04:58:42",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
+        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Goffin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
         "pubdate": "Wed, 18 Oct 2023 21:00:00 +0200"
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
-        "pubdate": "Wed, 18 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Justin Timberlake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Justin%20Timberlake",
         "pubdate": "Wed, 18 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bommelding Oostende",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bommelding%20Oostende",
-        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Barco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barco",
         "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bommelding Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bommelding%20Oostende",
+        "pubdate": "Wed, 18 Oct 2023 14:00:00 +0200"
       }
     ],
     [
