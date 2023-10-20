@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2023 , 19:51:57",
+  "lastUpdate": "20-10-2023 , 20:06:21",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Berlin",
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
         "pubdate": "Fri, 20 Oct 2023 08:00:00 +0200"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
-        "pubdate": "Fri, 20 Oct 2023 08:00:00 +0200"
+        "title": "Giorgia Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
+        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Giorgia Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kajdi Csaba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kajdi%20Csaba",
-        "pubdate": "Fri, 20 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Scooter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Scooter",
         "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
@@ -87,16 +80,30 @@
     ],
     [
       {
-        "title": "Rishi Sunak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rishi%20Sunak",
-        "pubdate": "Fri, 20 Oct 2023 01:00:00 +0200"
+        "title": "Haydn Gwynne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haydn%20Gwynne",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ember Márk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ember%20M%C3%A1rk",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20a",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rishi Sunak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rishi%20Sunak",
+        "pubdate": "Fri, 20 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Karim Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Karim%20Benzema",
         "pubdate": "Thu, 19 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Survivor",
-        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0200"
       }
     ]
   ]

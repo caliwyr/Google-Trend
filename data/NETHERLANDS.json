@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2023 , 19:51:59",
+  "lastUpdate": "20-10-2023 , 20:06:24",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cher",
         "pubdate": "Fri, 20 Oct 2023 00:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meloni",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
+        "title": "Storm Babet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20Babet",
+        "pubdate": "Fri, 20 Oct 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+        "title": "Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meloni",
+        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Roxeanne Hazes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roxeanne%20Hazes",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haydn Gwynne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haydn%20Gwynne",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
         "pubdate": "Mon, 16 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oranje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Louis Tomlinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Louis%20Tomlinson",
-        "pubdate": "Sun, 15 Oct 2023 16:00:00 +0200"
       }
     ]
   ]

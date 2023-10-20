@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2023 , 19:51:53",
+  "lastUpdate": "20-10-2023 , 20:06:16",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Metaverse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Metaverse",
+        "pubdate": "Fri, 20 Oct 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Mitt Romney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mitt%20Romney",
         "pubdate": "Fri, 20 Oct 2023 09:00:00 -0700"
@@ -41,6 +48,20 @@
         "title": "Phenylephrine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phenylephrine",
         "pubdate": "Fri, 20 Oct 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Old Dads",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Old%20Dads",
+        "pubdate": "Fri, 20 Oct 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Andre Iguodala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Andre%20Iguodala",
+        "pubdate": "Fri, 20 Oct 2023 12:00:00 -0700"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Michigan football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20football",
-        "pubdate": "Thu, 19 Oct 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Yemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yemen",
         "pubdate": "Thu, 19 Oct 2023 14:00:00 -0700"
@@ -125,20 +139,6 @@
         "title": "Justin Timberlake Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Timberlake%20Britney%20Spears",
         "pubdate": "Thu, 19 Oct 2023 22:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lupita Nyong'o",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lupita%20Nyong'o",
-        "pubdate": "Thu, 19 Oct 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celine%20Dion",
-        "pubdate": "Thu, 19 Oct 2023 21:00:00 -0700"
       }
     ]
   ]
