@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2023 , 22:47:57",
+  "lastUpdate": "20-10-2023 , 22:57:17",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rolling%20Stones",
         "pubdate": "Fri, 20 Oct 2023 13:00:00 +0200"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meloni",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
+        "title": "Floor Jansen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
+        "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cher",
-        "pubdate": "Fri, 20 Oct 2023 00:00:00 +0200"
+        "title": "Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meloni",
+        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Floor Jansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
-        "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Keuken Kampioen Divisie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Keuken%20Kampioen%20Divisie",
-        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cher",
+        "pubdate": "Fri, 20 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "Suzan en freek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzan%20en%20freek",
+        "title": "Suzan en Freek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzan%20en%20Freek",
         "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leonardo DiCaprio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leonardo%20DiCaprio",
-        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Biden",
         "pubdate": "Wed, 18 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nederlands Elftal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20Elftal",
+        "pubdate": "Mon, 16 Oct 2023 18:00:00 +0200"
       }
     ]
   ]

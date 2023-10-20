@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-10-2023 , 22:47:58",
+  "lastUpdate": "20-10-2023 , 22:57:18",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
+        "pubdate": "Sat, 21 Oct 2023 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Formula 1",
@@ -10,15 +17,15 @@
     ],
     [
       {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rugby",
+        "title": "Tim Burton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tim%20Burton",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Tim Burton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tim%20Burton",
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rugby",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0300"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Spider-Man 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spider-Man%202",
-        "pubdate": "Fri, 20 Oct 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Papu Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Papu%20Gomez",
         "pubdate": "Fri, 20 Oct 2023 19:00:00 +0300"
@@ -101,16 +101,9 @@
     ],
     [
       {
-        "title": "Maluma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Maluma",
-        "pubdate": "Fri, 20 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vocea Romaniei 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vocea%20Romaniei%202023",
-        "pubdate": "Fri, 20 Oct 2023 23:00:00 +0300"
+        "title": "Spider-Man 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spider-Man%202",
+        "pubdate": "Fri, 20 Oct 2023 13:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Schengen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Schengen",
         "pubdate": "Fri, 20 Oct 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taiwan",
+        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0300"
       }
     ]
   ]
