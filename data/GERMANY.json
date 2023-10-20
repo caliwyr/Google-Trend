@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "20-10-2023 , 03:46:15",
+  "lastUpdate": "20-10-2023 , 03:55:35",
   "data": [
     [
       {
         "title": "Burt Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burt%20Young",
         "pubdate": "Thu, 19 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturmflut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut",
-        "pubdate": "Thu, 19 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Sturmflut Ostsee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostsee",
+        "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neymar",
         "pubdate": "Wed, 18 Oct 2023 12:00:00 +0200"
@@ -59,20 +59,6 @@
     ],
     [
       {
-        "title": "Justin Timberlake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Justin%20Timberlake",
-        "pubdate": "Wed, 18 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Neukölln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuk%C3%B6lln",
-        "pubdate": "Wed, 18 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Antisemitismus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antisemitismus",
         "pubdate": "Wed, 18 Oct 2023 22:00:00 +0200"
@@ -83,6 +69,13 @@
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones",
         "pubdate": "Wed, 18 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Berlin news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin%20news",
+        "pubdate": "Wed, 18 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nagelsmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
         "pubdate": "Sat, 14 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frauen-Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauen-Bundesliga",
+        "pubdate": "Sat, 14 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
