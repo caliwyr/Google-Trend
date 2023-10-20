@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2023 , 05:44:51",
+  "lastUpdate": "20-10-2023 , 05:54:13",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Cruzeiro  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cruzeiro%20%20Flamengo",
+        "pubdate": "Thu, 19 Oct 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sammis Reyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sammis%20Reyes",
         "pubdate": "Thu, 19 Oct 2023 23:00:00 -0300"
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Tomás Barrios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%C3%A1s%20Barrios",
-        "pubdate": "Thu, 19 Oct 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense",
         "pubdate": "Thu, 19 Oct 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cruzeiro  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cruzeiro%20%20Flamengo",
-        "pubdate": "Thu, 19 Oct 2023 21:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cancer de mama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cancer%20de%20mama",
         "pubdate": "Thu, 19 Oct 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Marlon Wayans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marlon%20Wayans",
+        "pubdate": "Thu, 19 Oct 2023 19:00:00 -0300"
       }
     ]
   ]
