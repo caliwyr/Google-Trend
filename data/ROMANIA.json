@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2023 , 23:57:07",
+  "lastUpdate": "20-10-2023 , 01:04:05",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Ana Morodan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Morodan",
         "pubdate": "Thu, 19 Oct 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "UTA Arad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad",
+        "pubdate": "Thu, 19 Oct 2023 18:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nicolo Fagioli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolo%20Fagioli",
         "pubdate": "Wed, 18 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CCR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CCR",
-        "pubdate": "Wed, 18 Oct 2023 12:00:00 +0300"
       }
     ]
   ]
