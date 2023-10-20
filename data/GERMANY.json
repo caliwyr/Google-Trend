@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-10-2023 , 18:41:33",
+  "lastUpdate": "20-10-2023 , 18:51:05",
   "data": [
     [
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund gegen Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20gegen%20Werder%20Bremen",
+        "pubdate": "Fri, 20 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Hackney Diamonds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hackney%20Diamonds",
+        "title": "Rolling Stones Hackney Diamonds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones%20Hackney%20Diamonds",
         "pubdate": "Fri, 20 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hannover 96",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "pubdate": "Fri, 20 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -38,30 +52,9 @@
     ],
     [
       {
-        "title": "Rechnung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rechnung",
-        "pubdate": "Fri, 20 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cities: Skylines 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cities:%20Skylines%202",
         "pubdate": "Fri, 20 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Strack-Zimmermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
-        "pubdate": "Fri, 20 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Markus Söder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20S%C3%B6der",
-        "pubdate": "Fri, 20 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,23 @@
     ],
     [
       {
-        "title": "Robert Downey Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Downey%20Jr",
-        "pubdate": "Thu, 19 Oct 2023 20:00:00 +0200"
+        "title": "Salman Rushdie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Salman%20Rushdie",
+        "pubdate": "Fri, 20 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michelle",
+        "pubdate": "Fri, 20 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ostsee Sturmflut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ostsee%20Sturmflut",
+        "pubdate": "Thu, 19 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,15 +101,15 @@
     ],
     [
       {
-        "title": "Sturmflut Ostsee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostsee",
+        "title": "Sahra Wagenknecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
+        "title": "Sturmflut Ostsee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostsee",
         "pubdate": "Wed, 18 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "El Ghazi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ghazi",
         "pubdate": "Tue, 17 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland Mexiko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Mexiko",
-        "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
