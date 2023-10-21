@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 19:48:52",
+  "lastUpdate": "21-10-2023 , 19:58:13",
   "data": [
     [
       {
@@ -10,15 +10,15 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 +0700"
       }
     ],
@@ -33,6 +33,20 @@
       {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter",
+        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ket qua bong da anh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ket%20qua%20bong%20da%20anh",
+        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ufc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ufc",
         "pubdate": "Sun, 22 Oct 2023 01:00:00 +0700"
       }
     ],
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Ufc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ufc",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0700"
+        "title": "Xoi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xoi",
+        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0700"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Man City đấu với Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Brighton",
-        "pubdate": "Sat, 21 Oct 2023 21:00:00 +0700"
+        "title": "Liverpool đấu với Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Everton",
+        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0700"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City",
+        "pubdate": "Sat, 21 Oct 2023 21:00:00 +0700"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "Lịch thi đấu ngoại hạng anh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20ngo%E1%BA%A1i%20h%E1%BA%A1ng%20anh",
         "pubdate": "Sat, 21 Oct 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Premier league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20league",
+        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0700"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Premier league",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20league",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Al nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20nassr",
-        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Lich thi dau ngoai hang anh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lich%20thi%20dau%20ngoai%20hang%20anh",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0700"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Lịch ngoại hạng anh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20ngo%E1%BA%A1i%20h%E1%BA%A1ng%20anh",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Real madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20madrid",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
         "pubdate": "Sat, 21 Oct 2023 22:00:00 +0700"
       }
     ]
