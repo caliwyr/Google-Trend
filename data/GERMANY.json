@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-10-2023 , 13:52:02",
+  "lastUpdate": "21-10-2023 , 14:03:45",
   "data": [
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
-        "pubdate": "Sat, 21 Oct 2023 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "HSV",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Sat, 21 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Sat, 21 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Premier%20League",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -54,6 +54,13 @@
       {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Thunberg",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rolling%20Stones",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Deutschland Mexiko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Mexiko",
         "pubdate": "Mon, 16 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polen Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polen%20Wahlen",
-        "pubdate": "Sun, 15 Oct 2023 13:00:00 +0200"
       }
     ]
   ]
