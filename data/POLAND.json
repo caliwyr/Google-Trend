@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 02:52:23",
+  "lastUpdate": "21-10-2023 , 03:06:55",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tour%20de%20France",
-        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rolling%20Stones",
         "pubdate": "Fri, 20 Oct 2023 10:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mick%20Jagger",
         "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ed Sheeran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ed%20Sheeran",
+        "pubdate": "Fri, 20 Oct 2023 12:00:00 +0200"
       }
     ]
   ]

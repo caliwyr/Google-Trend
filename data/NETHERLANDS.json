@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 02:52:22",
+  "lastUpdate": "21-10-2023 , 03:06:54",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
-        "pubdate": "Fri, 20 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Floor Jansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floor%20Jansen",
         "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Suzan en freek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzan%20en%20freek",
-        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Haydn Gwynne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haydn%20Gwynne",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
@@ -117,6 +103,13 @@
       {
         "title": "FC Den Bosch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
+        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
         "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Joran van der Sloot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joran%20van%20der%20Sloot",
         "pubdate": "Wed, 18 Oct 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Biden",
+        "pubdate": "Wed, 18 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
