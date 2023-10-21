@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 15:50:20",
+  "lastUpdate": "21-10-2023 , 15:59:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Peter Faber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Peter%20Faber",
         "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "De Graafschap  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap%20%20Groningen",
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -48,20 +55,6 @@
         "title": "Streamers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Streamers",
         "pubdate": "Fri, 20 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -83,13 +76,6 @@
         "title": "The Other Zoey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Other%20Zoey",
         "pubdate": "Fri, 20 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cher",
-        "pubdate": "Fri, 20 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
         "pubdate": "Mon, 16 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oranje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
+        "pubdate": "Mon, 16 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Louis Tomlinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Louis%20Tomlinson",
+        "pubdate": "Sun, 15 Oct 2023 16:00:00 +0200"
       }
     ]
   ]

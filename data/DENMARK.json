@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-10-2023 , 15:50:15",
+  "lastUpdate": "21-10-2023 , 15:59:35",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
         "pubdate": "Sat, 21 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Brighton",
+        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "GTA 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GTA%206",
-        "pubdate": "Sat, 21 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Meryl Streep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meryl%20Streep",
         "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Emma Raducanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emma%20Raducanu",
-        "pubdate": "Sat, 21 Oct 2023 11:00:00 +0200"
+        "title": "GTA 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GTA%206",
+        "pubdate": "Sat, 21 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Spider-Man 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spider-Man%202",
-        "pubdate": "Fri, 20 Oct 2023 12:00:00 +0200"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
+        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
+        "title": "Spider-Man 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spider-Man%202",
+        "pubdate": "Fri, 20 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ed%20Sheeran",
-        "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LaLiga",
+        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
-        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
+        "title": "Ed Sheeran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ed%20Sheeran",
+        "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Lopez",
-        "pubdate": "Fri, 20 Oct 2023 23:00:00 +0200"
+        "title": "Khamzat Chimaev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Khamzat%20Chimaev",
+        "pubdate": "Fri, 20 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
