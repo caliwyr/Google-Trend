@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 05:44:31",
+  "lastUpdate": "21-10-2023 , 05:53:49",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "FPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FPL",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Hilal",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0100"
       }
     ],
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LaLiga",
-        "pubdate": "Fri, 20 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rotherham vs Ipswich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rotherham%20vs%20Ipswich",
         "pubdate": "Fri, 20 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saudi Pro League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saudi%20Pro%20League",
-        "pubdate": "Fri, 20 Oct 2023 19:00:00 +0100"
       }
     ],
     [
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "EndSARS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#EndSARS",
-        "pubdate": "Fri, 20 Oct 2023 11:00:00 +0100"
+        "title": "Samsung Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Samsung%20Galaxy",
+        "pubdate": "Fri, 20 Oct 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Samsung Galaxy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Samsung%20Galaxy",
-        "pubdate": "Fri, 20 Oct 2023 09:00:00 +0100"
+        "title": "EndSARS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#EndSARS",
+        "pubdate": "Fri, 20 Oct 2023 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Inter Miami vs Charlotte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami%20vs%20Charlotte",
         "pubdate": "Thu, 19 Oct 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bode Agusto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bode%20Agusto",
+        "pubdate": "Thu, 19 Oct 2023 14:00:00 +0100"
       }
     ]
   ]

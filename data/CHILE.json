@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 05:44:25",
+  "lastUpdate": "21-10-2023 , 05:53:43",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Boca Juniors  Unión",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Uni%C3%B3n",
         "pubdate": "Fri, 20 Oct 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Entradas Panamericanos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Entradas%20Panamericanos",
+        "pubdate": "Fri, 20 Oct 2023 01:00:00 -0300"
       }
     ],
     [
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "iPhone 15 Pro Max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone%2015%20Pro%20Max",
-        "pubdate": "Fri, 20 Oct 2023 14:00:00 -0300"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
+        "pubdate": "Fri, 20 Oct 2023 21:00:00 -0300"
       }
     ],
     [
@@ -80,8 +80,15 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
+        "title": "iPhone 15 Pro Max",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone%2015%20Pro%20Max",
+        "pubdate": "Fri, 20 Oct 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 -0300"
       }
     ],
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
-        "pubdate": "Fri, 20 Oct 2023 21:00:00 -0300"
+        "title": "Dortmund - Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20-%20Werder%20Bremen",
+        "pubdate": "Fri, 20 Oct 2023 18:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Villa Panamericana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villa%20Panamericana",
         "pubdate": "Fri, 20 Oct 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
-        "pubdate": "Fri, 20 Oct 2023 16:00:00 -0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2023 , 05:44:33",
+  "lastUpdate": "21-10-2023 , 05:53:51",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
-        "pubdate": "Sat, 21 Oct 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201",
         "pubdate": "Sat, 21 Oct 2023 01:00:00 +0200"
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elite",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Michelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
-        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
+        "title": "FC Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Porto",
+        "pubdate": "Sat, 21 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Monte-Rosa-Hütte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monte-Rosa-H%C3%BCtte",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Lusitânia - Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lusit%C3%A2nia%20-%20Benfica",
+        "pubdate": "Fri, 20 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Challenge League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
         "pubdate": "Fri, 20 Oct 2023 19:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Tim Burton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Burton",
         "pubdate": "Fri, 20 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC 294",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC%20294",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rugby",
-        "pubdate": "Fri, 20 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
