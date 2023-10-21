@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-10-2023 , 18:48:13",
+  "lastUpdate": "21-10-2023 , 18:57:18",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
         "pubdate": "Sat, 21 Oct 2023 03:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
-        "pubdate": "Sat, 21 Oct 2023 00:00:00 -0400"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Raptors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
         "pubdate": "Sat, 21 Oct 2023 11:00:00 -0400"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Netherlands vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Netherlands%20vs%20Sri%20Lanka",
-        "pubdate": "Sat, 21 Oct 2023 02:00:00 -0400"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sat, 21 Oct 2023 10:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Sat, 21 Oct 2023 10:00:00 -0400"
+        "title": "Netherlands vs Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Netherlands%20vs%20Sri%20Lanka",
+        "pubdate": "Sat, 21 Oct 2023 02:00:00 -0400"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "NLE Choppa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NLE%20Choppa",
-        "pubdate": "Sat, 21 Oct 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
         "pubdate": "Sat, 21 Oct 2023 12:00:00 -0400"
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Hurricane Tammy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hurricane%20Tammy",
-        "pubdate": "Sat, 21 Oct 2023 09:00:00 -0400"
+        "title": "Meryl Streep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meryl%20Streep",
+        "pubdate": "Sat, 21 Oct 2023 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Sir Bobby Charlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sir%20Bobby%20Charlton",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 -0400"
+        "title": "Emily Blunt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emily%20Blunt",
+        "pubdate": "Sat, 21 Oct 2023 10:00:00 -0400"
       }
     ],
     [
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Emily Blunt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emily%20Blunt",
-        "pubdate": "Sat, 21 Oct 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Meryl Streep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meryl%20Streep",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Deshaun Watson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Deshaun%20Watson",
         "pubdate": "Sat, 21 Oct 2023 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC",
+        "pubdate": "Fri, 20 Oct 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rugby World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rugby%20World%20Cup",
+        "pubdate": "Fri, 20 Oct 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Australia vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Pakistan",
+        "pubdate": "Fri, 20 Oct 2023 06:00:00 -0400"
       }
     ]
   ]
