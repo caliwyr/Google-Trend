@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-10-2023 , 06:08:17",
+  "lastUpdate": "22-10-2023 , 06:26:18",
   "data": [
-    [
-      {
-        "title": "MELISSA NASCHENWENG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MELISSA%20NASCHENWENG",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Helene Fischer",
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Bobby Charlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bobby%20Charlton",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galatasaray",
         "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Bobby Charlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bobby%20Charlton",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Roger Whittaker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Roger%20Whittaker",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Bayern",
+        "pubdate": "Sat, 21 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,22 +87,8 @@
     ],
     [
       {
-        "title": "Blau-Weiß Linz gegen Austria Lustenau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blau-Wei%C3%9F%20Linz%20gegen%20Austria%20Lustenau",
-        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Bayern",
         "pubdate": "Sat, 21 Oct 2023 19:00:00 +0200"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Blau-Weiß Linz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blau-Wei%C3%9F%20Linz",
+        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sarah Engels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sarah%20Engels",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tennis-Point insolvenzverfahren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tennis-Point%20insolvenzverfahren",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
