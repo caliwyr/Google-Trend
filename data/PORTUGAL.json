@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "22-10-2023 , 03:52:37",
+  "lastUpdate": "22-10-2023 , 04:08:24",
   "data": [
+    [
+      {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Sun, 22 Oct 2023 03:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20A",
         "pubdate": "Sun, 22 Oct 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Resultado do Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Resultado%20do%20Sporting",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Bobby Charlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bobby%20Charlton",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0100"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Premier%20League",
+        "pubdate": "Sat, 21 Oct 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Premier%20League",
-        "pubdate": "Sat, 21 Oct 2023 10:00:00 +0100"
+        "title": "Bobby Charlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bobby%20Charlton",
+        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0100"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Paddy Cosgrave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paddy%20Cosgrave",
+        "pubdate": "Sat, 21 Oct 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
         "pubdate": "Sat, 21 Oct 2023 14:00:00 +0100"
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Paddy Cosgrave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paddy%20Cosgrave",
-        "pubdate": "Sat, 21 Oct 2023 09:00:00 +0100"
+        "title": "City  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Brighton",
+        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0100"
       }
     ],
     [
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "City  Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Brighton",
-        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0100"
+        "title": "Sheffield United  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sheffield%20United%20%20Manchester%20United",
+        "pubdate": "Sat, 21 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -90,6 +111,13 @@
         "title": "Quando Muda a hora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quando%20Muda%20a%20hora",
         "pubdate": "Sat, 21 Oct 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Celta de Vigo  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Celta%20de%20Vigo%20%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 21 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
-        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sara Carreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sara%20Carreira",
-        "pubdate": "Sat, 21 Oct 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Morangos com Açúcar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morangos%20com%20A%C3%A7%C3%BAcar",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Celta de Vigo  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Celta%20de%20Vigo%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sat, 21 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Charlotte FC  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Charlotte%20FC%20%20Inter%20Miami",
+        "title": "SAO Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SAO%20Paulo",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0100"
       }
     ]
