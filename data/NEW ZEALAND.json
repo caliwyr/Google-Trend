@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "22-10-2023 , 05:52:22",
+  "lastUpdate": "22-10-2023 , 06:08:24",
   "data": [
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
         "pubdate": "Sun, 22 Oct 2023 03:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-        "pubdate": "Sun, 22 Oct 2023 02:00:00 +1300"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+        "pubdate": "Sun, 22 Oct 2023 05:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Arsenal",
         "pubdate": "Sun, 22 Oct 2023 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Everton",
+        "pubdate": "Sun, 22 Oct 2023 02:00:00 +1300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bundesliga",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "India vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20New%20Zealand",
         "pubdate": "Sun, 22 Oct 2023 13:00:00 +1300"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Women's rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Women's%20rugby",
-        "pubdate": "Sun, 22 Oct 2023 11:00:00 +1300"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bundesliga",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +1300"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +1300"
+        "title": "Women's rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Women's%20rugby",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +1300"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Taranaki vs Hawke's Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taranaki%20vs%20Hawke's%20Bay",
-        "pubdate": "Sat, 21 Oct 2023 15:00:00 +1300"
+        "title": "NPC final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NPC%20final",
+        "pubdate": "Sat, 21 Oct 2023 14:00:00 +1300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Wxv rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wxv%20rugby",
-        "pubdate": "Sat, 21 Oct 2023 20:00:00 +1300"
+        "title": "A League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A%20League",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +1300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 05:52:17",
+  "lastUpdate": "22-10-2023 , 06:08:20",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
-        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
+        "title": "Bayern Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Mainz",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Sat, 21 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sat, 21 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Sat, 21 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sat, 21 Oct 2023 14:00:00 +0200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Rugby-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rugby-WM",
         "pubdate": "Fri, 20 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Regionalliga Nordost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Regionalliga%20Nordost",
-        "pubdate": "Fri, 20 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Strack-Zimmermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
-        "pubdate": "Fri, 20 Oct 2023 01:00:00 +0200"
       }
     ]
   ]
