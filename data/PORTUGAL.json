@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 19:27:02",
+  "lastUpdate": "22-10-2023 , 19:36:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#La%20Liga",
         "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jovem desaparecido em Gaia encontrado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jovem%20desaparecido%20em%20Gaia%20encontrado",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Jovem desaparecido em Gaia encontrado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jovem%20desaparecido%20em%20Gaia%20encontrado",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ajax",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20A",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0100"
+        "title": "Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -52,30 +59,9 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ajax",
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Castanheira do Ribatejo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Castanheira%20do%20Ribatejo",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brasileirão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasileir%C3%A3o",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gil Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +80,6 @@
     ],
     [
       {
-        "title": "Maritimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "AS Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AS%20Roma",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
@@ -108,9 +87,23 @@
     ],
     [
       {
+        "title": "Maritimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aston%20Villa",
         "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Castanheira do Ribatejo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Castanheira%20do%20Ribatejo",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0100"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Dumiense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dumiense",
+        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pele",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Scorsese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Scorsese",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0100"
+        "title": "Samuel Barata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Samuel%20Barata",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0100"
       }
     ]
   ]

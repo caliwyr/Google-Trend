@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 19:26:56",
+  "lastUpdate": "22-10-2023 , 19:36:16",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#La%20Liga",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GTA%206",
         "pubdate": "Sat, 21 Oct 2023 12:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0300"
       }
     ]
   ]

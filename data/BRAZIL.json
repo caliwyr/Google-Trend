@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 19:26:55",
+  "lastUpdate": "22-10-2023 , 19:36:14",
   "data": [
     [
       {
@@ -45,23 +45,16 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coritiba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
-        "pubdate": "Sun, 22 Oct 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ricardo Viana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ricardo%20Viana",
         "pubdate": "Sun, 22 Oct 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 -0500"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lille",
         "pubdate": "Sun, 22 Oct 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monaco",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 -0500"
       }
     ],
     [
