@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 07:46:38",
+  "lastUpdate": "22-10-2023 , 07:55:57",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Leonardo da Vinci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonardo%20da%20Vinci",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
+        "title": "Ambra Sabatini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ambra%20Sabatini",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "Antonio Caprarica giornalista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonio%20Caprarica%20giornalista",
         "pubdate": "Sun, 22 Oct 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leonardo da Vinci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonardo%20da%20Vinci",
+        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Salernitana-Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana-Cagliari",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trent Alexander-Arnold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trent%20Alexander-Arnold",
         "pubdate": "Sun, 22 Oct 2023 05:00:00 +0200"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Salernitana-Cagliari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana-Cagliari",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Primavera 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Primavera%201",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mainz-Bayern Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mainz-Bayern%20Monaco",
+        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -68,7 +82,7 @@
       {
         "title": "Sassuolo-Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo-Lazio",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
+        "pubdate": "Sat, 21 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Lorenzo Licitra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Licitra",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Staino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sergio%20Staino",
-        "pubdate": "Sat, 21 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Milan-Juve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Juve",
-        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liverpool-Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liverpool-Everton",
+        "title": "Staino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Staino",
         "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Newcastle-Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Newcastle-Crystal%20Palace",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0200"
+        "title": "Milan-Juve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Juve",
+        "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
