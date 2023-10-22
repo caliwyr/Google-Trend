@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 11:09:23",
+  "lastUpdate": "22-10-2023 , 11:18:48",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "GTA 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GTA%206",
+        "pubdate": "Sat, 21 Oct 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Manchester City – Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Brighton",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Hello Kitty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hello%20Kitty",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0300"
       }
     ]
   ]

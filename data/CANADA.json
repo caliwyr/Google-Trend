@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "22-10-2023 , 11:09:21",
+  "lastUpdate": "22-10-2023 , 11:18:46",
   "data": [
     [
       {
         "title": "Saskatchewan Roughriders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saskatchewan%20Roughriders",
+        "pubdate": "Sun, 22 Oct 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Vancouver Whitecaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vancouver%20Whitecaps",
         "pubdate": "Sun, 22 Oct 2023 01:00:00 -0400"
       }
     ],
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "IND vs NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IND%20vs%20NZ",
+        "pubdate": "Sat, 21 Oct 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Maple Leafs vs Lightning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Lightning",
         "pubdate": "Sat, 21 Oct 2023 20:00:00 -0400"
@@ -80,23 +94,9 @@
     ],
     [
       {
-        "title": "IND vs NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IND%20vs%20NZ",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Sheffield United vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sheffield%20United%20vs%20Man%20United",
         "pubdate": "Sat, 21 Oct 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Whitecaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 -0400"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Whitecaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Whitecaps",
+        "pubdate": "Sat, 21 Oct 2023 19:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Capitals – Canadiens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Capitals%20%E2%80%93%20Canadiens",
         "pubdate": "Sat, 21 Oct 2023 20:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20a",
         "pubdate": "Sat, 21 Oct 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Detroit Red Wings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Red%20Wings",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 -0400"
       }
     ]
   ]

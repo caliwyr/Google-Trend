@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "22-10-2023 , 11:09:27",
+  "lastUpdate": "22-10-2023 , 11:18:51",
   "data": [
-    [
-      {
-        "title": "Wintertijd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wintertijd",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sat, 21 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC",
-        "pubdate": "Sat, 21 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -31,6 +17,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC",
+        "pubdate": "Sat, 21 Oct 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "Bobby Charlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bobby%20Charlton",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sat, 21 Oct 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sat, 21 Oct 2023 20:00:00 +0200"
+        "title": "Bobby Charlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bobby%20Charlton",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
       }
     ],
     [
