@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 17:44:44",
+  "lastUpdate": "22-10-2023 , 17:53:57",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
+        "pubdate": "Sat, 21 Oct 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Liverpool – Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Everton",
         "pubdate": "Sat, 21 Oct 2023 15:00:00 +0300"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
-        "pubdate": "Sat, 21 Oct 2023 22:00:00 +0300"
+        "title": "Patrik Laine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrik%20Laine",
+        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Patrik Laine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Patrik%20Laine",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0300"
+        "title": "Helsinki Horse Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Helsinki%20Horse%20Show",
+        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0300"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
         "pubdate": "Sat, 21 Oct 2023 23:00:00 +0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Meryl Streep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meryl%20Streep",
-        "pubdate": "Sat, 21 Oct 2023 19:00:00 +0300"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
+        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0300"
       }
     ]
   ]
