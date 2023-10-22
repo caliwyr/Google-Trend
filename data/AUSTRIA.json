@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "22-10-2023 , 12:57:05",
+  "lastUpdate": "22-10-2023 , 13:15:19",
   "data": [
+    [
+      {
+        "title": "Andrea Berg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andrea%20Berg",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Helene Fischer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wladimir%20Putin",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -31,6 +45,20 @@
     ],
     [
       {
+        "title": "Wiener Stadttempel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Stadttempel",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Digitaler Führerschein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Digitaler%20F%C3%BChrerschein",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Abu Dhabi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Abu%20Dhabi",
         "pubdate": "Sun, 22 Oct 2023 07:00:00 +0200"
@@ -38,9 +66,9 @@
     ],
     [
       {
-        "title": "Wiener Stadttempel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Stadttempel",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+        "title": "SCR Altach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SCR%20Altach",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -62,13 +90,6 @@
         "title": "Sturm Graz gegen Hartberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20gegen%20Hartberg",
         "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LASK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Bayern",
         "pubdate": "Sat, 21 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea gegen Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea%20gegen%20Arsenal",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DTM",
-        "pubdate": "Sat, 21 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erste Bank Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erste%20Bank%20Open",
-        "pubdate": "Sat, 21 Oct 2023 01:00:00 +0200"
       }
     ]
   ]

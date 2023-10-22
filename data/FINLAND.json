@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-10-2023 , 12:57:07",
+  "lastUpdate": "22-10-2023 , 13:15:22",
   "data": [
-    [
-      {
-        "title": "John Cazale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#John%20Cazale",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Al Nassr",
@@ -20,6 +13,13 @@
         "title": "Kamaru Usman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamaru%20Usman",
         "pubdate": "Sun, 22 Oct 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adele",
+        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0300"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
+        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Meryl Streep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meryl%20Streep",
         "pubdate": "Sat, 21 Oct 2023 19:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Keanu%20Reeves",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
-        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0300"
       }
     ]
   ]

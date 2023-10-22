@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 12:57:14",
+  "lastUpdate": "22-10-2023 , 13:15:28",
   "data": [
     [
       {
@@ -38,20 +38,6 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
-        "pubdate": "Sun, 22 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fcbarcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fcbarcelona",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
@@ -66,13 +52,6 @@
     ],
     [
       {
-        "title": "Queen Elizabeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Queen%20Elizabeth",
-        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1 TODAY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20TODAY",
         "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
@@ -80,9 +59,9 @@
     ],
     [
       {
-        "title": "Liverpool vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Everton",
-        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
+        "title": "Queen Elizabeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Queen%20Elizabeth",
+        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -90,6 +69,13 @@
         "title": "Cricket World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
         "pubdate": "Sat, 21 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Everton",
+        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Sundowns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
         "pubdate": "Sat, 21 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC",
+        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
+        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
       }
     ]
   ]
