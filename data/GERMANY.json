@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 14:59:23",
+  "lastUpdate": "22-10-2023 , 15:17:43",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Salman Rushdie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Salman%20Rushdie",
+        "title": "Hansa Rostock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock",
         "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
       }
     ],
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Salman Rushdie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Salman%20Rushdie",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Bobby Charlton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bobby%20Charlton",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+        "title": "Florian Silbereisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Silbereisen",
+        "pubdate": "Sat, 21 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
         "pubdate": "Sat, 21 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bobby Charlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bobby%20Charlton",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 21 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florian Silbereisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Silbereisen",
-        "pubdate": "Sat, 21 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -87,20 +94,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
-        "pubdate": "Sat, 21 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Anders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Anders",
-        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joelina Drews",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joelina%20Drews",
         "pubdate": "Sat, 21 Oct 2023 21:00:00 +0200"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DTM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DTM",
         "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
@@ -129,8 +115,8 @@
     ],
     [
       {
-        "title": "Schwere Sturmflut Ostsee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwere%20Sturmflut%20Ostsee",
+        "title": "Sturmflut Ostsee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostsee",
         "pubdate": "Fri, 20 Oct 2023 17:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Strack-Zimmermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
         "pubdate": "Fri, 20 Oct 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturmflut Ostsee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostsee",
+        "pubdate": "Thu, 19 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sturmflut Ostseeküste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Ostseek%C3%BCste",
+        "pubdate": "Thu, 19 Oct 2023 17:00:00 +0200"
       }
     ]
   ]

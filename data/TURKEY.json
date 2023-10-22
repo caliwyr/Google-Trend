@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 14:59:31",
+  "lastUpdate": "22-10-2023 , 15:17:50",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter%20Miami",
         "pubdate": "Sun, 22 Oct 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Roma",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ajax",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0300"
       }
     ],
     [
@@ -31,37 +45,9 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ajax",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Roma",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mehmet Kısakürek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mehmet%20K%C4%B1sak%C3%BCrek",
-        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Mario Balotelli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mario%20Balotelli",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahçe Hatayspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Hatayspor",
-        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0300"
       }
     ],
     [
@@ -73,15 +59,22 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aston%20Villa",
-        "pubdate": "Sun, 22 Oct 2023 10:00:00 +0300"
+        "title": "Bodrumspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bodrumspor",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Bodrumspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bodrumspor",
+        "title": "Giresunspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Giresunspor",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Necip Fazıl Kısakürek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Necip%20Faz%C4%B1l%20K%C4%B1sak%C3%BCrek",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0300"
       }
     ],
@@ -103,7 +96,7 @@
       {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray",
-        "pubdate": "Sat, 21 Oct 2023 12:00:00 +0300"
+        "pubdate": "Sat, 21 Oct 2023 16:00:00 +0300"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool",
+        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kayserispor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor",
         "pubdate": "Sat, 21 Oct 2023 13:00:00 +0300"
       }
     ]
