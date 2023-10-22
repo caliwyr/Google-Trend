@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 10:15:01",
+  "lastUpdate": "22-10-2023 , 10:27:48",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Raechelle Chase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Raechelle%20Chase",
         "pubdate": "Sat, 21 Oct 2023 20:00:00 -0600"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Celta de Vigo  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celta%20de%20Vigo%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sat, 21 Oct 2023 14:00:00 -0600"
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 -0600"
       }
     ],
     [
@@ -118,6 +111,20 @@
         "title": "Newcastle  Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Newcastle%20%20Crystal%20Palace",
         "pubdate": "Sat, 21 Oct 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Atletico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atletico",
+        "pubdate": "Sat, 21 Oct 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Celta de Vigo  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celta%20de%20Vigo%20%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 21 Oct 2023 14:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Maneskin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maneskin",
         "pubdate": "Sat, 21 Oct 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Tabla de posiciones Liga MX 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tabla%20de%20posiciones%20Liga%20MX%202023",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 -0600"
       }
     ]
   ]
