@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-10-2023 , 22:56:47",
+  "lastUpdate": "22-10-2023 , 23:13:04",
   "data": [
     [
       {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
         "pubdate": "Sun, 22 Oct 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona  Ath Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Ath%20Bilbao",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Milan  Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan%20%20Juventus",
         "pubdate": "Sun, 22 Oct 2023 20:00:00 +0100"
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Torreense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torreense",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0100"
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#La%20liga",
+        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina",
+        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Torreense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torreense",
+        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Moncarapachense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moncarapachense",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Gil Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oliveirense-Boavista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliveirense-Boavista",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0100"
+        "title": "Farense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farense",
+        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aston%20Villa",
-        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
+        "title": "Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santos",
+        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina",
-        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0100"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aston%20Villa",
+        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Farense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farense",
-        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0100"
+        "title": "Boavista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boavista",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0100"
+        "title": "Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0100"
       }
     ]
   ]
