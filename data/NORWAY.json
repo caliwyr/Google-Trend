@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2023 , 20:58:57",
+  "lastUpdate": "22-10-2023 , 21:14:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "TV-aksjonen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TV-aksjonen",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Viking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rebecca Loos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rebecca%20Loos",
         "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Årets tv-aksjon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85rets%20tv-aksjon",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+        "title": "Dennis Hauger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dennis%20Hauger",
+        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "KFUM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dennis Hauger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dennis%20Hauger",
-        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Sat, 21 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC",
+        "pubdate": "Sat, 21 Oct 2023 04:00:00 +0200"
       }
     ]
   ]
