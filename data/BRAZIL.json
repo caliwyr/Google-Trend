@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 16:59:32",
+  "lastUpdate": "23-10-2023 , 17:15:26",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "CNH Popular",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNH%20Popular",
-        "pubdate": "Mon, 23 Oct 2023 06:00:00 -0500"
+        "title": "CNH Popular 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNH%20Popular%202023",
+        "pubdate": "Mon, 23 Oct 2023 08:00:00 -0500"
       }
     ],
     [
@@ -31,9 +31,16 @@
     ],
     [
       {
+        "title": "Contracheque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Contracheque",
+        "pubdate": "Mon, 23 Oct 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians",
-        "pubdate": "Sun, 22 Oct 2023 07:00:00 -0500"
+        "pubdate": "Sun, 22 Oct 2023 06:00:00 -0500"
       }
     ],
     [
@@ -61,7 +68,7 @@
       {
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
-        "pubdate": "Sun, 22 Oct 2023 12:00:00 -0500"
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 -0500"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Atletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jogo do Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Palmeiras",
         "pubdate": "Sun, 22 Oct 2023 10:00:00 -0500"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Ricardo Viana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ricardo%20Viana",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 -0500"
+        "title": "Jogo do Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Cruzeiro",
+        "pubdate": "Sun, 22 Oct 2023 12:00:00 -0500"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Brusque x Amazonas FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brusque%20x%20Amazonas%20FC",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Brusque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brusque",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
-        "pubdate": "Sun, 22 Oct 2023 18:00:00 -0500"
+        "title": "Ricardo Viana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ricardo%20Viana",
+        "pubdate": "Sun, 22 Oct 2023 07:00:00 -0500"
       }
     ]
   ]
