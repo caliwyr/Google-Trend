@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 03:33:51",
+  "lastUpdate": "23-10-2023 , 03:42:56",
   "data": [
     [
       {
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "28 října",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#28%20%C5%99%C3%ADjna",
+        "title": "28. října",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#28.%20%C5%99%C3%ADjna",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Ivana Uhlířová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20Uhl%C3%AD%C5%99ov%C3%A1",
+        "pubdate": "Sat, 21 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Sat, 21 Oct 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Barcelona – Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Bilbao",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Změna času",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zm%C4%9Bna%20%C4%8Dasu",
-        "pubdate": "Sat, 21 Oct 2023 17:00:00 +0200"
       }
     ]
   ]
