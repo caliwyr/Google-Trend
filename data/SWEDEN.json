@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-10-2023 , 17:26:21",
+  "lastUpdate": "23-10-2023 , 17:35:49",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "VSK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
-        "pubdate": "Mon, 23 Oct 2023 07:00:00 +0200"
+        "title": "FN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Anthony Greco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anthony%20Greco",
         "pubdate": "Mon, 23 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VSK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
+        "pubdate": "Mon, 23 Oct 2023 07:00:00 +0200"
       }
     ],
     [
