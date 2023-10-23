@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 07:26:03",
+  "lastUpdate": "23-10-2023 , 07:35:32",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "McDavid injury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#McDavid%20injury",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLS",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 -0400"
@@ -54,14 +61,7 @@
       {
         "title": "Connor McDavid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
-        "pubdate": "Sun, 22 Oct 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "McDavid injury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#McDavid%20injury",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 -0400"
+        "pubdate": "Sun, 22 Oct 2023 23:00:00 -0400"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Isle of Man",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Isle%20of%20Man",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Travis Dermott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Travis%20Dermott",
         "pubdate": "Sun, 22 Oct 2023 04:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Rebecca Loos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rebecca%20Loos",
         "pubdate": "Sun, 22 Oct 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Argentina elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20elections",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 -0400"
       }
     ]
   ]
