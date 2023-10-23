@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 18:56:52",
+  "lastUpdate": "23-10-2023 , 19:11:21",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "VSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
         "pubdate": "Mon, 23 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elfsborg AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20AIK",
+        "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -94,15 +101,15 @@
     ],
     [
       {
-        "title": "Eskilstuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eskilstuna",
+        "title": "Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
+        "title": "Eskilstuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eskilstuna",
         "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Meryl Streep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meryl%20Streep",
         "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RS-virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#RS-virus",
-        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
