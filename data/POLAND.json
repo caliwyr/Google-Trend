@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 05:25:28",
+  "lastUpdate": "23-10-2023 , 05:35:10",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Widzew Łódź – Ruch Chorzów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Widzew%20%C5%81%C3%B3d%C5%BA%20%E2%80%93%20Ruch%20Chorz%C3%B3w",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Milan%20%E2%80%93%20Juventus",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
@@ -26,27 +33,13 @@
       {
         "title": "Zmiana czasu na zimowy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmiana%20czasu%20na%20zimowy",
-        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
+        "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Radomiak – korona-kielce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radomiak%20%E2%80%93%20korona-kielce",
-        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Widzew Ruch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Widzew%20Ruch",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polonia Warszawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polonia%20Warszawa",
+        "title": "Egzorcysta papieża",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Egzorcysta%20papie%C5%BCa",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ],
@@ -62,6 +55,20 @@
         "title": "Marc Guiu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marc%20Guiu",
         "pubdate": "Sun, 22 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GraphQL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GraphQL",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polonia Warszawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polonia%20Warszawa",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Górnik Łęczna – GKS Katowice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C3%B3rnik%20%C5%81%C4%99czna%20%E2%80%93%20GKS%20Katowice",
         "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GP USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GP%20USA",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "AS Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AS%20Roma",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
+        "title": "Ewa Ewart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Ewart",
+        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
