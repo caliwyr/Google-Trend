@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-10-2023 , 13:23:06",
+  "lastUpdate": "23-10-2023 , 13:32:34",
   "data": [
-    [
-      {
-        "title": "Marathon Antwerpen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Antwerpen",
-        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eredivisie",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Incendie Auvelais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incendie%20Auvelais",
-        "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dave Chappelle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dave%20Chappelle",
         "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
@@ -62,6 +48,13 @@
         "title": "Lyon Foot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lyon%20Foot",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ol",
+        "pubdate": "Mon, 23 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Islam Makhachev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Islam%20Makhachev",
         "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Standard de Liège",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20de%20Li%C3%A8ge",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
       }
     ]
   ]
