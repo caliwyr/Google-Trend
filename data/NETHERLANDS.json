@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 10:58:34",
+  "lastUpdate": "23-10-2023 , 11:14:01",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Hlynsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hlynsson",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
+        "title": "Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
+        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Hlynsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hlynsson",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PEC Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "College Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#College%20Tour",
+        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Volendam FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam%20FC",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cher",
-        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Volendam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pieter Omtzigt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
-        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vincent van Gogh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vincent%20van%20Gogh",
+        "pubdate": "Sat, 21 Oct 2023 23:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 10:58:28",
+  "lastUpdate": "23-10-2023 , 11:13:55",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras",
+        "pubdate": "Sun, 22 Oct 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 -0500"
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Ricardo Viana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ricardo%20Viana",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 -0500"
@@ -48,13 +62,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
         "pubdate": "Sun, 22 Oct 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ricardo Viana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ricardo%20Viana",
-        "pubdate": "Sun, 22 Oct 2023 07:00:00 -0500"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
-        "pubdate": "Sun, 22 Oct 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 -0500"
@@ -104,6 +104,13 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
         "pubdate": "Sun, 22 Oct 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
+        "pubdate": "Sun, 22 Oct 2023 18:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Criciuma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Criciuma",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Payet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Payet",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 -0500"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 10:58:31",
+  "lastUpdate": "23-10-2023 , 11:13:57",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Braun-Pivet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Braun-Pivet",
+        "title": "Argentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Argentine",
         "pubdate": "Mon, 23 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marion Cotillard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marion%20Cotillard",
+        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Guerre Israël-Hamas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guerre%20Isra%C3%ABl-Hamas",
         "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Javier%20Milei",
-        "pubdate": "Mon, 23 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Caroline Fourest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Caroline%20Fourest",
-        "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fanny Ardant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fanny%20Ardant",
         "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AC%20Milan%20%E2%80%93%20Juventus",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,23 +87,9 @@
     ],
     [
       {
-        "title": "Deneuve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Deneuve",
+        "title": "AC Milan – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AC%20Milan%20%E2%80%93%20Juventus",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Puy du Fou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Puy%20du%20Fou",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Nantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,6 +101,34 @@
     ],
     [
       {
+        "title": "Puy du Fou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Puy%20du%20Fou",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Patrick Bruel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Bruel",
+        "pubdate": "Sun, 22 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Nantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Catherine Deneuve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Catherine%20Deneuve",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LOSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "TFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TFC",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
+        "title": "Classement f1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Classement%20f1",
+        "pubdate": "Sun, 22 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
