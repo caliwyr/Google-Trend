@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-10-2023 , 21:28:13",
+  "lastUpdate": "23-10-2023 , 21:37:24",
   "data": [
     [
       {
         "title": "Utrecht Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20Ajax",
         "pubdate": "Mon, 23 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
-        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
+        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Mon, 23 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Serval",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serval",
-        "pubdate": "Mon, 23 Oct 2023 15:00:00 +0200"
+        "title": "Corine Hartman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Corine%20Hartman",
+        "pubdate": "Mon, 23 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Hans Dorrestijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hans%20Dorrestijn",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serval",
+        "pubdate": "Mon, 23 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,8 +115,22 @@
     ],
     [
       {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PEC Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Volendam FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam%20FC",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam",
-        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Utrecht - Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20-%20Ajax",
-        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Utrecht Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20Ajax",
-        "pubdate": "Sat, 21 Oct 2023 12:00:00 +0200"
       }
     ]
   ]

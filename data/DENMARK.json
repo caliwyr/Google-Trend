@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 21:28:08",
+  "lastUpdate": "23-10-2023 , 21:37:19",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "TikTok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
         "pubdate": "Mon, 23 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
+        "pubdate": "Mon, 23 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Timer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timer",
-        "pubdate": "Mon, 23 Oct 2023 13:00:00 +0200"
+        "title": "Clio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clio",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Wegovy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wegovy",
+        "pubdate": "Mon, 23 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dave Courtney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dave%20Courtney",
         "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Tetris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tetris",
-        "pubdate": "Mon, 23 Oct 2023 12:00:00 +0200"
+        "title": "Carol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carol",
+        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Carol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carol",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Min",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Min",
         "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duolingo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duolingo",
-        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
       }
     ]
   ]
