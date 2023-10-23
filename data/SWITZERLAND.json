@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 02:55:02",
+  "lastUpdate": "23-10-2023 , 03:11:29",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Wahlen Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wahlen Bern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Bern",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Nationalrat Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nationalrat%20Schweiz",
-        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
+        "title": "Wahlen Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Petra Gössi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petra%20G%C3%B6ssi",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
+        "title": "Nationalrat Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nationalrat%20Schweiz",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,20 @@
     ],
     [
       {
+        "title": "Petra Gössi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petra%20G%C3%B6ssi",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
+        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pierre-Yves Maillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pierre-Yves%20Maillard",
         "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
@@ -87,22 +94,8 @@
     ],
     [
       {
-        "title": "Khamzat Chimaev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Khamzat%20Chimaev",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Abstimmung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung",
-        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
         "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Formel-1-Rennen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1-Rennen",
-        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
+        "title": "EDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EDU",
+        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
+        "pubdate": "Sun, 22 Oct 2023 08:00:00 +0200"
       }
     ]
   ]
