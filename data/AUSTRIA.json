@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 01:19:01",
+  "lastUpdate": "23-10-2023 , 02:00:40",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Murot und das Paradies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Murot%20und%20das%20Paradies",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
@@ -38,8 +31,15 @@
     ],
     [
       {
-        "title": "Wahl Südtirol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20S%C3%BCdtirol",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Südtirol-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCdtirol-Wahl",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Filip Misolic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Filip%20Misolic",
-        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+        "title": "Milan gegen Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20gegen%20Juventus",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Milan gegen Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20gegen%20Juventus",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+        "title": "Filip Misolic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Filip%20Misolic",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Südtirol wahlen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCdtirol%20wahlen%202023",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liechtenstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liechtenstein",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Deneuve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deneuve",
         "pubdate": "Sun, 22 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jugendwort 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jugendwort%202023",
+        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ]
   ]

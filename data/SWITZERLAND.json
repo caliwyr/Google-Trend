@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-10-2023 , 01:19:10",
+  "lastUpdate": "23-10-2023 , 02:00:48",
   "data": [
+    [
+      {
+        "title": "Nationalräte Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nationalr%C3%A4te%20Z%C3%BCrich",
+        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wahlen 2023",
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Wahlen Kanton Bern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Kanton%20Bern",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
+        "title": "Wahlen Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern",
+        "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wahlen Bern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Bern",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Petra Gössi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petra%20G%C3%B6ssi",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nationalrat Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nationalrat%20Schweiz",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Wahlen Luzern 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Luzern%202023",
+        "title": "Petra Gössi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petra%20G%C3%B6ssi",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
       }
     ],
@@ -89,6 +96,13 @@
       {
         "title": "Abstimmung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung",
+        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
         "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Formel-1-Rennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1-Rennen",
         "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EDU",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nationalrat Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nationalrat%20Z%C3%BCrich",
-        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
