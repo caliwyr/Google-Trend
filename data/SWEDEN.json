@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-10-2023 , 09:36:38",
+  "lastUpdate": "23-10-2023 , 09:45:56",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VSK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
+        "pubdate": "Mon, 23 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -31,20 +38,6 @@
     ],
     [
       {
-        "title": "Jonna Sundling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonna%20Sundling",
-        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rebecca Loos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rebecca%20Loos",
         "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
@@ -52,15 +45,15 @@
     ],
     [
       {
-        "title": "Kent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kent",
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
         "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
+        "title": "Kent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kent",
         "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -82,6 +75,20 @@
       {
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
+        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DIF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
+        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
         "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Allsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
-        "pubdate": "Sat, 21 Oct 2023 13:00:00 +0200"
       }
     ]
   ]
