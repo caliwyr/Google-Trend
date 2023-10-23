@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-10-2023 , 14:59:18",
+  "lastUpdate": "23-10-2023 , 15:17:54",
   "data": [
+    [
+      {
+        "title": "Orbán Viktor Veszprém",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor%20Veszpr%C3%A9m",
+        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Október 23 ünnep",
@@ -13,13 +20,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
         "pubdate": "Mon, 23 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Orbán Viktor Veszprém",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor%20Veszpr%C3%A9m",
-        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "FTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
-        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Milák Kristóf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
-        "pubdate": "Sun, 22 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Miller Dávid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miller%20D%C3%A1vid",
         "pubdate": "Sun, 22 Oct 2023 19:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Ganxsta Zolee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ganxsta%20Zolee",
         "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szekér Gergő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szek%C3%A9r%20Gerg%C5%91",
+        "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sandra Bullock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sandra%20Bullock",
+        "pubdate": "Sun, 22 Oct 2023 02:00:00 +0200"
       }
     ]
   ]

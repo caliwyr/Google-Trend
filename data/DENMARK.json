@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2023 , 14:59:16",
+  "lastUpdate": "23-10-2023 , 15:17:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Slope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
         "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
+        "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Web app",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Web%20app",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Xplore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Xplore",
         "pubdate": "Mon, 23 Oct 2023 13:00:00 +0200"
@@ -80,16 +94,23 @@
     ],
     [
       {
-        "title": "eBay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#eBay",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+        "title": "Moodle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Moodle",
+        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joan Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joan%20Collins",
-        "pubdate": "Sun, 22 Oct 2023 10:00:00 +0200"
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office",
+        "pubdate": "Mon, 23 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "eBay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#eBay",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#United",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kingsman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kingsman",
         "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20Zealand",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olivia Culpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Olivia%20Culpo",
-        "pubdate": "Sun, 22 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
-        "pubdate": "Sun, 22 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
