@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "23-10-2023 , 06:59:06",
+  "lastUpdate": "23-10-2023 , 07:17:09",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona",
         "pubdate": "Mon, 23 Oct 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rebecca Loos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rebecca%20Loos",
+        "pubdate": "Mon, 23 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mateschitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mateschitz",
+        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,8 +38,43 @@
     ],
     [
       {
+        "title": "Austria Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
+        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Murot und das Paradies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Murot%20und%20das%20Paradies",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marc Guiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marc%20Guiu",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wahl Südtirol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20S%C3%BCdtirol",
+        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SCR Altach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SCR%20Altach",
+        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan gegen Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20gegen%20Juventus",
         "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -38,20 +87,6 @@
     ],
     [
       {
-        "title": "Austria Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wahl Südtirol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20S%C3%BCdtirol",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Salman Rushdie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Salman%20Rushdie",
         "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
@@ -59,9 +94,9 @@
     ],
     [
       {
-        "title": "Milan gegen Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20gegen%20Juventus",
-        "pubdate": "Sun, 22 Oct 2023 21:00:00 +0200"
+        "title": "Gerhard Schröder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gerhard%20Schr%C3%B6der",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,23 +108,9 @@
     ],
     [
       {
-        "title": "SCR Altach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SCR%20Altach",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stadttempel Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stadttempel%20Wien",
         "pubdate": "Sun, 22 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gerhard Schröder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gerhard%20Schr%C3%B6der",
-        "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Helene Fischer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
-        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wahlen Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahlen%20Schweiz",
         "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "WSG Tirol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WSG%20Tirol",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wann ist Zeitumstellung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wann%20ist%20Zeitumstellung",
-        "pubdate": "Sun, 22 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Köln gegen Mönchengladbach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20gegen%20M%C3%B6nchengladbach",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
+        "pubdate": "Sun, 22 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
