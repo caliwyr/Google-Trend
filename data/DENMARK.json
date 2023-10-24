@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 13:54:53",
+  "lastUpdate": "24-10-2023 , 14:08:42",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Nicki Minaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicki%20Minaj",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Clio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clio",
         "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Snake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snake",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dave Courtney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dave%20Courtney",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
