@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 16:51:29",
+  "lastUpdate": "24-10-2023 , 17:01:45",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Liga dos campeoes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20dos%20campeoes",
+        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Joao felix Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20felix%20Barcelona",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0100"
@@ -62,6 +69,20 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA%20Champions%20League",
         "pubdate": "Tue, 24 Oct 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rio de Janeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20de%20Janeiro",
+        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica",
+        "pubdate": "Mon, 23 Oct 2023 08:00:00 +0100"
       }
     ],
     [
@@ -87,23 +108,9 @@
     ],
     [
       {
-        "title": "Benfica-Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica-Real%20Sociedad",
-        "pubdate": "Mon, 23 Oct 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bobi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bobi",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mudança hora Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mudan%C3%A7a%20hora%20Portugal",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Al-Hilal  Mumbai City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Hilal%20%20Mumbai%20City",
-        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mathieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mathieu",
-        "pubdate": "Mon, 23 Oct 2023 18:00:00 +0100"
+        "title": "Mudança hora Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mudan%C3%A7a%20hora%20Portugal",
+        "pubdate": "Mon, 23 Oct 2023 22:00:00 +0100"
       }
     ]
   ]
