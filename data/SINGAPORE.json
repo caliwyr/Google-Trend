@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 07:51:58",
+  "lastUpdate": "24-10-2023 , 08:08:40",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
         "pubdate": "Tue, 24 Oct 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin%20price",
+        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Putin",
+        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0800"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Rebecca Loos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rebecca%20Loos",
-        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0800"
+        "title": "ERP 2.0",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ERP%202.0",
+        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "ERP 2.0",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ERP%202.0",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0800"
+        "title": "Rebecca Loos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rebecca%20Loos",
+        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0800"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Sun, 22 Oct 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Premier%20League",
         "pubdate": "Sat, 21 Oct 2023 18:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Lion City Sailors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
         "pubdate": "Sat, 21 Oct 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "UFC 294",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC%20294",
-        "pubdate": "Fri, 20 Oct 2023 19:00:00 +0800"
       }
     ]
   ]
