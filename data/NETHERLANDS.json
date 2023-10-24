@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 17:48:25",
+  "lastUpdate": "24-10-2023 , 17:57:40",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
+        "pubdate": "Tue, 24 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Bitcoin koers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin%20koers",
-        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fcgroningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Groningen  Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Groningen%20%20Emmen",
-        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +59,16 @@
     ],
     [
       {
-        "title": "Yesilgoz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yesilgoz",
-        "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
+        "title": "Helmond Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport",
+        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
+        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Volendam FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam%20FC",
         "pubdate": "Sun, 22 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Utrecht - Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20-%20Ajax",
+        "pubdate": "Sat, 21 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
