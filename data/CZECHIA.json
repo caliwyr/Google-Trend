@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-10-2023 , 19:52:35",
+  "lastUpdate": "24-10-2023 , 20:07:23",
   "data": [
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
-        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Liga mistrů",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Tomáš Fejfar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Fejfar",
-        "pubdate": "Tue, 24 Oct 2023 13:00:00 +0200"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
+        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Galatasaray – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Galatasaray%20%E2%80%93%20Bayern",
-        "pubdate": "Tue, 24 Oct 2023 19:00:00 +0200"
+        "title": "Tomáš Fejfar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Fejfar",
+        "pubdate": "Tue, 24 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Monika Žídková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monika%20%C5%BD%C3%ADdkov%C3%A1",
-        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Paris Hilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Paris%20Hilton",
         "pubdate": "Tue, 24 Oct 2023 19:00:00 +0200"
@@ -59,9 +45,9 @@
     ],
     [
       {
-        "title": "Karel Plášek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Pl%C3%A1%C5%A1ek",
-        "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
+        "title": "Monika Žídková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monika%20%C5%BD%C3%ADdkov%C3%A1",
+        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -69,6 +55,13 @@
         "title": "Daniela Písařovicová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20P%C3%ADsa%C5%99ovicov%C3%A1",
         "pubdate": "Tue, 24 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Karel Plášek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Pl%C3%A1%C5%A1ek",
+        "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "FTMO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FTMO",
-        "pubdate": "Mon, 23 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gaudeamus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gaudeamus",
         "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elon%20Musk",
-        "pubdate": "Mon, 23 Oct 2023 08:00:00 +0200"
+        "title": "FTMO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FTMO",
+        "pubdate": "Mon, 23 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elon%20Musk",
+        "pubdate": "Mon, 23 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zahřívaný tabák",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zah%C5%99%C3%ADvan%C3%BD%20tab%C3%A1k",
         "pubdate": "Mon, 23 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tatra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tatra",
+        "pubdate": "Mon, 23 Oct 2023 22:00:00 +0200"
       }
     ]
   ]

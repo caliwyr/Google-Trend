@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 19:52:39",
+  "lastUpdate": "24-10-2023 , 20:07:28",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Champions%20League",
         "pubdate": "Tue, 24 Oct 2023 00:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Champions%20League",
-        "pubdate": "Tue, 24 Oct 2023 00:00:00 +0800"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA%20Champions%20League",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "ACL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ACL",
-        "pubdate": "Tue, 24 Oct 2023 18:00:00 +0800"
+        "title": "Lynas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lynas",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0800"
       }
     ],
     [
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Seventeen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Seventeen",
+        "title": "SEVENTEEN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SEVENTEEN",
         "pubdate": "Tue, 24 Oct 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "French Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#French%20Open",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "HONOR X9b",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#HONOR%20X9b",
         "pubdate": "Mon, 23 Oct 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Rotary Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rotary%20Club",
-        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0800"
       }
     ]
   ]
