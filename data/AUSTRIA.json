@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 05:33:40",
+  "lastUpdate": "24-10-2023 , 05:42:56",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Wer wird Millionär",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wer%20wird%20Million%C3%A4r",
+        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Richard David Precht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Richard%20David%20Precht",
         "pubdate": "Mon, 23 Oct 2023 16:00:00 +0200"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Wer wird Millionär",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wer%20wird%20Million%C3%A4r",
-        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vienna Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vienna%20Open",
         "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Nationalfeiertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nationalfeiertag",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tottenham",
+        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tottenham",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
+        "title": "Nationalfeiertag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nationalfeiertag",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Tony Danza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tony%20Danza",
         "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wien Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wien%20Open",
-        "pubdate": "Mon, 23 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Klanglicht Graz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klanglicht%20Graz",
         "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Briefwahl Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Briefwahl%20Deutschland",
+        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
       }
     ]
   ]

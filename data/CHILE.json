@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 05:33:41",
+  "lastUpdate": "24-10-2023 , 05:42:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "TVN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
+        "pubdate": "Mon, 23 Oct 2023 17:00:00 -0300"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions",
+        "pubdate": "Mon, 23 Oct 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Charly garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Charly%20garcia",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 -0300"
@@ -62,13 +76,6 @@
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fiorentina",
         "pubdate": "Mon, 23 Oct 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions",
-        "pubdate": "Mon, 23 Oct 2023 13:00:00 -0300"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "San Pedro de la Paz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Pedro%20de%20la%20Paz",
         "pubdate": "Mon, 23 Oct 2023 23:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Brayan cortes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brayan%20cortes",
+        "pubdate": "Mon, 23 Oct 2023 21:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Maria Fernanda valdes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maria%20Fernanda%20valdes",
         "pubdate": "Mon, 23 Oct 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chile hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20hoy",
-        "pubdate": "Mon, 23 Oct 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sporting Cristal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20Cristal",
-        "pubdate": "Mon, 23 Oct 2023 00:00:00 -0300"
       }
     ]
   ]

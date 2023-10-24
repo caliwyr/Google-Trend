@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 05:33:46",
+  "lastUpdate": "24-10-2023 , 05:43:02",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Al-Hilal  Mumbai City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Hilal%20%20Mumbai%20City",
+        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Novo jogo Eurosorteio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novo%20jogo%20Eurosorteio",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0100"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Al-Hilal  Mumbai City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Hilal%20%20Mumbai%20City",
-        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0100"
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+        "pubdate": "Mon, 23 Oct 2023 05:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "D'ZRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#D'ZRT",
-        "pubdate": "Mon, 23 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Papu gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Papu%20gomez",
         "pubdate": "Mon, 23 Oct 2023 00:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions",
-        "pubdate": "Mon, 23 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bragantino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bragantino",
         "pubdate": "Mon, 23 Oct 2023 02:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport",
         "pubdate": "Mon, 23 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martin Wolf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Martin%20Wolf",
+        "pubdate": "Mon, 23 Oct 2023 01:00:00 +0100"
       }
     ]
   ]
