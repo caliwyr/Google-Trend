@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 14:53:37",
+  "lastUpdate": "24-10-2023 , 15:09:55",
   "data": [
     [
       {
@@ -24,16 +24,30 @@
     ],
     [
       {
-        "title": "Cultura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cultura",
-        "pubdate": "Tue, 24 Oct 2023 01:00:00 +0200"
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris%20Hilton",
+        "pubdate": "Tue, 24 Oct 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pascal Obispo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pascal%20Obispo",
+        "title": "Wim Beelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wim%20Beelen",
+        "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dwayne Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwayne%20Johnson",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cultura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cultura",
+        "pubdate": "Tue, 24 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Dwayne Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwayne%20Johnson",
+        "title": "Pascal Obispo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pascal%20Obispo",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Incendie Auvelais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incendie%20Auvelais",
+        "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "De Blankaart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Blankaart",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dave Chappelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dave%20Chappelle",
-        "pubdate": "Mon, 23 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ol",
-        "pubdate": "Mon, 23 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arnaud De Lie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arnaud%20De%20Lie",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
