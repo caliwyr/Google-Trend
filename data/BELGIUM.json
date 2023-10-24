@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-10-2023 , 15:54:32",
+  "lastUpdate": "24-10-2023 , 16:13:46",
   "data": [
     [
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
         "pubdate": "Tue, 24 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Poutine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vladimir%20Poutine",
+        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -31,15 +38,15 @@
     ],
     [
       {
-        "title": "Wim Beelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wim%20Beelen",
-        "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
+        "title": "Dwayne Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwayne%20Johnson",
+        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dwayne Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwayne%20Johnson",
+        "title": "Extra Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Extra%20Time",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ],
@@ -48,13 +55,6 @@
         "title": "Cultura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cultura",
         "pubdate": "Tue, 24 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Extra Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Extra%20Time",
-        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Laurent Mathieu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laurent%20Mathieu",
+        "pubdate": "Mon, 23 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ligue des champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20des%20champions",
         "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Incendie Auvelais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incendie%20Auvelais",
         "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "De Blankaart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Blankaart",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ]
   ]

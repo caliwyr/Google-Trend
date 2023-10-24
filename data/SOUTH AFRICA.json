@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 15:54:46",
+  "lastUpdate": "24-10-2023 , 16:13:58",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Putin",
+        "pubdate": "Tue, 24 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "World Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#World%20Rugby",
         "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Putin",
-        "pubdate": "Tue, 24 Oct 2023 14:00:00 +0200"
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bitcoin%20price",
+        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sibongiseni Dhlomo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sibongiseni%20Dhlomo",
         "pubdate": "Mon, 23 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ittihad",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
