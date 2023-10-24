@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 10:47:39",
+  "lastUpdate": "24-10-2023 , 10:56:58",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nato",
         "pubdate": "Tue, 24 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Björn Hellkvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Hellkvist",
+        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Britney%20Spears",
-        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
+        "title": "FN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
+        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Britney%20Spears",
+        "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Sun, 22 Oct 2023 15:00:00 +0200"
       }
     ]
   ]
