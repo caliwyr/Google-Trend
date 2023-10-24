@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 23:48:38",
+  "lastUpdate": "24-10-2023 , 23:58:02",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "title": "Stemwijzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stemwijzer",
         "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Stemwijzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stemwijzer",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
         "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ],
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Sevilla  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sevilla%20%20Arsenal",
+        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ten Hag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ten%20Hag",
         "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nacht van Woerden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nacht%20van%20Woerden",
+        "pubdate": "Tue, 24 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Yesilgoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yesilgoz",
+        "pubdate": "Mon, 23 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Pieter Omtzigt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
         "pubdate": "Sun, 22 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gta 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gta%206",
-        "pubdate": "Sun, 22 Oct 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 22 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PEC Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
-        "pubdate": "Sun, 22 Oct 2023 16:00:00 +0200"
       }
     ]
   ]
