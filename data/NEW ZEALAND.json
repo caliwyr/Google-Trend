@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2023 , 00:00:10",
+  "lastUpdate": "24-10-2023 , 01:18:24",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Lil Baby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lil%20Baby",
         "pubdate": "Tue, 24 Oct 2023 11:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Karamea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karamea",
+        "pubdate": "Tue, 24 Oct 2023 12:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
         "pubdate": "Sun, 22 Oct 2023 05:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPL",
-        "pubdate": "Sun, 22 Oct 2023 03:00:00 +1300"
       }
     ]
   ]
