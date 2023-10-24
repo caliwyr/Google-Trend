@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-10-2023 , 08:46:06",
+  "lastUpdate": "24-10-2023 , 08:55:18",
   "data": [
     [
       {
         "title": "DSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DSV",
         "pubdate": "Tue, 24 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
+        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lana%20Del%20Rey",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sam%20Altman",
         "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Slides",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
+        "pubdate": "Mon, 23 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wegovy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wegovy",
         "pubdate": "Mon, 23 Oct 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Snake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snake",
         "pubdate": "Mon, 23 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dave Courtney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dave%20Courtney",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
