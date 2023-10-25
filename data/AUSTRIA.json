@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "25-10-2023 , 07:52:24",
+  "lastUpdate": "25-10-2023 , 08:09:39",
   "data": [
     [
       {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NBA",
-        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MV Agusta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MV%20Agusta",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
       }
     ],
@@ -24,15 +17,15 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Benfica",
+        "title": "MV Agusta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MV%20Agusta",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "CL Spiele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CL%20Spiele",
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Benfica",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
       }
     ],
@@ -45,16 +38,30 @@
     ],
     [
       {
-        "title": "Inter gegen RB Salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20RB%20Salzburg",
-        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
+        "title": "CL Spiele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CL%20Spiele",
+        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin",
-        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
+        "title": "Microsoft-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Microsoft-Aktie",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Julian Draxler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julian%20Draxler",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter gegen RB Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20RB%20Salzburg",
+        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin",
+        "pubdate": "Tue, 24 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Helge Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helge%20Schneider",
         "pubdate": "Tue, 24 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tiergarten Schönbrunn Flamingos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tiergarten%20Sch%C3%B6nbrunn%20Flamingos",
+        "pubdate": "Tue, 24 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,8 +108,8 @@
     ],
     [
       {
-        "title": "Tiergarten Schönbrunn Flamingos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tiergarten%20Sch%C3%B6nbrunn%20Flamingos",
+        "title": "CL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CL",
         "pubdate": "Tue, 24 Oct 2023 00:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Helnwein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helnwein",
         "pubdate": "Tue, 24 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Union%20Berlin",
-        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paris Hilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paris%20Hilton",
-        "pubdate": "Tue, 24 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ozempic",
-        "pubdate": "Tue, 24 Oct 2023 08:00:00 +0200"
       }
     ]
   ]

@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "25-10-2023 , 07:52:26",
+  "lastUpdate": "25-10-2023 , 08:09:40",
   "data": [
     [
       {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Richard Roundtree",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Richard%20Roundtree",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
@@ -52,8 +59,15 @@
     ],
     [
       {
-        "title": "Polesie ship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polesie%20ship",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Verity",
         "pubdate": "Tue, 24 Oct 2023 14:00:00 +0200"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "The Line",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Line",
+        "title": "The line",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20line",
         "pubdate": "Tue, 24 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cl",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zimbabwe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zimbabwe",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
