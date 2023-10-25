@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-10-2023 , 14:53:12",
+  "lastUpdate": "25-10-2023 , 15:08:18",
   "data": [
+    [
+      {
+        "title": "Vincent Van Quickenborne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vincent%20Van%20Quickenborne",
+        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tour de France 2024",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Vincent Van Quickenborne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vincent%20Van%20Quickenborne",
-        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
+        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20utd",
+        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maggie Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maggie%20Smith",
         "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
@@ -59,23 +73,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Macron",
-        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fed",
         "pubdate": "Wed, 25 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -90,6 +97,27 @@
         "title": "Jon Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jon%20Jones",
         "pubdate": "Wed, 25 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Macron",
+        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Worldline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Worldline",
+        "pubdate": "Wed, 25 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guterres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guterres",
+        "pubdate": "Wed, 25 Oct 2023 16:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United",
-        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
-        "pubdate": "Tue, 24 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA",
-        "pubdate": "Tue, 24 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vladimir Poutine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vladimir%20Poutine",
-        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0200"
       }
     ]
   ]
