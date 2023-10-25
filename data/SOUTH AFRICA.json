@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "25-10-2023 , 12:53:05",
+  "lastUpdate": "25-10-2023 , 13:09:57",
   "data": [
     [
       {
         "title": "Australia vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Netherlands",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
         "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
       }
     ],
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Newcastle vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Dortmund",
+        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
         "pubdate": "Wed, 25 Oct 2023 09:00:00 +0200"
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Taylor Swift South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Taylor%20Swift%20South%20Africa",
-        "pubdate": "Wed, 25 Oct 2023 08:00:00 +0200"
+        "title": "Richard Roundtree",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richard%20Roundtree",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Richard Roundtree",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richard%20Roundtree",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+        "title": "Taylor Swift South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Taylor%20Swift%20South%20Africa",
+        "pubdate": "Wed, 25 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -55,20 +69,6 @@
         "title": "Norwich City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Norwich%20City",
         "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Dortmund",
-        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AmaZulu vs Orlando Pirates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AmaZulu%20vs%20Orlando%20Pirates",
-        "pubdate": "Tue, 24 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Orlando Pirates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
+        "pubdate": "Tue, 24 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
         "pubdate": "Tue, 24 Oct 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Benfica vs Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Benfica%20vs%20Real%20Sociedad",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Nassr",
-        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
