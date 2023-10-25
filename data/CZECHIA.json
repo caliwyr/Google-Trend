@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "25-10-2023 , 23:48:21",
+  "lastUpdate": "25-10-2023 , 23:57:41",
   "data": [
     [
       {
-        "title": "Bratri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bratri",
-        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
+        "title": "Miloš Zeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milo%C5%A1%20Zeman",
+        "pubdate": "Thu, 26 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "PSG – AC Milán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG%20%E2%80%93%20AC%20Mil%C3%A1n",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bratri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bratri",
+        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Psg",
-        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sparta Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Rangers",
         "pubdate": "Wed, 25 Oct 2023 18:00:00 +0200"
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Tchyně",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tchyn%C4%9B",
-        "pubdate": "Wed, 25 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kurt Cobain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kurt%20Cobain",
         "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Danuše Nerudová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Danu%C5%A1e%20Nerudov%C3%A1",
-        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Tomáš Fejfar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Fejfar",
         "pubdate": "Tue, 24 Oct 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
+        "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
       }
     ]
   ]

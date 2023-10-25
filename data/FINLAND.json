@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 23:48:22",
+  "lastUpdate": "25-10-2023 , 23:57:43",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Heikki Rantakari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Heikki%20Rantakari",
         "pubdate": "Wed, 25 Oct 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yves Rocher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yves%20Rocher",
+        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Pablo Picasso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pablo%20Picasso",
-        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
         "pubdate": "Wed, 25 Oct 2023 23:00:00 +0300"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Newnew Polar Bear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newnew%20Polar%20Bear",
-        "pubdate": "Tue, 24 Oct 2023 19:00:00 +0300"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
+        "pubdate": "Tue, 24 Oct 2023 16:00:00 +0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "UPM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UPM",
-        "pubdate": "Tue, 24 Oct 2023 12:00:00 +0300"
+        "title": "Newnew Polar Bear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newnew%20Polar%20Bear",
+        "pubdate": "Tue, 24 Oct 2023 19:00:00 +0300"
       }
     ]
   ]
