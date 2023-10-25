@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 16:53:58",
+  "lastUpdate": "25-10-2023 , 17:08:00",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nuggets%20vs%20Lakers",
+        "pubdate": "Wed, 25 Oct 2023 15:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Putin",
         "pubdate": "Tue, 24 Oct 2023 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bitcoin",
-        "pubdate": "Tue, 24 Oct 2023 16:00:00 +1300"
       }
     ]
   ]
