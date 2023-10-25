@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 05:54:37",
+  "lastUpdate": "25-10-2023 , 06:13:46",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
         "pubdate": "Wed, 25 Oct 2023 08:00:00 +1100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +1100"
+        "title": "Warriors vs Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Suns",
+        "pubdate": "Wed, 25 Oct 2023 15:00:00 +1100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LeBron%20James",
-        "pubdate": "Wed, 25 Oct 2023 12:00:00 +1100"
+        "title": "Inflation rate Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inflation%20rate%20Australia",
+        "pubdate": "Wed, 25 Oct 2023 14:00:00 +1100"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Geelong Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20Cup",
         "pubdate": "Wed, 25 Oct 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LeBron%20James",
+        "pubdate": "Wed, 25 Oct 2023 12:00:00 +1100"
       }
     ],
     [
@@ -80,8 +94,8 @@
     ],
     [
       {
-        "title": "Inflation rate Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inflation%20rate%20Australia",
+        "title": "Jenna Ellis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jenna%20Ellis",
         "pubdate": "Wed, 25 Oct 2023 14:00:00 +1100"
       }
     ],
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Jenna Ellis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jenna%20Ellis",
-        "pubdate": "Wed, 25 Oct 2023 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Suns",
-        "pubdate": "Wed, 25 Oct 2023 15:00:00 +1100"
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CPI",
+        "pubdate": "Wed, 25 Oct 2023 16:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Click Frenzy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Click%20Frenzy",
         "pubdate": "Tue, 24 Oct 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20price",
-        "pubdate": "Tue, 24 Oct 2023 13:00:00 +1100"
       }
     ]
   ]
