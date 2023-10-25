@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-10-2023 , 13:53:16",
+  "lastUpdate": "25-10-2023 , 14:07:54",
   "data": [
     [
       {
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de France 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tour%20de%20France%202024",
+        "pubdate": "Wed, 25 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DSV",
         "pubdate": "Tue, 24 Oct 2023 09:00:00 +0200"
@@ -52,23 +66,9 @@
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Tue, 24 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Britney%20Spears",
         "pubdate": "Tue, 24 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
-        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Cities Skylines 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cities%20Skylines%202",
+        "title": "Cities: Skylines 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cities:%20Skylines%202",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
       }
     ]
