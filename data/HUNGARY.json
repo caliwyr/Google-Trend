@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-10-2023 , 23:57:59",
+  "lastUpdate": "25-10-2023 , 01:09:17",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NBA",
+        "pubdate": "Wed, 25 Oct 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Galatasaray–Bayern München",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Union berlin–napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Union%20berlin%E2%80%93napoli",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
@@ -62,13 +76,6 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
         "pubdate": "Tue, 24 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union berlin–napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Union%20berlin%E2%80%93napoli",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
-        "pubdate": "Tue, 24 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "SC Braga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SC%20Braga",
         "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Sebestyén balázs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebesty%C3%A9n%20bal%C3%A1zs",
+        "title": "Sebestyén Balázs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebesty%C3%A9n%20Bal%C3%A1zs",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ],

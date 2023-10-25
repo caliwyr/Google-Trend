@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-10-2023 , 23:58:03",
+  "lastUpdate": "25-10-2023 , 01:09:20",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NBA",
+        "pubdate": "Wed, 25 Oct 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Paris Hilton",
@@ -132,13 +139,6 @@
         "title": "Sound of Freedom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sound%20of%20Freedom",
         "pubdate": "Tue, 24 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern",
-        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
       }
     ]
   ]

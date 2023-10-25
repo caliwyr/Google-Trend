@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-10-2023 , 23:58:06",
+  "lastUpdate": "25-10-2023 , 01:09:22",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA",
+        "pubdate": "Wed, 25 Oct 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "PORTSMOUTH FC",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Braga vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Braga%20vs%20Real%20Madrid",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Tue, 24 Oct 2023 18:00:00 +0200"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Braga vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Braga%20vs%20Real%20Madrid",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
+        "title": "Al-Nassr vs Al-Duhail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al-Duhail",
+        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Union Berlin vs Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Union%20Berlin%20vs%20Napoli",
         "pubdate": "Tue, 24 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Nassr",
-        "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "World Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#World%20Rugby",
         "pubdate": "Tue, 24 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League%20results",
-        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
