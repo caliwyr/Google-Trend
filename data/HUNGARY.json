@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 20:51:31",
+  "lastUpdate": "25-10-2023 , 21:01:30",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Barcelona–sahtar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93sahtar",
         "pubdate": "Wed, 25 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Psg–milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg%E2%80%93milan",
+        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "Psg–milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg%E2%80%93milan",
+        "title": "Newcastle–dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93dortmund",
+        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
         "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Mona Lisa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mona%20Lisa",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Newcastle–dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93dortmund",
-        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+        "title": "Mona Lisa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mona%20Lisa",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feyenoord",
-        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20utd",
+        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Union%20Berlin",
         "pubdate": "Wed, 25 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tony Hawk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tony%20Hawk",
-        "pubdate": "Wed, 25 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AC%20Milan",
-        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Braga–real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Braga%E2%80%93real%20Madrid",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
