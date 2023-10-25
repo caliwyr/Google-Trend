@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 22:52:16",
+  "lastUpdate": "25-10-2023 , 23:06:51",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
-        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Britney%20Spears",
-        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Koen Geens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koen%20Geens",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "David Holmes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Holmes",
-        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Britney%20Spears",
+        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
+        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
-        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
+        "title": "David Holmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Holmes",
+        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Maggie Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maggie%20Smith",
-        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
         "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Massive Attack",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Massive%20Attack",
-        "pubdate": "Wed, 25 Oct 2023 08:00:00 +0200"
+        "title": "Maggie Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maggie%20Smith",
+        "pubdate": "Wed, 25 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Erik Van Looy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Erik%20Van%20Looy",
         "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Massive Attack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Massive%20Attack",
+        "pubdate": "Wed, 25 Oct 2023 08:00:00 +0200"
       }
     ]
   ]

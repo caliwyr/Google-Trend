@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 22:52:23",
+  "lastUpdate": "25-10-2023 , 23:06:56",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Celtic",
-        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -31,16 +31,23 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Psg",
+        "title": "Ajax Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Brighton",
+        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
         "pubdate": "Wed, 25 Oct 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ajax Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Brighton",
-        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
+        "pubdate": "Wed, 25 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
         "pubdate": "Wed, 25 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
-        "pubdate": "Wed, 25 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "De StemWijzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20StemWijzer",
-        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Omtzigt verkiezingsprogramma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omtzigt%20verkiezingsprogramma",
         "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Santiago Giménez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Santiago%20Gim%C3%A9nez",
-        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
+        "title": "StemWijzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#StemWijzer",
+        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
       }
     ]
   ]
