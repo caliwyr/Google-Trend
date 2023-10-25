@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 01:58:42",
+  "lastUpdate": "25-10-2023 , 02:23:00",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "NBA games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20games",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Putin",
         "pubdate": "Wed, 25 Oct 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "NBA TODAY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20TODAY",
+        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0800"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Metal Gear Solid: Master Collection",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Metal%20Gear%20Solid:%20Master%20Collection",
+        "title": "Metal Gear Solid Master Collection",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Metal%20Gear%20Solid%20Master%20Collection",
         "pubdate": "Tue, 24 Oct 2023 23:00:00 +0800"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "One Piece 1096",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#One%20Piece%201096",
         "pubdate": "Tue, 24 Oct 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bianca Umali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bianca%20Umali",
-        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lukas Graham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lukas%20Graham",
-        "pubdate": "Mon, 23 Oct 2023 10:00:00 +0800"
       }
     ]
   ]
