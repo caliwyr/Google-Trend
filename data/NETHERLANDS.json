@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2023 , 19:44:43",
+  "lastUpdate": "25-10-2023 , 19:54:10",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
+        "pubdate": "Wed, 25 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bilal Wahib",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bilal%20Wahib",
         "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
-        "pubdate": "Wed, 25 Oct 2023 10:00:00 +0200"
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Psg",
+        "pubdate": "Wed, 25 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Ajax Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Brighton",
-        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "StemWijzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#StemWijzer",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
+        "title": "Mike Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Johnson",
+        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Kieswijzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kieswijzer",
         "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
-        "pubdate": "Tue, 24 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 22 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Utrecht -  Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20-%20%20Ajax",
+        "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
       }
     ]
   ]

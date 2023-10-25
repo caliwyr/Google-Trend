@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-10-2023 , 19:44:42",
+  "lastUpdate": "25-10-2023 , 19:54:10",
   "data": [
+    [
+      {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
+        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Champions League",
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Wan Saiful",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wan%20Saiful",
+        "pubdate": "Wed, 25 Oct 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Warriors vs Suns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Warriors%20vs%20Suns",
         "pubdate": "Wed, 25 Oct 2023 12:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Milan",
         "pubdate": "Wed, 25 Oct 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Leicester City vs Sunderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Leicester%20City%20vs%20Sunderland",
-        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#South%20Africa%20vs%20Bangladesh",
-        "pubdate": "Tue, 24 Oct 2023 17:00:00 +0800"
       }
     ]
   ]
