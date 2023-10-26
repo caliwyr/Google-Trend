@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-10-2023 , 16:47:23",
+  "lastUpdate": "26-10-2023 , 16:56:39",
   "data": [
     [
       {
         "title": "Maine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maine",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "McDonalds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#McDonalds",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Nehammer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nehammer",
-        "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kino",
         "pubdate": "Thu, 26 Oct 2023 14:00:00 +0200"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Was Feiern wir am Nationalfeiertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Was%20Feiern%20wir%20am%20Nationalfeiertag",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0200"
+        "title": "Heldenplatz WIEN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heldenplatz%20WIEN",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haaland",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+        "title": "Philipp Hochmair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philipp%20Hochmair",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbah%C3%A7e",
-        "pubdate": "Thu, 26 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
         "pubdate": "Thu, 26 Oct 2023 16:00:00 +0200"
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Tag der offenen Tür",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tag%20der%20offenen%20T%C3%BCr",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sabitzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabitzer",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Thomas Gottschalk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thomas%20Gottschalk",
-        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0200"
+        "title": "Veranstaltungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Veranstaltungen",
+        "pubdate": "Thu, 26 Oct 2023 15:00:00 +0200"
       }
     ]
   ]

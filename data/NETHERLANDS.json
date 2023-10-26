@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-10-2023 , 16:47:32",
+  "lastUpdate": "26-10-2023 , 16:56:48",
   "data": [
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Lewiston",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Celtic",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Brighton",
-        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,20 +66,6 @@
     ],
     [
       {
-        "title": "Bilal Wahib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bilal%20Wahib",
-        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Denk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Denk",
-        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Newcastle United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Newcastle%20United",
         "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
@@ -90,6 +76,13 @@
         "title": "Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mexico",
         "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Utrecht -  Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20-%20%20Ajax",
         "pubdate": "Sun, 22 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 22 Oct 2023 11:00:00 +0200"
       }
     ]
   ]
