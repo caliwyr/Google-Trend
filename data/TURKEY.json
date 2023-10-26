@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2023 , 01:06:15",
+  "lastUpdate": "26-10-2023 , 01:56:16",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Newcastle",
+        "pubdate": "Wed, 25 Oct 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Borsa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borsa",
         "pubdate": "Wed, 25 Oct 2023 18:00:00 +0300"
@@ -62,13 +69,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Barcelona",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Newcastle",
-        "pubdate": "Wed, 25 Oct 2023 15:00:00 +0300"
       }
     ],
     [

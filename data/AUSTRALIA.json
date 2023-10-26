@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-10-2023 , 01:06:02",
+  "lastUpdate": "26-10-2023 , 01:56:06",
   "data": [
     [
       {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
         "pubdate": "Thu, 26 Oct 2023 06:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "St Andrew's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#St%20Andrew's",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 +1100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Matildas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "St Andrew's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#St%20Andrew's",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 +1100"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Barcelona vs Shakhtar Donetsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona%20vs%20Shakhtar%20Donetsk",
         "pubdate": "Thu, 26 Oct 2023 07:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Changjiang Currency Exchange",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Changjiang%20Currency%20Exchange",
-        "pubdate": "Thu, 26 Oct 2023 08:00:00 +1100"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA",
+        "pubdate": "Wed, 25 Oct 2023 12:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
         "pubdate": "Wed, 25 Oct 2023 08:00:00 +1100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Warriors vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warriors%20vs%20Suns",
-        "pubdate": "Wed, 25 Oct 2023 15:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Britney Spears book",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Britney%20Spears%20book",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Geelong Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20Cup",
         "pubdate": "Wed, 25 Oct 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Mike Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mike%20Johnson",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +1100"
       }
     ]
   ]
