@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-10-2023 , 10:48:35",
+  "lastUpdate": "26-10-2023 , 10:57:53",
   "data": [
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-        "pubdate": "Thu, 26 Oct 2023 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Maine",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "pubdate": "Thu, 26 Oct 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "England vs Sri Lanka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#England%20vs%20Sri%20Lanka",
         "pubdate": "Thu, 26 Oct 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "YouTrip",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#YouTrip",
+        "pubdate": "Thu, 26 Oct 2023 13:00:00 +0800"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
         "pubdate": "Thu, 26 Oct 2023 06:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Thu, 26 Oct 2023 03:00:00 +0800"
       }
     ],
     [
@@ -75,13 +75,6 @@
       {
         "title": "Celtic vs atlético Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Celtic%20vs%20atl%C3%A9tico%20Madrid",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "National Skin Centre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#National%20Skin%20Centre",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 +0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Warriors",
         "pubdate": "Wed, 25 Oct 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bill Kenwright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bill%20Kenwright",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0800"
       }
     ]
   ]
