@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-10-2023 , 09:47:59",
+  "lastUpdate": "26-10-2023 , 09:57:18",
   "data": [
+    [
+      {
+        "title": "Maine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maine",
+        "pubdate": "Thu, 26 Oct 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mimmi Tamba",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Maine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maine",
-        "pubdate": "Thu, 26 Oct 2023 08:00:00 +0200"
+        "title": "Salmonella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salmonella",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ]
