@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "26-10-2023 , 08:51:51",
+  "lastUpdate": "26-10-2023 , 09:04:11",
   "data": [
     [
       {
         "title": "Lewiston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lewiston",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brighton",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "F1 Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Mexico",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brighton",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
-        "pubdate": "Wed, 25 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tour de France 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France%202024",
         "pubdate": "Wed, 25 Oct 2023 16:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "De StemWijzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20StemWijzer",
+        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Newcastle United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Newcastle%20United",
         "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
@@ -104,13 +104,6 @@
         "title": "Brighton Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brighton%20Ajax",
         "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "StemWijzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#StemWijzer",
-        "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Fcgroningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
+        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Emmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ]
