@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "26-10-2023 , 20:52:31",
+  "lastUpdate": "26-10-2023 , 21:06:28",
   "data": [
     [
       {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brighton",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thierry Baudet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thierry%20Baudet",
+        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "Acda en De Munnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acda%20en%20De%20Munnik",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
+        "title": "Schietpartij Amerika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Amerika",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Mon, 23 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fcgroningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
