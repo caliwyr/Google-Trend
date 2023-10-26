@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "26-10-2023 , 02:48:39",
+  "lastUpdate": "26-10-2023 , 02:57:47",
   "data": [
     [
       {
-        "title": "Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vigo",
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
+        "title": "Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vigo",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
       }
     ],
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
-        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barcelona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20FC",
         "pubdate": "Wed, 25 Oct 2023 19:00:00 +0100"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Furacão Otis mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Furac%C3%A3o%20Otis%20mexico",
         "pubdate": "Wed, 25 Oct 2023 17:00:00 +0100"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Yolanda Tati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Yolanda%20Tati",
-        "pubdate": "Wed, 25 Oct 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ETF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ETF",
         "pubdate": "Wed, 25 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SAO Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SAO%20Paulo",
-        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Porto vs Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20vs%20Antwerp",
+        "title": "Newcastle  Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle%20%20Borussia",
+        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dalila Carmo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dalila%20Carmo",
+        "pubdate": "Wed, 25 Oct 2023 03:00:00 +0100"
       }
     ]
   ]
