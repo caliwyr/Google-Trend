@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-10-2023 , 17:44:33",
+  "lastUpdate": "26-10-2023 , 17:53:58",
   "data": [
-    [
-      {
-        "title": "Maine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maine",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Dia de la Suegra",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Maine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maine",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Europa%20League",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tronco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tronco",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0300"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Tronco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tronco",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0300"
+        "title": "AZ  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#AZ%20%20Aston%20Villa",
+        "pubdate": "Thu, 26 Oct 2023 14:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fluminense",
         "pubdate": "Wed, 25 Oct 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "UCR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UCR",
-        "pubdate": "Wed, 25 Oct 2023 08:00:00 -0300"
       }
     ]
   ]
