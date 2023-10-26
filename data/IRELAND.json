@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2023 , 03:44:24",
+  "lastUpdate": "26-10-2023 , 03:53:39",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic",
         "pubdate": "Wed, 25 Oct 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City",
-        "pubdate": "Wed, 25 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City",
+        "pubdate": "Wed, 25 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "PSG vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PSG%20vs%20Milan",
         "pubdate": "Wed, 25 Oct 2023 21:00:00 +0100"
@@ -68,6 +68,13 @@
       {
         "title": "Mike Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mike%20Johnson",
+        "pubdate": "Wed, 25 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nikki Hayes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nikki%20Hayes",
         "pubdate": "Wed, 25 Oct 2023 18:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Darron Gibson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Darron%20Gibson",
         "pubdate": "Wed, 25 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hurricane Otis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hurricane%20Otis",
-        "pubdate": "Wed, 25 Oct 2023 19:00:00 +0100"
       }
     ]
   ]
