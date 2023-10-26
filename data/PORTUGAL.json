@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-10-2023 , 22:44:11",
+  "lastUpdate": "26-10-2023 , 22:53:37",
   "data": [
-    [
-      {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Thu, 26 Oct 2023 04:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "SIC",
@@ -20,6 +13,13 @@
         "title": "Maine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maine",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Thu, 26 Oct 2023 04:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Doença Hemorrágica Epizoótica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Doen%C3%A7a%20Hemorr%C3%A1gica%20Epizo%C3%B3tica",
-        "pubdate": "Thu, 26 Oct 2023 01:00:00 +0100"
+        "title": "Greve Função Pública",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20Fun%C3%A7%C3%A3o%20P%C3%BAblica",
+        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Greve Função Pública",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20Fun%C3%A7%C3%A3o%20P%C3%BAblica",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0100"
+        "title": "Doença Hemorrágica Epizoótica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Doen%C3%A7a%20Hemorr%C3%A1gica%20Epizo%C3%B3tica",
+        "pubdate": "Thu, 26 Oct 2023 01:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Roma  Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma%20%20Slavia%20Praha",
+        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "Aumento rendas 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aumento%20rendas%202024",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mural dos Campeões",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mural%20dos%20Campe%C3%B5es",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brighton",
+        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0100"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Vigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vigo",
-        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Borderline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Borderline",
-        "pubdate": "Thu, 26 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brighton",
-        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tassio Bacelar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tassio%20Bacelar",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
       }
     ]

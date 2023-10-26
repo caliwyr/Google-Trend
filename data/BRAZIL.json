@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-10-2023 , 22:44:03",
+  "lastUpdate": "26-10-2023 , 22:53:30",
   "data": [
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "title": "Liverpool x Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool%20x%20Toulouse",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vasco da Gama x Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20da%20Gama%20x%20Internacional",
+        "pubdate": "Thu, 26 Oct 2023 13:00:00 -0500"
       }
     ],
     [
@@ -17,6 +24,20 @@
     ],
     [
       {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
+        "pubdate": "Thu, 26 Oct 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 -0500"
@@ -24,16 +45,23 @@
     ],
     [
       {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
-        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0500"
+        "title": "Isis Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isis%20Valverde",
+        "pubdate": "Thu, 26 Oct 2023 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Isis Valverde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isis%20Valverde",
-        "pubdate": "Thu, 26 Oct 2023 11:00:00 -0500"
+        "title": "MC Daniel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Daniel",
+        "pubdate": "Thu, 26 Oct 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 -0500"
       }
     ],
     [
@@ -52,23 +80,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
-        "pubdate": "Thu, 26 Oct 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lille",
         "pubdate": "Thu, 26 Oct 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Liga Conferência",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20Confer%C3%AAncia",
-        "pubdate": "Thu, 26 Oct 2023 14:00:00 -0500"
       }
     ],
     [
@@ -80,22 +94,15 @@
     ],
     [
       {
-        "title": "Ministro Flávio Dino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ministro%20Fl%C3%A1vio%20Dino",
-        "pubdate": "Thu, 26 Oct 2023 01:00:00 -0500"
+        "title": "Five Nights at Freddy's O filme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Five%20Nights%20at%20Freddy's%20O%20filme",
+        "pubdate": "Thu, 26 Oct 2023 15:00:00 -0500"
       }
     ],
     [
       {
         "title": "Personagem Disney Pixar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Personagem%20Disney%20Pixar",
-        "pubdate": "Thu, 26 Oct 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MC Daniel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MC%20Daniel",
         "pubdate": "Thu, 26 Oct 2023 15:00:00 -0500"
       }
     ],
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Five Nights at Freddy's o filme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Five%20Nights%20at%20Freddy's%20o%20filme",
-        "pubdate": "Thu, 26 Oct 2023 15:00:00 -0500"
+        "title": "Ministro Flávio Dino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ministro%20Fl%C3%A1vio%20Dino",
+        "pubdate": "Thu, 26 Oct 2023 01:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Próximo jogo do Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pr%C3%B3ximo%20jogo%20do%20Botafogo",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "The rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20rock",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 -0500"
       }
     ]
   ]
