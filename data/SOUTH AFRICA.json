@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-10-2023 , 07:41:47",
+  "lastUpdate": "26-10-2023 , 07:51:01",
   "data": [
+    [
+      {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
+        "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Glenn Maxwell",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Gold Reef City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gold%20Reef%20City",
+        "pubdate": "Wed, 25 Oct 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
         "pubdate": "Wed, 25 Oct 2023 17:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Yair Netanyahu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Yair%20Netanyahu",
         "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20fc",
-        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mike%20Johnson",
-        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
