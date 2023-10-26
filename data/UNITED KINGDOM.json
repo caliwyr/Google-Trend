@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2023 , 12:34:58",
+  "lastUpdate": "26-10-2023 , 12:54:21",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tom Curry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tom%20Curry",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jay EastEnders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jay%20EastEnders",
+        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Five Nights at Freddy's movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Five%20Nights%20at%20Freddy's%20movie",
+        "title": "Five Nights at Freddy's Movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Five%20Nights%20at%20Freddy's%20Movie",
         "pubdate": "Wed, 25 Oct 2023 14:00:00 +0100"
       }
     ],
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Australia vs Netherlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Australia%20vs%20Netherlands",
-        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0100"
+        "title": "Race Across The World",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Race%20Across%20The%20World",
+        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Race Across the World",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Race%20Across%20the%20World",
-        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0100"
+        "title": "Australia vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Australia%20vs%20Netherlands",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jon Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jon%20Jones",
         "pubdate": "Wed, 25 Oct 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bristol City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bristol%20City",
-        "pubdate": "Wed, 25 Oct 2023 22:00:00 +0100"
       }
     ]
   ]
