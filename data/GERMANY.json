@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-10-2023 , 23:46:22",
+  "lastUpdate": "27-10-2023 , 23:55:44",
   "data": [
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
+        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bochum gegen Mainz",
@@ -13,13 +20,6 @@
         "title": "Horst Hrubesch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Horst%20Hrubesch",
         "pubdate": "Fri, 27 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
-        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Lucas Braathen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lucas%20Braathen",
-        "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mondfinsternis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mondfinsternis",
         "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
@@ -73,16 +66,9 @@
     ],
     [
       {
-        "title": "Gauck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gauck",
-        "pubdate": "Fri, 27 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Li Keqiang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Li%20Keqiang",
-        "pubdate": "Fri, 27 Oct 2023 13:00:00 +0200"
+        "title": "Elbtower",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elbtower",
+        "pubdate": "Fri, 27 Oct 2023 08:00:00 +0200"
       }
     ],
     [
@@ -90,13 +76,6 @@
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bettina Böttinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bettina%20B%C3%B6ttinger",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
         "pubdate": "Wed, 25 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leipzig RB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig%20RB",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
+        "pubdate": "Tue, 24 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Mon, 23 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
