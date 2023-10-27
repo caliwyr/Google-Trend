@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 03:44:58",
+  "lastUpdate": "27-10-2023 , 03:54:16",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Molde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mimmi Tamba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mimmi%20Tamba",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Salmonella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salmonella",
         "pubdate": "Thu, 26 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Molde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
+        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Salwan Momika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salwan%20Momika",
-        "pubdate": "Thu, 26 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dream Theater",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dream%20Theater",
         "pubdate": "Thu, 26 Oct 2023 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Lucas Braathen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lucas%20Braathen",
         "pubdate": "Thu, 26 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Wed, 25 Oct 2023 13:00:00 +0200"
       }
     ]
   ]

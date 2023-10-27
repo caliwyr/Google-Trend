@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 03:45:01",
+  "lastUpdate": "27-10-2023 , 03:54:20",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Lewiston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lewiston",
-        "pubdate": "Thu, 26 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
@@ -62,13 +55,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Celtic",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Halloween-smink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Halloween-smink",
-        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Sandra Bullock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sandra%20Bullock",
         "pubdate": "Wed, 25 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Young Boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Young%20Boys",
+        "pubdate": "Wed, 25 Oct 2023 23:00:00 +0200"
       }
     ]
   ]

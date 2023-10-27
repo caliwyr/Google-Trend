@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 03:45:00",
+  "lastUpdate": "27-10-2023 , 03:54:19",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Fri, 27 Oct 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton",
+        "pubdate": "Fri, 27 Oct 2023 11:00:00 +0800"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-        "pubdate": "Thu, 26 Oct 2023 04:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20stock",
         "pubdate": "Thu, 26 Oct 2023 10:00:00 +0800"
@@ -97,6 +97,13 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Victor%20Wembanyama",
+        "pubdate": "Thu, 26 Oct 2023 12:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Wed, 25 Oct 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
-        "pubdate": "Wed, 25 Oct 2023 05:00:00 +0800"
       }
     ]
   ]
