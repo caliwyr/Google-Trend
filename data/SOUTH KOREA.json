@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 12:51:15",
+  "lastUpdate": "27-10-2023 , 13:05:43",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "국민연금",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88",
         "pubdate": "Fri, 27 Oct 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "리버풀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
+        "pubdate": "Fri, 27 Oct 2023 06:00:00 +0900"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "김필여",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%95%84%EC%97%AC",
-        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "K5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#K5",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0900"
       }
     ]
