@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-10-2023 , 14:47:22",
+  "lastUpdate": "27-10-2023 , 14:56:41",
   "data": [
+    [
+      {
+        "title": "Kevin Durant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20Durant",
+        "pubdate": "Fri, 27 Oct 2023 02:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Dean Phillips",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Tampabay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tampabay",
-        "pubdate": "Fri, 27 Oct 2023 03:00:00 -0700"
+        "title": "Pakistan vs South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pakistan%20vs%20South%20Africa",
+        "pubdate": "Fri, 27 Oct 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Red Wings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20Wings",
+        "pubdate": "Fri, 27 Oct 2023 07:00:00 -0700"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Syracuse football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Syracuse%20football",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "AMZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMZN",
         "pubdate": "Thu, 26 Oct 2023 15:00:00 -0700"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "ACES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ACES",
-        "pubdate": "Thu, 26 Oct 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Scoot Henderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scoot%20Henderson",
         "pubdate": "Thu, 26 Oct 2023 03:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Hasan Minhaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hasan%20Minhaj",
-        "pubdate": "Thu, 26 Oct 2023 23:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Li Keqiang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Li%20Keqiang",
-        "pubdate": "Thu, 26 Oct 2023 23:00:00 -0700"
       }
     ]
   ]
