@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "27-10-2023 , 08:50:46",
+  "lastUpdate": "27-10-2023 , 09:00:00",
   "data": [
     [
       {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Putin",
         "pubdate": "Fri, 27 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda",
-        "pubdate": "Fri, 27 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Ewa Wrzosek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Wrzosek",
         "pubdate": "Fri, 27 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taba",
+        "pubdate": "Fri, 27 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Legia mecz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia%20mecz",
-        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Acapulco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Acapulco",
         "pubdate": "Thu, 26 Oct 2023 14:00:00 +0200"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Maciej Kot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Kot",
-        "pubdate": "Thu, 26 Oct 2023 12:00:00 +0200"
+        "title": "Alan Wake 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alan%20Wake%202",
+        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Alan Wake 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alan%20Wake%202",
-        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
+        "title": "Maciej Kot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Kot",
+        "pubdate": "Thu, 26 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wołoszański",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wo%C5%82osza%C5%84ski",
+        "pubdate": "Thu, 26 Oct 2023 00:00:00 +0200"
       }
     ]
   ]
