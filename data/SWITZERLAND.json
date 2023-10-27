@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 01:15:19",
+  "lastUpdate": "27-10-2023 , 01:58:00",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sheriff Tiraspol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sheriff%20Tiraspol",
+        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Lugano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
         "pubdate": "Thu, 26 Oct 2023 13:00:00 +0200"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Sheriff Tiraspol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sheriff%20Tiraspol",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
         "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#USA",
-        "pubdate": "Thu, 26 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vincent Gross",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vincent%20Gross",
         "pubdate": "Thu, 26 Oct 2023 00:00:00 +0200"
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Om",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Om",
+        "title": "OM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
         "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -104,13 +97,6 @@
         "title": "Liverpool gegen Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Toulouse",
         "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Europa%20League",
-        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "SC Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SC%20Freiburg",
         "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Thu, 26 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oliver Heise Aktenzeichen XY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oliver%20Heise%20Aktenzeichen%20XY",
+        "pubdate": "Thu, 26 Oct 2023 06:00:00 +0200"
       }
     ]
   ]
