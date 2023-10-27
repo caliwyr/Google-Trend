@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 15:53:27",
+  "lastUpdate": "27-10-2023 , 16:10:37",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "新城市廣場",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4",
         "pubdate": "Fri, 27 Oct 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "周潤發",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%BD%A4%E7%99%BC",
+        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0800"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "The Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#The%20Finals",
-        "pubdate": "Fri, 27 Oct 2023 21:00:00 +0800"
+        "title": "黃心穎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%BF%83%E7%A9%8E",
+        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Five Nights at Freddy's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Five%20Nights%20at%20Freddy's",
-        "pubdate": "Fri, 27 Oct 2023 14:00:00 +0800"
+        "title": "The Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#The%20Finals",
+        "pubdate": "Fri, 27 Oct 2023 21:00:00 +0800"
       }
     ],
     [
@@ -80,8 +87,15 @@
     ],
     [
       {
-        "title": "CCTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CCTV",
+        "title": "Five Nights at Freddy's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Five%20Nights%20at%20Freddy's",
+        "pubdate": "Fri, 27 Oct 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Cctv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Cctv",
         "pubdate": "Fri, 27 Oct 2023 20:00:00 +0800"
       }
     ],
@@ -90,13 +104,6 @@
         "title": "陳沂",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B3%E6%B2%82",
         "pubdate": "Fri, 27 Oct 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "黃心穎",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%BF%83%E7%A9%8E",
-        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "澄天",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%BE%84%E5%A4%A9",
         "pubdate": "Thu, 26 Oct 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "緬因州",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%B7%AC%E5%9B%A0%E5%B7%9E",
-        "pubdate": "Thu, 26 Oct 2023 13:00:00 +0800"
       }
     ]
   ]
