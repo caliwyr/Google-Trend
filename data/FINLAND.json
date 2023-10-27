@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 13:50:45",
+  "lastUpdate": "27-10-2023 , 14:00:12",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Salwan Momika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Salwan%20Momika",
+        "pubdate": "Fri, 27 Oct 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Putin dead",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin%20dead",
         "pubdate": "Fri, 27 Oct 2023 15:00:00 +0300"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Rush-hour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rush-hour",
+        "title": "Rush hour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rush%20hour",
         "pubdate": "Fri, 27 Oct 2023 00:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Yves Rocher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yves%20Rocher",
         "pubdate": "Wed, 25 Oct 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Heikki Rantakari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Heikki%20Rantakari",
-        "pubdate": "Wed, 25 Oct 2023 00:00:00 +0300"
       }
     ]
   ]
