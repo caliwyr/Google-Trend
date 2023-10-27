@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "27-10-2023 , 10:46:47",
+  "lastUpdate": "27-10-2023 , 10:56:07",
   "data": [
-    [
-      {
-        "title": "Toby Alderweireld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toby%20Alderweireld",
-        "pubdate": "Fri, 27 Oct 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Zwijndrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zwijndrecht",
         "pubdate": "Fri, 27 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toby Alderweireld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toby%20Alderweireld",
+        "pubdate": "Fri, 27 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,20 @@
         "title": "Spider-man: no way home",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spider-man:%20no%20way%20home",
         "pubdate": "Fri, 27 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bodø/glimt  beşiktaş",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bod%C3%B8/glimt%20%20be%C5%9Fikta%C5%9F",
+        "pubdate": "Fri, 27 Oct 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "1989 (Taylor's Version",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#1989%20(Taylor's%20Version",
+        "pubdate": "Fri, 27 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
         "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "Stephane Bak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stephane%20Bak",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0200"
+        "title": "AA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+        "pubdate": "Thu, 26 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Besiktas",
-        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Staking De Lijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Staking%20De%20Lijn",
-        "pubdate": "Thu, 26 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20Conference%20League",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
+        "title": "Stephane Bak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stephane%20Bak",
+        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0200"
       }
     ]
   ]
