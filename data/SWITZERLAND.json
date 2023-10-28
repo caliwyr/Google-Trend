@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 12:41:50",
+  "lastUpdate": "28-10-2023 , 12:55:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Loki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loki",
-        "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manuel Neuer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manuel%20Neuer",
         "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Loki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loki",
+        "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gaza news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gaza%20news",
         "pubdate": "Sat, 28 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
+        "pubdate": "Sat, 28 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tyson%20Fury",
         "pubdate": "Fri, 27 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sölden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#S%C3%B6lden",
+        "pubdate": "Fri, 27 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -94,23 +108,9 @@
     ],
     [
       {
-        "title": "Ski alpin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ski%20alpin",
-        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Aarau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
         "pubdate": "Fri, 27 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sölden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#S%C3%B6lden",
-        "pubdate": "Fri, 27 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zsc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zsc",
-        "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tottenham",
+        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tottenham",
-        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
+        "title": "Zsc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zsc",
+        "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
