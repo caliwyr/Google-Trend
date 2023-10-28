@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-10-2023 , 07:47:31",
+  "lastUpdate": "28-10-2023 , 07:56:43",
   "data": [
-    [
-      {
-        "title": "Wintertijd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wintertijd",
-        "pubdate": "Sat, 28 Oct 2023 03:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Willem II",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II",
         "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wintertijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wintertijd",
+        "pubdate": "Fri, 27 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -80,15 +80,8 @@
     ],
     [
       {
-        "title": "Maine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maine",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Acda en de Munnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acda%20en%20de%20Munnik",
+        "title": "Acda en De Munnik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acda%20en%20De%20Munnik",
         "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -104,6 +97,13 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
       }
     ],
     [
