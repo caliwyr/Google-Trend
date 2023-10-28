@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 03:48:51",
+  "lastUpdate": "28-10-2023 , 03:58:11",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tesla",
+        "pubdate": "Fri, 27 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Darin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Darin",
         "pubdate": "Fri, 27 Oct 2023 21:00:00 +0200"
@@ -27,20 +34,6 @@
         "title": "Loreen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loreen",
         "pubdate": "Fri, 27 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gotland Grand National",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gotland%20Grand%20National",
-        "pubdate": "Fri, 27 Oct 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tesla strejk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tesla%20strejk",
-        "pubdate": "Fri, 27 Oct 2023 10:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Salwan Momika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Salwan%20Momika",
-        "pubdate": "Thu, 26 Oct 2023 17:00:00 +0200"
+        "title": "Maine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maine",
+        "pubdate": "Thu, 26 Oct 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Maine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maine",
-        "pubdate": "Thu, 26 Oct 2023 07:00:00 +0200"
+        "title": "Seger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Seger",
+        "pubdate": "Thu, 26 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
