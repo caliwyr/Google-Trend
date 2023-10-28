@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-10-2023 , 15:48:43",
+  "lastUpdate": "28-10-2023 , 15:57:58",
   "data": [
     [
       {
         "title": "Chelsea vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Brentford",
         "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Netherlands vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Netherlands%20vs%20Bangladesh",
-        "pubdate": "Sat, 28 Oct 2023 11:00:00 +0200"
       }
     ],
     [
@@ -31,8 +24,15 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "title": "Netherlands vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Netherlands%20vs%20Bangladesh",
+        "pubdate": "Sat, 28 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern vs Darmstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20Darmstadt",
         "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
       }
     ],
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Southampton vs Birmingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Birmingham",
-        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,20 @@
         "title": "Man City vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Man%20United",
         "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Southampton vs Birmingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Birmingham",
+        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FSV Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FSV%20Mainz",
+        "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Barcelona vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Real%20Madrid",
+        "pubdate": "Fri, 27 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
         "pubdate": "Fri, 27 Oct 2023 13:00:00 +0200"
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Barcelona vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Real%20Madrid",
-        "pubdate": "Fri, 27 Oct 2023 18:00:00 +0200"
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "pubdate": "Fri, 27 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -104,13 +125,6 @@
         "title": "Tyson Fury vs Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tyson%20Fury%20vs%20Ngannou",
         "pubdate": "Fri, 27 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
-        "pubdate": "Fri, 27 Oct 2023 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bokke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bokke",
         "pubdate": "Fri, 27 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Five Nights at Freddy's movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Five%20Nights%20at%20Freddy's%20movie",
-        "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Serie%20A",
-        "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
       }
     ]
   ]

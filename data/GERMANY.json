@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 15:48:37",
+  "lastUpdate": "28-10-2023 , 15:57:53",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gaza",
         "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "title": "Bayern Darmstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Darmstadt",
         "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
       }
     ],
@@ -59,36 +66,29 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Sat, 28 Oct 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Darmstadt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Darmstadt",
-        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
-        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfL Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
-        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0200"
+        "title": "Resolution",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Resolution",
+        "pubdate": "Sat, 28 Oct 2023 14:00:00 +0200"
       }
     ],
     [
       {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
+        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
+        "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bochum Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20Mainz",
         "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
       }
     ],
@@ -104,13 +104,6 @@
         "title": "Lucas Braathen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lucas%20Braathen",
         "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
-        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bettina Böttinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bettina%20B%C3%B6ttinger",
-        "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
+        "title": "Rugby WM Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rugby%20WM%20Finale",
+        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
