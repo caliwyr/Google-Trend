@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 10:27:13",
+  "lastUpdate": "28-10-2023 , 10:36:34",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kieswijzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kieswijzer",
         "pubdate": "Tue, 24 Oct 2023 21:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Fcgroningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
-        "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Mon, 23 Oct 2023 21:00:00 +0200"
       }
     ]
