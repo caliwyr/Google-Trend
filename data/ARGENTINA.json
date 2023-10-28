@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 05:53:24",
+  "lastUpdate": "28-10-2023 , 06:10:12",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
+        "pubdate": "Fri, 27 Oct 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham",
         "pubdate": "Fri, 27 Oct 2023 13:00:00 -0300"
@@ -40,13 +47,6 @@
       {
         "title": "Five Nights at Freddy's pelicula",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Five%20Nights%20at%20Freddy's%20pelicula",
-        "pubdate": "Fri, 27 Oct 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
         "pubdate": "Fri, 27 Oct 2023 16:00:00 -0300"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "Godoy Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Godoy%20Cruz",
         "pubdate": "Fri, 27 Oct 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Combustible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Combustible",
-        "pubdate": "Fri, 27 Oct 2023 13:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Martin Lousteau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Martin%20Lousteau",
         "pubdate": "Fri, 27 Oct 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Enzo fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Enzo%20fernandez",
+        "pubdate": "Fri, 27 Oct 2023 13:00:00 -0300"
       }
     ]
   ]
