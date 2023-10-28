@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 02:52:09",
+  "lastUpdate": "28-10-2023 , 03:06:45",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Tamas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tamas",
         "pubdate": "Fri, 27 Oct 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Vlad tepes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vlad%20tepes",
+        "pubdate": "Fri, 27 Oct 2023 23:00:00 +0300"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Sfantul Dumitru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Dumitru",
+        "title": "Sfantul dumitru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20dumitru",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sf Dimitrie cel Nou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sf%20Dimitrie%20cel%20Nou",
         "pubdate": "Thu, 26 Oct 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ed%20Sheeran",
-        "pubdate": "Thu, 26 Oct 2023 10:00:00 +0300"
       }
     ]
   ]
