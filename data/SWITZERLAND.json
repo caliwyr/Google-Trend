@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 23:55:51",
+  "lastUpdate": "28-10-2023 , 00:54:06",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Putin",
+        "pubdate": "Fri, 27 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alfons Schuhbeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alfons%20Schuhbeck",
         "pubdate": "Fri, 27 Oct 2023 09:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "FC Sion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
         "pubdate": "Fri, 27 Oct 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Putin",
-        "pubdate": "Fri, 27 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Rallye du Valais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rallye%20du%20Valais",
-        "pubdate": "Fri, 27 Oct 2023 09:00:00 +0200"
+        "title": "Mondfinsternis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mondfinsternis",
+        "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mondfinsternis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mondfinsternis",
-        "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
+        "title": "Rallye du Valais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rallye%20du%20Valais",
+        "pubdate": "Fri, 27 Oct 2023 09:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "ZSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
         "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wladimir%20Putin",
-        "pubdate": "Fri, 27 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Xenophobe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xenophobe",
         "pubdate": "Fri, 27 Oct 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland gegen Wales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Deutschland%20gegen%20Wales",
+        "pubdate": "Fri, 27 Oct 2023 19:00:00 +0200"
       }
     ]
   ]
