@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 17:53:01",
+  "lastUpdate": "28-10-2023 , 18:08:48",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gaza",
         "pubdate": "Sat, 28 Oct 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Harry Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Potter",
+        "pubdate": "Sat, 28 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
+        "pubdate": "Sat, 28 Oct 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Australia vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Australia%20vs%20New%20Zealand",
         "pubdate": "Sat, 28 Oct 2023 11:00:00 +0300"
@@ -59,16 +80,9 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
-        "pubdate": "Sat, 28 Oct 2023 17:00:00 +0300"
+        "title": "Arsenal – Sheffield United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Sheffield%20United",
+        "pubdate": "Sat, 28 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Sölden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#S%C3%B6lden",
         "pubdate": "Sat, 28 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal – Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Sheffield%20United",
-        "pubdate": "Sat, 28 Oct 2023 19:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vladimir%20Putin",
         "pubdate": "Fri, 27 Oct 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kylie Jenner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kylie%20Jenner",
-        "pubdate": "Fri, 27 Oct 2023 22:00:00 +0300"
       }
     ]
   ]
