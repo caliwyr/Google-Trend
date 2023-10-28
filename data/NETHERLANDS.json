@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-10-2023 , 22:55:16",
+  "lastUpdate": "28-10-2023 , 23:10:16",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Mexico",
-        "pubdate": "Sat, 28 Oct 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +17,23 @@
     ],
     [
       {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
-        "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sc Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
+        "title": "Heerenveen  Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20Heracles",
         "pubdate": "Sat, 28 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
+        "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
-        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barca",
+        "pubdate": "Sat, 28 Oct 2023 17:00:00 +0200"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Maansverduistering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maansverduistering",
-        "pubdate": "Sat, 28 Oct 2023 21:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-        "pubdate": "Sat, 28 Oct 2023 22:00:00 +0200"
+        "title": "Maansverduistering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maansverduistering",
+        "pubdate": "Sat, 28 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,9 @@
     ],
     [
       {
-        "title": "Irene Schouten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
-        "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heerenveen Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20Heracles",
-        "pubdate": "Sat, 28 Oct 2023 21:00:00 +0200"
+        "title": "Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+        "pubdate": "Sat, 28 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Rifka Lodeizen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rifka%20Lodeizen",
         "pubdate": "Sat, 28 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kailyn Lowry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kailyn%20Lowry",
-        "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "F1 Mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Mexico",
+        "pubdate": "Fri, 27 Oct 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Fri, 27 Oct 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
+        "pubdate": "Fri, 27 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
