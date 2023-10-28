@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2023 , 09:48:06",
+  "lastUpdate": "28-10-2023 , 09:57:27",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bob Carr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bob%20Carr",
+        "pubdate": "Sat, 28 Oct 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "On the Beach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#On%20the%20Beach",
         "pubdate": "Sat, 28 Oct 2023 16:00:00 +1100"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Taylor Swift net worth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift%20net%20worth",
-        "pubdate": "Sat, 28 Oct 2023 11:00:00 +1100"
+        "title": "Netherlands vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Netherlands%20vs%20Bangladesh",
+        "pubdate": "Sat, 28 Oct 2023 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Bob Carr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bob%20Carr",
-        "pubdate": "Sat, 28 Oct 2023 19:00:00 +1100"
+        "title": "Taylor Swift net worth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift%20net%20worth",
+        "pubdate": "Sat, 28 Oct 2023 11:00:00 +1100"
       }
     ],
     [
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "Alan Wake 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alan%20Wake%202",
-        "pubdate": "Fri, 27 Oct 2023 02:00:00 +1100"
+        "title": "Gold Coast 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20500",
+        "pubdate": "Fri, 27 Oct 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Paul McCartney Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paul%20McCartney%20Sydney",
+        "pubdate": "Fri, 27 Oct 2023 17:00:00 +1100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Fri, 27 Oct 2023 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Li Keqiang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Li%20Keqiang",
-        "pubdate": "Fri, 27 Oct 2023 13:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Damian Lillard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Damian%20Lillard",
-        "pubdate": "Fri, 27 Oct 2023 14:00:00 +1100"
+        "title": "Alan Wake 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alan%20Wake%202",
+        "pubdate": "Fri, 27 Oct 2023 02:00:00 +1100"
       }
     ]
   ]
