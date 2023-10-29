@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 06:55:39",
+  "lastUpdate": "29-10-2023 , 07:10:09",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RB%20Leipzig",
+        "pubdate": "Sun, 29 Oct 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ipswich%20Town",
         "pubdate": "Sun, 29 Oct 2023 00:00:00 +0700"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ipswich%20Town",
-        "pubdate": "Sun, 29 Oct 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Luhut Binsar Pandjaitan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Luhut%20Binsar%20Pandjaitan",
         "pubdate": "Sun, 29 Oct 2023 09:00:00 +0700"
@@ -62,6 +62,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Elon%20Musk",
         "pubdate": "Sun, 29 Oct 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joe%20Biden",
+        "pubdate": "Sun, 29 Oct 2023 13:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tyson%20Fury",
         "pubdate": "Sat, 28 Oct 2023 14:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FC%20Barcelona",
-        "pubdate": "Sat, 28 Oct 2023 22:00:00 +0700"
       }
     ]
   ]
