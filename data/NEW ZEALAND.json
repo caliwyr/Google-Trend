@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 21:59:48",
+  "lastUpdate": "29-10-2023 , 22:16:47",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Eddie Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eddie%20Jones",
         "pubdate": "Mon, 30 Oct 2023 07:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Ep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ep",
+        "pubdate": "Mon, 30 Oct 2023 10:00:00 +1300"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Weather forecast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20forecast",
+        "pubdate": "Mon, 30 Oct 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Vector",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vector",
         "pubdate": "Mon, 30 Oct 2023 08:00:00 +1300"
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "NZ Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Weather",
+        "title": "NZ weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20weather",
         "pubdate": "Mon, 30 Oct 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Lisa Kudrow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lisa%20Kudrow",
-        "pubdate": "Mon, 30 Oct 2023 09:00:00 +1300"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Kiwis vs Kangaroos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kiwis%20vs%20Kangaroos",
+        "pubdate": "Sun, 29 Oct 2023 01:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Sophie Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sophie%20Turner",
         "pubdate": "Sun, 29 Oct 2023 08:00:00 +1300"
@@ -94,9 +108,23 @@
     ],
     [
       {
+        "title": "Cyclone Lola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cyclone%20Lola",
+        "pubdate": "Sun, 29 Oct 2023 14:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
         "pubdate": "Sun, 29 Oct 2023 06:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Ardie Savea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ardie%20Savea",
+        "pubdate": "Sun, 29 Oct 2023 10:00:00 +1300"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Mika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mika",
         "pubdate": "Sun, 29 Oct 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barcelona%20vs%20Real%20Madrid",
-        "pubdate": "Sun, 29 Oct 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Molly Hurwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Molly%20Hurwitz",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Taika Waititi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taika%20Waititi",
-        "pubdate": "Sun, 29 Oct 2023 01:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Cyclone NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cyclone%20NZ",
-        "pubdate": "Sun, 29 Oct 2023 20:00:00 +1300"
       }
     ]
   ]

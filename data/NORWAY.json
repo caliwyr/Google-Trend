@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 21:59:48",
+  "lastUpdate": "29-10-2023 , 22:16:48",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Sun, 29 Oct 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gro Harlem Brundtland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gro%20Harlem%20Brundtland",
         "pubdate": "Sun, 29 Oct 2023 10:00:00 +0100"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Adam Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adam%20Johnson",
-        "pubdate": "Sun, 29 Oct 2023 12:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Tv2.no Farmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no%20Farmen",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "United City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United%20City",
-        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Putin",
+        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sigrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigrid",
         "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
@@ -83,6 +83,20 @@
         "title": "Sandefjord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandefjord",
         "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "City United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City%20United",
+        "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jon Wessel-Aas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jon%20Wessel-Aas",
+        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Jon Wessel-Aas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jon%20Wessel-Aas",
-        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
+        "title": "Bas Dost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bas%20Dost",
+        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Time",
         "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Når stilles klokka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#N%C3%A5r%20stilles%20klokka",
-        "pubdate": "Sat, 28 Oct 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal mot Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Sheffield%20United",
-        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0200"
       }
     ]
   ]
