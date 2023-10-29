@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 17:51:38",
+  "lastUpdate": "29-10-2023 , 18:06:28",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
+        "pubdate": "Sun, 29 Oct 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Ybor City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ybor%20City",
         "pubdate": "Sun, 29 Oct 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
+        "pubdate": "Sun, 29 Oct 2023 10:00:00 -0700"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Man United vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Man%20City",
-        "pubdate": "Sun, 29 Oct 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Matthew Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matthew%20Perry",
         "pubdate": "Sat, 28 Oct 2023 18:00:00 -0700"
@@ -45,15 +52,8 @@
     ],
     [
       {
-        "title": "Colorado vs UCLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20vs%20UCLA",
-        "pubdate": "Sat, 28 Oct 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
         "pubdate": "Sat, 28 Oct 2023 02:00:00 -0700"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Florida Gators",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida%20Gators",
-        "pubdate": "Sat, 28 Oct 2023 14:00:00 -0700"
+        "title": "Colorado vs UCLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20vs%20UCLA",
+        "pubdate": "Sat, 28 Oct 2023 17:00:00 -0700"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Utah football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20football",
-        "pubdate": "Sat, 28 Oct 2023 06:00:00 -0700"
+        "title": "Georgia Florida game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Florida%20game",
+        "pubdate": "Sat, 28 Oct 2023 15:00:00 -0700"
       }
     ],
     [
       {
-        "title": "USC vs Cal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20vs%20Cal",
-        "pubdate": "Sat, 28 Oct 2023 18:00:00 -0700"
+        "title": "Utah football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Utah%20football",
+        "pubdate": "Sat, 28 Oct 2023 06:00:00 -0700"
       }
     ],
     [
@@ -115,15 +115,15 @@
     ],
     [
       {
-        "title": "Bulls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bulls",
-        "pubdate": "Sat, 28 Oct 2023 06:00:00 -0700"
+        "title": "Kentucky football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20football",
+        "pubdate": "Sat, 28 Oct 2023 19:00:00 -0700"
       }
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FC%20Barcelona",
+        "title": "Bulls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bulls",
         "pubdate": "Sat, 28 Oct 2023 06:00:00 -0700"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Louisville football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
-        "pubdate": "Sat, 28 Oct 2023 14:00:00 -0700"
+        "title": "USC vs Cal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20vs%20Cal",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 -0700"
       }
     ]
   ]
