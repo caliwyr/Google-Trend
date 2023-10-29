@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 04:58:17",
+  "lastUpdate": "29-10-2023 , 05:14:53",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Red",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Red",
         "pubdate": "Sun, 29 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Mexique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1%20Mexique",
-        "pubdate": "Sun, 29 Oct 2023 01:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
         "pubdate": "Sat, 28 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Banksy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Banksy",
+        "pubdate": "Sat, 28 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
