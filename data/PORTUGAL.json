@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-10-2023 , 12:46:54",
+  "lastUpdate": "29-10-2023 , 12:58:42",
   "data": [
     [
       {
         "title": "Friends",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Friends",
         "pubdate": "Sun, 29 Oct 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "FC Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FC%20Porto",
+        "pubdate": "Sun, 29 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rolling%20Stones",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Sun, 29 Oct 2023 01:00:00 +0100"
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Weyes Blood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Weyes%20Blood",
+        "pubdate": "Sun, 29 Oct 2023 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Barcelona  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Real%20Madrid",
         "pubdate": "Sat, 28 Oct 2023 09:00:00 +0100"
@@ -83,13 +104,6 @@
         "title": "Mudanca de hora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mudanca%20de%20hora",
         "pubdate": "Sat, 28 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FC%20Porto",
-        "pubdate": "Sat, 28 Oct 2023 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortaleza",
         "pubdate": "Sat, 28 Oct 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Depressão Celine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Depress%C3%A3o%20Celine",
-        "pubdate": "Sat, 28 Oct 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
-        "pubdate": "Sat, 28 Oct 2023 16:00:00 +0100"
       }
     ]
   ]
