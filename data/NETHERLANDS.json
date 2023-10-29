@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 04:00:51",
+  "lastUpdate": "29-10-2023 , 04:21:07",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
-        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
         "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
-        "pubdate": "Sat, 28 Oct 2023 14:00:00 +0200"
+        "title": "SC Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SC%20Heerenveen",
+        "pubdate": "Sat, 28 Oct 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Passkey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Passkey",
         "pubdate": "Sat, 28 Oct 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maansverduistering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maansverduistering",
-        "pubdate": "Sat, 28 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
         "pubdate": "Fri, 27 Oct 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
+        "pubdate": "Fri, 27 Oct 2023 23:00:00 +0200"
       }
     ]
   ]
