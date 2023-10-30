@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 17:00:04",
+  "lastUpdate": "30-10-2023 , 17:16:50",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
         "pubdate": "Mon, 30 Oct 2023 07:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Balon de Oro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Balon%20de%20Oro",
+        "pubdate": "Mon, 30 Oct 2023 00:00:00 -0300"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "ATP paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ATP%20paris",
+        "pubdate": "Mon, 30 Oct 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Botafogo",
         "pubdate": "Mon, 30 Oct 2023 02:00:00 -0300"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "ATP paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ATP%20paris",
-        "pubdate": "Mon, 30 Oct 2023 11:00:00 -0300"
+        "title": "Maquillaje Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maquillaje%20Halloween",
+        "pubdate": "Mon, 30 Oct 2023 13:00:00 -0300"
       }
     ],
     [
@@ -62,6 +76,13 @@
         "title": "Alexis Sánchez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexis%20S%C3%A1nchez",
         "pubdate": "Mon, 30 Oct 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michael%20Schumacher",
+        "pubdate": "Mon, 30 Oct 2023 13:00:00 -0300"
       }
     ],
     [
@@ -87,23 +108,9 @@
     ],
     [
       {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Betis - Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20-%20Osasuna",
         "pubdate": "Sun, 29 Oct 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Balon de Oro 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Balon%20de%20Oro%202023",
-        "pubdate": "Sun, 29 Oct 2023 16:00:00 -0300"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Deportes Temuco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
-        "pubdate": "Sun, 29 Oct 2023 19:00:00 -0300"
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Sun, 29 Oct 2023 17:00:00 -0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Boca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
-        "pubdate": "Sun, 29 Oct 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
-        "pubdate": "Sun, 29 Oct 2023 14:00:00 -0300"
+        "title": "Deportes Temuco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
+        "pubdate": "Sun, 29 Oct 2023 19:00:00 -0300"
       }
     ]
   ]
