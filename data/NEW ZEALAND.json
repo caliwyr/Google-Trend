@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 14:53:56",
+  "lastUpdate": "30-10-2023 , 15:09:49",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Gmail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gmail",
         "pubdate": "Mon, 30 Oct 2023 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Google Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Maps",
-        "pubdate": "Mon, 30 Oct 2023 16:00:00 +1300"
       }
     ],
     [
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Canva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canva",
+        "pubdate": "Mon, 30 Oct 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Seek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Seek",
         "pubdate": "Mon, 30 Oct 2023 13:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Maps",
+        "pubdate": "Mon, 30 Oct 2023 16:00:00 +1300"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Auckland Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Airport",
-        "pubdate": "Mon, 30 Oct 2023 13:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Sri Lanka vs Afghanistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sri%20Lanka%20vs%20Afghanistan",
         "pubdate": "Mon, 30 Oct 2023 22:00:00 +1300"
@@ -129,9 +129,9 @@
     ],
     [
       {
-        "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Classroom",
-        "pubdate": "Mon, 30 Oct 2023 11:00:00 +1300"
+        "title": "Auckland Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Airport",
+        "pubdate": "Mon, 30 Oct 2023 13:00:00 +1300"
       }
     ],
     [
