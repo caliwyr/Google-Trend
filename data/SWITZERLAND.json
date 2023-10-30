@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 08:55:55",
+  "lastUpdate": "30-10-2023 , 09:12:56",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukaku",
+        "pubdate": "Mon, 30 Oct 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Julia Roberts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julia%20Roberts",
         "pubdate": "Mon, 30 Oct 2023 08:00:00 +0100"
@@ -47,7 +54,7 @@
       {
         "title": "FC Basel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
-        "pubdate": "Sun, 29 Oct 2023 14:00:00 +0100"
+        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Marseille Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille%20Lyon",
+        "title": "Marseille-Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille-Lyon",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
       }
     ],
@@ -101,30 +108,9 @@
     ],
     [
       {
-        "title": "Servette FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
-        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
         "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer",
-        "pubdate": "Sun, 29 Oct 2023 09:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Neapel gegen Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Neapel%20gegen%20Milan",
-        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Servette FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
+        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roger Federer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer",
+        "pubdate": "Sun, 29 Oct 2023 09:00:00 +0100"
       }
     ]
   ]

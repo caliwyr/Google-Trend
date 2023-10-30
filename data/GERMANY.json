@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 08:55:50",
+  "lastUpdate": "30-10-2023 , 09:12:50",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
       }
     ],
@@ -19,7 +19,7 @@
       {
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
-        "pubdate": "Sun, 29 Oct 2023 14:00:00 +0100"
+        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sun, 29 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Sun, 29 Oct 2023 00:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
+        "title": "Luis Diaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luis%20Diaz",
+        "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Luis Diaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luis%20Diaz",
-        "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
+        "title": "Leverkusen Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen%20Freiburg",
+        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
       }
     ],
     [
@@ -103,13 +110,6 @@
       {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
         "pubdate": "Sat, 28 Oct 2023 15:00:00 +0200"
       }
     ],
