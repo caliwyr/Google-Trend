@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 18:58:33",
+  "lastUpdate": "30-10-2023 , 19:13:26",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Trick-or-treat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trick-or-treat",
+        "title": "Apple event",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20event",
+        "pubdate": "Tue, 31 Oct 2023 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Trick or treat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trick%20or%20treat",
         "pubdate": "Tue, 31 Oct 2023 00:00:00 +1100"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
-        "pubdate": "Mon, 30 Oct 2023 05:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Damian Lillard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Damian%20Lillard",
         "pubdate": "Mon, 30 Oct 2023 13:00:00 +1100"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Movember",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Movember",
+        "pubdate": "Mon, 30 Oct 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Hank Azaria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hank%20Azaria",
         "pubdate": "Mon, 30 Oct 2023 21:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Mike Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mike%20Johnson",
         "pubdate": "Mon, 30 Oct 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-        "pubdate": "Mon, 30 Oct 2023 17:00:00 +1100"
       }
     ]
   ]
