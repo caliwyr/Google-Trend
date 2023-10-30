@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2023 , 23:58:41",
+  "lastUpdate": "30-10-2023 , 01:15:33",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Napoli–milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli%E2%80%93milan",
+        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Voice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Voice",
         "pubdate": "Sun, 29 Oct 2023 07:00:00 +0100"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Inter–roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter%E2%80%93roma",
-        "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dibusz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dibusz",
         "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atlético madrid–alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atl%C3%A9tico%20madrid%E2%80%93alav%C3%A9s",
-        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
-        "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
+        "title": "Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Norris",
+        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Újpest fradi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20fradi",
-        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
+        "title": "Marseille Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marseille%20Lyon",
+        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atletico%20Madrid",
+        "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
       }
     ]
   ]
