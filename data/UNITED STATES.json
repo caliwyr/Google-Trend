@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-10-2023 , 07:52:21",
+  "lastUpdate": "30-10-2023 , 08:09:17",
   "data": [
-    [
-      {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
-        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
         "pubdate": "Sun, 29 Oct 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Chiefs vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Broncos",
-        "pubdate": "Sun, 29 Oct 2023 14:00:00 -0700"
+        "title": "Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
-        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
+        "title": "Chiefs vs Broncos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Broncos",
+        "pubdate": "Sun, 29 Oct 2023 14:00:00 -0700"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Titans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Titans",
-        "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Will Levis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Will%20Levis",
         "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Sun, 29 Oct 2023 23:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Tommy DeVito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tommy%20DeVito",
         "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
-        "pubdate": "Sun, 29 Oct 2023 23:00:00 -0700"
+        "title": "Tennessee Titans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20Titans",
+        "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
       }
     ]
   ]
