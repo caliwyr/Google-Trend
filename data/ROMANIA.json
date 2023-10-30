@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-10-2023 , 21:57:03",
+  "lastUpdate": "30-10-2023 , 22:13:05",
   "data": [
-    [
-      {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
-        "pubdate": "Mon, 30 Oct 2023 17:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "CFR Cluj  Farul Constanța",
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Legea 296 din 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20296%20din%202023",
+        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Shani Louk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shani%20Louk",
         "pubdate": "Mon, 30 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "pubdate": "Mon, 30 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Diana belbita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20belbita",
+        "title": "Diana Belbita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20Belbita",
         "pubdate": "Mon, 30 Oct 2023 11:00:00 +0200"
       }
     ],
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Balonul de Aur 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Balonul%20de%20Aur%202023",
-        "pubdate": "Sun, 29 Oct 2023 13:00:00 +0200"
+        "title": "Ballon d'Or 2023 LIVE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ballon%20d'Or%202023%20LIVE",
+        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
         "pubdate": "Sun, 29 Oct 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli%20-%20Milan",
-        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0200"
       }
     ]
   ]
