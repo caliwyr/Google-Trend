@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-10-2023 , 10:56:14",
+  "lastUpdate": "30-10-2023 , 11:11:02",
   "data": [
-    [
-      {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
-        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "49ers",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Eagles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
+        "pubdate": "Sun, 29 Oct 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kirk Cousins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirk%20Cousins",
         "pubdate": "Sun, 29 Oct 2023 13:00:00 -0700"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Kirk Cousins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirk%20Cousins",
-        "pubdate": "Sun, 29 Oct 2023 13:00:00 -0700"
+        "title": "Chiefs vs Broncos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Broncos",
+        "pubdate": "Sun, 29 Oct 2023 14:00:00 -0700"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Vikings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
         "pubdate": "Sun, 29 Oct 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Chiefs vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Broncos",
-        "pubdate": "Sun, 29 Oct 2023 14:00:00 -0700"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Bears vs Chargers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears%20vs%20Chargers",
+        "pubdate": "Sun, 29 Oct 2023 18:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Tommy DeVito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tommy%20DeVito",
         "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
@@ -132,13 +139,6 @@
         "title": "Tennessee Titans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20Titans",
         "pubdate": "Sun, 29 Oct 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Mahomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patrick%20Mahomes",
-        "pubdate": "Sun, 29 Oct 2023 13:00:00 -0700"
       }
     ]
   ]

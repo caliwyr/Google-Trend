@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-10-2023 , 10:56:30",
+  "lastUpdate": "30-10-2023 , 11:11:12",
   "data": [
-    [
-      {
-        "title": "Island vulkanausbruch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Island%20vulkanausbruch",
-        "pubdate": "Mon, 30 Oct 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Shani Louk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shani%20Louk",
         "pubdate": "Mon, 30 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Island vulkanausbruch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Island%20vulkanausbruch",
+        "pubdate": "Mon, 30 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille",
-        "pubdate": "Mon, 30 Oct 2023 09:00:00 +0100"
+        "title": "Chaplin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chaplin",
+        "pubdate": "Mon, 30 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Sölden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#S%C3%B6lden",
+        "pubdate": "Sun, 29 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
         "pubdate": "Sun, 29 Oct 2023 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Dagestan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dagestan",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ballon d'Or 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ballon%20d'Or%202023",
-        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0100"
       }
     ]
   ]
