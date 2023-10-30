@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-10-2023 , 20:00:33",
+  "lastUpdate": "30-10-2023 , 20:18:49",
   "data": [
-    [
-      {
-        "title": "Ballon d'Or",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or",
-        "pubdate": "Mon, 30 Oct 2023 13:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Shani Louk",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Schumacher",
+        "pubdate": "Mon, 30 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Matthew Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Matthew%20Perry",
         "pubdate": "Sun, 29 Oct 2023 02:00:00 +0100"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Man utd  Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Man%20City",
-        "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
+        "title": "Ballon d'Or 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202023",
+        "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ballon d'Or 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202023",
-        "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
+        "title": "Man utd  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Man%20City",
+        "pubdate": "Sun, 29 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Ur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ur",
-        "pubdate": "Sun, 29 Oct 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Game of Thrones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Game%20of%20Thrones",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bas Dost",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bas%20Dost",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Finals",
+        "pubdate": "Sun, 29 Oct 2023 11:00:00 +0100"
       }
     ]
   ]
