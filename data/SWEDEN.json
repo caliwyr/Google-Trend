@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 02:00:45",
+  "lastUpdate": "30-10-2023 , 02:25:35",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "title": "GAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
         "pubdate": "Sun, 29 Oct 2023 14:00:00 +0100"
       }
     ],
@@ -55,6 +55,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
         "pubdate": "Sun, 29 Oct 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AIK Halmstad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Halmstad",
+        "pubdate": "Sun, 29 Oct 2023 17:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Sista ordet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sista%20ordet",
-        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dirty dough",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dirty%20dough",
         "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
@@ -111,6 +111,13 @@
         "title": "Tid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tid",
         "pubdate": "Sun, 29 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Skellefteå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
+        "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Napoli",
-        "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carl Bildt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Bildt",
         "pubdate": "Sun, 29 Oct 2023 23:00:00 +0100"
       }
     ]

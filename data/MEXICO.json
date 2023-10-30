@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 02:00:41",
+  "lastUpdate": "30-10-2023 , 02:25:31",
   "data": [
     [
       {
@@ -17,16 +17,9 @@
     ],
     [
       {
-        "title": "Toluca  Atl San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Toluca%20%20Atl%20San%20Luis",
+        "title": "Toluca vs San Luis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Toluca%20vs%20San%20Luis",
         "pubdate": "Sun, 29 Oct 2023 04:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Hora mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hora%20mexico",
-        "pubdate": "Sun, 29 Oct 2023 05:00:00 -0600"
       }
     ],
     [
@@ -45,16 +38,9 @@
     ],
     [
       {
-        "title": "Eclipse lunar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20lunar",
-        "pubdate": "Sun, 29 Oct 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Max%20Verstappen",
-        "pubdate": "Sun, 29 Oct 2023 13:00:00 -0600"
+        "title": "La hora en mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20hora%20en%20mexico",
+        "pubdate": "Sun, 29 Oct 2023 09:00:00 -0600"
       }
     ],
     [
@@ -73,9 +59,37 @@
     ],
     [
       {
+        "title": "Eclipse lunar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20lunar",
+        "pubdate": "Sun, 29 Oct 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Max%20Verstappen",
+        "pubdate": "Sun, 29 Oct 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Stade Brestois  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Stade%20Brestois%20%20PSG",
         "pubdate": "Sun, 29 Oct 2023 07:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Santos  Juárez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20%20Ju%C3%A1rez",
+        "pubdate": "Sun, 29 Oct 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Cambio horario invierno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cambio%20horario%20invierno",
+        "pubdate": "Sun, 29 Oct 2023 08:00:00 -0600"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Inter  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20%20Roma",
+        "pubdate": "Sun, 29 Oct 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Horario de invierno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Horario%20de%20invierno",
         "pubdate": "Sun, 29 Oct 2023 09:00:00 -0600"
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Cowboys  Rams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys%20%20Rams",
-        "pubdate": "Sun, 29 Oct 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Borussia%20Dortmund",
-        "pubdate": "Sun, 29 Oct 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Broncos  Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Broncos%20%20Chiefs",
-        "pubdate": "Sun, 29 Oct 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Inter  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20%20Roma",
+        "title": "Dolphins  Patriots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dolphins%20%20Patriots",
         "pubdate": "Sun, 29 Oct 2023 12:00:00 -0600"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2023 , 02:00:42",
+  "lastUpdate": "30-10-2023 , 02:25:32",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Brighton vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton%20vs%20Fulham",
         "pubdate": "Sun, 29 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter vs Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20vs%20Roma",
+        "pubdate": "Sun, 29 Oct 2023 13:00:00 +0100"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
-        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0100"
+        "title": "NYSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NYSC",
+        "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayer%20Leverkusen",
+        "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "India vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#India%20vs%20England",
         "pubdate": "Sun, 29 Oct 2023 13:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Porto",
         "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brighton fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton%20fc",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 +0100"
       }
     ]
   ]
