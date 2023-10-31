@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 13:50:08",
+  "lastUpdate": "31-10-2023 , 13:59:22",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "CASS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CASS",
         "pubdate": "Tue, 31 Oct 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erling Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erling%20Haaland",
-        "pubdate": "Tue, 31 Oct 2023 14:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Colectiv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Colectiv",
+        "pubdate": "Mon, 30 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Shani Louk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Shani%20Louk",
         "pubdate": "Mon, 30 Oct 2023 14:00:00 +0200"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "CSM bucuresti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
+        "title": "CSM Bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20Bucuresti",
         "pubdate": "Mon, 30 Oct 2023 05:00:00 +0200"
       }
     ],
@@ -104,13 +104,6 @@
         "title": "Haddad Maia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haddad%20Maia",
         "pubdate": "Mon, 30 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Legea pensiilor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20pensiilor",
-        "pubdate": "Mon, 30 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Time",
         "pubdate": "Mon, 30 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Matthew Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Matthew%20Perry",
+        "pubdate": "Sun, 29 Oct 2023 03:00:00 +0200"
       }
     ]
   ]
