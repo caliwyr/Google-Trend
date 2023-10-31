@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-10-2023 , 23:59:59",
+  "lastUpdate": "31-10-2023 , 01:19:14",
   "data": [
+    [
+      {
+        "title": "Frans Bauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frans%20Bauer",
+        "pubdate": "Tue, 31 Oct 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ballon d'Or",
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "FC Volendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Volendam",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sun, 29 Oct 2023 00:00:00 +0200"
@@ -111,13 +111,6 @@
         "title": "Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
         "pubdate": "Sun, 29 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maduro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maduro",
-        "pubdate": "Sun, 29 Oct 2023 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
         "pubdate": "Sat, 28 Oct 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nacht van de nacht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nacht%20van%20de%20nacht",
+        "pubdate": "Sat, 28 Oct 2023 18:00:00 +0200"
       }
     ]
   ]
