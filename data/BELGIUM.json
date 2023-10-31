@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 13:59:15",
+  "lastUpdate": "31-10-2023 , 14:17:14",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Halloween 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Halloween%202023",
-        "pubdate": "Tue, 31 Oct 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Trick or treat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trick%20or%20treat",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Beker van belgie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beker%20van%20belgie",
-        "pubdate": "Tue, 31 Oct 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Coupe de Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
         "pubdate": "Tue, 31 Oct 2023 10:00:00 +0100"
@@ -80,16 +66,16 @@
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lazio",
-        "pubdate": "Tue, 31 Oct 2023 00:00:00 +0100"
+        "title": "Gouden Bal 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gouden%20Bal%202023",
+        "pubdate": "Tue, 31 Oct 2023 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gouden Bal 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gouden%20Bal%202023",
-        "pubdate": "Tue, 31 Oct 2023 08:00:00 +0100"
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lazio",
+        "pubdate": "Tue, 31 Oct 2023 00:00:00 +0100"
       }
     ],
     [
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Emiliano Martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emiliano%20Martinez",
+        "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celine%20Dion",
         "pubdate": "Mon, 30 Oct 2023 21:00:00 +0100"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Shani Louk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shani%20Louk",
-        "pubdate": "Mon, 30 Oct 2023 12:00:00 +0100"
+        "title": "Tempête Ciaran Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Temp%C3%AAte%20Ciaran%20Belgique",
+        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tempête Ciaran Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Temp%C3%AAte%20Ciaran%20Belgique",
-        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
+        "title": "Shani Louk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shani%20Louk",
+        "pubdate": "Mon, 30 Oct 2023 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Orque La Panne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Orque%20La%20Panne",
         "pubdate": "Mon, 30 Oct 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aline",
+        "pubdate": "Mon, 30 Oct 2023 21:00:00 +0100"
       }
     ]
   ]
