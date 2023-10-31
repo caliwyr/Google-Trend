@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 13:00:49",
+  "lastUpdate": "31-10-2023 , 13:22:03",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Ivan Bart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ivan%20Bart",
-        "pubdate": "Tue, 31 Oct 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "WTA Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#WTA%20Finals",
         "pubdate": "Tue, 31 Oct 2023 12:00:00 +0800"
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "Apple event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple%20event",
+        "title": "Apple Event",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple%20Event",
         "pubdate": "Mon, 30 Oct 2023 21:00:00 +0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Haaland",
         "pubdate": "Mon, 30 Oct 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Warriors",
+        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0800"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 13:00:48",
+  "lastUpdate": "31-10-2023 , 13:22:02",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "CFR Cluj  Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Farul%20Constan%C8%9Ba",
+        "title": "Erling Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erling%20Haaland",
+        "pubdate": "Tue, 31 Oct 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CFR Cluj - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20-%20Farul%20Constan%C8%9Ba",
         "pubdate": "Mon, 30 Oct 2023 20:00:00 +0200"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Legea 296 din 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20296%20din%202023",
-        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cupa romaniei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20romaniei",
         "pubdate": "Mon, 30 Oct 2023 07:00:00 +0200"
@@ -66,20 +66,6 @@
     ],
     [
       {
-        "title": "Noua lege a pensiilor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Noua%20lege%20a%20pensiilor",
-        "pubdate": "Mon, 30 Oct 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Drumul Apusenilor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Drumul%20Apusenilor",
-        "pubdate": "Mon, 30 Oct 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ajax",
         "pubdate": "Mon, 30 Oct 2023 16:00:00 +0200"
@@ -87,9 +73,23 @@
     ],
     [
       {
+        "title": "Noua lege a pensiilor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Noua%20lege%20a%20pensiilor",
+        "pubdate": "Mon, 30 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "CSM bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
         "pubdate": "Mon, 30 Oct 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FCSB Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20Rapid",
+        "pubdate": "Mon, 30 Oct 2023 21:00:00 +0200"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Haddad Maia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haddad%20Maia",
         "pubdate": "Mon, 30 Oct 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Legea pensiilor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legea%20pensiilor",
+        "pubdate": "Mon, 30 Oct 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Time",
         "pubdate": "Mon, 30 Oct 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matthew Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Matthew%20Perry",
-        "pubdate": "Sun, 29 Oct 2023 03:00:00 +0200"
       }
     ]
   ]
