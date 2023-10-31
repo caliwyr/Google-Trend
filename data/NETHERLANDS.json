@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "31-10-2023 , 06:58:27",
+  "lastUpdate": "31-10-2023 , 07:15:05",
   "data": [
     [
       {
         "title": "Frans Bauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frans%20Bauer",
         "pubdate": "Tue, 31 Oct 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paul de Munnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20de%20Munnik",
-        "pubdate": "Mon, 30 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "John van 't Schip",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#John%20van%20't%20Schip",
-        "pubdate": "Mon, 30 Oct 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Radio 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
-        "pubdate": "Mon, 30 Oct 2023 14:00:00 +0100"
       }
     ],
     [
@@ -38,9 +17,23 @@
     ],
     [
       {
+        "title": "Radio 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
+        "pubdate": "Mon, 30 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haaland",
         "pubdate": "Mon, 30 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Van 't Schip",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20't%20Schip",
+        "pubdate": "Mon, 30 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -75,7 +68,7 @@
       {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 29 Oct 2023 13:00:00 +0100"
+        "pubdate": "Sun, 29 Oct 2023 14:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSV - Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20-%20Ajax",
         "pubdate": "Fri, 27 Oct 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20PSV",
+        "pubdate": "Fri, 27 Oct 2023 20:00:00 +0200"
       }
     ]
   ]

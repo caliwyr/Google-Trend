@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 06:58:26",
+  "lastUpdate": "31-10-2023 , 07:15:04",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
-        "pubdate": "Mon, 30 Oct 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Adam Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Adam%20Johnson",
         "pubdate": "Mon, 30 Oct 2023 15:00:00 +0800"
@@ -87,9 +80,30 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
+        "pubdate": "Mon, 30 Oct 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Syamsul Yusof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Syamsul%20Yusof",
         "pubdate": "Mon, 30 Oct 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers",
+        "pubdate": "Mon, 30 Oct 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Hylo Open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hylo%20Open%202023",
+        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0800"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers",
-        "pubdate": "Mon, 30 Oct 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mike Bickle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mike%20Bickle",
-        "pubdate": "Mon, 30 Oct 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Carabao Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Carabao%20Cup",
         "pubdate": "Mon, 30 Oct 2023 20:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Team Spirit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Team%20Spirit",
-        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0800"
+        "title": "Mike Bickle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mike%20Bickle",
+        "pubdate": "Mon, 30 Oct 2023 07:00:00 +0800"
       }
     ]
   ]
