@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "31-10-2023 , 21:52:11",
+  "lastUpdate": "31-10-2023 , 22:05:45",
   "data": [
     [
       {
         "title": "Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leipzig",
+        "pubdate": "Wed, 01 Nov 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Rb leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Rb%20leipzig",
         "pubdate": "Wed, 01 Nov 2023 01:00:00 +0700"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Thủ tướng Trung Quốc Lý Khắc Cường",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%A7%20t%C6%B0%E1%BB%9Bng%20Trung%20Qu%E1%BB%91c%20L%C3%BD%20Kh%E1%BA%AFc%20C%C6%B0%E1%BB%9Dng",
-        "pubdate": "Tue, 31 Oct 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Villarreal",
         "pubdate": "Tue, 31 Oct 2023 04:00:00 +0700"
@@ -48,6 +48,13 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atalanta",
         "pubdate": "Tue, 31 Oct 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Thủ tướng Trung Quốc Lý Khắc Cường",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%A7%20t%C6%B0%E1%BB%9Bng%20Trung%20Qu%E1%BB%91c%20L%C3%BD%20Kh%E1%BA%AFc%20C%C6%B0%E1%BB%9Dng",
+        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0700"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Villarreal vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Villarreal%20vs",
-        "pubdate": "Tue, 31 Oct 2023 07:00:00 +0700"
+        "title": "Trung quoc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Trung%20quoc",
+        "pubdate": "Tue, 31 Oct 2023 17:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Manchester united",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Manchester%20united",
         "pubdate": "Mon, 30 Oct 2023 05:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
-        "pubdate": "Mon, 30 Oct 2023 01:00:00 +0700"
       }
     ]
   ]
