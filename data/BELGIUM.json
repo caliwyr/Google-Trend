@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 15:54:34",
+  "lastUpdate": "31-10-2023 , 16:13:57",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Gouden Bal 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gouden%20Bal%202023",
+        "pubdate": "Tue, 31 Oct 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Apple-event",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Apple-event",
         "pubdate": "Tue, 31 Oct 2023 07:00:00 +0100"
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Schalke 04",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schalke%2004",
+        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Emiliano Martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emiliano%20Martinez",
         "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Schalke 04",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schalke%2004",
-        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0100"
+        "title": "De volksjury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20volksjury",
+        "pubdate": "Tue, 31 Oct 2023 16:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Shani Louk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shani%20Louk",
         "pubdate": "Mon, 30 Oct 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Toby Alderweireld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toby%20Alderweireld",
-        "pubdate": "Mon, 30 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Orque La Panne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Orque%20La%20Panne",
-        "pubdate": "Mon, 30 Oct 2023 01:00:00 +0100"
       }
     ]
   ]
