@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2023 , 02:00:44",
+  "lastUpdate": "31-10-2023 , 02:25:00",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Skims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Skims",
         "pubdate": "Mon, 30 Oct 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Brennan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Brennan",
+        "pubdate": "Mon, 30 Oct 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Buffalo Sabres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Buffalo%20Sabres",
+        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Sun, 29 Oct 2023 19:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Ukko-Pekka Luukkonen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ukko-Pekka%20Luukkonen",
-        "pubdate": "Sun, 29 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luis Diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Luis%20Diaz",
         "pubdate": "Sun, 29 Oct 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Cruise",
         "pubdate": "Sun, 29 Oct 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Buffalo Sabres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Buffalo%20Sabres",
-        "pubdate": "Sun, 29 Oct 2023 20:00:00 +0200"
       }
     ]
   ]
