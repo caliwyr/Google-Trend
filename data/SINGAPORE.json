@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "01-11-2023 , 21:48:57",
+  "lastUpdate": "01-11-2023 , 21:58:19",
   "data": [
     [
       {
         "title": "Bournemouth vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bournemouth%20vs%20Liverpool",
-        "pubdate": "Thu, 02 Nov 2023 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham%20vs%20Arsenal",
         "pubdate": "Thu, 02 Nov 2023 04:00:00 +0800"
       }
     ],
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Lee Seung-gi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lee%20Seung-gi",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0800"
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+        "pubdate": "Thu, 02 Nov 2023 03:00:00 +0800"
       }
     ],
     [
       {
-        "title": "FOMC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
-        "pubdate": "Thu, 02 Nov 2023 03:00:00 +0800"
+        "title": "Lee Seung-gi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lee%20Seung-gi",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0800"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Victor Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Victor%20Wembanyama",
-        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Heidi%20Klum",
         "pubdate": "Wed, 01 Nov 2023 21:00:00 +0800"
@@ -139,6 +125,20 @@
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple",
         "pubdate": "Tue, 31 Oct 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
+        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "James Harden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#James%20Harden",
+        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0800"
       }
     ]
   ]
