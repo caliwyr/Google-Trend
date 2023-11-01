@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2023 , 03:51:50",
+  "lastUpdate": "01-11-2023 , 04:07:08",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "De Graafschap  Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap%20%20Emmen",
-        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ov-chipkaart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ov-chipkaart",
-        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "KNVB Beker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB%20Beker",
-        "pubdate": "Mon, 30 Oct 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Storm ciaran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20ciaran",
         "pubdate": "Mon, 30 Oct 2023 23:00:00 +0100"
@@ -111,13 +104,6 @@
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Messi",
         "pubdate": "Mon, 30 Oct 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Canon van de Nederlandse natuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canon%20van%20de%20Nederlandse%20natuur",
-        "pubdate": "Mon, 30 Oct 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sun, 29 Oct 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sun, 29 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fcgroningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
+        "pubdate": "Sun, 29 Oct 2023 15:00:00 +0100"
       }
     ]
   ]
