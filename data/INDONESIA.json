@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2023 , 04:53:36",
+  "lastUpdate": "01-11-2023 , 05:08:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RB%20Leipzig",
         "pubdate": "Wed, 01 Nov 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Coppa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Coppa%20Italia",
+        "pubdate": "Wed, 01 Nov 2023 07:00:00 +0700"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Boikot Produk Pro Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Boikot%20Produk%20Pro%20Israel",
-        "pubdate": "Wed, 01 Nov 2023 06:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "November Rain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#November%20Rain",
         "pubdate": "Wed, 01 Nov 2023 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Halloween 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Halloween%202023",
-        "pubdate": "Wed, 01 Nov 2023 06:00:00 +0700"
       }
     ],
     [
@@ -66,15 +59,22 @@
     ],
     [
       {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copa%20del%20Rey",
-        "pubdate": "Wed, 01 Nov 2023 09:00:00 +0700"
+        "title": "Boikot Produk Pro Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Boikot%20Produk%20Pro%20Israel",
+        "pubdate": "Wed, 01 Nov 2023 06:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Coppa%20Italia",
+        "title": "Halloween 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Halloween%202023",
+        "pubdate": "Wed, 01 Nov 2023 06:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copa%20del%20Rey",
         "pubdate": "Wed, 01 Nov 2023 09:00:00 +0700"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Joker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joker",
-        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Malaysia",
         "pubdate": "Tue, 31 Oct 2023 09:00:00 +0700"
@@ -132,6 +125,13 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atalanta",
         "pubdate": "Tue, 31 Oct 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Joker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joker",
+        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0700"
       }
     ],
     [
