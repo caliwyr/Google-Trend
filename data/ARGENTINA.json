@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-11-2023 , 05:53:24",
+  "lastUpdate": "01-11-2023 , 06:11:42",
   "data": [
+    [
+      {
+        "title": "Día de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%ADa%20de%20los%20Muertos",
+        "pubdate": "Wed, 01 Nov 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Central Córdoba vs Unión",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "1 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#1%20de%20noviembre",
-        "pubdate": "Wed, 01 Nov 2023 01:00:00 -0300"
+        "title": "Voley Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Voley%20Argentina",
+        "pubdate": "Wed, 01 Nov 2023 02:00:00 -0300"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Halloween significado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Halloween%20significado",
-        "pubdate": "Tue, 31 Oct 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fluminense",
         "pubdate": "Tue, 31 Oct 2023 09:00:00 -0300"
@@ -87,6 +87,20 @@
     ],
     [
       {
+        "title": "Halloween significado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Halloween%20significado",
+        "pubdate": "Tue, 31 Oct 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20de%20los%20Muertos",
+        "pubdate": "Tue, 31 Oct 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al-Nassr",
         "pubdate": "Tue, 31 Oct 2023 14:00:00 -0300"
@@ -101,23 +115,9 @@
     ],
     [
       {
-        "title": "Dia de los Muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20de%20los%20Muertos",
-        "pubdate": "Tue, 31 Oct 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Temblor en Mendoza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Temblor%20en%20Mendoza",
         "pubdate": "Tue, 31 Oct 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "IFE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IFE",
-        "pubdate": "Tue, 31 Oct 2023 02:00:00 -0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Alcaraz",
-        "pubdate": "Tue, 31 Oct 2023 19:00:00 -0300"
+        "title": "IFE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IFE",
+        "pubdate": "Tue, 31 Oct 2023 23:00:00 -0300"
       }
     ]
   ]
