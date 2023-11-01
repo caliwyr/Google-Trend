@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2023 , 08:46:17",
+  "lastUpdate": "01-11-2023 , 08:55:41",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Haaland",
-        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jordie Barrett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jordie%20Barrett",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Ballon d'Or 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ballon%20d'Or%202023",
         "pubdate": "Mon, 30 Oct 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cyril Ramaphosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cyril%20Ramaphosa",
+        "pubdate": "Mon, 30 Oct 2023 21:00:00 +0200"
       }
     ]
   ]
