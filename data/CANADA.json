@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-11-2023 , 22:55:58",
+  "lastUpdate": "01-11-2023 , 23:12:22",
   "data": [
-    [
-      {
-        "title": "Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spurs",
-        "pubdate": "Wed, 01 Nov 2023 01:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Day of the Dead",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Hocus Pocus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hocus%20Pocus",
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spurs",
         "pubdate": "Wed, 01 Nov 2023 01:00:00 -0400"
       }
     ],
@@ -31,6 +24,27 @@
     ],
     [
       {
+        "title": "Remembrance Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Remembrance%20Day",
+        "pubdate": "Wed, 01 Nov 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20Newcastle",
+        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Pierre Dorion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Dorion",
+        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "SA vs NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SA%20vs%20NZ",
         "pubdate": "Wed, 01 Nov 2023 11:00:00 -0400"
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Pierre Dorion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Dorion",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
         "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
       }
     ],
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Man United vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20Newcastle",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Josh McDaniels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20McDaniels",
         "pubdate": "Wed, 01 Nov 2023 09:00:00 -0400"
@@ -76,13 +83,6 @@
         "title": "Canada economy recession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20economy%20recession",
         "pubdate": "Wed, 01 Nov 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Ham%20vs%20Arsenal",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
       }
     ],
     [
@@ -108,23 +108,16 @@
     ],
     [
       {
+        "title": "Bomb threats Ontario schools",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bomb%20threats%20Ontario%20schools",
+        "pubdate": "Wed, 01 Nov 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "November",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#November",
         "pubdate": "Wed, 01 Nov 2023 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Pan continental Curling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pan%20continental%20Curling",
-        "pubdate": "Wed, 01 Nov 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "WeWork",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WeWork",
-        "pubdate": "Wed, 01 Nov 2023 11:00:00 -0400"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0400"
+        "title": "WeWork",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WeWork",
+        "pubdate": "Wed, 01 Nov 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Pan continental Curling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pan%20continental%20Curling",
+        "pubdate": "Wed, 01 Nov 2023 00:00:00 -0400"
       }
     ]
   ]
