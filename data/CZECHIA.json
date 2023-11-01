@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2023 , 00:54:19",
+  "lastUpdate": "01-11-2023 , 01:52:08",
   "data": [
     [
       {
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bruce%20Springsteen",
+        "title": "Feri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Feri",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Feri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Feri",
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bruce%20Springsteen",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
       }
     ],
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Kimkardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kimkardashian",
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kim%20Kardashian",
         "pubdate": "Tue, 31 Oct 2023 08:00:00 +0100"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Big Brother",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Brother",
-        "pubdate": "Mon, 30 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sam Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sam%20Smith",
         "pubdate": "Mon, 30 Oct 2023 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Calvin Klein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Calvin%20Klein",
         "pubdate": "Mon, 30 Oct 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gaudeamus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gaudeamus",
+        "pubdate": "Mon, 30 Oct 2023 09:00:00 +0100"
       }
     ]
   ]
