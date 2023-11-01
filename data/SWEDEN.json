@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "01-11-2023 , 13:50:09",
+  "lastUpdate": "01-11-2023 , 13:59:31",
   "data": [
+    [
+      {
+        "title": "MTR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MTR",
+        "pubdate": "Wed, 01 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Covidvaccin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Covidvaccin",
+        "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tyler Christopher",
@@ -27,6 +41,13 @@
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Apple",
         "pubdate": "Tue, 31 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Charlotte Kalla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlotte%20Kalla",
+        "pubdate": "Tue, 31 Oct 2023 12:00:00 +0100"
       }
     ],
     [
@@ -62,13 +83,6 @@
         "title": "Caroline Seger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caroline%20Seger",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IFK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK",
-        "pubdate": "Tue, 31 Oct 2023 10:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Hammarby Sirius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Sirius",
         "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
-        "pubdate": "Mon, 30 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lesjöfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lesj%C3%B6fors",
-        "pubdate": "Mon, 30 Oct 2023 20:00:00 +0100"
       }
     ]
   ]
