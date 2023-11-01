@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2023 , 11:46:32",
+  "lastUpdate": "01-11-2023 , 11:56:02",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Federico Fellini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Fellini",
-        "pubdate": "Wed, 01 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nuovo Olimpo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovo%20Olimpo",
         "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
@@ -45,8 +38,22 @@
     ],
     [
       {
-        "title": "Amarcord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amarcord",
+        "title": "Tyler Christopher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tyler%20Christopher",
+        "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Federico Fellini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Fellini",
+        "pubdate": "Wed, 01 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Giorno dei morti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorno%20dei%20morti",
         "pubdate": "Wed, 01 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -59,30 +66,9 @@
     ],
     [
       {
-        "title": "Giorno dei morti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorno%20dei%20morti",
+        "title": "Amarcord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amarcord",
         "pubdate": "Wed, 01 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taxi Milano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Taxi%20Milano",
-        "pubdate": "Wed, 01 Nov 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Risultati Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Coppa%20Italia",
-        "pubdate": "Wed, 01 Nov 2023 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tyler Christopher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tyler%20Christopher",
-        "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -94,16 +80,16 @@
     ],
     [
       {
-        "title": "Scooby-Doo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scooby-Doo",
-        "pubdate": "Wed, 01 Nov 2023 01:00:00 +0100"
+        "title": "Il Comandante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20Comandante",
+        "pubdate": "Wed, 01 Nov 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Il Comandante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20Comandante",
-        "pubdate": "Wed, 01 Nov 2023 02:00:00 +0100"
+        "title": "Scooby-Doo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scooby-Doo",
+        "pubdate": "Wed, 01 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Pirlo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pirlo",
+        "pubdate": "Wed, 01 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Guardia medica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Guardia%20medica",
         "pubdate": "Wed, 01 Nov 2023 10:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bonus trasporti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bonus%20trasporti",
         "pubdate": "Tue, 31 Oct 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Coppa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Italia",
+        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0100"
       }
     ]
   ]
