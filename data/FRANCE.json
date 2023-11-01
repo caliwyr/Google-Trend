@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-11-2023 , 07:52:54",
+  "lastUpdate": "01-11-2023 , 08:10:21",
   "data": [
+    [
+      {
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruce%20Springsteen",
+        "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "BnF",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Toussaint",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toussaint",
+        "pubdate": "Tue, 31 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dave",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "France Inter, Guillaume Meurice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Inter,%20Guillaume%20Meurice",
+        "title": "France Inter Guillaume Meurice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Inter%20Guillaume%20Meurice",
         "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Toussaint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toussaint",
-        "pubdate": "Tue, 31 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Etoile de David",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etoile%20de%20David",
-        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0100"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
-        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
+        "title": "Etoile de David",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etoile%20de%20David",
+        "pubdate": "Tue, 31 Oct 2023 15:00:00 +0100"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Facebook Instagram abonnement payant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Facebook%20Instagram%20abonnement%20payant",
         "pubdate": "Tue, 31 Oct 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Attentat Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Attentat%20Paris",
+        "pubdate": "Tue, 31 Oct 2023 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Cyril Hanouna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
         "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vitaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vitaa",
-        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "James Harden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#James%20Harden",
-        "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
       }
     ]
   ]
