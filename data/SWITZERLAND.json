@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-11-2023 , 08:51:29",
+  "lastUpdate": "02-11-2023 , 09:01:38",
   "data": [
-    [
-      {
-        "title": "SR delemont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SR%20delemont",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Bayern Munich",
@@ -20,6 +13,13 @@
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Copa%20del%20Rey",
         "pubdate": "Thu, 02 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
+        "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Fcl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fcl",
-        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+        "title": "Pro Helvetia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pro%20Helvetia",
+        "pubdate": "Wed, 01 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
         "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Black Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Black%20Stars",
+        "title": "NNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NNN",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Winterthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
         "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
       }
     ]
