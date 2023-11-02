@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 03:23:40",
+  "lastUpdate": "02-11-2023 , 03:33:35",
   "data": [
     [
       {
@@ -33,14 +33,7 @@
       {
         "title": "McDonald's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "West ham–arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20ham%E2%80%93arsenal",
-        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Chelsea–blackburn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93blackburn",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Terence Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Terence%20Hill",
         "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
@@ -90,13 +90,6 @@
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heidi%20Klum",
         "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "McDonald's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
-        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Éhezők viadala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89hez%C5%91k%20viadala",
         "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ZTE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ZTE",
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
       }
     ]
   ]
