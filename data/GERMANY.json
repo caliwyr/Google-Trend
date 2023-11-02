@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 18:55:52",
+  "lastUpdate": "02-11-2023 , 19:09:53",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
-        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Samidoun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samidoun",
         "pubdate": "Thu, 02 Nov 2023 12:00:00 +0100"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Corona Fälle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Corona%20F%C3%A4lle",
-        "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
+        "title": "Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
+        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Toni Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Toni%20Kroos",
-        "pubdate": "Thu, 02 Nov 2023 12:00:00 +0100"
+        "title": "Corona Fälle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Corona%20F%C3%A4lle",
+        "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Katja Riemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katja%20Riemann",
-        "pubdate": "Wed, 01 Nov 2023 09:00:00 +0100"
+        "title": "SC Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "El Ghazi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ghazi",
-        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+        "title": "Katja Riemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katja%20Riemann",
+        "pubdate": "Wed, 01 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -97,6 +90,13 @@
         "title": "Fed Zinsentscheid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed%20Zinsentscheid",
         "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mainz 05",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mainz%2005",
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -122,9 +122,16 @@
     ],
     [
       {
+        "title": "El Ghazi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ghazi",
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Elmar Wepper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elmar%20Wepper",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Kaiserslautern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Kaiserslautern",
-        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
       }
     ]
   ]
