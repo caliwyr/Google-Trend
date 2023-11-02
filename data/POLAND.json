@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 22:53:15",
+  "lastUpdate": "02-11-2023 , 23:08:28",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Orkan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orkan",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
+        "title": "Przystanek Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przystanek%20Italia",
+        "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Orkan Ciaran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orkan%20Ciaran",
+        "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Ewa Błaszczyk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20B%C5%82aszczyk",
         "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dzień Postaci z Bajek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Postaci%20z%20Bajek",
+        "pubdate": "Thu, 02 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Dzień Postaci z Bajek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Postaci%20z%20Bajek",
-        "pubdate": "Thu, 02 Nov 2023 14:00:00 +0100"
+        "title": "Gronkiewicz-Waltz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gronkiewicz-Waltz",
+        "pubdate": "Thu, 02 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kajtek Czarodziej",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kajtek%20Czarodziej",
         "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shani louk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Shani%20louk",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zbigniew Rau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zbigniew%20Rau",
-        "pubdate": "Thu, 02 Nov 2023 13:00:00 +0100"
       }
     ]
   ]
