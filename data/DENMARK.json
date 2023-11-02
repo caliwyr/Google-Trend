@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "02-11-2023 , 17:52:17",
+  "lastUpdate": "02-11-2023 , 18:08:33",
   "data": [
     [
       {
-        "title": "Novo aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20aktie",
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
       }
     ],
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Peregrine Pearson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peregrine%20Pearson",
-        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "India vs Sri Lanka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20Sri%20Lanka",
         "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#United",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+        "title": "Peregrine Pearson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peregrine%20Pearson",
+        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Man utd  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Newcastle",
-        "pubdate": "Wed, 01 Nov 2023 13:00:00 +0100"
+        "title": "Day of the Dead",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Day%20of%20the%20Dead",
+        "pubdate": "Wed, 01 Nov 2023 04:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Day of the Dead",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Day%20of%20the%20Dead",
-        "pubdate": "Wed, 01 Nov 2023 04:00:00 +0100"
+        "title": "Man utd  Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Newcastle",
+        "pubdate": "Wed, 01 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Ørsted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%98rsted",
         "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
         "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bournemouth  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bournemouth%20%20Liverpool",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Craig Mokhiber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Craig%20Mokhiber",
         "pubdate": "Wed, 01 Nov 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
-        "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
       }
     ]
   ]

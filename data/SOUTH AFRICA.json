@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "02-11-2023 , 17:52:25",
+  "lastUpdate": "02-11-2023 , 18:08:40",
   "data": [
     [
       {
         "title": "Khelina from DiepCity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Khelina%20from%20DiepCity",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0200"
       }
     ],
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Everton fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20fc",
-        "pubdate": "Thu, 02 Nov 2023 05:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rangers",
         "pubdate": "Thu, 02 Nov 2023 07:00:00 +0200"
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Cricket World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
+        "pubdate": "Wed, 01 Nov 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "South Africa vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20New%20Zealand",
         "pubdate": "Wed, 01 Nov 2023 11:00:00 +0200"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 +0200"
+        "title": "West Ham vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Arsenal",
+        "pubdate": "Wed, 01 Nov 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
       }
     ],
     [
@@ -69,20 +83,6 @@
         "title": "Cape Town Spurs vs Orlando Pirates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20Spurs%20vs%20Orlando%20Pirates",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sundowns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Arsenal",
-        "pubdate": "Wed, 01 Nov 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NOVEMBER",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NOVEMBER",
         "pubdate": "Wed, 01 Nov 2023 07:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Budget Speech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Budget%20Speech",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
       }
     ]
   ]
