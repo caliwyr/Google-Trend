@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "02-11-2023 , 01:33:31",
+  "lastUpdate": "02-11-2023 , 02:06:10",
   "data": [
     [
       {
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern%20munchen",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparta Nijkerk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Nijkerk",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Fortuna Sittard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0100"
+        "title": "Marcel van Roosmalen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marcel%20van%20Roosmalen",
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marcel van Roosmalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marcel%20van%20Roosmalen",
-        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+        "title": "IJsselmeervogels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#IJsselmeervogels",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,20 @@
     ],
     [
       {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jeffrey Hoogland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeffrey%20Hoogland",
+        "pubdate": "Tue, 31 Oct 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nations%20League",
-        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Energietoeslag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Energietoeslag",
-        "pubdate": "Tue, 31 Oct 2023 17:00:00 +0100"
       }
     ]
   ]
