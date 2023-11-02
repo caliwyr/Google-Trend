@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 13:47:58",
+  "lastUpdate": "02-11-2023 , 13:57:28",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Wind",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wind",
         "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "TF1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TF1",
+        "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Manchester United – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Newcastle",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Intermarché",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Intermarch%C3%A9",
         "pubdate": "Wed, 01 Nov 2023 13:00:00 +0100"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Patro Eisden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patro%20Eisden",
-        "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
+        "title": "Manchester United – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Newcastle",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0100"
+        "title": "Foire de LIEGE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20de%20LIEGE",
+        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Foire de LIEGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20de%20LIEGE",
-        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0100"
+        "title": "KRC Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0100"
       }
     ]
   ]

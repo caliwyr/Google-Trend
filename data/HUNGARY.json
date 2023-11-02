@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 13:48:04",
+  "lastUpdate": "02-11-2023 , 13:57:32",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Hab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hab",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schneeberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schneeberg",
+        "pubdate": "Thu, 02 Nov 2023 07:00:00 +0100"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "West ham–arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20ham%E2%80%93arsenal",
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pintér Tibor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20Tibor",
         "pubdate": "Wed, 01 Nov 2023 06:00:00 +0100"
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "November 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%202",
+        "pubdate": "Wed, 01 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Terence Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Terence%20Hill",
         "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Újpest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest",
+        "title": "Újpest FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Miller Dávid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miller%20D%C3%A1vid",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heidi%20Klum",
-        "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
