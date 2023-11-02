@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 04:53:52",
+  "lastUpdate": "02-11-2023 , 05:08:54",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Standard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Union Saint-Gilloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
+        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
-        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "SPAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SPAR",
-        "pubdate": "Wed, 01 Nov 2023 14:00:00 +0100"
+        "title": "Voleuses",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voleuses",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Voleuses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voleuses",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
+        "title": "KV Kortrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Kortrijk",
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
