@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-11-2023 , 06:47:05",
+  "lastUpdate": "02-11-2023 , 06:56:19",
   "data": [
     [
       {
         "title": "Allerheiligen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Allerheiligen",
         "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Holstein gegen 1. FC Magdeburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20gegen%201.%20FC%20Magdeburg",
-        "pubdate": "Wed, 01 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -38,9 +31,16 @@
     ],
     [
       {
+        "title": "Dortmund Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20Hoffenheim",
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fed Zinsentscheid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed%20Zinsentscheid",
-        "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -54,6 +54,20 @@
       {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#November",
+        "pubdate": "Wed, 01 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sandra Hüller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sandra%20H%C3%BCller",
         "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ],
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Hauptwache Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hauptwache%20Frankfurt",
-        "pubdate": "Tue, 31 Oct 2023 11:00:00 +0100"
+        "title": "Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spanien",
+        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "James Harden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Harden",
         "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shani Louk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shani%20Louk",
-        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0100"
       }
     ]
   ]

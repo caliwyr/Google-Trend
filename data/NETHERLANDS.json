@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "02-11-2023 , 06:47:08",
+  "lastUpdate": "02-11-2023 , 06:56:23",
   "data": [
     [
       {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparta Nijkerk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Nijkerk",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Tue, 31 Oct 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Energietoeslag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Energietoeslag",
         "pubdate": "Tue, 31 Oct 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vrouwenvoetbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vrouwenvoetbal",
-        "pubdate": "Tue, 31 Oct 2023 23:00:00 +0100"
       }
     ]
   ]

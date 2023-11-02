@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 06:47:03",
+  "lastUpdate": "02-11-2023 , 06:56:17",
   "data": [
     [
       {
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Novembro Azul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novembro%20Azul",
-        "pubdate": "Wed, 01 Nov 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Brasileiro a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro%20a",
         "pubdate": "Wed, 01 Nov 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico GO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20GO",
-        "pubdate": "Wed, 01 Nov 2023 13:00:00 -0500"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Atletico GO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20GO",
+        "pubdate": "Wed, 01 Nov 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Borussia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
         "pubdate": "Wed, 01 Nov 2023 14:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Santos FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
         "pubdate": "Wed, 01 Nov 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "GLO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GLO",
+        "pubdate": "Wed, 01 Nov 2023 16:00:00 -0500"
       }
     ]
   ]
