@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 00:26:56",
+  "lastUpdate": "02-11-2023 , 01:33:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Thu, 02 Nov 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+        "pubdate": "Thu, 02 Nov 2023 10:00:00 +1100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Soccer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 +1100"
+        "title": "Erin Patterson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Erin%20Patterson",
+        "pubdate": "Thu, 02 Nov 2023 10:00:00 +1100"
       }
     ],
     [
@@ -45,9 +52,30 @@
     ],
     [
       {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
+        "pubdate": "Thu, 02 Nov 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Soccer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taiwan",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Robert De Niro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robert%20De%20Niro",
+        "pubdate": "Thu, 02 Nov 2023 09:00:00 +1100"
       }
     ],
     [
@@ -62,20 +90,6 @@
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kourtney%20Kardashian",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Robert De Niro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robert%20De%20Niro",
-        "pubdate": "Thu, 02 Nov 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Erin Patterson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Erin%20Patterson",
-        "pubdate": "Thu, 02 Nov 2023 10:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Yemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Yemen",
         "pubdate": "Wed, 01 Nov 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Suns vs Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suns%20vs%20Spurs",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Movember",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Movember",
-        "pubdate": "Wed, 01 Nov 2023 10:00:00 +1100"
       }
     ]
   ]
