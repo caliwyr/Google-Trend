@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-11-2023 , 14:55:27",
+  "lastUpdate": "02-11-2023 , 15:12:16",
   "data": [
     [
       {
         "title": "Kevin De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kevin%20De%20Bruyne",
         "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Live Nation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Live%20Nation",
+        "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,20 @@
     ],
     [
       {
+        "title": "Patrick Sébastien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20S%C3%A9bastien",
+        "pubdate": "Thu, 02 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maserati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maserati",
+        "pubdate": "Thu, 02 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tempete Ciaran Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tempete%20Ciaran%20Belgique",
         "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
@@ -87,16 +108,16 @@
     ],
     [
       {
-        "title": "Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
-        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
+        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
+        "title": "Union Saint-Gilloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
+        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
         "pubdate": "Wed, 01 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kris De Bruyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kris%20De%20Bruyne",
-        "pubdate": "Wed, 01 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Foire de LIEGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20de%20LIEGE",
-        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
