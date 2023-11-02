@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2023 , 21:47:47",
+  "lastUpdate": "02-11-2023 , 21:57:10",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Griekspoor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Griekspoor",
+        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Beck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beck",
+        "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "India vs Sri Lanka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20Sri%20Lanka",
         "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Peregrine Pearson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peregrine%20Pearson",
-        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eminem",
+        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eminem",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
+        "title": "Peregrine Pearson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peregrine%20Pearson",
+        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bournemouth  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bournemouth%20%20Liverpool",
         "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tyler Christopher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tyler%20Christopher",
-        "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
       }
     ]
   ]
