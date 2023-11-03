@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 11:51:43",
+  "lastUpdate": "03-11-2023 , 12:09:59",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Leanne Manas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leanne%20Manas",
-        "pubdate": "Fri, 03 Nov 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0200"
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Springbok Trophy Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springbok%20Trophy%20Tour",
+        "title": "Springbok trophy tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springbok%20trophy%20tour",
         "pubdate": "Thu, 02 Nov 2023 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "West Ham vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Arsenal",
         "pubdate": "Wed, 01 Nov 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Wed, 01 Nov 2023 22:00:00 +0200"
       }
     ]
   ]
