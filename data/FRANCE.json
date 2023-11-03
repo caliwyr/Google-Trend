@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "03-11-2023 , 21:42:29",
+  "lastUpdate": "03-11-2023 , 21:51:47",
   "data": [
     [
       {
         "title": "Paris-sg – Montpellier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris-sg%20%E2%80%93%20Montpellier",
         "pubdate": "Fri, 03 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
+        "pubdate": "Fri, 03 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tempete Domingos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tempete%20Domingos",
+        "pubdate": "Fri, 03 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,6 +38,13 @@
     ],
     [
       {
+        "title": "Taratata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taratata",
+        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pierre Moscovici",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Moscovici",
         "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
@@ -31,9 +52,16 @@
     ],
     [
       {
-        "title": "Encanto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Encanto",
-        "pubdate": "Fri, 03 Nov 2023 19:00:00 +0100"
+        "title": "Kev Adams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kev%20Adams",
+        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pro D2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pro%20D2",
+        "pubdate": "Fri, 03 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -52,20 +80,6 @@
     ],
     [
       {
-        "title": "Pro D2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pro%20D2",
-        "pubdate": "Fri, 03 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taratata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taratata",
-        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Blizzcon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Blizzcon",
         "pubdate": "Fri, 03 Nov 2023 18:00:00 +0100"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Luis Diaz Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Luis%20Diaz%20Liverpool",
-        "pubdate": "Fri, 03 Nov 2023 15:00:00 +0100"
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Holger%20Rune",
+        "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Dorothée Gilbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Doroth%C3%A9e%20Gilbert",
-        "pubdate": "Fri, 03 Nov 2023 10:00:00 +0100"
+        "title": "Luis Diaz Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Luis%20Diaz%20Liverpool",
+        "pubdate": "Fri, 03 Nov 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Elsa Esnoult",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elsa%20Esnoult",
-        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+        "title": "Dorothée Gilbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Doroth%C3%A9e%20Gilbert",
+        "pubdate": "Fri, 03 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -108,37 +122,23 @@
     ],
     [
       {
+        "title": "Elsa Esnoult",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elsa%20Esnoult",
+        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BlizzCon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#BlizzCon%202023",
+        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ouest-France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ouest-France",
         "pubdate": "Thu, 02 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "John Lennon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#John%20Lennon",
-        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Polar Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Polar%20Park",
-        "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Philippe Torreton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Philippe%20Torreton",
-        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United",
-        "pubdate": "Thu, 02 Nov 2023 08:00:00 +0100"
       }
     ]
   ]
