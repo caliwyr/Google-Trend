@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 03:51:52",
+  "lastUpdate": "03-11-2023 , 04:07:34",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
-        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Samidoun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samidoun",
         "pubdate": "Thu, 02 Nov 2023 12:00:00 +0100"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Rock am Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rock%20am%20Ring",
-        "pubdate": "Thu, 02 Nov 2023 15:00:00 +0100"
+        "title": "Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
+        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -48,20 +41,6 @@
         "title": "Corona Fälle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Corona%20F%C3%A4lle",
         "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alles Licht, das wir nicht sehen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alles%20Licht,%20das%20wir%20nicht%20sehen",
-        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paul McCartney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paul%20McCartney",
-        "pubdate": "Thu, 02 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -82,7 +61,7 @@
       {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Wed, 01 Nov 2023 21:00:00 +0100"
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -115,22 +94,8 @@
     ],
     [
       {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
-        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sandra Hüller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sandra%20H%C3%BCller",
-        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "El Ghazi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Ghazi",
         "pubdate": "Wed, 01 Nov 2023 20:00:00 +0100"
       }
     ],
@@ -139,6 +104,41 @@
         "title": "Elmar Wepper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elmar%20Wepper",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Saarbrücken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Saarbr%C3%BCcken",
+        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James Harden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Harden",
+        "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Shani Louk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shani%20Louk",
+        "pubdate": "Mon, 30 Oct 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Reformationstag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reformationstag",
+        "pubdate": "Mon, 30 Oct 2023 05:00:00 +0100"
       }
     ]
   ]
