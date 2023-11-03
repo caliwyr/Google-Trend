@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-11-2023 , 06:47:01",
+  "lastUpdate": "03-11-2023 , 06:56:31",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20utd",
+        "pubdate": "Thu, 02 Nov 2023 05:00:00 +0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool",
-        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Saarbrücken vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Saarbr%C3%BCcken%20vs%20Bayern",
         "pubdate": "Wed, 01 Nov 2023 23:00:00 +0300"
       }
     ]

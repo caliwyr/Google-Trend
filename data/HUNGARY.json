@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-11-2023 , 06:47:00",
+  "lastUpdate": "03-11-2023 , 06:56:29",
   "data": [
+    [
+      {
+        "title": "Katarina Witt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Katarina%20Witt",
+        "pubdate": "Fri, 03 Nov 2023 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Családi pótlék",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Miklósa Erika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mikl%C3%B3sa%20Erika",
-        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Török Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C3%B6k%20G%C3%A1bor",
         "pubdate": "Thu, 02 Nov 2023 23:00:00 +0100"
@@ -80,15 +80,8 @@
     ],
     [
       {
-        "title": "Abu fani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Abu%20fani",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Túró Rudi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%BAr%C3%B3%20Rudi",
+        "title": "Túró rudi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%BAr%C3%B3%20rudi",
         "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
       }
     ],
@@ -104,13 +97,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elon%20Musk",
         "pubdate": "Thu, 02 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paksi FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paksi%20FC",
-        "pubdate": "Thu, 02 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -138,6 +124,20 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
+        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
       }
     ]
