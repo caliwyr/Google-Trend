@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 02:54:57",
+  "lastUpdate": "03-11-2023 , 03:11:39",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "MTR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MTR",
-        "pubdate": "Wed, 01 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Covidvaccin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Covidvaccin",
         "pubdate": "Wed, 01 Nov 2023 11:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Tyler Christopher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tyler%20Christopher",
         "pubdate": "Wed, 01 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nicklas Bäckström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nicklas%20B%C3%A4ckstr%C3%B6m",
+        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
       }
     ]
   ]
