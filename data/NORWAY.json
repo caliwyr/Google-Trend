@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-11-2023 , 12:41:55",
+  "lastUpdate": "03-11-2023 , 12:59:29",
   "data": [
     [
       {
         "title": "Broiler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Broiler",
         "pubdate": "Fri, 03 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Skrik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skrik",
-        "pubdate": "Fri, 03 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Prime Video",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Prime%20Video",
+        "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Terje Sporsem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Terje%20Sporsem",
         "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
@@ -61,13 +61,6 @@
       {
         "title": "Kurt Nilsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kurt%20Nilsen",
-        "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Prime Video",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Prime%20Video",
         "pubdate": "Thu, 02 Nov 2023 11:00:00 +0100"
       }
     ],
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Kapital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kapital",
-        "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
+        "title": "Vidar Helgesen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vidar%20Helgesen",
+        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Vidar Helgesen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vidar%20Helgesen",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
+        "title": "Kapital",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kapital",
+        "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Operasjon dagsverk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Operasjon%20dagsverk",
         "pubdate": "Thu, 02 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball",
+        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
