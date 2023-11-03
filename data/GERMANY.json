@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 09:17:41",
+  "lastUpdate": "03-11-2023 , 09:26:52",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elmar Wepper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elmar%20Wepper",
         "pubdate": "Tue, 31 Oct 2023 13:00:00 +0100"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Bayern Saarbrücken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Saarbr%C3%BCcken",
-        "pubdate": "Tue, 31 Oct 2023 19:00:00 +0100"
+        "title": "FC Kaiserslautern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Kaiserslautern",
+        "pubdate": "Tue, 31 Oct 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "James Harden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Harden",
         "pubdate": "Tue, 31 Oct 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Mon, 30 Oct 2023 19:00:00 +0100"
       }
     ]
   ]
