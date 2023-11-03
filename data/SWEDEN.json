@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-11-2023 , 04:53:38",
+  "lastUpdate": "03-11-2023 , 05:08:31",
   "data": [
     [
       {
         "title": "Rögle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
         "pubdate": "Fri, 03 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Amsellem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrick%20Amsellem",
-        "pubdate": "Fri, 03 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ondskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ondskan",
+        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#United",
         "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jan Guillou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jan%20Guillou",
-        "pubdate": "Thu, 02 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nicklas Bäckström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nicklas%20B%C3%A4ckstr%C3%B6m",
         "pubdate": "Wed, 01 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lasse Sigfridsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lasse%20Sigfridsson",
+        "pubdate": "Wed, 01 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
