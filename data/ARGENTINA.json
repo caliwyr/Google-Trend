@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 07:49:18",
+  "lastUpdate": "03-11-2023 , 07:58:34",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli",
+        "pubdate": "Thu, 02 Nov 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Alak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alak",
         "pubdate": "Thu, 02 Nov 2023 19:00:00 -0300"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli",
-        "pubdate": "Thu, 02 Nov 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Alario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alario",
         "pubdate": "Thu, 02 Nov 2023 15:00:00 -0300"
@@ -90,13 +90,6 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Malena Galmarini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Malena%20Galmarini",
-        "pubdate": "Thu, 02 Nov 2023 00:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lluvia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lluvia",
         "pubdate": "Thu, 02 Nov 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vasco%20da%20Gama",
+        "pubdate": "Thu, 02 Nov 2023 19:00:00 -0300"
       }
     ]
   ]
