@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-11-2023 , 13:50:12",
+  "lastUpdate": "03-11-2023 , 13:59:28",
   "data": [
     [
       {
         "title": "Fortnite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fortnite",
         "pubdate": "Fri, 03 Nov 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Epic%20Games",
+        "pubdate": "Fri, 03 Nov 2023 13:00:00 +0000"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Ruben Amorim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ruben%20Amorim",
         "pubdate": "Fri, 03 Nov 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Hezbollah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hezbollah",
+        "pubdate": "Fri, 03 Nov 2023 13:00:00 +0000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PGA TOUR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PGA%20TOUR",
         "pubdate": "Thu, 02 Nov 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Ronan Finn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ronan%20Finn",
-        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Locked in",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Locked%20in",
-        "pubdate": "Thu, 02 Nov 2023 16:00:00 +0000"
       }
     ]
   ]
