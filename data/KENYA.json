@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-11-2023 , 08:50:06",
+  "lastUpdate": "03-11-2023 , 08:59:16",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
+        "pubdate": "Thu, 02 Nov 2023 01:00:00 +0300"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Netflix.com",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Netflix.com",
-        "pubdate": "Thu, 02 Nov 2023 12:00:00 +0300"
+        "title": "KFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KFC",
+        "pubdate": "Thu, 02 Nov 2023 10:00:00 +0300"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Carabao Cup draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Carabao%20Cup%20draw",
         "pubdate": "Thu, 02 Nov 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "KFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KFC",
-        "pubdate": "Thu, 02 Nov 2023 10:00:00 +0300"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Fibroids",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fibroids",
         "pubdate": "Thu, 02 Nov 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Football Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Football%20Live",
+        "pubdate": "Thu, 02 Nov 2023 11:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bournemouth vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bournemouth%20vs%20Liverpool",
         "pubdate": "Wed, 01 Nov 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool",
-        "pubdate": "Wed, 01 Nov 2023 23:00:00 +0300"
       }
     ]
   ]
