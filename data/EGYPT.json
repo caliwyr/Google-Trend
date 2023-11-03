@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-11-2023 , 23:58:43",
+  "lastUpdate": "03-11-2023 , 01:16:36",
   "data": [
+    [
+      {
+        "title": "أسامة فلوح",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%20%D9%81%D9%84%D9%88%D8%AD",
+        "pubdate": "Fri, 03 Nov 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "حسن نصر الله",
@@ -20,13 +27,6 @@
         "title": "ارسنال",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D8%B1%D8%B3%D9%86%D8%A7%D9%84",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "مانشستر يونايتد",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
-        "pubdate": "Thu, 02 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "مان يونايتد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A7%D9%86%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
+        "pubdate": "Thu, 02 Nov 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "رضا سليم",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%84%D9%8A%D9%85",
         "pubdate": "Thu, 02 Nov 2023 00:00:00 +0200"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "مان يونايتد",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A7%D9%86%20%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
-        "pubdate": "Thu, 02 Nov 2023 06:00:00 +0200"
+        "title": "الرئيس السيسي",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A",
+        "pubdate": "Thu, 02 Nov 2023 22:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "انجلينا جولي",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D9%86%D8%A7%20%D8%AC%D9%88%D9%84%D9%8A",
         "pubdate": "Thu, 02 Nov 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "الرئيس السيسي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A",
-        "pubdate": "Thu, 02 Nov 2023 22:00:00 +0200"
       }
     ],
     [
@@ -117,14 +117,7 @@
       {
         "title": "الاهلي",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A",
-        "pubdate": "Wed, 01 Nov 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "الترجي",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A",
-        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
+        "pubdate": "Wed, 01 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ChatGPT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#ChatGPT",
         "pubdate": "Wed, 01 Nov 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "الوداد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF",
+        "pubdate": "Wed, 01 Nov 2023 17:00:00 +0200"
       }
     ]
   ]
