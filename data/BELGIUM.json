@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2023 , 17:47:12",
+  "lastUpdate": "03-11-2023 , 17:56:39",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Fortnite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fortnite",
         "pubdate": "Fri, 03 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Epic%20Games",
+        "pubdate": "Fri, 03 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Sint-Lievens-Houtem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sint-Lievens-Houtem",
-        "pubdate": "Fri, 03 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "EK veldrijden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EK%20veldrijden",
         "pubdate": "Fri, 03 Nov 2023 16:00:00 +0100"
@@ -45,9 +45,30 @@
     ],
     [
       {
+        "title": "Sint-Lievens-Houtem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sint-Lievens-Houtem",
+        "pubdate": "Fri, 03 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Breeze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Breeze",
         "pubdate": "Fri, 03 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rachel Khan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rachel%20Khan",
+        "pubdate": "Fri, 03 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Warcraft Rumble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warcraft%20Rumble",
+        "pubdate": "Fri, 03 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Warcraft Rumble",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warcraft%20Rumble",
-        "pubdate": "Fri, 03 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Now and Then Beatles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Now%20and%20Then%20Beatles",
         "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "The Beatles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Beatles",
-        "pubdate": "Thu, 02 Nov 2023 16:00:00 +0100"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
+        "pubdate": "Thu, 02 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Live Nation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Live%20Nation",
         "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kevin De Bruyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kevin%20De%20Bruyne",
-        "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "All the Light We Cannot See",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#All%20the%20Light%20We%20Cannot%20See",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
