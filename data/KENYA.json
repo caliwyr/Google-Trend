@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 03:52:46",
+  "lastUpdate": "04-11-2023 , 04:08:25",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Hezbollah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hezbollah",
-        "pubdate": "Fri, 03 Nov 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Porto FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Porto%20FC",
         "pubdate": "Fri, 03 Nov 2023 21:00:00 +0300"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Ruben Amorim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ruben%20Amorim",
-        "pubdate": "Fri, 03 Nov 2023 06:00:00 +0300"
+        "title": "Hezbollah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hezbollah",
+        "pubdate": "Fri, 03 Nov 2023 17:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
+        "pubdate": "Thu, 02 Nov 2023 01:00:00 +0300"
       }
     ]
   ]

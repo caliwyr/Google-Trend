@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 03:52:46",
+  "lastUpdate": "04-11-2023 , 04:08:25",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Lisa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lisa",
-        "pubdate": "Fri, 03 Nov 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Kingdom of the Planet of the Apes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kingdom%20of%20the%20Planet%20of%20the%20Apes",
         "pubdate": "Fri, 03 Nov 2023 06:00:00 +0800"
@@ -75,6 +68,13 @@
       {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
+        "pubdate": "Fri, 03 Nov 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Angelababy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Angelababy",
         "pubdate": "Fri, 03 Nov 2023 03:00:00 +0800"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Indian 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indian%202",
         "pubdate": "Fri, 03 Nov 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lisa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lisa",
+        "pubdate": "Fri, 03 Nov 2023 11:00:00 +0800"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Genshin code",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Genshin%20code",
+        "pubdate": "Fri, 03 Nov 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "PLKN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PLKN",
         "pubdate": "Thu, 02 Nov 2023 15:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "West Ham vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#West%20Ham%20vs%20Arsenal",
         "pubdate": "Thu, 02 Nov 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
-        "pubdate": "Thu, 02 Nov 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "India vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20vs%20Sri%20Lanka",
-        "pubdate": "Thu, 02 Nov 2023 17:00:00 +0800"
       }
     ]
   ]
