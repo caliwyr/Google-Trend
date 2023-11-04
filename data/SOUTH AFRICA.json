@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 18:44:32",
+  "lastUpdate": "04-11-2023 , 18:53:57",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Brentford vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20West%20Ham",
-        "pubdate": "Sat, 04 Nov 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Newcastle vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Arsenal",
         "pubdate": "Sat, 04 Nov 2023 08:00:00 +0200"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli",
-        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0200"
+        "title": "Brentford vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20West%20Ham",
+        "pubdate": "Sat, 04 Nov 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,16 @@
     ],
     [
       {
-        "title": "Burnley vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley%20vs%20Crystal%20Palace",
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli",
         "pubdate": "Sat, 04 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund%20vs%20Bayern",
+        "pubdate": "Sat, 04 Nov 2023 19:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Sat, 04 Nov 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burnley vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley%20vs%20Crystal%20Palace",
+        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0200"
       }
     ],
     [
@@ -97,13 +104,6 @@
         "title": "Sharks Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sharks%20Rugby",
         "pubdate": "Sat, 04 Nov 2023 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund%20vs%20Bayern",
-        "pubdate": "Sat, 04 Nov 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Eric Adams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eric%20Adams",
-        "pubdate": "Sat, 04 Nov 2023 06:00:00 +0200"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
+        "pubdate": "Sat, 04 Nov 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
-        "pubdate": "Fri, 03 Nov 2023 14:00:00 +0200"
+        "title": "Everton fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20fc",
+        "pubdate": "Sat, 04 Nov 2023 20:00:00 +0200"
       }
     ]
   ]
