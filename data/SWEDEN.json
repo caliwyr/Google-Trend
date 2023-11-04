@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 13:46:06",
+  "lastUpdate": "04-11-2023 , 13:55:20",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Jonatan Unge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonatan%20Unge",
-        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+        "title": "HIF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
+        "pubdate": "Sat, 04 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Superettan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
+        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -26,13 +33,6 @@
       {
         "title": "Charlotte Kalla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlotte%20Kalla",
-        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Superettan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
         "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Gustav Vasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustav%20Vasa",
-        "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Djurgården hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20hockey",
         "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "På spåret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A5%20sp%C3%A5ret",
-        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
+        "title": "På spåret 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A5%20sp%C3%A5ret%202023",
+        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lena Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lena%20Andersson",
         "pubdate": "Thu, 02 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#United",
+        "pubdate": "Thu, 02 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
