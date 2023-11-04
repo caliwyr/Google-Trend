@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2023 , 16:49:51",
+  "lastUpdate": "04-11-2023 , 16:59:07",
   "data": [
     [
       {
-        "title": "Fulham - Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Manchester%20United",
+        "title": "Fulham  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20%20Manchester%20United",
         "pubdate": "Sat, 04 Nov 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City - Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20-%20Bournemouth",
+        "pubdate": "Sat, 04 Nov 2023 12:00:00 -0300"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Shingeki no Kyojin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Shingeki%20no%20Kyojin",
         "pubdate": "Sat, 04 Nov 2023 05:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City  Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Bournemouth",
-        "pubdate": "Sat, 04 Nov 2023 12:00:00 -0300"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Alcalde de Renaico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20de%20Renaico",
-        "pubdate": "Sat, 04 Nov 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Osasuna - Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Osasuna%20-%20Girona",
         "pubdate": "Sat, 04 Nov 2023 12:00:00 -0300"
@@ -52,9 +45,30 @@
     ],
     [
       {
+        "title": "Alcalde de Renaico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20de%20Renaico",
+        "pubdate": "Sat, 04 Nov 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Chile Brasil Panamericanos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20Brasil%20Panamericanos",
+        "pubdate": "Sat, 04 Nov 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Marcelo Ríos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marcelo%20R%C3%ADos",
         "pubdate": "Sat, 04 Nov 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Crown Jewel 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Crown%20Jewel%202023",
+        "pubdate": "Sat, 04 Nov 2023 13:00:00 -0300"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Chile mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20mexico",
+        "pubdate": "Fri, 03 Nov 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "UD Las Palmas  Atlético Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UD%20Las%20Palmas%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Fri, 03 Nov 2023 18:00:00 -0300"
@@ -118,27 +139,6 @@
         "title": "Fortnite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fortnite",
         "pubdate": "Fri, 03 Nov 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Fernanda Pinilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fernanda%20Pinilla",
-        "pubdate": "Fri, 03 Nov 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
-        "pubdate": "Fri, 03 Nov 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Enrique villalon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Enrique%20villalon",
-        "pubdate": "Fri, 03 Nov 2023 21:00:00 -0300"
       }
     ]
   ]
