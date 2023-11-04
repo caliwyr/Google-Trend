@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 07:47:50",
+  "lastUpdate": "04-11-2023 , 07:57:15",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Benko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Benko",
-        "pubdate": "Fri, 03 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Schwere Unwetter Toskana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schwere%20Unwetter%20Toskana",
         "pubdate": "Fri, 03 Nov 2023 07:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galatasaray",
         "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nova Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nova%20Rock",
+        "pubdate": "Fri, 03 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Sam Bankman-Fried",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sam%20Bankman-Fried",
-        "pubdate": "Fri, 03 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Karim Onisiwo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karim%20Onisiwo",
         "pubdate": "Fri, 03 Nov 2023 18:00:00 +0100"
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Sam Bankman-Fried",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sam%20Bankman-Fried",
+        "pubdate": "Fri, 03 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Le Mans 66",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Le%20Mans%2066",
         "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mathea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mathea",
+        "pubdate": "Fri, 03 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bettwanzen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bettwanzen",
         "pubdate": "Fri, 03 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andreas Gabalier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andreas%20Gabalier",
-        "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
       }
     ]
   ]

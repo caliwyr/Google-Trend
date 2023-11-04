@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2023 , 07:47:57",
+  "lastUpdate": "04-11-2023 , 07:57:21",
   "data": [
     [
       {
         "title": "Sofia Vergara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sofia%20Vergara",
         "pubdate": "Sat, 04 Nov 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Christina Vukicevic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Christina%20Vukicevic",
+        "pubdate": "Fri, 03 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -24,23 +31,9 @@
     ],
     [
       {
-        "title": "Svein Graff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Svein%20Graff",
-        "pubdate": "Fri, 03 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jessica Simpson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jessica%20Simpson",
         "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Skrik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skrik",
-        "pubdate": "Fri, 03 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kapital",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kapital",
         "pubdate": "Thu, 02 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ondskapen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ondskapen",
+        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
