@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 20:49:24",
+  "lastUpdate": "04-11-2023 , 20:58:42",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Viking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+        "pubdate": "Sat, 04 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "3-Sjøersløpet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#3-Sj%C3%B8ersl%C3%B8pet",
         "pubdate": "Sat, 04 Nov 2023 10:00:00 +0100"
@@ -73,16 +80,30 @@
     ],
     [
       {
-        "title": "HamKam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
+        "title": "Kourtney Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kourtney%20Kardashian",
         "pubdate": "Sat, 04 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kourtney Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kourtney%20Kardashian",
-        "pubdate": "Sat, 04 Nov 2023 20:00:00 +0100"
+        "title": "Oscar Bobb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oscar%20Bobb",
+        "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Attack on Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Attack%20on%20Titan",
+        "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Odd Rene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20Rene",
+        "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "BlizzCon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BlizzCon",
+        "pubdate": "Fri, 03 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Den store kinodagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Den%20store%20kinodagen",
         "pubdate": "Fri, 03 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessica Simpson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jessica%20Simpson",
-        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hillari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hillari",
-        "pubdate": "Fri, 03 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne B. Ragde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20B.%20Ragde",
-        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anwar El Ghazi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anwar%20El%20Ghazi",
-        "pubdate": "Fri, 03 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
