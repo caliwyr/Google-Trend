@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2023 , 06:44:50",
+  "lastUpdate": "04-11-2023 , 06:54:17",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Rotherham United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rotherham%20United",
         "pubdate": "Sat, 04 Nov 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dortmund%20vs%20Bayern",
+        "pubdate": "Sat, 04 Nov 2023 09:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
         "pubdate": "Thu, 02 Nov 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "EFL Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EFL%20Cup",
-        "pubdate": "Thu, 02 Nov 2023 02:00:00 +0300"
       }
     ]
   ]
