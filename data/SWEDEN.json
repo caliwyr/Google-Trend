@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "05-11-2023 , 09:50:16",
+  "lastUpdate": "05-11-2023 , 09:59:37",
   "data": [
-    [
-      {
-        "title": "Peter Stormare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Stormare",
-        "pubdate": "Sun, 05 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Örebro",
@@ -27,6 +13,13 @@
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Bach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bach",
-        "pubdate": "Sat, 04 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Elijah Wood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elijah%20Wood",
         "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fulham",
         "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jonatan Unge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonatan%20Unge",
+        "pubdate": "Fri, 03 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Superettan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
+        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
