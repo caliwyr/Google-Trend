@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2023 , 04:49:59",
+  "lastUpdate": "05-11-2023 , 04:59:10",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "El Ghazi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#El%20Ghazi",
-        "pubdate": "Fri, 03 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anouk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anouk",
         "pubdate": "Thu, 02 Nov 2023 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Rob Jetten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Jetten",
         "pubdate": "Thu, 02 Nov 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roda JC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
+        "pubdate": "Thu, 02 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
