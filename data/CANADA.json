@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-11-2023 , 07:48:59",
+  "lastUpdate": "05-11-2023 , 07:58:25",
   "data": [
-    [
-      {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Sun, 05 Nov 2023 00:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Lakers",
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Daylight savings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings",
+        "title": "Daylight savings 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings%202023",
         "pubdate": "Sat, 04 Nov 2023 04:00:00 -0400"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC",
         "pubdate": "Sat, 04 Nov 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+        "pubdate": "Sat, 04 Nov 2023 17:00:00 -0400"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Canadiens – Blues",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Blues",
-        "pubdate": "Sat, 04 Nov 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kourtney%20Kardashian",
         "pubdate": "Sat, 04 Nov 2023 14:00:00 -0400"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Lise Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lise%20Dion",
-        "pubdate": "Sat, 04 Nov 2023 14:00:00 -0400"
+        "title": "India vs South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#India%20vs%20South%20Africa",
+        "pubdate": "Sat, 04 Nov 2023 22:00:00 -0400"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "India vs South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#India%20vs%20South%20Africa",
-        "pubdate": "Sat, 04 Nov 2023 22:00:00 -0400"
+        "title": "Canadiens – Blues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Blues",
+        "pubdate": "Sat, 04 Nov 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Grigor Dimitrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grigor%20Dimitrov",
+        "pubdate": "Sat, 04 Nov 2023 16:00:00 -0400"
       }
     ]
   ]
