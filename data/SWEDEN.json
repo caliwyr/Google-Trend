@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-11-2023 , 08:47:49",
+  "lastUpdate": "05-11-2023 , 08:57:04",
   "data": [
     [
       {
         "title": "Peter Stormare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Stormare",
         "pubdate": "Sun, 05 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Dortmund mot Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dortmund%20mot%20Bayern",
-        "pubdate": "Sat, 04 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kourtney%20Kardashian",
         "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "World of Warcraft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#World%20of%20Warcraft",
-        "pubdate": "Sat, 04 Nov 2023 13:00:00 +0100"
+        "title": "Elijah Wood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elijah%20Wood",
+        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Elijah Wood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elijah%20Wood",
-        "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
+        "title": "World of Warcraft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#World%20of%20Warcraft",
+        "pubdate": "Sat, 04 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hammarbyfotboll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarbyfotboll",
         "pubdate": "Sat, 04 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fulham",
+        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
