@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-11-2023 , 12:49:37",
+  "lastUpdate": "05-11-2023 , 13:00:04",
   "data": [
     [
       {
         "title": "Zacher Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zacher%20G%C3%A1bor",
         "pubdate": "Sun, 05 Nov 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AC%20Milan",
-        "pubdate": "Sun, 05 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan",
-        "pubdate": "Sun, 05 Nov 2023 07:00:00 +0100"
+        "title": "ACMilan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
+        "pubdate": "Sun, 05 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan",
+        "pubdate": "Sun, 05 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fehérvár Újpest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9rv%C3%A1r%20%C3%9Ajpest",
         "pubdate": "Sun, 05 Nov 2023 08:00:00 +0100"
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Dyson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dyson",
+        "title": "Ujpest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ujpest",
         "pubdate": "Sun, 05 Nov 2023 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ujpest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ujpest",
+        "title": "Dyson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dyson",
         "pubdate": "Sun, 05 Nov 2023 12:00:00 +0100"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Newcastle–arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93arsenal",
         "pubdate": "Sat, 04 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "November 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%204",
-        "pubdate": "Sat, 04 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Osasuna–girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osasuna%E2%80%93girona",
         "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ben Affleck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ben%20Affleck",
+        "pubdate": "Sat, 04 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
