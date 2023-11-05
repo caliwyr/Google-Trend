@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2023 , 20:50:52",
+  "lastUpdate": "05-11-2023 , 21:00:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 05 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "BK Häcken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BK%20H%C3%A4cken",
-        "pubdate": "Sun, 05 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IF Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IF%20Elfsborg",
-        "pubdate": "Sun, 05 Nov 2023 19:00:00 +0100"
+        "title": "Gais Jönköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais%20J%C3%B6nk%C3%B6ping",
+        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Frölunda Färjestad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20F%C3%A4rjestad",
-        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
+        "title": "IF Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IF%20Elfsborg",
+        "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "HIF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
-        "pubdate": "Sat, 04 Nov 2023 14:00:00 +0100"
+        "title": "Frölunda Färjestad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20F%C3%A4rjestad",
+        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
