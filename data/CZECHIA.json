@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2023 , 11:49:13",
+  "lastUpdate": "05-11-2023 , 11:58:35",
   "data": [
+    [
+      {
+        "title": "Emma Smetana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Smetana",
+        "pubdate": "Sun, 05 Nov 2023 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Jakub Vadlejch",
@@ -13,6 +20,13 @@
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kourtney%20Kardashian",
         "pubdate": "Sun, 05 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City",
+        "pubdate": "Sun, 05 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Caravaning Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Caravaning%20Brno",
-        "pubdate": "Sat, 04 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Přemek Forejt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C5%99emek%20Forejt",
         "pubdate": "Sat, 04 Nov 2023 23:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Opava – Prostějov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava%20%E2%80%93%20Prost%C4%9Bjov",
-        "pubdate": "Sat, 04 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jan Žižka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%BDi%C5%BEka",
         "pubdate": "Fri, 03 Nov 2023 18:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Oktagon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
-        "pubdate": "Fri, 03 Nov 2023 22:00:00 +0100"
+        "title": "Jozef Pátrovič",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jozef%20P%C3%A1trovi%C4%8D",
+        "pubdate": "Fri, 03 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
