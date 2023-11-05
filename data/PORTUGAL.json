@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2023 , 13:56:42",
+  "lastUpdate": "05-11-2023 , 14:11:27",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Os Quatro e Meia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Os%20Quatro%20e%20Meia",
+        "pubdate": "Sun, 05 Nov 2023 02:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Kourtney Kardashian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kourtney%20Kardashian",
         "pubdate": "Sun, 05 Nov 2023 01:00:00 +0000"
@@ -55,13 +62,6 @@
         "title": "João de Deus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20de%20Deus",
         "pubdate": "Sun, 05 Nov 2023 01:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Cracovia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cracovia",
-        "pubdate": "Sun, 05 Nov 2023 00:00:00 +0000"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Copa Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Copa%20Libertadores",
-        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Real Sociedad  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Sociedad%20%20Barcelona",
         "pubdate": "Sat, 04 Nov 2023 19:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Billie%20Eilish",
         "pubdate": "Sat, 04 Nov 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Famalicão  Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Gil%20Vicente",
+        "pubdate": "Sat, 04 Nov 2023 18:00:00 +0000"
       }
     ]
   ]
