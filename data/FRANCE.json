@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2023 , 14:52:14",
+  "lastUpdate": "05-11-2023 , 15:05:50",
   "data": [
+    [
+      {
+        "title": "Lyon – Metz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lyon%20%E2%80%93%20Metz",
+        "pubdate": "Sun, 05 Nov 2023 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Lyon",
@@ -20,13 +27,6 @@
         "title": "Bryan Bergougnoux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bryan%20Bergougnoux",
         "pubdate": "Sun, 05 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fekir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fekir",
-        "pubdate": "Sun, 05 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rublev",
-        "pubdate": "Sat, 04 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jason Priestley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jason%20Priestley",
         "pubdate": "Sat, 04 Nov 2023 18:00:00 +0100"
@@ -94,8 +87,22 @@
     ],
     [
       {
+        "title": "Rublev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rublev",
+        "pubdate": "Sat, 04 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dany Boon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dany%20Boon",
+        "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Guetta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Guetta",
         "pubdate": "Sat, 04 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bourges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourges",
         "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Charlie Winston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Winston",
-        "pubdate": "Sat, 04 Nov 2023 00:00:00 +0100"
       }
     ]
   ]
