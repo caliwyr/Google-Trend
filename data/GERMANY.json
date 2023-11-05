@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2023 , 19:46:10",
+  "lastUpdate": "05-11-2023 , 19:55:26",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
         "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "FC Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
-        "pubdate": "Sun, 05 Nov 2023 16:00:00 +0100"
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Patrick Mahomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Patrick%20Mahomes",
-        "pubdate": "Sun, 05 Nov 2023 16:00:00 +0100"
+        "title": "FCB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCB",
+        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Formel 1 live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20live",
+        "title": "Formel 1 Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Live",
         "pubdate": "Sun, 05 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Russland Interkontinentalrakete",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20Interkontinentalrakete",
+        "pubdate": "Sun, 05 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "title": "Tuchel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
         "pubdate": "Sat, 04 Nov 2023 23:00:00 +0100"
       }
     ],
@@ -97,6 +104,13 @@
         "title": "Tina Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tina%20Turner",
         "pubdate": "Sat, 04 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kendall Jenner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kendall%20Jenner",
+        "pubdate": "Sat, 04 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Antisemitismus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antisemitismus",
         "pubdate": "Thu, 02 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alles Licht, das wir nicht sehen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alles%20Licht,%20das%20wir%20nicht%20sehen",
-        "pubdate": "Thu, 02 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anwar El Ghazi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anwar%20El%20Ghazi",
-        "pubdate": "Thu, 02 Nov 2023 07:00:00 +0100"
       }
     ]
   ]
