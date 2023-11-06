@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-11-2023 , 23:55:23",
+  "lastUpdate": "06-11-2023 , 00:55:56",
   "data": [
     [
       {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celine%20Dion",
         "pubdate": "Sun, 05 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gabriel Attal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gabriel%20Attal",
+        "pubdate": "Sun, 05 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Madonna",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+        "title": "OL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
+        "pubdate": "Sun, 05 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "OL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
-        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Madonna",
+        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Claude Lelouch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Lelouch",
-        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
+        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
-        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
+        "title": "Claude Lelouch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Lelouch",
+        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -80,20 +87,6 @@
     ],
     [
       {
-        "title": "Josephine Baker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Josephine%20Baker",
-        "pubdate": "Sun, 05 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Strasbourg – Clermont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Strasbourg%20%E2%80%93%20Clermont",
-        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid – Rayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid%20%E2%80%93%20Rayo",
         "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Toulouse – Le Havre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toulouse%20%E2%80%93%20Le%20Havre",
-        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
+        "title": "Josephine Baker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Josephine%20Baker",
+        "pubdate": "Sun, 05 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Edouard Philippe service militaire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe%20service%20militaire",
         "pubdate": "Sun, 05 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Toulouse – Le Havre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Toulouse%20%E2%80%93%20Le%20Havre",
+        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "FC Nantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
-        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
+        "title": "Strasbourg – clermont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Strasbourg%20%E2%80%93%20clermont",
+        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Spurs",
-        "pubdate": "Sun, 05 Nov 2023 23:00:00 +0100"
+        "title": "FC Nantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
+        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
       }
     ]
   ]

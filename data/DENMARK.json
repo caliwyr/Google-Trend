@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2023 , 23:55:23",
+  "lastUpdate": "06-11-2023 , 00:55:55",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Luton  Liverpool",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Hamburg Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hamburg%20Airport",
+        "title": "Hamburg airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hamburg%20airport",
         "pubdate": "Sun, 05 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Max%20Verstappen",
+        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -27,13 +41,6 @@
         "title": "Wales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wales",
         "pubdate": "Sun, 05 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid  Rayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Rayo",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Max%20Verstappen",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+        "title": "Morgan Wade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Morgan%20Wade",
+        "pubdate": "Sun, 05 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Brentford  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20West%20Ham",
-        "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Diana Nyad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diana%20Nyad",
         "pubdate": "Sat, 04 Nov 2023 17:00:00 +0100"
       }
     ]
