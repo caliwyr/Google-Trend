@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2023 , 13:54:19",
+  "lastUpdate": "06-11-2023 , 14:09:55",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Pop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pop",
         "pubdate": "Mon, 06 Nov 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Phoebe Philo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Phoebe%20Philo",
+        "pubdate": "Mon, 06 Nov 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Surimi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Surimi",
         "pubdate": "Sun, 05 Nov 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kourtney Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kourtney%20Kardashian",
-        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0200"
       }
     ]
   ]
