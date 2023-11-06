@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-11-2023 , 05:55:19",
+  "lastUpdate": "06-11-2023 , 06:15:48",
   "data": [
+    [
+      {
+        "title": "SAE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SAE",
+        "pubdate": "Mon, 06 Nov 2023 02:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Villarreal  Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20%20Athletic",
-        "pubdate": "Sun, 05 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Neven Ilic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Neven%20Ilic",
         "pubdate": "Sun, 05 Nov 2023 22:00:00 -0300"
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Villarreal  Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20%20Athletic",
+        "pubdate": "Sun, 05 Nov 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
+        "pubdate": "Sun, 05 Nov 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Ricardo Lagos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Lagos",
         "pubdate": "Sun, 05 Nov 2023 11:00:00 -0300"
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona",
+        "pubdate": "Sun, 05 Nov 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FC%20Barcelona",
         "pubdate": "Sun, 05 Nov 2023 14:00:00 -0300"
@@ -118,27 +139,6 @@
         "title": "Cbum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cbum",
         "pubdate": "Sun, 05 Nov 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal vs Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20vs%20Athletic",
-        "pubdate": "Sun, 05 Nov 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Francisco Dañobeitía",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francisco%20Da%C3%B1obeit%C3%ADa",
-        "pubdate": "Sun, 05 Nov 2023 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Juegos olimpicos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juegos%20olimpicos",
-        "pubdate": "Sun, 05 Nov 2023 22:00:00 -0300"
       }
     ]
   ]
