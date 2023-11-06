@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-11-2023 , 08:50:03",
+  "lastUpdate": "06-11-2023 , 08:59:13",
   "data": [
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
+        "pubdate": "Mon, 06 Nov 2023 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Hambourg prise otage",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+        "title": "Polarlichter Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polarlichter%20Schweiz",
+        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Stade-Lausanne gegen St.Gallen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stade-Lausanne%20gegen%20St.Gallen",
         "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Polarlichter Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polarlichter%20Schweiz",
-        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Werdinsel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Werdinsel",
+        "pubdate": "Sun, 05 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FC Luzern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
         "pubdate": "Sun, 05 Nov 2023 15:00:00 +0100"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Kristina Vogel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kristina%20Vogel",
-        "pubdate": "Sun, 05 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
         "pubdate": "Sun, 05 Nov 2023 23:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Özgür Özel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%96zg%C3%BCr%20%C3%96zel",
-        "pubdate": "Sun, 05 Nov 2023 02:00:00 +0100"
+        "title": "Gabriel Attal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gabriel%20Attal",
+        "pubdate": "Sun, 05 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gabriel Attal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gabriel%20Attal",
-        "pubdate": "Sun, 05 Nov 2023 20:00:00 +0100"
+        "title": "Özgür Özel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%96zg%C3%BCr%20%C3%96zel",
+        "pubdate": "Sun, 05 Nov 2023 02:00:00 +0100"
       }
     ]
   ]
