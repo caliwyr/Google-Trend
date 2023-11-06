@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-11-2023 , 17:54:56",
+  "lastUpdate": "06-11-2023 , 18:12:25",
   "data": [
+    [
+      {
+        "title": "Chelsea vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Tottenham",
+        "pubdate": "Mon, 06 Nov 2023 08:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
         "pubdate": "Mon, 06 Nov 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KCSE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KCSE",
+        "pubdate": "Mon, 06 Nov 2023 07:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roma",
         "pubdate": "Sun, 05 Nov 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "KCSE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KCSE",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Grok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Grok",
-        "pubdate": "Sun, 05 Nov 2023 15:00:00 +0300"
       }
     ]
   ]
