@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "06-11-2023 , 00:55:53",
+  "lastUpdate": "06-11-2023 , 01:53:42",
   "data": [
     [
       {
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
         "pubdate": "Sun, 05 Nov 2023 06:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "USC football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20football",
-        "pubdate": "Sun, 05 Nov 2023 13:00:00 -0800"
       }
     ],
     [
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "USC football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20football",
+        "pubdate": "Sun, 05 Nov 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Josh Dobbs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Dobbs",
         "pubdate": "Sun, 05 Nov 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders",
+        "pubdate": "Sun, 05 Nov 2023 15:00:00 -0800"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders",
-        "pubdate": "Sun, 05 Nov 2023 15:00:00 -0800"
+        "title": "Giants vs Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Raiders",
+        "pubdate": "Sun, 05 Nov 2023 13:00:00 -0800"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Giants vs Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Raiders",
-        "pubdate": "Sun, 05 Nov 2023 14:00:00 -0800"
+        "title": "Bears vs Saints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears%20vs%20Saints",
+        "pubdate": "Sun, 05 Nov 2023 11:00:00 -0800"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Bears vs Saints",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears%20vs%20Saints",
-        "pubdate": "Sun, 05 Nov 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Rams vs Packers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams%20vs%20Packers",
         "pubdate": "Sun, 05 Nov 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Cardinals vs Browns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardinals%20vs%20Browns",
-        "pubdate": "Sun, 05 Nov 2023 13:00:00 -0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Jason Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20Kelce",
+        "title": "Daniel Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
         "pubdate": "Sun, 05 Nov 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Cardinals vs Browns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardinals%20vs%20Browns",
+        "pubdate": "Sun, 05 Nov 2023 13:00:00 -0800"
       }
     ]
   ]
