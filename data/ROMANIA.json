@@ -1,17 +1,24 @@
 {
-  "lastUpdate": "07-11-2023 , 21:56:00",
+  "lastUpdate": "07-11-2023 , 22:11:49",
   "data": [
     [
       {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Champions%20League",
-        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0200"
+        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0200"
       }
     ],
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan - PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan%20-%20PSG",
         "pubdate": "Tue, 07 Nov 2023 22:00:00 +0200"
       }
     ],
@@ -24,8 +31,15 @@
     ],
     [
       {
-        "title": "Milan  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan%20%20PSG",
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA%20Champions%20League",
+        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
         "pubdate": "Tue, 07 Nov 2023 22:00:00 +0200"
       }
     ],
@@ -38,8 +52,15 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
+        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Newcastle",
         "pubdate": "Tue, 07 Nov 2023 22:00:00 +0200"
       }
     ],
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Alexandra Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandra%20Grant",
-        "pubdate": "Tue, 07 Nov 2023 09:00:00 +0200"
+        "title": "Recorder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Recorder",
+        "pubdate": "Tue, 07 Nov 2023 19:00:00 +0200"
       }
     ],
     [
@@ -66,9 +87,9 @@
     ],
     [
       {
-        "title": "Recorder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Recorder",
-        "pubdate": "Tue, 07 Nov 2023 19:00:00 +0200"
+        "title": "Alexandra Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandra%20Grant",
+        "pubdate": "Tue, 07 Nov 2023 09:00:00 +0200"
       }
     ],
     [
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Newcastle",
-        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0200"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City",
+        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0200"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barca",
+        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vlad Gheorghe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vlad%20Gheorghe",
         "pubdate": "Tue, 07 Nov 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UTA Arad - Dinamo București",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Dinamo%20Bucure%C8%99ti",
-        "pubdate": "Mon, 06 Nov 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hermannstadt  CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt%20%20CFR%20Cluj",
-        "pubdate": "Mon, 06 Nov 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
-        "pubdate": "Mon, 06 Nov 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
-        "pubdate": "Mon, 06 Nov 2023 07:00:00 +0200"
       }
     ]
   ]
