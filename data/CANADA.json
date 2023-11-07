@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-11-2023 , 09:51:18",
+  "lastUpdate": "07-11-2023 , 10:02:45",
   "data": [
-    [
-      {
-        "title": "Auston Matthews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Auston%20Matthews",
-        "pubdate": "Tue, 07 Nov 2023 01:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Champions League",
@@ -139,6 +132,13 @@
         "title": "Eagles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eagles",
         "pubdate": "Mon, 06 Nov 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carbon tax vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carbon%20tax%20vote",
+        "pubdate": "Mon, 06 Nov 2023 19:00:00 -0500"
       }
     ]
   ]
