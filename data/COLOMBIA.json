@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-11-2023 , 23:51:54",
+  "lastUpdate": "07-11-2023 , 00:30:05",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liverpool",
-        "pubdate": "Mon, 06 Nov 2023 10:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Tottenham  Chelsea",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Aston%20Villa",
-        "pubdate": "Mon, 06 Nov 2023 08:00:00 -0500"
+        "title": "Juan Pablo Raba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juan%20Pablo%20Raba",
+        "pubdate": "Mon, 06 Nov 2023 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Juan Pablo Raba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juan%20Pablo%20Raba",
-        "pubdate": "Mon, 06 Nov 2023 15:00:00 -0500"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Aston%20Villa",
+        "pubdate": "Mon, 06 Nov 2023 08:00:00 -0500"
       }
     ],
     [
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Enrique Dussel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Enrique%20Dussel",
-        "pubdate": "Mon, 06 Nov 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Getafe",
         "pubdate": "Mon, 06 Nov 2023 15:00:00 -0500"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Enrique Dussel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Enrique%20Dussel",
+        "pubdate": "Mon, 06 Nov 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Torino",
         "pubdate": "Mon, 06 Nov 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Chelsea%20vs%20Tottenham",
+        "pubdate": "Mon, 06 Nov 2023 17:00:00 -0500"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Stranger Things",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Stranger%20Things",
+        "pubdate": "Mon, 06 Nov 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "ELN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#ELN",
         "pubdate": "Mon, 06 Nov 2023 09:00:00 -0500"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Stranger Things",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Stranger%20Things",
-        "pubdate": "Mon, 06 Nov 2023 16:00:00 -0500"
+        "title": "Cuestionario Disney 100 6 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cuestionario%20Disney%20100%206%20de%20noviembre",
+        "pubdate": "Mon, 06 Nov 2023 17:00:00 -0500"
       }
     ],
     [
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Cuestionario Disney 100 6 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cuestionario%20Disney%20100%206%20de%20noviembre",
+        "title": "Torino  Sassuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Torino%20%20Sassuolo",
         "pubdate": "Mon, 06 Nov 2023 17:00:00 -0500"
       }
     ],
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Torino  Sassuolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Torino%20%20Sassuolo",
-        "pubdate": "Mon, 06 Nov 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cúcuta  Millonarios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#C%C3%BAcuta%20%20Millonarios",
         "pubdate": "Sun, 05 Nov 2023 13:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Madrid",
-        "pubdate": "Sun, 05 Nov 2023 14:00:00 -0500"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liverpool",
+        "pubdate": "Sun, 05 Nov 2023 11:00:00 -0500"
       }
     ]
   ]
