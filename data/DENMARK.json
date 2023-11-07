@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2023 , 13:49:54",
+  "lastUpdate": "07-11-2023 , 13:59:03",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
-        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham",
         "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Evan Ellingson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Evan%20Ellingson",
         "pubdate": "Mon, 06 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
+        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Jay Weinberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jay%20Weinberg",
         "pubdate": "Mon, 06 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juan Carlos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Juan%20Carlos",
+        "pubdate": "Mon, 06 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sun, 05 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hamburg airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hamburg%20airport",
-        "pubdate": "Sun, 05 Nov 2023 10:00:00 +0100"
       }
     ]
   ]

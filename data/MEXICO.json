@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2023 , 13:49:58",
+  "lastUpdate": "07-11-2023 , 13:59:07",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Kumamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kumamoto",
         "pubdate": "Tue, 07 Nov 2023 02:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Marvel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marvel",
+        "pubdate": "Tue, 07 Nov 2023 07:00:00 -0600"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys",
-        "pubdate": "Mon, 06 Nov 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "El Wiko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20Wiko",
         "pubdate": "Mon, 06 Nov 2023 20:00:00 -0600"
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys",
+        "pubdate": "Mon, 06 Nov 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Evan Ellingson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Evan%20Ellingson",
         "pubdate": "Mon, 06 Nov 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UEFA%20Champions%20League",
+        "pubdate": "Mon, 06 Nov 2023 15:00:00 -0600"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Getafe",
         "pubdate": "Mon, 06 Nov 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Guns and Roses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Guns%20and%20Roses",
-        "pubdate": "Mon, 06 Nov 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Biodiversidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Biodiversidad",
-        "pubdate": "Mon, 06 Nov 2023 20:00:00 -0600"
       }
     ]
   ]
