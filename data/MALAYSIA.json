@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-11-2023 , 15:54:29",
+  "lastUpdate": "07-11-2023 , 16:13:49",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea",
+        "pubdate": "Tue, 07 Nov 2023 07:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Afghanistan vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Afghanistan%20vs%20Australia",
         "pubdate": "Tue, 07 Nov 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "JDT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#JDT",
+        "pubdate": "Tue, 07 Nov 2023 20:00:00 +0800"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "AFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AFC",
+        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Finance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Finance",
         "pubdate": "Tue, 07 Nov 2023 12:00:00 +0800"
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "Tottenham vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20Chelsea",
-        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Luton Town vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Luton%20Town%20vs%20Liverpool",
         "pubdate": "Mon, 06 Nov 2023 00:00:00 +0800"
@@ -90,6 +104,13 @@
         "title": "Sri Lanka vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sri%20Lanka%20vs%20Bangladesh",
         "pubdate": "Mon, 06 Nov 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20Chelsea",
+        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0800"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Bangladesh vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh%20vs%20Sri%20Lanka",
-        "pubdate": "Mon, 06 Nov 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "G-Dragon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#G-Dragon",
-        "pubdate": "Mon, 06 Nov 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Amala Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Amala%20Paul",
-        "pubdate": "Mon, 06 Nov 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Subang Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Subang%20Parade",
-        "pubdate": "Mon, 06 Nov 2023 00:00:00 +0800"
+        "title": "AFC Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AFC%20Cup",
+        "pubdate": "Mon, 06 Nov 2023 22:00:00 +0800"
       }
     ]
   ]
