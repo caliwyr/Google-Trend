@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-11-2023 , 05:55:09",
+  "lastUpdate": "07-11-2023 , 06:14:49",
   "data": [
-    [
-      {
-        "title": "Roda JC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
-        "pubdate": "Mon, 06 Nov 2023 20:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roda JC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
+        "pubdate": "Mon, 06 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "ADO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO",
+        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Noorderlicht Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht%20Nederland",
         "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sun, 05 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "RTL Verkiezingsdebat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTL%20Verkiezingsdebat",
         "pubdate": "Sun, 05 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
         "pubdate": "Sat, 04 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sat, 04 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
