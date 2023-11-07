@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2023 , 01:37:09",
+  "lastUpdate": "07-11-2023 , 02:13:47",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Office%20365",
-        "pubdate": "Mon, 06 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rene Benko Signa Holding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rene%20Benko%20Signa%20Holding",
         "pubdate": "Mon, 06 Nov 2023 13:00:00 +0100"
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Metaller Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Metaller%20Streik",
+        "title": "Metaller-Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Metaller-Streik",
         "pubdate": "Mon, 06 Nov 2023 08:00:00 +0100"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Entrup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Entrup",
+        "title": "Evan Ellingson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Evan%20Ellingson",
+        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Terry Gilliam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Terry%20Gilliam",
         "pubdate": "Mon, 06 Nov 2023 20:00:00 +0100"
       }
     ]
