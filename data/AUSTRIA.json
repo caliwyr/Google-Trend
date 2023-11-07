@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-11-2023 , 04:57:15",
+  "lastUpdate": "07-11-2023 , 05:14:05",
   "data": [
     [
       {
         "title": "Ein ganzes Leben",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ein%20ganzes%20Leben",
         "pubdate": "Tue, 07 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Doron Rabinovici",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Doron%20Rabinovici",
+        "pubdate": "Tue, 07 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Loriot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loriot",
-        "pubdate": "Mon, 06 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Beatles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Beatles",
         "pubdate": "Mon, 06 Nov 2023 22:00:00 +0100"
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Donau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donau",
-        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Danni Büchner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Danni%20B%C3%BCchner",
         "pubdate": "Mon, 06 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
-        "pubdate": "Mon, 06 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Evan Ellingson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Evan%20Ellingson",
         "pubdate": "Mon, 06 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Terry Gilliam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Terry%20Gilliam",
+        "pubdate": "Mon, 06 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ahed Tamimi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ahed%20Tamimi",
+        "pubdate": "Mon, 06 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
