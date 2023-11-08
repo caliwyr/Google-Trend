@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 05:45:09",
+  "lastUpdate": "08-11-2023 , 05:54:38",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
         "pubdate": "Wed, 08 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Oodie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oodie",
+        "pubdate": "Wed, 08 Nov 2023 09:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Margot%20Robbie",
         "pubdate": "Tue, 07 Nov 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Delta Goodrem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Delta%20Goodrem",
-        "pubdate": "Tue, 07 Nov 2023 15:00:00 +1100"
       }
     ]
   ]
