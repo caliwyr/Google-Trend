@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 18:52:03",
+  "lastUpdate": "08-11-2023 , 19:04:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "England vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Netherlands",
         "pubdate": "Wed, 08 Nov 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Milan vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Milan%20vs%20PSG",
+        "pubdate": "Wed, 08 Nov 2023 09:00:00 +1100"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "AFC Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFC%20Champions%20League",
+        "pubdate": "Wed, 08 Nov 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "PwC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PwC",
         "pubdate": "Wed, 08 Nov 2023 17:00:00 +1100"
@@ -125,20 +139,6 @@
         "title": "Melbourne Cup results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Cup%20results",
         "pubdate": "Tue, 07 Nov 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Afghanistan vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Afghanistan%20vs%20Australia",
-        "pubdate": "Tue, 07 Nov 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Interest rate rise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rate%20rise",
-        "pubdate": "Tue, 07 Nov 2023 08:00:00 +1100"
       }
     ]
   ]
