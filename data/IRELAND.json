@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2023 , 23:52:34",
+  "lastUpdate": "08-11-2023 , 00:33:42",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#UCL",
+        "pubdate": "Tue, 07 Nov 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "WeWork",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#WeWork",
         "pubdate": "Tue, 07 Nov 2023 09:00:00 +0000"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#UCL",
-        "pubdate": "Tue, 07 Nov 2023 20:00:00 +0000"
+        "title": "Wrexham vs Port Vale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wrexham%20vs%20Port%20Vale",
+        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0000"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Bradley Cooper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bradley%20Cooper",
         "pubdate": "Tue, 07 Nov 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "King Speech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#King%20Speech",
+        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0000"
       }
     ],
     [
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "King Speech",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#King%20Speech",
+        "title": "Anthony Joshua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Anthony%20Joshua",
         "pubdate": "Tue, 07 Nov 2023 22:00:00 +0000"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Anthony Joshua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Anthony%20Joshua",
-        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Cadbury Secret Santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cadbury%20Secret%20Santa",
-        "pubdate": "Tue, 07 Nov 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20League",
-        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0000"
+        "title": "Norma Foley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Norma%20Foley",
+        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0000"
       }
     ]
   ]

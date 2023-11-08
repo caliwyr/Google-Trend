@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2023 , 23:52:31",
+  "lastUpdate": "08-11-2023 , 00:33:40",
   "data": [
     [
       {
@@ -31,15 +31,15 @@
     ],
     [
       {
-        "title": "Waterloo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Waterloo",
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
+        "title": "Waterloo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Waterloo",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0200"
       }
     ],
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Tottenham – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Chelsea",
-        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0200"
+        "title": "Connor McDavid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Connor%20McDavid",
+        "pubdate": "Tue, 07 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Springsteen",
         "pubdate": "Mon, 06 Nov 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Chelsea",
+        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham",
+        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arnold%20Schwarzenegger",
         "pubdate": "Mon, 06 Nov 2023 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Singles Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singles%20Day",
         "pubdate": "Mon, 06 Nov 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pop",
-        "pubdate": "Mon, 06 Nov 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Phoebe Philo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Phoebe%20Philo",
-        "pubdate": "Mon, 06 Nov 2023 12:00:00 +0200"
       }
     ]
   ]

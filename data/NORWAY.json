@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-11-2023 , 23:52:36",
+  "lastUpdate": "08-11-2023 , 00:33:44",
   "data": [
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AC%20Milan",
+        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Champions League",
@@ -13,20 +20,6 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Erna Solberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erna%20Solberg",
-        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Danby Choi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Danby%20Choi",
-        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Anniken Huitfeldt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anniken%20Huitfeldt",
+        "pubdate": "Tue, 07 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Wework",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wework",
         "pubdate": "Tue, 07 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Erna Solberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erna%20Solberg",
+        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Ola Borten Moe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ola%20Borten%20Moe",
-        "pubdate": "Tue, 07 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tate McRae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tate%20McRae",
         "pubdate": "Tue, 07 Nov 2023 00:00:00 +0100"
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Namibia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Namibia",
-        "pubdate": "Mon, 06 Nov 2023 18:00:00 +0100"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Mon, 06 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-        "pubdate": "Mon, 06 Nov 2023 22:00:00 +0100"
+        "title": "Namibia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Namibia",
+        "pubdate": "Mon, 06 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Sophie Stray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Stray",
-        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0100"
+        "title": "Konvoi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Konvoi",
+        "pubdate": "Mon, 06 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
