@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 11:47:59",
+  "lastUpdate": "08-11-2023 , 11:57:31",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Test",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Test",
         "pubdate": "Wed, 08 Nov 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Optus outage Gold Coast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Optus%20outage%20Gold%20Coast",
-        "pubdate": "Wed, 08 Nov 2023 08:00:00 +1100"
       }
     ],
     [
@@ -66,6 +59,27 @@
     ],
     [
       {
+        "title": "Robbie Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robbie%20Williams",
+        "pubdate": "Wed, 08 Nov 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "GTA 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GTA%206",
+        "pubdate": "Wed, 08 Nov 2023 22:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Is Optus down at the moment",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Is%20Optus%20down%20at%20the%20moment",
+        "pubdate": "Wed, 08 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Thunderstorm asthma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thunderstorm%20asthma",
         "pubdate": "Wed, 08 Nov 2023 00:00:00 +1100"
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "PwC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PwC",
-        "pubdate": "Wed, 08 Nov 2023 17:00:00 +1100"
+        "title": "Patrick Dempsey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patrick%20Dempsey",
+        "pubdate": "Wed, 08 Nov 2023 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Patrick Dempsey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patrick%20Dempsey",
-        "pubdate": "Wed, 08 Nov 2023 20:00:00 +1100"
+        "title": "PwC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PwC",
+        "pubdate": "Wed, 08 Nov 2023 17:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Interest rate rise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rate%20rise",
         "pubdate": "Tue, 07 Nov 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Melbourne Cup winners",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Cup%20winners",
-        "pubdate": "Tue, 07 Nov 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
-        "pubdate": "Tue, 07 Nov 2023 23:00:00 +1100"
       }
     ]
   ]
