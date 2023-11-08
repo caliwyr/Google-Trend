@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-11-2023 , 07:52:36",
+  "lastUpdate": "08-11-2023 , 08:09:28",
   "data": [
     [
       {
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
         "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cyber Security",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cyber%20Security",
-        "pubdate": "Wed, 08 Nov 2023 02:00:00 +0100"
       }
     ],
     [
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Cyber Security",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cyber%20Security",
+        "pubdate": "Wed, 08 Nov 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cloud computing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cloud%20computing",
         "pubdate": "Wed, 08 Nov 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ipswich%20Town",
+        "pubdate": "Wed, 08 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -61,7 +68,7 @@
       {
         "title": "Dortmund vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20Newcastle",
-        "pubdate": "Tue, 07 Nov 2023 16:00:00 +0100"
+        "pubdate": "Tue, 07 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA%20Champions%20League",
+        "pubdate": "Tue, 07 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mr Ibu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mr%20Ibu",
         "pubdate": "Tue, 07 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle",
+        "pubdate": "Tue, 07 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -87,16 +108,16 @@
     ],
     [
       {
-        "title": "Champions League fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20fixtures",
-        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
+        "title": "Alan Fisher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Alan%20Fisher",
+        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alan Fisher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Alan%20Fisher",
-        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0100"
+        "title": "Champions League fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20fixtures",
+        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "AFC Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AFC%20Champions%20League",
         "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Sevilla",
-        "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Peter Obi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Obi",
-        "pubdate": "Tue, 07 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Data science",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Data%20science",
-        "pubdate": "Tue, 07 Nov 2023 18:00:00 +0100"
       }
     ]
   ]
