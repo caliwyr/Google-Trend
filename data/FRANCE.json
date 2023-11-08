@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 14:44:23",
+  "lastUpdate": "08-11-2023 , 14:53:50",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "AME",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AME",
-        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#GTA%206",
         "pubdate": "Wed, 08 Nov 2023 13:00:00 +0100"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "AME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AME",
+        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brigitte Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
         "pubdate": "Wed, 08 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
+        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Veiller sur elle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Veiller%20sur%20elle",
+        "title": "Prix Goncourt 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prix%20Goncourt%202023",
         "pubdate": "Tue, 07 Nov 2023 09:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Humoriste France Inter Guillaume Meurice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Humoriste%20France%20Inter%20Guillaume%20Meurice",
         "pubdate": "Tue, 07 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nora hamzawi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nora%20hamzawi",
-        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
