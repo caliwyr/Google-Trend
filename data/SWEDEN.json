@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 19:44:34",
+  "lastUpdate": "08-11-2023 , 19:53:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Patrick Dempsey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrick%20Dempsey",
         "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Björklöven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven",
+        "pubdate": "Wed, 08 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Björn Söder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20S%C3%B6der",
-        "pubdate": "Tue, 07 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Stalker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stalker",
+        "title": "Meta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Meta",
         "pubdate": "Tue, 07 Nov 2023 20:00:00 +0100"
       }
     ],
