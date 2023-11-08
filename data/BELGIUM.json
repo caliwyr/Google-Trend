@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-11-2023 , 17:49:31",
+  "lastUpdate": "08-11-2023 , 17:59:03",
   "data": [
     [
       {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#GTA%206",
         "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rock Werchter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rock%20Werchter",
+        "pubdate": "Wed, 08 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foo%20Fighters",
-        "pubdate": "Wed, 08 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Harry%20Styles",
         "pubdate": "Wed, 08 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cate Blanchett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cate%20Blanchett",
-        "pubdate": "Wed, 08 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "Cillian Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cillian%20Murphy",
-        "pubdate": "Wed, 08 Nov 2023 12:00:00 +0100"
+        "title": "Cate Blanchett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cate%20Blanchett",
+        "pubdate": "Wed, 08 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
+        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Robbie%20Williams",
         "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cillian Murphy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cillian%20Murphy",
+        "pubdate": "Wed, 08 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+        "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Saskia De Coster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saskia%20De%20Coster",
         "pubdate": "Wed, 08 Nov 2023 09:00:00 +0100"
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-        "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+        "title": "Belgian Cats",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgian%20Cats",
+        "pubdate": "Wed, 08 Nov 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Malinois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Malinois",
-        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
+        "title": "Champion League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champion%20League",
+        "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Antwerp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
-        "pubdate": "Tue, 07 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
-        "pubdate": "Tue, 07 Nov 2023 19:00:00 +0100"
       }
     ]
   ]
