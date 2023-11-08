@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2023 , 04:46:59",
+  "lastUpdate": "08-11-2023 , 04:56:22",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Spurs vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spurs%20vs%20Chelsea",
+        "pubdate": "Tue, 07 Nov 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Melbourne Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
         "pubdate": "Tue, 07 Nov 2023 13:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Heng Swee Keat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Heng%20Swee%20Keat",
         "pubdate": "Mon, 06 Nov 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lawrence Wong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lawrence%20Wong",
-        "pubdate": "Sun, 05 Nov 2023 13:00:00 +0800"
       }
     ]
   ]
