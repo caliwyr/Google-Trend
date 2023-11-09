@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-11-2023 , 08:45:13",
+  "lastUpdate": "09-11-2023 , 08:54:38",
   "data": [
     [
       {
         "title": "NSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NSC",
         "pubdate": "Thu, 09 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amersfoort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+        "pubdate": "Thu, 09 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "De Camino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Camino",
-        "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Fatbike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fatbike",
-        "pubdate": "Wed, 08 Nov 2023 11:00:00 +0100"
+        "title": "De Camino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Camino",
+        "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "The Marvels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Marvels",
-        "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
+        "title": "Fatbike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fatbike",
+        "pubdate": "Wed, 08 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
         "pubdate": "Tue, 07 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-        "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marathon New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20New%20York",
+        "pubdate": "Sun, 05 Nov 2023 12:00:00 +0100"
       }
     ]
   ]
