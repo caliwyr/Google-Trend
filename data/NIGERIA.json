@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2023 , 14:43:28",
+  "lastUpdate": "09-11-2023 , 14:52:56",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Real Madrid vs Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Braga",
-        "pubdate": "Wed, 08 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Napoli vs Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Napoli%20vs%20Union%20Berlin",
         "pubdate": "Wed, 08 Nov 2023 06:00:00 +0100"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Real Madrid vs Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Braga",
+        "pubdate": "Wed, 08 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern vs Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20vs%20Galatasaray",
         "pubdate": "Wed, 08 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid",
+        "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Nigeria Labour Congress",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria%20Labour%20Congress",
+        "pubdate": "Wed, 08 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lori Harvey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lori%20Harvey",
         "pubdate": "Wed, 08 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cloud computing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cloud%20computing",
-        "pubdate": "Wed, 08 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Quality assurance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Quality%20assurance",
-        "pubdate": "Wed, 08 Nov 2023 06:00:00 +0100"
       }
     ]
   ]
