@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-11-2023 , 01:20:15",
+  "lastUpdate": "09-11-2023 , 02:02:06",
   "data": [
     [
       {
         "title": "The Sun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Sun",
         "pubdate": "Thu, 09 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
+        "pubdate": "Wed, 08 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Mads Mikkelsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mads%20Mikkelsen",
+        "pubdate": "Wed, 08 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fisker Ocean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fisker%20Ocean",
         "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eli Lilly Stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eli%20Lilly%20Stock",
+        "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Milan  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Milan%20%20PSG",
-        "pubdate": "Tue, 07 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20City",
         "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Dortmund  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dortmund%20%20Newcastle",
         "pubdate": "Tue, 07 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Foo%20Fighters",
-        "pubdate": "Tue, 07 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Uefa Champions league",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Uefa%20Champions%20league",
-        "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
