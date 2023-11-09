@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "09-11-2023 , 16:47:11",
+  "lastUpdate": "09-11-2023 , 16:56:27",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United",
         "pubdate": "Thu, 09 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Offenburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Offenburg",
+        "pubdate": "Thu, 09 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ricarda Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ricarda%20Lang",
+        "pubdate": "Thu, 09 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -19,7 +33,7 @@
       {
         "title": "Bayern gegen Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Galatasaray",
-        "pubdate": "Wed, 08 Nov 2023 11:00:00 +0100"
+        "pubdate": "Wed, 08 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "The Marvels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Marvels",
-        "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
+        "title": "Joko und Klaas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joko%20und%20Klaas",
+        "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
         "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joko und Klaas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joko%20und%20Klaas",
-        "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Melanie Huml",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melanie%20Huml",
         "pubdate": "Wed, 08 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benko",
+        "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Aleph Alpha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aleph%20Alpha",
         "pubdate": "Mon, 06 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Loriot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Loriot",
-        "pubdate": "Sun, 05 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sun, 05 Nov 2023 17:00:00 +0100"
       }
     ]
   ]

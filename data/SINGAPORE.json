@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2023 , 16:47:16",
+  "lastUpdate": "09-11-2023 , 16:56:32",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Copenhagen vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Copenhagen%20vs%20Man%20United",
         "pubdate": "Thu, 09 Nov 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sri Lanka vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sri%20Lanka%20vs%20New%20Zealand",
+        "pubdate": "Thu, 09 Nov 2023 17:00:00 +0800"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "SL vs NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SL%20vs%20NZ",
-        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
         "pubdate": "Thu, 09 Nov 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bukit Timah Food Centre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bukit%20Timah%20Food%20Centre",
-        "pubdate": "Thu, 09 Nov 2023 21:00:00 +0800"
       }
     ],
     [
@@ -69,13 +62,6 @@
         "title": "Tech Show 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tech%20Show%202023",
         "pubdate": "Thu, 09 Nov 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "COE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
         "pubdate": "Tue, 07 Nov 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Uefa Champions league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Uefa%20Champions%20league",
+        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
+        "pubdate": "Tue, 07 Nov 2023 05:00:00 +0800"
       }
     ]
   ]
