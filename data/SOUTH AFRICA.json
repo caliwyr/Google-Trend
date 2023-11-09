@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2023 , 21:48:22",
+  "lastUpdate": "09-11-2023 , 21:57:36",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ajax vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ajax%20vs%20Brighton",
         "pubdate": "Thu, 09 Nov 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
+        "pubdate": "Thu, 09 Nov 2023 23:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
+        "pubdate": "Thu, 09 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marc Rantseli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marc%20Rantseli",
         "pubdate": "Thu, 09 Nov 2023 09:00:00 +0200"
@@ -55,13 +69,6 @@
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayer%20Leverkusen",
         "pubdate": "Thu, 09 Nov 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
-        "pubdate": "Thu, 09 Nov 2023 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "West Ham vs Olympiacos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Olympiacos",
+        "pubdate": "Thu, 09 Nov 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Diphtheria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Diphtheria",
         "pubdate": "Thu, 09 Nov 2023 18:00:00 +0200"
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "West Ham vs Olympiacos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Olympiacos",
+        "title": "Lyle Foster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lyle%20Foster",
         "pubdate": "Thu, 09 Nov 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maccabi Haifa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Maccabi%20Haifa",
+        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Lyle Foster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lyle%20Foster",
-        "pubdate": "Thu, 09 Nov 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Racing 92",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Racing%2092",
         "pubdate": "Thu, 09 Nov 2023 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Copenhagen vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Copenhagen%20vs%20Man%20United",
-        "pubdate": "Wed, 08 Nov 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Toulouse vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Toulouse%20vs%20Liverpool",
         "pubdate": "Wed, 08 Nov 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Sevilla",
-        "pubdate": "Wed, 08 Nov 2023 04:00:00 +0200"
       }
     ]
   ]
