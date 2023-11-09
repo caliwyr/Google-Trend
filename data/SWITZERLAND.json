@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-11-2023 , 05:45:08",
+  "lastUpdate": "09-11-2023 , 05:54:32",
   "data": [
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Neapel gegen Union Berlin",
@@ -13,13 +20,6 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manuela Frey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manuela%20Frey",
-        "pubdate": "Wed, 08 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -52,23 +52,16 @@
     ],
     [
       {
+        "title": "Boris Cyrulnik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Boris%20Cyrulnik",
+        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robbie%20Williams",
         "pubdate": "Wed, 08 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stan Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
-        "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kreuzfahrtschiff Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kreuzfahrtschiff%20Sturm",
-        "pubdate": "Wed, 08 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Boris Cyrulnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Boris%20Cyrulnik",
-        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
+        "title": "Stan Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stan%20Wawrinka",
+        "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kreuzfahrtschiff Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kreuzfahrtschiff%20Sturm",
+        "pubdate": "Wed, 08 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "All is Lost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#All%20is%20Lost",
+        "title": "Real Madrid gegen Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20gegen%20Braga",
         "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Real Madrid gegen Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20gegen%20Braga",
+        "title": "All is Lost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#All%20is%20Lost",
         "pubdate": "Wed, 08 Nov 2023 22:00:00 +0100"
       }
     ]
