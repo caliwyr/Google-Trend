@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2023 , 20:45:38",
+  "lastUpdate": "09-11-2023 , 20:54:59",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Emma Stone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Stone",
+        "pubdate": "Thu, 09 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "NS Publieksprijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NS%20Publieksprijs",
         "pubdate": "Thu, 09 Nov 2023 15:00:00 +0100"
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Ajax-Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax-Brighton",
-        "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
+        "title": "Tim den Besten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tim%20den%20Besten",
+        "pubdate": "Wed, 08 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "De Camino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Camino",
         "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Greta Van Fleet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Greta%20Van%20Fleet",
+        "pubdate": "Wed, 08 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Greta Van Fleet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Greta%20Van%20Fleet",
-        "pubdate": "Wed, 08 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luuk de Jong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luuk%20de%20Jong",
         "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Benfica",
-        "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Okonomiyaki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Okonomiyaki",
-        "pubdate": "Wed, 08 Nov 2023 19:00:00 +0100"
+        "title": "Ajax Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Brighton",
+        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Zonnepanelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zonnepanelen",
         "pubdate": "Mon, 06 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Noorderlicht Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht%20Nederland",
+        "pubdate": "Sun, 05 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
