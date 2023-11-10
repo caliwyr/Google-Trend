@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 03:55:26",
+  "lastUpdate": "10-11-2023 , 04:14:15",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Ethereum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ethereum",
+        "pubdate": "Fri, 10 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Promi-Büßen 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Promi-B%C3%BC%C3%9Fen%202023",
         "pubdate": "Fri, 10 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "ATP-Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ATP-Finals",
+        "title": "ATP Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ATP%20Finals",
         "pubdate": "Thu, 09 Nov 2023 16:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nick Kyrgios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nick%20Kyrgios",
         "pubdate": "Thu, 09 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mary Poppins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mary%20Poppins",
-        "pubdate": "Thu, 09 Nov 2023 22:00:00 +0100"
       }
     ]
   ]

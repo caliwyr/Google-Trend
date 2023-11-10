@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 03:55:34",
+  "lastUpdate": "10-11-2023 , 04:14:23",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "FC Köpenhamn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FC%20K%C3%B6penhamn",
-        "pubdate": "Thu, 09 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bilder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bilder",
         "pubdate": "Thu, 09 Nov 2023 17:00:00 +0100"
@@ -83,13 +76,6 @@
         "title": "Dogman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dogman",
         "pubdate": "Thu, 09 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rockstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rockstar",
-        "pubdate": "Thu, 09 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Napoli",
         "pubdate": "Wed, 08 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern munchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
+        "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Höjlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%B6jlund",
+        "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
