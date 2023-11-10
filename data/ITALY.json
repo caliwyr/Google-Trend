@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-11-2023 , 08:45:12",
+  "lastUpdate": "10-11-2023 , 08:54:28",
   "data": [
+    [
+      {
+        "title": "Matthew McConaughey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matthew%20McConaughey",
+        "pubdate": "Fri, 10 Nov 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Spal",
@@ -13,13 +20,6 @@
         "title": "Nicolas Viola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nicolas%20Viola",
         "pubdate": "Fri, 10 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Varenne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Varenne",
-        "pubdate": "Fri, 10 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -40,7 +40,7 @@
       {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta",
-        "pubdate": "Thu, 09 Nov 2023 17:00:00 +0100"
+        "pubdate": "Thu, 09 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Etoile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Etoile",
         "pubdate": "Thu, 09 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fiordaliso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiordaliso",
-        "pubdate": "Thu, 09 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Del Piero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Del%20Piero",
-        "pubdate": "Thu, 09 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Risultati Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Europa%20League",
         "pubdate": "Thu, 09 Nov 2023 21:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Federica Nargi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Nargi",
+        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Before We Go",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Before%20We%20Go",
         "pubdate": "Thu, 09 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Classifica Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Europa%20League",
+        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
