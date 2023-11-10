@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 13:49:12",
+  "lastUpdate": "10-11-2023 , 13:58:41",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Edmonton News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20News",
-        "pubdate": "Fri, 10 Nov 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Bakersfield Condors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bakersfield%20Condors",
         "pubdate": "Fri, 10 Nov 2023 00:00:00 -0500"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Edmonton shooting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20shooting",
-        "pubdate": "Fri, 10 Nov 2023 00:00:00 -0500"
+        "title": "Edmonton News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20News",
+        "pubdate": "Fri, 10 Nov 2023 02:00:00 -0500"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Canada border wall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20border%20wall",
         "pubdate": "Fri, 10 Nov 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Edmonton shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20shooting",
+        "pubdate": "Fri, 10 Nov 2023 00:00:00 -0500"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Inside Out 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inside%20Out%202",
-        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
+        "title": "Connor Bedard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20Bedard",
+        "pubdate": "Thu, 09 Nov 2023 22:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Connor Bedard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20Bedard",
-        "pubdate": "Thu, 09 Nov 2023 22:00:00 -0500"
+        "title": "Inside Out 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inside%20Out%202",
+        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oppenheimer",
-        "pubdate": "Thu, 09 Nov 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Stanley Park Train",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Park%20Train",
         "pubdate": "Thu, 09 Nov 2023 14:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Tracy Chapman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tracy%20Chapman",
         "pubdate": "Thu, 09 Nov 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vivek Ramaswamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vivek%20Ramaswamy",
+        "pubdate": "Thu, 09 Nov 2023 03:00:00 -0500"
       }
     ]
   ]
