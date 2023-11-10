@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 01:37:06",
+  "lastUpdate": "10-11-2023 , 02:11:20",
   "data": [
     [
       {
@@ -40,14 +40,7 @@
       {
         "title": "Muriel Robin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Muriel%20Robin",
-        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liste Deschamps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liste%20Deschamps",
-        "pubdate": "Thu, 09 Nov 2023 16:00:00 +0100"
+        "pubdate": "Thu, 09 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "LOSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
         "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liste Deschamps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liste%20Deschamps",
+        "pubdate": "Thu, 09 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Fabien Galthié",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fabien%20Galthi%C3%A9",
+        "pubdate": "Thu, 09 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marine Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
         "pubdate": "Thu, 09 Nov 2023 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Star Wars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Wars",
         "pubdate": "Thu, 09 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pulp Fiction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pulp%20Fiction",
-        "pubdate": "Thu, 09 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
