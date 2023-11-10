@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-11-2023 , 17:46:29",
+  "lastUpdate": "10-11-2023 , 17:55:45",
   "data": [
-    [
-      {
-        "title": "Pieter Omtzigt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
-        "pubdate": "Fri, 10 Nov 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Tuvalu",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Thu, 09 Nov 2023 18:00:00 +0100"
+        "title": "Anton Corbijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anton%20Corbijn",
+        "pubdate": "Fri, 10 Nov 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Omegle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omegle",
-        "pubdate": "Thu, 09 Nov 2023 09:00:00 +0100"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Thu, 09 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Monica Geuze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Monica%20Geuze",
-        "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luuk de Jong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luuk%20de%20Jong",
         "pubdate": "Wed, 08 Nov 2023 23:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Mon, 06 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zonnepanelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zonnepanelen",
+        "pubdate": "Mon, 06 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
