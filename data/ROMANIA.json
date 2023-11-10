@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-11-2023 , 21:48:25",
+  "lastUpdate": "10-11-2023 , 21:57:42",
   "data": [
+    [
+      {
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Samsung",
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
-        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0200"
+        "title": "Therme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Therme",
+        "pubdate": "Fri, 10 Nov 2023 10:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Cel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cel",
-        "pubdate": "Fri, 10 Nov 2023 01:00:00 +0200"
+        "title": "Mac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mac",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mac",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0200"
+        "title": "Cel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cel",
+        "pubdate": "Fri, 10 Nov 2023 01:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Uscator de rufe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Uscator%20de%20rufe",
-        "pubdate": "Fri, 10 Nov 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oana Pellea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oana%20Pellea",
-        "pubdate": "Fri, 10 Nov 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tuvalu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tuvalu",
         "pubdate": "Fri, 10 Nov 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alex Velea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Velea",
+        "pubdate": "Fri, 10 Nov 2023 00:00:00 +0200"
       }
     ]
   ]
