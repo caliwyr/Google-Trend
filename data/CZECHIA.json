@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-11-2023 , 19:58:33",
+  "lastUpdate": "10-11-2023 , 20:17:45",
   "data": [
-    [
-      {
-        "title": "Evropská liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropsk%C3%A1%20liga",
-        "pubdate": "Fri, 10 Nov 2023 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Prochazka vs Pereira",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Steam Deck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steam%20Deck",
-        "pubdate": "Fri, 10 Nov 2023 11:00:00 +0100"
+        "title": "Svatomartinské víno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinsk%C3%A9%20v%C3%ADno",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Siniakova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
         "pubdate": "Fri, 10 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steam Deck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steam%20Deck",
+        "pubdate": "Fri, 10 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Svatomartinska husa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinska%20husa",
-        "pubdate": "Fri, 10 Nov 2023 17:00:00 +0100"
+        "title": "Hradecká",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradeck%C3%A1",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "El nino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#El%20nino",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
+        "title": "Svatomartinska husa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinska%20husa",
+        "pubdate": "Fri, 10 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Ida Kelarová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ida%20Kelarov%C3%A1",
-        "pubdate": "Fri, 10 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Princezna zakletá v čase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20zaklet%C3%A1%20v%20%C4%8Dase",
-        "pubdate": "Fri, 10 Nov 2023 19:00:00 +0100"
+        "title": "Bramborový knedlík",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bramborov%C3%BD%20knedl%C3%ADk",
+        "pubdate": "Fri, 10 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Bramborový knedlík",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bramborov%C3%BD%20knedl%C3%ADk",
-        "pubdate": "Fri, 10 Nov 2023 17:00:00 +0100"
+        "title": "Cesko svedsko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cesko%20svedsko",
+        "pubdate": "Fri, 10 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "AC Sparta Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Sparta%20Praha",
         "pubdate": "Thu, 09 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Thu, 09 Nov 2023 06:00:00 +0100"
       }
     ]
   ]
