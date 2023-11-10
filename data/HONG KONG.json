@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-11-2023 , 09:50:45",
+  "lastUpdate": "10-11-2023 , 10:00:08",
   "data": [
+    [
+      {
+        "title": "劉鑾雄",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%89%E9%91%BE%E9%9B%84",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "利物浦",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "反黑",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%8D%E9%BB%91",
-        "pubdate": "Fri, 10 Nov 2023 05:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Steam Deck OLED",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Steam%20Deck%20OLED",
         "pubdate": "Fri, 10 Nov 2023 12:00:00 +0800"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "大劉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E5%8A%89",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0800"
+        "title": "Loki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Loki",
+        "pubdate": "Fri, 10 Nov 2023 14:00:00 +0800"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "欧冠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AC%A7%E5%86%A0",
-        "pubdate": "Thu, 09 Nov 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "床蝨",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%BA%8A%E8%9D%A8",
         "pubdate": "Wed, 08 Nov 2023 23:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Marvel隊長2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Marvel%E9%9A%8A%E9%95%B72",
         "pubdate": "Wed, 08 Nov 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Clockenflap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Clockenflap",
+        "pubdate": "Wed, 08 Nov 2023 18:00:00 +0800"
       }
     ]
   ]
