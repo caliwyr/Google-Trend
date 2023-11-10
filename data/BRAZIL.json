@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 04:47:21",
+  "lastUpdate": "10-11-2023 , 04:56:46",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Suarez",
+        "pubdate": "Thu, 09 Nov 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Omegle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Omegle",
         "pubdate": "Thu, 09 Nov 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "SANTOS FUTEBOL CLUBE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SANTOS%20FUTEBOL%20CLUBE",
+        "pubdate": "Thu, 09 Nov 2023 21:00:00 -0500"
       }
     ],
     [
@@ -59,23 +73,16 @@
     ],
     [
       {
+        "title": "Rebelde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rebelde",
+        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
         "pubdate": "Thu, 09 Nov 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Suarez",
-        "pubdate": "Thu, 09 Nov 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Santos FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-        "pubdate": "Thu, 09 Nov 2023 21:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Esporte Clube Bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
         "pubdate": "Thu, 09 Nov 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jogos do Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogos%20do%20Flamengo",
-        "pubdate": "Thu, 09 Nov 2023 17:00:00 -0500"
       }
     ]
   ]
