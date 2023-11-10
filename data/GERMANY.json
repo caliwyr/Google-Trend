@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-11-2023 , 18:48:26",
+  "lastUpdate": "10-11-2023 , 18:57:41",
   "data": [
+    [
+      {
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Fri, 10 Nov 2023 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marvin Ducksch",
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Weidenfeller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weidenfeller",
-        "pubdate": "Fri, 10 Nov 2023 15:00:00 +0100"
+        "title": "Roman Weidenfeller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roman%20Weidenfeller",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Unfall A4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unfall%20A4",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -94,37 +108,9 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%20Leverkusen",
-        "pubdate": "Thu, 09 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anke Engelke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anke%20Engelke",
-        "pubdate": "Thu, 09 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Promi büßen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Promi%20b%C3%BC%C3%9Fen%202023",
-        "pubdate": "Thu, 09 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Florian schröder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20schr%C3%B6der",
         "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "GDL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL",
-        "pubdate": "Thu, 09 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Iveta Apkalna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iveta%20Apkalna",
         "pubdate": "Wed, 08 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Galatasaray",
+        "pubdate": "Tue, 07 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
+        "pubdate": "Tue, 07 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
