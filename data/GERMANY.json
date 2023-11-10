@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 02:49:32",
+  "lastUpdate": "10-11-2023 , 02:58:45",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
-        "pubdate": "Thu, 09 Nov 2023 20:00:00 +0100"
+        "pubdate": "Thu, 09 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
         "pubdate": "Thu, 09 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ricarda Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ricarda%20Lang",
+        "pubdate": "Thu, 09 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
-        "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Reichspogromnacht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reichspogromnacht",
         "pubdate": "Tue, 07 Nov 2023 23:00:00 +0100"
       }
     ]

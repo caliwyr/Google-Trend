@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-11-2023 , 02:49:29",
+  "lastUpdate": "10-11-2023 , 02:58:43",
   "data": [
+    [
+      {
+        "title": "Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
+        "pubdate": "Thu, 09 Nov 2023 15:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Bahia x Cuiabá",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Goiás x Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Santos",
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Europa%20League",
         "pubdate": "Thu, 09 Nov 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Divertidamente 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Divertidamente%202",
+        "pubdate": "Thu, 09 Nov 2023 11:00:00 -0500"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Divertidamente 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Divertidamente%202",
-        "pubdate": "Thu, 09 Nov 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Reforma tributária",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reforma%20tribut%C3%A1ria",
         "pubdate": "Thu, 09 Nov 2023 05:00:00 -0500"
@@ -52,9 +59,23 @@
     ],
     [
       {
-        "title": "Gremio-x",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gremio-x",
+        "title": "Rebelde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rebelde",
+        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Suarez",
         "pubdate": "Thu, 09 Nov 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santos FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
+        "pubdate": "Thu, 09 Nov 2023 21:00:00 -0500"
       }
     ],
     [
@@ -73,50 +94,8 @@
     ],
     [
       {
-        "title": "Jogo do Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Fluminense",
-        "pubdate": "Thu, 09 Nov 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Pubis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pubis",
-        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rebelde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rebelde",
-        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Villarreal",
-        "pubdate": "Thu, 09 Nov 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Giovana Fagundes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Giovana%20Fagundes",
-        "pubdate": "Thu, 09 Nov 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jogos do Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogos%20do%20Flamengo",
-        "pubdate": "Thu, 09 Nov 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brighton",
         "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
       }
     ],
@@ -129,6 +108,27 @@
     ],
     [
       {
+        "title": "Jogo do Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Fluminense",
+        "pubdate": "Thu, 09 Nov 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Villarreal",
+        "pubdate": "Thu, 09 Nov 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Estádio São Januário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Est%C3%A1dio%20S%C3%A3o%20Janu%C3%A1rio",
+        "pubdate": "Thu, 09 Nov 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Esporte Clube Bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
         "pubdate": "Thu, 09 Nov 2023 20:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
-        "pubdate": "Thu, 09 Nov 2023 13:00:00 -0500"
+        "title": "Jogos do Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogos%20do%20Flamengo",
+        "pubdate": "Thu, 09 Nov 2023 17:00:00 -0500"
       }
     ]
   ]
