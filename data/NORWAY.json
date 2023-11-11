@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2023 , 14:52:10",
+  "lastUpdate": "11-11-2023 , 15:05:18",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
         "pubdate": "Sat, 11 Nov 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "First Lego League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#First%20Lego%20League",
+        "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Loki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Loki",
         "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "First Lego League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#First%20Lego%20League",
-        "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
+        "title": "Siv Jensen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Siv%20Jensen",
+        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Sjømannskirken Bygdøy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sj%C3%B8mannskirken%20Bygd%C3%B8y",
+        "pubdate": "Fri, 10 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bård Ylvisåker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B%C3%A5rd%20Ylvis%C3%A5ker",
         "pubdate": "Fri, 10 Nov 2023 00:00:00 +0100"
@@ -69,13 +90,6 @@
         "title": "The Killer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Killer",
         "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kyrre Haugen Sydness",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyrre%20Haugen%20Sydness",
-        "pubdate": "Fri, 10 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Henrik Fladseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Henrik%20Fladseth",
         "pubdate": "Fri, 10 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alexandra Joner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Joner",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anders Behring Breivik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anders%20Behring%20Breivik",
-        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
