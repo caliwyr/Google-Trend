@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2023 , 23:51:10",
+  "lastUpdate": "11-11-2023 , 00:24:08",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Lluvia en Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvia%20en%20Santiago",
+        "pubdate": "Fri, 10 Nov 2023 07:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Gonzalo Valenzuela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gonzalo%20Valenzuela",
         "pubdate": "Fri, 10 Nov 2023 00:00:00 -0300"
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Clima en Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clima%20en%20Santiago",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lluvia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvia",
-        "pubdate": "Fri, 10 Nov 2023 07:00:00 -0300"
+        "title": "Wanderers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
+        "pubdate": "Fri, 10 Nov 2023 17:00:00 -0300"
       }
     ],
     [
@@ -66,6 +66,20 @@
     ],
     [
       {
+        "title": "Sopaipillas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sopaipillas",
+        "pubdate": "Fri, 10 Nov 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Mundial Sub 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mundial%20Sub%2017",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "El.tiempo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El.tiempo",
         "pubdate": "Fri, 10 Nov 2023 07:00:00 -0300"
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Mundial Sub 17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mundial%20Sub%2017",
+        "title": "Megadeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Megadeth",
         "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sopaipillas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sopaipillas",
-        "pubdate": "Fri, 10 Nov 2023 18:00:00 -0300"
       }
     ],
     [
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "Megadeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Megadeth",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
+        "title": "SLEP que es",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SLEP%20que%20es",
+        "pubdate": "Fri, 10 Nov 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Concepcion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Concepcion",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Claudio Bravo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Bravo",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
-        "pubdate": "Thu, 09 Nov 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
-        "pubdate": "Thu, 09 Nov 2023 21:00:00 -0300"
+        "title": "Athletic  Celta de Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20%20Celta%20de%20Vigo",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 -0300"
       }
     ]
   ]
