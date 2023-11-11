@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-11-2023 , 02:41:21",
+  "lastUpdate": "11-11-2023 , 03:03:03",
   "data": [
-    [
-      {
-        "title": "Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Inter Miami",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Streptococcus pyogenes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Streptococcus%20pyogenes",
-        "pubdate": "Fri, 10 Nov 2023 02:00:00 -0300"
+        "title": "Estudiantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 -0300"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Mundial de Talla Baja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mundial%20de%20Talla%20Baja",
         "pubdate": "Fri, 10 Nov 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Streptococcus pyogenes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Streptococcus%20pyogenes",
+        "pubdate": "Fri, 10 Nov 2023 02:00:00 -0300"
       }
     ],
     [
@@ -108,16 +108,23 @@
     ],
     [
       {
-        "title": "Lluvia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lluvia",
+        "title": "Torta fritas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Torta%20fritas",
         "pubdate": "Fri, 10 Nov 2023 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Torta fritas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Torta%20fritas",
-        "pubdate": "Fri, 10 Nov 2023 18:00:00 -0300"
+        "title": "Francisco Ortega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Francisco%20Ortega",
+        "pubdate": "Fri, 10 Nov 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Loki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Loki",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 -0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Gaucho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gaucho",
-        "pubdate": "Fri, 10 Nov 2023 07:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Megadeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Megadeth",
-        "pubdate": "Fri, 10 Nov 2023 15:00:00 -0300"
+        "title": "Inter de Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20de%20Miami",
+        "pubdate": "Fri, 10 Nov 2023 21:00:00 -0300"
       }
     ]
   ]
