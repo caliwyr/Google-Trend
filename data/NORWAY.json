@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-11-2023 , 22:48:49",
+  "lastUpdate": "11-11-2023 , 22:58:11",
   "data": [
-    [
-      {
-        "title": "Grindavik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grindavik",
-        "pubdate": "Sat, 11 Nov 2023 05:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Gordon Ramsay",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Grindavik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grindavik",
+        "pubdate": "Sat, 11 Nov 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marion Ravn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marion%20Ravn",
         "pubdate": "Sat, 11 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jørn Lier Horst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#J%C3%B8rn%20Lier%20Horst",
+        "pubdate": "Sat, 11 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Lyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
+        "pubdate": "Sat, 11 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Haugesund Brann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haugesund%20Brann",
         "pubdate": "Sat, 11 Nov 2023 17:00:00 +0100"
@@ -52,23 +66,16 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Sat, 11 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Skiskyting Sjusjøen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skiskyting%20Sjusj%C3%B8en",
         "pubdate": "Sat, 11 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FIRST Lego League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FIRST%20Lego%20League",
-        "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-        "pubdate": "Sat, 11 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "First Lego League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#First%20Lego%20League",
+        "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Padel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Padel",
         "pubdate": "Sat, 11 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lego League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lego%20League",
+        "pubdate": "Sat, 11 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Alexandra Joner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Joner",
         "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oskar Westerlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
-        "pubdate": "Fri, 10 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aslak Maurstad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aslak%20Maurstad",
-        "pubdate": "Fri, 10 Nov 2023 12:00:00 +0100"
       }
     ]
   ]
