@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "11-11-2023 , 11:48:25",
+  "lastUpdate": "11-11-2023 , 11:57:39",
   "data": [
-    [
-      {
-        "title": "Potravinová sbírka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Potravinov%C3%A1%20sb%C3%ADrka",
-        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Katie Price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katie%20Price",
         "pubdate": "Sat, 11 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Potravinová sbírka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Potravinov%C3%A1%20sb%C3%ADrka",
+        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Svatomartinské rohlíčky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinsk%C3%A9%20rohl%C3%AD%C4%8Dky",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
+        "title": "Princezna zakletá v čase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20zaklet%C3%A1%20v%20%C4%8Dase",
+        "pubdate": "Fri, 10 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Princezna zakletá v čase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20zaklet%C3%A1%20v%20%C4%8Dase",
-        "pubdate": "Fri, 10 Nov 2023 19:00:00 +0100"
+        "title": "Svatomartinská husa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinsk%C3%A1%20husa",
+        "pubdate": "Fri, 10 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport",
-        "pubdate": "Fri, 10 Nov 2023 01:00:00 +0100"
+        "title": "Svatomartinské víno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinsk%C3%A9%20v%C3%ADno",
+        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Svatomartinské víno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatomartinsk%C3%A9%20v%C3%ADno",
-        "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport",
+        "pubdate": "Fri, 10 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -97,6 +97,13 @@
         "title": "Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin",
         "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hradecká",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradeck%C3%A1",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Den válečných veteránů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Den%20v%C3%A1le%C4%8Dn%C3%BDch%20veter%C3%A1n%C5%AF",
         "pubdate": "Fri, 10 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "El nino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#El%20nino",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
       }
     ]
   ]
