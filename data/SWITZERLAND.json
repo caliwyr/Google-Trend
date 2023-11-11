@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-11-2023 , 08:46:56",
+  "lastUpdate": "11-11-2023 , 08:56:11",
   "data": [
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Neymar",
+        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Abfahrt Zermatt",
@@ -52,16 +59,23 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
+        "title": "Ittigen Polizeieinsatz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ittigen%20Polizeieinsatz",
+        "pubdate": "Fri, 10 Nov 2023 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "The Killer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Killer",
-        "pubdate": "Fri, 10 Nov 2023 18:00:00 +0100"
+        "title": "Nuit Incolore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nuit%20Incolore",
+        "pubdate": "Fri, 10 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Vitaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vitaa",
-        "pubdate": "Fri, 10 Nov 2023 23:00:00 +0100"
+        "title": "The Killer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Killer",
+        "pubdate": "Fri, 10 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dua%20Lipa",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "AI Pin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AI%20Pin",
         "pubdate": "Fri, 10 Nov 2023 16:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Diwali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Diwali",
         "pubdate": "Fri, 10 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Steam Deck OLED",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steam%20Deck%20OLED",
-        "pubdate": "Fri, 10 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nuit Incolore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nuit%20Incolore",
-        "pubdate": "Fri, 10 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Plug Power-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Plug%20Power-Aktie",
-        "pubdate": "Fri, 10 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
