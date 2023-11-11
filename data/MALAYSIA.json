@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-11-2023 , 06:46:13",
+  "lastUpdate": "11-11-2023 , 06:55:39",
   "data": [
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
-        "pubdate": "Sat, 11 Nov 2023 10:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Bangladesh vs Australia",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "World Cup U-17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20U-17",
-        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0800"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
+        "pubdate": "Sat, 11 Nov 2023 10:00:00 +0800"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Jigarthanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jigarthanda",
         "pubdate": "Sat, 11 Nov 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "World Cup U-17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20U-17",
+        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0800"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Japan Tamil Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20Tamil%20Movie",
+        "title": "Japan Tamil movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20Tamil%20movie",
         "pubdate": "Fri, 10 Nov 2023 04:00:00 +0800"
       }
     ],
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Toll-free Deepavali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Toll-free%20Deepavali",
+        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "West Ham vs Olympiacos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#West%20Ham%20vs%20Olympiacos",
         "pubdate": "Fri, 10 Nov 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Long-beaked echidna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Long-beaked%20echidna",
+        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0800"
       }
     ],
     [
@@ -94,30 +108,9 @@
     ],
     [
       {
-        "title": "Echidna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Echidna",
-        "pubdate": "Fri, 10 Nov 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Neelofa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Neelofa",
-        "pubdate": "Fri, 10 Nov 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "The Killer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#The%20Killer",
         "pubdate": "Fri, 10 Nov 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Toll-free Deepavali 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Toll-free%20Deepavali%202023",
-        "pubdate": "Fri, 10 Nov 2023 13:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool fixtures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20fixtures",
         "pubdate": "Fri, 10 Nov 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Finance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Finance",
+        "pubdate": "Fri, 10 Nov 2023 12:00:00 +0800"
       }
     ]
   ]
