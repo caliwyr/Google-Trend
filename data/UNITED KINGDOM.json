@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2023 , 04:49:06",
+  "lastUpdate": "11-11-2023 , 04:58:36",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Booths",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Booths",
-        "pubdate": "Fri, 10 Nov 2023 18:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Echidna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Echidna",
         "pubdate": "Fri, 10 Nov 2023 17:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "Hunter Schafer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hunter%20Schafer",
         "pubdate": "Fri, 10 Nov 2023 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Green Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Green%20Day",
+        "pubdate": "Fri, 10 Nov 2023 21:00:00 +0000"
       }
     ]
   ]
