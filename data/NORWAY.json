@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-11-2023 , 20:49:52",
+  "lastUpdate": "12-11-2023 , 20:59:10",
   "data": [
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Vålerenga",
@@ -10,15 +17,15 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sun, 12 Nov 2023 19:00:00 +0100"
+        "title": "Bilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bilal",
+        "pubdate": "Sun, 12 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "title": "71 grader nord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#71%20grader%20nord",
         "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ],
@@ -27,6 +34,13 @@
         "title": "Raphael Dwamena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raphael%20Dwamena",
         "pubdate": "Sun, 12 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ha",
+        "pubdate": "Sun, 12 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Snøfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sn%C3%B8fall",
+        "pubdate": "Sat, 11 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
         "pubdate": "Sat, 11 Nov 2023 16:00:00 +0100"
@@ -97,13 +118,6 @@
         "title": "Johannes Thingnes Bø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Johannes%20Thingnes%20B%C3%B8",
         "pubdate": "Sat, 11 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Siv Jensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Siv%20Jensen",
-        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Egersund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egersund",
         "pubdate": "Sat, 11 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zelda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zelda",
-        "pubdate": "Sat, 11 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Putin",
-        "pubdate": "Sat, 11 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
