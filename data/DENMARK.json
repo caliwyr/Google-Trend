@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-11-2023 , 18:54:02",
+  "lastUpdate": "12-11-2023 , 19:07:15",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Liverpool  Brentford",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+        "title": "Wegovy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wegovy",
+        "pubdate": "Sun, 12 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona  Alaves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Alaves",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Barcelona  Alaves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Alaves",
-        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Derby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Derby",
         "pubdate": "Sun, 12 Nov 2023 13:00:00 +0100"
@@ -55,6 +62,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
         "pubdate": "Sun, 12 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Diwali 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diwali%202023",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Meg Ryan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meg%20Ryan",
-        "pubdate": "Sat, 11 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tina Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tina%20Turner",
-        "pubdate": "Sat, 11 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Island",
         "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Uncharted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Uncharted",
-        "pubdate": "Sat, 11 Nov 2023 01:00:00 +0100"
+        "title": "Meg Ryan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meg%20Ryan",
+        "pubdate": "Sat, 11 Nov 2023 10:00:00 +0100"
       }
     ]
   ]

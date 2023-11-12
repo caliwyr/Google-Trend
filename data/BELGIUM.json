@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-11-2023 , 18:54:00",
+  "lastUpdate": "12-11-2023 , 19:07:13",
   "data": [
     [
       {
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Sun, 12 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea – Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Manchester%20City",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+        "title": "Gent - Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20-%20Anderlecht",
         "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Gent - Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20-%20Anderlecht",
-        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
+        "title": "La Gantoise – Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Gantoise%20%E2%80%93%20Anderlecht",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diwali",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+        "title": "Liverpool – Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Brentford",
+        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "La Gantoise – Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Gantoise%20%E2%80%93%20Anderlecht",
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diwali",
         "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ],
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Vulkaan IJsland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vulkaan%20IJsland",
+        "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Almere  Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Almere%20%20Ajax",
         "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sporting Charleroi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sporting%20Charleroi",
+        "pubdate": "Sun, 12 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "PSV - PEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV%20-%20PEC",
-        "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
+        "title": "Rally Zuid-Limburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rally%20Zuid-Limburg",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Sonic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sonic",
-        "pubdate": "Sun, 12 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Johnny Hallyday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johnny%20Hallyday",
-        "pubdate": "Sun, 12 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Besiktas",
-        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos",
-        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
+        "title": "KV Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Oostende",
+        "pubdate": "Sun, 12 Nov 2023 10:00:00 +0100"
       }
     ]
   ]
