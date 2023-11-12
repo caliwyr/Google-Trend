@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "12-11-2023 , 16:56:40",
+  "lastUpdate": "12-11-2023 , 17:11:16",
   "data": [
     [
       {
-        "title": "Bánkút",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A1nk%C3%BAt",
+        "title": "Liverpool–Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93Brentford",
+        "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bükk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%BCkk",
         "pubdate": "Sun, 12 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -38,16 +52,23 @@
     ],
     [
       {
-        "title": "Beatles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beatles",
-        "pubdate": "Sun, 12 Nov 2023 02:00:00 +0100"
+        "title": "Hodász András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hod%C3%A1sz%20Andr%C3%A1s",
+        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Hodász András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hod%C3%A1sz%20Andr%C3%A1s",
-        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
+        "title": "Leverkusen–Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen%E2%80%93Union%20Berlin",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Beatles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beatles",
+        "pubdate": "Sun, 12 Nov 2023 02:00:00 +0100"
       }
     ],
     [
@@ -73,16 +94,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
+        "title": "Sarki fény",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sarki%20f%C3%A9ny",
+        "pubdate": "Sat, 11 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sarki fény",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sarki%20f%C3%A9ny",
-        "pubdate": "Sat, 11 Nov 2023 17:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
+        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Szeged Veszprém",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szeged%20Veszpr%C3%A9m",
-        "pubdate": "Sat, 11 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kékestető",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9kestet%C5%91",
-        "pubdate": "Sat, 11 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pintér Sándor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20S%C3%A1ndor",
-        "pubdate": "Sat, 11 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
         "pubdate": "Sat, 11 Nov 2023 19:00:00 +0100"
       }
     ]
