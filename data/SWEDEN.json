@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-11-2023 , 21:52:30",
+  "lastUpdate": "12-11-2023 , 22:05:52",
   "data": [
-    [
-      {
-        "title": "MFF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
-        "pubdate": "Sun, 12 Nov 2023 13:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "IFK Göteborg",
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Varbergs Bois mot IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Varbergs%20Bois%20mot%20IFK%20G%C3%B6teborg",
-        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Lars Lerin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lars%20Lerin",
+        "pubdate": "Sun, 12 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Volvo EM90",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Volvo%20EM90",
         "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
@@ -80,15 +80,8 @@
     ],
     [
       {
-        "title": "Lars Lerin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lars%20Lerin",
-        "pubdate": "Sun, 12 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sandviken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sandviken",
+        "title": "Varberg IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Varberg%20IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sat, 11 Nov 2023 21:00:00 +0100"
+        "title": "Lyko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lyko",
+        "pubdate": "Sat, 11 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -118,6 +111,13 @@
         "title": "Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
         "pubdate": "Sat, 11 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Sat, 11 Nov 2023 23:00:00 +0100"
       }
     ],
     [
