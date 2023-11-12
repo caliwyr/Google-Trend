@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2023 , 05:45:55",
+  "lastUpdate": "12-11-2023 , 05:55:09",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "FC Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Porto",
         "pubdate": "Sun, 12 Nov 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ardon Jashari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ardon%20Jashari",
-        "pubdate": "Sun, 12 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "YB Luzern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB%20Luzern",
+        "pubdate": "Sat, 11 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Levi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Levi",
         "pubdate": "Sat, 11 Nov 2023 11:00:00 +0100"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
-        "pubdate": "Sat, 11 Nov 2023 19:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Sat, 11 Nov 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Sat, 11 Nov 2023 18:00:00 +0100"
+        "title": "Beatrice Egli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatrice%20Egli",
+        "pubdate": "Sat, 11 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Beatrice Egli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatrice%20Egli",
-        "pubdate": "Sat, 11 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bayern gegen Heidenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Heidenheim",
         "pubdate": "Sat, 11 Nov 2023 16:00:00 +0100"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "11 novembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#11%20novembre",
-        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Thun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
         "pubdate": "Sat, 11 Nov 2023 22:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
+        "pubdate": "Sat, 11 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Howard Carpendale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Howard%20Carpendale",
         "pubdate": "Sat, 11 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Neymar",
+        "pubdate": "Sat, 11 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
