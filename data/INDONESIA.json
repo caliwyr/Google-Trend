@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-11-2023 , 20:52:51",
+  "lastUpdate": "13-11-2023 , 21:07:04",
   "data": [
+    [
+      {
+        "title": "FIFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FIFA",
+        "pubdate": "Tue, 14 Nov 2023 00:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Fatwa MUI",
@@ -20,13 +27,6 @@
         "title": "Inter vs Frosinone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Frosinone",
         "pubdate": "Mon, 13 Nov 2023 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Indonesia vs Irak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Irak",
-        "pubdate": "Mon, 13 Nov 2023 05:00:00 +0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Palmer",
-        "pubdate": "Mon, 13 Nov 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Mad Max: Fury Road",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mad%20Max:%20Fury%20Road",
         "pubdate": "Mon, 13 Nov 2023 23:00:00 +0700"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Jalur Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jalur%20Gaza",
-        "pubdate": "Mon, 13 Nov 2023 14:00:00 +0700"
+        "title": "Indonesia vs Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Panama",
+        "pubdate": "Sun, 12 Nov 2023 11:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea",
+        "pubdate": "Sun, 12 Nov 2023 13:00:00 +0700"
       }
     ]
   ]
