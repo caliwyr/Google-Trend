@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "13-11-2023 , 02:57:02",
+  "lastUpdate": "13-11-2023 , 03:15:04",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
+        "pubdate": "Mon, 13 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barca",
         "pubdate": "Mon, 13 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Diwali",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-        "pubdate": "Sun, 12 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chelsea gegen Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea%20gegen%20Man%20City",
         "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Travis Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Travis%20Kelce",
-        "pubdate": "Sun, 12 Nov 2023 12:00:00 +0100"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "pubdate": "Sun, 12 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Sun, 12 Nov 2023 02:00:00 +0100"
       }
     ]
   ]

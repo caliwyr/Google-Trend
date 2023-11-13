@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2023 , 02:56:57",
+  "lastUpdate": "13-11-2023 , 03:14:59",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barca",
+        "pubdate": "Mon, 13 Nov 2023 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Indonesia vs Irak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Irak",
+        "pubdate": "Mon, 13 Nov 2023 05:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Gempa terkini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20terkini",
         "pubdate": "Mon, 13 Nov 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Viking FK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Viking%20FK",
+        "pubdate": "Mon, 13 Nov 2023 06:00:00 +0700"
       }
     ],
     [
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Viking FK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Viking%20FK",
-        "pubdate": "Mon, 13 Nov 2023 06:00:00 +0700"
+        "title": "Tiger 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tiger%203",
+        "pubdate": "Mon, 13 Nov 2023 08:00:00 +0700"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Gempa hari ini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20hari%20ini",
         "pubdate": "Sun, 12 Nov 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ramalan Zodiak Aries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ramalan%20Zodiak%20Aries",
-        "pubdate": "Sun, 12 Nov 2023 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Diwali",
-        "pubdate": "Sun, 12 Nov 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Midway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Midway",
-        "pubdate": "Sun, 12 Nov 2023 22:00:00 +0700"
       }
     ]
   ]
