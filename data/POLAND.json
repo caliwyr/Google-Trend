@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-11-2023 , 12:44:44",
+  "lastUpdate": "13-11-2023 , 13:00:49",
   "data": [
-    [
-      {
-        "title": "Elżbieta Witek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#El%C5%BCbieta%20Witek",
-        "pubdate": "Mon, 13 Nov 2023 08:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Etna",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Polska - Czechy mecz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Czechy%20mecz",
-        "pubdate": "Mon, 13 Nov 2023 08:00:00 +0100"
+        "title": "Polska reprezentacja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20reprezentacja",
+        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Polska reprezentacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20reprezentacja",
-        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0100"
+        "title": "Polska - Czechy mecz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Czechy%20mecz",
+        "pubdate": "Mon, 13 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Julia kamińska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20kami%C5%84ska",
+        "title": "Julia Kamińska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20Kami%C5%84ska",
         "pubdate": "Mon, 13 Nov 2023 12:00:00 +0100"
       }
     ],
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pogoń Szczecin – Raków Częstochowa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogo%C5%84%20Szczecin%20%E2%80%93%20Rak%C3%B3w%20Cz%C4%99stochowa",
         "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
@@ -80,9 +66,16 @@
     ],
     [
       {
-        "title": "Stal Mielec – Górnik Zabrze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Mielec%20%E2%80%93%20G%C3%B3rnik%20Zabrze",
-        "pubdate": "Sun, 12 Nov 2023 12:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Posiedzenie Sejmu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Posiedzenie%20Sejmu",
+        "pubdate": "Sun, 12 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Hanna Gucwińska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hanna%20Gucwi%C5%84ska",
         "pubdate": "Sun, 12 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stal Mielec – Górnik Zabrze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Mielec%20%E2%80%93%20G%C3%B3rnik%20Zabrze",
+        "pubdate": "Sun, 12 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Facebook Meta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Facebook%20Meta",
+        "pubdate": "Sun, 12 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "GKS Katowice – GKS Tychy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Katowice%20%E2%80%93%20GKS%20Tychy",
         "pubdate": "Sun, 12 Nov 2023 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Wanda Traczyk-Stawska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wanda%20Traczyk-Stawska",
         "pubdate": "Sun, 12 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Brighton",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ]
   ]
