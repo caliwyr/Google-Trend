@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2023 , 11:53:08",
+  "lastUpdate": "13-11-2023 , 12:14:57",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0800"
+        "title": "Cole Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cole%20Palmer",
+        "pubdate": "Mon, 13 Nov 2023 03:00:00 +0800"
       }
     ],
     [
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
+        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "ATP Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ATP%20Finals",
         "pubdate": "Mon, 13 Nov 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "David Cameron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Cameron",
+        "pubdate": "Mon, 13 Nov 2023 19:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Diwali 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Diwali%202023",
         "pubdate": "Fri, 10 Nov 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Happy Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Diwali",
-        "pubdate": "Fri, 10 Nov 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kim Lim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kim%20Lim",
-        "pubdate": "Fri, 10 Nov 2023 00:00:00 +0800"
       }
     ]
   ]
