@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2023 , 05:55:34",
+  "lastUpdate": "13-11-2023 , 06:16:12",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Rennes – Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rennes%20%E2%80%93%20Lyon",
+        "pubdate": "Mon, 13 Nov 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
         "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
@@ -54,14 +61,14 @@
       {
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
-        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
+        "pubdate": "Sun, 12 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Club Brugge  Cercle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Cercle",
-        "pubdate": "Sun, 12 Nov 2023 14:00:00 +0100"
+        "title": "Gent Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20Anderlecht",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "La Gantoise – Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Gantoise%20%E2%80%93%20Anderlecht",
         "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gent Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent%20Anderlecht",
-        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diwali",
+        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Queens of the Stone Age",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Queens%20of%20the%20Stone%20Age",
         "pubdate": "Sun, 12 Nov 2023 13:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "Greta Van Fleet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greta%20Van%20Fleet",
-        "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IJsland vulkaan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#IJsland%20vulkaan",
         "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
       }
     ]

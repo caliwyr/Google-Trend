@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2023 , 05:55:38",
+  "lastUpdate": "13-11-2023 , 06:16:17",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Harry Potter e il prigioniero di Azkaban",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Harry%20Potter%20e%20il%20prigioniero%20di%20Azkaban",
         "pubdate": "Mon, 13 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Perugia-Gubbio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Perugia-Gubbio",
+        "pubdate": "Mon, 13 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Tommaso Paradiso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tommaso%20Paradiso",
-        "pubdate": "Sun, 12 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Álvaro Morata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#%C3%81lvaro%20Morata",
         "pubdate": "Sun, 12 Nov 2023 19:00:00 +0100"
@@ -90,13 +90,6 @@
         "title": "Beppe Grillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Beppe%20Grillo",
         "pubdate": "Sun, 12 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Palermo Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20Calcio",
-        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Barcellona  alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcellona%20%20alav%C3%A9s",
+        "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brescia-Cremonese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia-Cremonese",
         "pubdate": "Sun, 12 Nov 2023 17:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Francesco Guccini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Guccini",
-        "pubdate": "Sun, 12 Nov 2023 21:00:00 +0100"
+        "title": "Palermo Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20Calcio",
+        "pubdate": "Sun, 12 Nov 2023 19:00:00 +0100"
       }
     ]
   ]
