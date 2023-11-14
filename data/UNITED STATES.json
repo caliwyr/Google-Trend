@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 07:53:38",
+  "lastUpdate": "14-11-2023 , 08:11:38",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
         "pubdate": "Mon, 13 Nov 2023 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Game%20Awards",
+        "pubdate": "Mon, 13 Nov 2023 16:00:00 -0800"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Game%20Awards",
-        "pubdate": "Mon, 13 Nov 2023 16:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Suella Braverman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suella%20Braverman",
         "pubdate": "Mon, 13 Nov 2023 05:00:00 -0800"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Naomi Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Biden",
-        "pubdate": "Mon, 13 Nov 2023 08:00:00 -0800"
+        "title": "Drake J. Cole tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20J.%20Cole%20tour",
+        "pubdate": "Mon, 13 Nov 2023 13:00:00 -0800"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Nuggets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
         "pubdate": "Mon, 13 Nov 2023 05:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Drake J. Cole tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20J.%20Cole%20tour",
-        "pubdate": "Mon, 13 Nov 2023 13:00:00 -0800"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Michigan basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20basketball",
+        "pubdate": "Mon, 13 Nov 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Chris Appleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Appleton",
         "pubdate": "Mon, 13 Nov 2023 17:00:00 -0800"
       }
     ]

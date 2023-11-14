@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 07:53:45",
+  "lastUpdate": "14-11-2023 , 08:11:44",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Thijs Dallinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20Dallinga",
-        "pubdate": "Mon, 13 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tata Steel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tata%20Steel",
         "pubdate": "Mon, 13 Nov 2023 23:00:00 +0100"
@@ -52,15 +45,15 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 12 Nov 2023 21:00:00 +0100"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barca",
+        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Feyenoord - AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20-%20AZ",
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sun, 12 Nov 2023 09:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Ajax  Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20%20Brighton",
         "pubdate": "Thu, 09 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amersfoort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+        "pubdate": "Thu, 09 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
