@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 19:44:47",
+  "lastUpdate": "14-11-2023 , 19:54:01",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "WTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WTV",
+        "pubdate": "Tue, 14 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Michael Douglas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Douglas",
         "pubdate": "Tue, 14 Nov 2023 00:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "WTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WTV",
-        "pubdate": "Tue, 14 Nov 2023 19:00:00 +0100"
+        "title": "Frank Lammers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frank%20Lammers",
+        "pubdate": "Tue, 14 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,20 @@
     ],
     [
       {
+        "title": "Francis Evrard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Francis%20Evrard",
+        "pubdate": "Tue, 14 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Xavier Niel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xavier%20Niel",
+        "pubdate": "Tue, 14 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Noah Schnapp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Noah%20Schnapp",
         "pubdate": "Tue, 14 Nov 2023 09:00:00 +0100"
@@ -87,23 +108,9 @@
     ],
     [
       {
-        "title": "Francis Evrard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Francis%20Evrard",
-        "pubdate": "Tue, 14 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Game%20Awards",
         "pubdate": "Tue, 14 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Xavier Niel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xavier%20Niel",
-        "pubdate": "Tue, 14 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "PFAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PFAS",
-        "pubdate": "Mon, 13 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Suella Braverman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Suella%20Braverman",
-        "pubdate": "Mon, 13 Nov 2023 11:00:00 +0100"
+        "title": "Belgie servie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20servie",
+        "pubdate": "Tue, 14 Nov 2023 19:00:00 +0100"
       }
     ]
   ]
