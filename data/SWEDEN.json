@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 21:41:46",
+  "lastUpdate": "14-11-2023 , 21:50:47",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Allsvenskans Stora Pris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskans%20Stora%20Pris",
-        "pubdate": "Tue, 14 Nov 2023 20:00:00 +0100"
+        "title": "Inflation Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inflation%20Sverige",
+        "pubdate": "Tue, 14 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Inflation Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inflation%20Sverige",
-        "pubdate": "Tue, 14 Nov 2023 16:00:00 +0100"
+        "title": "Chalmers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chalmers",
+        "pubdate": "Tue, 14 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Chalmers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chalmers",
-        "pubdate": "Tue, 14 Nov 2023 20:00:00 +0100"
+        "title": "Noah Schnapp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Noah%20Schnapp",
+        "pubdate": "Tue, 14 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Kiruna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kiruna",
         "pubdate": "Tue, 14 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fröken Snusk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6ken%20Snusk",
+        "pubdate": "Tue, 14 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -83,20 +90,6 @@
         "title": "David Cameron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Cameron",
         "pubdate": "Mon, 13 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Börje Salming",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%B6rje%20Salming",
-        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LKAB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LKAB",
-        "pubdate": "Mon, 13 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
-        "pubdate": "Mon, 13 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Astrid Lindgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Astrid%20Lindgren",
         "pubdate": "Mon, 13 Nov 2023 11:00:00 +0100"
@@ -136,8 +122,22 @@
     ],
     [
       {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
+        "pubdate": "Mon, 13 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Robinson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
+        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Matti Peltola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matti%20Peltola",
         "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
       }
     ]
