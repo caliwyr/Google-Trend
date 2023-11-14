@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 01:38:19",
+  "lastUpdate": "14-11-2023 , 02:14:13",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Chhath Puja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhath%20Puja",
+        "pubdate": "Mon, 13 Nov 2023 18:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
         "pubdate": "Mon, 13 Nov 2023 02:30:00 +0530"
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Chhath Puja 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhath%20Puja%202023",
-        "pubdate": "Mon, 13 Nov 2023 21:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Jawaharlal nehru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jawaharlal%20nehru",
         "pubdate": "Mon, 13 Nov 2023 15:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Govardhan Puja time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Govardhan%20Puja%20time",
-        "pubdate": "Mon, 13 Nov 2023 08:30:00 +0530"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Cole Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cole%20Palmer",
-        "pubdate": "Mon, 13 Nov 2023 15:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Nmdc share Price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nmdc%20share%20Price",
         "pubdate": "Mon, 13 Nov 2023 13:30:00 +0530"
@@ -139,6 +125,20 @@
         "title": "Morne Morkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Morne%20Morkel",
         "pubdate": "Mon, 13 Nov 2023 23:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "War",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#War",
+        "pubdate": "Mon, 13 Nov 2023 21:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "India vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Netherlands",
+        "pubdate": "Sun, 12 Nov 2023 07:30:00 +0530"
       }
     ]
   ]
