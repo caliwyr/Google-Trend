@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-11-2023 , 20:49:40",
+  "lastUpdate": "14-11-2023 , 20:59:04",
   "data": [
     [
       {
-        "title": "EPRA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA",
-        "pubdate": "Tue, 14 Nov 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Romania",
-        "pubdate": "Tue, 14 Nov 2023 13:00:00 +0300"
+        "title": "EPRA fuel prices",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA%20fuel%20prices",
+        "pubdate": "Tue, 14 Nov 2023 12:00:00 +0300"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Duane Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Duane%20Martin",
         "pubdate": "Tue, 14 Nov 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Romania",
+        "pubdate": "Tue, 14 Nov 2023 13:00:00 +0300"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Godliver Omondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Godliver%20Omondi",
-        "pubdate": "Tue, 14 Nov 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Breaking news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news",
         "pubdate": "Tue, 14 Nov 2023 22:00:00 +0300"
@@ -66,15 +59,15 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
+        "title": "Stevenage FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Stevenage%20FC",
         "pubdate": "Tue, 14 Nov 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Stevenage FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Stevenage%20FC",
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
         "pubdate": "Tue, 14 Nov 2023 22:00:00 +0300"
       }
     ],
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Google Pixel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Google%20Pixel",
+        "pubdate": "Mon, 13 Nov 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Carbon credits",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Carbon%20credits",
         "pubdate": "Mon, 13 Nov 2023 20:00:00 +0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
-        "pubdate": "Mon, 13 Nov 2023 00:00:00 +0300"
+        "title": "Sterling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sterling",
+        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0300"
       }
     ]
   ]

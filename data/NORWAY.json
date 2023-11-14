@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 20:49:41",
+  "lastUpdate": "14-11-2023 , 20:59:05",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Tannkrem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tannkrem",
+        "pubdate": "Tue, 14 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kamelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kamelen",
         "pubdate": "Tue, 14 Nov 2023 17:00:00 +0100"
@@ -62,6 +69,13 @@
         "title": "Patrick Berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patrick%20Berg",
         "pubdate": "Tue, 14 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Billie%20Eilish",
+        "pubdate": "Tue, 14 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bobby Charlton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bobby%20Charlton",
         "pubdate": "Mon, 13 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matt Rife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matt%20Rife",
-        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "HamKam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-        "pubdate": "Mon, 13 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
