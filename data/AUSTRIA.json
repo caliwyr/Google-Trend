@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 13:46:23",
+  "lastUpdate": "14-11-2023 , 13:55:49",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Ats",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ats",
-        "pubdate": "Tue, 14 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Douglas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Douglas",
         "pubdate": "Tue, 14 Nov 2023 01:00:00 +0100"
@@ -41,6 +34,13 @@
         "title": "Mondsee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mondsee",
         "pubdate": "Tue, 14 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Noa Marciano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Noa%20Marciano",
+        "pubdate": "Tue, 14 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Ätna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%84tna",
+        "pubdate": "Mon, 13 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Wiener Neustadt Häftling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Neustadt%20H%C3%A4ftling",
         "pubdate": "Mon, 13 Nov 2023 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Richter Schuhe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Richter%20Schuhe",
         "pubdate": "Mon, 13 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kosovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kosovo",
-        "pubdate": "Mon, 13 Nov 2023 00:00:00 +0100"
       }
     ]
   ]
