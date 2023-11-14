@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-11-2023 , 22:48:39",
+  "lastUpdate": "14-11-2023 , 22:57:58",
   "data": [
-    [
-      {
-        "title": "Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
-        "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Jogo do Brasil",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "MGLU3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MGLU3",
-        "pubdate": "Tue, 14 Nov 2023 09:00:00 -0500"
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
+        "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
       }
     ],
     [
@@ -31,9 +24,16 @@
     ],
     [
       {
+        "title": "MGLU3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MGLU3",
+        "pubdate": "Tue, 14 Nov 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Copa do Mundo Sub-17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Mundo%20Sub-17",
-        "pubdate": "Tue, 14 Nov 2023 07:00:00 -0500"
+        "pubdate": "Tue, 14 Nov 2023 06:00:00 -0500"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Jogo da Seleção Brasileira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20da%20Sele%C3%A7%C3%A3o%20Brasileira",
         "pubdate": "Tue, 14 Nov 2023 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gabarito oficial Enem 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabarito%20oficial%20Enem%202023",
+        "pubdate": "Tue, 14 Nov 2023 16:00:00 -0500"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Jenny Miranda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jenny%20Miranda",
         "pubdate": "Tue, 14 Nov 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CBF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CBF",
-        "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
       }
     ],
     [
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Joelma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joelma",
-        "pubdate": "Tue, 14 Nov 2023 07:00:00 -0500"
+        "title": "Jojo Todynho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jojo%20Todynho",
+        "pubdate": "Tue, 14 Nov 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tarisland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tarisland",
+        "pubdate": "Tue, 14 Nov 2023 17:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Isis Freitas novela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isis%20Freitas%20novela",
         "pubdate": "Mon, 13 Nov 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
-        "pubdate": "Mon, 13 Nov 2023 16:00:00 -0500"
       }
     ]
   ]
