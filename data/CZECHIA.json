@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2023 , 09:52:55",
+  "lastUpdate": "14-11-2023 , 10:08:40",
   "data": [
     [
       {
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "SsangYong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SsangYong",
+        "title": "David Cameron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Cameron",
         "pubdate": "Mon, 13 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "David Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Cameron",
+        "title": "SsangYong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SsangYong",
         "pubdate": "Mon, 13 Nov 2023 14:00:00 +0100"
       }
     ],
@@ -101,8 +101,15 @@
     ],
     [
       {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Greta%20Thunberg",
+        "title": "METEO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#METEO",
+        "pubdate": "Mon, 13 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Greta-thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Greta-thunberg",
         "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Plzeň – Slovácko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Slov%C3%A1cko",
         "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Raiffeisenbank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Raiffeisenbank",
-        "pubdate": "Sun, 12 Nov 2023 18:00:00 +0100"
       }
     ]
   ]
