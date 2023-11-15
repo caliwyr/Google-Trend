@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 23:46:12",
+  "lastUpdate": "15-11-2023 , 23:55:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Angelica sepulveda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Angelica%20sepulveda",
         "pubdate": "Wed, 15 Nov 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Alcaraz",
+        "pubdate": "Wed, 15 Nov 2023 15:00:00 -0300"
       }
     ],
     [
@@ -31,20 +38,6 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Alcaraz",
-        "pubdate": "Wed, 15 Nov 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
-        "pubdate": "Wed, 15 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
         "pubdate": "Wed, 15 Nov 2023 11:00:00 -0300"
@@ -59,23 +52,16 @@
     ],
     [
       {
+        "title": "Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Medvedev",
+        "pubdate": "Wed, 15 Nov 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Temuco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temuco",
         "pubdate": "Wed, 15 Nov 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Wed, 15 Nov 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina%20vs%20Uruguay",
-        "pubdate": "Wed, 15 Nov 2023 18:00:00 -0300"
       }
     ],
     [
@@ -97,6 +83,13 @@
         "title": "Luis Hermosilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20Hermosilla",
         "pubdate": "Tue, 14 Nov 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Colo-colo  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo-colo%20%20River%20Plate",
+        "pubdate": "Tue, 14 Nov 2023 21:00:00 -0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Antofagasta  San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Antofagasta%20%20San%20Luis",
+        "title": "San Luis de Quillota",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis%20de%20Quillota",
         "pubdate": "Tue, 14 Nov 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gino Mella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gino%20Mella",
+        "pubdate": "Tue, 14 Nov 2023 23:00:00 -0300"
       }
     ]
   ]
