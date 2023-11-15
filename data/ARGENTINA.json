@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 16:44:43",
+  "lastUpdate": "15-11-2023 , 16:54:14",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Rosario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario",
+        "title": "Gerardo Morales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gerardo%20Morales",
+        "pubdate": "Wed, 15 Nov 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Hospital Provincial Rosario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hospital%20Provincial%20Rosario",
         "pubdate": "Wed, 15 Nov 2023 11:00:00 -0300"
       }
     ],
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Feriado 20 de noviembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feriado%2020%20de%20noviembre",
-        "pubdate": "Wed, 15 Nov 2023 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "ARA San Juan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ARA%20San%20Juan",
         "pubdate": "Wed, 15 Nov 2023 11:00:00 -0300"
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
-        "pubdate": "Wed, 15 Nov 2023 11:00:00 -0300"
+        "title": "Feriado 20 de noviembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feriado%2020%20de%20noviembre",
+        "pubdate": "Wed, 15 Nov 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dybala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dybala",
+        "pubdate": "Wed, 15 Nov 2023 12:00:00 -0300"
       }
     ],
     [
@@ -52,8 +59,15 @@
     ],
     [
       {
-        "title": "Dybala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dybala",
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
+        "pubdate": "Wed, 15 Nov 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Crawling peg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Crawling%20peg",
         "pubdate": "Wed, 15 Nov 2023 12:00:00 -0300"
       }
     ],
@@ -73,20 +87,6 @@
     ],
     [
       {
-        "title": "Crawling peg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Crawling%20peg",
-        "pubdate": "Wed, 15 Nov 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina partido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20partido",
-        "pubdate": "Tue, 14 Nov 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Alexio La Bruja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexio%20La%20Bruja",
         "pubdate": "Tue, 14 Nov 2023 15:00:00 -0300"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "ESMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESMA",
-        "pubdate": "Tue, 14 Nov 2023 00:00:00 -0300"
+        "title": "Argentina partido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20partido",
+        "pubdate": "Tue, 14 Nov 2023 12:00:00 -0300"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Gallardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gallardo",
         "pubdate": "Tue, 14 Nov 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "ESMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESMA",
+        "pubdate": "Tue, 14 Nov 2023 00:00:00 -0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Milo J",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milo%20J",
-        "pubdate": "Tue, 14 Nov 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Momi Giardina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Momi%20Giardina",
         "pubdate": "Tue, 14 Nov 2023 00:00:00 -0300"
       }
     ]
