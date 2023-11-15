@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-11-2023 , 06:50:05",
+  "lastUpdate": "15-11-2023 , 06:59:25",
   "data": [
     [
       {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors",
         "pubdate": "Wed, 15 Nov 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Denver Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Denver%20Nuggets",
+        "pubdate": "Wed, 15 Nov 2023 01:00:00 -0500"
       }
     ],
     [
@@ -33,7 +40,7 @@
       {
         "title": "Jogo do Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Brasil",
-        "pubdate": "Tue, 14 Nov 2023 06:00:00 -0500"
+        "pubdate": "Tue, 14 Nov 2023 09:00:00 -0500"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
         "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brasil Seleção",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20Sele%C3%A7%C3%A3o",
-        "pubdate": "Tue, 14 Nov 2023 07:00:00 -0500"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Jogo da Seleção Brasileira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20da%20Sele%C3%A7%C3%A3o%20Brasileira",
-        "pubdate": "Tue, 14 Nov 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Mega-Sena 2656",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202656",
         "pubdate": "Tue, 14 Nov 2023 16:00:00 -0500"
@@ -97,13 +90,6 @@
         "title": "Paulista Feminino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulista%20Feminino",
         "pubdate": "Tue, 14 Nov 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CBF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CBF",
-        "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Everton Ponte Preta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Everton%20Ponte%20Preta",
+        "pubdate": "Tue, 14 Nov 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "CMIN3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CMIN3",
         "pubdate": "Tue, 14 Nov 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Scarpa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Scarpa",
+        "pubdate": "Tue, 14 Nov 2023 10:00:00 -0500"
       }
     ]
   ]
