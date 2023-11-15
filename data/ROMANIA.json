@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-11-2023 , 10:42:13",
+  "lastUpdate": "15-11-2023 , 10:51:41",
   "data": [
-    [
-      {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jannik%20Sinner",
-        "pubdate": "Wed, 15 Nov 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Burse",
@@ -20,6 +13,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Billie%20Eilish",
         "pubdate": "Wed, 15 Nov 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
+        "pubdate": "Tue, 14 Nov 2023 00:00:00 +0200"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "title": "U CLUJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20CLUJ",
         "pubdate": "Tue, 14 Nov 2023 23:00:00 +0200"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
-        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0200"
+        "title": "Ioana craciunescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ioana%20craciunescu",
+        "pubdate": "Mon, 13 Nov 2023 17:00:00 +0200"
       }
     ]
   ]
