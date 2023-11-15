@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 09:47:13",
+  "lastUpdate": "15-11-2023 , 09:56:30",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Frøya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fr%C3%B8ya",
-        "pubdate": "Tue, 14 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Patrick Berg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patrick%20Berg",
         "pubdate": "Tue, 14 Nov 2023 01:00:00 +0100"
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "Greta Van Fleet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Van%20Fleet",
+        "title": "Tons of Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tons%20of%20Rock",
         "pubdate": "Mon, 13 Nov 2023 12:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Sam Haskell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sam%20Haskell",
         "pubdate": "Mon, 13 Nov 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Erna Solberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erna%20Solberg",
+        "pubdate": "Mon, 13 Nov 2023 15:00:00 +0100"
       }
     ]
   ]

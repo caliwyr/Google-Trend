@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 09:47:06",
+  "lastUpdate": "15-11-2023 , 09:56:23",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jeff%20Bezos",
+        "pubdate": "Wed, 15 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Max Eberl FC Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Max%20Eberl%20FC%20Bayern",
         "pubdate": "Wed, 15 Nov 2023 00:00:00 +0100"
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Jeff Bezos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jeff%20Bezos",
-        "pubdate": "Wed, 15 Nov 2023 07:00:00 +0100"
+        "title": "Meg Bellamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meg%20Bellamy",
+        "pubdate": "Wed, 15 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Matt LeBlanc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Matt%20LeBlanc",
+        "pubdate": "Wed, 15 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -52,8 +66,8 @@
     ],
     [
       {
-        "title": "Joko und Klaas Rätsel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joko%20und%20Klaas%20R%C3%A4tsel",
+        "title": "Papaplatte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Papaplatte",
         "pubdate": "Tue, 14 Nov 2023 22:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Edinburgh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Edinburgh",
         "pubdate": "Tue, 14 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Adam Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adam%20Johnson",
-        "pubdate": "Tue, 14 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cem Özdemir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cem%20%C3%96zdemir",
-        "pubdate": "Tue, 14 Nov 2023 01:00:00 +0100"
       }
     ]
   ]
