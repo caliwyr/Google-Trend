@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-11-2023 , 01:45:06",
+  "lastUpdate": "15-11-2023 , 02:18:20",
   "data": [
     [
       {
         "title": "Hai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hai",
         "pubdate": "Wed, 15 Nov 2023 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Pūteketeke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#P%C5%ABteketeke",
+        "pubdate": "Wed, 15 Nov 2023 14:00:00 +1300"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Da",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Da",
         "pubdate": "Wed, 15 Nov 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Pu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pu",
+        "pubdate": "Wed, 15 Nov 2023 11:00:00 +1300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "MBIE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MBIE",
-        "pubdate": "Mon, 13 Nov 2023 17:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "ATP Finals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ATP%20Finals",
         "pubdate": "Mon, 13 Nov 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Cole Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cole%20Palmer",
-        "pubdate": "Mon, 13 Nov 2023 23:00:00 +1300"
       }
     ]
   ]
