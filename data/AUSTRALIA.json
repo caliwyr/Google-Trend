@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 21:41:02",
+  "lastUpdate": "15-11-2023 , 21:50:24",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "Mumbai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mumbai",
         "pubdate": "Thu, 16 Nov 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving Movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving%20Movie",
+        "pubdate": "Thu, 16 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Josh Szeps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Josh%20Szeps",
+        "pubdate": "Thu, 16 Nov 2023 08:00:00 +1100"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Adam Johnson Ice Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Johnson%20Ice%20Hockey",
-        "pubdate": "Wed, 15 Nov 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "David Beckham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Beckham",
         "pubdate": "Wed, 15 Nov 2023 23:00:00 +1100"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Da",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Da",
-        "pubdate": "Wed, 15 Nov 2023 08:00:00 +1100"
+        "title": "Adam Johnson Ice Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Johnson%20Ice%20Hockey",
+        "pubdate": "Wed, 15 Nov 2023 11:00:00 +1100"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "G Flip",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#G%20Flip",
         "pubdate": "Wed, 15 Nov 2023 22:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Da",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Da",
+        "pubdate": "Wed, 15 Nov 2023 08:00:00 +1100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Princess Charlene",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Princess%20Charlene",
-        "pubdate": "Wed, 15 Nov 2023 13:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Matt LeBlanc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20LeBlanc",
         "pubdate": "Wed, 15 Nov 2023 19:00:00 +1100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Rohit Sharma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rohit%20Sharma",
-        "pubdate": "Wed, 15 Nov 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Wed, 15 Nov 2023 20:00:00 +1100"
+        "title": "Princess Charlene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Princess%20Charlene",
+        "pubdate": "Wed, 15 Nov 2023 13:00:00 +1100"
       }
     ]
   ]
