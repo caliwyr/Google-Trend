@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2023 , 12:47:46",
+  "lastUpdate": "15-11-2023 , 13:04:43",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Adam Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adam%20Johnson",
         "pubdate": "Wed, 15 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
+        "pubdate": "Tue, 14 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
-        "pubdate": "Mon, 13 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medvedev",
         "pubdate": "Mon, 13 Nov 2023 17:00:00 +0100"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
+        "pubdate": "Mon, 13 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rublev",
         "pubdate": "Mon, 13 Nov 2023 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Joe and the Juice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20and%20the%20Juice",
         "pubdate": "Mon, 13 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heartland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heartland",
-        "pubdate": "Mon, 13 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
