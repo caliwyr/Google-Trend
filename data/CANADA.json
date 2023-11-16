@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-11-2023 , 08:41:04",
+  "lastUpdate": "16-11-2023 , 08:50:21",
   "data": [
     [
       {
-        "title": "Oilers game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20game",
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Thu, 16 Nov 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Canucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
+        "pubdate": "Thu, 16 Nov 2023 02:00:00 -0500"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Colorado Avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
-        "pubdate": "Thu, 16 Nov 2023 01:00:00 -0500"
+        "title": "Kuzmenko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kuzmenko",
+        "pubdate": "Thu, 16 Nov 2023 03:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Canucks game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20game",
-        "pubdate": "Thu, 16 Nov 2023 02:00:00 -0500"
+        "title": "Colorado Avalanche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
+        "pubdate": "Thu, 16 Nov 2023 01:00:00 -0500"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Wed, 15 Nov 2023 22:00:00 -0500"
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cricket",
+        "pubdate": "Wed, 15 Nov 2023 10:00:00 -0500"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Kraken vs Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraken%20vs%20Oilers",
+        "pubdate": "Wed, 15 Nov 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Air Canada crash-landing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20Canada%20crash-landing",
         "pubdate": "Wed, 15 Nov 2023 15:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Sidney Crosby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sidney%20Crosby",
         "pubdate": "Wed, 15 Nov 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
-        "pubdate": "Wed, 15 Nov 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bucks vs Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bucks%20vs%20Raptors",
-        "pubdate": "Wed, 15 Nov 2023 21:00:00 -0500"
       }
     ]
   ]
