@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-11-2023 , 12:46:59",
+  "lastUpdate": "16-11-2023 , 13:02:26",
   "data": [
     [
       {
         "title": "The Crown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Crown",
         "pubdate": "Thu, 16 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
+        "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
         "pubdate": "Wed, 15 Nov 2023 19:00:00 +0100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "India vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20New%20Zealand",
-        "pubdate": "Wed, 15 Nov 2023 13:00:00 +0100"
+        "title": "Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medvedev",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Adam Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adam%20Johnson",
-        "pubdate": "Wed, 15 Nov 2023 01:00:00 +0100"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rublev",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
+        "title": "Adam Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adam%20Johnson",
+        "pubdate": "Wed, 15 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "India vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20New%20Zealand",
+        "pubdate": "Wed, 15 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Noa Marciano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Noa%20Marciano",
         "pubdate": "Tue, 14 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fentanyl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fentanyl",
-        "pubdate": "Tue, 14 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
