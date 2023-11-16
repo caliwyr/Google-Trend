@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2023 , 23:46:17",
+  "lastUpdate": "16-11-2023 , 23:55:31",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snoop%20Dogg",
+        "pubdate": "Fri, 17 Nov 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Cricket World Cup 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket%20World%20Cup%202023",
         "pubdate": "Thu, 16 Nov 2023 01:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
+        "pubdate": "Thu, 16 Nov 2023 07:00:00 +1300"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Dane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dane",
-        "pubdate": "Thu, 16 Nov 2023 09:00:00 +1300"
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arnold%20Schwarzenegger",
+        "pubdate": "Thu, 16 Nov 2023 20:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Arnold Schwarzenegger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arnold%20Schwarzenegger",
-        "pubdate": "Thu, 16 Nov 2023 20:00:00 +1300"
+        "title": "Dane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dane",
+        "pubdate": "Thu, 16 Nov 2023 09:00:00 +1300"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Daryl Mitchell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daryl%20Mitchell",
-        "pubdate": "Thu, 16 Nov 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Joseph Parker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joseph%20Parker",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Shreyas Iyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shreyas%20Iyer",
         "pubdate": "Thu, 16 Nov 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Rohit Sharma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rohit%20Sharma",
-        "pubdate": "Thu, 16 Nov 2023 01:00:00 +1300"
       }
     ]
   ]
