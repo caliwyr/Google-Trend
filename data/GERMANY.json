@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-11-2023 , 22:48:45",
+  "lastUpdate": "16-11-2023 , 22:58:15",
   "data": [
+    [
+      {
+        "title": "Wer wird Millionär",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wer%20wird%20Million%C3%A4r",
+        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Elterngeld",
@@ -20,13 +27,6 @@
         "title": "The Crown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Crown",
         "pubdate": "Thu, 16 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wer wird Millionär",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wer%20wird%20Million%C3%A4r",
-        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Wer weiß denn sowas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wer%20wei%C3%9F%20denn%20sowas",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hubert Seipel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hubert%20Seipel",
         "pubdate": "Tue, 14 Nov 2023 18:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Heino Hannelore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heino%20Hannelore",
         "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Urs Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Urs%20Fischer",
+        "pubdate": "Mon, 13 Nov 2023 13:00:00 +0100"
       }
     ]
   ]

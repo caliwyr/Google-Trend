@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-11-2023 , 22:48:46",
+  "lastUpdate": "16-11-2023 , 22:58:16",
   "data": [
-    [
-      {
-        "title": "明学昌",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%98%8E%E5%AD%A6%E6%98%8C",
-        "pubdate": "Fri, 17 Nov 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "張學友演唱會",
@@ -48,13 +41,6 @@
         "title": "韓孝周",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%9F%93%E5%AD%9D%E5%91%A8",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "嶺南大學",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%B6%BA%E5%8D%97%E5%A4%A7%E5%AD%B8",
-        "pubdate": "Thu, 16 Nov 2023 19:00:00 +0800"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "黎明",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%8E%E6%98%8E",
+        "pubdate": "Wed, 15 Nov 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "行李箱",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A1%8C%E6%9D%8E%E7%AE%B1",
         "pubdate": "Wed, 15 Nov 2023 18:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "鰂魚涌",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%B0%82%E9%AD%9A%E6%B6%8C",
         "pubdate": "Wed, 15 Nov 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "勇士",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8B%87%E5%A3%AB",
+        "pubdate": "Wed, 15 Nov 2023 19:00:00 +0800"
       }
     ]
   ]
