@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2023 , 11:44:26",
+  "lastUpdate": "16-11-2023 , 11:53:55",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "India vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20New%20Zealand",
+        "pubdate": "Wed, 15 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Duane Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duane%20Martin",
         "pubdate": "Wed, 15 Nov 2023 14:00:00 +0100"
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "IND vs NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IND%20vs%20NZ",
-        "pubdate": "Wed, 15 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rublev",
         "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "India vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#India%20vs%20New%20Zealand",
-        "pubdate": "Wed, 15 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Noa Marciano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Noa%20Marciano",
         "pubdate": "Tue, 14 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fentanyl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fentanyl",
+        "pubdate": "Tue, 14 Nov 2023 09:00:00 +0100"
       }
     ]
   ]

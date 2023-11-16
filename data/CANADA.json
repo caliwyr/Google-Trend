@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2023 , 11:44:25",
+  "lastUpdate": "16-11-2023 , 11:53:54",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
         "pubdate": "Thu, 16 Nov 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#South%20Africa%20vs%20Australia",
-        "pubdate": "Thu, 16 Nov 2023 04:00:00 -0500"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "South Africa vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#South%20Africa%20vs%20Australia",
+        "pubdate": "Wed, 15 Nov 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "HAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#HAI",
         "pubdate": "Wed, 15 Nov 2023 07:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kraken vs Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraken%20vs%20Oilers",
-        "pubdate": "Wed, 15 Nov 2023 22:00:00 -0500"
+        "title": "Clippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Clippers",
+        "pubdate": "Wed, 15 Nov 2023 04:00:00 -0500"
       }
     ]
   ]
