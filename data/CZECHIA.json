@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2023 , 17:44:01",
+  "lastUpdate": "16-11-2023 , 17:53:28",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
         "pubdate": "Thu, 16 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Prague Playoffs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prague%20Playoffs",
+        "pubdate": "Thu, 16 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Erdogan",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zuzana Čaputová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zuzana%20%C4%8Caputov%C3%A1",
+        "pubdate": "Thu, 16 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Radek Kašpárek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radek%20Ka%C5%A1p%C3%A1rek",
         "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Friends",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Friends",
-        "pubdate": "Wed, 15 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bauer",
-        "pubdate": "Wed, 15 Nov 2023 11:00:00 +0100"
       }
     ]
   ]
