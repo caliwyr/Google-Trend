@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-11-2023 , 13:47:48",
+  "lastUpdate": "16-11-2023 , 13:57:00",
   "data": [
-    [
-      {
-        "title": "The Crown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Crown",
-        "pubdate": "Thu, 16 Nov 2023 11:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Metro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Crown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Crown",
+        "pubdate": "Thu, 16 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Shane MacGowan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Shane%20MacGowan",
+        "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hunger Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunger%20Games",
         "pubdate": "Wed, 15 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medvedev",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Duane Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duane%20Martin",
         "pubdate": "Wed, 15 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Adam Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adam%20Johnson",
         "pubdate": "Wed, 15 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rublev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rublev",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Jonas Vingegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jonas%20Vingegaard",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
         "pubdate": "Tue, 14 Nov 2023 22:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tsitsipas",
         "pubdate": "Tue, 14 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ørsted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%98rsted",
-        "pubdate": "Tue, 14 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Noa Marciano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Noa%20Marciano",
-        "pubdate": "Tue, 14 Nov 2023 16:00:00 +0100"
       }
     ]
   ]

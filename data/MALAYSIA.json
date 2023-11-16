@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2023 , 13:47:51",
+  "lastUpdate": "16-11-2023 , 13:57:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cricket World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cricket%20World%20Cup",
         "pubdate": "Thu, 16 Nov 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Osama bin Laden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Osama%20bin%20Laden",
+        "pubdate": "Thu, 16 Nov 2023 15:00:00 +0800"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Osama bin Laden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Osama%20bin%20Laden",
-        "pubdate": "Thu, 16 Nov 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Daryl Mitchell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Daryl%20Mitchell",
         "pubdate": "Thu, 16 Nov 2023 01:00:00 +0800"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Ezekiel Sims",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ezekiel%20Sims",
+        "title": "Madame Web",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Madame%20Web",
         "pubdate": "Wed, 15 Nov 2023 23:00:00 +0800"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Palestine flag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Palestine%20flag",
         "pubdate": "Wed, 15 Nov 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Virat Kohli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Virat%20Kohli",
-        "pubdate": "Wed, 15 Nov 2023 20:00:00 +0800"
       }
     ],
     [
@@ -108,6 +101,20 @@
     ],
     [
       {
+        "title": "Virat Kohli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Virat%20Kohli",
+        "pubdate": "Wed, 15 Nov 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kyrgyzstan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kyrgyzstan",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Shubman Gill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Shubman%20Gill",
         "pubdate": "Wed, 15 Nov 2023 19:00:00 +0800"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Ahyeon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ahyeon",
-        "pubdate": "Wed, 15 Nov 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ng Tze Yong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ng%20Tze%20Yong",
+        "title": "Badminton japan master 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton%20japan%20master%202023",
         "pubdate": "Wed, 15 Nov 2023 17:00:00 +0800"
       }
     ],
     [
       {
-        "title": "David Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#David%20Beckham",
-        "pubdate": "Wed, 15 Nov 2023 22:00:00 +0800"
+        "title": "Ahyeon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ahyeon",
+        "pubdate": "Wed, 15 Nov 2023 19:00:00 +0800"
       }
     ]
   ]
