@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-11-2023 , 23:55:21",
+  "lastUpdate": "16-11-2023 , 00:56:39",
   "data": [
+    [
+      {
+        "title": "Rob Jetten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Jetten",
+        "pubdate": "Thu, 16 Nov 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Karel van de Graaf",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Mirjam Bikker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mirjam%20Bikker",
-        "pubdate": "Wed, 15 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Verkiezingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verkiezingen",
         "pubdate": "Wed, 15 Nov 2023 22:00:00 +0100"
@@ -55,6 +55,13 @@
         "title": "Oisterwijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oisterwijk",
         "pubdate": "Tue, 14 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oisterwijk Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oisterwijk%20Nieuws",
+        "pubdate": "Tue, 14 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sun, 12 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Sun, 12 Nov 2023 16:00:00 +0100"
       }
     ]
   ]
