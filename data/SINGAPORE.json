@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2023 , 12:45:18",
+  "lastUpdate": "17-11-2023 , 13:01:37",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Las Vegas F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Las%20Vegas%20F1",
+        "pubdate": "Fri, 17 Nov 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Alibaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alibaba",
         "pubdate": "Fri, 17 Nov 2023 14:00:00 +0800"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Las Vegas F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Las%20Vegas%20F1",
-        "pubdate": "Fri, 17 Nov 2023 17:00:00 +0800"
+        "title": "Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil",
+        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0800"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Portugal",
         "pubdate": "Fri, 17 Nov 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil",
-        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0800"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#World%20Cup",
         "pubdate": "Thu, 16 Nov 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mohammed Shami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mohammed%20Shami",
+        "pubdate": "Thu, 16 Nov 2023 00:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "World Cup qualifiers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#World%20Cup%20qualifiers",
         "pubdate": "Wed, 15 Nov 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Madame Web",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madame%20Web",
-        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0800"
       }
     ]
   ]
