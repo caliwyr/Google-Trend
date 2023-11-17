@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-11-2023 , 04:49:34",
+  "lastUpdate": "17-11-2023 , 04:58:41",
   "data": [
+    [
+      {
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasil",
+        "pubdate": "Fri, 17 Nov 2023 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Comboio Presidencial Douro",
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Legionella sintomas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Legionella%20sintomas",
-        "pubdate": "Thu, 16 Nov 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina",
         "pubdate": "Thu, 16 Nov 2023 22:00:00 +0000"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "The Crown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Crown",
-        "pubdate": "Thu, 16 Nov 2023 18:00:00 +0000"
+        "title": "Eliminatórias da Copa do Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eliminat%C3%B3rias%20da%20Copa%20do%20Mundo",
+        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Eliminatórias da Copa do Mundo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eliminat%C3%B3rias%20da%20Copa%20do%20Mundo",
-        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0000"
+        "title": "Legionella sintomas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Legionella%20sintomas",
+        "pubdate": "Thu, 16 Nov 2023 20:00:00 +0000"
       }
     ]
   ]

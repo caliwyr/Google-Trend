@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-11-2023 , 04:49:28",
+  "lastUpdate": "17-11-2023 , 04:58:36",
   "data": [
-    [
-      {
-        "title": "Aurum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aurum",
-        "pubdate": "Fri, 17 Nov 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "F1",
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Hyundai IONIQ 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hyundai%20IONIQ%205",
+        "title": "Hyundai Ioniq 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hyundai%20Ioniq%205",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Hunger Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunger%20Games",
         "pubdate": "Wed, 15 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
+        "pubdate": "Wed, 15 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
