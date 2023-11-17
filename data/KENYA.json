@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-11-2023 , 02:50:08",
+  "lastUpdate": "17-11-2023 , 02:59:20",
   "data": [
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
+        "pubdate": "Fri, 17 Nov 2023 05:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Liechtenstein vs Portugal",
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Gabon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gabon",
+        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Maina Njenga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Maina%20Njenga",
         "pubdate": "Thu, 16 Nov 2023 11:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "India vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20New%20Zealand",
         "pubdate": "Wed, 15 Nov 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fuel prices",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fuel%20prices",
-        "pubdate": "Wed, 15 Nov 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Niger vs Tanzania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Niger%20vs%20Tanzania",
-        "pubdate": "Wed, 15 Nov 2023 10:00:00 +0300"
       }
     ]
   ]

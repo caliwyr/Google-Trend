@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2023 , 02:50:02",
+  "lastUpdate": "17-11-2023 , 02:59:15",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Formel 1 Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201%20Las%20Vegas",
+        "title": "Formel-1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel-1%20Las%20Vegas",
         "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Die Bergretter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Bergretter",
-        "pubdate": "Thu, 16 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Holger Rune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Holger%20Rune",
         "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Die Bergretter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Bergretter",
+        "pubdate": "Thu, 16 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "The Crown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Crown",
         "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sophia Thomalla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sophia%20Thomalla",
-        "pubdate": "Thu, 16 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Regenbogen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regenbogen",
-        "pubdate": "Thu, 16 Nov 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Handel KV-Verhandlungen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handel%20KV-Verhandlungen",
         "pubdate": "Thu, 16 Nov 2023 18:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Moldau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Moldau",
         "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland Türkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland%20T%C3%BCrkei",
+        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luxemburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luxemburg",
+        "pubdate": "Thu, 16 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
