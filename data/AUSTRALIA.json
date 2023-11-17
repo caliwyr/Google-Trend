@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-11-2023 , 21:51:47",
+  "lastUpdate": "17-11-2023 , 22:05:03",
   "data": [
+    [
+      {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
+        "pubdate": "Sat, 18 Nov 2023 01:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Scott Pilgrim Takes Off",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
-        "pubdate": "Sat, 18 Nov 2023 01:00:00 +1100"
+        "title": "England vs Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Malta",
+        "pubdate": "Sat, 18 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "England Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20Football",
+        "pubdate": "Sat, 18 Nov 2023 08:00:00 +1100"
       }
     ],
     [
@@ -24,9 +38,16 @@
     ],
     [
       {
+        "title": "Iceland volcano eruption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iceland%20volcano%20eruption",
+        "pubdate": "Sat, 18 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
-        "pubdate": "Fri, 17 Nov 2023 15:00:00 +1100"
+        "pubdate": "Fri, 17 Nov 2023 19:00:00 +1100"
       }
     ],
     [
@@ -52,16 +73,23 @@
     ],
     [
       {
-        "title": "Diddy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diddy",
-        "pubdate": "Fri, 17 Nov 2023 14:00:00 +1100"
+        "title": "F1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1%20Las%20Vegas",
+        "pubdate": "Fri, 17 Nov 2023 15:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Las Vegas F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Las%20Vegas%20F1",
-        "pubdate": "Fri, 17 Nov 2023 19:00:00 +1100"
+        "title": "Cricket World Cup final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket%20World%20Cup%20final",
+        "pubdate": "Fri, 17 Nov 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Diddy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diddy",
+        "pubdate": "Fri, 17 Nov 2023 14:00:00 +1100"
       }
     ],
     [
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Cricket World Cup final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket%20World%20Cup%20final",
-        "pubdate": "Fri, 17 Nov 2023 08:00:00 +1100"
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Australia",
+        "pubdate": "Fri, 17 Nov 2023 12:00:00 +1100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Dolly Parton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dolly%20Parton",
         "pubdate": "Fri, 17 Nov 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
-        "pubdate": "Fri, 17 Nov 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Macklemore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Macklemore",
-        "pubdate": "Fri, 17 Nov 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argentina",
-        "pubdate": "Fri, 17 Nov 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Shakur Stevenson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shakur%20Stevenson",
-        "pubdate": "Fri, 17 Nov 2023 18:00:00 +1100"
       }
     ]
   ]
