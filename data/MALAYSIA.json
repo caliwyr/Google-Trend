@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-11-2023 , 23:49:37",
+  "lastUpdate": "17-11-2023 , 23:59:32",
   "data": [
     [
       {
         "title": "England vs Malta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20Malta",
         "pubdate": "Sat, 18 Nov 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Italy vs North Macedonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Italy%20vs%20North%20Macedonia",
+        "pubdate": "Sat, 18 Nov 2023 06:00:00 +0800"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Agus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Agus",
-        "pubdate": "Fri, 17 Nov 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "FIFA World Cup qualifiers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20World%20Cup%20qualifiers",
         "pubdate": "Fri, 17 Nov 2023 00:00:00 +0800"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "FIFA RANKING 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20RANKING%202023",
-        "pubdate": "Fri, 17 Nov 2023 00:00:00 +0800"
+        "title": "Agus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Agus",
+        "pubdate": "Fri, 17 Nov 2023 13:00:00 +0800"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "World Cup 2026",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%202026",
+        "pubdate": "Fri, 17 Nov 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Snoop Dogg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Snoop%20Dogg",
         "pubdate": "Fri, 17 Nov 2023 16:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia",
         "pubdate": "Thu, 16 Nov 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Osama bin Laden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Osama%20bin%20Laden",
-        "pubdate": "Thu, 16 Nov 2023 15:00:00 +0800"
       }
     ]
   ]
