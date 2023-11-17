@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-11-2023 , 18:58:00",
+  "lastUpdate": "17-11-2023 , 19:13:26",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Swift",
+        "pubdate": "Fri, 17 Nov 2023 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Beitostølen",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton",
+        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "When is Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#When%20is%20Black%20Friday",
         "pubdate": "Fri, 17 Nov 2023 11:00:00 +0100"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton",
-        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
+        "title": "Vixen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vixen",
+        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Vixen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vixen",
-        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0100"
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
+        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Oslo Spektrum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Spektrum",
         "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shane MacGowan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shane%20MacGowan",
-        "pubdate": "Thu, 16 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Snoop%20Dogg",
-        "pubdate": "Thu, 16 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
