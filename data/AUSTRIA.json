@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2023 , 03:47:15",
+  "lastUpdate": "17-11-2023 , 03:56:33",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thanksgiving",
-        "pubdate": "Thu, 16 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Moldau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Moldau",
         "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Luxemburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luxemburg",
         "pubdate": "Thu, 16 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Siemens-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Siemens-Aktie",
+        "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
