@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "17-11-2023 , 15:50:59",
+  "lastUpdate": "17-11-2023 , 16:00:26",
   "data": [
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1",
-        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "SsangYong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SsangYong",
         "pubdate": "Fri, 17 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1%20Las%20Vegas",
+        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1",
+        "pubdate": "Fri, 17 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
-        "pubdate": "Thu, 16 Nov 2023 00:00:00 +0100"
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Snoop%20Dogg",
+        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Snoop%20Dogg",
-        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
+        "pubdate": "Thu, 16 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Korzo Národní",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Korzo%20N%C3%A1rodn%C3%AD",
+        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "17. listopadu svátek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#17.%20listopadu%20sv%C3%A1tek",
         "pubdate": "Thu, 16 Nov 2023 12:00:00 +0100"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Korzo Národní",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Korzo%20N%C3%A1rodn%C3%AD",
-        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
+        "title": "Dodi Al-Fayed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dodi%20Al-Fayed",
+        "pubdate": "Thu, 16 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kino",
         "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Erdogan",
-        "pubdate": "Thu, 16 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Queens of the Stone Age",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Queens%20of%20the%20Stone%20Age",
-        "pubdate": "Thu, 16 Nov 2023 08:00:00 +0100"
       }
     ]
   ]
