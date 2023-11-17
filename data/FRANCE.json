@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2023 , 07:47:49",
+  "lastUpdate": "17-11-2023 , 07:57:10",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haaland",
+        "pubdate": "Fri, 17 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Beaujolais nouveau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Beaujolais%20nouveau",
         "pubdate": "Thu, 16 Nov 2023 09:00:00 +0100"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Tempete federico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tempete%20federico",
-        "pubdate": "Thu, 16 Nov 2023 03:00:00 +0100"
+        "title": "Joel Guerriau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joel%20Guerriau",
+        "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Joel Guerriau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joel%20Guerriau",
-        "pubdate": "Thu, 16 Nov 2023 20:00:00 +0100"
+        "title": "Tempete federico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tempete%20federico",
+        "pubdate": "Thu, 16 Nov 2023 03:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "TDAH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TDAH",
         "pubdate": "Thu, 16 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Camavinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camavinga",
-        "pubdate": "Thu, 16 Nov 2023 09:00:00 +0100"
       }
     ]
   ]
