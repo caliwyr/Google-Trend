@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-11-2023 , 07:50:41",
+  "lastUpdate": "18-11-2023 , 08:00:09",
   "data": [
+    [
+      {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
+        "pubdate": "Sat, 18 Nov 2023 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Erdogan",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Mehrwertsteuer Gastronomie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mehrwertsteuer%20Gastronomie",
+        "pubdate": "Fri, 17 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sam%20Altman",
         "pubdate": "Fri, 17 Nov 2023 23:00:00 +0100"
@@ -27,13 +41,6 @@
         "title": "Eli Lilly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eli%20Lilly",
         "pubdate": "Fri, 17 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Clint%20Eastwood",
-        "pubdate": "Fri, 17 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
         "pubdate": "Mon, 13 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ATP Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ATP%20Finals",
-        "pubdate": "Sun, 12 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
