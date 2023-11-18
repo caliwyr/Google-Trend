@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2023 , 02:49:53",
+  "lastUpdate": "18-11-2023 , 02:59:11",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tuberculosis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tuberculosis",
         "pubdate": "Sat, 18 Nov 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jet Li",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jet%20Li",
+        "pubdate": "Sat, 18 Nov 2023 07:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
-        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dewakan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dewakan",
         "pubdate": "Fri, 17 Nov 2023 15:00:00 +0800"
@@ -73,8 +73,22 @@
     ],
     [
       {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
+        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "FIFA World Cup qualifiers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20World%20Cup%20qualifiers",
+        "pubdate": "Fri, 17 Nov 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "FIFA RANKING 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FIFA%20RANKING%202023",
         "pubdate": "Fri, 17 Nov 2023 00:00:00 +0800"
       }
     ],
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil",
-        "pubdate": "Fri, 17 Nov 2023 10:00:00 +0800"
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Everton",
+        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Everton",
-        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0800"
+        "title": "Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil",
+        "pubdate": "Fri, 17 Nov 2023 10:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Live Score",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Live%20Score",
         "pubdate": "Fri, 17 Nov 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Monarch: Legacy of Monsters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Monarch:%20Legacy%20of%20Monsters",
-        "pubdate": "Fri, 17 Nov 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "World Cup 2026",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%202026",
-        "pubdate": "Fri, 17 Nov 2023 03:00:00 +0800"
       }
     ]
   ]
