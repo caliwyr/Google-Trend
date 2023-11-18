@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2023 , 03:46:40",
+  "lastUpdate": "18-11-2023 , 03:56:05",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
-        "pubdate": "Fri, 17 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eli Lilly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eli%20Lilly",
         "pubdate": "Fri, 17 Nov 2023 11:00:00 +0100"
@@ -45,15 +38,15 @@
     ],
     [
       {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Clint%20Eastwood",
+        "title": "Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sam%20Altman",
         "pubdate": "Fri, 17 Nov 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sam Altman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sam%20Altman",
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Clint%20Eastwood",
         "pubdate": "Fri, 17 Nov 2023 23:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
         "pubdate": "Mon, 13 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heino Hannelore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heino%20Hannelore",
+        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
