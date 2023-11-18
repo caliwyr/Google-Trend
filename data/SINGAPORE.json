@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2023 , 08:49:49",
+  "lastUpdate": "18-11-2023 , 08:59:04",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Formula%201",
+        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "India vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20Australia",
         "pubdate": "Fri, 17 Nov 2023 21:00:00 +0800"
@@ -131,13 +138,6 @@
       {
         "title": "Mohammed Shami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mohammed%20Shami",
-        "pubdate": "Thu, 16 Nov 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Xi Jinping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xi%20Jinping",
         "pubdate": "Thu, 16 Nov 2023 00:00:00 +0800"
       }
     ]
