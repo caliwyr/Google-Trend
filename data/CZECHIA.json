@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-11-2023 , 23:59:27",
+  "lastUpdate": "18-11-2023 , 01:19:08",
   "data": [
+    [
+      {
+        "title": "Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sam%20Altman",
+        "pubdate": "Sat, 18 Nov 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ivan Bartoš",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Vaclav havel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vaclav%20havel",
+        "pubdate": "Fri, 17 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "F1 Las Vegas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1%20Las%20Vegas",
         "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Vaclav havel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vaclav%20havel",
+        "title": "Polsko cesko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Polsko%20cesko",
         "pubdate": "Fri, 17 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Polsko cesko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Polsko%20cesko",
-        "pubdate": "Fri, 17 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Smrt krásných srnců",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Smrt%20kr%C3%A1sn%C3%BDch%20srnc%C5%AF",
         "pubdate": "Fri, 17 Nov 2023 12:00:00 +0100"
@@ -83,6 +90,13 @@
         "title": "Program",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Program",
         "pubdate": "Fri, 17 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Linda Finková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Linda%20Finkov%C3%A1",
+        "pubdate": "Fri, 17 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Divadlo Járy Cimrmana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Divadlo%20J%C3%A1ry%20Cimrmana",
-        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Klaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Klaus",
         "pubdate": "Fri, 17 Nov 2023 22:00:00 +0100"
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Divadlo Járy Cimrmana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Divadlo%20J%C3%A1ry%20Cimrmana",
+        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lucie vondráčková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20vondr%C3%A1%C4%8Dkov%C3%A1",
+        "pubdate": "Fri, 17 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arma Reforger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arma%20Reforger",
         "pubdate": "Fri, 17 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Djokovic",
-        "pubdate": "Fri, 17 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Korzo Národní",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Korzo%20N%C3%A1rodn%C3%AD",
-        "pubdate": "Thu, 16 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pavlína Wolfová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavl%C3%ADna%20Wolfov%C3%A1",
-        "pubdate": "Thu, 16 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
