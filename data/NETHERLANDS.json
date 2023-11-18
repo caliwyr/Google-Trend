@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-11-2023 , 19:56:15",
+  "lastUpdate": "18-11-2023 , 20:13:07",
   "data": [
+    [
+      {
+        "title": "Intocht Sinterklaas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Intocht%20Sinterklaas",
+        "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ellen Jens",
@@ -20,13 +27,6 @@
         "title": "Gorinchem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gorinchem",
         "pubdate": "Sat, 18 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ruud Geels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ruud%20Geels",
-        "pubdate": "Sat, 18 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "RS-virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RS-virus",
+        "title": "Rs virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rs%20virus",
         "pubdate": "Sat, 18 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sinterklaasintocht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinterklaasintocht",
-        "pubdate": "Fri, 17 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Janny Knol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Janny%20Knol",
-        "pubdate": "Fri, 17 Nov 2023 18:00:00 +0100"
+        "title": "Las Vegas f1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Las%20Vegas%20f1",
+        "pubdate": "Fri, 17 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Mon, 13 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sinterklaas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinterklaas",
+        "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
