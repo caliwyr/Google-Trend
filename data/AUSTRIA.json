@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "18-11-2023 , 18:55:47",
+  "lastUpdate": "18-11-2023 , 19:09:34",
   "data": [
     [
       {
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SpaceX",
-        "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Island: Vulkanausbruch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Island:%20Vulkanausbruch",
         "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
       }
     ],
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Obergurgl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Obergurgl",
+        "title": "Island: Vulkanausbruch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Island:%20Vulkanausbruch",
         "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
       }
     ],
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Lucas Braathen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lucas%20Braathen",
-        "pubdate": "Sat, 18 Nov 2023 05:00:00 +0100"
+        "title": "Obergurgl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Obergurgl",
+        "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Johann Tschürtz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Johann%20Tsch%C3%BCrtz",
+        "pubdate": "Sat, 18 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Giovanni Zarrella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Giovanni%20Zarrella",
         "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Hannes Androsch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hannes%20Androsch",
+        "pubdate": "Sat, 18 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Albanien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Albanien",
         "pubdate": "Sat, 18 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kroatien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kroatien",
+        "pubdate": "Sat, 18 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sam%20Altman",
         "pubdate": "Fri, 17 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Medvedev",
-        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Zverev",
-        "pubdate": "Fri, 17 Nov 2023 18:00:00 +0100"
       }
     ]
   ]
