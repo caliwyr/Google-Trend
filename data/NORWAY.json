@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2023 , 14:52:40",
+  "lastUpdate": "18-11-2023 , 15:06:38",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F1",
+        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stavås Skistad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stav%C3%A5s%20Skistad",
         "pubdate": "Fri, 17 Nov 2023 00:00:00 +0100"
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SpaceX",
+        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton",
         "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
@@ -76,13 +90,6 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
         "pubdate": "Fri, 17 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
-        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ane Brun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ane%20Brun",
         "pubdate": "Fri, 17 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ayda Field",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ayda%20Field",
-        "pubdate": "Fri, 17 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
