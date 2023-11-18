@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-11-2023 , 11:45:56",
+  "lastUpdate": "18-11-2023 , 11:55:31",
   "data": [
+    [
+      {
+        "title": "Ellen Jens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ellen%20Jens",
+        "pubdate": "Sat, 18 Nov 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Sam Altman",
@@ -26,7 +33,7 @@
       {
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
-        "pubdate": "Fri, 17 Nov 2023 09:00:00 +0100"
+        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Everton",
-        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gp Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gp%20Las%20Vegas",
-        "pubdate": "Fri, 17 Nov 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "VVV Willem II",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV%20Willem%20II",
         "pubdate": "Fri, 17 Nov 2023 22:00:00 +0100"
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "FC Den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
-        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0100"
+        "title": "Mirjam Bikker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mirjam%20Bikker",
+        "pubdate": "Fri, 17 Nov 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mirjam Bikker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mirjam%20Bikker",
-        "pubdate": "Fri, 17 Nov 2023 20:00:00 +0100"
+        "title": "FC Den Bosch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
+        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sinterklaas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinterklaas",
         "pubdate": "Mon, 13 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "STAP-budget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#STAP-budget",
+        "pubdate": "Mon, 13 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
