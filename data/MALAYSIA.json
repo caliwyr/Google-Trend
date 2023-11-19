@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-11-2023 , 19:55:03",
+  "lastUpdate": "19-11-2023 , 20:11:19",
   "data": [
-    [
-      {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cricket%20World%20Cup",
-        "pubdate": "Sun, 19 Nov 2023 19:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "India vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20vs%20Australia",
-        "pubdate": "Sun, 19 Nov 2023 12:00:00 +0800"
+        "pubdate": "Sun, 19 Nov 2023 19:00:00 +0800"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "IND vs AUS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#IND%20vs%20AUS",
+        "pubdate": "Sun, 19 Nov 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Miss Universe 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Miss%20Universe%202023",
         "pubdate": "Sun, 19 Nov 2023 01:00:00 +0800"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Germany Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Germany%20Football",
+        "title": "Germany football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Germany%20football",
         "pubdate": "Sun, 19 Nov 2023 06:00:00 +0800"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "T1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#T1",
         "pubdate": "Sun, 19 Nov 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India",
+        "pubdate": "Sun, 19 Nov 2023 11:00:00 +0800"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Las Vegas gp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Las%20Vegas%20gp",
+        "title": "Las Vegas GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Las%20Vegas%20GP",
         "pubdate": "Sun, 19 Nov 2023 12:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sam%20Altman",
         "pubdate": "Sat, 18 Nov 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tuberculosis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tuberculosis",
-        "pubdate": "Sat, 18 Nov 2023 09:00:00 +0800"
       }
     ]
   ]
