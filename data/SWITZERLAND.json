@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-11-2023 , 05:53:25",
+  "lastUpdate": "19-11-2023 , 06:10:46",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
+        "pubdate": "Sun, 19 Nov 2023 06:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Okapi",
@@ -13,6 +20,13 @@
         "title": "Matthias Reim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthias%20Reim",
         "pubdate": "Sun, 19 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Masked%20Singer",
+        "pubdate": "Sun, 19 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "Djokovic Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic%20Alcaraz",
+        "title": "Granit Xhaka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Granit%20Xhaka",
         "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz",
+        "pubdate": "Sat, 18 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "SpaceX-Rakete explodiert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SpaceX-Rakete%20explodiert",
         "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Granit Xhaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Granit%20Xhaka",
-        "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Xhaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xhaka",
-        "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Freuler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Freuler",
-        "pubdate": "Sat, 18 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
