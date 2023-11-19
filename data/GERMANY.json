@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-11-2023 , 15:55:40",
+  "lastUpdate": "19-11-2023 , 16:16:24",
   "data": [
+    [
+      {
+        "title": "Dynamo Dresden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
+        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Fussball",
@@ -13,20 +20,6 @@
         "title": "Volkstrauertag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Volkstrauertag",
         "pubdate": "Sat, 18 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Masked Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masked%20Singer",
-        "pubdate": "Sat, 18 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Länderspiele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#L%C3%A4nderspiele",
-        "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Fussball länderspiel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20l%C3%A4nderspiel",
+        "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Havertz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Havertz",
         "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "EM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EM",
+        "pubdate": "Sat, 18 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sane",
         "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland Türkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20T%C3%BCrkei",
+        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Deutschland Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20T%C3%BCrkei",
-        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
+        "title": "Fussball Deutschland Türkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20Deutschland%20T%C3%BCrkei",
+        "pubdate": "Fri, 17 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bundesverfassungsgericht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesverfassungsgericht",
         "pubdate": "Wed, 15 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hubert Seipel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hubert%20Seipel",
-        "pubdate": "Tue, 14 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Siemens Energy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Siemens%20Energy",
-        "pubdate": "Tue, 14 Nov 2023 00:00:00 +0100"
       }
     ]
   ]
