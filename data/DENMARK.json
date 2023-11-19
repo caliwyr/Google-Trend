@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-11-2023 , 17:54:03",
+  "lastUpdate": "19-11-2023 , 18:11:29",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Nicolai Højgaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicolai%20H%C3%B8jgaard",
+        "title": "Nicolai højgaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicolai%20h%C3%B8jgaard",
         "pubdate": "Sun, 19 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cricket World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cricket%20World%20Cup",
+        "pubdate": "Sun, 19 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cricket%20World%20Cup",
+        "title": "Russell Brand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Russell%20Brand",
         "pubdate": "Sun, 19 Nov 2023 16:00:00 +0100"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Will%20Smith",
-        "pubdate": "Sat, 18 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lewis%20Hamilton",
-        "pubdate": "Sat, 18 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Loungewear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Loungewear",
         "pubdate": "Sat, 18 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Will%20Smith",
+        "pubdate": "Sat, 18 Nov 2023 12:00:00 +0100"
       }
     ]
   ]
