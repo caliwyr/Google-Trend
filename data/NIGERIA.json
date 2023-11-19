@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-11-2023 , 23:50:04",
+  "lastUpdate": "19-11-2023 , 23:59:13",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Men's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Men's%20Day",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Man Utd vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd%20vs%20Man%20City",
         "pubdate": "Sun, 19 Nov 2023 18:00:00 +0100"
@@ -97,6 +90,20 @@
         "title": "Cricket World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cricket%20World%20Cup",
         "pubdate": "Sun, 19 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Spain",
+        "pubdate": "Sun, 19 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vaping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vaping",
+        "pubdate": "Sun, 19 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sam%20Altman",
         "pubdate": "Sat, 18 Nov 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liberia election results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liberia%20election%20results",
-        "pubdate": "Sat, 18 Nov 2023 04:00:00 +0100"
       }
     ]
   ]
