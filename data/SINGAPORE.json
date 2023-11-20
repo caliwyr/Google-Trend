@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 18:52:36",
+  "lastUpdate": "20-11-2023 , 19:06:30",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Microsoft 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Microsoft%20365",
+        "pubdate": "Mon, 20 Nov 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "MSFT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MSFT",
         "pubdate": "Mon, 20 Nov 2023 21:00:00 +0800"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Calendar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Calendar",
-        "pubdate": "Mon, 20 Nov 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "League of Legends",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#League%20of%20Legends",
         "pubdate": "Mon, 20 Nov 2023 03:00:00 +0800"
@@ -104,13 +104,6 @@
         "title": "Adobe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adobe",
         "pubdate": "Mon, 20 Nov 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Amazon Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amazon%20Black%20Friday",
-        "pubdate": "Mon, 20 Nov 2023 22:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
         "pubdate": "Sun, 19 Nov 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Suryakumar Yadav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Suryakumar%20Yadav",
+        "pubdate": "Sun, 19 Nov 2023 20:00:00 +0800"
       }
     ]
   ]

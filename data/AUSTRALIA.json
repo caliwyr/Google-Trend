@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 18:52:27",
+  "lastUpdate": "20-11-2023 , 19:06:22",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coldplay",
         "pubdate": "Mon, 20 Nov 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bonobo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bonobo",
+        "pubdate": "Mon, 20 Nov 2023 04:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Emmett Shear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emmett%20Shear",
         "pubdate": "Mon, 20 Nov 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Draft AFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Draft%20AFL",
-        "pubdate": "Mon, 20 Nov 2023 22:00:00 +1100"
       }
     ]
   ]
