@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "20-11-2023 , 07:59:19",
+  "lastUpdate": "20-11-2023 , 08:25:08",
   "data": [
+    [
+      {
+        "title": "Omtzigt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omtzigt",
+        "pubdate": "Mon, 20 Nov 2023 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Rosalynn Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rosalynn%20Carter",
         "pubdate": "Mon, 20 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Javier Milei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Javier%20Milei",
+        "pubdate": "Mon, 20 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Sun, 19 Nov 2023 19:00:00 +0100"
+        "title": "Verkiezingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verkiezingen",
+        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Intocht Sinterklaas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Intocht%20Sinterklaas",
-        "pubdate": "Sat, 18 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
         "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "EK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK",
+        "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Enschede",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Enschede",
         "pubdate": "Sat, 18 Nov 2023 22:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Ruud Geels overleden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ruud%20Geels%20overleden",
         "pubdate": "Sat, 18 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zwarte Piet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zwarte%20Piet",
-        "pubdate": "Sat, 18 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Qlimax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Qlimax",
-        "pubdate": "Sat, 18 Nov 2023 18:00:00 +0100"
       }
     ]
   ]
