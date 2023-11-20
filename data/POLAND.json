@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-11-2023 , 23:59:14",
+  "lastUpdate": "20-11-2023 , 01:22:59",
   "data": [
     [
       {
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Keanu%20Reeves",
         "pubdate": "Mon, 20 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Duda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda",
+        "pubdate": "Mon, 20 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,20 @@
         "title": "Venom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Venom",
         "pubdate": "Sun, 19 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Giżowska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gi%C5%BCowska",
+        "pubdate": "Sun, 19 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Siemianowice Zapadlisko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siemianowice%20Zapadlisko",
+        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "Siemianowice Zapadlisko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siemianowice%20Zapadlisko",
-        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
+        "title": "Belgia – Azerbejdżan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Belgia%20%E2%80%93%20Azerbejd%C5%BCan",
+        "pubdate": "Sun, 19 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -94,30 +115,9 @@
     ],
     [
       {
-        "title": "Worlds 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Worlds%202023",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juan Pablo Peru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Juan%20Pablo%20Peru",
-        "pubdate": "Sun, 19 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jimmy%20Carter",
         "pubdate": "Sun, 19 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Haaland",
-        "pubdate": "Sun, 19 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Belgia Azerbejdżan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Belgia%20Azerbejd%C5%BCan",
-        "pubdate": "Sun, 19 Nov 2023 20:00:00 +0100"
+        "title": "Worlds 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Worlds%202023",
+        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Giżowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gi%C5%BCowska",
-        "pubdate": "Sun, 19 Nov 2023 09:00:00 +0100"
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Haaland",
+        "pubdate": "Sun, 19 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
