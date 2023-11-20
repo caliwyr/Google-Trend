@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 22:57:49",
+  "lastUpdate": "20-11-2023 , 23:16:44",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Baboon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Baboon",
+        "pubdate": "Mon, 20 Nov 2023 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Joe Flacco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Flacco",
+        "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "MSFT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSFT",
         "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Carlton Pearson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carlton%20Pearson",
+        "pubdate": "Mon, 20 Nov 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shakira",
         "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
@@ -48,6 +69,13 @@
         "title": "Mint",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mint",
         "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Durant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20Durant",
+        "pubdate": "Mon, 20 Nov 2023 14:00:00 -0800"
       }
     ],
     [
@@ -82,7 +110,14 @@
       {
         "title": "Cricket World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cricket%20World%20Cup",
-        "pubdate": "Sun, 19 Nov 2023 04:00:00 -0800"
+        "pubdate": "Sun, 19 Nov 2023 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Javier Milei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Javier%20Milei",
+        "pubdate": "Sun, 19 Nov 2023 17:00:00 -0800"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Javier%20Milei",
-        "pubdate": "Sun, 19 Nov 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Suki Waterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suki%20Waterhouse",
         "pubdate": "Sun, 19 Nov 2023 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Vikings vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings%20vs%20Broncos",
-        "pubdate": "Sun, 19 Nov 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Miami Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Dolphins",
-        "pubdate": "Sun, 19 Nov 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Buccaneers vs 49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buccaneers%20vs%2049ers",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Panthers",
-        "pubdate": "Sun, 19 Nov 2023 11:00:00 -0800"
       }
     ]
   ]
