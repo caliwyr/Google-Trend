@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 01:22:52",
+  "lastUpdate": "20-11-2023 , 02:07:28",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "BELGIË-AZERBEIDZJAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BELGI%C3%8B-AZERBEIDZJAN",
+        "title": "België-Azerbeidzjan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgi%C3%AB-Azerbeidzjan",
         "pubdate": "Sun, 19 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Napoleon film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoleon%20film",
+        "pubdate": "Sun, 19 Nov 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Napoleon film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoleon%20film",
-        "pubdate": "Sun, 19 Nov 2023 07:00:00 +0100"
+        "title": "EK-kwalificatie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EK-kwalificatie",
+        "pubdate": "Sun, 19 Nov 2023 02:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Melanie Martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Melanie%20Martinez",
         "pubdate": "Sun, 19 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haaland",
-        "pubdate": "Sun, 19 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
