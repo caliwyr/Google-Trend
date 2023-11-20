@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 12:47:54",
+  "lastUpdate": "20-11-2023 , 13:08:55",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Miss Universe 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Miss%20Universe%202023",
-        "pubdate": "Sat, 18 Nov 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "France vs Gibraltar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France%20vs%20Gibraltar",
         "pubdate": "Sat, 18 Nov 2023 22:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France",
-        "pubdate": "Sat, 18 Nov 2023 23:00:00 +0200"
+        "title": "Miss Universe 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Miss%20Universe%202023",
+        "pubdate": "Sat, 18 Nov 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20Las%20Vegas",
+        "pubdate": "Sat, 18 Nov 2023 05:00:00 +0200"
       }
     ]
   ]
