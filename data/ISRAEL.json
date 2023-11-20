@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 21:57:37",
+  "lastUpdate": "20-11-2023 , 22:15:26",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#BBC",
+        "pubdate": "Mon, 20 Nov 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "מי כרמל",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%20%D7%9B%D7%A8%D7%9E%D7%9C",
         "pubdate": "Mon, 20 Nov 2023 18:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "מייבש כביסה",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%99%D7%91%D7%A9%20%D7%9B%D7%91%D7%99%D7%A1%D7%94",
         "pubdate": "Mon, 20 Nov 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "רוני דלומי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%A0%D7%99%20%D7%93%D7%9C%D7%95%D7%9E%D7%99",
-        "pubdate": "Mon, 20 Nov 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "דביר ברזני",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%91%D7%99%D7%A8%20%D7%91%D7%A8%D7%96%D7%A0%D7%99",
-        "pubdate": "Sun, 19 Nov 2023 10:00:00 +0200"
+        "title": "רועי ביבר",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%A2%D7%99%20%D7%91%D7%99%D7%91%D7%A8",
+        "pubdate": "Sun, 19 Nov 2023 07:00:00 +0200"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "ליאל חצרוני",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%90%D7%9C%20%D7%97%D7%A6%D7%A8%D7%95%D7%A0%D7%99",
         "pubdate": "Sun, 19 Nov 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "אדיר פורטוגל",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%93%D7%99%D7%A8%20%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%9C",
+        "pubdate": "Sun, 19 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "אבו מאזן",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%91%D7%95%20%D7%9E%D7%90%D7%96%D7%9F",
         "pubdate": "Sun, 19 Nov 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "צרפת",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%A8%D7%A4%D7%AA",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0200"
       }
     ]
   ]
