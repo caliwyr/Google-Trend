@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 14:57:30",
+  "lastUpdate": "20-11-2023 , 15:17:12",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Suki Waterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Suki%20Waterhouse",
         "pubdate": "Mon, 20 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Microsoft%20stock",
+        "pubdate": "Mon, 20 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "ERLING Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ERLING%20Haaland",
-        "pubdate": "Mon, 20 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kick",
         "pubdate": "Mon, 20 Nov 2023 11:00:00 +0100"
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "The Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Rock",
+        "title": "The rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20rock",
         "pubdate": "Mon, 20 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Erling Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Erling%20Haaland",
+        "pubdate": "Mon, 20 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Molly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Molly",
         "pubdate": "Sun, 19 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Helm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Helm",
-        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
