@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 16:53:26",
+  "lastUpdate": "20-11-2023 , 17:06:54",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "Black Friday specials",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Friday%20specials",
-        "pubdate": "Mon, 20 Nov 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Black Friday deals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Friday%20deals",
         "pubdate": "Mon, 20 Nov 2023 16:00:00 +0200"
       }
     ],
@@ -34,6 +27,13 @@
         "title": "Poetry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Poetry",
         "pubdate": "Mon, 20 Nov 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Black Friday deals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Friday%20deals",
+        "pubdate": "Mon, 20 Nov 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "F1 results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20results",
-        "pubdate": "Sun, 19 Nov 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Heatwave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Heatwave",
         "pubdate": "Sun, 19 Nov 2023 23:00:00 +0200"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "AHMEDABAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AHMEDABAD",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 +0200"
+        "title": "F1 results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20results",
+        "pubdate": "Sun, 19 Nov 2023 18:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "SAMA#29",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SAMA%2329",
-        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0200"
+        "title": "Cricket World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
+        "pubdate": "Sat, 18 Nov 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
-        "pubdate": "Sat, 18 Nov 2023 23:00:00 +0200"
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20Australia",
+        "pubdate": "Sat, 18 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Register to vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Register%20to%20vote",
+        "pubdate": "Sat, 18 Nov 2023 07:00:00 +0200"
       }
     ]
   ]
