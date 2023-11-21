@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-11-2023 , 23:47:28",
+  "lastUpdate": "21-11-2023 , 23:57:49",
   "data": [
+    [
+      {
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Davis Cup",
@@ -13,6 +20,13 @@
         "title": "Otto Virtanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Otto%20Virtanen",
         "pubdate": "Tue, 21 Nov 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Davis Cup 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Davis%20Cup%202023",
+        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "KSS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KSS",
         "pubdate": "Mon, 20 Nov 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gavi",
-        "pubdate": "Mon, 20 Nov 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bonobo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bonobo",
-        "pubdate": "Mon, 20 Nov 2023 21:00:00 +0200"
       }
     ]
   ]

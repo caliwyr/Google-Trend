@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-11-2023 , 23:47:31",
+  "lastUpdate": "21-11-2023 , 23:57:52",
   "data": [
+    [
+      {
+        "title": "Gulch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gulch",
+        "pubdate": "Wed, 22 Nov 2023 07:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Craven",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Etihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Etihad",
-        "pubdate": "Wed, 22 Nov 2023 08:00:00 +1300"
+        "title": "Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clark",
+        "pubdate": "Wed, 22 Nov 2023 10:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clark",
-        "pubdate": "Wed, 22 Nov 2023 10:00:00 +1300"
+        "title": "Etihad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Etihad",
+        "pubdate": "Wed, 22 Nov 2023 08:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tamarind",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tamarind",
         "pubdate": "Mon, 20 Nov 2023 07:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Disney cruise nz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Disney%20cruise%20nz",
-        "pubdate": "Mon, 20 Nov 2023 19:00:00 +1300"
       }
     ]
   ]
