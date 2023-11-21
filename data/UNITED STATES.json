@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-11-2023 , 03:53:58",
+  "lastUpdate": "21-11-2023 , 04:12:24",
   "data": [
     [
       {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#OpenAI",
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20stock",
         "pubdate": "Mon, 20 Nov 2023 02:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kelce brothers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kelce%20brothers",
+        "pubdate": "Mon, 20 Nov 2023 19:00:00 -0800"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Maui Invitational",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maui%20Invitational",
+        "pubdate": "Mon, 20 Nov 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "MSFT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSFT",
         "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "USMNT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USMNT",
+        "pubdate": "Mon, 20 Nov 2023 17:00:00 -0800"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "USMNT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USMNT",
-        "pubdate": "Mon, 20 Nov 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "President Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#President%20Biden",
         "pubdate": "Mon, 20 Nov 2023 11:00:00 -0800"
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "Mint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mint",
-        "pubdate": "Mon, 20 Nov 2023 09:00:00 -0800"
+        "title": "Kentucky basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball",
+        "pubdate": "Mon, 20 Nov 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "A.J. Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#A.J.%20Brown",
+        "pubdate": "Mon, 20 Nov 2023 18:00:00 -0800"
       }
     ],
     [
@@ -82,20 +103,6 @@
       {
         "title": "Aquaman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aquaman",
-        "pubdate": "Mon, 20 Nov 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Syracuse basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Syracuse%20basketball",
-        "pubdate": "Mon, 20 Nov 2023 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "A.J. Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#A.J.%20Brown",
         "pubdate": "Mon, 20 Nov 2023 18:00:00 -0800"
       }
     ],
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Carter",
-        "pubdate": "Sun, 19 Nov 2023 14:00:00 -0800"
+        "title": "Cavs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavs",
+        "pubdate": "Mon, 20 Nov 2023 07:00:00 -0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
-        "pubdate": "Sun, 19 Nov 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lions",
-        "pubdate": "Sun, 19 Nov 2023 11:00:00 -0800"
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Carter",
+        "pubdate": "Sun, 19 Nov 2023 14:00:00 -0800"
       }
     ]
   ]
