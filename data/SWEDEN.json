@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2023 , 10:59:04",
+  "lastUpdate": "21-11-2023 , 11:15:36",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Joss Ackland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joss%20Ackland",
         "pubdate": "Mon, 20 Nov 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lasse Berghagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lasse%20Berghagen",
-        "pubdate": "Mon, 20 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Salming",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Salming",
+        "pubdate": "Sun, 19 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jesper Parnevik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jesper%20Parnevik",
         "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Börje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%B6rje",
-        "pubdate": "Sun, 19 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Färjestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
         "pubdate": "Sun, 19 Nov 2023 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Birka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Birka",
         "pubdate": "Sun, 19 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Autism",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Autism",
+        "pubdate": "Sun, 19 Nov 2023 11:00:00 +0100"
       }
     ]
   ]
