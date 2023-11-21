@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2023 , 09:48:00",
+  "lastUpdate": "21-11-2023 , 10:03:34",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "England football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20football",
+        "title": "England Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20Football",
         "pubdate": "Tue, 21 Nov 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Jackie O",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jackie%20O",
+        "pubdate": "Tue, 21 Nov 2023 18:00:00 +1100"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Jackie O",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jackie%20O",
+        "title": "Prince Edward",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prince%20Edward",
         "pubdate": "Tue, 21 Nov 2023 18:00:00 +1100"
       }
     ],
@@ -38,30 +45,9 @@
     ],
     [
       {
-        "title": "Prince Edward",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prince%20Edward",
-        "pubdate": "Tue, 21 Nov 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Ted Hopkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ted%20Hopkins",
         "pubdate": "Tue, 21 Nov 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shakira",
-        "pubdate": "Tue, 21 Nov 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Biden",
-        "pubdate": "Tue, 21 Nov 2023 13:00:00 +1100"
       }
     ],
     [
@@ -73,6 +59,13 @@
     ],
     [
       {
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shakira",
+        "pubdate": "Tue, 21 Nov 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Vogue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vogue",
         "pubdate": "Tue, 21 Nov 2023 14:00:00 +1100"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Michael Slater",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Slater",
-        "pubdate": "Tue, 21 Nov 2023 19:00:00 +1100"
+        "title": "Ashton Moir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashton%20Moir",
+        "pubdate": "Tue, 21 Nov 2023 10:00:00 +1100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Suki Waterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Suki%20Waterhouse",
+        "pubdate": "Mon, 20 Nov 2023 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sports",
         "pubdate": "Mon, 20 Nov 2023 14:00:00 +1100"
       }
     ]
