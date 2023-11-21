@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 23:54:58",
+  "lastUpdate": "21-11-2023 , 00:55:00",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Promi Big Brother",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Promi%20Big%20Brother",
+        "pubdate": "Mon, 20 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kurschus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kurschus",
         "pubdate": "Mon, 20 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sam%20Altman",
+        "pubdate": "Mon, 20 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Real",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real",
+        "title": "Real Märkte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20M%C3%A4rkte",
         "pubdate": "Mon, 20 Nov 2023 22:00:00 +0100"
       }
     ],
@@ -52,9 +66,16 @@
     ],
     [
       {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OpenAI",
-        "pubdate": "Mon, 20 Nov 2023 19:00:00 +0100"
+        "title": "Im Westen nichts Neues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Im%20Westen%20nichts%20Neues",
+        "pubdate": "Mon, 20 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Habeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Habeck",
+        "pubdate": "Mon, 20 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Fri, 17 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
-        "pubdate": "Fri, 17 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
-        "pubdate": "Fri, 17 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Starship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Starship",
-        "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
