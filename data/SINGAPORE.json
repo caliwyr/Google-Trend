@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2023 , 01:57:50",
+  "lastUpdate": "21-11-2023 , 02:31:49",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Raffles Town Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Raffles%20Town%20Club",
-        "pubdate": "Mon, 20 Nov 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Javier Milei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Javier%20Milei",
         "pubdate": "Mon, 20 Nov 2023 13:00:00 +0800"
@@ -69,6 +62,13 @@
         "title": "MSFT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MSFT",
         "pubdate": "Mon, 20 Nov 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Adobe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adobe",
+        "pubdate": "Mon, 20 Nov 2023 16:00:00 +0800"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Optus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Optus",
-        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Thanksgiving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving",
         "pubdate": "Mon, 20 Nov 2023 15:00:00 +0800"
@@ -108,15 +101,22 @@
     ],
     [
       {
-        "title": "Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia",
-        "pubdate": "Mon, 20 Nov 2023 16:00:00 +0800"
+        "title": "Optus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Optus",
+        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Adobe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adobe",
+        "title": "Calendar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Calendar",
+        "pubdate": "Mon, 20 Nov 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia",
         "pubdate": "Mon, 20 Nov 2023 16:00:00 +0800"
       }
     ],
