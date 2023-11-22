@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 15:56:44",
+  "lastUpdate": "22-11-2023 , 16:18:56",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sports",
-        "pubdate": "Wed, 22 Nov 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Squid Game Season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Squid%20Game%20Season%202",
         "pubdate": "Wed, 22 Nov 2023 16:00:00 +0800"
@@ -41,6 +34,13 @@
         "title": "Vichitra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vichitra",
         "pubdate": "Wed, 22 Nov 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sports",
+        "pubdate": "Wed, 22 Nov 2023 11:00:00 +0800"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "ADHD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ADHD",
-        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dhruva Natchathiram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dhruva%20Natchathiram",
         "pubdate": "Wed, 22 Nov 2023 13:00:00 +0800"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Thailand football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thailand%20football",
-        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0800"
+        "title": "ADHD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ADHD",
+        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia",
         "pubdate": "Tue, 21 Nov 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "North Macedonia vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#North%20Macedonia%20vs%20England",
+        "pubdate": "Tue, 21 Nov 2023 04:00:00 +0800"
       }
     ]
   ]
