@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-11-2023 , 14:49:19",
+  "lastUpdate": "22-11-2023 , 14:58:46",
   "data": [
     [
       {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia",
         "pubdate": "Thu, 23 Nov 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Fire Perth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fire%20Perth",
+        "pubdate": "Wed, 22 Nov 2023 18:00:00 +1100"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Fire Perth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fire%20Perth",
-        "pubdate": "Wed, 22 Nov 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Squid Game Season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Squid%20Game%20Season%202",
         "pubdate": "Wed, 22 Nov 2023 19:00:00 +1100"
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clark",
-        "pubdate": "Wed, 22 Nov 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Matt Rife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Rife",
         "pubdate": "Wed, 22 Nov 2023 00:00:00 +1100"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "WBBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WBBL",
-        "pubdate": "Wed, 22 Nov 2023 00:00:00 +1100"
+        "title": "Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clark",
+        "pubdate": "Wed, 22 Nov 2023 08:00:00 +1100"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Pass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pass",
-        "pubdate": "Wed, 22 Nov 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Susan Sarandon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Susan%20Sarandon",
         "pubdate": "Wed, 22 Nov 2023 17:00:00 +1100"
@@ -129,9 +115,9 @@
     ],
     [
       {
-        "title": "Annabel Giles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Annabel%20Giles",
-        "pubdate": "Wed, 22 Nov 2023 15:00:00 +1100"
+        "title": "Pass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pass",
+        "pubdate": "Wed, 22 Nov 2023 12:00:00 +1100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Matt Wright",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Wright",
         "pubdate": "Wed, 22 Nov 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Gina Rinehart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gina%20Rinehart",
+        "pubdate": "Wed, 22 Nov 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Respiratory illness dogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Respiratory%20illness%20dogs",
+        "pubdate": "Wed, 22 Nov 2023 10:00:00 +1100"
       }
     ]
   ]
