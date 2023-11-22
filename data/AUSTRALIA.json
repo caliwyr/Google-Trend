@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 16:54:37",
+  "lastUpdate": "22-11-2023 , 17:10:29",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Fargo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fargo",
-        "pubdate": "Wed, 22 Nov 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Leo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leo",
         "pubdate": "Wed, 22 Nov 2023 15:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Respiratory illness dogs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Respiratory%20illness%20dogs",
         "pubdate": "Wed, 22 Nov 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Google Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Google%20Bard",
+        "pubdate": "Wed, 22 Nov 2023 15:00:00 +1100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 16:54:46",
+  "lastUpdate": "22-11-2023 , 17:10:36",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Rec Solar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rec%20Solar",
         "pubdate": "Wed, 22 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Binance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Binance",
+        "pubdate": "Wed, 22 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Sibbe fra Sandnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sibbe%20fra%20Sandnes",
-        "pubdate": "Tue, 21 Nov 2023 13:00:00 +0100"
+        "title": "Kristian Valen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
+        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PCOS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PCOS",
         "pubdate": "Mon, 20 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Raymond Johansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raymond%20Johansen",
-        "pubdate": "Mon, 20 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
