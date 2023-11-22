@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 10:53:46",
+  "lastUpdate": "22-11-2023 , 11:08:09",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "EA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#EA",
+        "title": "Ea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ea",
         "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Posiedzenie Sejmu 21 listopada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Posiedzenie%20Sejmu%2021%20listopada",
+        "pubdate": "Tue, 21 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dzień Pracownika Socjalnego",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Pracownika%20Socjalnego",
         "pubdate": "Tue, 21 Nov 2023 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Andrzej Gołota",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Go%C5%82ota",
         "pubdate": "Tue, 21 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KPO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KPO",
-        "pubdate": "Tue, 21 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
