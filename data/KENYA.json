@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-11-2023 , 13:48:35",
+  "lastUpdate": "22-11-2023 , 13:57:52",
   "data": [
     [
       {
         "title": "Argentina FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina%20FC",
         "pubdate": "Wed, 22 Nov 2023 06:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil",
+        "pubdate": "Wed, 22 Nov 2023 05:00:00 +0300"
       }
     ],
     [
@@ -34,20 +41,6 @@
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
         "pubdate": "Wed, 22 Nov 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ecuador vs Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ecuador%20vs%20Chile",
-        "pubdate": "Wed, 22 Nov 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Peru vs Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Peru%20vs%20Venezuela",
-        "pubdate": "Wed, 22 Nov 2023 07:00:00 +0300"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Africa World Cup qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Africa%20World%20Cup%20qualifiers",
+        "pubdate": "Tue, 21 Nov 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Wales vs Turkey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wales%20vs%20Turkey",
         "pubdate": "Tue, 21 Nov 2023 15:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Africa World Cup qualifiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Africa%20World%20Cup%20qualifiers",
-        "pubdate": "Tue, 21 Nov 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Somalia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Somalia",
         "pubdate": "Tue, 21 Nov 2023 22:00:00 +0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "African World Cup qualifiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#African%20World%20Cup%20qualifiers",
-        "pubdate": "Tue, 21 Nov 2023 10:00:00 +0300"
+        "title": "Brazil vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil%20vs%20Argentina",
+        "pubdate": "Mon, 20 Nov 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Harambee Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Harambee%20Stars",
+        "pubdate": "Mon, 20 Nov 2023 21:00:00 +0300"
       }
     ]
   ]
