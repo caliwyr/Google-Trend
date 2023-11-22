@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 09:58:04",
+  "lastUpdate": "22-11-2023 , 10:19:30",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Välkommen till Köping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4lkommen%20till%20K%C3%B6ping",
+        "pubdate": "Tue, 21 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Smörlyckan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sm%C3%B6rlyckan",
         "pubdate": "Tue, 21 Nov 2023 18:00:00 +0100"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Smörlyckan Lund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sm%C3%B6rlyckan%20Lund",
-        "pubdate": "Tue, 21 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Christopher O'Regan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christopher%20O'Regan",
         "pubdate": "Tue, 21 Nov 2023 18:00:00 +0100"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Jayden Halbgewachs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jayden%20Halbgewachs",
-        "pubdate": "Tue, 21 Nov 2023 19:00:00 +0100"
+        "title": "Squid Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Squid%20Game",
+        "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Squid%20Game",
-        "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
+        "title": "Jayden Halbgewachs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jayden%20Halbgewachs",
+        "pubdate": "Tue, 21 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gavi",
-        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0100"
+        "title": "Barnkonventionen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barnkonventionen",
+        "pubdate": "Mon, 20 Nov 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Mon, 20 Nov 2023 10:00:00 +0100"
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gavi",
+        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
