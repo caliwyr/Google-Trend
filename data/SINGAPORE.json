@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 05:57:11",
+  "lastUpdate": "22-11-2023 , 06:20:33",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "PSLE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSLE",
-        "pubdate": "Wed, 22 Nov 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Brazil vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil%20vs%20Argentina",
         "pubdate": "Tue, 21 Nov 2023 21:00:00 +0800"
@@ -41,13 +34,6 @@
         "title": "India vs Qatar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20Qatar",
         "pubdate": "Tue, 21 Nov 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Singapore Thailand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Thailand",
-        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0800"
       }
     ],
     [
@@ -101,16 +87,16 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gavi",
-        "pubdate": "Mon, 20 Nov 2023 20:00:00 +0800"
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving",
+        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving",
-        "pubdate": "Mon, 20 Nov 2023 15:00:00 +0800"
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gavi",
+        "pubdate": "Mon, 20 Nov 2023 20:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Cricket World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket%20World%20Cup",
         "pubdate": "Sun, 19 Nov 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sports",
+        "pubdate": "Sun, 19 Nov 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
+        "pubdate": "Sun, 19 Nov 2023 12:00:00 +0800"
       }
     ]
   ]
