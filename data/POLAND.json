@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "22-11-2023 , 02:55:19",
+  "lastUpdate": "22-11-2023 , 03:12:59",
   "data": [
     [
       {
-        "title": "Young Leosia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Young%20Leosia",
+        "title": "EA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#EA",
+        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Katarzyna Kasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Kasia",
         "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -13,13 +20,6 @@
         "title": "Włodzimierz Musiał",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#W%C5%82odzimierz%20Musia%C5%82",
         "pubdate": "Wed, 22 Nov 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Justyna Suchecka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Justyna%20Suchecka",
-        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -41,20 +41,6 @@
         "title": "Marcin Bułka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Bu%C5%82ka",
         "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bambi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bambi",
-        "pubdate": "Tue, 21 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Imieniny janusza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imieniny%20janusza",
-        "pubdate": "Tue, 21 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -101,13 +87,6 @@
     ],
     [
       {
-        "title": "Chorwacja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chorwacja",
-        "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "KPO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KPO",
         "pubdate": "Tue, 21 Nov 2023 14:00:00 +0100"
@@ -122,6 +101,13 @@
     ],
     [
       {
+        "title": "Lanberry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lanberry",
+        "pubdate": "Tue, 21 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Czechy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czechy",
         "pubdate": "Tue, 21 Nov 2023 00:00:00 +0100"
@@ -129,8 +115,8 @@
     ],
     [
       {
-        "title": "Andrzej Gołota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Go%C5%82ota",
+        "title": "Imieniny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imieniny",
         "pubdate": "Tue, 21 Nov 2023 20:00:00 +0100"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Szczęsny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szcz%C4%99sny",
         "pubdate": "Tue, 21 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arkady Wrocławskie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arkady%20Wroc%C5%82awskie",
+        "pubdate": "Tue, 21 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anglia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anglia",
+        "pubdate": "Tue, 21 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
