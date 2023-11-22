@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 21:45:39",
+  "lastUpdate": "22-11-2023 , 21:54:31",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Vinnie Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vinnie%20Jones",
         "pubdate": "Wed, 22 Nov 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Five Guys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Five%20Guys",
+        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Five Guys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Five%20Guys",
+        "title": "De Minaur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#De%20Minaur",
         "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -69,13 +76,6 @@
         "title": "Die Antwoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Die%20Antwoord",
         "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De Minaur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#De%20Minaur",
-        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Wellington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wellington",
+        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dr. Victor Chang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dr.%20Victor%20Chang",
         "pubdate": "Tue, 21 Nov 2023 01:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "OpenAI Sam Altman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OpenAI%20Sam%20Altman",
+        "pubdate": "Tue, 21 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Martin Charvát",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Charv%C3%A1t",
         "pubdate": "Tue, 21 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Binance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Binance",
-        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jiří Pavlica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Pavlica",
-        "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-11-2023 , 21:45:40",
+  "lastUpdate": "22-11-2023 , 21:54:32",
   "data": [
-    [
-      {
-        "title": "Köln 50667",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%2050667",
-        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "John F. Kennedy",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Köln 50667",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%2050667",
+        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Türkei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei",
         "pubdate": "Wed, 22 Nov 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Geert%20Wilders",
+        "pubdate": "Wed, 22 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Österreich : Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich%20:%20Deutschland",
-        "pubdate": "Tue, 21 Nov 2023 00:00:00 +0100"
+        "title": "DFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
+        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Haushaltssperre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haushaltssperre",
         "pubdate": "Tue, 21 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nationalmannschaft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nationalmannschaft",
-        "pubdate": "Tue, 21 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "U21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U21",
-        "pubdate": "Tue, 21 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia",
         "pubdate": "Tue, 21 Nov 2023 23:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bayer-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer-Aktie",
         "pubdate": "Mon, 20 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Javier Milei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Javier%20Milei",
+        "pubdate": "Mon, 20 Nov 2023 06:00:00 +0100"
       }
     ]
   ]
