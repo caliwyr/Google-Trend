@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 18:51:51",
+  "lastUpdate": "23-11-2023 , 19:03:13",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Thanksgiving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Thanksgiving",
         "pubdate": "Thu, 23 Nov 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving Day in USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Thanksgiving%20Day%20in%20USA",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Thanksgiving message",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Thanksgiving%20message",
         "pubdate": "Thu, 23 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "When is Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#When%20is%20Thanksgiving",
-        "pubdate": "Thu, 23 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
+        "pubdate": "Wed, 22 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France",
         "pubdate": "Wed, 22 Nov 2023 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Ice Spice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ice%20Spice",
         "pubdate": "Tue, 21 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sam Altman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sam%20Altman",
-        "pubdate": "Tue, 21 Nov 2023 06:00:00 +0100"
       }
     ]
   ]
