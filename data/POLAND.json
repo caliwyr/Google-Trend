@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-11-2023 , 11:52:22",
+  "lastUpdate": "23-11-2023 , 12:12:25",
   "data": [
+    [
+      {
+        "title": "Morawiecki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morawiecki",
+        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tadeusz Sznuk",
@@ -13,6 +20,13 @@
         "title": "Hanna Gucwińska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hanna%20Gucwi%C5%84ska",
         "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andrzej Łukawski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20%C5%81ukawski",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Maciej Kozłowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Koz%C5%82owski",
         "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Justyna Suchecka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Justyna%20Suchecka",
-        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Melissa Barrera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Melissa%20Barrera",
-        "pubdate": "Wed, 22 Nov 2023 15:00:00 +0100"
       }
     ]
   ]
