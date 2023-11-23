@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-11-2023 , 22:44:53",
+  "lastUpdate": "23-11-2023 , 22:54:14",
   "data": [
+    [
+      {
+        "title": "Dublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dublin",
+        "pubdate": "Fri, 24 Nov 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Vlad Voiculescu",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Caran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caran",
-        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0200"
+        "title": "Gaudeamus 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gaudeamus%202023",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ana Baniciu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Baniciu",
-        "pubdate": "Thu, 23 Nov 2023 23:00:00 +0200"
+        "title": "Caran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caran",
+        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Marcel Ciolacu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marcel%20Ciolacu",
-        "pubdate": "Thu, 23 Nov 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Qatar Airways",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Qatar%20Airways",
         "pubdate": "Thu, 23 Nov 2023 23:00:00 +0200"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "FC arges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20arges",
+        "title": "Fc arges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fc%20arges",
         "pubdate": "Thu, 23 Nov 2023 23:00:00 +0200"
       }
     ],
@@ -97,13 +97,6 @@
         "title": "Argentina Brazilia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina%20Brazilia",
         "pubdate": "Wed, 22 Nov 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andra",
-        "pubdate": "Wed, 22 Nov 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gaudeamus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gaudeamus",
         "pubdate": "Wed, 22 Nov 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Satoshi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Satoshi",
+        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0200"
       }
     ]
   ]
