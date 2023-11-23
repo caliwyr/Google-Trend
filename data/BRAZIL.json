@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2023 , 23:51:01",
+  "lastUpdate": "23-11-2023 , 00:00:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina",
         "pubdate": "Wed, 22 Nov 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
+        "pubdate": "Wed, 22 Nov 2023 06:00:00 -0500"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Greve Correios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Greve%20Correios",
+        "title": "Round 6",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Round%206",
         "pubdate": "Wed, 22 Nov 2023 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Fluminense x São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x%20S%C3%A3o%20Paulo",
-        "pubdate": "Wed, 22 Nov 2023 06:00:00 -0500"
+        "title": "Cruzeiro esporte clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro%20esporte%20clube",
+        "pubdate": "Wed, 22 Nov 2023 18:00:00 -0500"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Santa cecilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20cecilia",
-        "pubdate": "Wed, 22 Nov 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Villarreal",
         "pubdate": "Wed, 22 Nov 2023 14:00:00 -0500"
@@ -94,9 +94,16 @@
     ],
     [
       {
-        "title": "Round 6: O Desafio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Round%206:%20O%20Desafio",
-        "pubdate": "Wed, 22 Nov 2023 12:00:00 -0500"
+        "title": "Santa cecilia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20cecilia",
+        "pubdate": "Wed, 22 Nov 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Resultado da federal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20da%20federal",
+        "pubdate": "Wed, 22 Nov 2023 18:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Adam Sandler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Adam%20Sandler",
         "pubdate": "Wed, 22 Nov 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Scaloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Scaloni",
-        "pubdate": "Wed, 22 Nov 2023 10:00:00 -0500"
       }
     ]
   ]
