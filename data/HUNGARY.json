@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 15:45:02",
+  "lastUpdate": "23-11-2023 , 15:54:32",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Ceausescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ceausescu",
+        "pubdate": "Thu, 23 Nov 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Szaloncukor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szaloncukor",
         "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Harmadik világháború",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harmadik%20vil%C3%A1gh%C3%A1bor%C3%BA",
+        "pubdate": "Thu, 23 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kern András",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kern%20Andr%C3%A1s",
         "pubdate": "Thu, 23 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kepes András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kepes%20Andr%C3%A1s",
+        "pubdate": "Thu, 23 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -87,16 +108,9 @@
     ],
     [
       {
-        "title": "Ady Endre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ady%20Endre",
-        "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kennedy",
-        "pubdate": "Wed, 22 Nov 2023 20:00:00 +0100"
+        "title": "Észak-Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-Korea",
+        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Mick Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mick%20Schumacher",
         "pubdate": "Wed, 22 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Észak-Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-Korea",
-        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -124,13 +131,6 @@
       {
         "title": "Halálos baleset Nádudvaron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20baleset%20N%C3%A1dudvaron",
-        "pubdate": "Wed, 22 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Squid%20Game",
         "pubdate": "Wed, 22 Nov 2023 18:00:00 +0100"
       }
     ],
