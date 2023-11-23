@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 13:46:23",
+  "lastUpdate": "23-11-2023 , 13:55:57",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Grand Corps Malade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Corps%20Malade",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pieter Omtzigt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pieter%20Omtzigt",
         "pubdate": "Thu, 23 Nov 2023 08:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Grand Corps Malade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Corps%20Malade",
-        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
+        "title": "Julien Uyttendaele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julien%20Uyttendaele",
+        "pubdate": "Thu, 23 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Dilan Yesilgoz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dilan%20Yesilgoz",
+        "title": "Dilan yesilgoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dilan%20yesilgoz",
         "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Squid Game: The Challenge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Squid%20Game:%20The%20Challenge",
-        "pubdate": "Wed, 22 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Squid%20Game",
         "pubdate": "Wed, 22 Nov 2023 20:00:00 +0100"
       }
     ]

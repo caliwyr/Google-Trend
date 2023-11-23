@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 13:46:23",
+  "lastUpdate": "23-11-2023 , 13:55:57",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+        "pubdate": "Thu, 23 Nov 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "IND vs AUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IND%20vs%20AUS",
         "pubdate": "Thu, 23 Nov 2023 03:00:00 -0500"
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Canucks vs Avalanche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Avalanche",
+        "pubdate": "Thu, 23 Nov 2023 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Happy Thanksgiving!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Thanksgiving!",
         "pubdate": "Thu, 23 Nov 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cale Makar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cale%20Makar",
+        "pubdate": "Thu, 23 Nov 2023 06:00:00 -0500"
       }
     ],
     [
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "Chen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chen",
-        "pubdate": "Wed, 22 Nov 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Peace Bridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Peace%20Bridge",
         "pubdate": "Wed, 22 Nov 2023 15:00:00 -0500"
@@ -76,13 +90,6 @@
         "title": "Squid Game: The Challenge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Squid%20Game:%20The%20Challenge",
         "pubdate": "Wed, 22 Nov 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "JFK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JFK",
-        "pubdate": "Wed, 22 Nov 2023 08:00:00 -0500"
       }
     ],
     [
@@ -101,8 +108,22 @@
     ],
     [
       {
+        "title": "JFK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JFK",
+        "pubdate": "Wed, 22 Nov 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Raptors vs Pacers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Pacers",
+        "pubdate": "Wed, 22 Nov 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Hall and Oates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hall%20and%20Oates",
         "pubdate": "Wed, 22 Nov 2023 21:00:00 -0500"
       }
     ],
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Hall and Oates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hall%20and%20Oates",
-        "pubdate": "Wed, 22 Nov 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "News today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#News%20today",
         "pubdate": "Wed, 22 Nov 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jim Irsay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jim%20Irsay",
-        "pubdate": "Wed, 22 Nov 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Larry Summers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Larry%20Summers",
-        "pubdate": "Wed, 22 Nov 2023 10:00:00 -0500"
       }
     ]
   ]

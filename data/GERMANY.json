@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 13:46:26",
+  "lastUpdate": "23-11-2023 , 13:56:00",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "China Lungenentzündung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#China%20Lungenentz%C3%BCndung",
-        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
+        "title": "Lungenentzündungen China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lungenentz%C3%BCndungen%20China",
+        "pubdate": "Thu, 23 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kennedy",
+        "title": "Sam Altman OpenAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sam%20Altman%20OpenAI",
         "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Squid%20Game",
-        "pubdate": "Wed, 22 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -69,13 +62,6 @@
         "title": "OpenAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OpenAI",
         "pubdate": "Tue, 21 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Binance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Binance",
-        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Deutschland Türkei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20T%C3%BCrkei",
         "pubdate": "Fri, 17 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland gegen Türkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20gegen%20T%C3%BCrkei",
+        "pubdate": "Fri, 17 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Fri, 17 Nov 2023 10:00:00 +0100"
       }
     ]
   ]
