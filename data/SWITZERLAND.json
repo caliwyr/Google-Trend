@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "23-11-2023 , 05:48:34",
+  "lastUpdate": "23-11-2023 , 05:57:53",
   "data": [
     [
       {
         "title": "LHC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
+        "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sheila Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sheila%20Kennedy",
         "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Geert%20Wilders",
+        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Banksy",
         "pubdate": "Wed, 22 Nov 2023 08:00:00 +0100"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Geert Wilders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Geert%20Wilders",
-        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
+        "title": "Ridley Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ridley%20Scott",
+        "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Binance CEO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Binance%20CEO",
-        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jackie Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jackie%20Kennedy",
         "pubdate": "Wed, 22 Nov 2023 18:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Yakin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yakin",
-        "pubdate": "Wed, 22 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sam Altman OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sam%20Altman%20OpenAI",
-        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
+        "title": "Binance CEO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Binance%20CEO",
+        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
       }
     ]
   ]
