@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-11-2023 , 17:49:58",
+  "lastUpdate": "23-11-2023 , 17:59:12",
   "data": [
-    [
-      {
-        "title": "Nu.nl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nu.nl",
-        "pubdate": "Thu, 23 Nov 2023 06:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Radio 1",
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "NOS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NOS",
+        "title": "Uitslag verkiezingen 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Uitslag%20verkiezingen%202023",
         "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pieter Omtzigt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
-        "pubdate": "Wed, 22 Nov 2023 12:00:00 +0100"
+        "title": "NOS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NOS",
+        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "CDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CDA",
-        "pubdate": "Wed, 22 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "BBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBB",
         "pubdate": "Wed, 22 Nov 2023 08:00:00 +0100"
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Uitslag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Uitslag",
-        "pubdate": "Wed, 22 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rutte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
         "pubdate": "Wed, 22 Nov 2023 14:00:00 +0100"
@@ -139,6 +118,27 @@
         "title": "Stem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stem",
         "pubdate": "Wed, 22 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Uitslag verkiezingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Uitslag%20verkiezingen",
+        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Standpunten PVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Standpunten%20PVV",
+        "pubdate": "Tue, 21 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SGP",
+        "pubdate": "Tue, 21 Nov 2023 21:00:00 +0100"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-11-2023 , 17:49:52",
+  "lastUpdate": "23-11-2023 , 17:59:06",
   "data": [
     [
       {
         "title": "Turkey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Turkey",
         "pubdate": "Fri, 24 Nov 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving",
+        "pubdate": "Fri, 24 Nov 2023 01:00:00 +1100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Australian PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20PGA",
-        "pubdate": "Thu, 23 Nov 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Thanksgiving 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving%202023",
         "pubdate": "Thu, 23 Nov 2023 20:00:00 +1100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving",
-        "pubdate": "Thu, 23 Nov 2023 21:00:00 +1100"
+        "title": "Australian PGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20PGA",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +1100"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Geert Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geert%20Wilders",
         "pubdate": "Thu, 23 Nov 2023 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving",
+        "pubdate": "Thu, 23 Nov 2023 21:00:00 +1100"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Paramore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paramore",
-        "pubdate": "Thu, 23 Nov 2023 02:00:00 +1100"
+        "title": "PGA Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Australia",
+        "pubdate": "Thu, 23 Nov 2023 15:00:00 +1100"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Sheila Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sheila%20Kennedy",
         "pubdate": "Thu, 23 Nov 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thanksgiving%20Day",
+        "pubdate": "Thu, 23 Nov 2023 22:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fire Perth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fire%20Perth",
         "pubdate": "Wed, 22 Nov 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Nikita Tszyu fight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikita%20Tszyu%20fight",
-        "pubdate": "Wed, 22 Nov 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Brazil vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brazil%20vs%20Argentina",
-        "pubdate": "Wed, 22 Nov 2023 06:00:00 +1100"
       }
     ]
   ]
