@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 14:46:33",
+  "lastUpdate": "23-11-2023 , 14:55:58",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thanksgiving",
-        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Maladies respiratoires en Chine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maladies%20respiratoires%20en%20Chine",
         "pubdate": "Thu, 23 Nov 2023 10:00:00 +0100"
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thanksgiving",
+        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jamie Foxx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jamie%20Foxx",
         "pubdate": "Thu, 23 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gabriel Matzneff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gabriel%20Matzneff",
+        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alice Taglioni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alice%20Taglioni",
+        "pubdate": "Thu, 23 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -59,9 +73,23 @@
     ],
     [
       {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Spurs",
+        "pubdate": "Thu, 23 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Francoise Hardy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francoise%20Hardy",
         "pubdate": "Thu, 23 Nov 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Taxe habitation enfants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taxe%20habitation%20enfants",
+        "pubdate": "Thu, 23 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Gaston Lagaffe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gaston%20Lagaffe",
         "pubdate": "Wed, 22 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Hidalgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
-        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sainte cecile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sainte%20cecile",
-        "pubdate": "Wed, 22 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Squid%20Game",
-        "pubdate": "Wed, 22 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mars Express",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mars%20Express",
-        "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
       }
     ]
   ]

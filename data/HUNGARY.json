@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 14:46:34",
+  "lastUpdate": "23-11-2023 , 14:55:59",
   "data": [
     [
       {
@@ -45,8 +45,15 @@
     ],
     [
       {
-        "title": "Brazil Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brazil%20Argentina",
+        "title": "Nutria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nutria",
+        "pubdate": "Thu, 23 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brazil argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brazil%20argentina",
         "pubdate": "Wed, 22 Nov 2023 03:00:00 +0100"
       }
     ],
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Dénes András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9nes%20Andr%C3%A1s",
-        "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mick Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mick%20Schumacher",
         "pubdate": "Wed, 22 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Police",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Police",
-        "pubdate": "Wed, 22 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Police",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Police",
+        "pubdate": "Wed, 22 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Halálos baleset Nádudvaron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20baleset%20N%C3%A1dudvaron",
         "pubdate": "Wed, 22 Nov 2023 18:00:00 +0100"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "November 23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%2023",
-        "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
+        "title": "Squid Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Squid%20Game",
+        "pubdate": "Wed, 22 Nov 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Geszti Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Geszti%20P%C3%A9ter",
+        "title": "November 23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%2023",
         "pubdate": "Wed, 22 Nov 2023 22:00:00 +0100"
       }
     ]
