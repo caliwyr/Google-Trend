@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2023 , 21:44:31",
+  "lastUpdate": "23-11-2023 , 21:53:45",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis%20Cup",
+        "title": "Häftling AKH Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#H%C3%A4ftling%20AKH%20Wien",
+        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Davis-Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis-Cup",
         "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Wiener AKH Häftling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20AKH%20H%C3%A4ftling",
-        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0100"
+        "title": "Sebastian Kurz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Kurz",
+        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Davis Cup 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis%20Cup%202023",
-        "pubdate": "Thu, 23 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sebastian Kurz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Kurz",
-        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ams-Osram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ams-Osram",
-        "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
+        "title": "Dublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dublin",
+        "pubdate": "Thu, 23 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Wolfgang Sobotka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Sobotka",
-        "pubdate": "Wed, 22 Nov 2023 08:00:00 +0100"
+        "title": "Axl Rose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Axl%20Rose",
+        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Axl Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Axl%20Rose",
-        "pubdate": "Wed, 22 Nov 2023 21:00:00 +0100"
+        "title": "Wolfgang Sobotka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Sobotka",
+        "pubdate": "Wed, 22 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Maria Happel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Happel",
         "pubdate": "Wed, 22 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F.A.Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F.A.Z",
+        "pubdate": "Wed, 22 Nov 2023 00:00:00 +0100"
       }
     ]
   ]
