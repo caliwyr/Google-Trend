@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2023 , 19:50:15",
+  "lastUpdate": "24-11-2023 , 19:59:29",
   "data": [
     [
       {
         "title": "Helmert Woudenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmert%20Woudenberg",
         "pubdate": "Fri, 24 Nov 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
+        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Antifa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Antifa",
         "pubdate": "Fri, 24 Nov 2023 10:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "RTL Nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTL%20Nieuws",
-        "pubdate": "Thu, 23 Nov 2023 01:00:00 +0100"
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+        "pubdate": "Fri, 24 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "NU.nl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NU.nl",
         "pubdate": "Thu, 23 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thanksgiving",
-        "pubdate": "Thu, 23 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -94,16 +87,9 @@
     ],
     [
       {
-        "title": "Dilan Yesilgöz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dilan%20Yesilg%C3%B6z",
-        "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eerste Kamer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eerste%20Kamer",
-        "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTL",
+        "pubdate": "Thu, 23 Nov 2023 01:00:00 +0100"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Thu, 23 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dilan yeşilgöz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dilan%20ye%C5%9Filg%C3%B6z",
+        "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mark Rutte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
         "pubdate": "Wed, 22 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
+        "pubdate": "Wed, 22 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
