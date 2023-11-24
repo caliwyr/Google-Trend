@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2023 , 03:51:42",
+  "lastUpdate": "24-11-2023 , 04:07:30",
   "data": [
     [
       {
         "title": "Casetify",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Casetify",
         "pubdate": "Fri, 24 Nov 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dublin",
+        "pubdate": "Fri, 24 Nov 2023 05:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Geert Wilders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Geert%20Wilders",
-        "pubdate": "Thu, 23 Nov 2023 11:00:00 +0200"
+        "title": "Josh Giddey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Josh%20Giddey",
+        "pubdate": "Thu, 23 Nov 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Josh Giddey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Josh%20Giddey",
-        "pubdate": "Thu, 23 Nov 2023 19:00:00 +0200"
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Geert%20Wilders",
+        "pubdate": "Thu, 23 Nov 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Flow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow",
         "pubdate": "Wed, 22 Nov 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tennis",
-        "pubdate": "Wed, 22 Nov 2023 11:00:00 +0200"
       }
     ]
   ]
