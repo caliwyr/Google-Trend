@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2023 , 08:47:38",
+  "lastUpdate": "24-11-2023 , 08:57:02",
   "data": [
     [
       {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donald%20Trump",
         "pubdate": "Fri, 24 Nov 2023 03:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Freddie Mercury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Freddie%20Mercury",
+        "pubdate": "Fri, 24 Nov 2023 05:00:00 -0300"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Osvaldo Giordano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Osvaldo%20Giordano",
+        "pubdate": "Thu, 23 Nov 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Black%20Friday",
         "pubdate": "Thu, 23 Nov 2023 15:00:00 -0300"
@@ -38,20 +52,6 @@
     ],
     [
       {
-        "title": "Osvaldo Giordano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Osvaldo%20Giordano",
-        "pubdate": "Thu, 23 Nov 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dybala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dybala",
-        "pubdate": "Thu, 23 Nov 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Black Friday 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Black%20Friday%202023",
         "pubdate": "Thu, 23 Nov 2023 17:00:00 -0300"
@@ -62,6 +62,13 @@
         "title": "Liga Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
         "pubdate": "Thu, 23 Nov 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dybala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dybala",
+        "pubdate": "Thu, 23 Nov 2023 15:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#China",
         "pubdate": "Thu, 23 Nov 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina Brasil Sub-17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20Brasil%20Sub-17",
-        "pubdate": "Thu, 23 Nov 2023 10:00:00 -0300"
       }
     ]
   ]
