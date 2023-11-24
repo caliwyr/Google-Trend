@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-11-2023 , 20:46:42",
+  "lastUpdate": "24-11-2023 , 20:55:51",
   "data": [
-    [
-      {
-        "title": "Black Friday deals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Black%20Friday%20deals",
-        "pubdate": "Fri, 24 Nov 2023 07:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "HSBC",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Black Friday deals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Black%20Friday%20deals",
+        "pubdate": "Fri, 24 Nov 2023 07:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Oscar Pistorius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Oscar%20Pistorius",
         "pubdate": "Fri, 24 Nov 2023 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
+        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0000"
       }
     ],
     [
@@ -48,6 +55,27 @@
         "title": "Paris Hilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paris%20Hilton",
         "pubdate": "Fri, 24 Nov 2023 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Al-nassr vs Al Akhdoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Al-nassr%20vs%20Al%20Akhdoud",
+        "pubdate": "Fri, 24 Nov 2023 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Jane McDonald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jane%20McDonald",
+        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bayern%20Munich",
+        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0000"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "James Cleverly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#James%20Cleverly",
         "pubdate": "Thu, 23 Nov 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Doctor Who",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Doctor%20Who",
-        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rte news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rte%20news",
-        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Catfish and the Bottlemen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Catfish%20and%20the%20Bottlemen",
-        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Casetify",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Casetify",
-        "pubdate": "Thu, 23 Nov 2023 19:00:00 +0000"
       }
     ]
   ]
