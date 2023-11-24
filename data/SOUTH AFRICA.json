@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2023 , 16:42:06",
+  "lastUpdate": "24-11-2023 , 16:51:15",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Australia vs India",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20India",
         "pubdate": "Thu, 23 Nov 2023 16:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Thanksgiving 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thanksgiving%202023",
-        "pubdate": "Thu, 23 Nov 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thanksgiving",
         "pubdate": "Thu, 23 Nov 2023 09:00:00 +0200"
       }
     ]
