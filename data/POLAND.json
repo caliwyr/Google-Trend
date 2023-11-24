@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2023 , 05:45:25",
+  "lastUpdate": "24-11-2023 , 05:54:40",
   "data": [
     [
       {
         "title": "Skoki narciarskie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skoki%20narciarskie",
         "pubdate": "Fri, 24 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Polska - Estonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Estonia",
+        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -24,15 +31,8 @@
     ],
     [
       {
-        "title": "Losowanie Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Losowanie%20Euro%202024",
-        "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Morawiecki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morawiecki",
+        "title": "Mateusz Morawiecki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Morawiecki",
         "pubdate": "Thu, 23 Nov 2023 12:00:00 +0100"
       }
     ],
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Sława Mikołajczyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awa%20Miko%C5%82ajczyk",
-        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joanna Mucha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Mucha",
-        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Przyjaciółki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przyjaci%C3%B3%C5%82ki",
         "pubdate": "Thu, 23 Nov 2023 22:00:00 +0100"
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Sława Mikołajczyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awa%20Miko%C5%82ajczyk",
+        "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jennifer Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jennifer%20Lopez",
         "pubdate": "Thu, 23 Nov 2023 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Hanna Gucwińska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hanna%20Gucwi%C5%84ska",
         "pubdate": "Thu, 23 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leszek Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Leszek%20Miller",
+        "pubdate": "Thu, 23 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
