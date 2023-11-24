@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-11-2023 , 11:42:42",
+  "lastUpdate": "24-11-2023 , 11:52:13",
   "data": [
-    [
-      {
-        "title": "Black Friday 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Black%20Friday%202023",
-        "pubdate": "Fri, 24 Nov 2023 07:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Zara",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Puma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puma",
+        "title": "PUMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PUMA",
         "pubdate": "Fri, 24 Nov 2023 03:00:00 -0300"
       }
     ],
@@ -52,9 +45,16 @@
     ],
     [
       {
+        "title": "Ofertas Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ofertas%20Black%20Friday",
+        "pubdate": "Fri, 24 Nov 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Black%20Friday",
-        "pubdate": "Thu, 23 Nov 2023 23:00:00 -0300"
+        "pubdate": "Thu, 23 Nov 2023 20:00:00 -0300"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Eduardo Frei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduardo%20Frei",
-        "pubdate": "Thu, 23 Nov 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#China",
         "pubdate": "Thu, 23 Nov 2023 23:00:00 -0300"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vasco%20da%20Gama",
-        "pubdate": "Thu, 23 Nov 2023 01:00:00 -0300"
+        "title": "Ventilador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ventilador",
+        "pubdate": "Thu, 23 Nov 2023 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Ventilador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ventilador",
-        "pubdate": "Thu, 23 Nov 2023 20:00:00 -0300"
+        "title": "Jose de Gregorio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jose%20de%20Gregorio",
+        "pubdate": "Thu, 23 Nov 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vasco%20da%20Gama",
+        "pubdate": "Thu, 23 Nov 2023 01:00:00 -0300"
       }
     ]
   ]
