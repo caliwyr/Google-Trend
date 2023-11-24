@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2023 , 21:48:36",
+  "lastUpdate": "24-11-2023 , 21:57:53",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Dublin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dublin",
         "pubdate": "Fri, 24 Nov 2023 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cher",
+        "pubdate": "Fri, 24 Nov 2023 23:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Beyond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyond",
-        "pubdate": "Fri, 24 Nov 2023 13:00:00 +0200"
+        "title": "FIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FIS",
+        "pubdate": "Fri, 24 Nov 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FIS",
-        "pubdate": "Fri, 24 Nov 2023 16:00:00 +0200"
+        "title": "Beyond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beyond",
+        "pubdate": "Fri, 24 Nov 2023 13:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Inari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inari",
-        "pubdate": "Thu, 23 Nov 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fargo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fargo",
-        "pubdate": "Thu, 23 Nov 2023 07:00:00 +0200"
+        "title": "Mortal Kombat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mortal%20Kombat",
+        "pubdate": "Thu, 23 Nov 2023 01:00:00 +0200"
       }
     ]
   ]
