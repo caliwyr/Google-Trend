@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2023 , 10:49:05",
+  "lastUpdate": "24-11-2023 , 10:58:17",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Dublin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dublin",
-        "pubdate": "Thu, 23 Nov 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Thanksgiving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Thanksgiving",
         "pubdate": "Thu, 23 Nov 2023 03:00:00 -0500"
@@ -76,6 +69,13 @@
         "title": "Dallas Cowboys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
         "pubdate": "Thu, 23 Nov 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Dublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dublin",
+        "pubdate": "Thu, 23 Nov 2023 17:00:00 -0500"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Tunisia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tunisia",
-        "pubdate": "Thu, 23 Nov 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cher",
         "pubdate": "Thu, 23 Nov 2023 13:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "John Madden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Madden",
         "pubdate": "Thu, 23 Nov 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Happy Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Thanksgiving",
+        "pubdate": "Thu, 23 Nov 2023 07:00:00 -0500"
       }
     ]
   ]
