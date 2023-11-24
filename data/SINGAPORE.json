@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-11-2023 , 13:49:07",
+  "lastUpdate": "24-11-2023 , 13:58:29",
   "data": [
+    [
+      {
+        "title": "Casetify",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Casetify",
+        "pubdate": "Fri, 24 Nov 2023 02:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Dublin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dublin",
         "pubdate": "Fri, 24 Nov 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "AFA Singapore 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AFA%20Singapore%202023",
+        "pubdate": "Fri, 24 Nov 2023 12:00:00 +0800"
       }
     ],
     [
@@ -17,23 +31,9 @@
     ],
     [
       {
-        "title": "AFA Singapore 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AFA%20Singapore%202023",
-        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dhruva Natchathiram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dhruva%20Natchathiram",
         "pubdate": "Fri, 24 Nov 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NFL",
-        "pubdate": "Fri, 24 Nov 2023 05:00:00 +0800"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "IND vs AUS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20AUS",
         "pubdate": "Thu, 23 Nov 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Thanksgiving 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thanksgiving%202023",
-        "pubdate": "Thu, 23 Nov 2023 14:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
         "pubdate": "Wed, 22 Nov 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil",
+        "pubdate": "Wed, 22 Nov 2023 14:00:00 +0800"
       }
     ]
   ]
