@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2023 , 23:51:23",
+  "lastUpdate": "25-11-2023 , 00:25:43",
   "data": [
+    [
+      {
+        "title": "FC Schaffhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Schaffhausen",
+        "pubdate": "Sat, 25 Nov 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "AirPods",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AirPods",
-        "pubdate": "Fri, 24 Nov 2023 14:00:00 +0100"
+        "pubdate": "Fri, 24 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Fri, 24 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gotthard-Tunnel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
         "pubdate": "Fri, 24 Nov 2023 10:00:00 +0100"
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Mario Balotelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mario%20Balotelli",
-        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
+        "title": "Glattzentrum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glattzentrum",
+        "pubdate": "Fri, 24 Nov 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Fri, 24 Nov 2023 17:00:00 +0100"
+        "title": "Mario Balotelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mario%20Balotelli",
+        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Challenge League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
+        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sonos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonos",
         "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
@@ -80,9 +101,16 @@
     ],
     [
       {
-        "title": "Challenge League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
-        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
+        "title": "Wetten, dass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetten,%20dass",
+        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pascal Obispo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pascal%20Obispo",
+        "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -94,30 +122,9 @@
     ],
     [
       {
-        "title": "Wetten, dass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetten,%20dass",
-        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
         "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dyson Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dyson%20Black%20Friday",
-        "pubdate": "Fri, 24 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Apple Watch 9",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20Watch%209",
-        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Birkenstock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Birkenstock",
-        "pubdate": "Fri, 24 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AirPods Max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AirPods%20Max",
-        "pubdate": "Fri, 24 Nov 2023 21:00:00 +0100"
+        "title": "Dyson Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dyson%20Black%20Friday",
+        "pubdate": "Fri, 24 Nov 2023 11:00:00 +0100"
       }
     ]
   ]
