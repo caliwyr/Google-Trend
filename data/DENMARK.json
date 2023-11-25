@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2023 , 03:54:10",
+  "lastUpdate": "25-11-2023 , 04:12:08",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "The Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Post",
+        "title": "The post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20post",
         "pubdate": "Fri, 24 Nov 2023 17:00:00 +0100"
       }
     ],
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Myprotein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Myprotein",
-        "pubdate": "Fri, 24 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fusion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fusion",
         "pubdate": "Fri, 24 Nov 2023 12:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "PSG  Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG%20%20Monaco",
         "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dyson V15",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dyson%20V15",
+        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
       }
     ]
   ]
