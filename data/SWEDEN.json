@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "25-11-2023 , 18:17:10",
+  "lastUpdate": "25-11-2023 , 18:28:50",
   "data": [
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
+        "title": "Premier league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20league",
         "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
       }
     ],
@@ -13,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sat, 25 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Hanna Öberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hanna%20%C3%96berg",
-        "pubdate": "Sat, 25 Nov 2023 14:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Björn Skifs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Skifs",
+        "pubdate": "Sat, 25 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
+        "title": "Hanna Öberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hanna%20%C3%96berg",
+        "pubdate": "Sat, 25 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Östersund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96stersund",
+        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Power",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Power",
         "pubdate": "Fri, 24 Nov 2023 19:00:00 +0100"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Sanni Hakala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanni%20Hakala",
-        "pubdate": "Fri, 24 Nov 2023 22:00:00 +0100"
+        "title": "Sven-Olof Sällström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sven-Olof%20S%C3%A4llstr%C3%B6m",
+        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Tony Gustavsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Gustavsson",
         "pubdate": "Fri, 24 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benjamin Ingrosso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20Ingrosso",
-        "pubdate": "Fri, 24 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bästa Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%A4sta%20Black%20Friday",
-        "pubdate": "Fri, 24 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Klippan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klippan",
-        "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
