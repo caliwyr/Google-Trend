@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2023 , 08:47:19",
+  "lastUpdate": "25-11-2023 , 08:56:42",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Futbol argentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
         "pubdate": "Sat, 25 Nov 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool",
-        "pubdate": "Sat, 25 Nov 2023 00:00:00 -0300"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
         "pubdate": "Sat, 25 Nov 2023 03:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool",
+        "pubdate": "Sat, 25 Nov 2023 00:00:00 -0300"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern",
+        "pubdate": "Fri, 24 Nov 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Nassr",
         "pubdate": "Fri, 24 Nov 2023 15:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern",
-        "pubdate": "Fri, 24 Nov 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Hooters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hooters",
-        "pubdate": "Fri, 24 Nov 2023 18:00:00 -0300"
+        "title": "Cuneo Libarona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cuneo%20Libarona",
+        "pubdate": "Fri, 24 Nov 2023 00:00:00 -0300"
       }
     ]
   ]
