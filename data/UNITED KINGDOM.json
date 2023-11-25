@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "25-11-2023 , 21:54:56",
+  "lastUpdate": "25-11-2023 , 22:09:15",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
         "pubdate": "Sat, 25 Nov 2023 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City",
-        "pubdate": "Sat, 25 Nov 2023 12:00:00 +0000"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
         "pubdate": "Sat, 25 Nov 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Premier League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20table",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0000"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Liverpool fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20fixtures",
-        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0000"
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ipswich%20Town",
+        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ipswich%20Town",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0000"
+        "title": "Liverpool fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20fixtures",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0000"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Derek Chauvin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Derek%20Chauvin",
+        "pubdate": "Sat, 25 Nov 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "LFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#LFC",
         "pubdate": "Sat, 25 Nov 2023 13:00:00 +0000"
@@ -125,20 +139,6 @@
         "title": "Take That",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Take%20That",
         "pubdate": "Sat, 25 Nov 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Derek Chauvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Derek%20Chauvin",
-        "pubdate": "Sat, 25 Nov 2023 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
-        "pubdate": "Sat, 25 Nov 2023 14:00:00 +0000"
       }
     ]
   ]
