@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2023 , 19:56:54",
+  "lastUpdate": "25-11-2023 , 20:14:16",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "title": "Manchester City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City%20%20Liverpool",
         "pubdate": "Sat, 25 Nov 2023 01:00:00 +0100"
       }
     ],
@@ -31,23 +31,16 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Graafschap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Sat, 25 Nov 2023 08:00:00 +0100"
+        "pubdate": "Sat, 25 Nov 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Sat, 25 Nov 2023 02:00:00 +0100"
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -62,13 +55,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Van Strien PVV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Strien%20PVV",
-        "pubdate": "Fri, 24 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -90,6 +76,13 @@
         "title": "Serval",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serval",
         "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Fri, 24 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Standpunten PVV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Standpunten%20PVV",
         "pubdate": "Tue, 21 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LEF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#LEF",
+        "pubdate": "Tue, 21 Nov 2023 23:00:00 +0100"
       }
     ]
   ]

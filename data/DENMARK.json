@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-11-2023 , 19:56:50",
+  "lastUpdate": "25-11-2023 , 20:14:12",
   "data": [
+    [
+      {
+        "title": "Man City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Liverpool",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
-        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
+        "pubdate": "Sat, 25 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -13,6 +20,20 @@
         "title": "Rayo  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rayo%20%20Barcelona",
         "pubdate": "Sat, 25 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -38,13 +59,6 @@
     ],
     [
       {
-        "title": "Newcastle  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Chelsea",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
         "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "The Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Post",
+        "title": "The post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20post",
         "pubdate": "Fri, 24 Nov 2023 17:00:00 +0100"
       }
     ],
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Lawrence",
-        "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
+        "pubdate": "Fri, 24 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
-        "pubdate": "Fri, 24 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dolly Parton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dolly%20Parton",
-        "pubdate": "Fri, 24 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fusion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fusion",
         "pubdate": "Fri, 24 Nov 2023 12:00:00 +0100"
       }
     ]
