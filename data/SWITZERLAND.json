@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2023 , 07:48:36",
+  "lastUpdate": "25-11-2023 , 07:58:01",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Santa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Santa",
         "pubdate": "Sat, 25 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hazel Brugger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hazel%20Brugger",
+        "pubdate": "Sat, 25 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "iPhone 15 Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iPhone%2015%20Black%20Friday",
-        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
+        "title": "Gotthard-Tunnel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
+        "pubdate": "Fri, 24 Nov 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gotthard-Tunnel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard-Tunnel",
-        "pubdate": "Fri, 24 Nov 2023 10:00:00 +0100"
+        "title": "iPhone 15 Black Friday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iPhone%2015%20Black%20Friday",
+        "pubdate": "Fri, 24 Nov 2023 08:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Wetten, dass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetten,%20dass",
-        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pascal Obispo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pascal%20Obispo",
         "pubdate": "Fri, 24 Nov 2023 23:00:00 +0100"
@@ -108,8 +108,15 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al-Nassr",
+        "title": "Wetten, dass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetten,%20dass",
+        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al%20Nassr",
         "pubdate": "Fri, 24 Nov 2023 20:00:00 +0100"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Gerard Wertheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerard%20Wertheimer",
-        "pubdate": "Fri, 24 Nov 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stromausfall Windisch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20Windisch",
-        "pubdate": "Fri, 24 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dyson Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dyson%20Black%20Friday",
         "pubdate": "Fri, 24 Nov 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris%20Hilton",
+        "pubdate": "Fri, 24 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
