@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2023 , 12:51:28",
+  "lastUpdate": "25-11-2023 , 13:04:44",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier%20League",
+        "pubdate": "Fri, 24 Nov 2023 19:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Nassr",
         "pubdate": "Fri, 24 Nov 2023 12:00:00 -0600"
@@ -48,13 +55,6 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bundesliga",
         "pubdate": "Fri, 24 Nov 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier%20League",
-        "pubdate": "Fri, 24 Nov 2023 22:00:00 -0600"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord",
         "pubdate": "Fri, 24 Nov 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City",
-        "pubdate": "Fri, 24 Nov 2023 19:00:00 -0600"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gestacion subrogada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gestacion%20subrogada",
         "pubdate": "Fri, 24 Nov 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Ideogram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ideogram",
+        "pubdate": "Fri, 24 Nov 2023 14:00:00 -0600"
       }
     ]
   ]
