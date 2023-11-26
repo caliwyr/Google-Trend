@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 07:51:46",
+  "lastUpdate": "26-11-2023 , 08:07:27",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Weihnachtsmarkt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weihnachtsmarkt",
         "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
@@ -62,13 +69,6 @@
         "title": "Luzern gegen Winterthur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luzern%20gegen%20Winterthur",
         "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City gegen Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20gegen%20Liverpool",
-        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "SP-Ticket Bundesratswahlen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SP-Ticket%20Bundesratswahlen",
         "pubdate": "Sat, 25 Nov 2023 14:00:00 +0100"
@@ -111,6 +104,13 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Sat, 25 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wetten, dass Stans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wetten,%20dass%20Stans",
+        "pubdate": "Sat, 25 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Justin%20Bieber",
-        "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
+        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "FCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
-        "pubdate": "Sat, 25 Nov 2023 09:00:00 +0100"
+        "title": "Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Justin%20Bieber",
+        "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
       }
     ]
   ]
