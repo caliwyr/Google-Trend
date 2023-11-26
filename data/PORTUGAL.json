@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-11-2023 , 21:51:22",
+  "lastUpdate": "26-11-2023 , 22:01:03",
   "data": [
     [
       {
         "title": "Sporting Clube de Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
         "pubdate": "Sun, 26 Nov 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Sun, 26 Nov 2023 20:00:00 +0000"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
-        "pubdate": "Sun, 26 Nov 2023 20:00:00 +0000"
+        "title": "Roma  Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma%20%20Udinese",
+        "pubdate": "Sun, 26 Nov 2023 18:00:00 +0000"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Roma  Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma%20%20Udinese",
-        "pubdate": "Sun, 26 Nov 2023 18:00:00 +0000"
+        "title": "Gremio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
+        "pubdate": "Sun, 26 Nov 2023 20:00:00 +0000"
       }
     ],
     [
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Real Sociedad  Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Sociedad%20%20Sevilla",
+        "pubdate": "Sun, 26 Nov 2023 16:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Terry Venables",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terry%20Venables",
         "pubdate": "Sun, 26 Nov 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Cyber Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cyber%20Monday",
+        "pubdate": "Sun, 26 Nov 2023 21:00:00 +0000"
       }
     ],
     [
@@ -66,8 +87,8 @@
     ],
     [
       {
-        "title": "Gremio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
         "pubdate": "Sun, 26 Nov 2023 20:00:00 +0000"
       }
     ],
@@ -80,23 +101,16 @@
     ],
     [
       {
-        "title": "Maritimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
-        "pubdate": "Sun, 26 Nov 2023 08:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Sociedad",
-        "pubdate": "Sun, 26 Nov 2023 16:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Tina Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tina%20Turner",
         "pubdate": "Sun, 26 Nov 2023 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Maritimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
+        "pubdate": "Sun, 26 Nov 2023 08:00:00 +0000"
       }
     ],
     [
@@ -108,29 +122,8 @@
     ],
     [
       {
-        "title": "Jogo do Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20do%20Sporting",
-        "pubdate": "Sun, 26 Nov 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Estoril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril",
-        "pubdate": "Sun, 26 Nov 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ajax",
-        "pubdate": "Sun, 26 Nov 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Seixal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seixal",
         "pubdate": "Sun, 26 Nov 2023 19:00:00 +0000"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Serie a italia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20a%20italia",
         "pubdate": "Sun, 26 Nov 2023 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ajax",
+        "pubdate": "Sun, 26 Nov 2023 00:00:00 +0000"
       }
     ]
   ]
