@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 08:24:23",
+  "lastUpdate": "26-11-2023 , 08:33:56",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Martin Løwstrøm Nyenget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20L%C3%B8wstr%C3%B8m%20Nyenget",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serie%20A",
         "pubdate": "Sat, 25 Nov 2023 19:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brentford",
         "pubdate": "Sat, 25 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
+        "pubdate": "Sat, 25 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
