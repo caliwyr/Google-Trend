@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 19:51:50",
+  "lastUpdate": "26-11-2023 , 20:04:16",
   "data": [
     [
       {
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Premier league",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20league",
-        "pubdate": "Sat, 25 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Moa Ilar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Moa%20Ilar",
         "pubdate": "Sat, 25 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
-        "pubdate": "Sat, 25 Nov 2023 12:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
         "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
+        "pubdate": "Sat, 25 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Glenn Strömberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glenn%20Str%C3%B6mberg",
         "pubdate": "Sat, 25 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Sat, 25 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
