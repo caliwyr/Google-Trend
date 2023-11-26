@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 03:50:56",
+  "lastUpdate": "26-11-2023 , 04:00:19",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
         "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
@@ -83,13 +76,6 @@
         "title": "Suriname",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suriname",
         "pubdate": "Sat, 25 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Fri, 24 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Verkiezingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verkiezingen",
         "pubdate": "Wed, 22 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pieter Omtzigt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pieter%20Omtzigt",
+        "pubdate": "Wed, 22 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "pubdate": "Wed, 22 Nov 2023 16:00:00 +0100"
       }
     ]
   ]
