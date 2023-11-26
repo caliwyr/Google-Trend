@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 09:19:40",
+  "lastUpdate": "26-11-2023 , 09:29:01",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Mu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu",
         "pubdate": "Sun, 26 Nov 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CM Punk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CM%20Punk",
+        "pubdate": "Sun, 26 Nov 2023 14:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PL",
         "pubdate": "Sat, 25 Nov 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Serie%20A",
-        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0800"
       }
     ]
   ]
