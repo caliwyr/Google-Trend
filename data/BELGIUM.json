@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 05:55:53",
+  "lastUpdate": "26-11-2023 , 06:15:53",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Westerlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo",
-        "pubdate": "Sat, 25 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zulte Waregem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem",
         "pubdate": "Sat, 25 Nov 2023 14:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
         "pubdate": "Sat, 25 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
       }
     ]
   ]

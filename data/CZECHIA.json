@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 05:55:55",
+  "lastUpdate": "26-11-2023 , 06:15:54",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Bartosak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bartosak",
         "pubdate": "Sat, 25 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karel Gott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karel%20Gott",
+        "pubdate": "Sat, 25 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vánoční filmy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1no%C4%8Dn%C3%AD%20filmy",
         "pubdate": "Sat, 25 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Radko Gudas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radko%20Gudas",
-        "pubdate": "Sat, 25 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
