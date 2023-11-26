@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "26-11-2023 , 15:50:00",
+  "lastUpdate": "26-11-2023 , 15:59:17",
   "data": [
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
+        "pubdate": "Sun, 26 Nov 2023 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "College Football Playoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20Football%20Playoff",
+        "pubdate": "Sun, 26 Nov 2023 00:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Alabama vs Auburn",
@@ -45,9 +59,23 @@
     ],
     [
       {
+        "title": "College football rankings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20football%20rankings",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Florida vs Florida State",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida%20vs%20Florida%20State",
         "pubdate": "Sat, 25 Nov 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Georgia vs Georgia Tech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20vs%20Georgia%20Tech",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 -0800"
       }
     ],
     [
@@ -73,13 +101,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
-        "pubdate": "Sat, 25 Nov 2023 03:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Mark Stoops",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mark%20Stoops",
         "pubdate": "Sat, 25 Nov 2023 20:00:00 -0800"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Marvin Harrison Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marvin%20Harrison%20Jr",
-        "pubdate": "Sat, 25 Nov 2023 10:00:00 -0800"
+        "title": "Kentucky football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20football",
+        "pubdate": "Sat, 25 Nov 2023 11:00:00 -0800"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Marvin Harrison Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marvin%20Harrison%20Jr",
+        "pubdate": "Sat, 25 Nov 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
         "pubdate": "Sat, 25 Nov 2023 05:00:00 -0800"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Clemson vs South Carolina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clemson%20vs%20South%20Carolina",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Sat, 25 Nov 2023 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Georgia Tech football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Tech%20football",
-        "pubdate": "Sat, 25 Nov 2023 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Full moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Full%20moon",
-        "pubdate": "Sat, 25 Nov 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Small Business Saturday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Small%20Business%20Saturday",
-        "pubdate": "Sat, 25 Nov 2023 06:00:00 -0800"
+        "title": "George Floyd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Floyd",
+        "pubdate": "Sat, 25 Nov 2023 02:00:00 -0800"
       }
     ]
   ]
