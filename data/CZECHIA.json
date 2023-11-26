@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-11-2023 , 17:50:34",
+  "lastUpdate": "26-11-2023 , 17:59:42",
   "data": [
     [
       {
         "title": "Slovácko – Baník",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Ban%C3%ADk",
         "pubdate": "Sun, 26 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
+        "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Tottenham – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Inna",
         "pubdate": "Sun, 26 Nov 2023 14:00:00 +0100"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Černochová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cernochov%C3%A1",
-        "pubdate": "Sun, 26 Nov 2023 15:00:00 +0100"
+        "title": "Úplněk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Apln%C4%9Bk",
+        "pubdate": "Sun, 26 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -34,6 +48,13 @@
         "title": "Michal Novák",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20Nov%C3%A1k",
         "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Černochová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cernochov%C3%A1",
+        "pubdate": "Sun, 26 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Serie%20A",
         "pubdate": "Sat, 25 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rockwell Commander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rockwell%20Commander",
-        "pubdate": "Sat, 25 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Krajco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krajco",
-        "pubdate": "Sat, 25 Nov 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Myslivec zastřelil rybáře",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Myslivec%20zast%C5%99elil%20ryb%C3%A1%C5%99e",
-        "pubdate": "Sat, 25 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
