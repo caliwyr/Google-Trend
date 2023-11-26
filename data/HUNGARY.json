@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2023 , 10:57:12",
+  "lastUpdate": "26-11-2023 , 11:11:50",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "George Floyd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#George%20Floyd",
         "pubdate": "Sun, 26 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ferencváros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
+        "pubdate": "Sun, 26 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Jackson",
         "pubdate": "Sat, 25 Nov 2023 21:00:00 +0100"
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MotoGP",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hódi Pamela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%B3di%20Pamela",
         "pubdate": "Sat, 25 Nov 2023 08:00:00 +0100"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MotoGP",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
+        "title": "Pl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pl",
+        "pubdate": "Sat, 25 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Puskás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s",
-        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AC%20Milan",
         "pubdate": "Sat, 25 Nov 2023 20:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Visváder Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Visv%C3%A1der%20Tam%C3%A1s",
-        "pubdate": "Sat, 25 Nov 2023 20:00:00 +0100"
+        "title": "Puskás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s",
+        "pubdate": "Sat, 25 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
