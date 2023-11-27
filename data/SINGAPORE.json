@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2023 , 02:55:38",
+  "lastUpdate": "27-11-2023 , 03:13:15",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Everton",
+        "pubdate": "Mon, 27 Nov 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Cyber Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cyber%20Monday",
         "pubdate": "Mon, 27 Nov 2023 09:00:00 +0800"
@@ -26,7 +33,7 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-        "pubdate": "Sun, 26 Nov 2023 11:00:00 +0800"
+        "pubdate": "Sun, 26 Nov 2023 15:00:00 +0800"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Abu Dhabi F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Abu%20Dhabi%20F1",
+        "title": "Abu Dhabi f1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Abu%20Dhabi%20f1",
         "pubdate": "Sun, 26 Nov 2023 01:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dublin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dublin",
         "pubdate": "Fri, 24 Nov 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "China pneumonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20pneumonia",
-        "pubdate": "Fri, 24 Nov 2023 00:00:00 +0800"
       }
     ]
   ]

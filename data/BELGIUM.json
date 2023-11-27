@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-11-2023 , 02:55:29",
+  "lastUpdate": "27-11-2023 , 03:13:07",
   "data": [
+    [
+      {
+        "title": "Cyber Monday 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyber%20Monday%202023",
+        "pubdate": "Mon, 27 Nov 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Sun, 26 Nov 2023 18:00:00 +0100"
+        "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Sun, 26 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-        "pubdate": "Sun, 26 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Veldrijden Dublin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Veldrijden%20Dublin",
-        "pubdate": "Sun, 26 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Beerschot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
         "pubdate": "Sun, 26 Nov 2023 17:00:00 +0100"
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "Jupiler pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20pro",
+        "title": "Jupiler Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro",
         "pubdate": "Sun, 26 Nov 2023 22:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Gerard Collomb Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gerard%20Collomb%20Lyon",
         "pubdate": "Sun, 26 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lucinda Brand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lucinda%20Brand",
+        "pubdate": "Sun, 26 Nov 2023 16:00:00 +0100"
       }
     ]
   ]

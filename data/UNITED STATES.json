@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2023 , 02:55:28",
+  "lastUpdate": "27-11-2023 , 03:13:06",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Saints",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
-        "pubdate": "Sun, 26 Nov 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Baltimore Ravens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Baltimore%20Ravens",
         "pubdate": "Sun, 26 Nov 2023 17:00:00 -0800"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Colts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
-        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
+        "title": "Saints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
+        "pubdate": "Sun, 26 Nov 2023 11:00:00 -0800"
       }
     ],
     [
@@ -66,22 +59,15 @@
     ],
     [
       {
+        "title": "Colts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
+        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Jaguars vs Texans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaguars%20vs%20Texans",
-        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "New England Patriots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#New%20England%20Patriots",
-        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Falcons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons",
         "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
       }
     ],
@@ -94,9 +80,23 @@
     ],
     [
       {
-        "title": "UCLA football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCLA%20football",
-        "pubdate": "Sun, 26 Nov 2023 17:00:00 -0800"
+        "title": "New England Patriots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#New%20England%20Patriots",
+        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Jalen Hurts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jalen%20Hurts",
+        "pubdate": "Sun, 26 Nov 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Falcons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons",
+        "pubdate": "Sun, 26 Nov 2023 12:00:00 -0800"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Mike Elko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Elko",
         "pubdate": "Sun, 26 Nov 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "UCLA football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCLA%20football",
+        "pubdate": "Sun, 26 Nov 2023 17:00:00 -0800"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Jalen Hurts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jalen%20Hurts",
-        "pubdate": "Sun, 26 Nov 2023 14:00:00 -0800"
+        "title": "Jeff Lebby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Lebby",
+        "pubdate": "Sun, 26 Nov 2023 09:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Everton vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Everton%20vs%20Man%20United",
         "pubdate": "Sun, 26 Nov 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Jeff Lebby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Lebby",
-        "pubdate": "Sun, 26 Nov 2023 09:00:00 -0800"
       }
     ]
   ]
