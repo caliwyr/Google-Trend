@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-11-2023 , 10:54:05",
+  "lastUpdate": "27-11-2023 , 11:08:41",
   "data": [
     [
       {
         "title": "Thomas Gottschalk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
         "pubdate": "Sun, 26 Nov 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Papst Franziskus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst%20Franziskus",
+        "pubdate": "Sun, 26 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Haushaltssperre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haushaltssperre",
         "pubdate": "Tue, 21 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jan Ullrich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jan%20Ullrich",
-        "pubdate": "Tue, 21 Nov 2023 14:00:00 +0100"
       }
     ]
   ]
