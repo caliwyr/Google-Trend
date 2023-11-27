@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2023 , 22:54:04",
+  "lastUpdate": "27-11-2023 , 23:10:30",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "ALAB Wyciek danych",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ALAB%20Wyciek%20danych",
+        "title": "ALAB wyciek danych",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ALAB%20wyciek%20danych",
         "pubdate": "Mon, 27 Nov 2023 12:00:00 +0100"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Ubisoft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ubisoft",
+        "pubdate": "Mon, 27 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Telewizja naziemna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Telewizja%20naziemna",
         "pubdate": "Mon, 27 Nov 2023 17:00:00 +0100"
@@ -90,13 +97,6 @@
         "title": "Anna Łukaszewska-Trzeciakowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20%C5%81ukaszewska-Trzeciakowska",
         "pubdate": "Mon, 27 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ubisoft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ubisoft",
-        "pubdate": "Mon, 27 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Sasin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sasin",
-        "pubdate": "Mon, 27 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ozzy Osbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ozzy%20Osbourne",
         "pubdate": "Mon, 27 Nov 2023 15:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Kwalifikacje Skoki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kwalifikacje%20Skoki",
-        "pubdate": "Mon, 27 Nov 2023 10:00:00 +0100"
+        "title": "Enrique Iglesias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Enrique%20Iglesias",
+        "pubdate": "Mon, 27 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Minister Sprawiedliwości",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Minister%20Sprawiedliwo%C5%9Bci",
+        "pubdate": "Mon, 27 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
