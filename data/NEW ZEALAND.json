@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-11-2023 , 15:56:42",
+  "lastUpdate": "27-11-2023 , 16:19:20",
   "data": [
     [
       {
         "title": "Consumer NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Consumer%20NZ",
         "pubdate": "Mon, 27 Nov 2023 20:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Everton%20vs%20Man%20United",
+        "pubdate": "Mon, 27 Nov 2023 08:00:00 +1300"
       }
     ],
     [
@@ -52,15 +59,8 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham",
-        "pubdate": "Mon, 27 Nov 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Abu Dhabi F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Abu%20Dhabi%20F1",
+        "title": "Abu Dhabi f1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Abu%20Dhabi%20f1",
         "pubdate": "Mon, 27 Nov 2023 07:00:00 +1300"
       }
     ],
