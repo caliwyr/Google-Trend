@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "28-11-2023 , 21:48:15",
+  "lastUpdate": "28-11-2023 , 21:56:47",
   "data": [
+    [
+      {
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Tue, 28 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Tue, 28 Nov 2023 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Gil Ofarim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gil%20Ofarim",
         "pubdate": "Tue, 28 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
-        "pubdate": "Tue, 28 Nov 2023 10:00:00 +0100"
       }
     ],
     [
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Young Boys gegen Roter Stern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Boys%20gegen%20Roter%20Stern",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michel Fourniret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Fourniret",
-        "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
+        "title": "ManCity gegen RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ManCity%20gegen%20RB%20Leipzig",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
-        "pubdate": "Tue, 28 Nov 2023 13:00:00 +0100"
+        "title": "Michel Fourniret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Fourniret",
+        "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,23 @@
     ],
     [
       {
-        "title": "Fachkräftemangel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fachkr%C3%A4ftemangel",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
+        "pubdate": "Tue, 28 Nov 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dominic Stricker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Stricker",
-        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fachkräftemangel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fachkr%C3%A4ftemangel",
+        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -80,16 +87,23 @@
     ],
     [
       {
-        "title": "Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niger",
-        "pubdate": "Tue, 28 Nov 2023 15:00:00 +0100"
+        "title": "Dominic Stricker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Stricker",
+        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Next Gen ATP Finals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Next%20Gen%20ATP%20Finals",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Niger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niger",
+        "pubdate": "Tue, 28 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -101,6 +115,20 @@
     ],
     [
       {
+        "title": "Next Gen ATP Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Next%20Gen%20ATP%20Finals",
+        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barca",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Samuel Paty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Samuel%20Paty",
         "pubdate": "Tue, 28 Nov 2023 08:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Podcast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Podcast",
-        "pubdate": "Tue, 28 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League",
-        "pubdate": "Mon, 27 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jolanda Spiess-Hegglin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jolanda%20Spiess-Hegglin",
-        "pubdate": "Mon, 27 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jil Sander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jil%20Sander",
-        "pubdate": "Mon, 27 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benko",
-        "pubdate": "Mon, 27 Nov 2023 10:00:00 +0100"
+        "title": "Corey Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Corey%20Perry",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
       }
     ]
   ]

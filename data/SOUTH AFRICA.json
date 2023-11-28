@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "28-11-2023 , 21:48:15",
+  "lastUpdate": "28-11-2023 , 21:56:47",
   "data": [
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City",
+        "title": "Man City vs RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20RB%20Leipzig",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0200"
       }
     ],
@@ -24,20 +24,6 @@
     ],
     [
       {
-        "title": "Lazio vs Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lazio%20vs%20Celtic",
-        "pubdate": "Tue, 28 Nov 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bangladesh vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bangladesh%20vs%20New%20Zealand",
-        "pubdate": "Tue, 28 Nov 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
         "pubdate": "Tue, 28 Nov 2023 10:00:00 +0200"
@@ -45,9 +31,9 @@
     ],
     [
       {
-        "title": "Shakhtar Donetsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shakhtar%20Donetsk",
-        "pubdate": "Tue, 28 Nov 2023 08:00:00 +0200"
+        "title": "Lazio vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lazio%20vs%20Celtic",
+        "pubdate": "Tue, 28 Nov 2023 12:00:00 +0200"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
-        "title": "Baba Vanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Baba%20Vanga",
-        "pubdate": "Tue, 28 Nov 2023 06:00:00 +0200"
+        "title": "Bangladesh vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bangladesh%20vs%20New%20Zealand",
+        "pubdate": "Tue, 28 Nov 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shakhtar Donetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shakhtar%20Donetsk",
+        "pubdate": "Tue, 28 Nov 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Tue, 28 Nov 2023 23:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "U-17 World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U-17%20World%20Cup",
-        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0200"
+        "title": "Baba Vanga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Baba%20Vanga",
+        "pubdate": "Tue, 28 Nov 2023 06:00:00 +0200"
       }
     ],
     [
@@ -94,15 +87,22 @@
     ],
     [
       {
-        "title": "Apple Music Replay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Apple%20Music%20Replay",
+        "title": "Blackpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blackpool%20FC",
         "pubdate": "Tue, 28 Nov 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Blackpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blackpool%20FC",
+        "title": "U-17 World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U-17%20World%20Cup",
+        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple Music Replay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Apple%20Music%20Replay",
         "pubdate": "Tue, 28 Nov 2023 22:00:00 +0200"
       }
     ],

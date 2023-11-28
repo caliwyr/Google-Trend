@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2023 , 21:48:13",
+  "lastUpdate": "28-11-2023 , 21:56:44",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jennifer%20Lawrence",
         "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
@@ -24,15 +31,15 @@
     ],
     [
       {
-        "title": "Manchester city",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20city",
+        "title": "VM Håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VM%20H%C3%A5ndball",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "VM Håndball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VM%20H%C3%A5ndball",
+        "title": "Man city",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20city",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Man. City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man.%20City",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#CL",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Farmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
-        "pubdate": "Mon, 27 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Freyr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Freyr",
         "pubdate": "Mon, 27 Nov 2023 18:00:00 +0100"
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "Farmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
+        "pubdate": "Mon, 27 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
         "pubdate": "Mon, 27 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Klara Lise Aasen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Klara%20Lise%20Aasen",
+        "pubdate": "Mon, 27 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Enova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Enova",
         "pubdate": "Mon, 27 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haugesund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haugesund",
-        "pubdate": "Mon, 27 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eliteserien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
-        "pubdate": "Sun, 26 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Christian Strand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Christian%20Strand",
-        "pubdate": "Sun, 26 Nov 2023 11:00:00 +0100"
       }
     ]
   ]
