@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2023 , 08:50:18",
+  "lastUpdate": "28-11-2023 , 08:59:54",
   "data": [
     [
       {
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "Wheel of Fortune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wheel%20of%20Fortune",
-        "pubdate": "Mon, 27 Nov 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Jason J. Eaton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20J.%20Eaton",
-        "pubdate": "Mon, 27 Nov 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Santos",
         "pubdate": "Mon, 27 Nov 2023 23:00:00 -0800"
@@ -94,6 +80,13 @@
     ],
     [
       {
+        "title": "Sixers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sixers",
+        "pubdate": "Mon, 27 Nov 2023 19:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Taika Waititi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Taika%20Waititi",
         "pubdate": "Mon, 27 Nov 2023 10:00:00 -0800"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
-        "pubdate": "Mon, 27 Nov 2023 06:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Travel Tuesday 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Travel%20Tuesday%202023",
         "pubdate": "Mon, 27 Nov 2023 21:00:00 -0800"
@@ -139,6 +125,20 @@
         "title": "Jean Knight",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jean%20Knight",
         "pubdate": "Mon, 27 Nov 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Stephen Colbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stephen%20Colbert",
+        "pubdate": "Mon, 27 Nov 2023 22:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets vs Clippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets%20vs%20Clippers",
+        "pubdate": "Mon, 27 Nov 2023 23:00:00 -0800"
       }
     ]
   ]
