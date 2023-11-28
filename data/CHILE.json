@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2023 , 03:45:52",
+  "lastUpdate": "28-11-2023 , 03:55:17",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
-        "pubdate": "Mon, 27 Nov 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr%20vs",
-        "pubdate": "Mon, 27 Nov 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-        "pubdate": "Mon, 27 Nov 2023 16:00:00 -0300"
+        "pubdate": "Mon, 27 Nov 2023 15:00:00 -0300"
       }
     ],
     [
@@ -41,6 +27,13 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
         "pubdate": "Mon, 27 Nov 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Primera a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20a",
+        "pubdate": "Mon, 27 Nov 2023 09:00:00 -0300"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
-        "pubdate": "Mon, 27 Nov 2023 02:00:00 -0300"
+        "title": "Curico Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curico%20Unido",
+        "pubdate": "Sun, 26 Nov 2023 16:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Curico Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curico%20Unido",
-        "pubdate": "Sun, 26 Nov 2023 16:00:00 -0300"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
+        "pubdate": "Sun, 26 Nov 2023 14:00:00 -0300"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Garnacho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garnacho",
-        "pubdate": "Sun, 26 Nov 2023 14:00:00 -0300"
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona",
+        "pubdate": "Sun, 26 Nov 2023 10:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
         "pubdate": "Sun, 26 Nov 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Sun, 26 Nov 2023 23:00:00 -0300"
       }
     ]
   ]
