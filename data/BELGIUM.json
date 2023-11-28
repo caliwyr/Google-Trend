@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-11-2023 , 19:53:04",
+  "lastUpdate": "28-11-2023 , 20:09:35",
   "data": [
+    [
+      {
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Tue, 28 Nov 2023 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Karen Damen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Karen%20Damen",
         "pubdate": "Tue, 28 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michel Fourniret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Fourniret",
-        "pubdate": "Tue, 28 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Michel Fourniret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Fourniret",
+        "pubdate": "Tue, 28 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hellfest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hellfest",
         "pubdate": "Tue, 28 Nov 2023 16:00:00 +0100"
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "Best Kept Secret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Best%20Kept%20Secret",
+        "title": "Jimmy Frey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jimmy%20Frey",
+        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Best Kept Secret 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Best%20Kept%20Secret%202024",
         "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
       }
     ],
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Jimmy Frey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jimmy%20Frey",
+        "title": "Keisuke Goto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Keisuke%20Goto",
         "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
       }
     ],
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Keisuke Goto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Keisuke%20Goto",
-        "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Argenx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Argenx",
         "pubdate": "Tue, 28 Nov 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shakhtar Donetsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shakhtar%20Donetsk",
-        "pubdate": "Tue, 28 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Van Rysel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Rysel",
-        "pubdate": "Tue, 28 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dries Mertens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dries%20Mertens",
         "pubdate": "Tue, 28 Nov 2023 17:00:00 +0100"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Ibrahim Maalouf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ibrahim%20Maalouf",
-        "pubdate": "Tue, 28 Nov 2023 00:00:00 +0100"
+        "title": "Van Rysel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Rysel",
+        "pubdate": "Tue, 28 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -118,6 +111,13 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Tue, 28 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ibrahim Maalouf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ibrahim%20Maalouf",
+        "pubdate": "Tue, 28 Nov 2023 00:00:00 +0100"
       }
     ],
     [
