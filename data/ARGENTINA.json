@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2023 , 23:52:48",
+  "lastUpdate": "28-11-2023 , 00:37:42",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Banco nacion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20nacion",
+        "pubdate": "Mon, 27 Nov 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Boca vs Godoy Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20vs%20Godoy%20Cruz",
         "pubdate": "Mon, 27 Nov 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Banco Provincia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20Provincia",
+        "pubdate": "Mon, 27 Nov 2023 13:00:00 -0300"
       }
     ],
     [
@@ -73,15 +87,15 @@
     ],
     [
       {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ABC",
+        "title": "Ricardo Piñeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricardo%20Pi%C3%B1eiro",
         "pubdate": "Mon, 27 Nov 2023 10:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Ricardo Piñeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricardo%20Pi%C3%B1eiro",
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ABC",
         "pubdate": "Mon, 27 Nov 2023 10:00:00 -0300"
       }
     ],
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Al Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Ittihad",
-        "pubdate": "Mon, 27 Nov 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Aire acondicionado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aire%20acondicionado",
         "pubdate": "Mon, 27 Nov 2023 10:00:00 -0300"
@@ -131,13 +138,6 @@
       {
         "title": "LinkedIn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LinkedIn",
-        "pubdate": "Mon, 27 Nov 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Macro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Macro",
         "pubdate": "Mon, 27 Nov 2023 13:00:00 -0300"
       }
     ]
