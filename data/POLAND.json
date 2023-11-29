@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-11-2023 , 10:50:24",
+  "lastUpdate": "29-11-2023 , 10:59:42",
   "data": [
+    [
+      {
+        "title": "Andrzejki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzejki",
+        "pubdate": "Wed, 29 Nov 2023 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Charlie Munger",
@@ -12,6 +19,13 @@
       {
         "title": "Rakow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rakow",
+        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liga Mistrzów UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Mistrz%C3%B3w%20UEFA",
         "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
       }
     ],
@@ -34,6 +48,13 @@
         "title": "Danuta Stenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Danuta%20Stenka",
         "pubdate": "Wed, 29 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gen Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gen%20Z",
+        "pubdate": "Wed, 29 Nov 2023 11:00:00 +0100"
       }
     ],
     [
@@ -73,6 +94,13 @@
     ],
     [
       {
+        "title": "Alicja Sękowska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alicja%20S%C4%99kowska",
+        "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Champions%20League",
         "pubdate": "Tue, 28 Nov 2023 01:00:00 +0100"
@@ -80,9 +108,9 @@
     ],
     [
       {
-        "title": "Alicja Sękowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alicja%20S%C4%99kowska",
-        "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
+        "title": "Niedziela handlowa grudzień 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziela%20handlowa%20grudzie%C5%84%202023",
+        "pubdate": "Tue, 28 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
-        "title": "Jaworzno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaworzno",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord – atlético Madryt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Feyenoord%20%E2%80%93%20atl%C3%A9tico%20Madryt",
-        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Niedziela handlowa grudzień 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niedziela%20handlowa%20grudzie%C5%84%202023",
+        "title": "Slask wroclaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Slask%20wroclaw",
         "pubdate": "Tue, 28 Nov 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sanki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sanki",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lista firm importujących zboże z Ukrainy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lista%20firm%20importuj%C4%85cych%20zbo%C5%BCe%20z%20Ukrainy",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#LM",
-        "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
+        "title": "Liga Mistrzów wyniki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Mistrz%C3%B3w%20wyniki",
+        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
