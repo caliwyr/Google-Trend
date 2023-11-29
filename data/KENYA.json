@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-11-2023 , 21:41:41",
+  "lastUpdate": "29-11-2023 , 21:51:12",
   "data": [
+    [
+      {
+        "title": "Fred",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fred",
+        "pubdate": "Thu, 30 Nov 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "UEFA Champions League",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Benfica vs Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica%20vs%20Inter",
-        "pubdate": "Wed, 29 Nov 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Bayern vs Copenhagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20vs%20Copenhagen",
         "pubdate": "Wed, 29 Nov 2023 08:00:00 +0300"
@@ -38,16 +38,9 @@
     ],
     [
       {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sevilla",
-        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City%20FC",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0300"
+        "title": "Benfica vs Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica%20vs%20Inter",
+        "pubdate": "Wed, 29 Nov 2023 16:00:00 +0300"
       }
     ],
     [
@@ -59,6 +52,20 @@
     ],
     [
       {
+        "title": "Leeds vs Swansea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20vs%20Swansea",
+        "pubdate": "Wed, 29 Nov 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City%20FC",
+        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Harambee Starlets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Harambee%20Starlets",
         "pubdate": "Wed, 29 Nov 2023 14:00:00 +0300"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Leeds vs Swansea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20vs%20Swansea",
-        "pubdate": "Wed, 29 Nov 2023 14:00:00 +0300"
+        "title": "Sunderland vs Huddersfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sunderland%20vs%20Huddersfield",
+        "pubdate": "Wed, 29 Nov 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSV",
+        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0300"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jimmy%20Carter",
         "pubdate": "Wed, 29 Nov 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Morgan Freeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Morgan%20Freeman",
+        "pubdate": "Wed, 29 Nov 2023 15:00:00 +0300"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Watford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Watford",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bristol City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City",
-        "pubdate": "Wed, 29 Nov 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Southampton",
         "pubdate": "Wed, 29 Nov 2023 21:00:00 +0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "PSV Eindhoven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSV%20Eindhoven",
-        "pubdate": "Wed, 29 Nov 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Supersport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Supersport",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0300"
+        "title": "Bristol City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City",
+        "pubdate": "Wed, 29 Nov 2023 20:00:00 +0300"
       }
     ]
   ]
