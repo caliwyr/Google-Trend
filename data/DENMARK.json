@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 17:44:40",
+  "lastUpdate": "29-11-2023 , 17:53:47",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Charlie Munger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlie%20Munger",
         "pubdate": "Tue, 28 Nov 2023 23:00:00 +0100"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jimmy%20Carter",
         "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
+        "pubdate": "Tue, 28 Nov 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UEFA%20Champions%20League",
-        "pubdate": "Tue, 28 Nov 2023 23:00:00 +0100"
+        "title": "Eurovision 2024 Tickets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eurovision%202024%20Tickets",
+        "pubdate": "Tue, 28 Nov 2023 15:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Russell Norman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Russell%20Norman",
         "pubdate": "Tue, 28 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Thy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Thy",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
