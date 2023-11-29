@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-11-2023 , 02:46:54",
+  "lastUpdate": "29-11-2023 , 02:58:27",
   "data": [
     [
       {
         "title": "Delta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Delta",
         "pubdate": "Wed, 29 Nov 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Heat vs Bucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heat%20vs%20Bucks",
+        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0800"
       }
     ],
     [
@@ -17,9 +24,23 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Champions%20League",
+        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lymphoma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lymphoma",
         "pubdate": "Wed, 29 Nov 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "76ers vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#76ers%20vs%20Lakers",
+        "pubdate": "Tue, 28 Nov 2023 09:00:00 +0800"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Lakers vs Sixers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lakers%20vs%20Sixers",
-        "pubdate": "Tue, 28 Nov 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Assassin's Creed Syndicate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Assassin's%20Creed%20Syndicate",
         "pubdate": "Tue, 28 Nov 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tyrese Maxey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tyrese%20Maxey",
-        "pubdate": "Tue, 28 Nov 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Squid games The Challenge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Squid%20games%20The%20Challenge",
-        "pubdate": "Tue, 28 Nov 2023 07:00:00 +0800"
       }
     ]
   ]
