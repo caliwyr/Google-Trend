@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "29-11-2023 , 20:48:11",
+  "lastUpdate": "29-11-2023 , 20:56:33",
   "data": [
     [
       {
         "title": "Dacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dacia",
         "pubdate": "Wed, 29 Nov 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Linecké cukroví recept",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lineck%C3%A9%20cukrov%C3%AD%20recept",
-        "pubdate": "Wed, 29 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Linecké cukroví recept",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lineck%C3%A9%20cukrov%C3%AD%20recept",
+        "pubdate": "Wed, 29 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Patrick Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrick%20Kane",
         "pubdate": "Wed, 29 Nov 2023 09:00:00 +0100"
@@ -31,23 +31,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20City",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gabriela Soukalová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gabriela%20Soukalov%C3%A1",
-        "pubdate": "Wed, 29 Nov 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Peter Mueller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Peter%20Mueller",
         "pubdate": "Wed, 29 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20City",
+        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
       }
     ],
     [
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "Forbes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-        "pubdate": "Wed, 29 Nov 2023 20:00:00 +0100"
+        "title": "Cirque du Soleil Corteo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cirque%20du%20Soleil%20Corteo",
+        "pubdate": "Wed, 29 Nov 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Cirque du Soleil Corteo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cirque%20du%20Soleil%20Corteo",
-        "pubdate": "Wed, 29 Nov 2023 17:00:00 +0100"
+        "title": "Forbes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
+        "pubdate": "Wed, 29 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Hlavní nádraží praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlavn%C3%AD%20n%C3%A1dra%C5%BE%C3%AD%20praha",
+        "title": "Hlavní nádraží Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlavn%C3%AD%20n%C3%A1dra%C5%BE%C3%AD%20Praha",
         "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jana Adamcová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Adamcov%C3%A1",
+        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
