@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-11-2023 , 18:48:10",
+  "lastUpdate": "29-11-2023 , 18:57:25",
   "data": [
     [
       {
         "title": "Man City vs Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Leipzig",
         "pubdate": "Wed, 29 Nov 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray vs Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Galatasaray%20vs%20Man%20Utd",
+        "pubdate": "Wed, 29 Nov 2023 12:00:00 +0700"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Bali United vs Stallion FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bali%20United%20vs%20Stallion%20FC",
         "pubdate": "Wed, 29 Nov 2023 18:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray vs Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Galatasaray%20vs%20Man%20utd",
-        "pubdate": "Wed, 29 Nov 2023 12:00:00 +0700"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Marc Marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Marc%20Marquez",
-        "pubdate": "Wed, 29 Nov 2023 05:00:00 +0700"
+        "title": "Maruli Simanjuntak KSAD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Maruli%20Simanjuntak%20KSAD",
+        "pubdate": "Wed, 29 Nov 2023 16:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Maruli Simanjuntak KSAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Maruli%20Simanjuntak%20KSAD",
-        "pubdate": "Wed, 29 Nov 2023 16:00:00 +0700"
+        "title": "Marc Marquez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Marc%20Marquez",
+        "pubdate": "Wed, 29 Nov 2023 05:00:00 +0700"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "FIFA U-17 World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FIFA%20U-17%20World%20Cup",
-        "pubdate": "Wed, 29 Nov 2023 01:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Arsenal vs Lens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arsenal%20vs%20Lens",
         "pubdate": "Wed, 29 Nov 2023 19:00:00 +0700"
@@ -138,6 +131,13 @@
       {
         "title": "Argentina vs Jerman U-17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Argentina%20vs%20Jerman%20U-17",
+        "pubdate": "Tue, 28 Nov 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Liga Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Champions",
         "pubdate": "Tue, 28 Nov 2023 12:00:00 +0700"
       }
     ]
