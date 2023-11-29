@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 13:42:44",
+  "lastUpdate": "29-11-2023 , 13:52:13",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atletico%20Madrid",
+        "pubdate": "Wed, 29 Nov 2023 06:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Psg–newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg%E2%80%93newcastle",
+        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Milan-Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan-Dortmund",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
@@ -61,7 +68,14 @@
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-        "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
+        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Ozzy Osbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ozzy%20Osbourne",
         "pubdate": "Tue, 28 Nov 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
-        "pubdate": "Tue, 28 Nov 2023 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Észak-korea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-korea",
         "pubdate": "Tue, 28 Nov 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AC%20Milan",
-        "pubdate": "Tue, 28 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
