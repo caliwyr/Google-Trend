@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 06:51:09",
+  "lastUpdate": "29-11-2023 , 07:00:25",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
         "pubdate": "Tue, 28 Nov 2023 03:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "pubdate": "Tue, 28 Nov 2023 12:00:00 -0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Tue, 28 Nov 2023 12:00:00 -0800"
+        "title": "Golden State Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20State%20Warriors",
+        "pubdate": "Tue, 28 Nov 2023 21:00:00 -0800"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Barcelona vs Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona%20vs%20Porto",
-        "pubdate": "Tue, 28 Nov 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Kentucky basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball",
         "pubdate": "Tue, 28 Nov 2023 19:00:00 -0800"
@@ -111,13 +111,6 @@
         "title": "Jonathan Taylor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jonathan%20Taylor",
         "pubdate": "Tue, 28 Nov 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Hollie Strano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hollie%20Strano",
-        "pubdate": "Tue, 28 Nov 2023 18:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jennifer Garner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jennifer%20Garner",
         "pubdate": "Tue, 28 Nov 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Fallout TV show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fallout%20TV%20show",
+        "pubdate": "Tue, 28 Nov 2023 17:00:00 -0800"
       }
     ]
   ]
