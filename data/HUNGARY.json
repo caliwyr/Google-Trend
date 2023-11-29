@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 22:40:11",
+  "lastUpdate": "29-11-2023 , 22:49:48",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
         "pubdate": "Wed, 29 Nov 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real madrid–napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93napoli",
+        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal–lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93lens",
+        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Zámbó Krisztián",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%C3%A1mb%C3%B3%20Kriszti%C3%A1n",
+        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dacia Duster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dacia%20Duster",
         "pubdate": "Wed, 29 Nov 2023 16:00:00 +0100"
@@ -45,8 +66,8 @@
     ],
     [
       {
-        "title": "Zámbó Krisztián",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%C3%A1mb%C3%B3%20Kriszti%C3%A1n",
+        "title": "Benfica–inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica%E2%80%93inter",
         "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
       }
     ],
@@ -55,13 +76,6 @@
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jimmy%20Carter",
         "pubdate": "Wed, 29 Nov 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
+        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sárközi Ákos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1rk%C3%B6zi%20%C3%81kos",
         "pubdate": "Wed, 29 Nov 2023 20:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Fallout",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fallout",
         "pubdate": "Wed, 29 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Varga Judit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit",
-        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Csepregi Éva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csepregi%20%C3%89va",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
