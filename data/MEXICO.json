@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-11-2023 , 08:50:04",
+  "lastUpdate": "29-11-2023 , 08:59:17",
   "data": [
     [
       {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jimmy%20Carter",
         "pubdate": "Wed, 29 Nov 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Iñaki Peña",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#I%C3%B1aki%20Pe%C3%B1a",
+        "pubdate": "Wed, 29 Nov 2023 02:00:00 -0600"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Historia de Marlene Ahrens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Historia%20de%20Marlene%20Ahrens",
-        "pubdate": "Tue, 28 Nov 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Caravana Coca Cola 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Caravana%20Coca%20Cola%202023",
         "pubdate": "Tue, 28 Nov 2023 11:00:00 -0600"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UEFA",
-        "pubdate": "Tue, 28 Nov 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Shakhtar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Shakhtar",
         "pubdate": "Tue, 28 Nov 2023 14:00:00 -0600"
@@ -139,6 +132,13 @@
         "title": "Blanca Soto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Blanca%20Soto",
         "pubdate": "Tue, 28 Nov 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Chicharito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chicharito",
+        "pubdate": "Tue, 28 Nov 2023 12:00:00 -0600"
       }
     ]
   ]

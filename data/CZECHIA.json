@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 08:50:00",
+  "lastUpdate": "29-11-2023 , 08:59:12",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20City",
         "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Patrick Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrick%20Kane",
+        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Barcelona – Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Porto",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSG – Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG%20%E2%80%93%20Newcastle",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
@@ -48,13 +48,6 @@
         "title": "Charlie Munger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Charlie%20Munger",
         "pubdate": "Tue, 28 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marianna Budanova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marianna%20Budanova",
-        "pubdate": "Tue, 28 Nov 2023 13:00:00 +0100"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Pyšná princezna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Py%C5%A1n%C3%A1%20princezna",
+        "pubdate": "Tue, 28 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lamborghini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lamborghini",
         "pubdate": "Tue, 28 Nov 2023 22:00:00 +0100"
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "Hlavní nádraží praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlavn%C3%AD%20n%C3%A1dra%C5%BE%C3%AD%20praha",
+        "title": "Hlavní nádraží Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlavn%C3%AD%20n%C3%A1dra%C5%BE%C3%AD%20Praha",
         "pubdate": "Tue, 28 Nov 2023 18:00:00 +0100"
       }
     ],
