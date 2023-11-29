@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2023 , 07:46:06",
+  "lastUpdate": "29-11-2023 , 07:55:24",
   "data": [
     [
       {
@@ -31,15 +31,15 @@
     ],
     [
       {
-        "title": "PSG – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG%20%E2%80%93%20Newcastle",
+        "title": "Barcelona – Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Porto",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Barcelona – Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Porto",
+        "title": "PSG – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG%20%E2%80%93%20Newcastle",
         "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Výpadek elektřiny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDpadek%20elekt%C5%99iny",
         "pubdate": "Tue, 28 Nov 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Extraliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
-        "pubdate": "Tue, 28 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Česko zasype sníh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesko%20zasype%20sn%C3%ADh",
         "pubdate": "Mon, 27 Nov 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cyber Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cyber%20Monday",
+        "pubdate": "Mon, 27 Nov 2023 07:00:00 +0100"
       }
     ]
   ]
