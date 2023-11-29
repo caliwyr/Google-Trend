@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-11-2023 , 16:53:18",
+  "lastUpdate": "29-11-2023 , 17:08:01",
   "data": [
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
-        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Spotify Wrapped 2023",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Galatasaray vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray%20vs%20Man%20United",
+        "pubdate": "Wed, 29 Nov 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Charlie Munger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Charlie%20Munger",
         "pubdate": "Wed, 29 Nov 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
+        "pubdate": "Wed, 29 Nov 2023 11:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
-        "pubdate": "Wed, 29 Nov 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray%20vs%20Man%20United",
-        "pubdate": "Wed, 29 Nov 2023 07:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20League",
+        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Cardiff City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cardiff%20City",
-        "pubdate": "Wed, 29 Nov 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jimmy%20Carter",
         "pubdate": "Wed, 29 Nov 2023 14:00:00 +0200"
@@ -108,16 +101,9 @@
     ],
     [
       {
-        "title": "ArcelorMittal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#ArcelorMittal",
-        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Semaglutide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Semaglutide",
-        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0200"
+        "title": "Cardiff City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cardiff%20City",
+        "pubdate": "Wed, 29 Nov 2023 02:00:00 +0200"
       }
     ],
     [
@@ -129,9 +115,9 @@
     ],
     [
       {
-        "title": "Watford FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford%20FC",
-        "pubdate": "Wed, 29 Nov 2023 06:00:00 +0200"
+        "title": "ArcelorMittal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#ArcelorMittal",
+        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
         "pubdate": "Wed, 29 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Semaglutide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Semaglutide",
+        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Watford FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford%20FC",
+        "pubdate": "Wed, 29 Nov 2023 06:00:00 +0200"
       }
     ]
   ]
