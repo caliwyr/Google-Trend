@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 13:46:30",
+  "lastUpdate": "30-11-2023 , 13:55:43",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Eru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eru",
+        "pubdate": "Thu, 30 Nov 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Britney%20Spears",
         "pubdate": "Thu, 30 Nov 2023 07:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Eru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eru",
-        "pubdate": "Thu, 30 Nov 2023 13:00:00 +0100"
+        "title": "Shane MacGowan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shane%20MacGowan",
+        "pubdate": "Thu, 30 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Lenny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lenny",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
         "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Kadyrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kadyrov",
-        "pubdate": "Wed, 29 Nov 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Linecké cukroví Recept",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lineck%C3%A9%20cukrov%C3%AD%20Recept",
         "pubdate": "Wed, 29 Nov 2023 13:00:00 +0100"
@@ -122,16 +115,23 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
+        "title": "Kadyrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kadyrov",
+        "pubdate": "Wed, 29 Nov 2023 06:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gabriela Soukalová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gabriela%20Soukalov%C3%A1",
-        "pubdate": "Wed, 29 Nov 2023 17:00:00 +0100"
+        "title": "Liberty Ostrava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberty%20Ostrava",
+        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
       }
     ],
     [
