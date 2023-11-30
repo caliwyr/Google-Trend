@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 21:54:31",
+  "lastUpdate": "30-11-2023 , 22:10:03",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "LASK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
+        "pubdate": "Thu, 30 Nov 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa%20League",
+        "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Shane MacGowan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shane%20MacGowan",
         "pubdate": "Thu, 30 Nov 2023 14:00:00 +0100"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "LASK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
-        "pubdate": "Thu, 30 Nov 2023 08:00:00 +0100"
+        "title": "Sky Störung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky%20St%C3%B6rung",
+        "pubdate": "Thu, 30 Nov 2023 12:00:00 +0100"
       }
     ],
     [
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "Sky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky",
-        "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sky Störung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sky%20St%C3%B6rung",
-        "pubdate": "Thu, 30 Nov 2023 12:00:00 +0100"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
+        "pubdate": "Thu, 30 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
-        "pubdate": "Thu, 30 Nov 2023 14:00:00 +0100"
+        "title": "Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jones",
+        "pubdate": "Thu, 30 Nov 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Leeroy Matata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leeroy%20Matata",
-        "pubdate": "Thu, 30 Nov 2023 12:00:00 +0100"
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Europa%20League",
+        "pubdate": "Thu, 30 Nov 2023 19:00:00 +0100"
       }
     ],
     [
@@ -101,8 +108,15 @@
     ],
     [
       {
-        "title": "Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jones",
+        "title": "ORF-Beitrag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF-Beitrag",
+        "pubdate": "Thu, 30 Nov 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "U6 Störung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#U6%20St%C3%B6rung",
         "pubdate": "Thu, 30 Nov 2023 16:00:00 +0100"
       }
     ],
@@ -111,13 +125,6 @@
         "title": "Keuchhusten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Keuchhusten",
         "pubdate": "Thu, 30 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ORF-Beitrag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF-Beitrag",
-        "pubdate": "Thu, 30 Nov 2023 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Maria Callas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Callas",
         "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bellingham",
-        "pubdate": "Thu, 30 Nov 2023 10:00:00 +0100"
       }
     ]
   ]
