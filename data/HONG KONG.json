@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-11-2023 , 23:43:56",
+  "lastUpdate": "30-11-2023 , 23:53:27",
   "data": [
     [
       {
         "title": "利物浦",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%88%A9%E7%89%A9%E6%B5%A6",
         "pubdate": "Fri, 01 Dec 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "歐霸盃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AD%90%E9%9C%B8%E7%9B%83",
+        "pubdate": "Fri, 01 Dec 2023 05:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Joji",
         "pubdate": "Wed, 29 Nov 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "歐冠",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AD%90%E5%86%A0",
-        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0800"
       }
     ]
   ]
