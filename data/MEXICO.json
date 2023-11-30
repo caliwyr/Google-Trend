@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 09:45:44",
+  "lastUpdate": "30-11-2023 , 09:54:54",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Leon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leon",
+        "pubdate": "Wed, 29 Nov 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Juan Pablo Adame senador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juan%20Pablo%20Adame%20senador",
         "pubdate": "Wed, 29 Nov 2023 19:00:00 -0600"
@@ -132,13 +139,6 @@
         "title": "Mario Bautista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mario%20Bautista",
         "pubdate": "Wed, 29 Nov 2023 23:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Warriors",
-        "pubdate": "Wed, 29 Nov 2023 08:00:00 -0600"
       }
     ]
   ]
