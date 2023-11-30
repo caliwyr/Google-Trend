@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 07:46:40",
+  "lastUpdate": "30-11-2023 , 07:55:58",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Apple Music Replay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Music%20Replay",
-        "pubdate": "Thu, 30 Nov 2023 02:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Foo Fighters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Foo%20Fighters",
         "pubdate": "Thu, 30 Nov 2023 10:00:00 +1100"
@@ -82,13 +75,6 @@
       {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
-        "pubdate": "Thu, 30 Nov 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Trains",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
         "pubdate": "Thu, 30 Nov 2023 09:00:00 +1100"
       }
     ],
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Frances Sternhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Frances%20Sternhagen",
+        "pubdate": "Thu, 30 Nov 2023 18:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Keanu%20Reeves",
         "pubdate": "Thu, 30 Nov 2023 14:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Spotify Wrapped 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spotify%20Wrapped%202023",
         "pubdate": "Wed, 29 Nov 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Coldplay",
+        "pubdate": "Wed, 29 Nov 2023 11:00:00 +1100"
       }
     ]
   ]
