@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 08:49:17",
+  "lastUpdate": "30-11-2023 , 08:58:35",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Paryż",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pary%C5%BC",
+        "pubdate": "Thu, 30 Nov 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray – Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Galatasaray%20%E2%80%93%20Man%20utd",
         "pubdate": "Wed, 29 Nov 2023 17:00:00 +0100"
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Imieniny Andrzeja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imieniny%20Andrzeja",
+        "pubdate": "Wed, 29 Nov 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arsenal – Lens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal%20%E2%80%93%20Lens",
         "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wyciek danych ALAB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyciek%20danych%20ALAB",
+        "pubdate": "Wed, 29 Nov 2023 14:00:00 +0100"
       }
     ],
     [
@@ -73,16 +94,16 @@
     ],
     [
       {
-        "title": "Sławomir Cenckiewicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Cenckiewicz",
-        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
+        "title": "Kadzidło",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kadzid%C5%82o",
+        "pubdate": "Wed, 29 Nov 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kadzidło",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kadzid%C5%82o",
-        "pubdate": "Wed, 29 Nov 2023 15:00:00 +0100"
+        "title": "Sławomir Cenckiewicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Cenckiewicz",
+        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Cezary Szczygielski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cezary%20Szczygielski",
         "pubdate": "Wed, 29 Nov 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Szymon holownia Sejm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20holownia%20Sejm",
-        "pubdate": "Wed, 29 Nov 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nico Paz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nico%20Paz",
-        "pubdate": "Wed, 29 Nov 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Benfica%20%E2%80%93%20Inter",
-        "pubdate": "Wed, 29 Nov 2023 22:00:00 +0100"
       }
     ]
   ]
