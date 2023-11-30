@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 20:50:20",
+  "lastUpdate": "30-11-2023 , 20:59:43",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Paul Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paul%20Walker",
-        "pubdate": "Thu, 30 Nov 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eminem",
         "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
@@ -48,6 +41,13 @@
         "title": "Matecki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Matecki",
         "pubdate": "Thu, 30 Nov 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Viaplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Viaplay",
+        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Szymon Hołownia Sejm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Ho%C5%82ownia%20Sejm",
-        "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
+        "title": "AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AZ%20Alkmaar",
+        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Adam Glapiński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Adam%20Glapi%C5%84ski",
+        "pubdate": "Thu, 30 Nov 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cher",
         "pubdate": "Thu, 30 Nov 2023 17:00:00 +0100"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "GROMDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GROMDA",
-        "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#West%20Ham",
+        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Evan Ellingson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Evan%20Ellingson",
-        "pubdate": "Thu, 30 Nov 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paryż",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pary%C5%BC",
-        "pubdate": "Thu, 30 Nov 2023 09:00:00 +0100"
+        "title": "Morbius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morbius",
+        "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
       }
     ]
   ]
