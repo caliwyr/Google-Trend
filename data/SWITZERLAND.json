@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2023 , 03:47:35",
+  "lastUpdate": "30-11-2023 , 03:56:55",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
-        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Wed, 29 Nov 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Wed, 29 Nov 2023 14:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
+        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Lewin Blum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lewin%20Blum",
-        "pubdate": "Wed, 29 Nov 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dacia",
         "pubdate": "Wed, 29 Nov 2023 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Wolf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wolf",
         "pubdate": "Wed, 29 Nov 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nico Paz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nico%20Paz",
+        "pubdate": "Wed, 29 Nov 2023 23:00:00 +0100"
       }
     ]
   ]
