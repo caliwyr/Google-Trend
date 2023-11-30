@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-11-2023 , 06:42:13",
+  "lastUpdate": "30-11-2023 , 06:51:36",
   "data": [
-    [
-      {
-        "title": "Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
-        "pubdate": "Thu, 30 Nov 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Henry Kissinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Henry%20Kissinger",
         "pubdate": "Thu, 30 Nov 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
+        "pubdate": "Thu, 30 Nov 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
-        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0200"
+        "title": "Arsenal vs Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Lens",
+        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Arsenal vs Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Lens",
-        "pubdate": "Wed, 29 Nov 2023 10:00:00 +0200"
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
+        "pubdate": "Wed, 29 Nov 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
+        "pubdate": "Wed, 29 Nov 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester City FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20FC",
         "pubdate": "Wed, 29 Nov 2023 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Sunderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sunderland",
         "pubdate": "Wed, 29 Nov 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zamalek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zamalek",
-        "pubdate": "Wed, 29 Nov 2023 21:00:00 +0200"
       }
     ]
   ]
