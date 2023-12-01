@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2023 , 20:54:03",
+  "lastUpdate": "01-12-2023 , 21:08:44",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Animal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Animal",
+        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Fri, 01 Dec 2023 07:00:00 +0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Henry Kissinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Henry%20Kissinger",
-        "pubdate": "Thu, 30 Nov 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-        "pubdate": "Thu, 30 Nov 2023 06:00:00 +0800"
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham",
+        "pubdate": "Fri, 01 Dec 2023 20:00:00 +0800"
       }
     ]
   ]
