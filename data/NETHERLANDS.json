@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "01-12-2023 , 09:47:14",
+  "lastUpdate": "01-12-2023 , 09:56:28",
   "data": [
-    [
-      {
-        "title": "ASML",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
-        "pubdate": "Fri, 01 Dec 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cybertruck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cybertruck",
-        "pubdate": "Fri, 01 Dec 2023 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "December",
@@ -24,9 +10,16 @@
     ],
     [
       {
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+        "pubdate": "Fri, 01 Dec 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Thu, 30 Nov 2023 11:00:00 +0100"
+        "pubdate": "Thu, 30 Nov 2023 09:00:00 +0100"
       }
     ],
     [
@@ -68,6 +61,13 @@
       {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Aston%20Villa",
+        "pubdate": "Thu, 30 Nov 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Thu, 30 Nov 2023 22:00:00 +0100"
       }
     ],
