@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "01-12-2023 , 11:53:50",
+  "lastUpdate": "01-12-2023 , 12:17:53",
   "data": [
     [
       {
-        "title": "Calendario dell'Avvento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calendario%20dell'Avvento",
+        "title": "Calendario dell'avvento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calendario%20dell'avvento",
         "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
       }
     ],
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Tempesta solare 'cannibale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tempesta%20solare%20'cannibale",
+        "title": "Tempesta solare cannibale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tempesta%20solare%20cannibale",
         "pubdate": "Fri, 01 Dec 2023 07:00:00 +0100"
       }
     ],
@@ -27,6 +27,13 @@
         "title": "Massimo Pericolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Pericolo",
         "pubdate": "Fri, 01 Dec 2023 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elfo di Natale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elfo%20di%20Natale",
+        "pubdate": "Fri, 01 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Cybertruck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cybertruck",
+        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Paolo Villaggio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paolo%20Villaggio",
         "pubdate": "Fri, 01 Dec 2023 09:00:00 +0100"
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Cybertruck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cybertruck",
-        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aston%20Villa",
         "pubdate": "Fri, 01 Dec 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maldini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maldini",
-        "pubdate": "Fri, 01 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cher",
         "pubdate": "Fri, 01 Dec 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eleonora Evi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eleonora%20Evi",
-        "pubdate": "Fri, 01 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Kissinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kissinger",
-        "pubdate": "Thu, 30 Nov 2023 07:00:00 +0100"
+        "title": "Bonus trasporti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bonus%20trasporti",
+        "pubdate": "Thu, 30 Nov 2023 11:00:00 +0100"
       }
     ],
     [
       {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Conference%20League",
-        "pubdate": "Thu, 30 Nov 2023 19:00:00 +0100"
+        "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kissinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kissinger",
+        "pubdate": "Thu, 30 Nov 2023 07:00:00 +0100"
       }
     ]
   ]
