@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2023 , 19:55:10",
+  "lastUpdate": "01-12-2023 , 20:12:42",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Bucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
         "pubdate": "Fri, 01 Dec 2023 03:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Knicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
+        "pubdate": "Fri, 01 Dec 2023 04:00:00 -0800"
       }
     ],
     [
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Ryan Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20Garcia",
+        "title": "Ryan garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20garcia",
         "pubdate": "Fri, 01 Dec 2023 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Mad Max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mad%20Max",
-        "pubdate": "Fri, 01 Dec 2023 10:00:00 -0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Von Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Von%20Miller",
-        "pubdate": "Thu, 30 Nov 2023 09:00:00 -0800"
+        "title": "Golden Bachelor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Bachelor",
+        "pubdate": "Thu, 30 Nov 2023 08:00:00 -0800"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Golden Bachelor finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Bachelor%20finale",
-        "pubdate": "Thu, 30 Nov 2023 12:00:00 -0800"
+        "title": "Von Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Von%20Miller",
+        "pubdate": "Thu, 30 Nov 2023 09:00:00 -0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Zach Ertz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zach%20Ertz",
-        "pubdate": "Thu, 30 Nov 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Renaissance: A Film by Beyoncé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Renaissance:%20A%20Film%20by%20Beyonc%C3%A9",
         "pubdate": "Thu, 30 Nov 2023 21:00:00 -0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Northern lights",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northern%20lights",
-        "pubdate": "Thu, 30 Nov 2023 17:00:00 -0800"
+        "title": "Zach Ertz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zach%20Ertz",
+        "pubdate": "Thu, 30 Nov 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Furiosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Furiosa",
+        "pubdate": "Thu, 30 Nov 2023 19:00:00 -0800"
       }
     ]
   ]
