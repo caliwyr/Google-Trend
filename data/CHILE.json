@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2023 , 05:48:10",
+  "lastUpdate": "01-12-2023 , 05:57:29",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Luis Bates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20Bates",
+        "pubdate": "Thu, 30 Nov 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Estadio Monumental",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estadio%20Monumental",
         "pubdate": "Thu, 30 Nov 2023 18:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Tomás Barrios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%C3%A1s%20Barrios",
+        "title": "Santoral de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santoral%20de%20hoy",
         "pubdate": "Thu, 30 Nov 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Shane MacGowan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Shane%20MacGowan",
-        "pubdate": "Thu, 30 Nov 2023 18:00:00 -0300"
       }
     ]
   ]
