@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-12-2023 , 08:51:10",
+  "lastUpdate": "01-12-2023 , 09:00:46",
   "data": [
-    [
-      {
-        "title": "December",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#December",
-        "pubdate": "Fri, 01 Dec 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Aston Villa vs Legia Warszawa",
@@ -24,9 +17,16 @@
     ],
     [
       {
-        "title": "Saudi Pro League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Saudi%20Pro%20League",
-        "pubdate": "Fri, 01 Dec 2023 00:00:00 +0800"
+        "title": "December",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#December",
+        "pubdate": "Fri, 01 Dec 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sweet Home Season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sweet%20Home%20Season%202",
+        "pubdate": "Fri, 01 Dec 2023 06:00:00 +0800"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Saudi Pro League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Saudi%20Pro%20League",
+        "pubdate": "Fri, 01 Dec 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Digital ID Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Digital%20ID%20Malaysia",
+        "pubdate": "Fri, 01 Dec 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "CelcomDigi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CelcomDigi",
         "pubdate": "Fri, 01 Dec 2023 11:00:00 +0800"
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "Sweet Home",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sweet%20Home",
-        "pubdate": "Fri, 01 Dec 2023 13:00:00 +0800"
+        "title": "Family Switch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Family%20Switch",
+        "pubdate": "Fri, 01 Dec 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
+        "pubdate": "Thu, 30 Nov 2023 00:00:00 +0800"
       }
     ],
     [
@@ -87,16 +108,16 @@
     ],
     [
       {
-        "title": "Henry Kissinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Henry%20Kissinger",
-        "pubdate": "Thu, 30 Nov 2023 11:00:00 +0800"
+        "title": "Daniel Padilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Daniel%20Padilla",
+        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Daniel Padilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Daniel%20Padilla",
-        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0800"
+        "title": "Henry Kissinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Henry%20Kissinger",
+        "pubdate": "Thu, 30 Nov 2023 11:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "GXBank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#GXBank",
         "pubdate": "Thu, 30 Nov 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Krispy Kreme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Krispy%20Kreme",
-        "pubdate": "Thu, 30 Nov 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "E Wallet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#E%20Wallet",
-        "pubdate": "Thu, 30 Nov 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid%20FC",
-        "pubdate": "Thu, 30 Nov 2023 09:00:00 +0800"
       }
     ]
   ]
