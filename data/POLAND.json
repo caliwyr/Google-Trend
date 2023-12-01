@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2023 , 13:52:29",
+  "lastUpdate": "01-12-2023 , 14:06:59",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "GROMDA 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GROMDA%2015",
-        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ajax",
         "pubdate": "Fri, 01 Dec 2023 00:00:00 +0100"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "RMF Classic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF%20Classic",
+        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Airly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Airly",
         "pubdate": "Fri, 01 Dec 2023 11:00:00 +0100"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Zorza polarna polska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zorza%20polarna%20polska",
-        "pubdate": "Fri, 01 Dec 2023 08:00:00 +0100"
+        "title": "Strzelanina w Pszczynie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Strzelanina%20w%20Pszczynie",
+        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Strzelanina w Pszczynie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Strzelanina%20w%20Pszczynie",
-        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0100"
+        "title": "Jeremy Sochan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jeremy%20Sochan",
+        "pubdate": "Fri, 01 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Jeremy Sochan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jeremy%20Sochan",
+        "title": "Holecka odchodzi z TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Holecka%20odchodzi%20z%20TVP",
         "pubdate": "Fri, 01 Dec 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Holecka odchodzi z TVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Holecka%20odchodzi%20z%20TVP",
-        "pubdate": "Fri, 01 Dec 2023 13:00:00 +0100"
+        "title": "PRO8L3M",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PRO8L3M",
+        "pubdate": "Fri, 01 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "TVP Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Sport",
-        "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
+        "title": "Paliwo E10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paliwo%20E10",
+        "pubdate": "Thu, 30 Nov 2023 01:00:00 +0100"
       }
     ]
   ]
