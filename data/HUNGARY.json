@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2023 , 06:52:51",
+  "lastUpdate": "01-12-2023 , 07:07:45",
   "data": [
     [
       {
@@ -33,7 +33,7 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0100"
+        "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "El",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
-        "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina",
         "pubdate": "Thu, 30 Nov 2023 23:00:00 +0100"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Téli gumi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20gumi",
+        "title": "Corvin Pláza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Corvin%20Pl%C3%A1za",
         "pubdate": "Thu, 30 Nov 2023 18:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Hugh Jackman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hugh%20Jackman",
         "pubdate": "Thu, 30 Nov 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Harsányi Levente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hars%C3%A1nyi%20Levente",
+        "pubdate": "Thu, 30 Nov 2023 17:00:00 +0100"
       }
     ]
   ]
