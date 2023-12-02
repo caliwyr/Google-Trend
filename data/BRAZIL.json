@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "02-12-2023 , 16:52:28",
+  "lastUpdate": "02-12-2023 , 17:05:56",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
+        "pubdate": "Sat, 02 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayern x Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Union%20Berlin",
+        "pubdate": "Sat, 02 Dec 2023 08:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Macaulay Culkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Macaulay%20Culkin",
         "pubdate": "Sat, 02 Dec 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
-        "pubdate": "Sat, 02 Dec 2023 08:00:00 -0500"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Genoa",
+        "pubdate": "Sat, 02 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lamborghini filme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lamborghini%20filme",
         "pubdate": "Sat, 02 Dec 2023 02:00:00 -0500"
@@ -31,16 +45,30 @@
     ],
     [
       {
-        "title": "Andre Janones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andre%20Janones",
-        "pubdate": "Sat, 02 Dec 2023 06:00:00 -0500"
+        "title": "Celtics x 76ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics%20x%2076ers",
+        "pubdate": "Sat, 02 Dec 2023 00:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Genoa",
+        "title": "Flamengo x Cuiabá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Cuiab%C3%A1",
         "pubdate": "Sat, 02 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leipzig",
+        "pubdate": "Sat, 02 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Andre Janones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andre%20Janones",
+        "pubdate": "Sat, 02 Dec 2023 06:00:00 -0500"
       }
     ],
     [
@@ -73,6 +101,13 @@
     ],
     [
       {
+        "title": "George Santos EUA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#George%20Santos%20EUA",
+        "pubdate": "Fri, 01 Dec 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
         "pubdate": "Fri, 01 Dec 2023 22:00:00 -0500"
@@ -94,13 +129,6 @@
     ],
     [
       {
-        "title": "George Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#George%20Santos",
-        "pubdate": "Fri, 01 Dec 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Getafe",
         "pubdate": "Fri, 01 Dec 2023 10:00:00 -0500"
@@ -111,34 +139,6 @@
         "title": "1 de dezembro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#1%20de%20dezembro",
         "pubdate": "Fri, 01 Dec 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Furiosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Furiosa",
-        "pubdate": "Fri, 01 Dec 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Gusttavo lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gusttavo%20lima",
-        "pubdate": "Fri, 01 Dec 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Fri, 01 Dec 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Zack Snyder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zack%20Snyder",
-        "pubdate": "Fri, 01 Dec 2023 19:00:00 -0500"
       }
     ]
   ]
