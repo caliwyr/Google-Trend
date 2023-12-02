@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "02-12-2023 , 18:50:34",
+  "lastUpdate": "02-12-2023 , 18:59:46",
   "data": [
+    [
+      {
+        "title": "Flughafen Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flughafen%20Z%C3%BCrich",
+        "pubdate": "Sat, 02 Dec 2023 15:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tremblant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tremblant",
         "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tirage au sort Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tirage%20au%20sort%20Euro%202024",
+        "pubdate": "Sat, 02 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Bayern gegen Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Union%20Berlin",
-        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
+        "title": "Voice of Germany 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Voice%20of%20Germany%202023",
+        "pubdate": "Sat, 02 Dec 2023 07:00:00 +0100"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Tirage au sort Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tirage%20au%20sort%20Euro%202024",
-        "pubdate": "Sat, 02 Dec 2023 13:00:00 +0100"
+        "title": "Bayern gegen Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20Union%20Berlin",
+        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -68,6 +82,13 @@
       {
         "title": "Bode Miller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bode%20Miller",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Euro Million",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euro%20Million",
         "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
       }
     ],
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "The Voice of Germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Voice%20of%20Germany",
-        "pubdate": "Sat, 02 Dec 2023 07:00:00 +0100"
+        "title": "Gossauer Weihnachtslauf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gossauer%20Weihnachtslauf",
+        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -108,23 +129,9 @@
     ],
     [
       {
-        "title": "GCZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GCZ",
-        "pubdate": "Sat, 02 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Schneemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schneemann",
-        "pubdate": "Sat, 02 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Godzilla Minus One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Godzilla%20Minus%20One",
-        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0100"
+        "title": "Paul Mirabel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Mirabel",
+        "pubdate": "Sat, 02 Dec 2023 07:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schnee Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schnee%20Schweiz",
         "pubdate": "Sat, 02 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Euro Millions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euro%20Millions",
-        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
