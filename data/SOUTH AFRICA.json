@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-12-2023 , 07:49:06",
+  "lastUpdate": "02-12-2023 , 07:58:25",
   "data": [
-    [
-      {
-        "title": "Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
-        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Miss World sa",
@@ -17,9 +10,30 @@
     ],
     [
       {
+        "title": "Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
+        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20Santos",
         "pubdate": "Sat, 02 Dec 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dubai Sevens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dubai%20Sevens",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al-Hilal vs al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Hilal%20vs%20al-nassr",
+        "pubdate": "Fri, 01 Dec 2023 20:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Notts County",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Notts%20County",
-        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0200"
+        "title": "England vs Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Netherlands",
+        "pubdate": "Fri, 01 Dec 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "England vs Netherlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Netherlands",
-        "pubdate": "Fri, 01 Dec 2023 23:00:00 +0200"
+        "title": "Notts County",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Notts%20County",
+        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Hilal",
-        "pubdate": "Fri, 01 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool vs LASK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20LASK",
         "pubdate": "Thu, 30 Nov 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
-        "pubdate": "Thu, 30 Nov 2023 12:00:00 +0200"
       }
     ]
   ]
