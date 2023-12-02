@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2023 , 13:57:08",
+  "lastUpdate": "02-12-2023 , 14:12:12",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Futbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol",
+        "title": "Primera Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Nacional",
         "pubdate": "Sat, 02 Dec 2023 09:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Tucu Correa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tucu%20Correa",
-        "pubdate": "Sat, 02 Dec 2023 00:00:00 -0300"
+        "title": "Futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 -0300"
       }
     ],
     [
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Nuevo DNI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nuevo%20DNI",
+        "pubdate": "Fri, 01 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Duki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Duki",
         "pubdate": "Fri, 01 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Emilia Mernes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Emilia%20Mernes",
+        "pubdate": "Fri, 01 Dec 2023 11:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Nuevo DNI electrónico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nuevo%20DNI%20electr%C3%B3nico",
-        "pubdate": "Fri, 01 Dec 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Bienvenido Diciembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bienvenido%20Diciembre",
         "pubdate": "Fri, 01 Dec 2023 08:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Union",
-        "pubdate": "Fri, 01 Dec 2023 00:00:00 -0300"
       }
     ]
   ]

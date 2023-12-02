@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2023 , 13:57:15",
+  "lastUpdate": "02-12-2023 , 14:12:18",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Pez remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pez%20remo",
-        "pubdate": "Fri, 01 Dec 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bruce%20Willis",
         "pubdate": "Fri, 01 Dec 2023 22:00:00 -0600"
@@ -139,6 +132,13 @@
         "title": "Macaulay Culkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Macaulay%20Culkin",
         "pubdate": "Fri, 01 Dec 2023 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Beetlejuice",
+        "pubdate": "Fri, 01 Dec 2023 11:00:00 -0600"
       }
     ]
   ]
