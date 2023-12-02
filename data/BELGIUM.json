@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2023 , 22:55:39",
+  "lastUpdate": "02-12-2023 , 23:11:38",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Renaud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Renaud",
         "pubdate": "Sat, 02 Dec 2023 00:00:00 +0100"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Arsenal – Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%E2%80%93%20Wolves",
+        "title": "Arsenal – wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%E2%80%93%20wolves",
         "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
       }
     ],
@@ -59,9 +66,30 @@
     ],
     [
       {
+        "title": "Newcastle – Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Newcastle%20%E2%80%93%20Manchester%20United",
+        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "RWDM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
         "pubdate": "Sat, 02 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "EK voetbal 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EK%20voetbal%202024",
+        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan – Frosinone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan%20%E2%80%93%20Frosinone",
+        "pubdate": "Sat, 02 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
-        "pubdate": "Sat, 02 Dec 2023 22:00:00 +0100"
+        "title": "Dave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dave",
+        "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cher",
-        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lens – Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens%20%E2%80%93%20Lyon",
         "pubdate": "Sat, 02 Dec 2023 19:00:00 +0100"
@@ -101,16 +122,9 @@
     ],
     [
       {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nations%20League",
-        "pubdate": "Sat, 02 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sweet Home",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sweet%20Home",
-        "pubdate": "Sat, 02 Dec 2023 00:00:00 +0100"
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cher",
+        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Concha Velasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Concha%20Velasco",
-        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Bruel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Bruel",
-        "pubdate": "Sat, 02 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "La Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Callas",
         "pubdate": "Sat, 02 Dec 2023 20:00:00 +0100"
       }
     ]
