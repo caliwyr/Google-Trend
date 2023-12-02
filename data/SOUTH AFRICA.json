@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2023 , 19:52:10",
+  "lastUpdate": "02-12-2023 , 20:06:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sundowns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
         "pubdate": "Sat, 02 Dec 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid vs Granada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Granada",
+        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Real Madrid vs Granada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Granada",
-        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brentford vs Luton Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20Luton%20Town",
         "pubdate": "Sat, 02 Dec 2023 15:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Sevens Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevens%20Rugby",
-        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
+        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Blitzboks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blitzboks",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Macaulay Culkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Macaulay%20Culkin",
         "pubdate": "Sat, 02 Dec 2023 12:00:00 +0200"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
-        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
+        "title": "Sevens Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevens%20Rugby",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20Santos",
         "pubdate": "Sat, 02 Dec 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
-        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0200"
       }
     ]
   ]
