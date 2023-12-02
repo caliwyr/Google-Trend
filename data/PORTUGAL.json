@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-12-2023 , 21:50:00",
+  "lastUpdate": "02-12-2023 , 21:59:21",
   "data": [
-    [
-      {
-        "title": "Famalicão  Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Porto",
-        "pubdate": "Sat, 02 Dec 2023 18:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Real Madrid  Granada",
@@ -38,9 +31,23 @@
     ],
     [
       {
-        "title": "Rio Ave  Estrela Amadora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave%20%20Estrela%20Amadora",
+        "title": "Newcastle  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle%20%20Manchester%20United",
+        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Rio Ave-Estrela Amadora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave-Estrela%20Amadora",
         "pubdate": "Sat, 02 Dec 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Alerta tsunami Filipinas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alerta%20tsunami%20Filipinas",
+        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0000"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Floresta Encantada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Floresta%20Encantada",
-        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Concha Velasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Concha%20Velasco",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 +0000"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Sismo Filipinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo%20Filipinas",
-        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0000"
+        "title": "Floresta Encantada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Floresta%20Encantada",
+        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0000"
       }
     ],
     [
@@ -87,30 +87,9 @@
     ],
     [
       {
-        "title": "Newcastle  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle%20%20Manchester%20United",
-        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Portugal FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20FC",
         "pubdate": "Sat, 02 Dec 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bully XL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bully%20XL",
-        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
-        "pubdate": "Sat, 02 Dec 2023 15:00:00 +0000"
       }
     ],
     [
@@ -122,9 +101,23 @@
     ],
     [
       {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
+        "pubdate": "Sat, 02 Dec 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Neemias Queta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neemias%20Queta",
         "pubdate": "Sat, 02 Dec 2023 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Moreirense Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moreirense%20Benfica",
+        "pubdate": "Sat, 02 Dec 2023 18:00:00 +0000"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Moreirense Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moreirense%20Benfica",
-        "pubdate": "Sat, 02 Dec 2023 18:00:00 +0000"
+        "title": "Dino D'Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dino%20D'Santiago",
+        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leipzig",
+        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0000"
       }
     ]
   ]
