@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2023 , 10:48:55",
+  "lastUpdate": "02-12-2023 , 10:58:17",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Finance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Finance",
-        "pubdate": "Sat, 02 Dec 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Salaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Salaar",
         "pubdate": "Sat, 02 Dec 2023 09:00:00 +0800"
@@ -48,6 +41,20 @@
         "title": "M5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#M5",
         "pubdate": "Sat, 02 Dec 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Finance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Finance",
+        "pubdate": "Sat, 02 Dec 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "LRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LRT",
+        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "December",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#December",
         "pubdate": "Fri, 01 Dec 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Furiosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Furiosa",
-        "pubdate": "Fri, 01 Dec 2023 10:00:00 +0800"
       }
     ]
   ]
