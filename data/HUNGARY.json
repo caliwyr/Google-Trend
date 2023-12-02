@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-12-2023 , 08:47:57",
+  "lastUpdate": "02-12-2023 , 08:57:21",
   "data": [
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Serie%20A",
+        "pubdate": "Sat, 02 Dec 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Országos Meteorológiai Szolgálat",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
-        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#GTA%206",
         "pubdate": "Fri, 01 Dec 2023 20:00:00 +0100"
@@ -69,6 +69,20 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al-Nassr",
         "pubdate": "Fri, 01 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
+        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ganxsta Zolee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ganxsta%20Zolee",
+        "pubdate": "Fri, 01 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Sydney van den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sydney%20van%20den%20Bosch",
-        "pubdate": "Fri, 01 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ákos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81kos",
         "pubdate": "Fri, 01 Dec 2023 20:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Jenei Zoltán országos kórházi-főigazgató",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jenei%20Zolt%C3%A1n%20orsz%C3%A1gos%20k%C3%B3rh%C3%A1zi-f%C5%91igazgat%C3%B3",
         "pubdate": "Fri, 01 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool–lask",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93lask",
-        "pubdate": "Thu, 30 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
