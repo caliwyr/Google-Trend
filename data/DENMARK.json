@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-12-2023 , 08:00:05",
+  "lastUpdate": "03-12-2023 , 08:21:53",
   "data": [
+    [
+      {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fortnite",
+        "pubdate": "Sun, 03 Dec 2023 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Newcastle  Man utd",
@@ -132,13 +139,6 @@
         "title": "Dwayne Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dwayne%20Johnson",
         "pubdate": "Fri, 01 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Godzilla Minus One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Godzilla%20Minus%20One",
-        "pubdate": "Fri, 01 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
