@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-12-2023 , 03:51:04",
+  "lastUpdate": "03-12-2023 , 04:00:20",
   "data": [
+    [
+      {
+        "title": "KNMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
+        "pubdate": "Sun, 03 Dec 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Maria Callas",
@@ -132,13 +139,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Mon, 27 Nov 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
-        "pubdate": "Mon, 27 Nov 2023 21:00:00 +0100"
       }
     ]
   ]
