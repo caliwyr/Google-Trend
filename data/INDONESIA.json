@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2023 , 20:54:08",
+  "lastUpdate": "03-12-2023 , 21:08:13",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Liverpool vs Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liverpool%20vs%20Fulham",
-        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Persija Jakarta vs Persita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persija%20Jakarta%20vs%20Persita",
         "pubdate": "Sun, 03 Dec 2023 16:00:00 +0700"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Man City vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Tottenham",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0700"
+        "title": "Liverpool vs Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liverpool%20vs%20Fulham",
+        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0700"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Gunung Marapi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gunung%20Marapi",
-        "pubdate": "Sun, 03 Dec 2023 16:00:00 +0700"
+        "title": "Man City vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Tottenham",
+        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0700"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Doni Monardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Doni%20Monardo",
         "pubdate": "Sun, 03 Dec 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gunung Marapi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gunung%20Marapi",
+        "pubdate": "Sun, 03 Dec 2023 16:00:00 +0700"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Barcelona vs Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona%20vs%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Rohingya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Rohingya",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0700"
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Barcelona vs atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona%20vs%20atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bayern",
-        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liverpool%20FC",
         "pubdate": "Sun, 03 Dec 2023 23:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "Persib vs PSM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20vs%20PSM",
         "pubdate": "Sun, 03 Dec 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#UFC",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 +0700"
       }
     ]
   ]
