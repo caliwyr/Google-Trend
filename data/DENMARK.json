@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-12-2023 , 07:32:13",
+  "lastUpdate": "03-12-2023 , 07:41:35",
   "data": [
-    [
-      {
-        "title": "Epic Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Epic%20Games",
-        "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Newcastle  Man utd",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Fortnite event",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fortnite%20event",
+        "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Sat, 02 Dec 2023 19:00:00 +0100"
@@ -34,13 +34,6 @@
         "title": "Brentford  Luton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Luton",
         "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maria Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maria%20Callas",
-        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "The Holiday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Holiday",
+        "title": "The holiday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20holiday",
         "pubdate": "Fri, 01 Dec 2023 23:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Dwayne Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dwayne%20Johnson",
         "pubdate": "Fri, 01 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Godzilla Minus One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Godzilla%20Minus%20One",
+        "pubdate": "Fri, 01 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
