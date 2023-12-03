@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2023 , 09:53:50",
+  "lastUpdate": "03-12-2023 , 10:09:20",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortnite",
+        "pubdate": "Sat, 02 Dec 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Real sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20sociedad",
         "pubdate": "Sat, 02 Dec 2023 11:00:00 -0500"
@@ -90,13 +97,6 @@
         "title": "Frida Kahlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Frida%20Kahlo",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
-        "pubdate": "Sat, 02 Dec 2023 08:00:00 -0500"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortnite",
-        "pubdate": "Sat, 02 Dec 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Primavera Sound",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Primavera%20Sound",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Rever",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rever",
         "pubdate": "Sat, 02 Dec 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "America MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#America%20MG",
+        "pubdate": "Sat, 02 Dec 2023 19:00:00 -0500"
       }
     ]
   ]
