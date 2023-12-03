@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2023 , 08:50:26",
+  "lastUpdate": "03-12-2023 , 08:59:50",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
-        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Bully XL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bully%20XL",
         "pubdate": "Sat, 02 Dec 2023 19:00:00 +0000"
@@ -132,6 +125,13 @@
         "title": "Concha Velasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Concha%20Velasco",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
+        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0000"
       }
     ],
     [
