@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-12-2023 , 12:44:49",
+  "lastUpdate": "03-12-2023 , 12:58:36",
   "data": [
     [
       {
         "title": "Stormers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stormers",
         "pubdate": "Sun, 03 Dec 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "West Ham vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 03 Dec 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eminem",
+        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "CAF Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Champions%20League",
-        "pubdate": "Sat, 02 Dec 2023 17:00:00 +0200"
+        "title": "Sevens Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevens%20Rugby",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Blitzboks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blitzboks",
-        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brentford FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20FC",
         "pubdate": "Sat, 02 Dec 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macaulay Culkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Macaulay%20Culkin",
-        "pubdate": "Sat, 02 Dec 2023 12:00:00 +0200"
       }
     ]
   ]

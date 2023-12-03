@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-12-2023 , 12:44:48",
+  "lastUpdate": "03-12-2023 , 12:58:35",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 03 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kiss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiss",
+        "pubdate": "Sun, 03 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Kiss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiss",
-        "pubdate": "Sun, 03 Dec 2023 08:00:00 +0100"
+        "title": "Tesla Model 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tesla%20Model%203",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Jenny Huse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenny%20Huse",
-        "pubdate": "Sat, 02 Dec 2023 06:00:00 +0100"
+        "title": "Maihaugen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maihaugen",
+        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Norske Talenter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norske%20Talenter",
+        "pubdate": "Fri, 01 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ingrid Bjørnov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Bj%C3%B8rnov",
         "pubdate": "Fri, 01 Dec 2023 22:00:00 +0100"
@@ -87,9 +101,16 @@
     ],
     [
       {
-        "title": "Vm håndball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vm%20h%C3%A5ndball",
+        "title": "VM Håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VM%20H%C3%A5ndball",
         "pubdate": "Fri, 01 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Norge Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge%20Portugal",
+        "pubdate": "Fri, 01 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Markus Neby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Markus%20Neby",
+        "pubdate": "Fri, 01 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#George%20Santos",
         "pubdate": "Fri, 01 Dec 2023 19:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Ada Hegerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ada%20Hegerberg",
-        "pubdate": "Fri, 01 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#GTA%206",
         "pubdate": "Fri, 01 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Handball VM 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Handball%20VM%202023",
-        "pubdate": "Fri, 01 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Godzilla Minus One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Godzilla%20Minus%20One",
-        "pubdate": "Fri, 01 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Herrem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Herrem",
-        "pubdate": "Fri, 01 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
