@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2023 , 16:52:08",
+  "lastUpdate": "03-12-2023 , 17:04:18",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "KNMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
-        "pubdate": "Sun, 03 Dec 2023 00:00:00 +0100"
+        "title": "Spookrijder A1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spookrijder%20A1",
+        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Emma Kok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Kok",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
+        "title": "Saibari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Saibari",
+        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Utrecht AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20AZ",
+        "pubdate": "Sun, 03 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "KISS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KISS",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "A1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A1",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Fortuna  Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20%20Vitesse",
-        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0100"
+        "title": "KNMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
+        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -87,15 +87,15 @@
     ],
     [
       {
-        "title": "EK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK",
-        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "title": "Fortuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna",
         "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
       }
     ],
