@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-12-2023 , 18:56:53",
+  "lastUpdate": "03-12-2023 , 19:11:07",
   "data": [
+    [
+      {
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Epic%20Games",
+        "pubdate": "Sun, 03 Dec 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Morgan Freeman",
@@ -13,13 +20,6 @@
         "title": "Liverpool – Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Fulham",
         "pubdate": "Sun, 03 Dec 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eminem",
-        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0200"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Sun, 03 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester City – Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Tottenham",
         "pubdate": "Sun, 03 Dec 2023 19:00:00 +0200"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+        "pubdate": "Sun, 03 Dec 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valencia",
         "pubdate": "Sun, 03 Dec 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LEGO Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LEGO%20Fortnite",
+        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0200"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taylor%20Swift",
-        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
+        "title": "Fortnite live event",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fortnite%20live%20event",
+        "pubdate": "Sat, 02 Dec 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fortnite live event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fortnite%20live%20event",
-        "pubdate": "Sat, 02 Dec 2023 16:00:00 +0200"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taylor%20Swift",
+        "pubdate": "Sat, 02 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Singapore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The bear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20bear",
-        "pubdate": "Sat, 02 Dec 2023 22:00:00 +0200"
       }
     ]
   ]
