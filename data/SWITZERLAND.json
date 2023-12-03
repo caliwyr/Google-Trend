@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-12-2023 , 13:56:00",
+  "lastUpdate": "03-12-2023 , 14:10:45",
   "data": [
-    [
-      {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fortnite",
-        "pubdate": "Sun, 03 Dec 2023 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Paris",
@@ -27,6 +20,13 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund",
         "pubdate": "Sun, 03 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Le Havre – paris-sg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20Havre%20%E2%80%93%20paris-sg",
+        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Erdbeben Philippinen Tsunami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdbeben%20Philippinen%20Tsunami",
-        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
+        "title": "München Schneefall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#M%C3%BCnchen%20Schneefall",
+        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "München Schneefall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#M%C3%BCnchen%20Schneefall",
-        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
+        "title": "Erdbeben Philippinen Tsunami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdbeben%20Philippinen%20Tsunami",
+        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "U17-WM Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U17-WM%20Finale",
+        "title": "U17 WM-Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U17%20WM-Finale",
         "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
       }
     ],
