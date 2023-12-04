@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-12-2023 , 15:55:50",
+  "lastUpdate": "04-12-2023 , 16:17:21",
   "data": [
-    [
-      {
-        "title": "UNIR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UNIR",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Liga Portugal",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Joana Mascarenhas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Mascarenhas",
+        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bitcoin%20price",
         "pubdate": "Mon, 04 Dec 2023 13:00:00 +0000"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport",
-        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0000"
+        "title": "COP28",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#COP28",
+        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0000"
       }
     ],
     [
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport",
+        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Classificação",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Classifica%C3%A7%C3%A3o",
         "pubdate": "Mon, 04 Dec 2023 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Pedro Filipe Soares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Filipe%20Soares",
+        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0000"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Benfica hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20hoje",
-        "pubdate": "Sun, 03 Dec 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Palmeiras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
         "pubdate": "Sun, 03 Dec 2023 19:00:00 +0000"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "City-Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City-Tottenham",
-        "pubdate": "Sun, 03 Dec 2023 16:00:00 +0000"
+        "title": "Benfica hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20hoje",
+        "pubdate": "Sun, 03 Dec 2023 22:00:00 +0000"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Braga  Estoril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20%20Estoril",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "City-Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City-Tottenham",
+        "pubdate": "Sun, 03 Dec 2023 16:00:00 +0000"
       }
     ],
     [
@@ -124,21 +138,7 @@
       {
         "title": "Guiana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guiana",
-        "pubdate": "Sun, 03 Dec 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Resultado. Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Resultado.%20Benfica",
-        "pubdate": "Sun, 03 Dec 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Atlético-MG  São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20%20S%C3%A3o%20Paulo",
-        "pubdate": "Sun, 03 Dec 2023 01:00:00 +0000"
+        "pubdate": "Sun, 03 Dec 2023 15:00:00 +0000"
       }
     ]
   ]

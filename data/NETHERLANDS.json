@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-12-2023 , 15:55:49",
+  "lastUpdate": "04-12-2023 , 16:17:20",
   "data": [
     [
       {
         "title": "Pinkpop 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pinkpop%202024",
         "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Mon, 04 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Floris Expeditie Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Floris%20Expeditie%20Robinson",
-        "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Peter d'Hamecourt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Peter%20d'Hamecourt",
-        "pubdate": "Sun, 03 Dec 2023 16:00:00 +0100"
+        "title": "Feyenoord  PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20PSV",
+        "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ongeluk A1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ongeluk%20A1",
+        "pubdate": "Sun, 03 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Spookrijder A1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spookrijder%20A1",
-        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Suzan en Freek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzan%20en%20Freek",
         "pubdate": "Sun, 03 Dec 2023 19:00:00 +0100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Emma Kok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Kok",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
+        "title": "Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
+        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "A1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A1",
         "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barca",
+        "pubdate": "Sun, 03 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UEFA",
+        "title": "Sneeuw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
         "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Madonna",
-        "pubdate": "Fri, 01 Dec 2023 12:00:00 +0100"
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
       }
     ]
   ]

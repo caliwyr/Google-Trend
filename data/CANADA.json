@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "04-12-2023 , 15:55:45",
+  "lastUpdate": "04-12-2023 , 16:17:15",
   "data": [
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin",
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20price",
         "pubdate": "Mon, 04 Dec 2023 05:00:00 -0500"
       }
     ],
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Kangaroo Oshawa found",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kangaroo%20Oshawa%20found",
+        "pubdate": "Mon, 04 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Daniel Langlois",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daniel%20Langlois",
         "pubdate": "Sun, 03 Dec 2023 09:00:00 -0500"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Green Bay Packers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20Bay%20Packers",
+        "title": "Chiefs vs Packers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs%20vs%20Packers",
         "pubdate": "Sun, 03 Dec 2023 21:00:00 -0500"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steelers",
+        "pubdate": "Sun, 03 Dec 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Miami Dolphins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Dolphins",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Detroit Lions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dominica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dominica",
-        "pubdate": "Sun, 03 Dec 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pittsburgh Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pittsburgh%20Steelers",
-        "pubdate": "Sun, 03 Dec 2023 16:00:00 -0500"
       }
     ]
   ]
