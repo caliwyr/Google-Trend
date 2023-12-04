@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 17:53:33",
+  "lastUpdate": "04-12-2023 , 18:12:06",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "FCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
+        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Billie%20Eilish",
         "pubdate": "Mon, 04 Dec 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Matthias Schweighöfer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthias%20Schweigh%C3%B6fer",
+        "pubdate": "Mon, 04 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "FCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
-        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "GTA 6 Trailer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GTA%206%20Trailer",
         "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
+        "title": "Peter Studer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Studer",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "OM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
-        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
         "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "COP28",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#COP28",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
+        "title": "OM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
+        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0100"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Ruth Elkrief",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruth%20Elkrief",
         "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "COP28",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#COP28",
+        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Ethereum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ethereum",
         "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maja Riniker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maja%20Riniker",
+        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Leverkusen gegen Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20gegen%20Dortmund",
         "pubdate": "Sun, 03 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maria Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maria%20Callas",
-        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fortnite",
-        "pubdate": "Sun, 03 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
