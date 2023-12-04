@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-12-2023 , 02:18:38",
+  "lastUpdate": "04-12-2023 , 02:39:05",
   "data": [
     [
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City",
         "pubdate": "Sun, 03 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
+        "pubdate": "Sun, 03 Dec 2023 01:00:00 -0300"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
-        "pubdate": "Sun, 03 Dec 2023 01:00:00 -0300"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Leverkusen - Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leverkusen%20-%20Dortmund",
+        "title": "Leverkusen  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leverkusen%20%20Dortmund",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 -0300"
       }
     ],
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Estadio Mario Alberto Kempes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estadio%20Mario%20Alberto%20Kempes",
+        "pubdate": "Sun, 03 Dec 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle",
         "pubdate": "Sun, 03 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Titanic",
+        "pubdate": "Sun, 03 Dec 2023 19:00:00 -0300"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Día del Médico en Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%ADa%20del%20M%C3%A9dico%20en%20Argentina",
-        "pubdate": "Sun, 03 Dec 2023 14:00:00 -0300"
+        "title": "Elijo Creer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elijo%20Creer",
+        "pubdate": "Sun, 03 Dec 2023 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Elijo Creer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elijo%20Creer",
-        "pubdate": "Sun, 03 Dec 2023 20:00:00 -0300"
+        "title": "Seven Dubai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seven%20Dubai",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "LEGO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LEGO",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Titanic",
-        "pubdate": "Sun, 03 Dec 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ryan garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ryan%20garcia",
-        "pubdate": "Sun, 03 Dec 2023 01:00:00 -0300"
       }
     ]
   ]
