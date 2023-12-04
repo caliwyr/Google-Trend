@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "04-12-2023 , 00:28:02",
+  "lastUpdate": "04-12-2023 , 01:39:35",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
-        "pubdate": "Sun, 03 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Grêmio x Vasco da Gama",
@@ -24,9 +10,23 @@
     ],
     [
       {
+        "title": "City x Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Tottenham",
+        "pubdate": "Sun, 03 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sun, 03 Dec 2023 09:00:00 -0500"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Athletico-PR x Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Santos",
+        "pubdate": "Sun, 03 Dec 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
         "pubdate": "Sun, 03 Dec 2023 08:00:00 -0500"
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Athletico-PR x Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Santos",
+        "title": "Fortaleza x Goiás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Goi%C3%A1s",
         "pubdate": "Sun, 03 Dec 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Skate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Skate",
+        "pubdate": "Sun, 03 Dec 2023 06:00:00 -0500"
       }
     ],
     [
@@ -73,23 +87,9 @@
     ],
     [
       {
-        "title": "Rayssa Leal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rayssa%20Leal",
-        "pubdate": "Sun, 03 Dec 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cuiaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fortaleza x Goiás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Goi%C3%A1s",
-        "pubdate": "Sun, 03 Dec 2023 16:00:00 -0500"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Esporte Clube Bahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
+        "pubdate": "Sun, 03 Dec 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liga da Justiça",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20da%20Justi%C3%A7a",
+        "pubdate": "Sun, 03 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "3 de dezembro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#3%20de%20dezembro",
         "pubdate": "Sun, 03 Dec 2023 00:00:00 -0500"
@@ -118,20 +132,6 @@
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
         "pubdate": "Sun, 03 Dec 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Suarez",
-        "pubdate": "Sun, 03 Dec 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Psv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Psv",
-        "pubdate": "Sun, 03 Dec 2023 13:00:00 -0500"
       }
     ],
     [
