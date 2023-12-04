@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-12-2023 , 16:52:57",
+  "lastUpdate": "04-12-2023 , 17:07:35",
   "data": [
     [
       {
         "title": "Santa Barbara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santa%20Barbara",
         "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meteo Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Torino",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Italia",
-        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
+        "title": "Assalto portavalori oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Assalto%20portavalori%20oggi",
+        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Assalto portavalori oggi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Assalto%20portavalori%20oggi",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
+        "title": "Coppa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Italia",
+        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Sassuolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo",
         "pubdate": "Mon, 04 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mazzarri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mazzarri",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Sommer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sommer",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Achille Polonara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Achille%20Polonara",
         "pubdate": "Mon, 04 Dec 2023 08:00:00 +0100"
@@ -94,23 +87,16 @@
     ],
     [
       {
-        "title": "Dargen D'Amico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dargen%20D'Amico",
-        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0100"
+        "title": "8 dicembre Festa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#8%20dicembre%20Festa",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Putin",
-        "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Enzo Tortora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Enzo%20Tortora",
-        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0100"
+        "title": "Funerali Giulia Cecchettin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Funerali%20Giulia%20Cecchettin",
+        "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -122,15 +108,22 @@
     ],
     [
       {
-        "title": "Tirano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tirano",
-        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
+        "title": "Dargen D'Amico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dargen%20D'Amico",
+        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Isla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Isla",
+        "title": "Luca Ward",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luca%20Ward",
+        "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dire",
         "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Neve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neve",
         "pubdate": "Mon, 04 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tirano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tirano",
+        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
       }
     ]
   ]
