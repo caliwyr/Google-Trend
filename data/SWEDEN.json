@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 03:55:06",
+  "lastUpdate": "04-12-2023 , 04:13:59",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Röda havet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6da%20havet",
         "pubdate": "Sun, 03 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Första advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rsta%20advent",
+        "pubdate": "Sun, 03 Dec 2023 15:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Sebastian Samuelsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sebastian%20Samuelsson",
+        "pubdate": "Sun, 03 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0100"
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Elvira Pitzner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elvira%20Pitzner",
-        "pubdate": "Sun, 03 Dec 2023 06:00:00 +0100"
+        "title": "Johan Ulveson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Ulveson",
+        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Johan Ulveson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Ulveson",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
+        "title": "Leo Carlsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Carlsson",
+        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sat, 02 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sat, 02 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessie Diggins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessie%20Diggins",
-        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
       }
     ]
   ]
