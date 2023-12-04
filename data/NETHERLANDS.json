@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-12-2023 , 21:54:11",
+  "lastUpdate": "04-12-2023 , 22:09:24",
   "data": [
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Pinkpop 2024",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Zonnepanelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zonnepanelen",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
+        "title": "Ihattaren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ihattaren",
+        "pubdate": "Mon, 04 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#City",
+        "pubdate": "Mon, 04 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ongeluk A1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ongeluk%20A1",
+        "pubdate": "Sun, 03 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Feyenoord-PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
         "pubdate": "Sat, 02 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sneeuw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
-        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
