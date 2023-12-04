@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "04-12-2023 , 14:56:35",
+  "lastUpdate": "04-12-2023 , 15:15:18",
   "data": [
-    [
-      {
-        "title": "Rune Øygard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rune%20%C3%98ygard",
-        "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Ken Stornes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ken%20Stornes",
         "pubdate": "Mon, 04 Dec 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gaupe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaupe",
-        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -31,9 +17,9 @@
     ],
     [
       {
-        "title": "Hugh Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hugh%20Grant",
-        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
+        "title": "Gaupe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaupe",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -41,6 +27,13 @@
         "title": "Simon Hooper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Simon%20Hooper",
         "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hugh Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hugh%20Grant",
+        "pubdate": "Mon, 04 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -87,9 +80,23 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Newcastle",
+        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Extra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Extra",
         "pubdate": "Sun, 03 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "VM håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VM%20h%C3%A5ndball",
+        "pubdate": "Sun, 03 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,22 +115,8 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Newcastle",
-        "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Strømstøtte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8mst%C3%B8tte",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
         "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Peter griffin Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Peter%20griffin%20Fortnite",
-        "pubdate": "Sun, 03 Dec 2023 23:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lego Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lego%20Fortnite",
+        "pubdate": "Sun, 03 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
