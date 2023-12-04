@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 11:53:50",
+  "lastUpdate": "04-12-2023 , 12:17:57",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
-        "pubdate": "Sun, 03 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSV",
         "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
@@ -111,13 +104,6 @@
         "title": "Chelsea fixtures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20fixtures",
         "pubdate": "Sun, 03 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Betis",
-        "pubdate": "Sun, 03 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Clippers vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Clippers%20vs%20Warriors",
         "pubdate": "Sun, 03 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ManUtd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#ManUtd",
+        "pubdate": "Sun, 03 Dec 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Man%20United",
+        "pubdate": "Sat, 02 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
