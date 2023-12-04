@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 01:39:43",
+  "lastUpdate": "04-12-2023 , 02:18:47",
   "data": [
     [
       {
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barca",
+        "title": "Anne Will",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Will",
         "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -118,13 +118,6 @@
         "title": "Liverpool gegen FC Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20FC%20Fulham",
         "pubdate": "Sun, 03 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Will",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Will",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "The Masked Singer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Masked%20Singer",
         "pubdate": "Sun, 03 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Venezuela",
+        "pubdate": "Sun, 03 Dec 2023 12:00:00 +0100"
       }
     ]
   ]
