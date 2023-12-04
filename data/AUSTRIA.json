@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-12-2023 , 20:51:27",
+  "lastUpdate": "04-12-2023 , 21:01:38",
   "data": [
     [
       {
         "title": "Goldpreis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldpreis",
         "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hinterland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hinterland",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Austria Klagenfurt gegen Hartberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20gegen%20Hartberg",
+        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -17,16 +31,16 @@
     ],
     [
       {
-        "title": "Handy-Signatur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handy-Signatur",
-        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin",
+        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin",
-        "pubdate": "Mon, 04 Dec 2023 18:00:00 +0100"
+        "title": "Handy-Signatur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handy-Signatur",
+        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Franz Bartolomey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20Bartolomey",
-        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brand Wien-Floridsdorf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Wien-Floridsdorf",
         "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
@@ -62,13 +69,6 @@
         "title": "GTA 6 Trailer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GTA%206%20Trailer",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gianluigi Donnarumma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gianluigi%20Donnarumma",
-        "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,20 @@
     ],
     [
       {
+        "title": "Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Malaysia",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#China",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Streusalz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Streusalz",
         "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BTC",
-        "pubdate": "Mon, 04 Dec 2023 13:00:00 +0100"
+        "title": "Edtstadler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Edtstadler",
+        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Sumatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sumatra",
-        "pubdate": "Mon, 04 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DFB-Pokal",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Edtstadler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Edtstadler",
-        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0100"
+        "title": "Thomas Brezina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thomas%20Brezina",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
