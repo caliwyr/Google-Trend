@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 05:57:05",
+  "lastUpdate": "04-12-2023 , 06:20:32",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Ulf Lundell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Lundell",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leo Carlsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Carlsson",
         "pubdate": "Sun, 03 Dec 2023 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Sat, 02 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessie Diggins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessie%20Diggins",
-        "pubdate": "Sat, 02 Dec 2023 11:00:00 +0100"
       }
     ]
   ]

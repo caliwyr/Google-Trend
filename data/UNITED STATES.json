@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 05:56:56",
+  "lastUpdate": "04-12-2023 , 06:20:24",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins",
+        "title": "Steelers' game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers'%20game",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 -0800"
       }
     ],
@@ -38,15 +38,15 @@
     ],
     [
       {
-        "title": "Miami Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Dolphins",
+        "title": "Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Cardinals vs Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardinals%20vs%20Steelers",
+        "title": "Miami Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Dolphins",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 -0800"
       }
     ],
@@ -66,29 +66,15 @@
     ],
     [
       {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jets",
+        "pubdate": "Sun, 03 Dec 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Louisville football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
-        "pubdate": "Sun, 03 Dec 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Cardinals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardinals",
-        "pubdate": "Sun, 03 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Joe Flacco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Flacco",
-        "pubdate": "Sun, 03 Dec 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Rose Bowl 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rose%20Bowl%202024",
         "pubdate": "Sun, 03 Dec 2023 10:00:00 -0800"
       }
     ],
@@ -101,16 +87,23 @@
     ],
     [
       {
-        "title": "Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jets",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 -0800"
+        "title": "Rose Bowl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rose%20Bowl%202024",
+        "pubdate": "Sun, 03 Dec 2023 10:00:00 -0800"
       }
     ],
     [
       {
-        "title": "College Football bowl games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20Football%20bowl%20games",
-        "pubdate": "Sun, 03 Dec 2023 12:00:00 -0800"
+        "title": "Joe Flacco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Flacco",
+        "pubdate": "Sun, 03 Dec 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Arizona Cardinals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arizona%20Cardinals",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chargers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chargers",
         "pubdate": "Sun, 03 Dec 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Sun, 03 Dec 2023 08:00:00 -0800"
       }
     ]
   ]
