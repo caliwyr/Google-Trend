@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 14:46:56",
+  "lastUpdate": "05-12-2023 , 14:56:14",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
+        "title": "Čert a Mikuláš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cert%20a%20Mikul%C3%A1%C5%A1",
+        "pubdate": "Tue, 05 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GTA%206",
+        "pubdate": "Mon, 04 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mikuláš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mikul%C3%A1%C5%A1",
         "pubdate": "Mon, 04 Dec 2023 08:00:00 +0100"
       }
     ],
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Abba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Abba",
-        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0100"
+        "title": "Cert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cert",
+        "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Cert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cert",
-        "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
+        "title": "Abba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Abba",
+        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -62,6 +76,13 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BTC",
         "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Xixoio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Xixoio",
+        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Andel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andel",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mary Kay Letourneau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mary%20Kay%20Letourneau",
-        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anděl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#And%C4%9Bl",
         "pubdate": "Mon, 04 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hana vagnerova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hana%20vagnerova",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
