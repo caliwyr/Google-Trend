@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 04:49:56",
+  "lastUpdate": "05-12-2023 , 04:59:26",
   "data": [
     [
       {
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "Mengolini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mengolini",
-        "pubdate": "Mon, 04 Dec 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Petri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Petri",
         "pubdate": "Mon, 04 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ley omnibus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ley%20omnibus",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 -0300"
       }
     ],
     [
@@ -66,6 +52,20 @@
     ],
     [
       {
+        "title": "Ley omnibus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ley%20omnibus",
+        "pubdate": "Mon, 04 Dec 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Stephanie Demner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Stephanie%20Demner",
+        "pubdate": "Mon, 04 Dec 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Gremio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gremio",
         "pubdate": "Mon, 04 Dec 2023 07:00:00 -0300"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Sorteo Procrear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sorteo%20Procrear",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 -0300"
+        "title": "Amoniaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Amoniaco",
+        "pubdate": "Mon, 04 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Juan Grabois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juan%20Grabois",
+        "pubdate": "Mon, 04 Dec 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Botafogo",
         "pubdate": "Mon, 04 Dec 2023 17:00:00 -0300"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Juan Grabois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juan%20Grabois",
-        "pubdate": "Mon, 04 Dec 2023 22:00:00 -0300"
+        "title": "Sorteo Procrear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sorteo%20Procrear",
+        "pubdate": "Mon, 04 Dec 2023 19:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vasco da Gama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vasco%20da%20Gama",
         "pubdate": "Mon, 04 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fluminense",
-        "pubdate": "Mon, 04 Dec 2023 09:00:00 -0300"
       }
     ]
   ]
