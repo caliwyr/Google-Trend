@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2023 , 23:52:52",
+  "lastUpdate": "05-12-2023 , 00:38:19",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Secondary School",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Secondary%20School",
+        "title": "Secondary school",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Secondary%20school",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0800"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "Godzilla Minus One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Godzilla%20Minus%20One",
         "pubdate": "Mon, 04 Dec 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20City",
+        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0800"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Simon Hooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Simon%20Hooper",
-        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "COVID-19",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#COVID-19",
         "pubdate": "Mon, 04 Dec 2023 00:00:00 +0800"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "COVID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#COVID",
+        "title": "Covid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Covid",
         "pubdate": "Mon, 04 Dec 2023 01:00:00 +0800"
       }
     ]
