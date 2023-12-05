@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-12-2023 , 22:54:43",
+  "lastUpdate": "05-12-2023 , 23:10:52",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
+        "pubdate": "Wed, 06 Dec 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Çalışan emekliye 5000 TL ikramiye",
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Antalyaspor Kepez Belediyespor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor%20Kepez%20Belediyespor",
+        "title": "Antalyaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor",
         "pubdate": "Tue, 05 Dec 2023 17:00:00 +0300"
       }
     ],
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Karagümrük",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Karag%C3%BCmr%C3%BCk",
+        "pubdate": "Tue, 05 Dec 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "beIN SPORTS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#beIN%20SPORTS",
         "pubdate": "Tue, 05 Dec 2023 10:00:00 +0300"
@@ -90,6 +104,13 @@
         "title": "Anadolu Efes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Efes",
         "pubdate": "Tue, 05 Dec 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zeynep Dizdar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zeynep%20Dizdar",
+        "pubdate": "Tue, 05 Dec 2023 10:00:00 +0300"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Zeynep Dizdar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zeynep%20Dizdar",
-        "pubdate": "Tue, 05 Dec 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Doğan Kökdemir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Do%C4%9Fan%20K%C3%B6kdemir",
         "pubdate": "Tue, 05 Dec 2023 12:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Margot%20Robbie",
-        "pubdate": "Tue, 05 Dec 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "TRT Spor CANLI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Spor%20CANLI",
-        "pubdate": "Tue, 05 Dec 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Memur maaş zammı enflasyon farkı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Memur%20maa%C5%9F%20zamm%C4%B1%20enflasyon%20fark%C4%B1",
-        "pubdate": "Tue, 05 Dec 2023 01:00:00 +0300"
+        "title": "Hadise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hadise",
+        "pubdate": "Tue, 05 Dec 2023 17:00:00 +0300"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-12-2023 , 22:54:31",
+  "lastUpdate": "05-12-2023 , 23:10:43",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "pubdate": "Wed, 06 Dec 2023 08:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Killers of the Flower Moon",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Luton Town vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luton%20Town%20vs%20Arsenal",
-        "pubdate": "Wed, 06 Dec 2023 08:00:00 +1100"
+        "title": "Scotland vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scotland%20vs%20England",
+        "pubdate": "Wed, 06 Dec 2023 09:00:00 +1100"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "RBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
         "pubdate": "Tue, 05 Dec 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Cyclone Jasper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cyclone%20Jasper",
+        "pubdate": "Tue, 05 Dec 2023 10:00:00 +1100"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Trevor Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trevor%20Lawrence",
+        "pubdate": "Tue, 05 Dec 2023 19:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Tyrese Haliburton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyrese%20Haliburton",
         "pubdate": "Tue, 05 Dec 2023 16:00:00 +1100"
@@ -69,13 +90,6 @@
         "title": "Rizz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rizz",
         "pubdate": "Tue, 05 Dec 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Trevor Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trevor%20Lawrence",
-        "pubdate": "Tue, 05 Dec 2023 19:00:00 +1100"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Agnes Chow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Agnes%20Chow",
-        "pubdate": "Tue, 05 Dec 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "LIV Golf Adelaide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LIV%20Golf%20Adelaide",
         "pubdate": "Tue, 05 Dec 2023 21:00:00 +1100"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Cyclone Jasper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cyclone%20Jasper",
+        "title": "Cyclone qld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cyclone%20qld",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +1100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20price",
         "pubdate": "Mon, 04 Dec 2023 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-        "pubdate": "Mon, 04 Dec 2023 09:00:00 +1100"
       }
     ]
   ]
