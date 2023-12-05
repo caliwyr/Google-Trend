@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 00:38:19",
+  "lastUpdate": "05-12-2023 , 01:43:14",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Gig worker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Gig%20worker",
-        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#City",
         "pubdate": "Mon, 04 Dec 2023 07:00:00 +0800"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Covid",
+        "title": "Hans Isaac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hans%20Isaac",
+        "pubdate": "Mon, 04 Dec 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "COVID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#COVID",
         "pubdate": "Mon, 04 Dec 2023 01:00:00 +0800"
       }
     ]
