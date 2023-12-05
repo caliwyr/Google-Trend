@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 02:58:20",
+  "lastUpdate": "05-12-2023 , 03:18:20",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "De Warmste Week",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Warmste%20Week",
-        "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fouad Ahidar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fouad%20Ahidar",
         "pubdate": "Mon, 04 Dec 2023 04:00:00 +0100"
@@ -90,6 +83,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Billie%20Eilish",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "De Warmste Week Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Warmste%20Week%20Brugge",
+        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "La fille au bracelet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20fille%20au%20bracelet",
-        "pubdate": "Mon, 04 Dec 2023 23:00:00 +0100"
+        "title": "Deadpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deadpool",
+        "pubdate": "Mon, 04 Dec 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Deadpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deadpool",
-        "pubdate": "Mon, 04 Dec 2023 22:00:00 +0100"
+        "title": "La fille au bracelet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20fille%20au%20bracelet",
+        "pubdate": "Mon, 04 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
