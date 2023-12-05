@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 08:51:28",
+  "lastUpdate": "05-12-2023 , 09:01:50",
   "data": [
     [
       {
@@ -26,13 +26,6 @@
       {
         "title": "Pet peeve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pet%20peeve",
-        "pubdate": "Tue, 05 Dec 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Peta Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Peta%20Murphy",
         "pubdate": "Tue, 05 Dec 2023 10:00:00 +0800"
       }
     ],
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Ms Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ms%20Teams",
-        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Agnes Chow Hong Kong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Agnes%20Chow%20Hong%20Kong",
         "pubdate": "Mon, 04 Dec 2023 19:00:00 +0800"
@@ -118,6 +104,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bitcoin",
         "pubdate": "Mon, 04 Dec 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "LTO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#LTO",
+        "pubdate": "Mon, 04 Dec 2023 15:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "LTO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#LTO",
+        "title": "Bernard Cribbins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bernard%20Cribbins",
         "pubdate": "Mon, 04 Dec 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Zoom meeting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zoom%20meeting",
+        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0800"
       }
     ]
   ]
