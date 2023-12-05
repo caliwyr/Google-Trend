@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 06:52:47",
+  "lastUpdate": "05-12-2023 , 07:07:51",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Rizz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rizz",
         "pubdate": "Tue, 05 Dec 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mount Kinabalu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mount%20Kinabalu",
+        "pubdate": "Tue, 05 Dec 2023 13:00:00 +0800"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Mount Kinabalu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mount%20Kinabalu",
-        "pubdate": "Tue, 05 Dec 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
         "pubdate": "Mon, 04 Dec 2023 00:00:00 +0800"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Chennai Cyclone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chennai%20Cyclone",
-        "pubdate": "Mon, 04 Dec 2023 16:00:00 +0800"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0800"
+        "title": "Chennai Cyclone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chennai%20Cyclone",
+        "pubdate": "Mon, 04 Dec 2023 16:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20City",
-        "pubdate": "Mon, 04 Dec 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "ManUtd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ManUtd",
         "pubdate": "Sun, 03 Dec 2023 07:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Philippines earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Philippines%20earthquake",
         "pubdate": "Sun, 03 Dec 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Euro%202024",
+        "pubdate": "Sun, 03 Dec 2023 09:00:00 +0800"
       }
     ]
   ]
