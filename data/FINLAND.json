@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 10:51:38",
+  "lastUpdate": "05-12-2023 , 11:02:29",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Nokia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
+        "pubdate": "Mon, 04 Dec 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Red",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Red",
         "pubdate": "Mon, 04 Dec 2023 00:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "Ronnie o’sullivan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ronnie%20o%E2%80%99sullivan",
         "pubdate": "Mon, 04 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nokia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
-        "pubdate": "Mon, 04 Dec 2023 23:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Lego Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lego%20Fortnite",
-        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Costello",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Costello",
         "pubdate": "Sun, 03 Dec 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Connor Bedard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Connor%20Bedard",
+        "pubdate": "Sun, 03 Dec 2023 13:00:00 +0200"
       }
     ]
   ]
