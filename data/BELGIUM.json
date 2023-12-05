@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 19:50:30",
+  "lastUpdate": "05-12-2023 , 19:59:48",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Mika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mika",
+        "pubdate": "Tue, 05 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PISA results 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PISA%20results%202023",
+        "pubdate": "Tue, 05 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Anne-Sophie Pelletier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anne-Sophie%20Pelletier",
         "pubdate": "Tue, 05 Dec 2023 12:00:00 +0100"
@@ -26,6 +40,13 @@
       {
         "title": "Coupe de Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
+        "pubdate": "Tue, 05 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Beker van belgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beker%20van%20belgie",
         "pubdate": "Tue, 05 Dec 2023 18:00:00 +0100"
       }
     ],
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "Standard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
-        "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Union Saint-Gilloise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
         "pubdate": "Mon, 04 Dec 2023 15:00:00 +0100"
@@ -90,13 +104,6 @@
         "title": "Hof van Cleve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hof%20van%20Cleve",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pinkpop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pinkpop",
-        "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Pinkpop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pinkpop",
+        "pubdate": "Mon, 04 Dec 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Billie%20Eilish",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De Warmste Week Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Warmste%20Week%20Brugge",
-        "pubdate": "Mon, 04 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Teri Hatcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Teri%20Hatcher",
-        "pubdate": "Mon, 04 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
