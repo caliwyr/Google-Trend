@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2023 , 09:47:47",
+  "lastUpdate": "05-12-2023 , 09:57:11",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Intranet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Intranet",
-        "pubdate": "Tue, 05 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Schellnhuber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schellnhuber",
         "pubdate": "Tue, 05 Dec 2023 08:00:00 +0100"
@@ -33,6 +26,13 @@
       {
         "title": "Killers of the Flower Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Killers%20of%20the%20Flower%20Moon",
+        "pubdate": "Tue, 05 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Intranet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Intranet",
         "pubdate": "Tue, 05 Dec 2023 08:00:00 +0100"
       }
     ],
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Austria Klagenfurt gegen Hartberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20gegen%20Hartberg",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
+        "title": "Handy-Signatur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handy-Signatur",
+        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Handy-Signatur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handy-Signatur",
-        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
+        "title": "Austria Klagenfurt gegen Hartberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20gegen%20Hartberg",
+        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Brand Wien-Floridsdorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Wien-Floridsdorf",
-        "pubdate": "Mon, 04 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Billie%20Eilish",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Wann ist Nikolaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wann%20ist%20Nikolaus",
         "pubdate": "Mon, 04 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leclerc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leclerc",
+        "pubdate": "Mon, 04 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
