@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "05-12-2023 , 13:53:52",
+  "lastUpdate": "05-12-2023 , 14:09:22",
   "data": [
     [
       {
-        "title": "Łukasz Demon Nie żyje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81ukasz%20Demon%20Nie%20%C5%BCyje",
+        "title": "Lukasz Demon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lukasz%20Demon",
         "pubdate": "Tue, 05 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Szymczyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymczyk",
-        "pubdate": "Tue, 05 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Maryla Rodowicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
         "pubdate": "Tue, 05 Dec 2023 07:00:00 +0100"
@@ -40,6 +33,13 @@
       {
         "title": "Adam Glapiński",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Adam%20Glapi%C5%84ski",
+        "pubdate": "Tue, 05 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jarosław Szymczyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Szymczyk",
         "pubdate": "Tue, 05 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Cyberpunk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cyberpunk",
+        "pubdate": "Tue, 05 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Imieniny Barbary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imieniny%20Barbary",
         "pubdate": "Mon, 04 Dec 2023 07:00:00 +0100"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Policjanci Wrocław",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Policjanci%20Wroc%C5%82aw",
-        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
+        "title": "Legia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia",
+        "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Legia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia",
-        "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
+        "title": "Policjanci Wrocław",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Policjanci%20Wroc%C5%82aw",
+        "pubdate": "Mon, 04 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Orlen akcje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orlen%20akcje",
-        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tottenham",
-        "pubdate": "Mon, 04 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Puchar Polski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Polski",
         "pubdate": "Mon, 04 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Orlen akcje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orlen%20akcje",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
