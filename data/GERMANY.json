@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 00:39:11",
+  "lastUpdate": "06-12-2023 , 01:42:58",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Eisregen München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eisregen%20M%C3%BCnchen",
-        "pubdate": "Mon, 04 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Sun, 03 Dec 2023 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "EM Auslosung 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EM%20Auslosung%202024",
         "pubdate": "Fri, 01 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Fri, 01 Dec 2023 15:00:00 +0100"
       }
     ]
   ]
