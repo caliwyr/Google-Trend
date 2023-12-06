@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 21:46:22",
+  "lastUpdate": "06-12-2023 , 21:55:43",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "UNLV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNLV",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Juan Soto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juan%20Soto",
+        "pubdate": "Wed, 06 Dec 2023 08:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Kevin McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20McCarthy",
         "pubdate": "Wed, 06 Dec 2023 10:00:00 -0800"
@@ -38,16 +52,23 @@
     ],
     [
       {
-        "title": "Juan Soto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juan%20Soto",
-        "pubdate": "Wed, 06 Dec 2023 08:00:00 -0800"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Capitol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Capitol",
-        "pubdate": "Wed, 06 Dec 2023 07:00:00 -0800"
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gemini",
+        "pubdate": "Wed, 06 Dec 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
       }
     ],
     [
@@ -73,23 +94,16 @@
     ],
     [
       {
-        "title": "Verdugo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Verdugo",
-        "pubdate": "Wed, 06 Dec 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gemini",
-        "pubdate": "Wed, 06 Dec 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Good Grief movie Dan Levy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Good%20Grief%20movie%20Dan%20Levy",
         "pubdate": "Wed, 06 Dec 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Verdugo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Verdugo",
+        "pubdate": "Wed, 06 Dec 2023 10:00:00 -0800"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "House explosion Arlington, Va",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#House%20explosion%20Arlington,%20Va",
-        "pubdate": "Tue, 05 Dec 2023 06:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
         "pubdate": "Tue, 05 Dec 2023 02:00:00 -0800"
@@ -132,13 +139,6 @@
         "title": "UNC basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UNC%20basketball",
         "pubdate": "Tue, 05 Dec 2023 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Denny Laine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Denny%20Laine",
-        "pubdate": "Tue, 05 Dec 2023 13:00:00 -0800"
       }
     ]
   ]
