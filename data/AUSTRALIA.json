@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "06-12-2023 , 10:44:04",
+  "lastUpdate": "06-12-2023 , 10:53:37",
   "data": [
-    [
-      {
-        "title": "Canada vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canada%20vs%20Australia",
-        "pubdate": "Wed, 06 Dec 2023 14:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
         "pubdate": "Wed, 06 Dec 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Matildas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+        "pubdate": "Wed, 06 Dec 2023 14:00:00 +1100"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Mark Dreyfus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Dreyfus",
         "pubdate": "Wed, 06 Dec 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Can",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Can",
+        "pubdate": "Wed, 06 Dec 2023 21:00:00 +1100"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Big Brother Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Big%20Brother%20Australia",
+        "pubdate": "Tue, 05 Dec 2023 23:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Sophie Anderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sophie%20Anderson",
         "pubdate": "Tue, 05 Dec 2023 15:00:00 +1100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Virgin Voyages",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Virgin%20Voyages",
-        "pubdate": "Tue, 05 Dec 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Cheers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cheers",
         "pubdate": "Tue, 05 Dec 2023 23:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "LIV Golf Adelaide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LIV%20Golf%20Adelaide",
         "pubdate": "Tue, 05 Dec 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Peta Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peta%20Murphy",
-        "pubdate": "Mon, 04 Dec 2023 15:00:00 +1100"
       }
     ]
   ]
