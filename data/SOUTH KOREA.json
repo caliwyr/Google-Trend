@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 07:49:03",
+  "lastUpdate": "06-12-2023 , 07:58:30",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "블랙핑크",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC",
         "pubdate": "Wed, 06 Dec 2023 14:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "김홍일",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%99%8D%EC%9D%BC",
+        "pubdate": "Wed, 06 Dec 2023 16:00:00 +0900"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "최민환",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EB%AF%BC%ED%99%98",
-        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0900"
+        "title": "율희",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A8%ED%9D%AC",
+        "pubdate": "Mon, 04 Dec 2023 20:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "요소수",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%94%EC%86%8C%EC%88%98",
         "pubdate": "Mon, 04 Dec 2023 18:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "AWS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#AWS",
-        "pubdate": "Mon, 04 Dec 2023 02:00:00 +0900"
       }
     ]
   ]
