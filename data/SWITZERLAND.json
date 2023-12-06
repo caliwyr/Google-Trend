@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 02:48:00",
+  "lastUpdate": "06-12-2023 , 02:57:24",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "GTA 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GTA%205",
         "pubdate": "Tue, 05 Dec 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Promi Big Brother 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Promi%20Big%20Brother%202023",
+        "pubdate": "Tue, 05 Dec 2023 05:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bachelor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bachelor",
         "pubdate": "Tue, 05 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pictet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pictet",
-        "pubdate": "Tue, 05 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
