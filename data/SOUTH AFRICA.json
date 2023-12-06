@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 13:46:48",
+  "lastUpdate": "06-12-2023 , 13:56:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Nassr",
         "pubdate": "Wed, 06 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petrol price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price",
+        "pubdate": "Wed, 06 Dec 2023 08:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,30 @@
     ],
     [
       {
-        "title": "Fulham vs Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20Nottingham%20Forest",
-        "pubdate": "Wed, 06 Dec 2023 10:00:00 +0200"
+        "title": "Man United vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Chelsea",
+        "pubdate": "Wed, 06 Dec 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Man United vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Chelsea",
+        "title": "Brighton vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Brentford",
+        "pubdate": "Wed, 06 Dec 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace%20vs%20Bournemouth",
         "pubdate": "Wed, 06 Dec 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fulham vs Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20Nottingham%20Forest",
+        "pubdate": "Wed, 06 Dec 2023 10:00:00 +0200"
       }
     ],
     [
@@ -73,6 +94,13 @@
     ],
     [
       {
+        "title": "Tau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tau",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Luton Town vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town%20vs%20Arsenal",
         "pubdate": "Tue, 05 Dec 2023 22:00:00 +0200"
@@ -82,7 +110,7 @@
       {
         "title": "Orlando Pirates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
-        "pubdate": "Tue, 05 Dec 2023 18:00:00 +0200"
+        "pubdate": "Tue, 05 Dec 2023 20:00:00 +0200"
       }
     ],
     [
@@ -101,9 +129,9 @@
     ],
     [
       {
-        "title": "Petrol price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price",
-        "pubdate": "Tue, 05 Dec 2023 17:00:00 +0200"
+        "title": "Pirates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pirates",
+        "pubdate": "Tue, 05 Dec 2023 18:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Blackpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blackpool%20FC",
         "pubdate": "Tue, 05 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Derby county",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Derby%20county",
-        "pubdate": "Tue, 05 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luis Suárez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luis%20Su%C3%A1rez",
-        "pubdate": "Tue, 05 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nelson Mandela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nelson%20Mandela",
-        "pubdate": "Tue, 05 Dec 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Killers of the Flower Moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Killers%20of%20the%20Flower%20Moon",
-        "pubdate": "Tue, 05 Dec 2023 17:00:00 +0200"
       }
     ]
   ]

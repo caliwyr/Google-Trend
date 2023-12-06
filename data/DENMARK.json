@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 13:46:42",
+  "lastUpdate": "06-12-2023 , 13:56:01",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Sting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sting",
+        "pubdate": "Tue, 05 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Denny Laine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Denny%20Laine",
         "pubdate": "Tue, 05 Dec 2023 23:00:00 +0100"
@@ -62,13 +69,6 @@
         "title": "Killers of the Flower Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Killers%20of%20the%20Flower%20Moon",
         "pubdate": "Tue, 05 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Giulia Cecchettin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Giulia%20Cecchettin",
-        "pubdate": "Tue, 05 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lucia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lucia",
+        "pubdate": "Mon, 04 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Twitch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Twitch",
         "pubdate": "Sun, 03 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona' Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona'%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Sun, 03 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
