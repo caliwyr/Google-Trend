@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2023 , 15:46:53",
+  "lastUpdate": "06-12-2023 , 15:56:03",
   "data": [
     [
       {
@@ -17,20 +17,6 @@
     ],
     [
       {
-        "title": "Carteira de trabalho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carteira%20de%20trabalho",
-        "pubdate": "Wed, 06 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Renato Augusto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renato%20Augusto",
-        "pubdate": "Wed, 06 Dec 2023 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fluminense x Grêmio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x%20Gr%C3%AAmio",
         "pubdate": "Wed, 06 Dec 2023 09:00:00 -0500"
@@ -40,6 +26,13 @@
       {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
+        "pubdate": "Wed, 06 Dec 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carteira de trabalho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carteira%20de%20trabalho",
         "pubdate": "Wed, 06 Dec 2023 09:00:00 -0500"
       }
     ],
@@ -82,7 +75,7 @@
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
-        "pubdate": "Tue, 05 Dec 2023 23:00:00 -0500"
+        "pubdate": "Tue, 05 Dec 2023 21:00:00 -0500"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolves",
+        "pubdate": "Tue, 05 Dec 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Flamengo x São Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20S%C3%A3o%20Paulo",
         "pubdate": "Tue, 05 Dec 2023 15:00:00 -0500"
@@ -111,13 +111,6 @@
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Getafe",
         "pubdate": "Tue, 05 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bucks",
-        "pubdate": "Tue, 05 Dec 2023 21:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "GTA: Vice City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GTA:%20Vice%20City",
         "pubdate": "Tue, 05 Dec 2023 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolfsburg",
+        "pubdate": "Tue, 05 Dec 2023 11:00:00 -0500"
       }
     ]
   ]
