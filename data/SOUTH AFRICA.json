@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-12-2023 , 06:43:53",
+  "lastUpdate": "06-12-2023 , 06:53:12",
   "data": [
+    [
+      {
+        "title": "Petrol price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price",
+        "pubdate": "Wed, 06 Dec 2023 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Brighton fc",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "title": "Luton Town vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town%20vs%20Arsenal",
         "pubdate": "Tue, 05 Dec 2023 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jermaine Craig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jermaine%20Craig",
         "pubdate": "Mon, 04 Dec 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Billie%20Eilish",
-        "pubdate": "Mon, 04 Dec 2023 14:00:00 +0200"
       }
     ]
   ]
