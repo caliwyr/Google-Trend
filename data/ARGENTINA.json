@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 09:47:22",
+  "lastUpdate": "07-12-2023 , 09:56:36",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Ever Banega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ever%20Banega",
+        "pubdate": "Wed, 06 Dec 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gemini",
         "pubdate": "Wed, 06 Dec 2023 18:00:00 -0300"
@@ -131,13 +138,6 @@
       {
         "title": "Bunbury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bunbury",
-        "pubdate": "Wed, 06 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Empanada gallega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Empanada%20gallega",
         "pubdate": "Wed, 06 Dec 2023 00:00:00 -0300"
       }
     ]
