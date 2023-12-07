@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-12-2023 , 13:47:37",
+  "lastUpdate": "07-12-2023 , 13:56:56",
   "data": [
+    [
+      {
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gemini",
+        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marwan Berreni",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gemini",
-        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0100"
+        "title": "Habitat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Habitat",
+        "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rafael%20Nadal",
-        "pubdate": "Thu, 07 Dec 2023 01:00:00 +0100"
+        "title": "Seychelles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Seychelles",
+        "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fete des lumieres 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fete%20des%20lumieres%202023",
+        "pubdate": "Thu, 07 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Methode Singapour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Methode%20Singapour",
-        "pubdate": "Wed, 06 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mika",
         "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Edouard Philippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
-        "pubdate": "Wed, 06 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ann Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ann%20Scott",
-        "pubdate": "Wed, 06 Dec 2023 23:00:00 +0100"
+        "title": "Methode Singapour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Methode%20Singapour",
+        "pubdate": "Wed, 06 Dec 2023 01:00:00 +0100"
       }
     ]
   ]
