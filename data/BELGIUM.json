@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 06:43:28",
+  "lastUpdate": "07-12-2023 , 06:52:54",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+        "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "STVV  Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#STVV%20%20Gent",
-        "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
+        "title": "Willy Naessens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Willy%20Naessens",
+        "pubdate": "Wed, 06 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -108,23 +115,16 @@
     ],
     [
       {
-        "title": "Brussels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brussels",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jean-Luc Dehaene",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Luc%20Dehaene",
         "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brussels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brussels",
+        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0100"
       }
     ],
     [
