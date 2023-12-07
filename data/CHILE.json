@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 07:48:30",
+  "lastUpdate": "07-12-2023 , 07:57:52",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
+        "pubdate": "Wed, 06 Dec 2023 04:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Manchester United  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20%20Chelsea",
         "pubdate": "Wed, 06 Dec 2023 14:00:00 -0300"
@@ -38,9 +45,16 @@
     ],
     [
       {
+        "title": "Corona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corona",
+        "pubdate": "Wed, 06 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Guyana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Guyana",
-        "pubdate": "Wed, 06 Dec 2023 12:00:00 -0300"
+        "pubdate": "Wed, 06 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 -0300"
+        "title": "Daniella Campos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniella%20Campos",
+        "pubdate": "Wed, 06 Dec 2023 03:00:00 -0300"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Bad Religion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bad%20Religion",
-        "pubdate": "Wed, 06 Dec 2023 00:00:00 -0300"
+        "title": "Jorge Gonzalez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jorge%20Gonzalez",
+        "pubdate": "Wed, 06 Dec 2023 21:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Jorge Gonzalez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jorge%20Gonzalez",
-        "pubdate": "Wed, 06 Dec 2023 21:00:00 -0300"
+        "title": "Bad Religion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bad%20Religion",
+        "pubdate": "Wed, 06 Dec 2023 00:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Luton Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luton%20Town",
         "pubdate": "Wed, 06 Dec 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
-        "pubdate": "Tue, 05 Dec 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chile  Perú",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20%20Per%C3%BA",
-        "pubdate": "Tue, 05 Dec 2023 18:00:00 -0300"
       }
     ]
   ]
