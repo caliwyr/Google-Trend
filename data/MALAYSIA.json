@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 02:48:05",
+  "lastUpdate": "07-12-2023 , 02:57:20",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-        "pubdate": "Thu, 07 Dec 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Brighton vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Brentford",
         "pubdate": "Thu, 07 Dec 2023 05:00:00 +0800"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+        "pubdate": "Thu, 07 Dec 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Fulham vs nottm Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Fulham%20vs%20nottm%20Forest",
         "pubdate": "Thu, 07 Dec 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "FMCG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FMCG",
+        "pubdate": "Thu, 07 Dec 2023 09:00:00 +0800"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Warner Music",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Warner%20Music",
-        "pubdate": "Wed, 06 Dec 2023 23:00:00 +0800"
+        "title": "Lakers vs Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers%20vs%20Suns",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 +0800"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Blackpink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Blackpink",
         "pubdate": "Wed, 06 Dec 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Warner Music",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Warner%20Music",
+        "pubdate": "Wed, 06 Dec 2023 23:00:00 +0800"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Reference",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Reference",
         "pubdate": "Wed, 06 Dec 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers",
-        "pubdate": "Wed, 06 Dec 2023 14:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#GTA%206",
         "pubdate": "Tue, 05 Dec 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jovian Mandagie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jovian%20Mandagie",
-        "pubdate": "Tue, 05 Dec 2023 22:00:00 +0800"
       }
     ]
   ]
