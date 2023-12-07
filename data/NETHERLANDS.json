@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 17:46:17",
+  "lastUpdate": "07-12-2023 , 17:55:29",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "PSV Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Heerenveen",
+        "pubdate": "Thu, 07 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Wed, 06 Dec 2023 13:00:00 +0100"
+        "pubdate": "Wed, 06 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PowNed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PowNed",
+        "pubdate": "Wed, 06 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "title": "Utrecht  AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20%20AZ",
         "pubdate": "Sun, 03 Dec 2023 17:00:00 +0100"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Feyenoord-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
-        "pubdate": "Sat, 02 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Feyenoord",
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sat, 02 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sneeuw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
-        "pubdate": "Sat, 02 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
