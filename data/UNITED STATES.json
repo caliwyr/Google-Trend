@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-12-2023 , 19:53:09",
+  "lastUpdate": "07-12-2023 , 20:08:52",
   "data": [
     [
       {
         "title": "Pearl Harbor Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pearl%20Harbor%20Day",
         "pubdate": "Thu, 07 Dec 2023 03:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Hanukkah 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hanukkah%202023",
+        "pubdate": "Thu, 07 Dec 2023 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "LEGO Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LEGO%20Fortnite",
+        "pubdate": "Thu, 07 Dec 2023 07:00:00 -0800"
       }
     ],
     [
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "LEGO Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LEGO%20Fortnite",
-        "pubdate": "Thu, 07 Dec 2023 07:00:00 -0800"
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Thu, 07 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Google Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20Gemini",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Man United vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Chelsea",
         "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Google Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20Gemini",
-        "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
         "pubdate": "Wed, 06 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Timberwolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timberwolves",
-        "pubdate": "Wed, 06 Dec 2023 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Capitol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Capitol",
-        "pubdate": "Wed, 06 Dec 2023 07:00:00 -0800"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2023 , 19:53:15",
+  "lastUpdate": "07-12-2023 , 20:08:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gemini",
         "pubdate": "Thu, 07 Dec 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20vs%20Newcastle",
+        "pubdate": "Thu, 07 Dec 2023 19:00:00 +0000"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Joey Barton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joey%20Barton",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "West Indies vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#West%20Indies%20vs%20England",
         "pubdate": "Thu, 07 Dec 2023 08:00:00 +0000"
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Brock Lesnar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brock%20Lesnar",
+        "pubdate": "Thu, 07 Dec 2023 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Robert Jenrick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Robert%20Jenrick",
         "pubdate": "Thu, 07 Dec 2023 14:00:00 +0000"
@@ -83,13 +104,6 @@
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Travis%20Kelce",
         "pubdate": "Thu, 07 Dec 2023 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Joey Barton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joey%20Barton",
-        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0000"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Taylor%20Swift",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Nick Pickard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nick%20Pickard",
         "pubdate": "Wed, 06 Dec 2023 23:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Brighton vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brighton%20vs%20Brentford",
-        "pubdate": "Wed, 06 Dec 2023 20:00:00 +0000"
       }
     ]
   ]
