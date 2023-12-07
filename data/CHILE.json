@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-12-2023 , 14:48:07",
+  "lastUpdate": "07-12-2023 , 14:57:29",
   "data": [
     [
       {
-        "title": "Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santos",
+        "title": "Brasileirao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasileirao",
         "pubdate": "Thu, 07 Dec 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Soteldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Soteldo",
+        "pubdate": "Thu, 07 Dec 2023 08:00:00 -0300"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Gary Medel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gary%20Medel",
-        "pubdate": "Thu, 07 Dec 2023 10:00:00 -0300"
+        "title": "Feriado 8 de diciembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feriado%208%20de%20diciembre",
+        "pubdate": "Thu, 07 Dec 2023 11:00:00 -0300"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
         "pubdate": "Wed, 06 Dec 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Brasileirao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasileirao",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 -0300"
       }
     ],
     [
@@ -73,16 +73,23 @@
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
-        "pubdate": "Wed, 06 Dec 2023 16:00:00 -0300"
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gemini",
+        "pubdate": "Wed, 06 Dec 2023 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gemini",
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
         "pubdate": "Wed, 06 Dec 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal",
+        "pubdate": "Wed, 06 Dec 2023 16:00:00 -0300"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Reina Letizia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Reina%20Letizia",
+        "pubdate": "Wed, 06 Dec 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Padre Hurtado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Padre%20Hurtado",
         "pubdate": "Wed, 06 Dec 2023 17:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Kim Jong-un",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kim%20Jong-un",
         "pubdate": "Wed, 06 Dec 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
-        "pubdate": "Tue, 05 Dec 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chile  Perú",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20%20Per%C3%BA",
-        "pubdate": "Tue, 05 Dec 2023 18:00:00 -0300"
       }
     ]
   ]
