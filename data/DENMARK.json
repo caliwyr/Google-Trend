@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 14:48:45",
+  "lastUpdate": "08-12-2023 , 14:58:01",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bard",
-        "pubdate": "Thu, 07 Dec 2023 10:00:00 +0100"
+        "title": "The Day Before",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Day%20Before",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "The Day Before",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Day%20Before",
-        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0100"
+        "title": "Bard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bard",
+        "pubdate": "Thu, 07 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Benjamin Zephaniah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Benjamin%20Zephaniah",
         "pubdate": "Thu, 07 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20City",
-        "pubdate": "Thu, 07 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
         "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
+        "pubdate": "Wed, 06 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
