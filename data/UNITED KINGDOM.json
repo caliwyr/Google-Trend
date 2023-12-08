@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 16:43:58",
+  "lastUpdate": "08-12-2023 , 16:53:20",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Hanukkah 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hanukkah%202023",
+        "pubdate": "Thu, 07 Dec 2023 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Christmas Jumper Day!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Christmas%20Jumper%20Day!",
         "pubdate": "Thu, 07 Dec 2023 09:00:00 +0000"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "100-day-cough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#100-day-cough",
+        "title": "100-day cough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#100-day%20cough",
         "pubdate": "Thu, 07 Dec 2023 17:00:00 +0000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "TV licence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TV%20licence",
         "pubdate": "Thu, 07 Dec 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Lego Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lego%20Fortnite",
-        "pubdate": "Thu, 07 Dec 2023 12:00:00 +0000"
       }
     ]
   ]
