@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-12-2023 , 13:49:56",
+  "lastUpdate": "08-12-2023 , 13:59:16",
   "data": [
-    [
-      {
-        "title": "Dolní Morava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Doln%C3%AD%20Morava",
-        "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Andrea Fay Friedman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrea%20Fay%20Friedman",
         "pubdate": "Fri, 08 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dolní Morava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Doln%C3%AD%20Morava",
+        "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Zlatá labuť",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlat%C3%A1%20labu%C5%A5",
+        "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bohuš Matuš",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohu%C5%A1%20Matu%C5%A1",
         "pubdate": "Thu, 07 Dec 2023 23:00:00 +0100"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Lucie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie",
-        "pubdate": "Thu, 07 Dec 2023 23:00:00 +0100"
+        "title": "Chanuka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chanuka",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Benjamin Zephaniah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Benjamin%20Zephaniah",
         "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dara Rolins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dara%20Rolins",
+        "pubdate": "Thu, 07 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Adam Vacula",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Vacula",
         "pubdate": "Wed, 06 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa – Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aston%20Villa%20%E2%80%93%20Man%20City",
-        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taylor%20Swift",
-        "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
