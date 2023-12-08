@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-12-2023 , 01:47:09",
+  "lastUpdate": "08-12-2023 , 02:20:09",
   "data": [
-    [
-      {
-        "title": "Alföldi Róbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alf%C3%B6ldi%20R%C3%B3bert",
-        "pubdate": "Fri, 08 Dec 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Gemini",
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Benjamin Zephaniah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benjamin%20Zephaniah",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hosszú Katinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hossz%C3%BA%20Katinka",
         "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
@@ -62,20 +62,6 @@
         "title": "Csád",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%A1d",
         "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kazincbarcika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kazincbarcika",
-        "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ördög Nóra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%96rd%C3%B6g%20N%C3%B3ra",
-        "pubdate": "Thu, 07 Dec 2023 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Everton–newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Everton%E2%80%93newcastle",
         "pubdate": "Wed, 06 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mandula Ádám",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mandula%20%C3%81d%C3%A1m",
+        "pubdate": "Wed, 06 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dua%20Lipa",
+        "pubdate": "Wed, 06 Dec 2023 13:00:00 +0100"
       }
     ]
   ]
