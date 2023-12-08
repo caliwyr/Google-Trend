@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 03:45:36",
+  "lastUpdate": "08-12-2023 , 03:54:51",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
+        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Google Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Google%20Gemini",
         "pubdate": "Thu, 07 Dec 2023 15:00:00 +0200"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Villarreal",
-        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0200"
+        "title": "Dan Marokane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dan%20Marokane",
+        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dan Marokane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dan%20Marokane",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0200"
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Villarreal",
+        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Brighton vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Brentford",
         "pubdate": "Wed, 06 Dec 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace vs Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace%20vs%20Bournemouth",
-        "pubdate": "Wed, 06 Dec 2023 11:00:00 +0200"
       }
     ]
   ]

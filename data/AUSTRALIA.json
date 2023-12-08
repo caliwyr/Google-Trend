@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "08-12-2023 , 03:45:27",
+  "lastUpdate": "08-12-2023 , 03:54:41",
   "data": [
     [
       {
         "title": "Tottenham vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20West%20Ham",
         "pubdate": "Fri, 08 Dec 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Everton vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Newcastle",
-        "pubdate": "Fri, 08 Dec 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Benjamin Zephaniah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Benjamin%20Zephaniah",
-        "pubdate": "Fri, 08 Dec 2023 01:00:00 +1100"
       }
     ],
     [
@@ -31,9 +17,23 @@
     ],
     [
       {
+        "title": "Benjamin Zephaniah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Benjamin%20Zephaniah",
+        "pubdate": "Fri, 08 Dec 2023 01:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "The Day Before",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Day%20Before",
         "pubdate": "Fri, 08 Dec 2023 06:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
+        "pubdate": "Fri, 08 Dec 2023 10:00:00 +1100"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Hanukkah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hanukkah",
-        "pubdate": "Fri, 08 Dec 2023 00:00:00 +1100"
+        "title": "Nick Kyrgios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
+        "pubdate": "Fri, 08 Dec 2023 13:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Nick Kyrgios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
-        "pubdate": "Fri, 08 Dec 2023 13:00:00 +1100"
+        "title": "Hanukkah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hanukkah",
+        "pubdate": "Fri, 08 Dec 2023 00:00:00 +1100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Anne Hathaway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anne%20Hathaway",
         "pubdate": "Fri, 08 Dec 2023 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Matthew McConaughey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matthew%20McConaughey",
+        "pubdate": "Fri, 08 Dec 2023 14:00:00 +1100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Big Bash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Big%20Bash",
-        "pubdate": "Thu, 07 Dec 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Chelsea",
-        "pubdate": "Thu, 07 Dec 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gemini",
         "pubdate": "Thu, 07 Dec 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Big Bash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Big%20Bash",
+        "pubdate": "Thu, 07 Dec 2023 17:00:00 +1100"
       }
     ]
   ]
