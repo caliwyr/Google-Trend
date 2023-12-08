@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 11:43:16",
+  "lastUpdate": "08-12-2023 , 11:52:43",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "The Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Game%20Awards",
+        "pubdate": "Fri, 08 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Everton",
         "pubdate": "Fri, 08 Dec 2023 10:00:00 +0100"
@@ -27,6 +34,13 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Newcastle",
         "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Selena%20Gomez",
+        "pubdate": "Fri, 08 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "RSCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
-        "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
+        "title": "Beker van belgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beker%20van%20belgie",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Thu, 07 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eredivisie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
-        "pubdate": "Thu, 07 Dec 2023 11:00:00 +0100"
       }
     ]
   ]
