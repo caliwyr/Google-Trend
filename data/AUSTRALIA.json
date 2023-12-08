@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 19:40:37",
+  "lastUpdate": "08-12-2023 , 19:49:50",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Wane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wane",
+        "pubdate": "Fri, 08 Dec 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "The Day Before",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Day%20Before",
         "pubdate": "Fri, 08 Dec 2023 06:00:00 +1100"
@@ -76,13 +83,6 @@
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Timothee%20Chalamet",
         "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Seychelles explosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Seychelles%20explosion",
-        "pubdate": "Fri, 08 Dec 2023 15:00:00 +1100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Glenn Maxwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Glenn%20Maxwell",
-        "pubdate": "Fri, 08 Dec 2023 12:00:00 +1100"
+        "title": "Ben Dwarshuis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Dwarshuis",
+        "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
       }
     ]
   ]
