@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-12-2023 , 06:41:38",
+  "lastUpdate": "08-12-2023 , 06:50:54",
   "data": [
-    [
-      {
-        "title": "Til Schweiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Schufa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schufa",
         "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marco Schreyl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marco%20Schreyl",
+        "pubdate": "Thu, 07 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Krankschreibung per Telefon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Krankschreibung%20per%20Telefon",
-        "pubdate": "Thu, 07 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bahnstreik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
         "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "title": "Herthabsc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Herthabsc",
         "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Herthabsc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Herthabsc",
-        "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Wed, 06 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -68,6 +61,13 @@
       {
         "title": "LEGO Fortnite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LEGO%20Fortnite",
+        "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "VfB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
         "pubdate": "Wed, 06 Dec 2023 21:00:00 +0100"
       }
     ],
