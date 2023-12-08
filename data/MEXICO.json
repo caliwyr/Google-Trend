@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 21:41:46",
+  "lastUpdate": "08-12-2023 , 21:51:06",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20hoy",
+        "title": "Temblor HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20HOY",
         "pubdate": "Thu, 07 Dec 2023 15:00:00 -0600"
       }
     ],
@@ -68,7 +68,7 @@
       {
         "title": "Feyenoord - Volendam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord%20-%20Volendam",
-        "pubdate": "Thu, 07 Dec 2023 14:00:00 -0600"
+        "pubdate": "Thu, 07 Dec 2023 12:00:00 -0600"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Eredivisie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eredivisie",
-        "pubdate": "Thu, 07 Dec 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Clima Guadalajara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Guadalajara",
         "pubdate": "Thu, 07 Dec 2023 12:00:00 -0600"
@@ -139,6 +132,13 @@
         "title": "Noticias de hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Noticias%20de%20hoy",
         "pubdate": "Thu, 07 Dec 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Noticias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Noticias",
+        "pubdate": "Thu, 07 Dec 2023 16:00:00 -0600"
       }
     ]
   ]
