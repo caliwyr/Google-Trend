@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 20:47:59",
+  "lastUpdate": "08-12-2023 , 20:57:14",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Benny Blanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benny%20Blanco",
         "pubdate": "Fri, 08 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MoDo Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MoDo%20Hockey",
+        "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Finals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Finals",
+        "pubdate": "Fri, 08 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -38,16 +52,9 @@
     ],
     [
       {
-        "title": "Modo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo",
-        "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Game%20Awards",
-        "pubdate": "Thu, 07 Dec 2023 21:00:00 +0100"
+        "title": "Game Awards 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Game%20Awards%202023",
+        "pubdate": "Thu, 07 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Robinson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
         "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
-        "pubdate": "Thu, 07 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
