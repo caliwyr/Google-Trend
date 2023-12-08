@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2023 , 17:44:10",
+  "lastUpdate": "08-12-2023 , 17:53:29",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Tỷ giá Yên Nhật",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%B7%20gi%C3%A1%20Y%C3%AAn%20Nh%E1%BA%ADt",
         "pubdate": "Fri, 08 Dec 2023 11:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Yên Nhật",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Y%C3%AAn%20Nh%E1%BA%ADt",
+        "pubdate": "Fri, 08 Dec 2023 12:00:00 +0700"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Santos",
         "pubdate": "Fri, 08 Dec 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tỷ giá Yên",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%B7%20gi%C3%A1%20Y%C3%AAn",
-        "pubdate": "Fri, 08 Dec 2023 13:00:00 +0700"
       }
     ],
     [
@@ -117,7 +117,7 @@
       {
         "title": "Tottenham đấu với West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20West%20Ham",
-        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0700"
+        "pubdate": "Thu, 07 Dec 2023 11:00:00 +0700"
       }
     ],
     [
