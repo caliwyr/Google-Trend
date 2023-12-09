@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-12-2023 , 01:42:40",
+  "lastUpdate": "09-12-2023 , 02:16:00",
   "data": [
+    [
+      {
+        "title": "Stark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stark",
+        "pubdate": "Fri, 08 Dec 2023 06:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Jurassic Park: Survival",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Hanukkah 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hanukkah%202023",
-        "pubdate": "Thu, 07 Dec 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Tyrese Haliburton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tyrese%20Haliburton",
         "pubdate": "Thu, 07 Dec 2023 17:00:00 -0800"
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Robach and Holmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robach%20and%20Holmes",
+        "pubdate": "Thu, 07 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Brenda Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brenda%20Lee",
         "pubdate": "Thu, 07 Dec 2023 20:00:00 -0800"
@@ -104,6 +111,13 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Haley",
         "pubdate": "Thu, 07 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Copa America 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Copa%20America%202024",
+        "pubdate": "Thu, 07 Dec 2023 18:00:00 -0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
         "pubdate": "Thu, 07 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Pink Friday 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pink%20Friday%202",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bard",
-        "pubdate": "Thu, 07 Dec 2023 05:00:00 -0800"
       }
     ]
   ]
