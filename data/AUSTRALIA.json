@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 09:38:44",
+  "lastUpdate": "09-12-2023 , 09:48:17",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Wane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wane",
-        "pubdate": "Fri, 08 Dec 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "The Day Before",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Day%20Before",
         "pubdate": "Fri, 08 Dec 2023 06:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Power outage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Power%20outage",
         "pubdate": "Fri, 08 Dec 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Pink Friday 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pink%20Friday%202",
+        "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
       }
     ]
   ]

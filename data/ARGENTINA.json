@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 09:38:44",
+  "lastUpdate": "09-12-2023 , 09:48:17",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
         "pubdate": "Fri, 08 Dec 2023 04:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rigolleau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rigolleau",
+        "pubdate": "Fri, 08 Dec 2023 00:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ke Personajes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ke%20Personajes",
         "pubdate": "Thu, 07 Dec 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Diego martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Diego%20martinez",
-        "pubdate": "Thu, 07 Dec 2023 14:00:00 -0300"
       }
     ]
   ]
