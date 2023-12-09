@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 17:41:00",
+  "lastUpdate": "09-12-2023 , 17:50:13",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ryan o’neal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ryan%20o%E2%80%99neal",
         "pubdate": "Sat, 09 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Klingenthal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klingenthal",
+        "pubdate": "Sat, 09 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -33,6 +40,13 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sat, 09 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Peter-Michael Kolbe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter-Michael%20Kolbe",
         "pubdate": "Sat, 09 Dec 2023 17:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
         "pubdate": "Sat, 02 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Max Moerstedt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Max%20Moerstedt",
-        "pubdate": "Sat, 02 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "EM-Auslosung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EM-Auslosung",
-        "pubdate": "Fri, 01 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
