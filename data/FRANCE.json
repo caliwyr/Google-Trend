@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "09-12-2023 , 06:39:18",
+  "lastUpdate": "09-12-2023 , 06:48:38",
   "data": [
     [
       {
         "title": "Guyana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guyana",
         "pubdate": "Fri, 08 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Notre-Dame de Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Notre-Dame%20de%20Paris",
-        "pubdate": "Fri, 08 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Covid variant JN.1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Covid%20variant%20JN.1",
-        "pubdate": "Fri, 08 Dec 2023 08:00:00 +0100"
+        "title": "Notre-Dame de Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Notre-Dame%20de%20Paris",
+        "pubdate": "Fri, 08 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tottenham",
         "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benjamin Zephaniah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benjamin%20Zephaniah",
+        "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
