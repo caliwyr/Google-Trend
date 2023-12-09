@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 13:39:25",
+  "lastUpdate": "09-12-2023 , 13:48:37",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Julia Roberts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Julia%20Roberts",
+        "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Timothee%20Chalamet",
         "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Power outage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Power%20outage",
         "pubdate": "Fri, 08 Dec 2023 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Pink Friday 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pink%20Friday%202",
-        "pubdate": "Fri, 08 Dec 2023 22:00:00 +1100"
       }
     ]
   ]
