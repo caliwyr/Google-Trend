@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 11:40:22",
+  "lastUpdate": "09-12-2023 , 11:49:46",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Val d'Isere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20d'Isere",
+        "title": "Ted Scapa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ted%20Scapa",
         "pubdate": "Sat, 09 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Ted Scapa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ted%20Scapa",
+        "title": "Val d'Isere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20d'Isere",
         "pubdate": "Sat, 09 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Sägerei St.Johann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#S%C3%A4gerei%20St.Johann",
-        "pubdate": "Fri, 08 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vilebrequin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vilebrequin",
         "pubdate": "Fri, 08 Dec 2023 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Charlotte Arnould",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charlotte%20Arnould",
         "pubdate": "Fri, 08 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heilbronn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heilbronn",
+        "pubdate": "Fri, 08 Dec 2023 16:00:00 +0100"
       }
     ]
   ]
