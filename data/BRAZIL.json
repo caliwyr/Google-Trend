@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 05:37:58",
+  "lastUpdate": "09-12-2023 , 05:47:25",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Hideo Kojima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hideo%20Kojima",
-        "pubdate": "Fri, 08 Dec 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Milwaukee Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milwaukee%20Bucks",
-        "pubdate": "Fri, 08 Dec 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Show Paul McCartney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Show%20Paul%20McCartney",
         "pubdate": "Fri, 08 Dec 2023 09:00:00 -0500"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
+        "pubdate": "Thu, 07 Dec 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Jogo do corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20corinthians",
         "pubdate": "Thu, 07 Dec 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Baldur's Gate 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Baldur's%20Gate%203",
+        "pubdate": "Thu, 07 Dec 2023 21:00:00 -0500"
       }
     ]
   ]
