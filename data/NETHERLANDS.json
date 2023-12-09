@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2023 , 03:40:40",
+  "lastUpdate": "09-12-2023 , 03:49:57",
   "data": [
     [
       {
@@ -59,6 +59,20 @@
     ],
     [
       {
+        "title": "Marco Schuitmaker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marco%20Schuitmaker",
+        "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ter Apel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ter%20Apel",
+        "pubdate": "Thu, 07 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dennis Bergkamp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dennis%20Bergkamp",
         "pubdate": "Thu, 07 Dec 2023 16:00:00 +0100"
@@ -69,6 +83,13 @@
         "title": "Sc Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
         "pubdate": "Thu, 07 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rademaker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rademaker",
+        "pubdate": "Thu, 07 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "AZ - NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20-%20NEC",
         "pubdate": "Mon, 04 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 03 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 03 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Sun, 03 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
