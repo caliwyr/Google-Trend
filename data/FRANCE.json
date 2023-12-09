@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "09-12-2023 , 12:32:37",
+  "lastUpdate": "09-12-2023 , 12:51:13",
   "data": [
     [
       {
         "title": "Ryan O'Neal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ryan%20O'Neal",
-        "pubdate": "Sat, 09 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "EuroMillions 8 décembre 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#EuroMillions%208%20d%C3%A9cembre%202023",
         "pubdate": "Sat, 09 Dec 2023 09:00:00 +0100"
       }
     ],
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lakers",
+        "pubdate": "Fri, 08 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Depardieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Depardieu",
         "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "LEGO Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LEGO%20Fortnite",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pogba",
         "pubdate": "Thu, 07 Dec 2023 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Seychelles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Seychelles",
         "pubdate": "Thu, 07 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fete des lumieres 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fete%20des%20lumieres%202023",
+        "pubdate": "Thu, 07 Dec 2023 13:00:00 +0100"
       }
     ]
   ]
