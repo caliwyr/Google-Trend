@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-12-2023 , 16:43:30",
+  "lastUpdate": "10-12-2023 , 16:52:55",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Luton  Manchester City",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Ricardo Arjona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Arjona",
-        "pubdate": "Sun, 10 Dec 2023 00:00:00 -0300"
+        "title": "Everton - Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20-%20Chelsea",
+        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Everton - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20-%20Chelsea",
-        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0300"
+        "title": "Ricardo Arjona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Arjona",
+        "pubdate": "Sun, 10 Dec 2023 00:00:00 -0300"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "U La Calera - U. Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20La%20Calera%20-%20U.%20Cat%C3%B3lica",
+        "title": "U. La Calera.  U Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20La%20Calera.%20%20U%20Cat%C3%B3lica",
         "pubdate": "Sat, 09 Dec 2023 18:00:00 -0300"
       }
     ],
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern",
-        "pubdate": "Sat, 09 Dec 2023 13:00:00 -0300"
+        "title": "Wanderers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
+        "pubdate": "Sat, 09 Dec 2023 20:00:00 -0300"
       }
     ],
     [
       {
         "title": "Aston Villa  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20Arsenal",
-        "pubdate": "Sat, 09 Dec 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dejar el mundo atras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dejar%20el%20mundo%20atras",
         "pubdate": "Sat, 09 Dec 2023 15:00:00 -0300"
       }
     ]
