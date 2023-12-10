@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-12-2023 , 08:39:58",
+  "lastUpdate": "10-12-2023 , 08:49:11",
   "data": [
+    [
+      {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eminem",
+        "pubdate": "Sun, 10 Dec 2023 00:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
         "pubdate": "Sat, 09 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Army-Navy Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Army-Navy%20Game",
-        "pubdate": "Sat, 09 Dec 2023 08:00:00 -0800"
       }
     ],
     [
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Leave the World Behind",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leave%20the%20World%20Behind",
+        "pubdate": "Sat, 09 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Nashville tornado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nashville%20tornado",
         "pubdate": "Sat, 09 Dec 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Army-Navy Game 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Army-Navy%20Game%202023",
+        "pubdate": "Sat, 09 Dec 2023 10:00:00 -0800"
       }
     ],
     [
@@ -40,7 +54,7 @@
       {
         "title": "Haney vs Prograis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Haney%20vs%20Prograis",
-        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0800"
+        "pubdate": "Sat, 09 Dec 2023 16:00:00 -0800"
       }
     ],
     [
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "Leave the World Behind movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leave%20the%20World%20Behind%20movie",
-        "pubdate": "Sat, 09 Dec 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aston%20Villa%20vs%20Arsenal",
         "pubdate": "Sat, 09 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Betis  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Betis%20%20Real%20Madrid",
-        "pubdate": "Sat, 09 Dec 2023 08:00:00 -0800"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Adam Driver",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adam%20Driver",
         "pubdate": "Sat, 09 Dec 2023 21:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Betis  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Betis%20%20Real%20Madrid",
+        "pubdate": "Sat, 09 Dec 2023 08:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Alabama basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alabama%20basketball",
         "pubdate": "Sat, 09 Dec 2023 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Chris Evert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Evert",
-        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0800"
       }
     ]
   ]
