@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-12-2023 , 07:40:07",
+  "lastUpdate": "10-12-2023 , 07:49:19",
   "data": [
     [
       {
         "title": "John Malkovich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Malkovich",
         "pubdate": "Sun, 10 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Uruguay",
+        "pubdate": "Sun, 10 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Volán sztrájk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vol%C3%A1n%20sztr%C3%A1jk",
+        "title": "Volánbusz sztrájk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vol%C3%A1nbusz%20sztr%C3%A1jk",
         "pubdate": "Sat, 09 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Havasi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havasi",
+        "pubdate": "Sat, 09 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Demjén Ferenc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demj%C3%A9n%20Ferenc",
         "pubdate": "Sat, 09 Dec 2023 20:00:00 +0100"
@@ -97,6 +111,13 @@
         "title": "Simple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Simple",
         "pubdate": "Sat, 09 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ónos eső",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
+        "pubdate": "Sat, 09 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Ónos eső",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
-        "pubdate": "Sat, 09 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mikulás rally 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mikul%C3%A1s%20rally%202023",
         "pubdate": "Sat, 09 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Villarreal–real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Villarreal%E2%80%93real%20Sociedad",
-        "pubdate": "Sat, 09 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Korda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda",
-        "pubdate": "Sat, 09 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
