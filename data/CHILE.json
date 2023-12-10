@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-12-2023 , 01:33:06",
+  "lastUpdate": "10-12-2023 , 02:18:42",
   "data": [
-    [
-      {
-        "title": "Inter  Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Udinese",
-        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "U. de Chile  Ñublense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile%20%20%C3%91ublense",
         "pubdate": "Sat, 09 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter  Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Udinese",
+        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0300"
       }
     ],
     [
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "U La Calera  u Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20La%20Calera%20%20u%20Cat%C3%B3lica",
+        "title": "U. La Calera  U Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20La%20Calera%20%20U%20Cat%C3%B3lica",
         "pubdate": "Sat, 09 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Limache",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Limache",
+        "pubdate": "Sat, 09 Dec 2023 19:00:00 -0300"
       }
     ],
     [
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Aston Villa  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20Arsenal",
+        "title": "Aston Villa - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20-%20Arsenal",
         "pubdate": "Sat, 09 Dec 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Limache",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Limache",
-        "pubdate": "Sat, 09 Dec 2023 19:00:00 -0300"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Sat, 09 Dec 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Dejar el mundo atras",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dejar%20el%20mundo%20atras",
         "pubdate": "Sat, 09 Dec 2023 15:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Sat, 09 Dec 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atalanta%20-%20Milan",
-        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0300"
+        "title": "Julia Robert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Julia%20Robert",
+        "pubdate": "Sat, 09 Dec 2023 20:00:00 -0300"
       }
     ]
   ]

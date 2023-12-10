@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-12-2023 , 01:33:08",
+  "lastUpdate": "10-12-2023 , 02:18:43",
   "data": [
     [
       {
@@ -55,13 +55,6 @@
         "title": "Stromausfall Mainz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stromausfall%20Mainz",
         "pubdate": "Sat, 09 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angelika Milster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Angelika%20Milster",
-        "pubdate": "Sat, 09 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 03 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "München Schnee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnchen%20Schnee",
+        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
