@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-12-2023 , 12:25:39",
+  "lastUpdate": "10-12-2023 , 12:46:57",
   "data": [
-    [
-      {
-        "title": "Shohei Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shohei%20Ohtani",
-        "pubdate": "Sun, 10 Dec 2023 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ebanie Bridges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ebanie%20Bridges",
         "pubdate": "Sun, 10 Dec 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shohei Ohtani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shohei%20Ohtani",
+        "pubdate": "Sun, 10 Dec 2023 02:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "The Departed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Departed",
         "pubdate": "Sat, 09 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sepultura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sepultura",
-        "pubdate": "Sat, 09 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Sibelius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sibelius",
+        "pubdate": "Thu, 07 Dec 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elizabeth Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elizabeth%20Taylor",
         "pubdate": "Thu, 07 Dec 2023 00:00:00 +0200"
       }
     ]
