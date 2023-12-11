@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-12-2023 , 18:50:27",
+  "lastUpdate": "11-12-2023 , 18:59:39",
   "data": [
+    [
+      {
+        "title": "Chicago Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bears",
+        "pubdate": "Mon, 11 Dec 2023 10:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Golden Globe nominations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Globe%20nominations",
         "pubdate": "Mon, 11 Dec 2023 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Claudine Gay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Claudine%20Gay",
+        "pubdate": "Mon, 11 Dec 2023 10:00:00 -0800"
       }
     ],
     [
@@ -40,7 +54,7 @@
       {
         "title": "Buffalo Bills",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
-        "pubdate": "Sun, 10 Dec 2023 15:00:00 -0800"
+        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "USC basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20basketball",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Anna Cardwell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
@@ -87,30 +108,16 @@
     ],
     [
       {
+        "title": "Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Bills vs Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Chiefs",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Minnesota Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Minnesota%20Vikings",
-        "pubdate": "Sun, 10 Dec 2023 16:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Trevor Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Lawrence",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "USC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
+        "title": "Trevor Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Lawrence",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vikings vs Raiders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings%20vs%20Raiders",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Jacksonville Jaguars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jacksonville%20Jaguars",
-        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0800"
       }
     ]
   ]
