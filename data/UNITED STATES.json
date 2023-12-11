@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "11-12-2023 , 11:45:40",
+  "lastUpdate": "11-12-2023 , 11:54:59",
   "data": [
     [
       {
         "title": "Cowboys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
+        "pubdate": "Sun, 10 Dec 2023 09:00:00 -0800"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Rams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
         "pubdate": "Sun, 10 Dec 2023 12:00:00 -0800"
@@ -41,27 +48,6 @@
         "title": "Raiders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bengals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eminem",
-        "pubdate": "Sun, 10 Dec 2023 00:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -82,6 +68,13 @@
       {
         "title": "Anna Cardwell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Upenn president",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Upenn%20president",
-        "pubdate": "Sun, 10 Dec 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Geno Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Geno%20Smith",
         "pubdate": "Sun, 10 Dec 2023 12:00:00 -0800"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Upenn president",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Upenn%20president",
+        "pubdate": "Sun, 10 Dec 2023 08:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Ryan O'Neal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20O'Neal",
         "pubdate": "Sun, 10 Dec 2023 21:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Baltimore Ravens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Baltimore%20Ravens",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
       }
     ]
   ]
