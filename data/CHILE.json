@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-12-2023 , 00:39:27",
+  "lastUpdate": "11-12-2023 , 01:43:14",
   "data": [
     [
       {
         "title": "Barcelona  Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Girona",
         "pubdate": "Sun, 10 Dec 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Colombia  Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20%20Venezuela",
+        "pubdate": "Sun, 10 Dec 2023 20:00:00 -0300"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Colombia  Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20%20Venezuela",
-        "pubdate": "Sun, 10 Dec 2023 20:00:00 -0300"
+        "title": "Tottenham  Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20%20Newcastle",
+        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Tottenham  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20%20Newcastle",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0300"
+        "title": "Aire acondicionado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aire%20acondicionado",
+        "pubdate": "Sun, 10 Dec 2023 18:00:00 -0300"
       }
     ],
     [
@@ -94,6 +101,20 @@
     ],
     [
       {
+        "title": "Platense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Platense",
+        "pubdate": "Sun, 10 Dec 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Roma - Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roma%20-%20Fiorentina",
+        "pubdate": "Sun, 10 Dec 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Wanderers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
         "pubdate": "Sat, 09 Dec 2023 20:00:00 -0300"
@@ -117,27 +138,6 @@
       {
         "title": "Betis  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20Real%20Madrid",
-        "pubdate": "Sat, 09 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Limache",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Limache",
-        "pubdate": "Sat, 09 Dec 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter  Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Udinese",
-        "pubdate": "Sat, 09 Dec 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
         "pubdate": "Sat, 09 Dec 2023 12:00:00 -0300"
       }
     ]
