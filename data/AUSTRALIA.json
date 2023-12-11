@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 16:48:06",
+  "lastUpdate": "11-12-2023 , 16:57:27",
   "data": [
     [
       {
@@ -73,8 +73,15 @@
     ],
     [
       {
-        "title": "Melbourne radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20radar",
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Power%20outage",
+        "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Immigration Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Immigration%20Australia",
         "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Cairns Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cairns%20Airport",
         "pubdate": "Mon, 11 Dec 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
-        "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
       }
     ]
   ]
