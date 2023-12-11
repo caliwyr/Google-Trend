@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-12-2023 , 02:48:34",
+  "lastUpdate": "11-12-2023 , 02:57:42",
   "data": [
+    [
+      {
+        "title": "Tigres  Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20%20Pumas",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Fulham - West Ham",
@@ -13,6 +20,13 @@
         "title": "Luton  Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luton%20%20Manchester%20City",
         "pubdate": "Sun, 10 Dec 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys",
+        "pubdate": "Sun, 10 Dec 2023 19:00:00 -0600"
       }
     ],
     [
@@ -31,20 +45,6 @@
     ],
     [
       {
-        "title": "Atlético Madrid - Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Madrid%20-%20Almer%C3%ADa",
-        "pubdate": "Sun, 10 Dec 2023 08:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Everton - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Everton%20-%20Chelsea",
-        "pubdate": "Sun, 10 Dec 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "49ers Seahawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#49ers%20Seahawks",
         "pubdate": "Sun, 10 Dec 2023 16:00:00 -0600"
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal",
-        "pubdate": "Sun, 10 Dec 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Raiders",
-        "pubdate": "Sun, 10 Dec 2023 17:00:00 -0600"
+        "title": "Atlético Madrid  Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Madrid%20%20Almer%C3%ADa",
+        "pubdate": "Sun, 10 Dec 2023 08:00:00 -0600"
       }
     ],
     [
@@ -73,15 +66,22 @@
     ],
     [
       {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Javier%20Milei",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0600"
+        "title": "Everton - Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Everton%20-%20Chelsea",
+        "pubdate": "Sun, 10 Dec 2023 09:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Final Liga MX 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Final%20Liga%20MX%202023",
+        "title": "Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Raiders",
+        "pubdate": "Sun, 10 Dec 2023 17:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Javier Milei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Javier%20Milei",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 -0600"
       }
     ],
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Cadiz vs Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cadiz%20vs%20Osasuna",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0600"
+        "title": "Andre Pierre Gignac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Andre%20Pierre%20Gignac",
+        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0600"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Andre Pierre Gignac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Andre%20Pierre%20Gignac",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0600"
+        "title": "Cadiz vs Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cadiz%20vs%20Osasuna",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0600"
       }
     ]
   ]
