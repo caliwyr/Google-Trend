@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 14:49:11",
+  "lastUpdate": "11-12-2023 , 14:58:32",
   "data": [
     [
       {
@@ -10,15 +10,15 @@
     ],
     [
       {
-        "title": "Fortuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna",
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
         "pubdate": "Mon, 11 Dec 2023 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "title": "RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
         "pubdate": "Mon, 11 Dec 2023 00:00:00 +0100"
       }
     ],
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 +0100"
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona",
+        "pubdate": "Sun, 10 Dec 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona",
-        "pubdate": "Sun, 10 Dec 2023 23:00:00 +0100"
+        "title": "Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Marijnissen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijnissen",
         "pubdate": "Sat, 09 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joy Beune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joy%20Beune",
+        "pubdate": "Sat, 09 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Wed, 06 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Peter Gillis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Peter%20Gillis",
-        "pubdate": "Wed, 06 Dec 2023 14:00:00 +0100"
       }
     ]
   ]
