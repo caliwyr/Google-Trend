@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 21:47:52",
+  "lastUpdate": "11-12-2023 , 21:57:25",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
-        "pubdate": "Sun, 10 Dec 2023 12:00:00 +0100"
+        "title": "Gerhart Baum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhart%20Baum",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neues Grundsatzprogramm CDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neues%20Grundsatzprogramm%20CDU",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -62,6 +69,20 @@
         "title": "Alex Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alex%20Jones",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martin Rütter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20R%C3%BCtter",
+        "pubdate": "Sun, 10 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Preußen Münster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Preu%C3%9Fen%20M%C3%BCnster",
+        "pubdate": "Sun, 10 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "München Schnee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnchen%20Schnee",
         "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "U17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U17",
-        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bürgergeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCrgergeld",
-        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Sat, 02 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
