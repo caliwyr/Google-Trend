@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 19:43:46",
+  "lastUpdate": "11-12-2023 , 19:53:04",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Claudine Gay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Claudine%20Gay",
         "pubdate": "Mon, 11 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "The Day Before",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Day%20Before",
+        "pubdate": "Mon, 11 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -47,14 +54,21 @@
       {
         "title": "Cowboys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 10 Dec 2023 09:00:00 -0800"
+        "pubdate": "Sun, 10 Dec 2023 10:00:00 -0800"
       }
     ],
     [
       {
         "title": "Buffalo Bills",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
+        "pubdate": "Sun, 10 Dec 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
+        "pubdate": "Sun, 10 Dec 2023 15:00:00 -0800"
       }
     ],
     [
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Bengals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Rams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
         "pubdate": "Sun, 10 Dec 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders",
-        "pubdate": "Sun, 10 Dec 2023 15:00:00 -0800"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Anna Cardwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
+        "title": "Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Vikings vs Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings%20vs%20Raiders",
+        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Anna Cardwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Bills vs Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Chiefs",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
@@ -125,20 +139,6 @@
         "title": "Joe Flacco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Flacco",
         "pubdate": "Sun, 10 Dec 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Trevor Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Lawrence",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Vikings vs Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings%20vs%20Raiders",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
       }
     ]
   ]
