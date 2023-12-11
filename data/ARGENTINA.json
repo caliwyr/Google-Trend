@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 04:49:30",
+  "lastUpdate": "11-12-2023 , 04:58:43",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Zelensky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zelensky",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Luton Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luton%20Manchester%20City",
         "pubdate": "Sun, 10 Dec 2023 11:00:00 -0300"
@@ -38,27 +45,6 @@
     ],
     [
       {
-        "title": "Karina Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Karina%20Milei",
-        "pubdate": "Sun, 10 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cristina Kirchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Kirchner",
-        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Zelensky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zelensky",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Baston presidencial de Milei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Baston%20presidencial%20de%20Milei",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
@@ -66,9 +52,9 @@
     ],
     [
       {
-        "title": "Presidente de Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Presidente%20de%20Ucrania",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
+        "title": "Cristina Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Kirchner",
+        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -87,30 +73,9 @@
     ],
     [
       {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Eminem",
-        "pubdate": "Sun, 10 Dec 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Bukele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bukele",
         "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Alberto fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alberto%20fernandez",
-        "pubdate": "Sun, 10 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Everton - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20-%20Chelsea",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0300"
       }
     ],
     [
@@ -129,6 +94,20 @@
     ],
     [
       {
+        "title": "Everton - Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20-%20Chelsea",
+        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bundesliga",
         "pubdate": "Sun, 10 Dec 2023 00:00:00 -0300"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Roca presidente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roca%20presidente",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Cristina perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20perez",
         "pubdate": "Sun, 10 Dec 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Roma - Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roma%20-%20Fiorentina",
+        "pubdate": "Sun, 10 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gran Hermano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gran%20Hermano",
+        "pubdate": "Sun, 10 Dec 2023 18:00:00 -0300"
       }
     ]
   ]
