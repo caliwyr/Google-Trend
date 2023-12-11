@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-12-2023 , 10:51:27",
+  "lastUpdate": "11-12-2023 , 11:02:13",
   "data": [
     [
       {
         "title": "VCE results 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#VCE%20results%202023",
         "pubdate": "Mon, 11 Dec 2023 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "SA Power outages",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SA%20Power%20outages",
+        "pubdate": "Mon, 11 Dec 2023 13:00:00 +1100"
       }
     ],
     [
@@ -20,20 +27,6 @@
         "title": "Tottenham vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Newcastle",
         "pubdate": "Mon, 11 Dec 2023 05:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#South%20Africa%20vs%20India",
-        "pubdate": "Mon, 11 Dec 2023 05:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "SA Power Networks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SA%20Power%20Networks",
-        "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
       }
     ],
     [
@@ -73,8 +66,22 @@
     ],
     [
       {
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Power%20outage",
+        "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Sigma Healthcare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sigma%20Healthcare",
+        "pubdate": "Mon, 11 Dec 2023 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Anna Cardwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anna%20Cardwell",
         "pubdate": "Mon, 11 Dec 2023 15:00:00 +1100"
       }
     ],
@@ -83,13 +90,6 @@
         "title": "Ben Roberts-Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Roberts-Smith",
         "pubdate": "Mon, 11 Dec 2023 07:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Anna Cardwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anna%20Cardwell",
-        "pubdate": "Mon, 11 Dec 2023 15:00:00 +1100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Girona",
+        "pubdate": "Mon, 11 Dec 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Grant Thornton Invitational",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grant%20Thornton%20Invitational",
         "pubdate": "Mon, 11 Dec 2023 11:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Melbourne Victory",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Victory",
         "pubdate": "Mon, 11 Dec 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Girona",
-        "pubdate": "Mon, 11 Dec 2023 16:00:00 +1100"
       }
     ]
   ]
