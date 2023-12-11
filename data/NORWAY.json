@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-12-2023 , 22:48:42",
+  "lastUpdate": "11-12-2023 , 22:57:57",
   "data": [
-    [
-      {
-        "title": "KBK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KBK",
-        "pubdate": "Mon, 11 Dec 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "VIF",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Schibsted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Schibsted",
-        "pubdate": "Mon, 11 Dec 2023 12:00:00 +0100"
+        "title": "NoLo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NoLo",
+        "pubdate": "Mon, 11 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "NoLo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NoLo",
-        "pubdate": "Mon, 11 Dec 2023 16:00:00 +0100"
+        "title": "Schibsted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Schibsted",
+        "pubdate": "Mon, 11 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Girona",
-        "pubdate": "Sun, 10 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kong Harald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
         "pubdate": "Sun, 10 Dec 2023 20:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iran",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anne Grete Preus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20Grete%20Preus",
+        "pubdate": "Sun, 10 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heidi Weng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Heidi%20Weng",
+        "pubdate": "Sun, 10 Dec 2023 15:00:00 +0100"
       }
     ]
   ]

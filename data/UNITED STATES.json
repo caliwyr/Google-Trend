@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-12-2023 , 22:48:32",
+  "lastUpdate": "11-12-2023 , 22:57:50",
   "data": [
-    [
-      {
-        "title": "Chicago Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bears",
-        "pubdate": "Mon, 11 Dec 2023 10:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Golden Globe nominations",
@@ -27,6 +20,13 @@
         "title": "The Day Before",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Day%20Before",
         "pubdate": "Mon, 11 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kateri Poole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kateri%20Poole",
+        "pubdate": "Mon, 11 Dec 2023 03:00:00 -0800"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
+        "title": "Russell Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
+        "pubdate": "Mon, 11 Dec 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Cowboys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 10 Dec 2023 10:00:00 -0800"
+        "pubdate": "Sun, 10 Dec 2023 09:00:00 -0800"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "USC basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC%20basketball",
+        "title": "Bears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
         "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
@@ -115,22 +122,8 @@
     ],
     [
       {
-        "title": "Anna Cardwell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
-        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Frank Wycheck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frank%20Wycheck",
-        "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
         "pubdate": "Sun, 10 Dec 2023 11:00:00 -0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Vikings vs Raiders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings%20vs%20Raiders",
         "pubdate": "Sun, 10 Dec 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Anna Cardwell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Cardwell",
+        "pubdate": "Sun, 10 Dec 2023 13:00:00 -0800"
       }
     ]
   ]
