@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2023 , 18:55:40",
+  "lastUpdate": "12-12-2023 , 19:10:36",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Christchurch airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christchurch%20airport",
+        "pubdate": "Tue, 12 Dec 2023 15:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Wellington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington",
         "pubdate": "Tue, 12 Dec 2023 23:00:00 +1300"
@@ -48,6 +55,13 @@
         "title": "Graham McTavish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Graham%20McTavish",
         "pubdate": "Tue, 12 Dec 2023 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Treaty of Waitangi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Treaty%20of%20Waitangi",
+        "pubdate": "Tue, 12 Dec 2023 00:00:00 +1300"
       }
     ],
     [
@@ -73,16 +87,23 @@
     ],
     [
       {
-        "title": "Te Papa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Papa",
-        "pubdate": "Mon, 11 Dec 2023 19:00:00 +1300"
+        "title": "Grant Thornton Invitational",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grant%20Thornton%20Invitational",
+        "pubdate": "Mon, 11 Dec 2023 09:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Grant Thornton Invitational",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grant%20Thornton%20Invitational",
-        "pubdate": "Mon, 11 Dec 2023 09:00:00 +1300"
+        "title": "South Africa vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20India",
+        "pubdate": "Mon, 11 Dec 2023 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Te Papa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Papa",
+        "pubdate": "Mon, 11 Dec 2023 19:00:00 +1300"
       }
     ],
     [
@@ -96,13 +117,6 @@
       {
         "title": "Tottenham vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Newcastle",
-        "pubdate": "Mon, 11 Dec 2023 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20India",
         "pubdate": "Mon, 11 Dec 2023 08:00:00 +1300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Matilda Green",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Matilda%20Green",
         "pubdate": "Mon, 11 Dec 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Luton Town vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luton%20Town%20vs%20Man%20City",
-        "pubdate": "Mon, 11 Dec 2023 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Ryan O'Neal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ryan%20O'Neal",
-        "pubdate": "Mon, 11 Dec 2023 19:00:00 +1300"
       }
     ]
   ]

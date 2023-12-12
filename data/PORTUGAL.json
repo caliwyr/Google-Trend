@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "12-12-2023 , 18:55:41",
+  "lastUpdate": "12-12-2023 , 19:10:37",
   "data": [
-    [
-      {
-        "title": "Cariani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cariani",
-        "pubdate": "Tue, 12 Dec 2023 13:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Benfica hoje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20hoje",
         "pubdate": "Tue, 12 Dec 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Cariani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cariani",
+        "pubdate": "Tue, 12 Dec 2023 13:00:00 +0000"
       }
     ],
     [
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Zahara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zahara",
-        "pubdate": "Tue, 12 Dec 2023 01:00:00 +0000"
+        "title": "Jogo Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Benfica",
+        "pubdate": "Tue, 12 Dec 2023 15:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Jogo Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Benfica",
-        "pubdate": "Tue, 12 Dec 2023 15:00:00 +0000"
+        "title": "Gustavo Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gustavo%20Santos",
+        "pubdate": "Tue, 12 Dec 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Zahara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zahara",
+        "pubdate": "Tue, 12 Dec 2023 01:00:00 +0000"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Champions",
-        "pubdate": "Tue, 12 Dec 2023 09:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Alexei Navalny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alexei%20Navalny",
         "pubdate": "Tue, 12 Dec 2023 00:00:00 +0000"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Salario minimo 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salario%20minimo%202024",
-        "pubdate": "Tue, 12 Dec 2023 13:00:00 +0000"
+        "title": "Benfica FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20FC",
+        "pubdate": "Tue, 12 Dec 2023 18:00:00 +0000"
       }
     ],
     [
@@ -83,6 +83,20 @@
         "title": "UFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFL",
         "pubdate": "Tue, 12 Dec 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "PSV  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSV%20%20Arsenal",
+        "pubdate": "Tue, 12 Dec 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Salario minimo 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salario%20minimo%202024",
+        "pubdate": "Tue, 12 Dec 2023 13:00:00 +0000"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "NOS Alive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NOS%20Alive",
-        "pubdate": "Mon, 11 Dec 2023 13:00:00 +0000"
+        "title": "Insuficiência cardíaca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Insufici%C3%AAncia%20card%C3%ADaca",
+        "pubdate": "Tue, 12 Dec 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "NOS Alive 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NOS%20Alive%202024",
-        "pubdate": "Mon, 11 Dec 2023 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
-        "pubdate": "Mon, 11 Dec 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Liga dos Campeões",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20dos%20Campe%C3%B5es",
-        "pubdate": "Mon, 11 Dec 2023 21:00:00 +0000"
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benzema",
+        "pubdate": "Tue, 12 Dec 2023 00:00:00 +0000"
       }
     ]
   ]
