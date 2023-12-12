@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "12-12-2023 , 05:47:05",
+  "lastUpdate": "12-12-2023 , 05:56:24",
   "data": [
     [
       {
         "title": "Rögle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
         "pubdate": "Tue, 12 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Musikhjälpen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Musikhj%C3%A4lpen",
-        "pubdate": "Mon, 11 Dec 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hanna Eklöf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hanna%20Ekl%C3%B6f",
-        "pubdate": "Mon, 11 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "Nobel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nobel",
+        "pubdate": "Mon, 11 Dec 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jutta%20Leerdam",
         "pubdate": "Mon, 11 Dec 2023 21:00:00 +0100"
@@ -62,6 +55,13 @@
         "title": "Växjö",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4xj%C3%B6",
         "pubdate": "Mon, 11 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pliosaurus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pliosaurus",
+        "pubdate": "Mon, 11 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Schibsted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Schibsted",
         "pubdate": "Mon, 11 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Musikhjälpen VÄXJÖ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Musikhj%C3%A4lpen%20V%C3%84XJ%C3%96",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "William Spetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#William%20Spetz",
         "pubdate": "Sun, 10 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nobel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nobel",
-        "pubdate": "Sun, 10 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
