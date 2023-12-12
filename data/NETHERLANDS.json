@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2023 , 14:44:59",
+  "lastUpdate": "12-12-2023 , 14:54:16",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Sven sauve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sven%20sauve",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
         "pubdate": "Mon, 11 Dec 2023 00:00:00 +0100"
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Marijnissen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijnissen",
+        "title": "SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SP",
         "pubdate": "Sat, 09 Dec 2023 14:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Op1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Op1",
         "pubdate": "Wed, 06 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RKC - Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC%20-%20Ajax",
-        "pubdate": "Tue, 05 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
