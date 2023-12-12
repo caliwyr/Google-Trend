@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2023 , 10:50:51",
+  "lastUpdate": "12-12-2023 , 11:00:05",
   "data": [
     [
       {
@@ -55,6 +55,20 @@
         "title": "Ankaragücü",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ankarag%C3%BCc%C3%BC",
         "pubdate": "Mon, 11 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Masdar City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masdar%20City",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "iOS 17.2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#iOS%2017.2",
+        "pubdate": "Mon, 11 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "München Schnee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BCnchen%20Schnee",
-        "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "U17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U17",
-        "pubdate": "Sat, 02 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bürgergeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCrgergeld",
         "pubdate": "Sat, 02 Dec 2023 09:00:00 +0100"
       }
     ]
