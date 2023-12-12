@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2023 , 22:49:21",
+  "lastUpdate": "12-12-2023 , 22:59:14",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
+        "title": "Inter vs Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Real%20Sociedad",
         "pubdate": "Wed, 13 Dec 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sevilla",
+        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0700"
       }
     ],
     [
@@ -47,7 +54,14 @@
       {
         "title": "PSV vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSV%20vs%20Arsenal",
-        "pubdate": "Tue, 12 Dec 2023 07:00:00 +0700"
+        "pubdate": "Tue, 12 Dec 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Copenhagen vs Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copenhagen%20vs%20Galatasaray",
+        "pubdate": "Tue, 12 Dec 2023 17:00:00 +0700"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Napoli vs Braga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Napoli%20vs%20Braga",
         "pubdate": "Tue, 12 Dec 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Galatasaray",
-        "pubdate": "Tue, 12 Dec 2023 17:00:00 +0700"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Liga Saudi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Saudi",
-        "pubdate": "Tue, 12 Dec 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Champion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Champion",
         "pubdate": "Tue, 12 Dec 2023 22:00:00 +0700"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Jet Li",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jet%20Li",
-        "pubdate": "Tue, 12 Dec 2023 15:00:00 +0700"
+        "title": "Liga Saudi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Saudi",
+        "pubdate": "Tue, 12 Dec 2023 11:00:00 +0700"
       }
     ],
     [
       {
-        "title": "BWF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BWF",
-        "pubdate": "Tue, 12 Dec 2023 17:00:00 +0700"
+        "title": "Jet Li",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jet%20Li",
+        "pubdate": "Tue, 12 Dec 2023 15:00:00 +0700"
       }
     ]
   ]
