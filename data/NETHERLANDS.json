@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "12-12-2023 , 23:46:12",
+  "lastUpdate": "12-12-2023 , 23:55:25",
   "data": [
+    [
+      {
+        "title": "Chiellini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chiellini",
+        "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "John Lammers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#John%20Lammers",
+        "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Feyenoord",
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "FrieslandCampina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FrieslandCampina",
+        "title": "FrieslandCampina schrapt 1800 banen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FrieslandCampina%20schrapt%201800%20banen",
         "pubdate": "Tue, 12 Dec 2023 16:00:00 +0100"
       }
     ],
@@ -33,6 +47,13 @@
       {
         "title": "Yvonne Coldeweijer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yvonne%20Coldeweijer",
+        "pubdate": "Tue, 12 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dreigingsniveau Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dreigingsniveau%20Nederland",
         "pubdate": "Tue, 12 Dec 2023 20:00:00 +0100"
       }
     ],
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SP",
+        "title": "Marijnissen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijnissen",
         "pubdate": "Sat, 09 Dec 2023 14:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sat, 09 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Fri, 08 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matthijs van Nieuwkerk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Matthijs%20van%20Nieuwkerk",
-        "pubdate": "Fri, 08 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paarse Vrijdag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paarse%20Vrijdag",
-        "pubdate": "Thu, 07 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
