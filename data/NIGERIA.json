@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2023 , 03:42:08",
+  "lastUpdate": "12-12-2023 , 03:51:41",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Baze University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Baze%20University",
-        "pubdate": "Mon, 11 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barcelona vs Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Girona",
         "pubdate": "Sun, 10 Dec 2023 02:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Tottenham vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Newcastle",
         "pubdate": "Sun, 10 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fulham vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham%20vs%20West%20Ham",
+        "pubdate": "Sun, 10 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
