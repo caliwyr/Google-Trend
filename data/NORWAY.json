@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-12-2023 , 02:51:59",
+  "lastUpdate": "13-12-2023 , 03:07:34",
   "data": [
     [
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
         "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ole Paus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ole%20Paus",
+        "pubdate": "Tue, 12 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Mehl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mehl",
-        "pubdate": "Tue, 12 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Handball VM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Handball%20VM",
         "pubdate": "Tue, 12 Dec 2023 23:00:00 +0100"
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Mehl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mehl",
+        "pubdate": "Tue, 12 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Durek Verrett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Durek%20Verrett",
         "pubdate": "Tue, 12 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oskar Westerlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
+        "pubdate": "Tue, 12 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern%20munchen",
         "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oskar Westerlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
-        "pubdate": "Tue, 12 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lucia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lucia",
         "pubdate": "Mon, 11 Dec 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nora Mørk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nora%20M%C3%B8rk",
-        "pubdate": "Mon, 11 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
