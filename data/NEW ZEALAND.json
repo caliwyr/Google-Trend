@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 10:50:03",
+  "lastUpdate": "13-12-2023 , 10:59:21",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Christchurch airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christchurch%20airport",
+        "pubdate": "Tue, 12 Dec 2023 15:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Wellington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington",
         "pubdate": "Tue, 12 Dec 2023 23:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Graham McTavish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Graham%20McTavish",
         "pubdate": "Tue, 12 Dec 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Chris Cairns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chris%20Cairns",
-        "pubdate": "Tue, 12 Dec 2023 21:00:00 +1300"
       }
     ]
   ]
