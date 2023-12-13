@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-12-2023 , 04:47:11",
+  "lastUpdate": "13-12-2023 , 04:56:25",
   "data": [
     [
       {
         "title": "Brooklyn 99",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooklyn%2099",
         "pubdate": "Tue, 12 Dec 2023 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
+        "pubdate": "Tue, 12 Dec 2023 00:00:00 -0500"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
-        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
         "pubdate": "Tue, 12 Dec 2023 17:00:00 -0500"
@@ -31,16 +31,23 @@
     ],
     [
       {
-        "title": "Amanda Bynes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amanda%20Bynes",
-        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
+        "title": "Hilary Duff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hilary%20Duff",
+        "pubdate": "Tue, 12 Dec 2023 21:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Hilary Duff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hilary%20Duff",
-        "pubdate": "Tue, 12 Dec 2023 21:00:00 -0500"
+        "title": "Blackhawks vs Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blackhawks%20vs%20Oilers",
+        "pubdate": "Tue, 12 Dec 2023 23:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amanda%20Bynes",
+        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
       }
     ],
     [
@@ -66,27 +73,6 @@
     ],
     [
       {
-        "title": "Ohtani contract",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ohtani%20contract",
-        "pubdate": "Tue, 12 Dec 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sydney%20Sweeney",
-        "pubdate": "Tue, 12 Dec 2023 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Andrew W.K",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andrew%20W.K",
-        "pubdate": "Tue, 12 Dec 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Martin Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Martin%20Jones",
         "pubdate": "Tue, 12 Dec 2023 21:00:00 -0500"
@@ -101,16 +87,23 @@
     ],
     [
       {
-        "title": "Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
-        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
+        "title": "Ohtani contract",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ohtani%20contract",
+        "pubdate": "Tue, 12 Dec 2023 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "E3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#E3",
-        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
+        "title": "Andrew W.K",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andrew%20W.K",
+        "pubdate": "Tue, 12 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sydney%20Sweeney",
+        "pubdate": "Tue, 12 Dec 2023 20:00:00 -0500"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "E3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#E3",
+        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Gerard Depardieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gerard%20Depardieu",
         "pubdate": "Tue, 12 Dec 2023 15:00:00 -0500"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zara new campaign",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zara%20new%20campaign",
-        "pubdate": "Tue, 12 Dec 2023 18:00:00 -0500"
+        "title": "Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+        "pubdate": "Tue, 12 Dec 2023 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ligue%20des%20champions",
-        "pubdate": "Tue, 12 Dec 2023 15:00:00 -0500"
+        "title": "Zara new campaign",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zara%20new%20campaign",
+        "pubdate": "Tue, 12 Dec 2023 18:00:00 -0500"
       }
     ]
   ]
