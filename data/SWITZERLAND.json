@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 00:56:51",
+  "lastUpdate": "13-12-2023 , 01:57:11",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Ankaragücü",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ankarag%C3%BCc%C3%BC",
-        "pubdate": "Tue, 12 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Tue, 12 Dec 2023 20:00:00 +0100"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
-        "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
+        "title": "Ankaragücü",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ankarag%C3%BCc%C3%BC",
+        "pubdate": "Tue, 12 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
         "pubdate": "Tue, 12 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+        "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
       }
     ],
     [
