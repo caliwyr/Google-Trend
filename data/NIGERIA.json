@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "14-12-2023 , 14:47:37",
+  "lastUpdate": "14-12-2023 , 14:56:56",
   "data": [
     [
       {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tom%20Cruise",
         "pubdate": "Thu, 14 Dec 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20FC",
-        "pubdate": "Thu, 14 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rivers State news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rivers%20State%20news",
-        "pubdate": "Thu, 14 Dec 2023 05:00:00 +0100"
       }
     ],
     [
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "Agnès Varda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Agn%C3%A8s%20Varda",
-        "pubdate": "Thu, 14 Dec 2023 01:00:00 +0100"
+        "title": "Rivers State news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rivers%20State%20news",
+        "pubdate": "Thu, 14 Dec 2023 05:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Europa%20Conference%20League",
-        "pubdate": "Thu, 14 Dec 2023 14:00:00 +0100"
+        "title": "Agnès Varda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Agn%C3%A8s%20Varda",
+        "pubdate": "Thu, 14 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -59,13 +45,6 @@
     ],
     [
       {
-        "title": "Dortmund vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20PSG",
-        "pubdate": "Wed, 13 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Newcastle vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Milan",
         "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
@@ -76,6 +55,13 @@
         "title": "Crvena Zvezda vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crvena%20Zvezda%20vs%20Man%20City",
         "pubdate": "Wed, 13 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20PSG",
+        "pubdate": "Wed, 13 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -101,8 +87,22 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
+        "pubdate": "Wed, 13 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leicester%20City",
+        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leipzig",
         "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
       }
     ],

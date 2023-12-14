@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 14:47:32",
+  "lastUpdate": "14-12-2023 , 14:56:52",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Françoise Hardy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7oise%20Hardy",
+        "pubdate": "Thu, 14 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Meilleur patissier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meilleur%20patissier",
         "pubdate": "Thu, 14 Dec 2023 07:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Spurs – Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Spurs%20%E2%80%93%20Lakers",
         "pubdate": "Thu, 14 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Françoise Hardy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7oise%20Hardy",
-        "pubdate": "Thu, 14 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,20 @@
     ],
     [
       {
+        "title": "Threads",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Threads",
+        "pubdate": "Thu, 14 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Agnès Varda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Agn%C3%A8s%20Varda",
+        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Newcastle – AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Newcastle%20%E2%80%93%20AC%20Milan",
         "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Bourges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourges",
         "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
-        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chantal Goya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chantal%20Goya",
-        "pubdate": "Wed, 13 Dec 2023 15:00:00 +0100"
       }
     ]
   ]
