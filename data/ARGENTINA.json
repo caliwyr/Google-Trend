@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 04:39:54",
+  "lastUpdate": "14-12-2023 , 04:49:28",
   "data": [
     [
       {
@@ -17,22 +17,8 @@
     ],
     [
       {
-        "title": "Antwerp  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Antwerp%20%20Barcelona",
-        "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Nafta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nafta",
-        "pubdate": "Wed, 13 Dec 2023 07:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle%20-%20Milan",
+        "title": "Newcastle  Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle%20%20Milan",
         "pubdate": "Wed, 13 Dec 2023 15:00:00 -0300"
       }
     ],
@@ -41,6 +27,13 @@
         "title": "Dortmund  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dortmund%20%20PSG",
         "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Nafta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nafta",
+        "pubdate": "Wed, 13 Dec 2023 07:00:00 -0300"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Boleto colectivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boleto%20colectivo",
-        "pubdate": "Wed, 13 Dec 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Atlético Madrid - Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20-%20Lazio",
         "pubdate": "Wed, 13 Dec 2023 18:00:00 -0300"
@@ -80,9 +66,16 @@
     ],
     [
       {
-        "title": "CGT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#CGT",
-        "pubdate": "Wed, 13 Dec 2023 14:00:00 -0300"
+        "title": "Boleto colectivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boleto%20colectivo",
+        "pubdate": "Wed, 13 Dec 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Riesgo pais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Riesgo%20pais",
+        "pubdate": "Wed, 13 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "CGT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#CGT",
+        "pubdate": "Wed, 13 Dec 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Manchester City vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20vs",
         "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
@@ -111,6 +111,13 @@
         "title": "Kung Fu Panda 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kung%20Fu%20Panda%204",
         "pubdate": "Wed, 13 Dec 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "INDEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#INDEC",
+        "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jubilaciones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jubilaciones",
         "pubdate": "Wed, 13 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Javier Lamas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Lamas",
-        "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
       }
     ]
   ]
