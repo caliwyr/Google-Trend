@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-12-2023 , 22:57:28",
+  "lastUpdate": "14-12-2023 , 23:15:52",
   "data": [
+    [
+      {
+        "title": "Platoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Platoon",
+        "pubdate": "Fri, 15 Dec 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Union Saint-Gilloise – Liverpool",
@@ -13,6 +20,13 @@
         "title": "Threads",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Threads",
         "pubdate": "Thu, 14 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
+        "pubdate": "Thu, 14 Dec 2023 01:00:00 +0200"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
-        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Moldova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moldova",
         "pubdate": "Wed, 13 Dec 2023 16:00:00 +0200"
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "EMU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#EMU",
+        "title": "Emu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emu",
         "pubdate": "Wed, 13 Dec 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UEFA%20Champions%20League",
+        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Galatasaray",
         "pubdate": "Wed, 13 Dec 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
-        "pubdate": "Tue, 12 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lucia",
-        "pubdate": "Tue, 12 Dec 2023 19:00:00 +0200"
       }
     ]
   ]
