@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 05:57:32",
+  "lastUpdate": "14-12-2023 , 06:20:55",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
         "pubdate": "Wed, 13 Dec 2023 08:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Estrella Roja  Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estrella%20Roja%20%20Manchester%20City",
-        "pubdate": "Wed, 13 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Dolar blue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20blue",
-        "pubdate": "Wed, 13 Dec 2023 12:00:00 -0300"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
+        "pubdate": "Wed, 13 Dec 2023 16:00:00 -0300"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Taylor%20Swift",
         "pubdate": "Wed, 13 Dec 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dolar blue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20blue",
+        "pubdate": "Wed, 13 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Porto",
-        "pubdate": "Wed, 13 Dec 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Paloma Mami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paloma%20Mami",
         "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Peso chileno a peso argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peso%20chileno%20a%20peso%20argentino",
-        "pubdate": "Wed, 13 Dec 2023 17:00:00 -0300"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Porto",
+        "pubdate": "Wed, 13 Dec 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Acido clorhidrico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Acido%20clorhidrico",
+        "pubdate": "Wed, 13 Dec 2023 15:00:00 -0300"
       }
     ]
   ]

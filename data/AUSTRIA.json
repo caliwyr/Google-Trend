@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 05:57:31",
+  "lastUpdate": "14-12-2023 , 06:20:54",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Nina Ortlieb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nina%20Ortlieb",
-        "pubdate": "Wed, 13 Dec 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kate Micucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kate%20Micucci",
         "pubdate": "Wed, 13 Dec 2023 11:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "ManCity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ManCity",
         "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "COP28",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#COP28",
+        "pubdate": "Wed, 13 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
