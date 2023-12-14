@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 03:44:41",
+  "lastUpdate": "14-12-2023 , 03:53:57",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "Aiko Zpěvačka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aiko%20Zp%C4%9Bva%C4%8Dka",
         "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bohemians – Liberec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Liberec",
-        "pubdate": "Wed, 13 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Boleslav – Karviná",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Karvin%C3%A1",
-        "pubdate": "Wed, 13 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -45,9 +31,44 @@
     ],
     [
       {
+        "title": "Antverpy – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Antverpy%20%E2%80%93%20Barcelona",
+        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle – AC Milán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20AC%20Mil%C3%A1n",
+        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jim Morrison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jim%20Morrison",
+        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kung Fu Panda 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kung%20Fu%20Panda%204",
         "pubdate": "Wed, 13 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "JetBrains",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#JetBrains",
+        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amanda%20Bynes",
+        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -66,20 +87,6 @@
     ],
     [
       {
-        "title": "Amanda Bynes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amanda%20Bynes",
-        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jim Morrison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jim%20Morrison",
-        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Teorie velkého třesku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teorie%20velk%C3%A9ho%20t%C5%99esku",
         "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Antverpy – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Antverpy%20%E2%80%93%20Barcelona",
-        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
+        "title": "Bohemians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians",
+        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "JetBrains",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#JetBrains",
-        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kovap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kovap",
-        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sean Penn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sean%20Penn",
         "pubdate": "Wed, 13 Dec 2023 18:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Ken Block",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ken%20Block",
         "pubdate": "Wed, 13 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hilary Duff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hilary%20Duff",
+        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
