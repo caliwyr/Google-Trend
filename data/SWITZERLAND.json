@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 15:46:41",
+  "lastUpdate": "14-12-2023 , 15:55:59",
   "data": [
     [
       {
@@ -38,20 +38,6 @@
     ],
     [
       {
-        "title": "Swisscom Störung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swisscom%20St%C3%B6rung",
-        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Davos, 1917",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davos,%201917",
-        "pubdate": "Thu, 14 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
         "pubdate": "Thu, 14 Dec 2023 06:00:00 +0100"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Swisscom Störung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swisscom%20St%C3%B6rung",
+        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "SNB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SNB",
         "pubdate": "Thu, 14 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Davos, 1917",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davos,%201917",
+        "pubdate": "Thu, 14 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Champery",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champery",
-        "pubdate": "Thu, 14 Dec 2023 08:00:00 +0100"
+        "title": "Bradley Cooper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bradley%20Cooper",
+        "pubdate": "Thu, 14 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -97,6 +97,20 @@
         "title": "Lötschberg-Basistunnel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L%C3%B6tschberg-Basistunnel",
         "pubdate": "Thu, 14 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champery",
+        "pubdate": "Thu, 14 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League Auslosung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League%20Auslosung",
+        "pubdate": "Thu, 14 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Karol G",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karol%20G",
-        "pubdate": "Thu, 14 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Agnès Varda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Agn%C3%A8s%20Varda",
-        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bundesratswahlen 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesratswahlen%202023",
-        "pubdate": "Wed, 13 Dec 2023 08:00:00 +0100"
+        "title": "Val Gardena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20Gardena",
+        "pubdate": "Thu, 14 Dec 2023 16:00:00 +0100"
       }
     ]
   ]
