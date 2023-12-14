@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-12-2023 , 07:48:01",
+  "lastUpdate": "14-12-2023 , 07:57:21",
   "data": [
+    [
+      {
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arnold%20Schwarzenegger",
+        "pubdate": "Thu, 14 Dec 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tahi Tóth László",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Depardieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Depardieu",
+        "title": "Gerard Depardieu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gerard%20Depardieu",
         "pubdate": "Wed, 13 Dec 2023 15:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Union%20Berlin",
         "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feher karacsony",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feher%20karacsony",
-        "pubdate": "Wed, 13 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
