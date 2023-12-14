@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 04:12:17",
+  "lastUpdate": "14-12-2023 , 04:29:16",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bundeskanzler Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundeskanzler%20Schweiz",
         "pubdate": "Wed, 13 Dec 2023 09:00:00 +0100"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
-        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Parmelin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Parmelin",
         "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Emil Steinberger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emil%20Steinberger",
+        "pubdate": "Wed, 13 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Karin Keller-Sutter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karin%20Keller-Sutter",
         "pubdate": "Wed, 13 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Winterthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "FC Winterthur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
-        "pubdate": "Wed, 13 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Elisabeth Baume-Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elisabeth%20Baume-Schneider",
         "pubdate": "Wed, 13 Dec 2023 12:00:00 +0100"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Captain Holt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Captain%20Holt",
-        "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
+        "title": "Antwerp – Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Antwerp%20%E2%80%93%20Barcelone",
+        "pubdate": "Wed, 13 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Captain Holt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Captain%20Holt",
+        "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kate Micucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Micucci",
         "pubdate": "Wed, 13 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Challenge League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
-        "pubdate": "Wed, 13 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Appaloosa film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Appaloosa%20film",
-        "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
