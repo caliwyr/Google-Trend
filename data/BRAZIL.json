@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 07:20:09",
+  "lastUpdate": "14-12-2023 , 07:29:22",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Estudiantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Estudiantes",
+        "pubdate": "Wed, 13 Dec 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Thiago Maia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Thiago%20Maia",
         "pubdate": "Wed, 13 Dec 2023 14:00:00 -0500"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Estudiantes",
-        "pubdate": "Wed, 13 Dec 2023 18:00:00 -0500"
+        "title": "Documentario luisa Sonza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Documentario%20luisa%20Sonza",
+        "pubdate": "Wed, 13 Dec 2023 11:00:00 -0500"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Documentario luisa Sonza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Documentario%20luisa%20Sonza",
-        "pubdate": "Wed, 13 Dec 2023 11:00:00 -0500"
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors",
+        "pubdate": "Wed, 13 Dec 2023 03:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Golden State",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Golden%20State",
         "pubdate": "Wed, 13 Dec 2023 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors",
-        "pubdate": "Wed, 13 Dec 2023 03:00:00 -0500"
       }
     ]
   ]
