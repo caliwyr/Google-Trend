@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-12-2023 , 21:42:11",
+  "lastUpdate": "15-12-2023 , 21:51:41",
   "data": [
-    [
-      {
-        "title": "Live Score",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Live%20Score",
-        "pubdate": "Fri, 15 Dec 2023 00:30:00 +0530"
-      }
-    ],
     [
       {
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
         "pubdate": "Fri, 15 Dec 2023 04:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Live Score",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Live%20Score",
+        "pubdate": "Fri, 15 Dec 2023 00:30:00 +0530"
       }
     ],
     [
@@ -24,37 +24,16 @@
     ],
     [
       {
-        "title": "West Indies vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
-        "pubdate": "Fri, 15 Dec 2023 10:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Mumbai Indians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mumbai%20Indians",
+        "title": "Rohit Sharma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rohit%20Sharma",
         "pubdate": "Fri, 15 Dec 2023 18:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Aishwarya Rai News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aishwarya%20Rai%20News",
-        "pubdate": "Fri, 15 Dec 2023 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Shubman Gill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shubman%20Gill",
-        "pubdate": "Fri, 15 Dec 2023 03:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Ravindra Jadeja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ravindra%20Jadeja",
-        "pubdate": "Fri, 15 Dec 2023 03:30:00 +0530"
+        "title": "West Indies vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Indies%20vs%20England",
+        "pubdate": "Fri, 15 Dec 2023 10:30:00 +0530"
       }
     ],
     [
@@ -101,9 +80,23 @@
     ],
     [
       {
+        "title": "Under-19 Asia Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Under-19%20Asia%20Cup",
+        "pubdate": "Fri, 15 Dec 2023 19:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Yu Yu Hakusho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yu%20Yu%20Hakusho",
         "pubdate": "Fri, 15 Dec 2023 02:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Aishwarya Rai News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aishwarya%20Rai%20News",
+        "pubdate": "Fri, 15 Dec 2023 22:30:00 +0530"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bigg Boss 7 Telugu Winner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bigg%20Boss%207%20Telugu%20Winner",
         "pubdate": "Fri, 15 Dec 2023 21:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Kia Sonet Facelift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kia%20Sonet%20Facelift",
+        "pubdate": "Fri, 15 Dec 2023 00:30:00 +0530"
       }
     ]
   ]
