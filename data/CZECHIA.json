@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-12-2023 , 02:49:04",
+  "lastUpdate": "15-12-2023 , 02:58:16",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
-        "pubdate": "Fri, 15 Dec 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Koruna",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Slavia – Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20%E2%80%93%20Servette",
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Thu, 14 Dec 2023 17:00:00 +0100"
       }
     ],
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Konferenční liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Konferen%C4%8Dn%C3%AD%20liga",
-        "pubdate": "Thu, 14 Dec 2023 20:00:00 +0100"
+        "title": "Ondřej Kavan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Kavan",
+        "pubdate": "Thu, 14 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Láska nebeská",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#L%C3%A1ska%20nebesk%C3%A1",
+        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ac milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ac%20milan",
         "pubdate": "Thu, 14 Dec 2023 18:00:00 +0100"
@@ -97,6 +97,13 @@
         "title": "Robert Fico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Fico",
         "pubdate": "Thu, 14 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sevcik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sevcik",
+        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Horst Fuchs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Horst%20Fuchs",
         "pubdate": "Wed, 13 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brooklyn 99",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brooklyn%2099",
-        "pubdate": "Wed, 13 Dec 2023 07:00:00 +0100"
       }
     ]
   ]
