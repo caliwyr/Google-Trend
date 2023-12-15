@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2023 , 19:42:02",
+  "lastUpdate": "15-12-2023 , 19:51:17",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Al Ahly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
+        "pubdate": "Fri, 15 Dec 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Family Plan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Family%20Plan",
         "pubdate": "Fri, 15 Dec 2023 19:00:00 +0200"
@@ -45,8 +52,15 @@
     ],
     [
       {
-        "title": "Al Ahly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
+        "title": "Genoa vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Genoa%20vs%20Juventus",
+        "pubdate": "Fri, 15 Dec 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Club World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Club%20World%20Cup",
         "pubdate": "Fri, 15 Dec 2023 20:00:00 +0200"
       }
     ],
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Club World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Club%20World%20Cup",
-        "pubdate": "Fri, 15 Dec 2023 20:00:00 +0200"
+        "title": "Reacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Reacher",
+        "pubdate": "Fri, 15 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Europa Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20Conference%20League",
-        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brighton vs Marseille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Marseille",
         "pubdate": "Thu, 14 Dec 2023 22:00:00 +0200"
@@ -104,6 +111,13 @@
         "title": "UEFA Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Europa%20League",
         "pubdate": "Thu, 14 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20Conference%20League",
+        "pubdate": "Thu, 14 Dec 2023 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "President Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#President%20Biden",
         "pubdate": "Thu, 14 Dec 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Australia vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Pakistan",
-        "pubdate": "Thu, 14 Dec 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
-        "pubdate": "Thu, 14 Dec 2023 19:00:00 +0200"
       }
     ]
   ]

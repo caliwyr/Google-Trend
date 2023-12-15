@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "15-12-2023 , 19:41:57",
+  "lastUpdate": "15-12-2023 , 19:51:12",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
         "pubdate": "Fri, 15 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Horst Fuchs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horst%20Fuchs",
+        "pubdate": "Fri, 15 Dec 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barbie film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barbie%20film",
+        "pubdate": "Fri, 15 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Reacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reacher",
+        "pubdate": "Fri, 15 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ajax",
         "pubdate": "Fri, 15 Dec 2023 06:00:00 +0100"
@@ -38,9 +59,16 @@
     ],
     [
       {
-        "title": "Indiana Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Indiana%20Jones",
-        "pubdate": "Fri, 15 Dec 2023 17:00:00 +0100"
+        "title": "Csomós Mari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csom%C3%B3s%20Mari",
+        "pubdate": "Fri, 15 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kammerer Zoltán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kammerer%20Zolt%C3%A1n",
+        "pubdate": "Fri, 15 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -62,13 +90,6 @@
         "title": "Politico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Politico",
         "pubdate": "Fri, 15 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Csomós Mari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csom%C3%B3s%20Mari",
-        "pubdate": "Fri, 15 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Bródy János",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Br%C3%B3dy%20J%C3%A1nos",
-        "pubdate": "Thu, 14 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tolvai Reni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tolvai%20Reni",
         "pubdate": "Thu, 14 Dec 2023 22:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Tahi Tóth László",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tahi%20T%C3%B3th%20L%C3%A1szl%C3%B3",
-        "pubdate": "Thu, 14 Dec 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "El",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
-        "pubdate": "Thu, 14 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Threads",
-        "pubdate": "Thu, 14 Dec 2023 17:00:00 +0100"
+        "title": "Bródy János",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Br%C3%B3dy%20J%C3%A1nos",
+        "pubdate": "Thu, 14 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
