@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 18:47:06",
+  "lastUpdate": "16-12-2023 , 18:56:24",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
         "pubdate": "Sat, 16 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier",
+        "pubdate": "Sat, 16 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -24,16 +31,30 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20a",
-        "pubdate": "Sat, 16 Dec 2023 09:00:00 -0300"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
+        "pubdate": "Sat, 16 Dec 2023 13:00:00 -0300"
       }
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LaLiga",
+        "title": "Athletic - Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20-%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sat, 16 Dec 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
+        "pubdate": "Sat, 16 Dec 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20a",
+        "pubdate": "Sat, 16 Dec 2023 09:00:00 -0300"
       }
     ],
     [
@@ -52,16 +73,9 @@
     ],
     [
       {
-        "title": "Newcastle - Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20-%20Fulham",
+        "title": "Newcastle  Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Fulham",
         "pubdate": "Sat, 16 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Alejandra Herrera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alejandra%20Herrera",
-        "pubdate": "Sat, 16 Dec 2023 01:00:00 -0300"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Gabriel Boric",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gabriel%20Boric",
-        "pubdate": "Sat, 16 Dec 2023 02:00:00 -0300"
+        "title": "Magno Hotel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magno%20Hotel",
+        "pubdate": "Sat, 16 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Chama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chama",
-        "pubdate": "Fri, 15 Dec 2023 00:00:00 -0300"
+        "title": "Matthew Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Matthew%20Perry",
+        "pubdate": "Fri, 15 Dec 2023 21:00:00 -0300"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Matthew Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Matthew%20Perry",
-        "pubdate": "Fri, 15 Dec 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
         "pubdate": "Fri, 15 Dec 2023 18:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Nottingham Forest  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nottingham%20Forest%20%20Tottenham",
         "pubdate": "Fri, 15 Dec 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#America",
-        "pubdate": "Fri, 15 Dec 2023 12:00:00 -0300"
       }
     ]
   ]

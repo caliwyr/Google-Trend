@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 18:47:05",
+  "lastUpdate": "16-12-2023 , 18:56:23",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Ligue 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%201",
         "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pro League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pro%20League",
-        "pubdate": "Sat, 16 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -94,16 +87,23 @@
     ],
     [
       {
-        "title": "Marché de noel Bruxelles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#March%C3%A9%20de%20noel%20Bruxelles",
-        "pubdate": "Sat, 16 Dec 2023 14:00:00 +0100"
+        "title": "Bournemouth – Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bournemouth%20%E2%80%93%20Luton%20Town",
+        "pubdate": "Sat, 16 Dec 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Christophe mae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christophe%20mae",
-        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+        "pubdate": "Sat, 16 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marché de noel Bruxelles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#March%C3%A9%20de%20noel%20Bruxelles",
+        "pubdate": "Sat, 16 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Christophe mae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christophe%20mae",
+        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jake%20Paul",
         "pubdate": "Sat, 16 Dec 2023 11:00:00 +0100"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Monaco – Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Monaco%20%E2%80%93%20Lyon",
-        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0100"
+        "title": "Standard Charleroi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20Charleroi",
+        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "RWDM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
         "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aquaman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aquaman",
-        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
       }
     ]
   ]
