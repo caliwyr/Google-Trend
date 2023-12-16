@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 01:44:33",
+  "lastUpdate": "16-12-2023 , 02:17:03",
   "data": [
     [
       {
@@ -10,15 +10,8 @@
     ],
     [
       {
-        "title": "Tren Maya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tren%20Maya",
-        "pubdate": "Fri, 15 Dec 2023 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juventus",
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Serie%20A",
         "pubdate": "Fri, 15 Dec 2023 14:00:00 -0600"
       }
     ],
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "Nottingham Forest.  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nottingham%20Forest.%20%20Tottenham",
+        "title": "Nottingham Forest - Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nottingham%20Forest%20-%20Tottenham",
         "pubdate": "Fri, 15 Dec 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Luis Miguel Tour 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luis%20Miguel%20Tour%202024",
+        "pubdate": "Fri, 15 Dec 2023 17:00:00 -0600"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Yailin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Yailin",
+        "pubdate": "Fri, 15 Dec 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Yu Yu Hakusho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Yu%20Yu%20Hakusho",
         "pubdate": "Fri, 15 Dec 2023 00:00:00 -0600"
@@ -66,30 +73,9 @@
     ],
     [
       {
-        "title": "Yailin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Yailin",
-        "pubdate": "Fri, 15 Dec 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Niño britanico desaparecido",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ni%C3%B1o%20britanico%20desaparecido",
         "pubdate": "Fri, 15 Dec 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Ajax-AEK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ajax-AEK",
-        "pubdate": "Fri, 15 Dec 2023 07:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Romeritos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Romeritos",
-        "pubdate": "Fri, 15 Dec 2023 11:00:00 -0600"
       }
     ],
     [
@@ -101,8 +87,8 @@
     ],
     [
       {
-        "title": "Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Osasuna",
+        "title": "Sophie Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sophie%20Turner",
         "pubdate": "Fri, 15 Dec 2023 16:00:00 -0600"
       }
     ],
@@ -115,8 +101,8 @@
     ],
     [
       {
-        "title": "Sophie Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sophie%20Turner",
+        "title": "Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Osasuna",
         "pubdate": "Fri, 15 Dec 2023 16:00:00 -0600"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Monaco vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monaco%20vs",
+        "pubdate": "Fri, 15 Dec 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Genaro García Luna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Genaro%20Garc%C3%ADa%20Luna",
         "pubdate": "Fri, 15 Dec 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Julian Quiñones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Julian%20Qui%C3%B1ones",
+        "pubdate": "Fri, 15 Dec 2023 00:00:00 -0600"
       }
     ]
   ]
