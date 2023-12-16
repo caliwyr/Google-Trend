@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 20:53:44",
+  "lastUpdate": "16-12-2023 , 21:07:32",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
+        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Colin Burgess",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Colin%20Burgess",
         "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ullensvang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullensvang",
+        "pubdate": "Sat, 16 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Ullensvang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullensvang",
-        "pubdate": "Sat, 16 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Engelberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Engelberg",
         "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Prøve VM Granåsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pr%C3%B8ve%20VM%20Gran%C3%A5sen",
-        "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
+        "title": "Stein Erik Hagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stein%20Erik%20Hagen",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sogndal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sogndal",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -110,7 +124,7 @@
       {
         "title": "Håndball-VM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-VM",
-        "pubdate": "Fri, 15 Dec 2023 19:00:00 +0100"
+        "pubdate": "Fri, 15 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sverige - Frankrike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverige%20-%20Frankrike",
         "pubdate": "Fri, 15 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20Borg",
-        "pubdate": "Fri, 15 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hjem til jul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hjem%20til%20jul",
-        "pubdate": "Fri, 15 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
