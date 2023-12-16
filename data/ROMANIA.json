@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-12-2023 , 22:55:11",
+  "lastUpdate": "16-12-2023 , 23:11:11",
   "data": [
-    [
-      {
-        "title": "UTA Arad - Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Farul%20Constan%C8%9Ba",
-        "pubdate": "Sat, 16 Dec 2023 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Universitatea Craiova  Poli Iași",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "UTA Arad - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Farul%20Constan%C8%9Ba",
+        "pubdate": "Sat, 16 Dec 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taverna Racilor Snagov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taverna%20Racilor%20Snagov",
         "pubdate": "Sat, 16 Dec 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Sat, 16 Dec 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "MG romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MG%20romania",
-        "pubdate": "Sat, 16 Dec 2023 11:00:00 +0200"
+        "title": "Alfa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alfa",
+        "pubdate": "Sat, 16 Dec 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Alfa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alfa",
-        "pubdate": "Sat, 16 Dec 2023 23:00:00 +0200"
+        "title": "MG romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MG%20romania",
+        "pubdate": "Sat, 16 Dec 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Voluntari - FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Voluntari%20-%20FC",
         "pubdate": "Sat, 16 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vocea romaniei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vocea%20romaniei",
-        "pubdate": "Fri, 15 Dec 2023 16:00:00 +0200"
       }
     ]
   ]
