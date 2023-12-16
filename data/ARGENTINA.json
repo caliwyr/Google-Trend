@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 10:07:23",
+  "lastUpdate": "16-12-2023 , 10:26:00",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Thalia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Thalia",
+        "pubdate": "Fri, 15 Dec 2023 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Topa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Topa",
         "pubdate": "Fri, 15 Dec 2023 23:00:00 -0300"
@@ -83,6 +90,13 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
         "pubdate": "Fri, 15 Dec 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Quilmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quilmes",
+        "pubdate": "Fri, 15 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Aitana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aitana",
-        "pubdate": "Fri, 15 Dec 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Matthew Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Matthew%20Perry",
         "pubdate": "Fri, 15 Dec 2023 22:00:00 -0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Javier Milei Impuesto a las Ganancias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Milei%20Impuesto%20a%20las%20Ganancias",
+        "title": "Aitana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aitana",
         "pubdate": "Fri, 15 Dec 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lousteau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lousteau",
-        "pubdate": "Fri, 15 Dec 2023 23:00:00 -0300"
       }
     ]
   ]
