@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2023 , 19:57:01",
+  "lastUpdate": "16-12-2023 , 20:14:40",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
+        "pubdate": "Sat, 16 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Borussia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
         "pubdate": "Sat, 16 Dec 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
+        "pubdate": "Sat, 16 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bournemouth",
+        "pubdate": "Sat, 16 Dec 2023 11:00:00 -0500"
       }
     ],
     [
@@ -38,9 +59,9 @@
     ],
     [
       {
-        "title": "Luton Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luton%20Town",
-        "pubdate": "Sat, 16 Dec 2023 11:00:00 -0500"
+        "title": "Rb leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rb%20leipzig",
+        "pubdate": "Sat, 16 Dec 2023 10:00:00 -0500"
       }
     ],
     [
@@ -48,20 +69,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtic",
         "pubdate": "Sat, 16 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Serie A TIM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20A%20TIM",
-        "pubdate": "Sat, 16 Dec 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla",
-        "pubdate": "Sat, 16 Dec 2023 11:00:00 -0500"
       }
     ],
     [
@@ -75,6 +82,13 @@
       {
         "title": "Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham",
+        "pubdate": "Sat, 16 Dec 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Lira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Lira",
         "pubdate": "Sat, 16 Dec 2023 10:00:00 -0500"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Nottingham Forest x Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nottingham%20Forest%20x%20Tottenham",
-        "pubdate": "Fri, 15 Dec 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
         "pubdate": "Fri, 15 Dec 2023 10:00:00 -0500"
@@ -131,13 +138,6 @@
       {
         "title": "Fuga das Galinhas 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fuga%20das%20Galinhas%202",
-        "pubdate": "Fri, 15 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Urawa Reds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Urawa%20Reds",
         "pubdate": "Fri, 15 Dec 2023 09:00:00 -0500"
       }
     ]
