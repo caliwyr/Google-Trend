@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-12-2023 , 18:55:21",
+  "lastUpdate": "17-12-2023 , 19:09:09",
   "data": [
-    [
-      {
-        "title": "Domicilio electoral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Domicilio%20electoral",
-        "pubdate": "Sun, 17 Dec 2023 08:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Arsenal - Brighton",
@@ -17,9 +10,30 @@
     ],
     [
       {
-        "title": "Real Sociedad  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Sociedad%20%20Betis",
-        "pubdate": "Sun, 17 Dec 2023 13:00:00 -0300"
+        "title": "Domicilio electoral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Domicilio%20electoral",
+        "pubdate": "Sun, 17 Dec 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Que pasa si no voy a votar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Que%20pasa%20si%20no%20voy%20a%20votar",
+        "pubdate": "Sun, 17 Dec 2023 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ricardo Lagos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricardo%20Lagos",
+        "pubdate": "Sun, 17 Dec 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bahia Blanca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bahia%20Blanca",
+        "pubdate": "Sun, 17 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -27,6 +41,13 @@
         "title": "Es obligatorio votar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Es%20obligatorio%20votar",
         "pubdate": "Sun, 17 Dec 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ke Personajes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ke%20Personajes",
+        "pubdate": "Sun, 17 Dec 2023 13:00:00 -0300"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Ke Personajes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ke%20Personajes",
-        "pubdate": "Sun, 17 Dec 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Ser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ser",
         "pubdate": "Sun, 17 Dec 2023 12:00:00 -0300"
@@ -69,13 +83,6 @@
         "title": "Rosita Pelayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rosita%20Pelayo",
         "pubdate": "Sun, 17 Dec 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bahia Blanca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bahia%20Blanca",
-        "pubdate": "Sun, 17 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Servicio Electoral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Servicio%20Electoral",
-        "pubdate": "Sat, 16 Dec 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
         "pubdate": "Sat, 16 Dec 2023 12:00:00 -0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
-        "pubdate": "Sat, 16 Dec 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Sat, 16 Dec 2023 20:00:00 -0300"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "México  Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#M%C3%A9xico%20%20Colombia",
+        "title": "Local de votación",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Local%20de%20votaci%C3%B3n",
         "pubdate": "Sat, 16 Dec 2023 21:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Premier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier",
-        "pubdate": "Sat, 16 Dec 2023 15:00:00 -0300"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
+        "pubdate": "Sat, 16 Dec 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "México  Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#M%C3%A9xico%20%20Colombia",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 -0300"
       }
     ]
   ]

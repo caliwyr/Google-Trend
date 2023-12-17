@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 18:55:23",
+  "lastUpdate": "17-12-2023 , 19:09:10",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Olly Alexander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olly%20Alexander",
+        "pubdate": "Sun, 17 Dec 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bournemouth Luton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bournemouth%20Luton",
         "pubdate": "Sat, 16 Dec 2023 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Fast and Furious",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fast%20and%20Furious",
         "pubdate": "Sat, 16 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
-        "pubdate": "Sat, 16 Dec 2023 22:00:00 +0200"
       }
     ]
   ]
