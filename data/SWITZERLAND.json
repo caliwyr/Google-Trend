@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 11:56:56",
+  "lastUpdate": "17-12-2023 , 12:26:13",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Tim Bendzko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Bendzko",
-        "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Swiss Holiday Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Holiday%20Park",
         "pubdate": "Sun, 17 Dec 2023 09:00:00 +0100"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Tim Bendzko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Bendzko",
+        "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Xavier Niel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xavier%20Niel",
         "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Colin Burgess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Colin%20Burgess",
+        "pubdate": "Sun, 17 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "St. Gallen gegen Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Gallen%20gegen%20Z%C3%BCrich",
-        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stefanie Fleckenstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stefanie%20Fleckenstein",
         "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "St. Gallen gegen Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Gallen%20gegen%20Z%C3%BCrich",
+        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ketamin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ketamin",
         "pubdate": "Sat, 16 Dec 2023 00:00:00 +0100"
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Val d'isere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20d'isere",
+        "title": "Val d'Isere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20d'Isere",
         "pubdate": "Sat, 16 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nasa Sonnensturm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nasa%20Sonnensturm",
         "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rudy Giuliani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rudy%20Giuliani",
-        "pubdate": "Sat, 16 Dec 2023 12:00:00 +0100"
       }
     ]
   ]
