@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 06:47:46",
+  "lastUpdate": "17-12-2023 , 06:56:57",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Jupiler Pro League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro%20League",
         "pubdate": "Sat, 16 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "De Familie Claus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Familie%20Claus",
-        "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Salahdine Parnasse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salahdine%20Parnasse",
         "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "RWDM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
-        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
+        "title": "De Familie Claus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Familie%20Claus",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
