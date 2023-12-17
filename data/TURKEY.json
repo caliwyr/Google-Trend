@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "17-12-2023 , 02:48:05",
+  "lastUpdate": "17-12-2023 , 02:57:21",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Barcelona",
+        "pubdate": "Sun, 17 Dec 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bülent Ersoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#B%C3%BClent%20Ersoy",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 +0300"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "KETAMİN NEDİR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KETAM%C4%B0N%20NED%C4%B0R",
-        "pubdate": "Sat, 16 Dec 2023 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Sayısal Loto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Say%C4%B1sal%20Loto",
         "pubdate": "Sat, 16 Dec 2023 23:00:00 +0300"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
-        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0300"
+        "title": "Ketamin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ketamin",
+        "pubdate": "Sat, 16 Dec 2023 12:00:00 +0300"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Napoli",
         "pubdate": "Sat, 16 Dec 2023 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
+        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0300"
       }
     ],
     [
@@ -103,13 +110,6 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Chelsea",
-        "pubdate": "Sat, 16 Dec 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bundesliga",
         "pubdate": "Sat, 16 Dec 2023 19:00:00 +0300"
       }
     ],
