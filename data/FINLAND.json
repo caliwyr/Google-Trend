@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-12-2023 , 22:54:32",
+  "lastUpdate": "17-12-2023 , 23:10:37",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
+        "pubdate": "Mon, 18 Dec 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
         "pubdate": "Sun, 17 Dec 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
+        "pubdate": "Sun, 17 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "Arsenal – Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Brighton",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
         "pubdate": "Sun, 17 Dec 2023 18:00:00 +0200"
       }
     ],
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Sun, 17 Dec 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fudge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fudge",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "The Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Heat",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
-        "pubdate": "Sun, 17 Dec 2023 03:00:00 +0200"
       }
     ],
     [

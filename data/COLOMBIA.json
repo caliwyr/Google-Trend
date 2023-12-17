@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "17-12-2023 , 22:54:31",
+  "lastUpdate": "17-12-2023 , 23:10:36",
   "data": [
     [
       {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Aston%20Villa",
-        "pubdate": "Sun, 17 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Arsenal%20-%20Brighton",
         "pubdate": "Sun, 17 Dec 2023 09:00:00 -0500"
       }
     ],
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Caracol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol",
-        "pubdate": "Sun, 17 Dec 2023 01:00:00 -0500"
+        "title": "Lazio - Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lazio%20-%20Inter",
+        "pubdate": "Sun, 17 Dec 2023 16:00:00 -0500"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Sociedad",
         "pubdate": "Sun, 17 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Caracol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol",
+        "pubdate": "Sun, 17 Dec 2023 01:00:00 -0500"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "James Rodríguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#James%20Rodr%C3%ADguez",
         "pubdate": "Sun, 17 Dec 2023 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lazio - Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lazio%20-%20Inter",
-        "pubdate": "Sun, 17 Dec 2023 16:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Premier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Premier",
         "pubdate": "Sat, 16 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Liga",
+        "pubdate": "Sat, 16 Dec 2023 09:00:00 -0500"
       }
     ]
   ]
