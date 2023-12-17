@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 16:54:30",
+  "lastUpdate": "17-12-2023 , 17:08:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Mérő László",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9r%C5%91%20L%C3%A1szl%C3%B3",
         "pubdate": "Sun, 17 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jack Axelrod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jack%20Axelrod",
+        "pubdate": "Sun, 17 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
-        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
         "pubdate": "Sat, 16 Dec 2023 01:00:00 +0100"
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "Bilbao–atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bilbao%E2%80%93atl%C3%A9tico%20Madrid",
-        "pubdate": "Sat, 16 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RTL műsor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL%20m%C5%B1sor",
-        "pubdate": "Sat, 16 Dec 2023 17:00:00 +0100"
+        "title": "Liverpool Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20Manchester%20United",
+        "pubdate": "Sat, 16 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Koltai Róbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koltai%20R%C3%B3bert",
         "pubdate": "Sat, 16 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DVTK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
+        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
       }
     ]
   ]
