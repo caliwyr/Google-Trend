@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 08:50:05",
+  "lastUpdate": "17-12-2023 , 08:59:16",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Colin Burgess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Colin%20Burgess",
+        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
         "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Colin Burgess",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Colin%20Burgess",
-        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bournemouth Luton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bournemouth%20Luton",
         "pubdate": "Sat, 16 Dec 2023 20:00:00 +0100"
@@ -97,6 +97,20 @@
         "title": "Snøhetta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sn%C3%B8hetta",
         "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Taxi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taxi",
+        "pubdate": "Sat, 16 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heidi Weng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Heidi%20Weng",
+        "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Demonstrasjon Oslo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Demonstrasjon%20Oslo",
         "pubdate": "Sat, 16 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Håndball-VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-VM",
-        "pubdate": "Fri, 15 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Henny Reistad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Henny%20Reistad",
-        "pubdate": "Fri, 15 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
