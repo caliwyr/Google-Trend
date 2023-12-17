@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2023 , 13:56:50",
+  "lastUpdate": "17-12-2023 , 14:12:09",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Buenos Aires",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Buenos%20Aires",
+        "title": "Aeroparque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aeroparque",
         "pubdate": "Sun, 17 Dec 2023 08:00:00 -0300"
       }
     ],
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Nahuel Pennisi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nahuel%20Pennisi",
-        "pubdate": "Sun, 17 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Malcorra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Malcorra",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Defensa Civil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Defensa%20Civil",
-        "pubdate": "Sun, 17 Dec 2023 07:00:00 -0300"
       }
     ],
     [
@@ -87,6 +73,13 @@
     ],
     [
       {
+        "title": "Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
+        "pubdate": "Sun, 17 Dec 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton",
         "pubdate": "Sun, 17 Dec 2023 03:00:00 -0300"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Tornado en Buenos Aires hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tornado%20en%20Buenos%20Aires%20hoy",
-        "pubdate": "Sun, 17 Dec 2023 09:00:00 -0300"
+        "title": "Dia del Contador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Contador",
+        "pubdate": "Sun, 17 Dec 2023 10:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chelsea  Sheffield United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20%20Sheffield%20United",
         "pubdate": "Sat, 16 Dec 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "México  Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#M%C3%A9xico%20%20Colombia",
+        "pubdate": "Sat, 16 Dec 2023 21:00:00 -0300"
       }
     ]
   ]

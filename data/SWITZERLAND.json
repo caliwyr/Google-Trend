@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-12-2023 , 13:57:00",
+  "lastUpdate": "17-12-2023 , 14:12:20",
   "data": [
-    [
-      {
-        "title": "Lottozahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lottozahlen",
-        "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Alta Badia",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Lottozahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lottozahlen",
+        "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Geneviève de Fontenay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genevi%C3%A8ve%20de%20Fontenay",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Corona-Varianten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Corona-Varianten",
+        "pubdate": "Sun, 17 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -48,6 +55,20 @@
         "title": "Tim Bendzko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Bendzko",
         "pubdate": "Sun, 17 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Winterthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+        "pubdate": "Sun, 17 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Bond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrew%20Bond",
+        "pubdate": "Sun, 17 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Stefanie Fleckenstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stefanie%20Fleckenstein",
-        "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
         "pubdate": "Sat, 16 Dec 2023 08:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Val d'isere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20d'isere",
-        "pubdate": "Sat, 16 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bournemouth - Luton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bournemouth%20-%20Luton",
-        "pubdate": "Sat, 16 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nasa Sonnensturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nasa%20Sonnensturm",
-        "pubdate": "Sat, 16 Dec 2023 16:00:00 +0100"
+        "title": "Stefanie Fleckenstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stefanie%20Fleckenstein",
+        "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
       }
     ]
   ]
