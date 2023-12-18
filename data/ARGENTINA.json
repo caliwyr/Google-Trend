@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-12-2023 , 01:40:14",
+  "lastUpdate": "18-12-2023 , 02:18:30",
   "data": [
-    [
-      {
-        "title": "Servicio Meteorológico Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Servicio%20Meteorol%C3%B3gico%20Nacional",
-        "pubdate": "Sun, 17 Dec 2023 05:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Liverpool",
@@ -20,6 +13,20 @@
         "title": "Ke Personajes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ke%20Personajes",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Servicio Meteorológico Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Servicio%20Meteorol%C3%B3gico%20Nacional",
+        "pubdate": "Sun, 17 Dec 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bresh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bresh",
+        "pubdate": "Sun, 17 Dec 2023 05:00:00 -0300"
       }
     ],
     [
@@ -47,14 +54,7 @@
       {
         "title": "Epec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Epec",
-        "pubdate": "Sun, 17 Dec 2023 04:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
-        "pubdate": "Sun, 17 Dec 2023 18:00:00 -0300"
+        "pubdate": "Sun, 17 Dec 2023 06:00:00 -0300"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Servicio meteorologico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Servicio%20meteorologico",
-        "pubdate": "Sun, 17 Dec 2023 01:00:00 -0300"
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
+        "pubdate": "Sun, 17 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Corte de luz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Corte%20de%20luz",
+        "pubdate": "Sun, 17 Dec 2023 04:00:00 -0300"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Losc  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Losc%20%20PSG",
+        "title": "LOSC  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LOSC%20%20PSG",
         "pubdate": "Sun, 17 Dec 2023 17:00:00 -0300"
       }
     ],
@@ -90,13 +97,6 @@
         "title": "Noticias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Noticias",
         "pubdate": "Sun, 17 Dec 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Noticias de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Noticias%20de%20hoy",
-        "pubdate": "Sun, 17 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Bahia Blanca clima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bahia%20Blanca%20clima",
-        "pubdate": "Sun, 17 Dec 2023 00:00:00 -0300"
+        "title": "Bayern  Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern%20%20Stuttgart",
+        "pubdate": "Sun, 17 Dec 2023 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Bayern  Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern%20%20Stuttgart",
-        "pubdate": "Sun, 17 Dec 2023 17:00:00 -0300"
+        "title": "Bahia Blanca clima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bahia%20Blanca%20clima",
+        "pubdate": "Sun, 17 Dec 2023 00:00:00 -0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Cortes de luz hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cortes%20de%20luz%20hoy",
-        "pubdate": "Sun, 17 Dec 2023 13:00:00 -0300"
+        "title": "Floralis generica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Floralis%20generica",
+        "pubdate": "Sun, 17 Dec 2023 14:00:00 -0300"
       }
     ]
   ]
