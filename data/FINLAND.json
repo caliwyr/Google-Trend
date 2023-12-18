@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2023 , 20:49:33",
+  "lastUpdate": "18-12-2023 , 20:58:36",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brad%20Pitt",
         "pubdate": "Mon, 18 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keith Richards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Keith%20Richards",
+        "pubdate": "Mon, 18 Dec 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Interstellar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Interstellar",
         "pubdate": "Sat, 16 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
-        "pubdate": "Sat, 16 Dec 2023 20:00:00 +0200"
       }
     ]
   ]
