@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2023 , 13:02:41",
+  "lastUpdate": "18-12-2023 , 13:25:11",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Darts-WM 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts-WM%202024",
-        "pubdate": "Fri, 15 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sternstunden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sternstunden",
         "pubdate": "Fri, 15 Dec 2023 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Hapag-Lloyd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hapag-Lloyd",
         "pubdate": "Fri, 15 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
+        "pubdate": "Thu, 14 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
