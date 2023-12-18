@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "18-12-2023 , 16:52:56",
+  "lastUpdate": "18-12-2023 , 17:07:50",
   "data": [
     [
       {
-        "title": "Jim Carrey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jim%20Carrey",
-        "pubdate": "Mon, 18 Dec 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid – Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Villarreal",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
         "pubdate": "Mon, 18 Dec 2023 00:00:00 +0200"
       }
     ],
@@ -20,6 +13,13 @@
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brad%20Pitt",
         "pubdate": "Mon, 18 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eve Gilles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eve%20Gilles",
+        "pubdate": "Mon, 18 Dec 2023 18:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
         "pubdate": "Sun, 17 Dec 2023 22:00:00 +0200"
       }
     ],
@@ -55,13 +55,6 @@
         "title": "Antti Raanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Antti%20Raanta",
         "pubdate": "Sun, 17 Dec 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lauri Markkanen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lauri%20Markkanen",
-        "pubdate": "Sun, 17 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#La%20Liga",
         "pubdate": "Sat, 16 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andre August",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andre%20August",
+        "pubdate": "Sat, 16 Dec 2023 13:00:00 +0200"
       }
     ]
   ]
