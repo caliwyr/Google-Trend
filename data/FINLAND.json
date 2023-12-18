@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2023 , 14:56:13",
+  "lastUpdate": "18-12-2023 , 15:14:12",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
+        "pubdate": "Sun, 17 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Paddy Pimblett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paddy%20Pimblett",
         "pubdate": "Sun, 17 Dec 2023 11:00:00 +0200"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Sun, 17 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arsenal – Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Brighton",
         "pubdate": "Sun, 17 Dec 2023 18:00:00 +0200"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "The Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Heat",
+        "title": "The heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20heat",
         "pubdate": "Sun, 17 Dec 2023 00:00:00 +0200"
       }
     ],
