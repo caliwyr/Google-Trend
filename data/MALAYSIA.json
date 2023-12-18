@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2023 , 11:54:06",
+  "lastUpdate": "18-12-2023 , 12:19:02",
   "data": [
     [
       {
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "Covid cases today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Covid%20cases%20today",
+        "title": "M Daud Kilau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#M%20Daud%20Kilau",
+        "pubdate": "Mon, 18 Dec 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Covid cases Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Covid%20cases%20Today",
         "pubdate": "Mon, 18 Dec 2023 15:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Milan vs monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20monza",
         "pubdate": "Sun, 17 Dec 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#News",
-        "pubdate": "Sun, 17 Dec 2023 12:00:00 +0800"
       }
     ]
   ]

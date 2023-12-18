@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-12-2023 , 11:54:02",
+  "lastUpdate": "18-12-2023 , 12:18:57",
   "data": [
     [
       {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brad%20Pitt",
         "pubdate": "Mon, 18 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Keith Richards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Keith%20Richards",
+        "pubdate": "Mon, 18 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Champions League draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League%20draw",
+        "pubdate": "Sun, 17 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leon Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leon%20Edwards",
         "pubdate": "Sun, 17 Dec 2023 07:00:00 +0100"
@@ -52,20 +66,6 @@
     ],
     [
       {
-        "title": "Champions League draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League%20draw",
-        "pubdate": "Sun, 17 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paddy Pimblett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paddy%20Pimblett",
-        "pubdate": "Sun, 17 Dec 2023 05:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brentford  Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Aston%20Villa",
         "pubdate": "Sun, 17 Dec 2023 16:00:00 +0100"
@@ -76,6 +76,13 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
         "pubdate": "Sun, 17 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paddy Pimblett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paddy%20Pimblett",
+        "pubdate": "Sun, 17 Dec 2023 05:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
         "pubdate": "Sun, 17 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bournemouth Luton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bournemouth%20Luton",
-        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0100"
       }
     ]
   ]

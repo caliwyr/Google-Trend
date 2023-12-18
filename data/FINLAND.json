@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "18-12-2023 , 11:54:03",
+  "lastUpdate": "18-12-2023 , 12:18:58",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
         "pubdate": "Mon, 18 Dec 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jim Carrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jim%20Carrey",
+        "pubdate": "Mon, 18 Dec 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brad%20Pitt",
+        "pubdate": "Mon, 18 Dec 2023 13:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Paddy Pimblett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paddy%20Pimblett",
-        "pubdate": "Sun, 17 Dec 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Antti Raanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Antti%20Raanta",
         "pubdate": "Sun, 17 Dec 2023 08:00:00 +0200"
@@ -48,6 +55,13 @@
         "title": "Lauri Markkanen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lauri%20Markkanen",
         "pubdate": "Sun, 17 Dec 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paddy Pimblett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paddy%20Pimblett",
+        "pubdate": "Sun, 17 Dec 2023 11:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Andre August",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andre%20August",
         "pubdate": "Sat, 16 Dec 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City – Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Crystal%20Palace",
-        "pubdate": "Sat, 16 Dec 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "John Wayne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#John%20Wayne",
-        "pubdate": "Sat, 16 Dec 2023 00:00:00 +0200"
       }
     ]
   ]
