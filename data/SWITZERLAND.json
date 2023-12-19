@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2023 , 04:48:23",
+  "lastUpdate": "19-12-2023 , 04:57:43",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
-        "pubdate": "Mon, 18 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Jonathan Majors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jonathan%20Majors",
         "pubdate": "Mon, 18 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Baume-Schneider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baume-Schneider",
+        "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
       }
     ]
   ]
