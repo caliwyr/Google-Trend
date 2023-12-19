@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2023 , 10:49:12",
+  "lastUpdate": "19-12-2023 , 10:58:26",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Canadien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadien",
         "pubdate": "Tue, 19 Dec 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Florida Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Florida%20Panthers",
+        "pubdate": "Tue, 19 Dec 2023 01:00:00 -0500"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Baltimore Ravens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Baltimore%20Ravens",
-        "pubdate": "Mon, 18 Dec 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Schumacher",
         "pubdate": "Mon, 18 Dec 2023 17:00:00 -0500"
@@ -90,6 +90,20 @@
         "title": "James McCaffrey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20McCaffrey",
         "pubdate": "Mon, 18 Dec 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Baltimore Ravens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Baltimore%20Ravens",
+        "pubdate": "Mon, 18 Dec 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "IPL auction 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IPL%20auction%202024",
+        "pubdate": "Mon, 18 Dec 2023 16:00:00 -0500"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "IPL Auction 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#IPL%20Auction%202024",
-        "pubdate": "Mon, 18 Dec 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Red Sea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Red%20Sea",
         "pubdate": "Mon, 18 Dec 2023 18:00:00 -0500"
@@ -131,13 +138,6 @@
       {
         "title": "China Earthquake Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#China%20Earthquake%20Today",
-        "pubdate": "Mon, 18 Dec 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brad%20Pitt",
         "pubdate": "Mon, 18 Dec 2023 16:00:00 -0500"
       }
     ]

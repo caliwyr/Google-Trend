@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2023 , 10:49:19",
+  "lastUpdate": "19-12-2023 , 10:58:34",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "IPL Auction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20Auction",
+        "title": "IPL auction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20auction",
+        "pubdate": "Tue, 19 Dec 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Pope Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
         "pubdate": "Tue, 19 Dec 2023 13:00:00 +0800"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "Club World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Club%20World%20Cup",
         "pubdate": "Tue, 19 Dec 2023 05:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Pope Francis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
-        "pubdate": "Tue, 19 Dec 2023 13:00:00 +0800"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "IPL Auction Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IPL%20Auction%20Live",
+        "pubdate": "Tue, 19 Dec 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Iceland volcano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iceland%20volcano",
+        "pubdate": "Tue, 19 Dec 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Gatwick Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gatwick%20Airport",
         "pubdate": "Tue, 19 Dec 2023 10:00:00 +0800"
@@ -62,13 +76,6 @@
         "title": "Miss France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Miss%20France",
         "pubdate": "Tue, 19 Dec 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Iceland volcano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iceland%20volcano",
-        "pubdate": "Tue, 19 Dec 2023 16:00:00 +0800"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
+        "pubdate": "Mon, 18 Dec 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tom%20Cruise",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0800"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
-        "pubdate": "Mon, 18 Dec 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kai Havertz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kai%20Havertz",
-        "pubdate": "Mon, 18 Dec 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tom Lockyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tom%20Lockyer",
-        "pubdate": "Sun, 17 Dec 2023 01:00:00 +0800"
+        "title": "Hong kong actor Benz hui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20kong%20actor%20Benz%20hui",
+        "pubdate": "Mon, 18 Dec 2023 21:00:00 +0800"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-12-2023 , 10:49:16",
+  "lastUpdate": "19-12-2023 , 10:58:31",
   "data": [
     [
       {
         "title": "Jonathan Majors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jonathan%20Majors",
         "pubdate": "Tue, 19 Dec 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Europa%20League",
+        "pubdate": "Tue, 19 Dec 2023 00:00:00 +0800"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Club World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Club%20World%20Cup",
         "pubdate": "Tue, 19 Dec 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Europa League draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Europa%20League%20draw",
-        "pubdate": "Tue, 19 Dec 2023 05:00:00 +0800"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Sulaiman Abdullah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sulaiman%20Abdullah",
-        "pubdate": "Tue, 19 Dec 2023 12:00:00 +0800"
+        "title": "IPL auction 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#IPL%20auction%202024",
+        "pubdate": "Tue, 19 Dec 2023 16:00:00 +0800"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Covid-19",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Covid-19",
+        "pubdate": "Mon, 18 Dec 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Dawood Ibrahim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dawood%20Ibrahim",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aston%20Villa",
         "pubdate": "Mon, 18 Dec 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Carabao%20Cup",
-        "pubdate": "Mon, 18 Dec 2023 22:00:00 +0800"
       }
     ]
   ]
