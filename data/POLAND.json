@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2023 , 05:46:57",
+  "lastUpdate": "19-12-2023 , 05:56:10",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Taco Hemingway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taco%20Hemingway",
         "pubdate": "Tue, 19 Dec 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jarosław Kurski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kurski",
-        "pubdate": "Tue, 19 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Karolak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Karolak",
-        "pubdate": "Mon, 18 Dec 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "James McCaffrey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#James%20McCaffrey",
         "pubdate": "Mon, 18 Dec 2023 19:00:00 +0100"
@@ -90,6 +76,13 @@
         "title": "Sienkiewicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sienkiewicz",
         "pubdate": "Mon, 18 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karolak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Karolak",
+        "pubdate": "Mon, 18 Dec 2023 07:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Jerzy Mamcarz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerzy%20Mamcarz",
-        "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
+        "title": "Marcin Łoboda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20%C5%81oboda",
+        "pubdate": "Mon, 18 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mariusz Dąbek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mariusz%20D%C4%85bek",
+        "pubdate": "Mon, 18 Dec 2023 17:00:00 +0100"
       }
     ]
   ]
