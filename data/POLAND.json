@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 12:47:50",
+  "lastUpdate": "20-12-2023 , 12:57:12",
   "data": [
     [
       {
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Dlaczego nie ma TVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dlaczego%20nie%20ma%20TVP",
-        "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Newcastle",
+        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
         "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Polskie Radio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polskie%20Radio",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,20 @@
     ],
     [
       {
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jennifer%20Lopez",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "TVP Info",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Info",
+        "pubdate": "Tue, 19 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Urawa – Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Urawa%20%E2%80%93%20Man%20City",
         "pubdate": "Tue, 19 Dec 2023 17:00:00 +0100"
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "Chelsea – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea%20%E2%80%93%20Newcastle",
-        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
+        "title": "Akademia Pana Kleksa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Akademia%20Pana%20Kleksa",
+        "pubdate": "Tue, 19 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -83,6 +104,13 @@
         "title": "Agnieszka Kwiatkowska-Gurdak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Kwiatkowska-Gurdak",
         "pubdate": "Tue, 19 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea%20%E2%80%93%20Newcastle",
+        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Akademia Pana Kleksa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Akademia%20Pana%20Kleksa",
-        "pubdate": "Tue, 19 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marek Czyż",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marek%20Czy%C5%BC",
         "pubdate": "Tue, 19 Dec 2023 17:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Erupcja wulkanu na Islandii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Erupcja%20wulkanu%20na%20Islandii",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marcin Gortat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Gortat",
         "pubdate": "Tue, 19 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Girona%20FC",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michael%20Schumacher",
-        "pubdate": "Tue, 19 Dec 2023 17:00:00 +0100"
       }
     ]
   ]

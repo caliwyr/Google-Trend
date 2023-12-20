@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 12:47:52",
+  "lastUpdate": "20-12-2023 , 12:57:14",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Tour de Ski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tour%20de%20Ski",
+        "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Miro Tenho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miro%20Tenho",
         "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Camilla Läckberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Camilla%20L%C3%A4ckberg",
+        "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Grindavik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grindavik",
         "pubdate": "Tue, 19 Dec 2023 04:00:00 +0100"
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Camilla Läckberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Camilla%20L%C3%A4ckberg",
+        "title": "SHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
         "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
       }
     ],
@@ -55,13 +69,6 @@
         "title": "Johan Rabaeus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Rabaeus",
         "pubdate": "Tue, 19 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
-        "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Viaplay chockhöjer priset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viaplay%20chockh%C3%B6jer%20priset",
         "pubdate": "Mon, 18 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonathan%20Majors",
-        "pubdate": "Mon, 18 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
