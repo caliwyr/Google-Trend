@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-12-2023 , 15:46:54",
+  "lastUpdate": "20-12-2023 , 15:56:09",
   "data": [
     [
       {
         "title": "Storm Pia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Storm%20Pia",
         "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mary Earps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mary%20Earps",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -17,8 +24,15 @@
     ],
     [
       {
-        "title": "Mary Earps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mary%20Earps",
+        "title": "Pia Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pia%20Storm",
+        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Percy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Percy%20Jackson",
         "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Europa League draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League%20draw",
         "pubdate": "Mon, 18 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brad%20Pitt",
-        "pubdate": "Mon, 18 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "James McCaffrey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#James%20McCaffrey",
-        "pubdate": "Mon, 18 Dec 2023 20:00:00 +0100"
       }
     ]
   ]

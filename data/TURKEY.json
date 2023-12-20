@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 15:47:03",
+  "lastUpdate": "20-12-2023 , 15:56:17",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City",
+        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "TRT Spor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Spor",
         "pubdate": "Wed, 20 Dec 2023 00:00:00 +0300"
@@ -41,6 +48,20 @@
         "title": "Erzurumspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurumspor",
         "pubdate": "Wed, 20 Dec 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray  Karagümrük",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20%20Karag%C3%BCmr%C3%BCk",
+        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KPSS 2023/2 tercih kılavuzu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS%202023/2%20tercih%20k%C4%B1lavuzu",
+        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0300"
       }
     ],
     [
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "Galatasaray - Karagümrük",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20-%20Karag%C3%BCmr%C3%BCk",
-        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Everton",
         "pubdate": "Wed, 20 Dec 2023 00:00:00 +0300"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Göztepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%B6ztepe",
-        "pubdate": "Wed, 20 Dec 2023 02:00:00 +0300"
+        "title": "En uzun gece",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#En%20uzun%20gece",
+        "pubdate": "Wed, 20 Dec 2023 18:00:00 +0300"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Eskişehirspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eski%C5%9Fehirspor",
         "pubdate": "Wed, 20 Dec 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "20 aralık",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#20%20aral%C4%B1k",
+        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0300"
       }
     ],
     [
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "Ekrem İmamoğlu, Meral Akşener",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekrem%20%C4%B0mamo%C4%9Flu,%20Meral%20Ak%C5%9Fener",
+        "title": "Ekrem İmamoğlu Meral Akşener",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekrem%20%C4%B0mamo%C4%9Flu%20Meral%20Ak%C5%9Fener",
         "pubdate": "Wed, 20 Dec 2023 00:00:00 +0300"
       }
     ],
@@ -117,27 +138,6 @@
       {
         "title": "Süper Lig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCper%20Lig",
-        "pubdate": "Tue, 19 Dec 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kayserispor - Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor%20-%20Fenerbah%C3%A7e",
-        "pubdate": "Tue, 19 Dec 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Başakşehir  Sivasspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ba%C5%9Fak%C5%9Fehir%20%20Sivasspor",
-        "pubdate": "Tue, 19 Dec 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Adana Demirspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20Demirspor",
         "pubdate": "Tue, 19 Dec 2023 20:00:00 +0300"
       }
     ]
