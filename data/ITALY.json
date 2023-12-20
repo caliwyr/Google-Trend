@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 02:44:38",
+  "lastUpdate": "20-12-2023 , 02:54:08",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Giuseppe Caso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giuseppe%20Caso",
+        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tancredi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tancredi",
         "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
@@ -38,15 +45,15 @@
     ],
     [
       {
-        "title": "Ja Morant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ja%20Morant",
+        "title": "Elmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elmas",
         "pubdate": "Wed, 20 Dec 2023 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Elmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elmas",
+        "title": "Ja Morant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ja%20Morant",
         "pubdate": "Wed, 20 Dec 2023 02:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Treviso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Treviso",
         "pubdate": "Tue, 19 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Terremoto Cina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20Cina",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
