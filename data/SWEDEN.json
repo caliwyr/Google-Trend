@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-12-2023 , 06:46:30",
+  "lastUpdate": "20-12-2023 , 06:55:47",
   "data": [
     [
       {
         "title": "HV71",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
         "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paolo Macchiarini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paolo%20Macchiarini",
+        "pubdate": "Wed, 20 Dec 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Ruby Franke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ruby%20Franke",
-        "pubdate": "Tue, 19 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
         "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Frölunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
-        "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
+        "title": "Ruby Franke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ruby%20Franke",
+        "pubdate": "Tue, 19 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James McCaffrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#James%20McCaffrey",
+        "pubdate": "Mon, 18 Dec 2023 21:00:00 +0100"
       }
     ]
   ]

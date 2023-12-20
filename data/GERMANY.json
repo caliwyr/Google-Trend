@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 06:46:24",
+  "lastUpdate": "20-12-2023 , 06:55:40",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "GDL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL",
+        "pubdate": "Tue, 19 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Werder bremen vs RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20bremen%20vs%20RB%20Leipzig",
         "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
@@ -62,6 +69,13 @@
         "title": "Rot-Weiss Essen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot-Weiss%20Essen",
         "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Terzic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Terzic",
+        "pubdate": "Tue, 19 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "3. Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Advent",
         "pubdate": "Fri, 15 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sternstunden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sternstunden",
-        "pubdate": "Fri, 15 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hapag-Lloyd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hapag-Lloyd",
-        "pubdate": "Fri, 15 Dec 2023 14:00:00 +0100"
       }
     ]
   ]
