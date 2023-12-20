@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 16:42:36",
+  "lastUpdate": "20-12-2023 , 16:52:05",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "César Bono",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#C%C3%A9sar%20Bono",
+        "pubdate": "Tue, 19 Dec 2023 21:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Borussia%20Dortmund",
         "pubdate": "Tue, 19 Dec 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Geometry Dash 2.2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Geometry%20Dash%202.2",
+        "pubdate": "Tue, 19 Dec 2023 21:00:00 -0600"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Copa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Copa%20Italia",
-        "pubdate": "Tue, 19 Dec 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Rivian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rivian",
         "pubdate": "Tue, 19 Dec 2023 14:00:00 -0600"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Geometry Dash 2.2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Geometry%20Dash%202.2",
-        "pubdate": "Tue, 19 Dec 2023 21:00:00 -0600"
+        "title": "Copa Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Copa%20Italia",
+        "pubdate": "Tue, 19 Dec 2023 15:00:00 -0600"
       }
     ],
     [
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Vacunas Covid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vacunas%20Covid",
+        "title": "Vacunas COVID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vacunas%20COVID",
         "pubdate": "Tue, 19 Dec 2023 21:00:00 -0600"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Percy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Percy%20Jackson",
+        "pubdate": "Tue, 19 Dec 2023 23:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
         "pubdate": "Tue, 19 Dec 2023 00:00:00 -0600"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Percy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Percy%20Jackson",
-        "pubdate": "Tue, 19 Dec 2023 23:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leipzig",
         "pubdate": "Tue, 19 Dec 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Gerardo Arteaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gerardo%20Arteaga",
-        "pubdate": "Tue, 19 Dec 2023 11:00:00 -0600"
       }
     ]
   ]
