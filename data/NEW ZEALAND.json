@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-12-2023 , 21:47:50",
+  "lastUpdate": "20-12-2023 , 21:57:07",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
+        "pubdate": "Thu, 21 Dec 2023 09:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "HIDDEN VALLEY",
@@ -12,13 +19,6 @@
       {
         "title": "Mary Earps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mary%20Earps",
-        "pubdate": "Thu, 21 Dec 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20West%20Ham",
         "pubdate": "Thu, 21 Dec 2023 09:00:00 +1300"
       }
     ],
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
-        "pubdate": "Wed, 20 Dec 2023 19:00:00 +1300"
+        "title": "ELE Group",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ELE%20Group",
+        "pubdate": "Wed, 20 Dec 2023 20:00:00 +1300"
       }
     ],
     [
       {
-        "title": "ELE group",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ELE%20group",
-        "pubdate": "Wed, 20 Dec 2023 20:00:00 +1300"
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
+        "pubdate": "Wed, 20 Dec 2023 19:00:00 +1300"
       }
     ],
     [
@@ -122,8 +122,15 @@
     ],
     [
       {
-        "title": "NZ Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Cricket",
+        "title": "Levi' Holley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Levi'%20Holley",
+        "pubdate": "Wed, 20 Dec 2023 16:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Nz cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nz%20cricket",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +1300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jeffrey Epstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jeffrey%20Epstein",
         "pubdate": "Wed, 20 Dec 2023 23:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Interest rates NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Interest%20rates%20NZ",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +1300"
       }
     ]
   ]
