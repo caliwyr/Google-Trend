@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-12-2023 , 22:47:12",
+  "lastUpdate": "20-12-2023 , 22:56:28",
   "data": [
+    [
+      {
+        "title": "Feyenoord  Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Utrecht",
+        "pubdate": "Wed, 20 Dec 2023 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Decembermoorden",
@@ -13,6 +20,13 @@
         "title": "Storm Pia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20Pia",
         "pubdate": "Wed, 20 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "HHC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#HHC",
-        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Femke Bol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Bol",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Astrid Lampe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Astrid%20Lampe",
-        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
+        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
+        "title": "Astrid Lampe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Astrid%20Lampe",
+        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "Linda van Dyck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20van%20Dyck",
-        "pubdate": "Tue, 19 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vulkaanuitbarsting IJsland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vulkaanuitbarsting%20IJsland",
         "pubdate": "Tue, 19 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Willem II  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20%20Groningen",
-        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Tue, 19 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deventer moordzaak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Deventer%20moordzaak",
+        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 17 Dec 2023 20:00:00 +0100"
       }
     ]
   ]

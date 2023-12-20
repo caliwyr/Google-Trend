@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-12-2023 , 22:47:11",
+  "lastUpdate": "20-12-2023 , 22:56:26",
   "data": [
-    [
-      {
-        "title": "Lavezzi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lavezzi",
-        "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Terremoto oggi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
         "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Habemus Papam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Habemus%20Papam",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Habemus Papam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Habemus%20Papam",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
+        "title": "Percy Jackson serie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Percy%20Jackson%20serie",
+        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Percy Jackson serie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Percy%20Jackson%20serie",
-        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
+        "title": "Beatrice Luzzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Beatrice%20Luzzi",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Manuela Arcuri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Arcuri",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0100"
+        "title": "Verona Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona%20Calcio",
+        "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Verona Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona%20Calcio",
-        "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
+        "title": "Manuela Arcuri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Arcuri",
+        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0100"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Bologna FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna%20FC",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trump",
         "pubdate": "Wed, 20 Dec 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Psg-Metz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Psg-Metz",
+        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Barrenechea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barrenechea",
-        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
+        "title": "Sabrina Salerno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sabrina%20Salerno",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Samira Sabzian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Samira%20Sabzian",
-        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0100"
+        "title": "Barrenechea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barrenechea",
+        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Guirassy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Guirassy",
-        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maestro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maestro",
+        "title": "Leonard Bernstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonard%20Bernstein",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rose Villain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rose%20Villain",
-        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0100"
       }
     ]
   ]
