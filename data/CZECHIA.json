@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 20:43:54",
+  "lastUpdate": "20-12-2023 , 20:53:13",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
+        "title": "Colorado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Colorado",
         "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pretty Woman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pretty%20Woman",
+        "pubdate": "Wed, 20 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Marek Eben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Eben",
+        "pubdate": "Wed, 20 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Petra Janů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Jan%C5%AF",
         "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Rybi polevka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rybi%20polevka",
-        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
+        "title": "Jaromír Jágr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarom%C3%ADr%20J%C3%A1gr",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pretty Woman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pretty%20Woman",
-        "pubdate": "Wed, 20 Dec 2023 20:00:00 +0100"
+        "title": "Chun-Li",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chun-Li",
+        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Chun-Li",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chun-Li",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Selena%20Gomez",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
         "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sydney%20Sweeney",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Angelina%20Jolie",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
