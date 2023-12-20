@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-12-2023 , 13:42:04",
+  "lastUpdate": "20-12-2023 , 13:51:26",
   "data": [
     [
       {
         "title": "ASSE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
         "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Parcoursup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parcoursup",
+        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Fanny Ardant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fanny%20Ardant",
-        "pubdate": "Wed, 20 Dec 2023 01:00:00 +0100"
+        "title": "Vitaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vitaa",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Vitaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vitaa",
-        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
+        "pubdate": "Wed, 20 Dec 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
-        "pubdate": "Wed, 20 Dec 2023 10:00:00 +0100"
+        "title": "PSG Metz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20Metz",
+        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Accident A1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Accident%20A1",
-        "pubdate": "Tue, 19 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alexandre Letellier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alexandre%20Letellier",
         "pubdate": "Tue, 19 Dec 2023 11:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Jonathan Majors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jonathan%20Majors",
         "pubdate": "Tue, 19 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ruth Baza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ruth%20Baza",
+        "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Jeanne d'Arc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeanne%20d'Arc",
-        "pubdate": "Tue, 19 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Atletico%20Madrid",
         "pubdate": "Tue, 19 Dec 2023 23:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
-        "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
+        "title": "Jeanne d'Arc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeanne%20d'Arc",
+        "pubdate": "Tue, 19 Dec 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "RER A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RER%20A",
-        "pubdate": "Tue, 19 Dec 2023 09:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
+        "pubdate": "Tue, 19 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
