@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 14:46:56",
+  "lastUpdate": "21-12-2023 , 14:56:10",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
+        "pubdate": "Thu, 21 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
         "pubdate": "Thu, 21 Dec 2023 08:00:00 +0100"
@@ -33,6 +40,13 @@
       {
         "title": "December 21",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%2021",
+        "pubdate": "Thu, 21 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stohl András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stohl%20Andr%C3%A1s",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 +0100"
       }
     ],
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Stohl András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stohl%20Andr%C3%A1s",
-        "pubdate": "Thu, 21 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Liverpool–west Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93west%20Ham",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
@@ -69,6 +76,13 @@
         "title": "Barcelona–almería",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93almer%C3%ADa",
         "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karácsonyi üdvözlet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csonyi%20%C3%BCdv%C3%B6zlet",
+        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Inter–bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter%E2%80%93bologna",
-        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
+        "title": "Percy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Percy%20Jackson",
+        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Percy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Percy%20Jackson",
-        "pubdate": "Wed, 20 Dec 2023 12:00:00 +0100"
+        "title": "Inter–bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter%E2%80%93bologna",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kormányinfó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
         "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hodász András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hod%C3%A1sz%20Andr%C3%A1s",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ]
   ]

@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "21-12-2023 , 14:47:01",
+  "lastUpdate": "21-12-2023 , 14:56:16",
   "data": [
     [
       {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "pubdate": "Thu, 21 Dec 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
         "pubdate": "Thu, 21 Dec 2023 01:00:00 +0200"
       }
     ],
@@ -20,6 +27,13 @@
         "title": "Maestro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Maestro",
         "pubdate": "Thu, 21 Dec 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace",
+        "pubdate": "Thu, 21 Dec 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
-        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eric Moyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eric%20Moyo",
         "pubdate": "Wed, 20 Dec 2023 16:00:00 +0200"
@@ -69,6 +76,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
         "pubdate": "Wed, 20 Dec 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wolfsburg vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wolfsburg%20vs%20Bayern",
+        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "EFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#EFL",
         "pubdate": "Wed, 20 Dec 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ruby Franke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ruby%20Franke",
-        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Middlesbrough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Middlesbrough",
-        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0200"
       }
     ]
   ]
