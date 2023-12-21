@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-12-2023 , 08:39:00",
+  "lastUpdate": "21-12-2023 , 08:48:29",
   "data": [
     [
       {
         "title": "Inter – Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20%E2%80%93%20Bologna",
         "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BBC",
+        "pubdate": "Thu, 21 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "Michał Dworczyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20Dworczyk",
+        "pubdate": "Thu, 21 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter Mediolan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20Mediolan",
+        "pubdate": "Thu, 21 Dec 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dorzeczy.pl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dorzeczy.pl",
         "pubdate": "Thu, 21 Dec 2023 07:00:00 +0100"
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Wojewoda pomorski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojewoda%20pomorski",
-        "pubdate": "Thu, 21 Dec 2023 08:00:00 +0100"
+        "title": "Industria Kielce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Industria%20Kielce",
+        "pubdate": "Thu, 21 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -54,7 +75,7 @@
       {
         "title": "Polsat news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polsat%20news",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0100"
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -80,9 +101,23 @@
     ],
     [
       {
+        "title": "PAP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PAP",
+        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "TVN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVN",
         "pubdate": "Wed, 20 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Przymusowa relokacja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przymusowa%20relokacja",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -94,13 +129,6 @@
     ],
     [
       {
-        "title": "Podwyżki dla nauczycieli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podwy%C5%BCki%20dla%20nauczycieli",
-        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Niezalezna.PL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niezalezna.PL",
         "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Monika Horna-Cieślak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monika%20Horna-Cie%C5%9Blak",
-        "pubdate": "Wed, 20 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Salatka jarzynowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Salatka%20jarzynowa",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "wPolityce.pl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#wPolityce.pl",
-        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gazeta polska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gazeta%20polska",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0100"
+        "title": "Podwyżki dla nauczycieli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podwy%C5%BCki%20dla%20nauczycieli",
+        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
       }
     ]
   ]
