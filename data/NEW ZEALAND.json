@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 11:41:36",
+  "lastUpdate": "21-12-2023 , 11:50:52",
   "data": [
     [
       {
@@ -26,13 +26,6 @@
       {
         "title": "Dunki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunki",
-        "pubdate": "Thu, 21 Dec 2023 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Uncanny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Uncanny",
         "pubdate": "Thu, 21 Dec 2023 19:00:00 +1300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Celine%20Dion",
         "pubdate": "Wed, 20 Dec 2023 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Rachin Ravindra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rachin%20Ravindra",
+        "pubdate": "Wed, 20 Dec 2023 17:00:00 +1300"
       }
     ]
   ]
