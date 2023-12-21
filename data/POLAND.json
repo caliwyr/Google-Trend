@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 05:47:18",
+  "lastUpdate": "21-12-2023 , 05:56:29",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Terminator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Terminator",
+        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juliusz Kaszyński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Juliusz%20Kaszy%C5%84ski",
         "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Podwyżki dla nauczycieli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podwy%C5%BCki%20dla%20nauczycieli",
-        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vera Jourova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vera%20Jourova",
         "pubdate": "Wed, 20 Dec 2023 18:00:00 +0100"
@@ -115,15 +115,8 @@
     ],
     [
       {
-        "title": "Polska - Ukraina futsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Ukraina%20futsal",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Percy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Percy%20Jackson",
+        "title": "Michał Woźnicki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Micha%C5%82%20Wo%C5%BAnicki",
         "pubdate": "Wed, 20 Dec 2023 16:00:00 +0100"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "FIFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FIFA",
+        "title": "Percy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Percy%20Jackson",
+        "pubdate": "Wed, 20 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fifa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fifa",
         "pubdate": "Wed, 20 Dec 2023 02:00:00 +0100"
       }
     ]
