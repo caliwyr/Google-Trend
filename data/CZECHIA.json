@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-12-2023 , 13:48:49",
+  "lastUpdate": "21-12-2023 , 13:58:04",
   "data": [
-    [
-      {
-        "title": "Extraliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
-        "pubdate": "Thu, 21 Dec 2023 06:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Ondřej Kania",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Extraliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+        "pubdate": "Thu, 21 Dec 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kaviar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kaviar",
         "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aquaman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aquaman",
+        "pubdate": "Thu, 21 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Colorado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Colorado",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jagr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jagr",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
+        "title": "Ivan Trojan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Trojan",
         "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
       }
     ],
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Rybi polevka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rybi%20polevka",
-        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Selena%20Gomez",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Terra creta Extra panenský olivový olej",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terra%20creta%20Extra%20panensk%C3%BD%20olivov%C3%BD%20olej",
         "pubdate": "Wed, 20 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chun-Li",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chun-Li",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
       }
     ]
   ]
