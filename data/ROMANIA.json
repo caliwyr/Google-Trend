@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 02:45:08",
+  "lastUpdate": "21-12-2023 , 02:54:39",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Barcelona  Almería",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Almer%C3%ADa",
         "pubdate": "Wed, 20 Dec 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yakki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Yakki",
+        "pubdate": "Wed, 20 Dec 2023 13:00:00 +0200"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Iohannis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis",
         "pubdate": "Wed, 20 Dec 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steaua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
+        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tom%20Cruise",
         "pubdate": "Tue, 19 Dec 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Celine%20Dion",
-        "pubdate": "Tue, 19 Dec 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jonathan%20Majors",
-        "pubdate": "Tue, 19 Dec 2023 02:00:00 +0200"
       }
     ]
   ]

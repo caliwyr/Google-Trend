@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 02:45:07",
+  "lastUpdate": "21-12-2023 , 02:54:39",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cirque du Soleil, Ovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cirque%20du%20Soleil,%20Ovo",
         "pubdate": "Thu, 21 Dec 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen  Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leverkusen%20%20Bochum",
+        "pubdate": "Thu, 21 Dec 2023 02:00:00 +0000"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Benfica AVS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20AVS",
-        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "David Carmo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carmo",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0000"
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Benfica AVS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20AVS",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Neemias Queta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neemias%20Queta",
         "pubdate": "Wed, 20 Dec 2023 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sorteio Euromilhões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sorteio%20Euromilh%C3%B5es",
+        "pubdate": "Wed, 20 Dec 2023 06:00:00 +0000"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sydney%20Sweeney",
-        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Isabel dos Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Isabel%20dos%20Santos",
         "pubdate": "Wed, 20 Dec 2023 23:00:00 +0000"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Inter  Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20%20Bologna",
-        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "The Voice Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Voice%20Portugal",
-        "pubdate": "Wed, 20 Dec 2023 14:00:00 +0000"
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sydney%20Sweeney",
+        "pubdate": "Wed, 20 Dec 2023 15:00:00 +0000"
       }
     ]
   ]
