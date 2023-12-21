@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2023 , 04:48:39",
+  "lastUpdate": "21-12-2023 , 04:57:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Gunther Emmerlich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gunther%20Emmerlich",
         "pubdate": "Wed, 20 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Union Berlin gegen Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin%20gegen%20K%C3%B6ln",
+        "pubdate": "Wed, 20 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
-        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dynamo Dresden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
         "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "FC Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20K%C3%B6ln",
-        "pubdate": "Wed, 20 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
@@ -66,15 +59,15 @@
     ],
     [
       {
-        "title": "Davos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Davos",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "pubdate": "Wed, 20 Dec 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dominique Devenport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dominique%20Devenport",
+        "title": "Davos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Davos",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lukas Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
+        "pubdate": "Sun, 17 Dec 2023 12:00:00 +0100"
       }
     ]
   ]
