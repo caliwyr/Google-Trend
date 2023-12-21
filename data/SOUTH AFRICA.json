@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "21-12-2023 , 20:49:23",
+  "lastUpdate": "21-12-2023 , 20:58:33",
   "data": [
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
         "pubdate": "Thu, 21 Dec 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Thu, 21 Dec 2023 01:00:00 +0200"
       }
     ],
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Derby county",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Derby%20county",
-        "pubdate": "Thu, 21 Dec 2023 15:00:00 +0200"
+        "title": "Alavés vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Alav%C3%A9s%20vs%20Real%20Madrid",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SA vs India ODI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SA%20vs%20India%20ODI",
+        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Sa vs India ODI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sa%20vs%20India%20ODI",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0200"
+        "title": "AI death calculator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AI%20death%20calculator",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fantasy Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "PSG vs Metz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Metz",
-        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
         "pubdate": "Wed, 20 Dec 2023 23:00:00 +0200"
@@ -90,6 +97,13 @@
         "title": "Percy Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Percy%20Jackson",
         "pubdate": "Wed, 20 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Athletic Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Athletic%20Bilbao",
+        "pubdate": "Wed, 20 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fenerbahce",
         "pubdate": "Wed, 20 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#EFL",
-        "pubdate": "Wed, 20 Dec 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ruby Franke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ruby%20Franke",
-        "pubdate": "Wed, 20 Dec 2023 00:00:00 +0200"
       }
     ]
   ]
