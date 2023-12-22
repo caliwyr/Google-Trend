@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 18:47:52",
+  "lastUpdate": "22-12-2023 , 18:57:26",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Gerard Joling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Joling",
+        "pubdate": "Fri, 22 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hercules",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hercules",
         "pubdate": "Thu, 21 Dec 2023 14:00:00 +0100"
@@ -26,7 +33,7 @@
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
+        "pubdate": "Thu, 21 Dec 2023 07:00:00 +0100"
       }
     ],
     [
@@ -38,15 +45,15 @@
     ],
     [
       {
-        "title": "Maeslantkering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maeslantkering",
+        "title": "Love Actually",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Love%20Actually",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Love Actually",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Love%20Actually",
+        "title": "Maeslantkering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maeslantkering",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -62,13 +69,6 @@
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sydney%20Sweeney",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -90,20 +90,6 @@
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Super%20League",
         "pubdate": "Thu, 21 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Regillio Simons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Regillio%20Simons",
-        "pubdate": "Thu, 21 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Galgenwaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Galgenwaard",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schiphol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
+        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Bol",
+        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
