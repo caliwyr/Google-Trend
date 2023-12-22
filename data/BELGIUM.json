@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 00:30:47",
+  "lastUpdate": "22-12-2023 , 01:37:17",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Prague",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Prague",
         "pubdate": "Thu, 21 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "EasyPark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EasyPark",
-        "pubdate": "Thu, 21 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Hercules  Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hercules%20%20Ajax",
+        "title": "Hercules - Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hercules%20-%20Ajax",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Uncharted",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Uncharted",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Thu, 21 Dec 2023 23:00:00 +0100"
@@ -80,9 +66,9 @@
     ],
     [
       {
-        "title": "Inter – Bologne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Bologne",
-        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
+        "title": "Uncharted",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Uncharted",
+        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -90,6 +76,13 @@
         "title": "Tempête Pia Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Temp%C3%AAte%20Pia%20Belgique",
         "pubdate": "Thu, 21 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter – Bologne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Bologne",
+        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nadia El Yousfi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nadia%20El%20Yousfi",
         "pubdate": "Thu, 21 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Laeticia Hallyday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laeticia%20Hallyday",
+        "pubdate": "Thu, 21 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
