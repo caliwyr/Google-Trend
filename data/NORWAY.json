@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-12-2023 , 19:48:46",
+  "lastUpdate": "22-12-2023 , 19:58:00",
   "data": [
-    [
-      {
-        "title": "EasyPark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#EasyPark",
-        "pubdate": "Fri, 22 Dec 2023 13:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Rebel Moon",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Suki Waterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Suki%20Waterhouse",
         "pubdate": "Fri, 22 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "EasyPark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#EasyPark",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Fay Wildhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fay%20Wildhagen",
+        "pubdate": "Thu, 21 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Super%20League",
         "pubdate": "Thu, 21 Dec 2023 15:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Vegard Harm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vegard%20Harm",
         "pubdate": "Thu, 21 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luke Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luke%20Littler",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
