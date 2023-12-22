@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-12-2023 , 21:47:51",
+  "lastUpdate": "22-12-2023 , 21:57:03",
   "data": [
+    [
+      {
+        "title": "Love Actually",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Love%20Actually",
+        "pubdate": "Fri, 22 Dec 2023 22:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Asta Jonasson",
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "West Side Story",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Side%20Story",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aura",
+        "pubdate": "Fri, 22 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barcelona  Club America",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Club%20America",
         "pubdate": "Fri, 22 Dec 2023 06:00:00 +0100"
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "West Side Story",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Side%20Story",
-        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
+        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
-        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
+        "title": "Christopher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christopher",
+        "pubdate": "Fri, 22 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Glynn Simmons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glynn%20Simmons",
         "pubdate": "Thu, 21 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Espresso martini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Espresso%20martini",
-        "pubdate": "Thu, 21 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
-        "pubdate": "Thu, 21 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Flightradar24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Flightradar24",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 21:47:50",
+  "lastUpdate": "22-12-2023 , 21:57:02",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FC%20Barcelona",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Rebel Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rebel%20Moon",
         "pubdate": "Fri, 22 Dec 2023 13:00:00 -0300"
@@ -59,8 +66,22 @@
     ],
     [
       {
-        "title": "Barcelona vs america",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs%20america",
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Salernitana - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Salernitana%20-%20Milan",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
         "pubdate": "Thu, 21 Dec 2023 23:00:00 -0300"
       }
     ],
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona",
-        "pubdate": "Thu, 21 Dec 2023 16:00:00 -0300"
+        "title": "Betis  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20Girona",
+        "pubdate": "Thu, 21 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina",
-        "pubdate": "Thu, 21 Dec 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
-        "pubdate": "Thu, 21 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Solsticio de verano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Solsticio%20de%20verano",
-        "pubdate": "Thu, 21 Dec 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Jordan 23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jordan%2023",
         "pubdate": "Thu, 21 Dec 2023 14:00:00 -0300"
       }
     ]
