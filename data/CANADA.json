@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 15:44:17",
+  "lastUpdate": "22-12-2023 , 15:53:46",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Joshua Tree",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joshua%20Tree",
+        "pubdate": "Fri, 22 Dec 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "UFC 300",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC%20300",
         "pubdate": "Fri, 22 Dec 2023 02:00:00 -0500"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Rebel Moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rebel%20Moon",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Dunki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dunki",
         "pubdate": "Thu, 21 Dec 2023 01:00:00 -0500"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Rebel Moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rebel%20Moon",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Salaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Salaar",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Asta Jonasson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Asta%20Jonasson",
+        "pubdate": "Thu, 21 Dec 2023 19:00:00 -0500"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Thu, 21 Dec 2023 17:00:00 -0500"
+        "title": "Dick Van Dyke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dick%20Van%20Dyke",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Dick Van Dyke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dick%20Van%20Dyke",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Thu, 21 Dec 2023 17:00:00 -0500"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Vin Diesel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vin%20Diesel",
-        "pubdate": "Thu, 21 Dec 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rams",
         "pubdate": "Thu, 21 Dec 2023 23:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Canadiens – Wild",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Wild",
         "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Oilers vs Devils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20vs%20Devils",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 -0500"
       }
     ]
   ]
