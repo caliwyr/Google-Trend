@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 01:37:19",
+  "lastUpdate": "22-12-2023 , 02:14:48",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "King kong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#King%20kong",
+        "title": "King Kong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#King%20Kong",
         "pubdate": "Fri, 22 Dec 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pekka Haavisto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pekka%20Haavisto",
+        "pubdate": "Thu, 21 Dec 2023 23:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Haavisto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Haavisto",
-        "pubdate": "Thu, 21 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jaromir Jagr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jaromir%20Jagr",
         "pubdate": "Thu, 21 Dec 2023 11:00:00 +0200"
@@ -69,13 +69,6 @@
         "title": "Steam Winter Sale 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Steam%20Winter%20Sale%202023",
         "pubdate": "Thu, 21 Dec 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Väyrynen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#V%C3%A4yrynen",
-        "pubdate": "Thu, 21 Dec 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Percy Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Percy%20Jackson",
         "pubdate": "Wed, 20 Dec 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aquaman 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aquaman%202",
+        "pubdate": "Wed, 20 Dec 2023 20:00:00 +0200"
       }
     ]
   ]

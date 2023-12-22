@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-12-2023 , 01:37:20",
+  "lastUpdate": "22-12-2023 , 02:14:49",
   "data": [
     [
       {
         "title": "Prága lövöldözés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pr%C3%A1ga%20l%C3%B6v%C3%B6ld%C3%B6z%C3%A9s",
         "pubdate": "Thu, 21 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alavés–Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alav%C3%A9s%E2%80%93Real%20Madrid",
+        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Thu, 21 Dec 2023 23:00:00 +0100"
+        "title": "Pedagógus béremelés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pedag%C3%B3gus%20b%C3%A9remel%C3%A9s",
+        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pedagógus béremelés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pedag%C3%B3gus%20b%C3%A9remel%C3%A9s",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
+        "title": "Téli napforduló",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20napfordul%C3%B3",
+        "pubdate": "Thu, 21 Dec 2023 08:00:00 +0100"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Pintér Tibor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20Tibor",
         "pubdate": "Thu, 21 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kocsis Tibor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20Tibor",
-        "pubdate": "Thu, 21 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Karacsonyi idezetek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Karacsonyi%20idezetek",
-        "pubdate": "Thu, 21 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
         "pubdate": "Thu, 21 Dec 2023 15:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Lázár János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
+        "pubdate": "Thu, 21 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Halálos iramban 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20iramban%2010",
         "pubdate": "Thu, 21 Dec 2023 20:00:00 +0100"
       }
     ]
