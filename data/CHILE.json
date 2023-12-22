@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-12-2023 , 23:44:24",
+  "lastUpdate": "22-12-2023 , 23:53:49",
   "data": [
     [
       {
-        "title": "Manchester City  Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Fluminense",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
         "pubdate": "Fri, 22 Dec 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
+        "pubdate": "Fri, 22 Dec 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "FIFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FIFA",
         "pubdate": "Fri, 22 Dec 2023 16:00:00 -0300"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
-        "pubdate": "Fri, 22 Dec 2023 19:00:00 -0300"
+        "title": "Salernitana - Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Salernitana%20-%20Milan",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Johannes Kaiser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Johannes%20Kaiser",
-        "pubdate": "Fri, 22 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Rebel Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rebel%20Moon",
         "pubdate": "Fri, 22 Dec 2023 13:00:00 -0300"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FC%20Barcelona",
-        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
+        "title": "Johannes Kaiser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Johannes%20Kaiser",
+        "pubdate": "Fri, 22 Dec 2023 00:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan",
-        "pubdate": "Fri, 22 Dec 2023 19:00:00 -0300"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FC%20Barcelona",
+        "pubdate": "Fri, 22 Dec 2023 18:00:00 -0300"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
-        "pubdate": "Thu, 21 Dec 2023 23:00:00 -0300"
+        "title": "Luis suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20suarez",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Felipe Melo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Felipe%20Melo",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 -0300"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Nicolas Zepeda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicolas%20Zepeda",
-        "pubdate": "Thu, 21 Dec 2023 10:00:00 -0300"
+        "title": "Barcelona vs america",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs%20america",
+        "pubdate": "Thu, 21 Dec 2023 23:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Cerro San cristobal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cerro%20San%20cristobal",
         "pubdate": "Thu, 21 Dec 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Betis  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20Girona",
-        "pubdate": "Thu, 21 Dec 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Praga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Praga",
-        "pubdate": "Thu, 21 Dec 2023 15:00:00 -0300"
       }
     ]
   ]

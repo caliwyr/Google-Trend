@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 23:44:26",
+  "lastUpdate": "22-12-2023 , 23:53:52",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "El Gordo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Gordo",
-        "pubdate": "Fri, 22 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Steeger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steeger",
         "pubdate": "Fri, 22 Dec 2023 19:00:00 +0100"
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
-        "pubdate": "Fri, 22 Dec 2023 11:00:00 +0100"
+        "title": "El Gordo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Gordo",
+        "pubdate": "Fri, 22 Dec 2023 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Inka Schneider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inka%20Schneider",
-        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+        "title": "Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
+        "pubdate": "Fri, 22 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -59,22 +52,15 @@
     ],
     [
       {
-        "title": "Martin Schindler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Schindler",
-        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Florian Hempel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Hempel",
-        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martina Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martina%20Hill",
         "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
       }
     ],
@@ -90,6 +76,13 @@
         "title": "Sturm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
         "pubdate": "Thu, 21 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martin Schindler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Schindler",
+        "pubdate": "Thu, 21 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
         "pubdate": "Mon, 18 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lukas Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
+        "pubdate": "Sun, 17 Dec 2023 12:00:00 +0100"
       }
     ]
   ]
