@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 04:46:27",
+  "lastUpdate": "22-12-2023 , 04:55:42",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Girona",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
-        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "T.D. Jakes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#T.D.%20Jakes",
-        "pubdate": "Thu, 21 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter",
         "pubdate": "Thu, 21 Dec 2023 05:00:00 +0100"
@@ -97,6 +83,13 @@
         "title": "Bethlehem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bethlehem",
         "pubdate": "Thu, 21 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Besiktas",
+        "pubdate": "Thu, 21 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Barcelona vs Almería",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Almer%C3%ADa",
         "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid",
+        "pubdate": "Wed, 20 Dec 2023 23:00:00 +0100"
       }
     ]
   ]

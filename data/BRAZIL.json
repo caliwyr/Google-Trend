@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-12-2023 , 04:46:21",
+  "lastUpdate": "22-12-2023 , 04:55:37",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
         "pubdate": "Thu, 21 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
+        "pubdate": "Thu, 21 Dec 2023 13:00:00 -0500"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "QUEM ganhou A Fazenda 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#QUEM%20ganhou%20A%20Fazenda%202023",
+        "title": "Quem ganhou A Fazenda 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quem%20ganhou%20A%20Fazenda%202023",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 -0500"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Scarpa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Scarpa",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
-        "pubdate": "Thu, 21 Dec 2023 14:00:00 -0500"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besiktas",
-        "pubdate": "Thu, 21 Dec 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Renascer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renascer",
         "pubdate": "Thu, 21 Dec 2023 08:00:00 -0500"
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Envenenamento goiania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Envenenamento%20goiania",
-        "pubdate": "Thu, 21 Dec 2023 12:00:00 -0500"
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besiktas",
+        "pubdate": "Thu, 21 Dec 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jogo Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20Fluminense",
+        "pubdate": "Thu, 21 Dec 2023 21:00:00 -0500"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Envenenamento goiania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Envenenamento%20goiania",
+        "pubdate": "Thu, 21 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vin Diesel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vin%20Diesel",
         "pubdate": "Thu, 21 Dec 2023 20:00:00 -0500"
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "Nikolas Ferreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nikolas%20Ferreira",
-        "pubdate": "Thu, 21 Dec 2023 06:00:00 -0500"
+        "title": "EZZE Seguros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#EZZE%20Seguros",
+        "pubdate": "Thu, 21 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nota Legal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nota%20Legal",
+        "pubdate": "Thu, 21 Dec 2023 17:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Dia do Atleta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Atleta",
-        "pubdate": "Thu, 21 Dec 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Athletico paranaense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico%20paranaense",
-        "pubdate": "Thu, 21 Dec 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "WL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#WL",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 -0500"
+        "title": "Nikolas Ferreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nikolas%20Ferreira",
+        "pubdate": "Thu, 21 Dec 2023 06:00:00 -0500"
       }
     ]
   ]
