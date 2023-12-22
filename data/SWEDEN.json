@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 09:43:41",
+  "lastUpdate": "22-12-2023 , 09:52:51",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Carl Larsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Larsson",
         "pubdate": "Thu, 21 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Öresundsbron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96resundsbron",
-        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "E-Type",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E-Type",
-        "pubdate": "Thu, 21 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Super%20League",
         "pubdate": "Thu, 21 Dec 2023 20:00:00 +0100"
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Liverpool mot West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool%20mot%20West%20Ham",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Franziska Gritsch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Franziska%20Gritsch",
         "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ida Warg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ida%20Warg",
+        "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
