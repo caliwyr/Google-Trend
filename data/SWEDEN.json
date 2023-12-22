@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 16:50:04",
+  "lastUpdate": "22-12-2023 , 16:59:24",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Carl Larsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Larsson",
+        "title": "Prag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prag",
         "pubdate": "Thu, 21 Dec 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Prag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prag",
-        "pubdate": "Thu, 21 Dec 2023 18:00:00 +0100"
+        "title": "Öresundsbron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96resundsbron",
+        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Uppesittarkväll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppesittarkv%C3%A4ll",
+        "pubdate": "Thu, 21 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Harry Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harry%20Potter",
         "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Uppesittarkväll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppesittarkv%C3%A4ll",
-        "pubdate": "Thu, 21 Dec 2023 11:00:00 +0100"
+        "title": "Karin Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Karin%20Larsson",
+        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Percy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Percy%20Jackson",
-        "pubdate": "Wed, 20 Dec 2023 08:00:00 +0100"
+        "title": "Liverpool mot West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool%20mot%20West%20Ham",
+        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
