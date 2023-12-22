@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 12:50:38",
+  "lastUpdate": "22-12-2023 , 13:03:06",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "MND",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MND",
         "pubdate": "Fri, 22 Dec 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "UFC 300",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC%20300",
+        "pubdate": "Fri, 22 Dec 2023 17:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "How to make gravy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#How%20to%20make%20gravy",
         "pubdate": "Thu, 21 Dec 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Jamie Bernstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20Bernstein",
-        "pubdate": "Thu, 21 Dec 2023 16:00:00 +1100"
       }
     ]
   ]
