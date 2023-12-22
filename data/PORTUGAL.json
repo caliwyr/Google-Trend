@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2023 , 05:46:43",
+  "lastUpdate": "22-12-2023 , 05:56:01",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
+        "pubdate": "Thu, 21 Dec 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Azeite falsificado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Azeite%20falsificado",
         "pubdate": "Thu, 21 Dec 2023 22:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Mafalda Anjos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Anjos",
         "pubdate": "Thu, 21 Dec 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Godinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20Godinho",
-        "pubdate": "Thu, 21 Dec 2023 15:00:00 +0000"
       }
     ]
   ]
