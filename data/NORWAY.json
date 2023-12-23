@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2023 , 17:55:47",
+  "lastUpdate": "23-12-2023 , 18:14:41",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Kiwi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kiwi",
+        "pubdate": "Sat, 23 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pinnekjøtt per person",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pinnekj%C3%B8tt%20per%20person",
         "pubdate": "Sat, 23 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flåklypa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fl%C3%A5klypa",
+        "pubdate": "Sat, 23 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+        "title": "Kvelden før kvelden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kvelden%20f%C3%B8r%20kvelden",
+        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kvelden før kvelden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kvelden%20f%C3%B8r%20kvelden",
-        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Oddgeir Thune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oddgeir%20Thune",
-        "pubdate": "Fri, 22 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chiara Ferragni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chiara%20Ferragni",
         "pubdate": "Fri, 22 Dec 2023 11:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Gardermoen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gardermoen",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stormen Pia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stormen%20Pia",
-        "pubdate": "Thu, 21 Dec 2023 00:00:00 +0100"
       }
     ]
   ]
