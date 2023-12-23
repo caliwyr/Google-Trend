@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2023 , 16:49:44",
+  "lastUpdate": "23-12-2023 , 16:59:09",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Mystere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mystere",
+        "pubdate": "Sat, 23 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nicaragua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nicaragua",
         "pubdate": "Sat, 23 Dec 2023 11:00:00 +0100"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Mystere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mystere",
-        "pubdate": "Sat, 23 Dec 2023 16:00:00 +0100"
+        "title": "Jazz Correia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jazz%20Correia",
+        "pubdate": "Sat, 23 Dec 2023 15:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aston%20Villa",
         "pubdate": "Fri, 22 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saltburn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saltburn",
-        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
