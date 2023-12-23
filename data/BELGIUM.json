@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-12-2023 , 19:47:18",
+  "lastUpdate": "23-12-2023 , 19:56:43",
   "data": [
+    [
+      {
+        "title": "Liverpool – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Arsenal",
+        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "West Ham – Manchester United",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0100"
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Sat, 23 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Banksy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Banksy",
+        "pubdate": "Sat, 23 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Igor Thiago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Igor%20Thiago",
         "pubdate": "Sat, 23 Dec 2023 11:00:00 +0100"
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Antwerp – Westerlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%E2%80%93%20Westerlo",
-        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Charlie Chaplin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charlie%20Chaplin",
         "pubdate": "Sat, 23 Dec 2023 00:00:00 +0100"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "RWDM  Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20%20Club%20Brugge",
+        "title": "RWDM Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20Club%20Brugge",
         "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
+        "pubdate": "Fri, 22 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Peter Goossens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Peter%20Goossens",
         "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Fijne feestdagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fijne%20feestdagen",
         "pubdate": "Fri, 22 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
-        "pubdate": "Fri, 22 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Salernitana – AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salernitana%20%E2%80%93%20AC%20Milan",
-        "pubdate": "Fri, 22 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
