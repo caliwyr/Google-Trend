@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-12-2023 , 18:46:56",
+  "lastUpdate": "23-12-2023 , 18:56:06",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sat, 23 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
-        "pubdate": "Sat, 23 Dec 2023 09:00:00 +0100"
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boxing%20Day",
+        "pubdate": "Sat, 23 Dec 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Boxing Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Boxing%20Day",
-        "pubdate": "Sat, 23 Dec 2023 17:00:00 +0100"
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+        "pubdate": "Sat, 23 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Emma Broomé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Broom%C3%A9",
+        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rebel Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rebel%20Moon",
         "pubdate": "Fri, 22 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Drottning Silvia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Drottning%20Silvia",
+        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -66,16 +87,16 @@
     ],
     [
       {
-        "title": "Servilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Servilia",
-        "pubdate": "Fri, 22 Dec 2023 20:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
-        "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
+        "title": "God julhälsning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#God%20julh%C3%A4lsning",
+        "pubdate": "Fri, 22 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Thu, 21 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harry%20Potter",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Prag skjutning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prag%20skjutning",
-        "pubdate": "Thu, 21 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Karin Larsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Karin%20Larsson",
-        "pubdate": "Thu, 21 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
