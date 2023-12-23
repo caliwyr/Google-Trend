@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2023 , 23:49:28",
+  "lastUpdate": "23-12-2023 , 23:58:43",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Kaizer Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
         "pubdate": "Sat, 23 Dec 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Willem Kruger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Willem%20Kruger",
         "pubdate": "Sat, 23 Dec 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Queen Elizabeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Queen%20Elizabeth",
-        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0200"
       }
     ]
   ]
