@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2023 , 12:45:15",
+  "lastUpdate": "23-12-2023 , 12:57:26",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Bison Futé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bison%20Fut%C3%A9",
-        "pubdate": "Fri, 22 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sophie Galabru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sophie%20Galabru",
         "pubdate": "Fri, 22 Dec 2023 21:00:00 +0100"
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Ève Gilles (Miss France 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#%C3%88ve%20Gilles%20(Miss%20France%202024",
+        "title": "Ève Gilles Miss France 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#%C3%88ve%20Gilles%20Miss%20France%202024",
         "pubdate": "Fri, 22 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Bonnes fetes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bonnes%20fetes",
         "pubdate": "Fri, 22 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Galtier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galtier",
+        "pubdate": "Fri, 22 Dec 2023 08:00:00 +0100"
       }
     ]
   ]
