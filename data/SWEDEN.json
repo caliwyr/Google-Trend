@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-12-2023 , 15:55:15",
+  "lastUpdate": "24-12-2023 , 16:13:30",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
-        "title": "Kalle Anka julafton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalle%20Anka%20julafton",
-        "pubdate": "Sun, 24 Dec 2023 10:00:00 +0100"
+        "title": "Mantorp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mantorp",
+        "pubdate": "Sun, 24 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Angelica Bengtsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Angelica%20Bengtsson",
+        "pubdate": "Sun, 24 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bingolotto uppesittarkväll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bingolotto%20uppesittarkv%C3%A4ll",
+        "pubdate": "Sat, 23 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "Uppesittarkväll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppesittarkv%C3%A4ll",
         "pubdate": "Sat, 23 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "TV4 Play",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TV4%20Play",
-        "pubdate": "Sat, 23 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Laura Lynch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laura%20Lynch",
-        "pubdate": "Sat, 23 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sepsis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sepsis",
         "pubdate": "Sat, 23 Dec 2023 12:00:00 +0100"
@@ -89,6 +89,13 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sat, 23 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Batra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Batra",
         "pubdate": "Sat, 23 Dec 2023 16:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Hamburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hamburg",
         "pubdate": "Sat, 23 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
-        "pubdate": "Sat, 23 Dec 2023 09:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-12-2023 , 15:55:06",
+  "lastUpdate": "24-12-2023 , 16:13:22",
   "data": [
+    [
+      {
+        "title": "Temblor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+        "pubdate": "Sun, 24 Dec 2023 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Temblor hoy",
@@ -10,15 +17,8 @@
     ],
     [
       {
-        "title": "Sismos Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismos%20Chile",
-        "pubdate": "Sun, 24 Dec 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Temblor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+        "title": "Santa Tracker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santa%20Tracker",
         "pubdate": "Sun, 24 Dec 2023 01:00:00 -0300"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Feliz Navidad frases",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20Navidad%20frases",
+        "pubdate": "Sun, 24 Dec 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Liverpool - Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20-%20Arsenal",
         "pubdate": "Sat, 23 Dec 2023 14:00:00 -0300"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Inter  Lecce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Lecce",
-        "pubdate": "Sat, 23 Dec 2023 14:00:00 -0300"
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Sat, 23 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Llamada del Viejito Pascuero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Llamada%20del%20Viejito%20Pascuero",
         "pubdate": "Sat, 23 Dec 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ozempic",
-        "pubdate": "Sat, 23 Dec 2023 22:00:00 -0300"
       }
     ]
   ]
