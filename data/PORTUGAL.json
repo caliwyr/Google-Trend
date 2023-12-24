@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-12-2023 , 08:48:24",
+  "lastUpdate": "24-12-2023 , 08:57:48",
   "data": [
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
+        "pubdate": "Sun, 24 Dec 2023 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Celtics",
@@ -40,6 +47,13 @@
       {
         "title": "Rabanadas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rabanadas",
+        "pubdate": "Sat, 23 Dec 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Tronco de natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tronco%20de%20natal",
         "pubdate": "Sat, 23 Dec 2023 17:00:00 +0000"
       }
     ],
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Porto hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20hoje",
+        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Maritimo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
         "pubdate": "Sat, 23 Dec 2023 14:00:00 +0000"
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "Vizela  Moreirense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20%20Moreirense",
+        "title": "Vizela-Moreirense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela-Moreirense",
         "pubdate": "Sat, 23 Dec 2023 17:00:00 +0000"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Atlético Madrid  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Sevilla",
         "pubdate": "Sat, 23 Dec 2023 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
-        "pubdate": "Sat, 23 Dec 2023 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nuno Melo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Melo",
-        "pubdate": "Sat, 23 Dec 2023 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Alba Baptista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alba%20Baptista",
-        "pubdate": "Sat, 23 Dec 2023 22:00:00 +0000"
       }
     ]
   ]
