@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-12-2023 , 10:54:29",
+  "lastUpdate": "24-12-2023 , 11:08:03",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Christmas Eve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Christmas%20Eve",
         "pubdate": "Sun, 24 Dec 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Merry Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Merry%20Christmas",
+        "pubdate": "Sun, 24 Dec 2023 12:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Tottenham vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Everton",
-        "pubdate": "Sat, 23 Dec 2023 10:00:00 +0200"
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
-        "pubdate": "Sat, 23 Dec 2023 19:00:00 +0200"
+        "title": "Tottenham vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Everton",
+        "pubdate": "Sat, 23 Dec 2023 10:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Queen Elizabeth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Queen%20Elizabeth",
         "pubdate": "Sat, 23 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United f.c.",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United%20f.c.",
-        "pubdate": "Sat, 23 Dec 2023 17:00:00 +0200"
       }
     ]
   ]
