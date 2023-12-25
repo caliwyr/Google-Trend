@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-12-2023 , 12:51:37",
+  "lastUpdate": "25-12-2023 , 13:06:51",
   "data": [
     [
       {
         "title": "Hacksaw Ridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hacksaw%20Ridge",
         "pubdate": "Mon, 25 Dec 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lagu Natal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lagu%20Natal",
+        "pubdate": "Mon, 25 Dec 2023 09:00:00 +0700"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Hellboy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hellboy",
         "pubdate": "Mon, 25 Dec 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "CJ7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#CJ7",
-        "pubdate": "Mon, 25 Dec 2023 14:00:00 +0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Pinkan Mambo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pinkan%20Mambo",
-        "pubdate": "Sun, 24 Dec 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Home Alone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Home%20Alone",
         "pubdate": "Sun, 24 Dec 2023 16:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Porto",
         "pubdate": "Sun, 24 Dec 2023 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Desta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Desta",
+        "pubdate": "Sun, 24 Dec 2023 18:00:00 +0700"
       }
     ]
   ]
