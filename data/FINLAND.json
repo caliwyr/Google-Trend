@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-12-2023 , 09:44:40",
+  "lastUpdate": "25-12-2023 , 09:53:57",
   "data": [
-    [
-      {
-        "title": "Superman Returns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Superman%20Returns",
-        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Victoria Secret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Victoria%20Secret",
         "pubdate": "Mon, 25 Dec 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Superman Returns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Superman%20Returns",
+        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
+        "pubdate": "Sun, 24 Dec 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The last Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20last%20Christmas",
         "pubdate": "Sun, 24 Dec 2023 22:00:00 +0200"
@@ -97,13 +104,6 @@
         "title": "Krampus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Krampus",
         "pubdate": "Sun, 24 Dec 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
-        "pubdate": "Sun, 24 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Turku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Turku",
-        "pubdate": "Sun, 24 Dec 2023 22:00:00 +0200"
+        "title": "Deontay Wilder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Deontay%20Wilder",
+        "pubdate": "Sun, 24 Dec 2023 13:00:00 +0200"
       }
     ]
   ]
