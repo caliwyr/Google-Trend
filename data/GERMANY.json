@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2023 , 04:26:32",
+  "lastUpdate": "25-12-2023 , 04:36:44",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Kölner Dom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6lner%20Dom",
+        "pubdate": "Sat, 23 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Gottschalk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
         "pubdate": "Sat, 23 Dec 2023 22:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bayern Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Stuttgart",
         "pubdate": "Sat, 16 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matthew Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matthew%20Perry",
-        "pubdate": "Sat, 16 Dec 2023 01:00:00 +0100"
       }
     ]
   ]
