@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-12-2023 , 06:17:12",
+  "lastUpdate": "25-12-2023 , 06:31:43",
   "data": [
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
+        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Superman Returns",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Santa tracker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santa%20tracker",
+        "title": "Santa Tracker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santa%20Tracker",
         "pubdate": "Sun, 24 Dec 2023 09:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Irina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Irina",
         "pubdate": "Sun, 24 Dec 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snowman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snowman",
-        "pubdate": "Sun, 24 Dec 2023 12:00:00 +0200"
       }
     ]
   ]
