@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2023 , 02:32:05",
+  "lastUpdate": "25-12-2023 , 02:42:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Last Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Last%20Christmas",
         "pubdate": "Mon, 25 Dec 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Santa Tracker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Santa%20Tracker",
+        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0800"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Merry Christmas! wishes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Merry%20Christmas!%20wishes",
+        "title": "Merry Christmas wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Merry%20Christmas%20wishes",
         "pubdate": "Sun, 24 Dec 2023 10:00:00 +0800"
       }
     ],
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Santa Claus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Santa%20Claus",
-        "pubdate": "Sun, 24 Dec 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-        "pubdate": "Sun, 24 Dec 2023 11:00:00 +0800"
+        "title": "Christmas greetings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Christmas%20greetings",
+        "pubdate": "Sun, 24 Dec 2023 13:00:00 +0800"
       }
     ],
     [
@@ -87,9 +87,16 @@
     ],
     [
       {
-        "title": "Christmas greetings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Christmas%20greetings",
-        "pubdate": "Sun, 24 Dec 2023 13:00:00 +0800"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+        "pubdate": "Sun, 24 Dec 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Santa Claus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Santa%20Claus",
+        "pubdate": "Sun, 24 Dec 2023 23:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "West Ham vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#West%20Ham%20vs%20Man%20United",
         "pubdate": "Sat, 23 Dec 2023 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Fluminense",
-        "pubdate": "Sat, 23 Dec 2023 01:00:00 +0800"
       }
     ]
   ]
