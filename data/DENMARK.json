@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-12-2023 , 01:22:01",
+  "lastUpdate": "25-12-2023 , 02:05:26",
   "data": [
+    [
+      {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#McDonald's",
+        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Laura Lynch",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Deontay Wilder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Deontay%20Wilder",
-        "pubdate": "Sun, 24 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pinocchio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pinocchio",
         "pubdate": "Sun, 24 Dec 2023 17:00:00 +0100"
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Anthony Joshua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anthony%20Joshua",
-        "pubdate": "Sun, 24 Dec 2023 01:00:00 +0100"
+        "title": "Santa Tracker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Santa%20Tracker",
+        "pubdate": "Sun, 24 Dec 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Santa Tracker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Santa%20Tracker",
-        "pubdate": "Sun, 24 Dec 2023 15:00:00 +0100"
+        "title": "Anthony Joshua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anthony%20Joshua",
+        "pubdate": "Sun, 24 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Jacob Elordi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jacob%20Elordi",
         "pubdate": "Sun, 24 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deontay Wilder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Deontay%20Wilder",
+        "pubdate": "Sun, 24 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "West Ham  Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Ham%20%20Man%20utd",
         "pubdate": "Sat, 23 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
-        "pubdate": "Sat, 23 Dec 2023 15:00:00 +0100"
       }
     ]
   ]
