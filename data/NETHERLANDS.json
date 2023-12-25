@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2023 , 07:54:39",
+  "lastUpdate": "25-12-2023 , 08:14:10",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Rico Verhoeven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rico%20Verhoeven",
+        "pubdate": "Sun, 24 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "All You Need is Love",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#All%20You%20Need%20is%20Love",
         "pubdate": "Sat, 23 Dec 2023 22:00:00 +0100"
@@ -48,6 +55,13 @@
         "title": "ADO Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
         "pubdate": "Sat, 23 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emma Kok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Kok",
+        "pubdate": "Sat, 23 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Suriname",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suriname",
+        "title": "Desi Bouterse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Desi%20Bouterse",
         "pubdate": "Wed, 20 Dec 2023 09:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Schiphol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
         "pubdate": "Wed, 20 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Wed, 20 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ADO Den Haag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
-        "pubdate": "Wed, 20 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
