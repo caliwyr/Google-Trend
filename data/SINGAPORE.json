@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2023 , 14:56:22",
+  "lastUpdate": "25-12-2023 , 15:14:01",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "James Cleverly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#James%20Cleverly",
         "pubdate": "Mon, 25 Dec 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boxing%20Day",
+        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0800"
       }
     ],
     [
@@ -89,7 +96,7 @@
       {
         "title": "Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Christmas",
-        "pubdate": "Sun, 24 Dec 2023 21:00:00 +0800"
+        "pubdate": "Sun, 24 Dec 2023 05:00:00 +0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Merry Christmas! 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Merry%20Christmas!%202023",
+        "title": "Merry Christmas 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Merry%20Christmas%202023",
         "pubdate": "Sun, 24 Dec 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Home Alone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Home%20Alone",
-        "pubdate": "Sun, 24 Dec 2023 21:00:00 +0800"
       }
     ]
   ]
