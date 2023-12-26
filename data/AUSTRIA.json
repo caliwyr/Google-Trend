@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "26-12-2023 , 04:59:01",
+  "lastUpdate": "26-12-2023 , 05:17:49",
   "data": [
-    [
-      {
-        "title": "Silvester Essen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvester%20Essen",
-        "pubdate": "Tue, 26 Dec 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Nena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nena",
         "pubdate": "Mon, 25 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emma Kok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Emma%20Kok",
+        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nintendo Switch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Switch",
+        "pubdate": "Mon, 25 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Nintendo Switch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Switch",
-        "pubdate": "Mon, 25 Dec 2023 16:00:00 +0100"
+        "title": "Papst Franziskus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Papst%20Franziskus",
+        "pubdate": "Mon, 25 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Emma Kok Sängerin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Emma%20Kok%20S%C3%A4ngerin",
-        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mikl-Leitner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mikl-Leitner",
         "pubdate": "Mon, 25 Dec 2023 14:00:00 +0100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Urbi et Orbi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Urbi%20et%20Orbi",
-        "pubdate": "Mon, 25 Dec 2023 12:00:00 +0100"
+        "title": "Silvester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvester",
+        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Silvester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvester",
-        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Traumschiff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Traumschiff",
         "pubdate": "Mon, 25 Dec 2023 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Keanu%20Reeves",
         "pubdate": "Mon, 25 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Meta Quest 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meta%20Quest%203",
+        "pubdate": "Mon, 25 Dec 2023 16:00:00 +0100"
       }
     ]
   ]
