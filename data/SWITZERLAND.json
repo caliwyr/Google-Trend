@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2023 , 00:40:43",
+  "lastUpdate": "26-12-2023 , 01:38:43",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Pleine Lune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pleine%20Lune",
+        "pubdate": "Mon, 25 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Schwanden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwanden",
         "pubdate": "Mon, 25 Dec 2023 13:00:00 +0100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Mozart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mozart",
-        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0100"
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Titanic",
+        "pubdate": "Mon, 25 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Die Geissens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Die%20Geissens",
         "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mozart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mozart",
+        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Mike Nussbaum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Nussbaum",
-        "pubdate": "Mon, 25 Dec 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Le pere noel est une ordure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20pere%20noel%20est%20une%20ordure",
-        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Yvonne Catterfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yvonne%20Catterfeld",
         "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
       }
     ]

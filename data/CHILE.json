@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-12-2023 , 00:40:36",
+  "lastUpdate": "26-12-2023 , 01:38:35",
   "data": [
     [
       {
-        "title": "El Grinch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Grinch",
+        "title": "Grinch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Grinch",
         "pubdate": "Mon, 25 Dec 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Temperatura santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temperatura%20santiago",
+        "pubdate": "Mon, 25 Dec 2023 17:00:00 -0300"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Alfred Canales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alfred%20Canales",
+        "pubdate": "Mon, 25 Dec 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Hora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hora",
         "pubdate": "Mon, 25 Dec 2023 01:00:00 -0300"
@@ -66,15 +80,15 @@
     ],
     [
       {
-        "title": "Fuegos artificiales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fuegos%20artificiales",
-        "pubdate": "Mon, 25 Dec 2023 15:00:00 -0300"
+        "title": "Stuart Little",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stuart%20Little",
+        "pubdate": "Mon, 25 Dec 2023 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Stuart Little",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stuart%20Little",
+        "title": "Dyson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dyson",
         "pubdate": "Mon, 25 Dec 2023 18:00:00 -0300"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
-        "pubdate": "Sun, 24 Dec 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Navidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Navidad",
-        "pubdate": "Sun, 24 Dec 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sismos Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismos%20Chile",
+        "title": "Temblor hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
         "pubdate": "Sun, 24 Dec 2023 01:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Mensaje de Navidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mensaje%20de%20Navidad",
-        "pubdate": "Sun, 24 Dec 2023 14:00:00 -0300"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
+        "pubdate": "Sun, 24 Dec 2023 11:00:00 -0300"
       }
     ]
   ]
