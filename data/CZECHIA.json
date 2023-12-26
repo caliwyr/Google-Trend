@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2023 , 11:56:30",
+  "lastUpdate": "26-12-2023 , 12:25:20",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Vyprodej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vyprodej",
+        "pubdate": "Tue, 26 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Princezna ze mlejna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20ze%20mlejna",
         "pubdate": "Mon, 25 Dec 2023 10:00:00 +0100"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Tri orisky pro Popelku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tri%20orisky%20pro%20Popelku",
-        "pubdate": "Mon, 25 Dec 2023 11:00:00 +0100"
+        "title": "Tři zlaté dukáty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#T%C5%99i%20zlat%C3%A9%20duk%C3%A1ty",
+        "pubdate": "Mon, 25 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -47,7 +54,7 @@
       {
         "title": "Pyšná princezna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Py%C5%A1n%C3%A1%20princezna",
-        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+        "pubdate": "Mon, 25 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Pohádka Tři zlaté dukáty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poh%C3%A1dka%20T%C5%99i%20zlat%C3%A9%20duk%C3%A1ty",
-        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+        "title": "Martin Kraus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Kraus",
+        "pubdate": "Mon, 25 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Martin Kraus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Kraus",
-        "pubdate": "Mon, 25 Dec 2023 17:00:00 +0100"
+        "title": "Saltburn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Saltburn",
+        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -83,20 +90,6 @@
         "title": "Povanocni vyprodej",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Povanocni%20vyprodej",
         "pubdate": "Mon, 25 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cisaruv pekar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cisaruv%20pekar",
-        "pubdate": "Mon, 25 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saltburn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Saltburn",
-        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Jordan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jordan",
-        "pubdate": "Mon, 25 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jak dostat tatínka do polepšovny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20dostat%20tat%C3%ADnka%20do%20polep%C5%A1ovny",
         "pubdate": "Mon, 25 Dec 2023 19:00:00 +0100"
@@ -136,8 +122,22 @@
     ],
     [
       {
+        "title": "Tri oříšky pro Popelku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tri%20o%C5%99%C3%AD%C5%A1ky%20pro%20Popelku",
+        "pubdate": "Mon, 25 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Povodně",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Povodn%C4%9B",
+        "pubdate": "Mon, 25 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tomáš Drahoňovský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Draho%C5%88ovsk%C3%BD",
         "pubdate": "Mon, 25 Dec 2023 19:00:00 +0100"
       }
     ]

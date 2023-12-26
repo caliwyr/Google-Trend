@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2023 , 11:56:35",
+  "lastUpdate": "26-12-2023 , 12:25:26",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Gheorghe Hagi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe%20Hagi",
+        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grinch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Grinch",
         "pubdate": "Mon, 25 Dec 2023 13:00:00 +0200"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Sfantul stefan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20stefan",
+        "title": "Sfantul Stefan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Stefan",
         "pubdate": "Mon, 25 Dec 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nicolae Furdui Iancu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolae%20Furdui%20Iancu",
+        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "America Express, 24 decembrie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#America%20Express,%2024%20decembrie%202023",
-        "pubdate": "Mon, 25 Dec 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Serbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Serbia",
         "pubdate": "Mon, 25 Dec 2023 20:00:00 +0200"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Nicolae Furdui Iancu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolae%20Furdui%20Iancu",
-        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0200"
+        "title": "America Express, 24 decembrie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#America%20Express,%2024%20decembrie%202023",
+        "pubdate": "Mon, 25 Dec 2023 06:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Strasbourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Strasbourg",
-        "pubdate": "Mon, 25 Dec 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nadia comaneci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nadia%20comaneci",
-        "pubdate": "Mon, 25 Dec 2023 19:00:00 +0200"
+        "title": "Chimichurri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chimichurri",
+        "pubdate": "Mon, 25 Dec 2023 22:00:00 +0200"
       }
     ]
   ]
