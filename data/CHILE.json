@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-12-2023 , 23:53:29",
+  "lastUpdate": "26-12-2023 , 00:40:36",
   "data": [
     [
       {
-        "title": "Grinch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Grinch",
+        "title": "El Grinch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Grinch",
         "pubdate": "Mon, 25 Dec 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "PS5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PS5",
+        "pubdate": "Mon, 25 Dec 2023 20:00:00 -0300"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Nintendo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nintendo",
         "pubdate": "Mon, 25 Dec 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Matilda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Matilda",
-        "pubdate": "Mon, 25 Dec 2023 17:00:00 -0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Saludos de Navidad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Saludos%20de%20Navidad",
-        "pubdate": "Sun, 24 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
         "pubdate": "Sun, 24 Dec 2023 11:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Sismos Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismos%20Chile",
         "pubdate": "Sun, 24 Dec 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Mensaje de Navidad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mensaje%20de%20Navidad",
+        "pubdate": "Sun, 24 Dec 2023 14:00:00 -0300"
       }
     ]
   ]

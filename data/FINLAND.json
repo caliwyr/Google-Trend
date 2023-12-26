@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2023 , 23:53:30",
+  "lastUpdate": "26-12-2023 , 00:40:37",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
         "pubdate": "Mon, 25 Dec 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Superman Returns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Superman%20Returns",
-        "pubdate": "Mon, 25 Dec 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Leonard Bernstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leonard%20Bernstein",
-        "pubdate": "Mon, 25 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Donna Reed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Donna%20Reed",
         "pubdate": "Mon, 25 Dec 2023 20:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Feliz Navidad!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Feliz%20Navidad!",
         "pubdate": "Sun, 24 Dec 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lemmy Kilmister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lemmy%20Kilmister",
+        "pubdate": "Sun, 24 Dec 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Last Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Last%20Christmas",
+        "pubdate": "Sun, 24 Dec 2023 22:00:00 +0200"
       }
     ]
   ]
