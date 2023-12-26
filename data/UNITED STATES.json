@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-12-2023 , 19:57:26",
+  "lastUpdate": "26-12-2023 , 20:15:43",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
+        "pubdate": "Tue, 26 Dec 2023 11:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "LeBron James",
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Miami Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Dolphins",
-        "pubdate": "Mon, 25 Dec 2023 12:00:00 -0800"
+        "title": "Tommy DeVito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tommy%20DeVito",
+        "pubdate": "Mon, 25 Dec 2023 15:00:00 -0800"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "The Color Purple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Color%20Purple",
         "pubdate": "Mon, 25 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins",
+        "pubdate": "Mon, 25 Dec 2023 12:00:00 -0800"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
-        "pubdate": "Mon, 25 Dec 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Suns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
         "pubdate": "Mon, 25 Dec 2023 20:00:00 -0800"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Kc Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kc%20Chiefs",
-        "pubdate": "Mon, 25 Dec 2023 14:00:00 -0800"
+        "title": "Kwanzaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kwanzaa",
+        "pubdate": "Mon, 25 Dec 2023 18:00:00 -0800"
       }
     ],
     [
@@ -115,9 +122,16 @@
     ],
     [
       {
-        "title": "Kwanzaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kwanzaa",
-        "pubdate": "Mon, 25 Dec 2023 18:00:00 -0800"
+        "title": "Kc Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kc%20Chiefs",
+        "pubdate": "Mon, 25 Dec 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Mon, 25 Dec 2023 21:00:00 -0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariah%20Carey",
         "pubdate": "Mon, 25 Dec 2023 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Golden State Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20State%20Warriors",
-        "pubdate": "Mon, 25 Dec 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Luka Doncic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luka%20Doncic",
-        "pubdate": "Mon, 25 Dec 2023 21:00:00 -0800"
       }
     ]
   ]

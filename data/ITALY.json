@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "26-12-2023 , 19:57:32",
+  "lastUpdate": "26-12-2023 , 20:15:48",
   "data": [
     [
       {
         "title": "Serie B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
-        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
+        "pubdate": "Tue, 26 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -19,14 +19,21 @@
       {
         "title": "Classifica Serie B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Serie%20B",
+        "pubdate": "Tue, 26 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palermo-Cremonese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo-Cremonese",
         "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Risultati Serie B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Serie%20B",
-        "pubdate": "Tue, 26 Dec 2023 15:00:00 +0100"
+        "title": "Catanzaro calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro%20calcio",
+        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Oliver Twist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Oliver%20Twist",
-        "pubdate": "Tue, 26 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brescia-Parma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia-Parma",
         "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Palermo-Cremonese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo-Cremonese",
-        "pubdate": "Tue, 26 Dec 2023 18:00:00 +0100"
+        "title": "Belen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Belen",
+        "pubdate": "Tue, 26 Dec 2023 14:00:00 +0100"
       }
     ],
     [
@@ -66,43 +66,8 @@
     ],
     [
       {
-        "title": "Viktoria Modesta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Viktoria%20Modesta",
-        "pubdate": "Tue, 26 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Buchanan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Buchanan",
-        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cosenza Calcio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cosenza%20Calcio",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Auguri Santo Stefano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Auguri%20Santo%20Stefano",
-        "pubdate": "Tue, 26 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spezia Modena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Spezia%20Modena",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feralpisalò",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Feralpisal%C3%B2",
         "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
       }
     ],
@@ -115,6 +80,13 @@
     ],
     [
       {
+        "title": "Buchanan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Buchanan",
+        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ternana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ternana",
         "pubdate": "Tue, 26 Dec 2023 17:00:00 +0100"
@@ -122,9 +94,37 @@
     ],
     [
       {
-        "title": "Donnarumma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Donnarumma",
+        "title": "Viktoria Modesta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Viktoria%20Modesta",
         "pubdate": "Tue, 26 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Feralpisalò",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Feralpisal%C3%B2",
+        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sampdoria",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Auguri Santo Stefano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Auguri%20Santo%20Stefano",
+        "pubdate": "Tue, 26 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ascoli Calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ascoli%20Calcio",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "PALERMO Calcio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PALERMO%20Calcio",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
+        "title": "Donnarumma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Donnarumma",
+        "pubdate": "Tue, 26 Dec 2023 00:00:00 +0100"
       }
     ]
   ]
