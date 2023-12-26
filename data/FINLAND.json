@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-12-2023 , 22:55:16",
+  "lastUpdate": "26-12-2023 , 23:12:45",
   "data": [
+    [
+      {
+        "title": "Mariah Carey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariah%20Carey",
+        "pubdate": "Wed, 27 Dec 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
-        "pubdate": "Tue, 26 Dec 2023 20:00:00 +0200"
+        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Richard Franklin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Richard%20Franklin",
         "pubdate": "Tue, 26 Dec 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burnley – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Burnley%20%E2%80%93%20Liverpool",
+        "pubdate": "Tue, 26 Dec 2023 20:00:00 +0200"
       }
     ],
     [
@@ -59,9 +73,23 @@
     ],
     [
       {
-        "title": "Manu – Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manu%20%E2%80%93%20Aston%20Villa",
+        "title": "Gatsby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gatsby",
         "pubdate": "Tue, 26 Dec 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trivago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trivago",
+        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+        "pubdate": "Tue, 26 Dec 2023 23:00:00 +0200"
       }
     ],
     [
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Tue, 26 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Curacao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Curacao",
         "pubdate": "Tue, 26 Dec 2023 14:00:00 +0200"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "U20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
-        "pubdate": "Tue, 26 Dec 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IIHF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
         "pubdate": "Tue, 26 Dec 2023 20:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "ABBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ABBA",
-        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TUI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TUI",
-        "pubdate": "Mon, 25 Dec 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Airfryer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Airfryer",
-        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0200"
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
+        "pubdate": "Tue, 26 Dec 2023 18:00:00 +0200"
       }
     ]
   ]

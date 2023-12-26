@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "26-12-2023 , 22:55:20",
+  "lastUpdate": "26-12-2023 , 23:12:50",
   "data": [
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "title": "Man United mot Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20United%20mot%20Aston%20Villa",
+        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
         "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
-        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Hugh Grant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hugh%20Grant",
-        "pubdate": "Tue, 26 Dec 2023 01:00:00 +0100"
+        "title": "St. Barths",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Barths",
+        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "St. Barths",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Barths",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
+        "title": "Hugh Grant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hugh%20Grant",
+        "pubdate": "Tue, 26 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
-        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
+        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
+        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "The Seed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Seed",
         "pubdate": "Mon, 25 Dec 2023 15:00:00 +0100"
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "Magnus Carlsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
+        "title": "Kong Harald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
         "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Anyone but you",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anyone%20but%20you",
         "pubdate": "Mon, 25 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kino",
-        "pubdate": "Mon, 25 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gledelig jul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gledelig%20jul",
-        "pubdate": "Mon, 25 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
