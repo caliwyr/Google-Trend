@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "27-12-2023 , 12:50:10",
+  "lastUpdate": "27-12-2023 , 13:01:06",
   "data": [
     [
       {
         "title": "Parasite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Parasite",
+        "pubdate": "Wed, 27 Dec 2023 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Birmingham City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Birmingham%20City",
         "pubdate": "Wed, 27 Dec 2023 08:00:00 +0000"
       }
     ],
@@ -48,6 +55,13 @@
         "title": "Newcastle vs Nottm Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20vs%20Nottm%20Forest",
         "pubdate": "Tue, 26 Dec 2023 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Premier League table",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20table",
+        "pubdate": "Tue, 26 Dec 2023 18:00:00 +0000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ipswich Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ipswich%20Town",
         "pubdate": "Tue, 26 Dec 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "LEGO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#LEGO",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Death in Paradise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Death%20in%20Paradise",
-        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0000"
       }
     ]
   ]

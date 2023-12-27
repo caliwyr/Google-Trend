@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 12:50:04",
+  "lastUpdate": "27-12-2023 , 13:00:59",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Szomszédok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szomsz%C3%A9dok",
+        "pubdate": "Tue, 26 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kevin Spacey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kevin%20Spacey",
         "pubdate": "Tue, 26 Dec 2023 07:00:00 +0100"
@@ -122,15 +129,8 @@
     ],
     [
       {
-        "title": "Angol bajnokság",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Angol%20bajnoks%C3%A1g",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20Utd",
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20utd",
         "pubdate": "Tue, 26 Dec 2023 23:00:00 +0100"
       }
     ],
