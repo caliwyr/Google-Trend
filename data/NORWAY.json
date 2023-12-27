@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-12-2023 , 14:56:26",
+  "lastUpdate": "27-12-2023 , 15:13:18",
   "data": [
+    [
+      {
+        "title": "Elsa Lystad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elsa%20Lystad",
+        "pubdate": "Wed, 27 Dec 2023 14:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Caroline Werner",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Bill Granger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Granger",
-        "pubdate": "Wed, 27 Dec 2023 01:00:00 +0100"
+        "title": "Parasite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Parasite",
+        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Parasite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Parasite",
-        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
+        "title": "Bill Granger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Granger",
+        "pubdate": "Wed, 27 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
@@ -76,13 +90,6 @@
         "title": "Torstein Bae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Torstein%20Bae",
         "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
-        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "The Seed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Seed",
-        "pubdate": "Mon, 25 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
         "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kong Harald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
-        "pubdate": "Mon, 25 Dec 2023 21:00:00 +0100"
+        "title": "The Seed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Seed",
+        "pubdate": "Mon, 25 Dec 2023 15:00:00 +0100"
       }
     ]
   ]

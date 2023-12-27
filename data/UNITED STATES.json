@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "27-12-2023 , 14:56:18",
+  "lastUpdate": "27-12-2023 , 15:13:10",
   "data": [
     [
       {
         "title": "Chicago Bulls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bulls",
         "pubdate": "Wed, 27 Dec 2023 00:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Rockets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets",
-        "pubdate": "Wed, 27 Dec 2023 02:00:00 -0800"
       }
     ],
     [
@@ -59,8 +52,15 @@
     ],
     [
       {
-        "title": "College football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20football",
+        "title": "Sound of Freedom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sound%20of%20Freedom",
+        "pubdate": "Tue, 26 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "College Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20Football",
         "pubdate": "Tue, 26 Dec 2023 18:00:00 -0800"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Texas State football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20State%20football",
         "pubdate": "Tue, 26 Dec 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Wander Franco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wander%20Franco",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Orlando Magic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orlando%20Magic",
         "pubdate": "Tue, 26 Dec 2023 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Pacers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pacers",
-        "pubdate": "Tue, 26 Dec 2023 21:00:00 -0800"
       }
     ]
   ]
