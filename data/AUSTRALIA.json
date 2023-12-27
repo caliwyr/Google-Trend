@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 07:55:31",
+  "lastUpdate": "27-12-2023 , 08:15:09",
   "data": [
     [
       {
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
-        "pubdate": "Wed, 27 Dec 2023 10:00:00 +1100"
+        "title": "New Zealand vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20Bangladesh",
+        "pubdate": "Wed, 27 Dec 2023 18:00:00 +1100"
       }
     ],
     [
@@ -66,8 +66,15 @@
     ],
     [
       {
-        "title": "Zombie deer disease",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zombie%20deer%20disease",
+        "title": "Kanye West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kanye%20West",
+        "pubdate": "Wed, 27 Dec 2023 18:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Detroit Pistons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Detroit%20Pistons",
         "pubdate": "Wed, 27 Dec 2023 16:00:00 +1100"
       }
     ],
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Detroit Pistons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Detroit%20Pistons",
-        "pubdate": "Wed, 27 Dec 2023 16:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Oz Lotto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oz%20Lotto",
         "pubdate": "Tue, 26 Dec 2023 22:00:00 +1100"
@@ -111,13 +111,6 @@
         "title": "Boxing Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing%20Day",
         "pubdate": "Tue, 26 Dec 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket",
-        "pubdate": "Tue, 26 Dec 2023 12:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nike",
         "pubdate": "Tue, 26 Dec 2023 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sephora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sephora",
+        "pubdate": "Tue, 26 Dec 2023 10:00:00 +1100"
       }
     ]
   ]
