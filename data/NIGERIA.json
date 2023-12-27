@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 10:56:04",
+  "lastUpdate": "27-12-2023 , 11:11:12",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Everton vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs%20Man%20City",
+        "pubdate": "Wed, 27 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man United vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Aston%20Villa",
         "pubdate": "Tue, 26 Dec 2023 17:00:00 +0100"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manchester%20United",
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20utd",
         "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leeds%20United",
         "pubdate": "Tue, 26 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alexei Navalny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Alexei%20Navalny",
-        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
       }
     ]
   ]
