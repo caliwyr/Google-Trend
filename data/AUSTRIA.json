@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 16:51:57",
+  "lastUpdate": "27-12-2023 , 17:03:19",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Dinosaurier-Ei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dinosaurier-Ei",
+        "pubdate": "Wed, 27 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oliver Pocher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oliver%20Pocher",
         "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Dinosaurier-Ei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dinosaurier-Ei",
-        "pubdate": "Wed, 27 Dec 2023 16:00:00 +0100"
+        "title": "Panathinaikos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Panathinaikos",
+        "pubdate": "Wed, 27 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ORF-Beitrag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF-Beitrag",
+        "pubdate": "Wed, 27 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -80,8 +94,8 @@
     ],
     [
       {
-        "title": "Kac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kac",
+        "title": "KAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KAC",
         "pubdate": "Wed, 27 Dec 2023 14:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
         "pubdate": "Tue, 26 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maverick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maverick",
-        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aquaman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aquaman",
-        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
