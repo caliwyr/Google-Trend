@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-12-2023 , 20:56:15",
+  "lastUpdate": "27-12-2023 , 21:12:15",
   "data": [
     [
       {
         "title": "Élősködők",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89l%C5%91sk%C3%B6d%C5%91k",
         "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ráthonyi Zoltán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1thonyi%20Zolt%C3%A1n",
+        "pubdate": "Wed, 27 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Wolfgang Schäuble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wolfgang%20Sch%C3%A4uble",
         "pubdate": "Wed, 27 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ráthonyi Zoltán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1thonyi%20Zolt%C3%A1n",
-        "pubdate": "Wed, 27 Dec 2023 20:00:00 +0100"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Vitor Roque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vitor%20Roque",
+        "pubdate": "Wed, 27 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nagy Feró",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Fer%C3%B3",
         "pubdate": "Wed, 27 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forbes leggazdagabb magyarok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forbes%20leggazdagabb%20magyarok",
+        "pubdate": "Wed, 27 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "A38",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A38",
         "pubdate": "Wed, 27 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vitor Roque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vitor%20Roque",
-        "pubdate": "Wed, 27 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
         "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Duna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Duna",
-        "pubdate": "Tue, 26 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
