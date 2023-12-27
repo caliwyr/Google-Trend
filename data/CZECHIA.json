@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 01:42:54",
+  "lastUpdate": "27-12-2023 , 02:14:58",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "S certy nejsou zerty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20certy%20nejsou%20zerty",
+        "pubdate": "Tue, 26 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "LP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LP",
         "pubdate": "Tue, 26 Dec 2023 11:00:00 +0100"
@@ -34,13 +41,6 @@
         "title": "S tebou mě baví svět",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20tebou%20m%C4%9B%20bav%C3%AD%20sv%C4%9Bt",
         "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "S čerty nejsou žerty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20%C4%8Derty%20nejsou%20%C5%BEerty",
-        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -66,15 +66,22 @@
     ],
     [
       {
-        "title": "Hokej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej",
-        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
+        "title": "Jiří Strach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Strach",
+        "pubdate": "Tue, 26 Dec 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jiří Strach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Strach",
+        "title": "Nebojsa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nebojsa",
+        "pubdate": "Tue, 26 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spengler Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spengler%20Cup",
         "pubdate": "Tue, 26 Dec 2023 14:00:00 +0100"
       }
     ],
@@ -94,23 +101,16 @@
     ],
     [
       {
-        "title": "Nebojsa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nebojsa",
-        "pubdate": "Tue, 26 Dec 2023 17:00:00 +0100"
+        "title": "Patrik Augusta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20Augusta",
+        "pubdate": "Tue, 26 Dec 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Spengler Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spengler%20Cup",
-        "pubdate": "Tue, 26 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Josef Kemr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Kemr",
-        "pubdate": "Tue, 26 Dec 2023 23:00:00 +0100"
+        "title": "Hokej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej",
+        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "KORN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KORN",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
       }
     ]
   ]

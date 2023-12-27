@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 01:43:00",
+  "lastUpdate": "27-12-2023 , 02:15:04",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Wed, 27 Dec 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bill Granger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bill%20Granger",
+        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
         "pubdate": "Sun, 24 Dec 2023 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Christmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Christmas",
-        "pubdate": "Sun, 24 Dec 2023 21:00:00 +0800"
       }
     ]
   ]
