@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 03:48:43",
+  "lastUpdate": "27-12-2023 , 04:00:10",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20Utd",
         "pubdate": "Wed, 27 Dec 2023 07:00:00 +1100"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wrexham",
+        "pubdate": "Wed, 27 Dec 2023 14:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Paris Hilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris%20Hilton",
         "pubdate": "Wed, 27 Dec 2023 02:00:00 +1100"
@@ -55,6 +62,13 @@
         "title": "GEN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GEN",
         "pubdate": "Wed, 27 Dec 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Stars",
+        "pubdate": "Wed, 27 Dec 2023 10:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "H&M",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#H%26M",
         "pubdate": "Tue, 26 Dec 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "NBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBL",
-        "pubdate": "Tue, 26 Dec 2023 04:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Seed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Seed",
-        "pubdate": "Tue, 26 Dec 2023 16:00:00 +1100"
       }
     ]
   ]
