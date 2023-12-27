@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2023 , 18:48:28",
+  "lastUpdate": "27-12-2023 , 18:57:49",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bodensee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bodensee",
+        "pubdate": "Wed, 27 Dec 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Martin Schindler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Schindler",
         "pubdate": "Wed, 27 Dec 2023 15:00:00 +0100"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Helmut Kohl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helmut%20Kohl",
-        "pubdate": "Wed, 27 Dec 2023 11:00:00 +0100"
+        "title": "Lilienthal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lilienthal",
+        "pubdate": "Wed, 27 Dec 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lilienthal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lilienthal",
-        "pubdate": "Wed, 27 Dec 2023 17:00:00 +0100"
+        "title": "Helmut Kohl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helmut%20Kohl",
+        "pubdate": "Wed, 27 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Super%20League",
         "pubdate": "Thu, 21 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gunther Emmerlich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gunther%20Emmerlich",
-        "pubdate": "Wed, 20 Dec 2023 10:00:00 +0100"
       }
     ]
   ]
