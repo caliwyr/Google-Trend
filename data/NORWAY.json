@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 15:49:35",
+  "lastUpdate": "28-12-2023 , 15:58:46",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Parasite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Parasite",
-        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roman Shogdzhiev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roman%20Shogdzhiev",
         "pubdate": "Wed, 27 Dec 2023 13:00:00 +0100"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Judo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Judo",
-        "pubdate": "Wed, 27 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Julius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Julius",
         "pubdate": "Wed, 27 Dec 2023 00:00:00 +0100"
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Man United mot Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20United%20mot%20Aston%20Villa",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
+        "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Boxing%20Day",
+        "pubdate": "Tue, 26 Dec 2023 20:00:00 +0100"
       }
     ]
   ]
