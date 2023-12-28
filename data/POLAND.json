@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 05:47:16",
+  "lastUpdate": "28-12-2023 , 05:56:29",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20City",
-        "pubdate": "Wed, 27 Dec 2023 23:00:00 +0100"
+        "title": "Twarz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Twarz",
+        "pubdate": "Wed, 27 Dec 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Twarz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Twarz",
+        "title": "Tomasz Karolak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Karolak",
         "pubdate": "Wed, 27 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20City",
+        "pubdate": "Wed, 27 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -61,13 +68,6 @@
       {
         "title": "Escape from Tarkov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Escape%20from%20Tarkov",
-        "pubdate": "Wed, 27 Dec 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fundusz Kościelny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fundusz%20Ko%C5%9Bcielny",
         "pubdate": "Wed, 27 Dec 2023 16:00:00 +0100"
       }
     ],

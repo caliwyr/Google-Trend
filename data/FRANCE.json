@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 05:47:11",
+  "lastUpdate": "28-12-2023 , 05:56:25",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Jacques Brel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jacques%20Brel",
-        "pubdate": "Wed, 27 Dec 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Depardieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Depardieu",
         "pubdate": "Wed, 27 Dec 2023 02:00:00 +0100"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Gremlins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gremlins",
-        "pubdate": "Wed, 27 Dec 2023 15:00:00 +0100"
+        "title": "Jacques Brel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jacques%20Brel",
+        "pubdate": "Wed, 27 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michael%20Schumacher",
+        "pubdate": "Wed, 27 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haaland",
         "pubdate": "Wed, 27 Dec 2023 23:00:00 +0100"
@@ -111,13 +111,6 @@
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Shakira",
         "pubdate": "Wed, 27 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dream Scenario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dream%20Scenario",
-        "pubdate": "Wed, 27 Dec 2023 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Patrick Buisson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Buisson",
         "pubdate": "Tue, 26 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Premier%20League",
+        "pubdate": "Tue, 26 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
