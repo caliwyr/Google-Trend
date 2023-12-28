@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "28-12-2023 , 21:46:55",
+  "lastUpdate": "28-12-2023 , 21:56:10",
   "data": [
     [
       {
-        "title": "Firefly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Firefly",
+        "title": "Pomegranate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pomegranate",
+        "pubdate": "Fri, 29 Dec 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Firefly movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Firefly%20movie",
         "pubdate": "Thu, 28 Dec 2023 13:00:00 +0800"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Barry Keoghan Saltburn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Barry%20Keoghan%20Saltburn",
-        "pubdate": "Thu, 28 Dec 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lauren Boebert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lauren%20Boebert",
         "pubdate": "Thu, 28 Dec 2023 21:00:00 +0800"
       }
     ]
