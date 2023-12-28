@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 23:43:39",
+  "lastUpdate": "28-12-2023 , 23:53:04",
   "data": [
     [
       {
@@ -10,16 +10,23 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tottenham",
-        "pubdate": "Thu, 28 Dec 2023 17:00:00 +0000"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
+        "pubdate": "Thu, 28 Dec 2023 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
+        "title": "Estrela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela",
         "pubdate": "Thu, 28 Dec 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tottenham",
+        "pubdate": "Thu, 28 Dec 2023 17:00:00 +0000"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Pinto da Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pinto%20da%20Costa",
-        "pubdate": "Thu, 28 Dec 2023 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Estrela Amadora  Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela%20Amadora%20%20Arouca",
-        "pubdate": "Thu, 28 Dec 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Xiaomi SU7",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Xiaomi%20SU7",
         "pubdate": "Thu, 28 Dec 2023 16:00:00 +0000"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Estrela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela",
-        "pubdate": "Thu, 28 Dec 2023 20:00:00 +0000"
+        "title": "Arsenal FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20FC",
+        "pubdate": "Thu, 28 Dec 2023 21:00:00 +0000"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Alba Baptista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alba%20Baptista",
         "pubdate": "Thu, 28 Dec 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20FC",
-        "pubdate": "Thu, 28 Dec 2023 21:00:00 +0000"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jose Avillez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20Avillez",
         "pubdate": "Thu, 28 Dec 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Shakira",
+        "pubdate": "Thu, 28 Dec 2023 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Mensagens de Ano Novo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mensagens%20de%20Ano%20Novo",
+        "pubdate": "Thu, 28 Dec 2023 20:00:00 +0000"
       }
     ]
   ]
