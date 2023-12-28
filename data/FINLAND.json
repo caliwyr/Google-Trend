@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "28-12-2023 , 22:45:33",
+  "lastUpdate": "28-12-2023 , 22:54:48",
   "data": [
+    [
+      {
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sydney%20Sweeney",
+        "pubdate": "Fri, 29 Dec 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brighton – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brighton%20%E2%80%93%20Tottenham",
+        "pubdate": "Fri, 29 Dec 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
         "pubdate": "Thu, 28 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea – Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Crystal%20Palace",
-        "pubdate": "Thu, 28 Dec 2023 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Godzilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Godzilla",
-        "pubdate": "Thu, 28 Dec 2023 22:00:00 +0200"
+        "title": "Chelsea – Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Crystal%20Palace",
+        "pubdate": "Thu, 28 Dec 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kevlar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevlar",
-        "pubdate": "Thu, 28 Dec 2023 18:00:00 +0200"
+        "title": "Godzilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Godzilla",
+        "pubdate": "Thu, 28 Dec 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gravity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gravity",
         "pubdate": "Wed, 27 Dec 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bill Granger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bill%20Granger",
-        "pubdate": "Wed, 27 Dec 2023 20:00:00 +0200"
       }
     ]
   ]
