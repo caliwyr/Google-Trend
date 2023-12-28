@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 00:45:56",
+  "lastUpdate": "28-12-2023 , 01:40:12",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Gerard Depardieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerard%20Depardieu",
-        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jacques Delors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jacques%20Delors",
         "pubdate": "Wed, 27 Dec 2023 20:00:00 +0100"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Scott Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Scott%20Williams",
-        "pubdate": "Wed, 27 Dec 2023 16:00:00 +0100"
+        "title": "Gerard Depardieu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerard%20Depardieu",
+        "pubdate": "Wed, 27 Dec 2023 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hamburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hamburg",
         "pubdate": "Fri, 22 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hochwasser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser",
+        "pubdate": "Fri, 22 Dec 2023 19:00:00 +0100"
       }
     ]
   ]
