@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2023 , 04:58:30",
+  "lastUpdate": "28-12-2023 , 05:16:28",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Sverige Lettland JVM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Lettland%20JVM",
-        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mariah%20Carey",
         "pubdate": "Tue, 26 Dec 2023 19:00:00 +0100"
@@ -110,6 +103,13 @@
       {
         "title": "Sverige Lettland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Lettland",
+        "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "JVM Sverige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JVM%20Sverige",
         "pubdate": "Tue, 26 Dec 2023 21:00:00 +0100"
       }
     ],
