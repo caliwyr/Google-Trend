@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2023 , 14:52:35",
+  "lastUpdate": "29-12-2023 , 15:07:10",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Agnes Chow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Agnes%20Chow",
         "pubdate": "Fri, 29 Dec 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Plane crash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Plane%20crash",
+        "pubdate": "Fri, 29 Dec 2023 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
         "pubdate": "Wed, 27 Dec 2023 06:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
-        "pubdate": "Wed, 27 Dec 2023 05:00:00 +0800"
       }
     ]
   ]

@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "29-12-2023 , 14:52:30",
+  "lastUpdate": "29-12-2023 , 15:07:04",
   "data": [
+    [
+      {
+        "title": "Berlin Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Berlin%20Netflix",
+        "pubdate": "Fri, 29 Dec 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maine",
+        "pubdate": "Fri, 29 Dec 2023 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Francois Bracci",
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Huitres Arcachon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Huitres%20Arcachon",
+        "pubdate": "Thu, 28 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Habitat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Habitat",
         "pubdate": "Thu, 28 Dec 2023 17:00:00 +0100"
@@ -41,13 +62,6 @@
         "title": "Arsenal – West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arsenal%20%E2%80%93%20West%20Ham",
         "pubdate": "Thu, 28 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Huitres Arcachon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Huitres%20Arcachon",
-        "pubdate": "Thu, 28 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Lee Sun-kyun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lee%20Sun-kyun",
         "pubdate": "Wed, 27 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Yvan Attal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yvan%20Attal",
-        "pubdate": "Wed, 27 Dec 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cyril Lignac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Lignac",
-        "pubdate": "Wed, 27 Dec 2023 13:00:00 +0100"
       }
     ]
   ]
