@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2023 , 20:47:04",
+  "lastUpdate": "29-12-2023 , 20:56:31",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Fiorentina–torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina%E2%80%93torino",
+        "pubdate": "Fri, 29 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "A nagy pénzrablás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20nagy%20p%C3%A9nzrabl%C3%A1s",
         "pubdate": "Fri, 29 Dec 2023 18:00:00 +0100"
       }
     ],
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Gary Oldman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gary%20Oldman",
+        "pubdate": "Fri, 29 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
+        "pubdate": "Fri, 29 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arsenal–West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93West%20Ham",
         "pubdate": "Thu, 28 Dec 2023 21:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Pietreczko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pietreczko",
         "pubdate": "Thu, 28 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Balog Zoltán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balog%20Zolt%C3%A1n",
-        "pubdate": "Thu, 28 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kiskunfélegyháza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiskunf%C3%A9legyh%C3%A1za",
-        "pubdate": "Thu, 28 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
-        "pubdate": "Thu, 28 Dec 2023 03:00:00 +0100"
       }
     ]
   ]

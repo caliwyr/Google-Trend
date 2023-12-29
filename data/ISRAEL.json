@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-12-2023 , 20:47:05",
+  "lastUpdate": "29-12-2023 , 20:56:32",
   "data": [
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#New%20York%20Times",
+        "pubdate": "Fri, 29 Dec 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "הראל שרביט",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#New%20York%20Times",
+        "title": "עובדה מיה ואיתי רגב",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%95%D7%91%D7%93%D7%94%20%D7%9E%D7%99%D7%94%20%D7%95%D7%90%D7%99%D7%AA%D7%99%20%D7%A8%D7%92%D7%91",
         "pubdate": "Fri, 29 Dec 2023 00:00:00 +0200"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Arsenal",
-        "pubdate": "Fri, 29 Dec 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "בנט",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A0%D7%98",
         "pubdate": "Fri, 29 Dec 2023 18:00:00 +0200"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "אלי כהן",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%20%D7%9B%D7%94%D7%9F",
-        "pubdate": "Fri, 29 Dec 2023 18:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Arsenal",
+        "pubdate": "Fri, 29 Dec 2023 02:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "עובדה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%95%D7%91%D7%93%D7%94",
-        "pubdate": "Thu, 28 Dec 2023 11:00:00 +0200"
+        "title": "אלי כהן",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%20%D7%9B%D7%94%D7%9F",
+        "pubdate": "Fri, 29 Dec 2023 18:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "ג'ודי ויינשטיין",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92'%D7%95%D7%93%D7%99%20%D7%95%D7%99%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F",
+        "pubdate": "Thu, 28 Dec 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "דביר פימה",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%91%D7%99%D7%A8%20%D7%A4%D7%99%D7%9E%D7%94",
         "pubdate": "Thu, 28 Dec 2023 11:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "הביתה",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%91%D7%99%D7%AA%D7%94",
-        "pubdate": "Thu, 28 Dec 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "בני גנץ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A0%D7%99%20%D7%92%D7%A0%D7%A5",
         "pubdate": "Thu, 28 Dec 2023 12:00:00 +0200"
       }
     ]
