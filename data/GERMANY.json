@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2023 , 19:50:37",
+  "lastUpdate": "29-12-2023 , 19:59:55",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
+        "pubdate": "Fri, 29 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dschungelcamp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dschungelcamp",
         "pubdate": "Fri, 29 Dec 2023 15:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Niedersachsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niedersachsen",
-        "pubdate": "Fri, 29 Dec 2023 17:00:00 +0100"
+        "title": "Bibi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bibi",
+        "pubdate": "Fri, 29 Dec 2023 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Weihnachten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weihnachten",
         "pubdate": "Sat, 23 Dec 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Helene Fischer Show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Show",
-        "pubdate": "Sat, 23 Dec 2023 23:00:00 +0100"
       }
     ]
   ]
