@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "29-12-2023 , 17:48:27",
+  "lastUpdate": "29-12-2023 , 17:57:52",
   "data": [
-    [
-      {
-        "title": "OHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#OHL",
-        "pubdate": "Fri, 29 Dec 2023 01:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Saint-George",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saint-George",
         "pubdate": "Fri, 29 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gee",
+        "pubdate": "Fri, 29 Dec 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "OHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#OHL",
+        "pubdate": "Fri, 29 Dec 2023 01:00:00 -0500"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Gee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gee",
-        "pubdate": "Fri, 29 Dec 2023 11:00:00 -0500"
+        "title": "Maine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maine",
+        "pubdate": "Fri, 29 Dec 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
+        "pubdate": "Fri, 29 Dec 2023 12:00:00 -0500"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "The Act",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Act",
-        "pubdate": "Thu, 28 Dec 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Canadiens – Hurricanes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Hurricanes",
         "pubdate": "Thu, 28 Dec 2023 20:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Auston Matthews",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Auston%20Matthews",
         "pubdate": "Thu, 28 Dec 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Kris Letang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kris%20Letang",
-        "pubdate": "Thu, 28 Dec 2023 02:00:00 -0500"
       }
     ]
   ]
