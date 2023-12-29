@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2023 , 16:50:14",
+  "lastUpdate": "29-12-2023 , 16:59:45",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "SHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
-        "pubdate": "Thu, 28 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
         "pubdate": "Thu, 28 Dec 2023 22:00:00 +0100"
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Magnus Lind",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Lind",
-        "pubdate": "Thu, 28 Dec 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sara Lidman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Lidman",
         "pubdate": "Thu, 28 Dec 2023 21:00:00 +0100"
@@ -104,6 +90,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
         "pubdate": "Thu, 28 Dec 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Magnus Lind",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Lind",
+        "pubdate": "Thu, 28 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Elias Pettersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elias%20Pettersson",
         "pubdate": "Thu, 28 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gaston Glock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gaston%20Glock",
+        "pubdate": "Thu, 28 Dec 2023 14:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2023 , 16:50:09",
+  "lastUpdate": "29-12-2023 , 16:59:40",
   "data": [
     [
       {
@@ -33,13 +33,6 @@
       {
         "title": "Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Berlin",
-        "pubdate": "Fri, 29 Dec 2023 14:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Kalki 2898 AD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kalki%202898%20AD",
         "pubdate": "Fri, 29 Dec 2023 14:30:00 +0530"
       }
     ],
@@ -80,6 +73,20 @@
     ],
     [
       {
+        "title": "Kalki 2898",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kalki%202898",
+        "pubdate": "Fri, 29 Dec 2023 19:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Guntur Kaaram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Guntur%20Kaaram",
+        "pubdate": "Fri, 29 Dec 2023 20:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Vijayakanth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vijayakanth",
         "pubdate": "Thu, 28 Dec 2023 09:30:00 +0530"
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Nandre Burger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nandre%20Burger",
-        "pubdate": "Thu, 28 Dec 2023 22:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Temba Bavuma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Temba%20Bavuma",
-        "pubdate": "Thu, 28 Dec 2023 14:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Ratan Tata Birthday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ratan%20Tata%20Birthday",
         "pubdate": "Thu, 28 Dec 2023 10:30:00 +0530"
@@ -139,6 +132,13 @@
         "title": "Rahul Gandhi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rahul%20Gandhi",
         "pubdate": "Thu, 28 Dec 2023 00:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Qatar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Qatar",
+        "pubdate": "Thu, 28 Dec 2023 21:30:00 +0530"
       }
     ]
   ]
