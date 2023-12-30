@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2023 , 17:42:55",
+  "lastUpdate": "30-12-2023 , 17:52:20",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Tour de ski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tour%20de%20ski",
+        "title": "Tour de Ski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tour%20de%20Ski",
         "pubdate": "Sat, 30 Dec 2023 11:00:00 +0100"
       }
     ],
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Stjärnorna på slottet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stj%C3%A4rnorna%20p%C3%A5%20slottet",
+        "pubdate": "Sat, 30 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Sat, 30 Dec 2023 15:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Stjärnorna på slottet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stj%C3%A4rnorna%20p%C3%A5%20slottet",
-        "pubdate": "Sat, 30 Dec 2023 10:00:00 +0100"
+        "title": "Sagan om Ringen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sagan%20om%20Ringen",
+        "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Albin Ekdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Albin%20Ekdal",
+        "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dalhalla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dalhalla",
         "pubdate": "Fri, 29 Dec 2023 13:00:00 +0100"
@@ -76,13 +90,6 @@
         "title": "Sverige Kanada JVM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Kanada%20JVM",
         "pubdate": "Fri, 29 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benjamin Ingrosso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20Ingrosso",
-        "pubdate": "Fri, 29 Dec 2023 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Luleå Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lule%C3%A5%20Hockey",
         "pubdate": "Fri, 29 Dec 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pierce Brosnan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pierce%20Brosnan",
-        "pubdate": "Fri, 29 Dec 2023 13:00:00 +0100"
       }
     ]
   ]
