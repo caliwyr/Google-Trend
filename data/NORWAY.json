@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-12-2023 , 21:43:50",
+  "lastUpdate": "30-12-2023 , 21:53:11",
   "data": [
-    [
-      {
-        "title": "Nottingham Forest mot Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nottingham%20Forest%20mot%20Man%20United",
-        "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Man CITY mot Sheffield United",
@@ -24,9 +17,30 @@
     ],
     [
       {
+        "title": "Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nottingham%20Forest",
+        "pubdate": "Sat, 30 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Belgorod",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Belgorod",
+        "pubdate": "Sat, 30 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sanna%20Marin",
         "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paige VanZant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Paige%20VanZant",
+        "pubdate": "Sat, 30 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Nottingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nottingham",
-        "pubdate": "Sat, 30 Dec 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fide",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fide",
         "pubdate": "Sat, 30 Dec 2023 14:00:00 +0100"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Sigrid Bonde Tusvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigrid%20Bonde%20Tusvik",
-        "pubdate": "Sat, 30 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Katherine Mielniczuk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Katherine%20Mielniczuk",
         "pubdate": "Sat, 30 Dec 2023 19:00:00 +0100"
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "Chloe Bartoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chloe%20Bartoli",
-        "pubdate": "Sat, 30 Dec 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sverre Anker Ousdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverre%20Anker%20Ousdal",
-        "pubdate": "Sat, 30 Dec 2023 21:00:00 +0100"
+        "title": "Sigrid Bonde Tusvik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigrid%20Bonde%20Tusvik",
+        "pubdate": "Sat, 30 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cher",
+        "pubdate": "Fri, 29 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Michael%20Schumacher",
         "pubdate": "Fri, 29 Dec 2023 22:00:00 +0100"
       }
     ]
