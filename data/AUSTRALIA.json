@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2023 , 10:47:27",
+  "lastUpdate": "30-12-2023 , 10:56:41",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Desert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Desert",
         "pubdate": "Sat, 30 Dec 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
+        "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
         "pubdate": "Fri, 29 Dec 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Fraser-McGurk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fraser-McGurk",
-        "pubdate": "Fri, 29 Dec 2023 22:00:00 +1100"
       }
     ]
   ]
