@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2023 , 01:37:43",
+  "lastUpdate": "30-12-2023 , 02:13:52",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
         "pubdate": "Sat, 30 Dec 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Plane crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Plane%20crash",
-        "pubdate": "Sat, 30 Dec 2023 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
-        "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
       }
     ],
     [
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tennis",
+        "pubdate": "Sat, 30 Dec 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Orca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Orca",
         "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Dakota Baldwin-Wright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dakota%20Baldwin-Wright",
+        "pubdate": "Sat, 30 Dec 2023 02:00:00 +1100"
       }
     ],
     [
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Matthew McConaughey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matthew%20McConaughey",
+        "title": "Naomi Osaka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Naomi%20Osaka",
         "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Naomi Osaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Naomi%20Osaka",
+        "title": "Matthew McConaughey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matthew%20McConaughey",
         "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Maine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Maine",
         "pubdate": "Sat, 30 Dec 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Kings",
-        "pubdate": "Sat, 30 Dec 2023 09:00:00 +1100"
       }
     ],
     [
@@ -131,14 +124,21 @@
       {
         "title": "Lithgow crash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lithgow%20crash",
-        "pubdate": "Fri, 29 Dec 2023 19:00:00 +1100"
+        "pubdate": "Fri, 29 Dec 2023 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "The act",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20act",
-        "pubdate": "Fri, 29 Dec 2023 17:00:00 +1100"
+        "title": "Pistons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pistons",
+        "pubdate": "Fri, 29 Dec 2023 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Willis",
+        "pubdate": "Fri, 29 Dec 2023 09:00:00 +1100"
       }
     ]
   ]
