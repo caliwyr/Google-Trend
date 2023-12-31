@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 19:56:47",
+  "lastUpdate": "31-12-2023 , 20:14:15",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Happy New Year",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Happy%20New%20Year",
         "pubdate": "Sun, 31 Dec 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
+        "pubdate": "Sun, 31 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "Fulham  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fulham%20%20Arsenal",
         "pubdate": "Sun, 31 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
-        "pubdate": "Sun, 31 Dec 2023 18:00:00 +0100"
       }
     ],
     [
@@ -94,9 +94,37 @@
     ],
     [
       {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Richard Romanus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Richard%20Romanus",
         "pubdate": "Sun, 31 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd",
+        "pubdate": "Sun, 31 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sky News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20News",
+        "pubdate": "Sun, 31 Dec 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
+        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ryan%20Reynolds",
-        "pubdate": "Sun, 31 Dec 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
         "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tom Wilkinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Wilkinson",
-        "pubdate": "Sat, 30 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nottingham Forest  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nottingham%20Forest%20%20Man%20utd",
-        "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
       }
     ]
   ]
