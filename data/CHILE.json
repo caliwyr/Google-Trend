@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-12-2023 , 20:53:03",
+  "lastUpdate": "31-12-2023 , 21:06:58",
   "data": [
     [
       {
         "title": "Fin de Año",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fin%20de%20A%C3%B1o",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0300"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Fulham - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Arsenal",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0300"
+        "title": "Feliz Año Nuevo! 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20A%C3%B1o%20Nuevo!%202024",
+        "pubdate": "Sun, 31 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Feliz Año Nuevo! 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20A%C3%B1o%20Nuevo!%202024",
-        "pubdate": "Sun, 31 Dec 2023 14:00:00 -0300"
+        "title": "Año Nuevo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#A%C3%B1o%20Nuevo",
+        "pubdate": "Sun, 31 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Cabalas de Año Nuevo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cabalas%20de%20A%C3%B1o%20Nuevo",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Año Nuevo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#A%C3%B1o%20Nuevo",
-        "pubdate": "Sun, 31 Dec 2023 15:00:00 -0300"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
+        "pubdate": "Sat, 30 Dec 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Benzema",
         "pubdate": "Sat, 30 Dec 2023 21:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Al Nassr vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr%20vs",
         "pubdate": "Sat, 30 Dec 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan",
-        "pubdate": "Sat, 30 Dec 2023 17:00:00 -0300"
       }
     ]
   ]
