@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-12-2023 , 09:51:52",
+  "lastUpdate": "31-12-2023 , 10:05:28",
   "data": [
+    [
+      {
+        "title": "New Year's Eve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20Year's%20Eve",
+        "pubdate": "Sun, 31 Dec 2023 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Juventus vs Roma",
@@ -12,13 +19,6 @@
       {
         "title": "Tornado warning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tornado%20warning",
-        "pubdate": "Sun, 31 Dec 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mason Greenwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mason%20Greenwood",
         "pubdate": "Sun, 31 Dec 2023 00:00:00 +0000"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Charlie Simpson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Charlie%20Simpson",
-        "pubdate": "Sat, 30 Dec 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Joe Cullen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joe%20Cullen",
         "pubdate": "Sat, 30 Dec 2023 23:00:00 +0000"
@@ -122,16 +115,23 @@
     ],
     [
       {
-        "title": "Gil de Ferran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gil%20de%20Ferran",
-        "pubdate": "Sat, 30 Dec 2023 10:00:00 +0000"
+        "title": "Charlie Simpson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Charlie%20Simpson",
+        "pubdate": "Sat, 30 Dec 2023 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "XL Bully",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#XL%20Bully",
+        "title": "XL bully",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#XL%20bully",
         "pubdate": "Sat, 30 Dec 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Gil de Ferran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gil%20de%20Ferran",
+        "pubdate": "Sat, 30 Dec 2023 10:00:00 +0000"
       }
     ],
     [
