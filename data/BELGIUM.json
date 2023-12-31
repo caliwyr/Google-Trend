@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 12:41:50",
+  "lastUpdate": "31-12-2023 , 12:56:07",
   "data": [
     [
       {
@@ -31,15 +31,29 @@
     ],
     [
       {
-        "title": "Tina Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tina%20Turner",
-        "pubdate": "Sun, 31 Dec 2023 02:00:00 +0100"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paul Buysse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Buysse",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0100"
       }
     ],
     [
       {
         "title": "Vuurwerk Oostende",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vuurwerk%20Oostende",
+        "pubdate": "Sun, 31 Dec 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tina Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tina%20Turner",
         "pubdate": "Sun, 31 Dec 2023 02:00:00 +0100"
       }
     ],
@@ -55,6 +69,13 @@
         "title": "Ofenbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ofenbach",
         "pubdate": "Sun, 31 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Parc Roi Baudouin Jette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Parc%20Roi%20Baudouin%20Jette",
+        "pubdate": "Sun, 31 Dec 2023 12:00:00 +0100"
       }
     ],
     [
@@ -94,6 +115,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+        "pubdate": "Sat, 30 Dec 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Michael Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Jones",
         "pubdate": "Sat, 30 Dec 2023 22:00:00 +0100"
@@ -111,34 +139,6 @@
         "title": "AC Milan – Sassuolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan%20%E2%80%93%20Sassuolo",
         "pubdate": "Sat, 30 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Isabelle Boulay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Isabelle%20Boulay",
-        "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgorod",
-        "pubdate": "Sat, 30 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gil de Ferran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gil%20de%20Ferran",
-        "pubdate": "Sat, 30 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
-        "pubdate": "Sat, 30 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
