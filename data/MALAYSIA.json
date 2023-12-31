@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 05:44:35",
+  "lastUpdate": "31-12-2023 , 05:54:06",
   "data": [
     [
       {
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "PADU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PADU",
+        "title": "Padu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Padu",
         "pubdate": "Sat, 30 Dec 2023 06:00:00 +0800"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Plane crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Plane%20crash",
-        "pubdate": "Sat, 30 Dec 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Riad Asmat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Riad%20Asmat",
         "pubdate": "Sat, 30 Dec 2023 15:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Championship",
         "pubdate": "Sat, 30 Dec 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Happy New Year 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Happy%20New%20Year%202024",
+        "pubdate": "Fri, 29 Dec 2023 17:00:00 +0800"
       }
     ]
   ]
