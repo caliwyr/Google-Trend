@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 15:55:02",
+  "lastUpdate": "31-12-2023 , 16:13:21",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fulham - Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Arsenal",
         "pubdate": "Sun, 31 Dec 2023 11:00:00 -0300"
       }
     ],
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Fulham - Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Arsenal",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0300"
+        "title": "Tottenham  Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20%20Bournemouth",
+        "pubdate": "Sun, 31 Dec 2023 12:00:00 -0300"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
-        "pubdate": "Sat, 30 Dec 2023 14:00:00 -0300"
+        "title": "David Guetta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#David%20Guetta",
+        "pubdate": "Sat, 30 Dec 2023 02:00:00 -0300"
       }
     ],
     [
       {
-        "title": "David Guetta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#David%20Guetta",
-        "pubdate": "Sat, 30 Dec 2023 02:00:00 -0300"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
+        "pubdate": "Sat, 30 Dec 2023 14:00:00 -0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Gil de Ferran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gil%20de%20Ferran",
-        "pubdate": "Sat, 30 Dec 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Luis Rojas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20Rojas",
+        "title": "Lo imposible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lo%20imposible",
         "pubdate": "Sat, 30 Dec 2023 00:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Pedro Aguirre Cerda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pedro%20Aguirre%20Cerda",
-        "pubdate": "Sat, 30 Dec 2023 17:00:00 -0300"
+        "title": "Gil de Ferran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gil%20de%20Ferran",
+        "pubdate": "Sat, 30 Dec 2023 14:00:00 -0300"
       }
     ]
   ]
