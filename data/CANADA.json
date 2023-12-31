@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "31-12-2023 , 01:14:34",
+  "lastUpdate": "31-12-2023 , 02:06:14",
   "data": [
     [
       {
         "title": "Raptors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
         "pubdate": "Sat, 30 Dec 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Torontomapleleafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Torontomapleleafs",
-        "pubdate": "Sat, 30 Dec 2023 02:00:00 -0500"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Toronto Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
+        "pubdate": "Sat, 30 Dec 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Nottm Forest vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nottm%20Forest%20vs%20Man%20United",
         "pubdate": "Sat, 30 Dec 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Paula Abdul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paula%20Abdul",
+        "pubdate": "Sat, 30 Dec 2023 16:00:00 -0500"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Paula Abdul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paula%20Abdul",
-        "pubdate": "Sat, 30 Dec 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Schumacher",
         "pubdate": "Sat, 30 Dec 2023 02:00:00 -0500"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Samsonov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Samsonov",
-        "pubdate": "Sat, 30 Dec 2023 09:00:00 -0500"
+        "title": "Detroit Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
+        "pubdate": "Sat, 30 Dec 2023 18:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Detroit Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
-        "pubdate": "Sat, 30 Dec 2023 18:00:00 -0500"
+        "title": "Samsonov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Samsonov",
+        "pubdate": "Sat, 30 Dec 2023 09:00:00 -0500"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Raptors vs Pistons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Pistons",
+        "pubdate": "Sat, 30 Dec 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
         "pubdate": "Sat, 30 Dec 2023 10:00:00 -0500"
@@ -108,22 +115,15 @@
     ],
     [
       {
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keanu%20Reeves",
+        "pubdate": "Sat, 30 Dec 2023 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Pascal Siakam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pascal%20Siakam",
-        "pubdate": "Sat, 30 Dec 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Raptors vs Pistons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Pistons",
-        "pubdate": "Sat, 30 Dec 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brooke Hogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Hogan",
         "pubdate": "Sat, 30 Dec 2023 15:00:00 -0500"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Shai Gilgeous-Alexander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shai%20Gilgeous-Alexander",
-        "pubdate": "Sat, 30 Dec 2023 13:00:00 -0500"
+        "title": "Brooke Hogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Hogan",
+        "pubdate": "Sat, 30 Dec 2023 15:00:00 -0500"
       }
     ]
   ]
