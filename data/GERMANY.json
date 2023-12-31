@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 22:54:07",
+  "lastUpdate": "31-12-2023 , 23:09:50",
   "data": [
     [
       {
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
-        "pubdate": "Sun, 31 Dec 2023 21:00:00 +0100"
+        "title": "Silvester 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Silvester%202024",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hans Sigl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hans%20Sigl",
+        "pubdate": "Sun, 31 Dec 2023 22:00:00 +0100"
       }
     ],
     [
@@ -59,16 +66,23 @@
     ],
     [
       {
-        "title": "Dinner for One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dinner%20for%20One",
-        "pubdate": "Sat, 30 Dec 2023 01:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
+        "pubdate": "Sun, 31 Dec 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Luke Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Littler",
-        "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
+        "title": "Littler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Littler",
+        "pubdate": "Sun, 31 Dec 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dinner for One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dinner%20for%20One",
+        "pubdate": "Sat, 30 Dec 2023 01:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
         "pubdate": "Wed, 27 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dinner for One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dinner%20for%20One",
-        "pubdate": "Wed, 27 Dec 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vierschanzentournee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vierschanzentournee",
-        "pubdate": "Mon, 25 Dec 2023 14:00:00 +0100"
       }
     ]
   ]

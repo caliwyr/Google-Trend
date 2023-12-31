@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "31-12-2023 , 22:54:05",
+  "lastUpdate": "31-12-2023 , 23:09:47",
   "data": [
     [
       {
         "title": "New Year's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Year's%20Day",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "ABC iview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20iview",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
       }
     ],
     [
@@ -24,9 +17,30 @@
     ],
     [
       {
+        "title": "New Year countdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Year%20countdown",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Tottenham vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Bournemouth",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Prince",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prince",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 +1100"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Train crash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Train%20crash",
         "pubdate": "Mon, 01 Jan 2024 02:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "New year message 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20year%20message%202024",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Pistons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pistons",
         "pubdate": "Sun, 31 Dec 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
-        "pubdate": "Sun, 31 Dec 2023 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
-        "pubdate": "Sun, 31 Dec 2023 23:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Luke Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Littler",
-        "pubdate": "Sun, 31 Dec 2023 10:00:00 +1100"
       }
     ]
   ]
