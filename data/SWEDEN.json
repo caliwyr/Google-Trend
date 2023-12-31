@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2023 , 23:57:33",
+  "lastUpdate": "31-12-2023 , 01:14:41",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Hockeyallsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hockeyallsvenskan",
         "pubdate": "Sat, 30 Dec 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anna Lindmarker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Lindmarker",
+        "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Mark Levengood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mark%20Levengood",
-        "pubdate": "Sat, 30 Dec 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sanna Marin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanna%20Marin",
         "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Emma Ribom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Ribom",
-        "pubdate": "Sat, 30 Dec 2023 17:00:00 +0100"
+        "title": "Mark Levengood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mark%20Levengood",
+        "pubdate": "Sat, 30 Dec 2023 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Aurélien Largeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aur%C3%A9lien%20Largeau",
-        "pubdate": "Sat, 30 Dec 2023 07:00:00 +0100"
+        "title": "Emma Ribom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Ribom",
+        "pubdate": "Sat, 30 Dec 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Frida Karlsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frida%20Karlsson",
-        "pubdate": "Sat, 30 Dec 2023 17:00:00 +0100"
+        "title": "Aurélien Largeau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aur%C3%A9lien%20Largeau",
+        "pubdate": "Sat, 30 Dec 2023 07:00:00 +0100"
       }
     ]
   ]
