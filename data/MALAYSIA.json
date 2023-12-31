@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 18:55:48",
+  "lastUpdate": "31-12-2023 , 19:09:53",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Time",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Clock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Clock",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0800"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "New year wishes 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20year%20wishes%202024",
-        "pubdate": "Sun, 31 Dec 2023 15:00:00 +0800"
+        "title": "Countdown to 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Countdown%20to%202024",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "New Year wish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Year%20wish",
         "pubdate": "Sun, 31 Dec 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dubai Move",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dubai%20Move",
-        "pubdate": "Sun, 31 Dec 2023 05:00:00 +0800"
       }
     ]
   ]
