@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 11:10:54",
+  "lastUpdate": "01-01-2024 , 11:20:27",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cher",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
         "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "The Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Guardian",
+        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tottenham  Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham%20%20Bournemouth",
         "pubdate": "Sun, 31 Dec 2023 15:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "The guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FOX news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FOX%20news",
-        "pubdate": "Sun, 31 Dec 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Quiz 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Quiz%202023",
-        "pubdate": "Sun, 31 Dec 2023 09:00:00 +0100"
+        "title": "Sky news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20news",
+        "pubdate": "Sun, 31 Dec 2023 20:00:00 +0100"
       }
     ]
   ]

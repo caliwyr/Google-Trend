@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 11:10:52",
+  "lastUpdate": "01-01-2024 , 11:20:25",
   "data": [
     [
       {
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Soldes Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Soldes%20Belgique",
-        "pubdate": "Mon, 01 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Q-POP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Q-POP",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
+        "title": "Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Masked%20Singer",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Kamal Kharmach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kamal%20Kharmach",
+        "pubdate": "Mon, 01 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Standard de Liège",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20de%20Li%C3%A8ge",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Réveillon du Nouvel An",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#R%C3%A9veillon%20du%20Nouvel%20An",
+        "title": "Réveillon du nouvel an",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#R%C3%A9veillon%20du%20nouvel%20an",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 +0100"
       }
     ],
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "Nieuwjaarswensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nieuwjaarswensen",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#2024",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rohan Dennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rohan%20Dennis",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 +0100"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Star Academy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Star%20Academy",
-        "pubdate": "Sun, 31 Dec 2023 23:00:00 +0100"
+        "title": "2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#2024",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
         "pubdate": "Sun, 31 Dec 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paul Buysse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Buysse",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vuurwerk Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vuurwerk%20Oostende",
+        "pubdate": "Sun, 31 Dec 2023 02:00:00 +0100"
       }
     ]
   ]

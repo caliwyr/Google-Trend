@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 11:11:02",
+  "lastUpdate": "01-01-2024 , 11:20:37",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Rylan Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rylan%20Clark",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Elton John",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elton%20John",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0000"
@@ -34,6 +27,13 @@
         "title": "New Year countdown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20Year%20countdown",
         "pubdate": "Mon, 01 Jan 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Japan",
+        "pubdate": "Mon, 01 Jan 2024 10:00:00 +0000"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Lewis Capaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lewis%20Capaldi",
+        "pubdate": "Mon, 01 Jan 2024 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "New Year's Eve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20Year's%20Eve",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 +0000"
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Happy New Year 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Happy%20New%20Year%202024",
+        "pubdate": "Sun, 31 Dec 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Tottenham vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tottenham%20vs%20Bournemouth",
         "pubdate": "Sun, 31 Dec 2023 14:00:00 +0000"
@@ -125,20 +139,6 @@
         "title": "Happy new year!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Happy%20new%20year!",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20Utd",
-        "pubdate": "Sun, 31 Dec 2023 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Denmark Queen Margrethe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Denmark%20Queen%20Margrethe",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0000"
       }
     ]
   ]
