@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 14:57:33",
+  "lastUpdate": "01-01-2024 , 15:15:53",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "John Pilger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Pilger",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "ABC iview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20iview",
+        "title": "Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time",
         "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Andy Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andy%20Murray",
+        "pubdate": "Mon, 01 Jan 2024 21:00:00 +1100"
       }
     ],
     [
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Gold Coast news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20news",
+        "title": "Gold Coast flooding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20flooding",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
       }
     ],
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Next Goal Wins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Next%20Goal%20Wins",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
+        "title": "Fool Me Once",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fool%20Me%20Once",
+        "pubdate": "Mon, 01 Jan 2024 20:00:00 +1100"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "Naomi Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Naomi%20Osaka",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Fool Me Once",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fool%20Me%20Once",
-        "pubdate": "Mon, 01 Jan 2024 20:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Brisbane Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Heat",
         "pubdate": "Mon, 01 Jan 2024 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Ocean Alley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ocean%20Alley",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 +1100"
       }
     ]
   ]
