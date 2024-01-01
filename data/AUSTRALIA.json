@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 07:59:37",
+  "lastUpdate": "01-01-2024 , 08:23:42",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "ABC iview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20iview",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Conor%20McGregor",
         "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "What's open New Year's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What's%20open%20New%20Year's%20Day",
-        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1100"
+        "title": "Perth News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20News",
+        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
       }
     ],
     [
@@ -73,15 +66,29 @@
     ],
     [
       {
-        "title": "Perth news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20news",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
+        "title": "What's open New Year's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What's%20open%20New%20Year's%20Day",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Gold Coast news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20news",
+        "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
       }
     ],
     [
       {
         "title": "David Warner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Warner",
+        "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Naomi Osaka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Naomi%20Osaka",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
       }
     ],
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "An education",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#An%20education",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
+        "title": "Ocean Alley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ocean%20Alley",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 +1100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "An education",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#An%20education",
+        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Zan Rowe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zan%20Rowe",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Dave Chappelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dave%20Chappelle",
-        "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Gold Coast news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20news",
-        "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Brisbane Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Heat",
-        "pubdate": "Mon, 01 Jan 2024 16:00:00 +1100"
+        "title": "New Year Message 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Year%20Message%202024",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1100"
       }
     ]
   ]
