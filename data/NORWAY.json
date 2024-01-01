@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-01-2024 , 09:08:52",
+  "lastUpdate": "01-01-2024 , 09:23:03",
   "data": [
-    [
-      {
-        "title": "Jørpeland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#J%C3%B8rpeland",
-        "pubdate": "Mon, 01 Jan 2024 04:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Viken",
@@ -19,7 +12,7 @@
       {
         "title": "Kong Harald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kong%20Harald",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0100"
       }
     ],
     [
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "title": "TOTTENHAM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TOTTENHAM",
         "pubdate": "Sun, 31 Dec 2023 18:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Luke Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luke%20Littler",
         "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oscar Bobb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oscar%20Bobb",
+        "pubdate": "Sat, 30 Dec 2023 18:00:00 +0100"
       }
     ]
   ]

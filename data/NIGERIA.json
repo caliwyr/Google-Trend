@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-01-2024 , 09:08:52",
+  "lastUpdate": "01-01-2024 , 09:23:03",
   "data": [
-    [
-      {
-        "title": "New Year's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year's%20Day",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Bible",
@@ -20,6 +13,13 @@
         "title": "Fortune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fortune",
         "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Justine Skye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Justine%20Skye",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "Countdown to 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Countdown%20to%202024",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Welcome to 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Welcome%20to%202024",
-        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bayelsa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayelsa",
         "pubdate": "Sun, 31 Dec 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "New Year resolution",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year%20resolution",
+        "pubdate": "Sun, 31 Dec 2023 18:00:00 +0100"
       }
     ]
   ]

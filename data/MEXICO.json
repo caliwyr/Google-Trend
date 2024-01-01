@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-01-2024 , 09:08:51",
+  "lastUpdate": "01-01-2024 , 09:23:03",
   "data": [
-    [
-      {
-        "title": "Día de Año Nuevo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#D%C3%ADa%20de%20A%C3%B1o%20Nuevo",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Reloj",
@@ -45,23 +38,9 @@
     ],
     [
       {
-        "title": "Cuenta regresiva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuenta%20regresiva",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Hora mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hora%20mexico",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 -0600"
       }
     ],
     [
@@ -73,22 +52,15 @@
     ],
     [
       {
-        "title": "Bienvenido 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bienvenido%202024",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 -0600"
+        "title": "Hora CDMX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hora%20CDMX",
+        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
       }
     ],
     [
       {
         "title": "Un año mas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Un%20a%C3%B1o%20mas",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Conteo año nuevo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Conteo%20a%C3%B1o%20nuevo",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
       }
     ],
@@ -101,9 +73,16 @@
     ],
     [
       {
-        "title": "Tradiciones de fin de año",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tradiciones%20de%20fin%20de%20a%C3%B1o",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 -0600"
+        "title": "Conteo año nuevo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Conteo%20a%C3%B1o%20nuevo",
+        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Año bisiesto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#A%C3%B1o%20bisiesto",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 -0600"
       }
     ],
     [
@@ -115,6 +94,13 @@
     ],
     [
       {
+        "title": "Tradiciones de fin de año",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tradiciones%20de%20fin%20de%20a%C3%B1o",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Fin de año",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fin%20de%20a%C3%B1o",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 -0600"
@@ -122,8 +108,8 @@
     ],
     [
       {
-        "title": "Feliz Año Nuevo 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feliz%20A%C3%B1o%20Nuevo%202024",
+        "title": "Feliz Año Nuevo!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feliz%20A%C3%B1o%20Nuevo!",
         "pubdate": "Sun, 31 Dec 2023 03:00:00 -0600"
       }
     ],
@@ -136,8 +122,22 @@
     ],
     [
       {
+        "title": "Cuenta regresiva 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuenta%20regresiva%202024",
+        "pubdate": "Sun, 31 Dec 2023 23:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Steelers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Steelers",
+        "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Kansas City Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kansas%20City%20Chiefs",
         "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
       }
     ]
