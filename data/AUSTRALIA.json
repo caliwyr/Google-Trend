@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 18:57:34",
+  "lastUpdate": "01-01-2024 , 19:12:40",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Gold Coast weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20weather",
+        "title": "Gold coast Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20coast%20Weather",
         "pubdate": "Mon, 01 Jan 2024 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "John Pilger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Pilger",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "ABC iview",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20iview",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
       }
     ],
     [
@@ -55,6 +41,13 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time",
         "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "John Pilger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Pilger",
+        "pubdate": "Mon, 01 Jan 2024 01:00:00 +1100"
       }
     ],
     [
@@ -69,6 +62,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
         "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "ABC iview",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20iview",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +1100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Perth News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20News",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Naomi Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Naomi%20Osaka",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +1100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Taylor Fritz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Fritz",
-        "pubdate": "Mon, 01 Jan 2024 22:00:00 +1100"
+        "title": "Brisbane Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Heat",
+        "pubdate": "Mon, 01 Jan 2024 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Perth news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20news",
+        "pubdate": "Mon, 01 Jan 2024 12:00:00 +1100"
       }
     ]
   ]
