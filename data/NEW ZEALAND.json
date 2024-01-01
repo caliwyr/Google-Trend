@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 06:53:58",
+  "lastUpdate": "01-01-2024 , 07:09:33",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "ASB Classic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ASB%20Classic",
+        "pubdate": "Mon, 01 Jan 2024 19:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
         "pubdate": "Mon, 01 Jan 2024 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Rohan Dennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rohan%20Dennis",
+        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1300"
       }
     ],
     [
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "Rohan Dennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rohan%20Dennis",
-        "pubdate": "Mon, 01 Jan 2024 09:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Queen Margrethe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Queen%20Margrethe",
         "pubdate": "Mon, 01 Jan 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Clock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clock",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +1300"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Hamilton gardens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hamilton%20gardens",
-        "pubdate": "Mon, 01 Jan 2024 18:00:00 +1300"
+        "title": "Clock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clock",
+        "pubdate": "Mon, 01 Jan 2024 01:00:00 +1300"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Jessica Mutch McKay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jessica%20Mutch%20McKay",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Hamilton gardens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hamilton%20gardens",
+        "pubdate": "Mon, 01 Jan 2024 18:00:00 +1300"
       }
     ],
     [
@@ -101,6 +108,20 @@
     ],
     [
       {
+        "title": "Bethells Beach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bethells%20Beach",
+        "pubdate": "Mon, 01 Jan 2024 19:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "New York Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Time",
+        "pubdate": "Mon, 01 Jan 2024 19:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "New Year's Eve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Year's%20Eve",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 +1300"
@@ -118,27 +139,6 @@
         "title": "Cher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cher",
         "pubdate": "Sun, 31 Dec 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Tom Wilkinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Wilkinson",
-        "pubdate": "Sun, 31 Dec 2023 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Bangladesh vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bangladesh%20vs%20New%20Zealand",
-        "pubdate": "Sun, 31 Dec 2023 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Black Caps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
-        "pubdate": "Sun, 31 Dec 2023 15:00:00 +1300"
       }
     ]
   ]
