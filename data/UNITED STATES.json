@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 23:59:50",
+  "lastUpdate": "01-01-2024 , 01:34:47",
   "data": [
     [
       {
@@ -10,22 +10,22 @@
     ],
     [
       {
+        "title": "Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
+        "pubdate": "Sun, 31 Dec 2023 03:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
+        "pubdate": "Sun, 31 Dec 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Rams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
-        "pubdate": "Sun, 31 Dec 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Patriots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots",
         "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
       }
     ],
@@ -38,9 +38,37 @@
     ],
     [
       {
+        "title": "Rams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
+        "pubdate": "Sun, 31 Dec 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Happy new year 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Happy%20new%20year%202024",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Patriots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Saints",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
+        "pubdate": "Sun, 31 Dec 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "49ers vs Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers%20vs%20Commanders",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
       }
     ],
     [
@@ -52,16 +80,9 @@
     ],
     [
       {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
+        "title": "Bengals vs Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals%20vs%20Chiefs",
         "pubdate": "Sun, 31 Dec 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Saints",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints",
-        "pubdate": "Sun, 31 Dec 2023 10:00:00 -0800"
       }
     ],
     [
@@ -80,9 +101,16 @@
     ],
     [
       {
-        "title": "Kc Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kc%20Chiefs",
-        "pubdate": "Sun, 31 Dec 2023 14:00:00 -0800"
+        "title": "Broncos game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Broncos%20game",
+        "pubdate": "Sun, 31 Dec 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Christian McCaffrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christian%20McCaffrey",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 -0800"
       }
     ],
     [
@@ -90,13 +118,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Steelers vs Seahawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers%20vs%20Seahawks",
-        "pubdate": "Sun, 31 Dec 2023 14:00:00 -0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Conor%20McGregor",
         "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Dave Chappelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dave%20Chappelle",
-        "pubdate": "Sun, 31 Dec 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Justin Fields",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Fields",
-        "pubdate": "Sun, 31 Dec 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Zay Flowers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zay%20Flowers",
-        "pubdate": "Sun, 31 Dec 2023 12:00:00 -0800"
       }
     ]
   ]

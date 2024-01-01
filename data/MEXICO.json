@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2023 , 23:59:57",
+  "lastUpdate": "01-01-2024 , 01:34:53",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Tottenham - Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20-%20Bournemouth",
-        "pubdate": "Sun, 31 Dec 2023 04:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Ravens  Dolphins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ravens%20%20Dolphins",
         "pubdate": "Sun, 31 Dec 2023 13:00:00 -0600"
@@ -31,9 +24,23 @@
     ],
     [
       {
-        "title": "Washington  49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Washington%20%2049ers",
+        "title": "49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#49ers",
         "pubdate": "Sun, 31 Dec 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham - Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20-%20Bournemouth",
+        "pubdate": "Sun, 31 Dec 2023 04:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Kansas City Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kansas%20City%20Chiefs",
+        "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Kansas City Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kansas%20City%20Chiefs",
+        "title": "Seahawks  Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seahawks%20%20Steelers",
         "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
       }
     ],
@@ -80,30 +87,9 @@
     ],
     [
       {
-        "title": "Seahawks  Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seahawks%20%20Steelers",
-        "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Perro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Perro",
         "pubdate": "Sun, 31 Dec 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Chris Jericho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chris%20Jericho",
-        "pubdate": "Sun, 31 Dec 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Peña Nieto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pe%C3%B1a%20Nieto",
-        "pubdate": "Sun, 31 Dec 2023 04:00:00 -0600"
       }
     ],
     [
@@ -122,8 +108,15 @@
     ],
     [
       {
-        "title": "Cristian Calderón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cristian%20Calder%C3%B3n",
+        "title": "Peña Nieto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pe%C3%B1a%20Nieto",
+        "pubdate": "Sun, 31 Dec 2023 04:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Chris Jericho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chris%20Jericho",
         "pubdate": "Sun, 31 Dec 2023 00:00:00 -0600"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "La reina Margarita de Dinamarca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20reina%20Margarita%20de%20Dinamarca",
         "pubdate": "Sun, 31 Dec 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Fin de año 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fin%20de%20a%C3%B1o%202023",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 -0600"
       }
     ]
   ]
