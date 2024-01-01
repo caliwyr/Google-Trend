@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 13:05:44",
+  "lastUpdate": "01-01-2024 , 13:23:25",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rohan Dennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rohan%20Dennis",
         "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Luke Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luke%20Littler",
-        "pubdate": "Sun, 31 Dec 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
         "pubdate": "Sun, 31 Dec 2023 19:00:00 +0100"
@@ -118,6 +104,13 @@
         "title": "Yemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yemen",
         "pubdate": "Sun, 31 Dec 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luke Littler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luke%20Littler",
+        "pubdate": "Sun, 31 Dec 2023 00:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Sky news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20news",
-        "pubdate": "Sun, 31 Dec 2023 20:00:00 +0100"
+        "title": "Hasselback",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hasselback",
+        "pubdate": "Sun, 31 Dec 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Quiz 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Quiz%202023",
+        "pubdate": "Sun, 31 Dec 2023 09:00:00 +0100"
       }
     ]
   ]
