@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2024 , 16:59:18",
+  "lastUpdate": "01-01-2024 , 17:16:34",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Japan earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Japan%20earthquake",
+        "pubdate": "Mon, 01 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Frederik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Frederik",
         "pubdate": "Mon, 01 Jan 2024 14:00:00 +0200"
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Japan earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Japan%20earthquake",
-        "pubdate": "Mon, 01 Jan 2024 16:00:00 +0200"
+        "title": "Hugo Lloris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugo%20Lloris",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Garmisch-Partenkirchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Garmisch-Partenkirchen",
+        "pubdate": "Mon, 01 Jan 2024 18:00:00 +0200"
       }
     ],
     [
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "HAPPY NEW YEAR!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HAPPY%20NEW%20YEAR!",
+        "title": "Happy New Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20New%20Year",
         "pubdate": "Sun, 31 Dec 2023 12:00:00 +0200"
       }
     ],
@@ -69,6 +83,13 @@
         "title": "Fulham – Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fulham%20%E2%80%93%20Arsenal",
         "pubdate": "Sun, 31 Dec 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#2024",
+        "pubdate": "Sun, 31 Dec 2023 13:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Sun, 31 Dec 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham – Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Bournemouth",
-        "pubdate": "Sun, 31 Dec 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pam",
-        "pubdate": "Sun, 31 Dec 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kurt Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kurt%20Russell",
-        "pubdate": "Sun, 31 Dec 2023 20:00:00 +0200"
       }
     ]
   ]
