@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-01-2024 , 13:51:25",
+  "lastUpdate": "01-01-2024 , 14:02:45",
   "data": [
-    [
-      {
-        "title": "Japão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jap%C3%A3o",
-        "pubdate": "Mon, 01 Jan 2024 05:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Luan Santana",
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Japão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jap%C3%A3o",
+        "pubdate": "Mon, 01 Jan 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Diogo Nogueira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Diogo%20Nogueira",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 -0500"
@@ -41,20 +41,6 @@
         "title": "Bem-vindo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bem-vindo",
         "pubdate": "Mon, 01 Jan 2024 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia de Ano Novo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20de%20Ano%20Novo",
-        "pubdate": "Mon, 01 Jan 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coreia do Sul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 -0500"
       }
     ],
     [
@@ -138,6 +124,20 @@
       {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lewis%20Hamilton",
+        "pubdate": "Sun, 31 Dec 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Rodrigo Garro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodrigo%20Garro",
+        "pubdate": "Sun, 31 Dec 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Rafa Kalimann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rafa%20Kalimann",
         "pubdate": "Sun, 31 Dec 2023 09:00:00 -0500"
       }
     ]
