@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2024 , 11:12:42",
+  "lastUpdate": "02-01-2024 , 11:21:54",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "AMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AMS",
+        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kalender 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kalender%202024",
         "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
       }
     ],
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Santander",
+        "pubdate": "Tue, 02 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "ICE Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
         "pubdate": "Tue, 02 Jan 2024 07:00:00 +0100"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Santander",
-        "pubdate": "Tue, 02 Jan 2024 08:00:00 +0100"
+        "title": "Karriere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karriere",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "ZDF Traumschiff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF%20Traumschiff",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Erdbeben Japan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erdbeben%20Japan",
         "pubdate": "Mon, 01 Jan 2024 10:00:00 +0100"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Brand Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Graz",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Traumschiff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Traumschiff",
         "pubdate": "Mon, 01 Jan 2024 21:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Tatort heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tatort%20heute",
-        "pubdate": "Mon, 01 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jahreshoroskop 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jahreshoroskop%202024",
+        "title": "Top Gun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Top%20Gun",
         "pubdate": "Mon, 01 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Polizei Berlin Silvester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Polizei%20Berlin%20Silvester",
-        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
       }
     ]
   ]
