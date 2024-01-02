@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-01-2024 , 13:11:01",
+  "lastUpdate": "02-01-2024 , 13:25:19",
   "data": [
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
+        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Littler",
@@ -13,6 +20,13 @@
         "title": "Driekoningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Driekoningen",
         "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Storm Henk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20Henk",
+        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -41,20 +55,6 @@
         "title": "Japan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
         "pubdate": "Mon, 01 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Geldermalsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geldermalsen",
-        "pubdate": "Mon, 01 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Mon, 01 Jan 2024 21:00:00 +0100"
       }
     ],
     [
