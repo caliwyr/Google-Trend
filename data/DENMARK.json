@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-01-2024 , 23:10:57",
+  "lastUpdate": "02-01-2024 , 23:23:20",
   "data": [
     [
       {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maps",
         "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nordea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nordea",
+        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Telia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Telia",
-        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+        "title": "SAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SAS",
+        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "SAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SAS",
-        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
+        "title": "Telia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Telia",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Economic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
-        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
+        "title": "Canva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Canva",
+        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Canva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Canva",
-        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
+        "title": "Economic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
+        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Saleh al-Arouri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Saleh%20al-Arouri",
+        "pubdate": "Tue, 02 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stark",
         "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Saleh al-Arouri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Saleh%20al-Arouri",
-        "pubdate": "Tue, 02 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mail",
         "pubdate": "Tue, 02 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gm",
-        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
       }
     ]
   ]
