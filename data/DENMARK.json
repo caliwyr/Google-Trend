@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "02-01-2024 , 20:07:23",
+  "lastUpdate": "02-01-2024 , 20:24:26",
   "data": [
     [
       {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maps",
+        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kalender 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kalender%202024",
+        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Outlook",
         "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
       }
     ],
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
-        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+        "title": "Call me",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Call%20me",
+        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -59,9 +73,30 @@
     ],
     [
       {
+        "title": "PFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PFA",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stark",
         "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Peugeot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peugeot",
+        "pubdate": "Tue, 02 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
+        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -73,9 +108,23 @@
     ],
     [
       {
-        "title": "Gm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gm",
-        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -90,55 +139,6 @@
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Map",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Map",
-        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SATS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SATS",
-        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kia",
-        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FOA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FOA",
-        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rolex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rolex",
-        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
-        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
       }
     ]
   ]
