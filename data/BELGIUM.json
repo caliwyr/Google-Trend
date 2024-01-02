@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2024 , 04:12:55",
+  "lastUpdate": "02-01-2024 , 04:28:50",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Darts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Darts",
-        "pubdate": "Mon, 01 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pommelien Thijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pommelien%20Thijs",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
@@ -69,6 +62,13 @@
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathieu%20van%20der%20Poel",
         "pubdate": "Mon, 01 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Darts",
+        "pubdate": "Mon, 01 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "LikeMe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LikeMe",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celine%20Dion",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Cross Baal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cross%20Baal",
-        "pubdate": "Mon, 01 Jan 2024 14:00:00 +0100"
+        "title": "James Blunt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#James%20Blunt",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "James Blunt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#James%20Blunt",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
+        "title": "Camille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Camille",
+        "pubdate": "Mon, 01 Jan 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Masked%20Singer",
+        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
       }
     ]
   ]
