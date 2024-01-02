@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-01-2024 , 04:57:12",
+  "lastUpdate": "02-01-2024 , 05:14:57",
   "data": [
+    [
+      {
+        "title": "PADU Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PADU%20Malaysia",
+        "pubdate": "Tue, 02 Jan 2024 02:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Justin Cheung",
@@ -38,30 +45,9 @@
     ],
     [
       {
-        "title": "New Year's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Year's%20Day",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Japan earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20earthquake",
-        "pubdate": "Mon, 01 Jan 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Liverpool vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20vs%20Newcastle",
         "pubdate": "Mon, 01 Jan 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hamdan Senario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hamdan%20Senario",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0800"
       }
     ],
     [
@@ -76,13 +62,6 @@
         "title": "Asian Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Asian%20Cup",
         "pubdate": "Mon, 01 Jan 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Clock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Clock",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0800"
       }
     ],
     [
@@ -108,9 +87,23 @@
     ],
     [
       {
+        "title": "2024 countdown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#2024%20countdown",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "New Year's day traditions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Year's%20day%20traditions",
         "pubdate": "Mon, 01 Jan 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "New Year's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Year's%20Day",
+        "pubdate": "Sun, 31 Dec 2023 15:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nottm Forest vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nottm%20Forest%20vs%20Man%20United",
         "pubdate": "Sun, 31 Dec 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Happy New Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Happy%20New%20Year",
+        "pubdate": "Sun, 31 Dec 2023 12:00:00 +0800"
       }
     ]
   ]
