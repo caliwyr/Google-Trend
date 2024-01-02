@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2024 , 09:16:22",
+  "lastUpdate": "02-01-2024 , 09:25:46",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
-        "pubdate": "Mon, 01 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nieuws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuws",
         "pubdate": "Mon, 01 Jan 2024 12:00:00 +0100"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Geldermalsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geldermalsen",
-        "pubdate": "Mon, 01 Jan 2024 20:00:00 +0100"
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
+        "pubdate": "Mon, 01 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Nieuwjaarswensen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwjaarswensen",
+        "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rohan Dennis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rohan%20Dennis",
         "pubdate": "Sun, 31 Dec 2023 11:00:00 +0100"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Anouk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anouk",
+        "pubdate": "Sun, 31 Dec 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oldehove",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oldehove",
         "pubdate": "Sun, 31 Dec 2023 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Micha Wertheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Micha%20Wertheim",
         "pubdate": "Sat, 30 Dec 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Femke Kok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Kok",
-        "pubdate": "Fri, 29 Dec 2023 22:00:00 +0100"
       }
     ]
   ]
