@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-01-2024 , 11:59:28",
+  "lastUpdate": "02-01-2024 , 12:34:47",
   "data": [
-    [
-      {
-        "title": "Padu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Padu",
-        "pubdate": "Tue, 02 Jan 2024 08:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Justin Cheung",
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "North korean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#North%20korean",
+        "title": "Japan Airlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20Airlines",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "North Korean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#North%20Korean",
         "pubdate": "Tue, 02 Jan 2024 03:00:00 +0800"
       }
     ],
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Japan Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20Airlines",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0800"
+        "title": "Padu database",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Padu%20database",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0800"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Alliance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alliance",
         "pubdate": "Tue, 02 Jan 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BYD",
+        "pubdate": "Tue, 02 Jan 2024 19:00:00 +0800"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Marry My Husband",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Marry%20My%20Husband",
+        "pubdate": "Mon, 01 Jan 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Denmark Queen Margrethe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Denmark%20Queen%20Margrethe",
         "pubdate": "Mon, 01 Jan 2024 16:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "Asian Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Asian%20Cup",
         "pubdate": "Mon, 01 Jan 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "AFC Asian Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AFC%20Asian%20Cup",
-        "pubdate": "Mon, 01 Jan 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Chinese New Year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chinese%20New%20Year",
-        "pubdate": "Mon, 01 Jan 2024 22:00:00 +0800"
       }
     ]
   ]

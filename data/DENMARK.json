@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-01-2024 , 11:59:25",
+  "lastUpdate": "02-01-2024 , 12:34:43",
   "data": [
+    [
+      {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LinkedIn",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "The Act",
@@ -13,6 +20,13 @@
         "title": "Economic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
         "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
+        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "X factor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#X%20factor",
+        "pubdate": "Mon, 01 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sunset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sunset",
         "pubdate": "Mon, 01 Jan 2024 18:00:00 +0100"
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Taxi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taxi",
-        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Santander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Santander",
         "pubdate": "Mon, 01 Jan 2024 23:00:00 +0100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "By",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#By",
-        "pubdate": "Mon, 01 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alm. Brand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alm.%20Brand",
         "pubdate": "Mon, 01 Jan 2024 23:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Australia news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Australia%20news",
-        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Championship",
-        "pubdate": "Mon, 01 Jan 2024 19:00:00 +0100"
+        "title": "By",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#By",
+        "pubdate": "Mon, 01 Jan 2024 17:00:00 +0100"
       }
     ]
   ]

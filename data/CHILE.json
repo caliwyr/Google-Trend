@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-01-2024 , 11:59:24",
+  "lastUpdate": "02-01-2024 , 12:34:42",
   "data": [
+    [
+      {
+        "title": "Temblor hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+        "pubdate": "Tue, 02 Jan 2024 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Jarry",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Temblor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
-        "pubdate": "Tue, 02 Jan 2024 01:00:00 -0300"
+        "title": "United Cup 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#United%20Cup%202024",
+        "pubdate": "Tue, 02 Jan 2024 03:00:00 -0300"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Sismología",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismolog%C3%ADa",
         "pubdate": "Tue, 02 Jan 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "United Cup 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#United%20Cup%202024",
-        "pubdate": "Tue, 02 Jan 2024 03:00:00 -0300"
       }
     ],
     [
@@ -73,22 +73,8 @@
     ],
     [
       {
-        "title": "Cuantos dias tiene el 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuantos%20dias%20tiene%20el%202024",
-        "pubdate": "Mon, 01 Jan 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Calendario 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Calendario%202024",
-        "pubdate": "Mon, 01 Jan 2024 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Kim Jong Un",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kim%20Jong%20Un",
+        "title": "Kim Jong-un",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kim%20Jong-un",
         "pubdate": "Mon, 01 Jan 2024 17:00:00 -0300"
       }
     ],
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Felipe Avello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Felipe%20Avello",
+        "pubdate": "Mon, 01 Jan 2024 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Feliz Año 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20A%C3%B1o%202024",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 -0300"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Felipe Avello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Felipe%20Avello",
-        "pubdate": "Mon, 01 Jan 2024 23:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Reloj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Reloj",
         "pubdate": "Mon, 01 Jan 2024 01:00:00 -0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Año bisiesto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#A%C3%B1o%20bisiesto",
+        "pubdate": "Mon, 01 Jan 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Afterlife Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Afterlife%20Chile",
         "pubdate": "Mon, 01 Jan 2024 04:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "pubdate": "Mon, 01 Jan 2024 22:00:00 -0300"
       }
     ]
   ]
