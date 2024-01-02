@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2024 , 17:56:21",
+  "lastUpdate": "02-01-2024 , 18:17:34",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
+        "title": "Gaber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gaber",
+        "pubdate": "Tue, 02 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Libero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Libero",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -66,20 +73,6 @@
     ],
     [
       {
-        "title": "BPER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#BPER",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Calendario 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calendario%202024",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Borsa italiana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Borsa%20italiana",
         "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Terracciano Verona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terracciano%20Verona",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Credit Agricole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Credit%20Agricole",
         "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Putin",
-        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Codice Fiscale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Codice%20Fiscale",
         "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Drive",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Putin",
+        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
       }
     ]
   ]
