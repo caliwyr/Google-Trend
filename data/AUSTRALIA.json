@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2024 , 08:13:39",
+  "lastUpdate": "02-01-2024 , 08:28:55",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Luke Littler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Littler",
+        "pubdate": "Tue, 02 Jan 2024 18:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "ASX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX",
         "pubdate": "Tue, 02 Jan 2024 09:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "OG Anunoby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#OG%20Anunoby",
         "pubdate": "Tue, 02 Jan 2024 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "HSBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#HSBC",
-        "pubdate": "Tue, 02 Jan 2024 16:00:00 +1100"
       }
     ]
   ]
