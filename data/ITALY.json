@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 04:55:58",
+  "lastUpdate": "03-01-2024 , 05:12:30",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Gaber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gaber",
+        "pubdate": "Tue, 02 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Libero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Libero",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "BPER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#BPER",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gigi D'Agostino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20D'Agostino",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0100"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Outlook",
+        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
       }
     ]
   ]
