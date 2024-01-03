@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 09:47:05",
+  "lastUpdate": "03-01-2024 , 09:56:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
         "pubdate": "Wed, 03 Jan 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BC Assessment 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BC%20Assessment%202024",
+        "pubdate": "Wed, 03 Jan 2024 02:00:00 -0500"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Brian Sicknick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brian%20Sicknick",
+        "pubdate": "Wed, 03 Jan 2024 03:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Nick Suzuki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Suzuki",
         "pubdate": "Wed, 03 Jan 2024 01:00:00 -0500"
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Pittsburgh Penguins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pittsburgh%20Penguins",
+        "pubdate": "Wed, 03 Jan 2024 03:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "CRA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CRA",
         "pubdate": "Tue, 02 Jan 2024 12:00:00 -0500"
@@ -69,13 +90,6 @@
         "title": "Alerte Amber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alerte%20Amber",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "B.C. Assessment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#B.C.%20Assessment",
-        "pubdate": "Tue, 02 Jan 2024 22:00:00 -0500"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Winnipeg Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-        "pubdate": "Tue, 02 Jan 2024 23:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Crown Princess Mary of Denmark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crown%20Princess%20Mary%20of%20Denmark",
-        "pubdate": "Tue, 02 Jan 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Maple Leafs vs Kings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Kings",
         "pubdate": "Tue, 02 Jan 2024 23:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Dry January",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dry%20January",
-        "pubdate": "Tue, 02 Jan 2024 00:00:00 -0500"
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Tue, 02 Jan 2024 23:00:00 -0500"
       }
     ]
   ]
