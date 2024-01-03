@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 12:43:37",
+  "lastUpdate": "03-01-2024 , 12:59:15",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Ved",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ved",
         "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "It's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#It's",
+        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,20 @@
     ],
     [
       {
+        "title": "Posten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Posten",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nordea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordea",
+        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Luke Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luke%20Littler",
         "pubdate": "Tue, 02 Jan 2024 02:00:00 +0100"
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Oda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oda",
-        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
+        "title": "Nordnet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordnet",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -108,36 +129,15 @@
     ],
     [
       {
+        "title": "Erik Meyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erik%20Meyn",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jeffrey Epstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jeffrey%20Epstein",
-        "pubdate": "Tue, 02 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Claudine Gay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Claudine%20Gay",
-        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elverum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elverum",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tripletex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tripletex",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kia EV9",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kia%20EV9",
         "pubdate": "Tue, 02 Jan 2024 19:00:00 +0100"
       }
     ]

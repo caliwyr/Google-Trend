@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 12:43:30",
+  "lastUpdate": "03-01-2024 , 12:59:07",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Hühnersuppe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#H%C3%BChnersuppe",
         "pubdate": "Wed, 03 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oldenburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oldenburg",
+        "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Valentinstag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Valentinstag",
-        "pubdate": "Wed, 03 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NEUJAHR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NEUJAHR",
         "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
@@ -90,13 +90,6 @@
         "title": "Christina Block Kinder entführt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christina%20Block%20Kinder%20entf%C3%BChrt",
         "pubdate": "Tue, 02 Jan 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ORF-Moderatorin Inhof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF-Moderatorin%20Inhof",
-        "pubdate": "Tue, 02 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BYD",
-        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
+        "title": "Schäfer Heinrich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sch%C3%A4fer%20Heinrich",
+        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Schäfer Heinrich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sch%C3%A4fer%20Heinrich",
-        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
+        "title": "Geissens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Geissens",
+        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elba",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
       }
     ]
   ]
