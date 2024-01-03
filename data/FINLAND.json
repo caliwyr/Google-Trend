@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 13:30:59",
+  "lastUpdate": "03-01-2024 , 13:40:23",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BYD",
+        "pubdate": "Wed, 03 Jan 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jaakko Hämeen-Anttila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jaakko%20H%C3%A4meen-Anttila",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0200"
@@ -27,6 +34,13 @@
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maps",
         "pubdate": "Tue, 02 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Op",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
+        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "If",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#If",
         "pubdate": "Tue, 02 Jan 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IIHF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
-        "pubdate": "Tue, 02 Jan 2024 20:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "U20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
-        "pubdate": "Tue, 02 Jan 2024 20:00:00 +0200"
+        "title": "Epstein list",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Epstein%20list",
+        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Epstein list",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Epstein%20list",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
+        "pubdate": "Tue, 02 Jan 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Uniqlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Uniqlo",
         "pubdate": "Tue, 02 Jan 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Japan Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Japan%20Airlines",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
       }
     ]
   ]
