@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 19:42:27",
+  "lastUpdate": "03-01-2024 , 19:51:48",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Storm",
+        "pubdate": "Wed, 03 Jan 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Zoom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zoom",
         "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
@@ -52,15 +59,15 @@
     ],
     [
       {
-        "title": "Mikkel Hansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mikkel%20Hansen",
+        "title": "Gaslighting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gaslighting",
         "pubdate": "Wed, 03 Jan 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gaslighting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gaslighting",
+        "title": "Mikkel Hansen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mikkel%20Hansen",
         "pubdate": "Wed, 03 Jan 2024 15:00:00 +0100"
       }
     ],
@@ -104,13 +111,6 @@
         "title": "Nt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nt",
         "pubdate": "Tue, 02 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
       }
     ],
     [
