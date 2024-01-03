@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 17:46:43",
+  "lastUpdate": "03-01-2024 , 17:56:47",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Sonae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sonae",
+        "title": "Go Natural",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Go%20Natural",
         "pubdate": "Wed, 03 Jan 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "PPM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PPM",
+        "pubdate": "Wed, 03 Jan 2024 16:00:00 +0000"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#365",
-        "pubdate": "Wed, 03 Jan 2024 10:00:00 +0000"
+        "title": "Galaxy AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Galaxy%20AI",
+        "pubdate": "Wed, 03 Jan 2024 13:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Acidente avião Japão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20avi%C3%A3o%20Jap%C3%A3o",
         "pubdate": "Tue, 02 Jan 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Greve comboios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20comboios",
-        "pubdate": "Tue, 02 Jan 2024 00:00:00 +0000"
       }
     ]
   ]
