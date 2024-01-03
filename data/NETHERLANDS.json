@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-01-2024 , 08:58:48",
+  "lastUpdate": "03-01-2024 , 09:19:00",
   "data": [
     [
       {
         "title": "Schiphol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
         "pubdate": "Wed, 03 Jan 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grote karekiet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grote%20karekiet",
+        "pubdate": "Wed, 03 Jan 2024 03:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Grote karekiet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Grote%20karekiet",
-        "pubdate": "Wed, 03 Jan 2024 03:00:00 +0100"
+        "title": "Humphries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Humphries",
+        "pubdate": "Wed, 03 Jan 2024 08:00:00 +0100"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Teams",
+        "pubdate": "Tue, 02 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Tue, 02 Jan 2024 21:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Darts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
         "pubdate": "Mon, 01 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RTV Noord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Noord",
-        "pubdate": "Mon, 01 Jan 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hedel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hedel",
-        "pubdate": "Mon, 01 Jan 2024 14:00:00 +0100"
       }
     ]
   ]
