@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2024 , 20:58:24",
+  "lastUpdate": "03-01-2024 , 21:15:06",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Lux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lux",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jaakko Hämeen-Anttila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jaakko%20H%C3%A4meen-Anttila",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0200"
@@ -55,6 +62,13 @@
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maps",
         "pubdate": "Tue, 02 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Op",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
+        "pubdate": "Tue, 02 Jan 2024 12:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Helen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Helen",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eddie Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eddie%20Murphy",
-        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucid Air",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lucid%20Air",
         "pubdate": "Tue, 02 Jan 2024 10:00:00 +0200"
       }
     ]
