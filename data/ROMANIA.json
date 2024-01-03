@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-01-2024 , 03:34:57",
+  "lastUpdate": "03-01-2024 , 03:43:35",
   "data": [
-    [
-      {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham",
-        "pubdate": "Wed, 03 Jan 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Electrica",
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Real Sociedad,  alavés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Sociedad,%20%20alav%C3%A9s",
+        "title": "Real Sociedad  alavés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Sociedad%20%20alav%C3%A9s",
         "pubdate": "Tue, 02 Jan 2024 20:00:00 +0200"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Franz Beckenbauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Franz%20Beckenbauer",
         "pubdate": "Tue, 02 Jan 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "West Ham - Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham%20-%20Brighton",
+        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Locuri de munca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Locuri%20de%20munca",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
         "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
         "pubdate": "Mon, 01 Jan 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stefan banica Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stefan%20banica%20Jr",
+        "pubdate": "Mon, 01 Jan 2024 00:00:00 +0200"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-01-2024 , 03:34:55",
+  "lastUpdate": "03-01-2024 , 03:43:33",
   "data": [
-    [
-      {
-        "title": "Yahoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Yahoo",
-        "pubdate": "Wed, 03 Jan 2024 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Yul Edochie",
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "KRA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KRA",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea transfer news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20transfer%20news",
         "pubdate": "Tue, 02 Jan 2024 00:00:00 +0300"
@@ -101,16 +87,16 @@
     ],
     [
       {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Sociedad",
-        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0300"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LaLiga",
+        "pubdate": "Tue, 02 Jan 2024 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LaLiga",
-        "pubdate": "Tue, 02 Jan 2024 23:00:00 +0300"
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Sociedad",
+        "pubdate": "Tue, 02 Jan 2024 22:00:00 +0300"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Muhammad Yunus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Muhammad%20Yunus",
+        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Cooperative bank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cooperative%20bank",
         "pubdate": "Tue, 02 Jan 2024 15:00:00 +0300"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Muhammad Yunus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Muhammad%20Yunus",
+        "title": "Africa Cup of Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Africa%20Cup%20of%20Nations",
+        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Wayne Rooney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wayne%20Rooney",
         "pubdate": "Tue, 02 Jan 2024 17:00:00 +0300"
       }
     ]
