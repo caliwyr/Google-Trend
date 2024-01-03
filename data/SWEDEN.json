@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-01-2024 , 18:58:40",
+  "lastUpdate": "03-01-2024 , 19:14:13",
   "data": [
+    [
+      {
+        "title": "Davos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Davos",
+        "pubdate": "Wed, 03 Jan 2024 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Vargar skjutna",
@@ -10,9 +17,23 @@
     ],
     [
       {
-        "title": "Davos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Davos",
-        "pubdate": "Wed, 03 Jan 2024 16:00:00 +0100"
+        "title": "Fredrik Hallgren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Hallgren",
+        "pubdate": "Wed, 03 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forsmark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Forsmark",
+        "pubdate": "Wed, 03 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Göteborgs posten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6teborgs%20posten",
+        "pubdate": "Wed, 03 Jan 2024 17:00:00 +0100"
       }
     ],
     [
@@ -66,9 +87,9 @@
     ],
     [
       {
-        "title": "Nordnet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nordnet",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
+        "title": "David Edstrom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Edstrom",
+        "pubdate": "Tue, 02 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -76,13 +97,6 @@
         "title": "Beirut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beirut",
         "pubdate": "Tue, 02 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Forsakringskassan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Forsakringskassan",
-        "pubdate": "Tue, 02 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Mon, 01 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola",
-        "pubdate": "Mon, 01 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Edvin Törnblom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20T%C3%B6rnblom",
-        "pubdate": "Mon, 01 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
