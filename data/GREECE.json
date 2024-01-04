@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 08:14:27",
+  "lastUpdate": "04-01-2024 , 08:29:30",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Ζαμπετογλου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%96%CE%B1%CE%BC%CF%80%CE%B5%CF%84%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+        "pubdate": "Wed, 03 Jan 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Aris",
         "pubdate": "Wed, 03 Jan 2024 17:00:00 +0200"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Συριγοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%85%CF%81%CE%B9%CE%B3%CE%BF%CF%83",
-        "pubdate": "Wed, 03 Jan 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#La%20Liga",
         "pubdate": "Wed, 03 Jan 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Νικοσ παππασ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B9%CE%BA%CE%BF%CF%83%20%CF%80%CE%B1%CF%80%CF%80%CE%B1%CF%83",
-        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0200"
       }
     ],
     [
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Νενα μεντη",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B5%CE%BD%CE%B1%20%CE%BC%CE%B5%CE%BD%CF%84%CE%B7",
-        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Συνολακησ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%85%CE%BD%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7%CF%83",
-        "pubdate": "Wed, 03 Jan 2024 17:00:00 +0200"
+        "title": "Συριγοσ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%85%CF%81%CE%B9%CE%B3%CE%BF%CF%83",
+        "pubdate": "Wed, 03 Jan 2024 10:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Kanye West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Kanye%20West",
-        "pubdate": "Wed, 03 Jan 2024 11:00:00 +0200"
+        "title": "Νικοσ παππασ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B9%CE%BA%CE%BF%CF%83%20%CF%80%CE%B1%CF%80%CF%80%CE%B1%CF%83",
+        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Νενα μεντη",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CE%B5%CE%BD%CE%B1%20%CE%BC%CE%B5%CE%BD%CF%84%CE%B7",
+        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Συνολακησ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%85%CE%BD%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7%CF%83",
+        "pubdate": "Wed, 03 Jan 2024 17:00:00 +0200"
       }
     ]
   ]

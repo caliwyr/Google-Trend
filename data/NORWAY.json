@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 08:14:31",
+  "lastUpdate": "04-01-2024 , 08:29:33",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-        "pubdate": "Wed, 03 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stavern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavern",
         "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Timer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
-        "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
+        "title": "Petter Myhre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Myhre",
+        "pubdate": "Wed, 03 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Tetris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tetris",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iran",
         "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
@@ -104,13 +104,6 @@
         "title": "It's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#It's",
         "pubdate": "Wed, 03 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tetris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tetris",
-        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "DNB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNB",
         "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Saltburn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Saltburn",
+        "pubdate": "Tue, 02 Jan 2024 03:00:00 +0100"
       }
     ]
   ]
