@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2024 , 17:52:56",
+  "lastUpdate": "04-01-2024 , 18:10:00",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+        "pubdate": "Thu, 04 Jan 2024 14:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Gato",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Tom Hanks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%20Hanks",
-        "pubdate": "Thu, 04 Jan 2024 08:00:00 -0300"
+        "title": "Martin Pradenas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Martin%20Pradenas",
+        "pubdate": "Thu, 04 Jan 2024 14:00:00 -0300"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Anotate en la lista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anotate%20en%20la%20lista",
-        "pubdate": "Wed, 03 Jan 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Teatro a Mil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Teatro%20a%20Mil",
         "pubdate": "Wed, 03 Jan 2024 12:00:00 -0300"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Shirley Arica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Shirley%20Arica",
-        "pubdate": "Wed, 03 Jan 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Almiron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Almiron",
         "pubdate": "Wed, 03 Jan 2024 21:00:00 -0300"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rafael%20Nadal",
-        "pubdate": "Wed, 03 Jan 2024 03:00:00 -0300"
+        "title": "Andres Velasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Andres%20Velasco",
+        "pubdate": "Wed, 03 Jan 2024 19:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Andres Velasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Andres%20Velasco",
-        "pubdate": "Wed, 03 Jan 2024 19:00:00 -0300"
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rafael%20Nadal",
+        "pubdate": "Wed, 03 Jan 2024 03:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Pamela Leiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pamela%20Leiva",
         "pubdate": "Wed, 03 Jan 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Jeffrey Epstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jeffrey%20Epstein",
+        "pubdate": "Tue, 02 Jan 2024 20:00:00 -0300"
       }
     ]
   ]
