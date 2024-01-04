@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-01-2024 , 23:46:36",
+  "lastUpdate": "04-01-2024 , 23:55:55",
   "data": [
-    [
-      {
-        "title": "Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Las%20Palmas",
-        "pubdate": "Thu, 04 Jan 2024 12:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
         "pubdate": "Thu, 04 Jan 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crystal%20Palace",
+        "pubdate": "Thu, 04 Jan 2024 13:00:00 -0500"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crystal%20Palace",
-        "pubdate": "Thu, 04 Jan 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
         "pubdate": "Thu, 04 Jan 2024 00:00:00 -0500"
@@ -52,30 +45,16 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Everton",
-        "pubdate": "Thu, 04 Jan 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LaLiga",
-        "pubdate": "Thu, 04 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Wilson Fittipaldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wilson%20Fittipaldi",
-        "pubdate": "Thu, 04 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Alienação parental",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aliena%C3%A7%C3%A3o%20parental",
         "pubdate": "Thu, 04 Jan 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cocielo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cocielo",
+        "pubdate": "Thu, 04 Jan 2024 00:00:00 -0500"
       }
     ],
     [
@@ -94,16 +73,9 @@
     ],
     [
       {
-        "title": "Cocielo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cocielo",
-        "pubdate": "Thu, 04 Jan 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rafael%20Nadal",
-        "pubdate": "Thu, 04 Jan 2024 14:00:00 -0500"
+        "title": "Wilson Fittipaldi Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wilson%20Fittipaldi%20Jr",
+        "pubdate": "Thu, 04 Jan 2024 10:00:00 -0500"
       }
     ],
     [
@@ -115,9 +87,16 @@
     ],
     [
       {
-        "title": "Athletic Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletic%20Bilbao",
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rafael%20Nadal",
         "pubdate": "Thu, 04 Jan 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santos Copinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20Copinha",
+        "pubdate": "Thu, 04 Jan 2024 15:00:00 -0500"
       }
     ],
     [
@@ -125,6 +104,20 @@
         "title": "Edital Concurso Público",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20Concurso%20P%C3%BAblico",
         "pubdate": "Thu, 04 Jan 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Marcia Fu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcia%20Fu",
+        "pubdate": "Thu, 04 Jan 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Athletic Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletic%20Bilbao",
+        "pubdate": "Thu, 04 Jan 2024 14:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lewis%20Hamilton",
         "pubdate": "Thu, 04 Jan 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tetris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tetris",
+        "pubdate": "Thu, 04 Jan 2024 13:00:00 -0500"
       }
     ]
   ]
