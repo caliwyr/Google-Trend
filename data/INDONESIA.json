@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 03:35:13",
+  "lastUpdate": "04-01-2024 , 03:44:34",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Gempa hari ini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20hari%20ini",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Luna Maya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Luna%20Maya",
         "pubdate": "Wed, 03 Jan 2024 04:00:00 +0700"
@@ -76,13 +83,6 @@
         "title": "Love Song for Illusion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Love%20Song%20for%20Illusion",
         "pubdate": "Wed, 03 Jan 2024 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "BMKG gempa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BMKG%20gempa",
-        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Karina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Karina",
-        "pubdate": "Wed, 03 Jan 2024 06:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Andre Taulany lagu Mungkinkah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Andre%20Taulany%20lagu%20Mungkinkah",
         "pubdate": "Wed, 03 Jan 2024 20:00:00 +0700"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Gempa Banten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20Banten",
-        "pubdate": "Wed, 03 Jan 2024 17:00:00 +0700"
+        "title": "Karina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Karina",
+        "pubdate": "Wed, 03 Jan 2024 06:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Jaemin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jaemin",
+        "pubdate": "Wed, 03 Jan 2024 09:00:00 +0700"
       }
     ]
   ]
