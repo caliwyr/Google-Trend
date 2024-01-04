@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "04-01-2024 , 22:49:31",
+  "lastUpdate": "04-01-2024 , 22:58:39",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rafael%20Nadal",
+        "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dacia",
         "pubdate": "Thu, 04 Jan 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Las Palmas,  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Las%20Palmas,%20%20Barcelona",
+        "pubdate": "Thu, 04 Jan 2024 22:00:00 +0200"
       }
     ],
     [
@@ -38,9 +59,9 @@
     ],
     [
       {
-        "title": "Laliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laliga",
-        "pubdate": "Thu, 04 Jan 2024 02:00:00 +0200"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
+        "pubdate": "Thu, 04 Jan 2024 23:00:00 +0200"
       }
     ],
     [
@@ -52,8 +73,15 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
+        "title": "Laliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laliga",
+        "pubdate": "Thu, 04 Jan 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mihai Constantinescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Constantinescu",
         "pubdate": "Thu, 04 Jan 2024 23:00:00 +0200"
       }
     ],
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Mihai Constantinescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Constantinescu",
-        "pubdate": "Thu, 04 Jan 2024 23:00:00 +0200"
+        "title": "Curtea de Conturi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Curtea%20de%20Conturi",
+        "pubdate": "Thu, 04 Jan 2024 08:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Girona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Girona%20FC",
-        "pubdate": "Wed, 03 Jan 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iran",
-        "pubdate": "Wed, 03 Jan 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "e-Factura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#e-Factura",
-        "pubdate": "Wed, 03 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oscar Pistorius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oscar%20Pistorius",
-        "pubdate": "Wed, 03 Jan 2024 09:00:00 +0200"
       }
     ]
   ]
