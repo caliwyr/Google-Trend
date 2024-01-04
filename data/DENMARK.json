@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 12:16:39",
+  "lastUpdate": "04-01-2024 , 12:43:46",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snake",
+        "pubdate": "Thu, 04 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Slides",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
         "pubdate": "Thu, 04 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Storm",
+        "pubdate": "Wed, 03 Jan 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Zoom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zoom",
         "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Mikkel Hansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mikkel%20Hansen",
-        "pubdate": "Wed, 03 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSG  Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG%20%20Toulouse",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "DMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DMI",
         "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maps",
-        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dart",
-        "pubdate": "Tue, 02 Jan 2024 00:00:00 +0100"
       }
     ]
   ]
