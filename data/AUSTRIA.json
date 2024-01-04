@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 04:56:58",
+  "lastUpdate": "04-01-2024 , 05:14:19",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Kanye West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kanye%20West",
+        "pubdate": "Thu, 04 Jan 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
         "pubdate": "Wed, 03 Jan 2024 19:00:00 +0100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Bergdoktor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bergdoktor",
-        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
+        "title": "Maria Olympia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Olympia",
+        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Maria Olympia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Olympia",
-        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
+        "title": "Der Bergdoktor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20Bergdoktor",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LaLiga",
         "pubdate": "Wed, 03 Jan 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gina Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gina%20Schumacher",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Maria Theresia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Theresia",
-        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tetris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tetris",
-        "pubdate": "Wed, 03 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
       }
     ]

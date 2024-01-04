@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 04:57:07",
+  "lastUpdate": "04-01-2024 , 05:14:29",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Sahibinden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sahibinden",
-        "pubdate": "Wed, 03 Jan 2024 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid",
         "pubdate": "Wed, 03 Jan 2024 02:00:00 +0300"
@@ -48,6 +41,13 @@
         "title": "Panathinaikos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Panathinaikos",
         "pubdate": "Wed, 03 Jan 2024 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sahibinden çöktü mü",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sahibinden%20%C3%A7%C3%B6kt%C3%BC%20m%C3%BC",
+        "pubdate": "Wed, 03 Jan 2024 10:00:00 +0300"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "EVDE BAKIM MAAŞI NE KADAR OLDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EVDE%20BAKIM%20MAA%C5%9EI%20NE%20KADAR%20OLDU",
-        "pubdate": "Wed, 03 Jan 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Vizontele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Vizontele",
         "pubdate": "Wed, 03 Jan 2024 21:00:00 +0300"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Vaiz ne demek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Vaiz%20ne%20demek",
+        "title": "EVDE BAKIM MAAŞI NE KADAR OLDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EVDE%20BAKIM%20MAA%C5%9EI%20NE%20KADAR%20OLDU",
         "pubdate": "Wed, 03 Jan 2024 14:00:00 +0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Roma",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atalanta",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0300"
       }
     ]
   ]

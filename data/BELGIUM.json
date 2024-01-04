@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2024 , 04:56:58",
+  "lastUpdate": "04-01-2024 , 05:14:19",
   "data": [
     [
       {
@@ -19,13 +19,6 @@
       {
         "title": "Galaxy AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galaxy%20AI",
-        "pubdate": "Thu, 04 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zandbergen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zandbergen",
         "pubdate": "Thu, 04 Jan 2024 00:00:00 +0100"
       }
     ],
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Putte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Putte",
-        "pubdate": "Wed, 03 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roermond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roermond",
         "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
@@ -104,6 +90,13 @@
         "title": "Inondations Belgique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inondations%20Belgique",
         "pubdate": "Wed, 03 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Windhoos Putte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Windhoos%20Putte",
+        "pubdate": "Wed, 03 Jan 2024 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Extrema Outdoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Extrema%20Outdoor",
         "pubdate": "Wed, 03 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "L'appel de la foret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'appel%20de%20la%20foret",
+        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
       }
     ]
   ]
