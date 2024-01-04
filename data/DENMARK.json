@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2024 , 00:38:18",
+  "lastUpdate": "04-01-2024 , 01:40:46",
   "data": [
+    [
+      {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Girona",
+        "pubdate": "Thu, 04 Jan 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Mads Mikkelsen",
@@ -52,15 +59,22 @@
     ],
     [
       {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zoom",
-        "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
+        "title": "Claudine Gay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Claudine%20Gay",
+        "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
       }
     ],
     [
       {
         "title": "Dot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dot",
+        "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zoom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zoom",
         "pubdate": "Wed, 03 Jan 2024 09:00:00 +0100"
       }
     ],
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "PSG  Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG%20%20Toulouse",
+        "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kol",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "Dart World Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dart%20World%20Championship",
+        "title": "Dart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dart",
         "pubdate": "Tue, 02 Jan 2024 00:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
         "pubdate": "Tue, 02 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LinkedIn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LinkedIn",
-        "pubdate": "Tue, 02 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Outlook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Outlook",
-        "pubdate": "Tue, 02 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NT",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0100"
       }
     ]
   ]

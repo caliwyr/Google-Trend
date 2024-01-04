@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-01-2024 , 00:38:18",
+  "lastUpdate": "04-01-2024 , 01:40:47",
   "data": [
     [
       {
         "title": "Breach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Breach",
         "pubdate": "Thu, 04 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "JYP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JYP",
+        "pubdate": "Thu, 04 Jan 2024 01:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "TV5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TV5",
+        "pubdate": "Tue, 02 Jan 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vero",
         "pubdate": "Tue, 02 Jan 2024 01:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "U20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
-        "pubdate": "Tue, 02 Jan 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "If",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#If",
         "pubdate": "Tue, 02 Jan 2024 09:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "IIHF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
         "pubdate": "Tue, 02 Jan 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Canva",
-        "pubdate": "Tue, 02 Jan 2024 17:00:00 +0200"
       }
     ]
   ]
