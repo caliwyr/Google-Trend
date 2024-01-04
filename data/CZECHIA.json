@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-01-2024 , 02:55:12",
+  "lastUpdate": "04-01-2024 , 03:12:47",
   "data": [
     [
       {
         "title": "Štěpán Kozub",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0t%C4%9Bp%C3%A1n%20Kozub",
         "pubdate": "Thu, 04 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
-        "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
+        "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jedna rodina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jedna%20rodina",
         "pubdate": "Wed, 03 Jan 2024 16:00:00 +0100"
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "PSG – Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG%20%E2%80%93%20Toulouse",
+        "pubdate": "Wed, 03 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rytmus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rytmus",
         "pubdate": "Wed, 03 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jitka Čvančarová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jitka%20%C4%8Cvan%C4%8Darov%C3%A1",
+        "pubdate": "Wed, 03 Jan 2024 03:00:00 +0100"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Jiří Wolker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Wolker",
-        "pubdate": "Wed, 03 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Schumacher",
         "pubdate": "Wed, 03 Jan 2024 16:00:00 +0100"
@@ -76,13 +83,6 @@
         "title": "Vymena manzelek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vymena%20manzelek",
         "pubdate": "Wed, 03 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zlata Hladíková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlata%20Hlad%C3%ADkov%C3%A1",
-        "pubdate": "Wed, 03 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Michal Hrabal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20Hrabal",
-        "pubdate": "Tue, 02 Jan 2024 18:00:00 +0100"
+        "title": "Oliver Bonk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oliver%20Bonk",
+        "pubdate": "Tue, 02 Jan 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Justice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Justice",
-        "pubdate": "Tue, 02 Jan 2024 10:00:00 +0100"
+        "title": "Hrabal Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hrabal%20Michael",
+        "pubdate": "Tue, 02 Jan 2024 18:00:00 +0100"
       }
     ]
   ]
