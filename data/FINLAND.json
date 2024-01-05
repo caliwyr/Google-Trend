@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-01-2024 , 21:45:45",
+  "lastUpdate": "05-01-2024 , 21:56:24",
   "data": [
-    [
-      {
-        "title": "U20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
-        "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "IIHF",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
+        "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FA%20Cup",
         "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christian Oliver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Christian%20Oliver",
+        "pubdate": "Fri, 05 Jan 2024 22:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Christian Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Christian%20Oliver",
-        "pubdate": "Fri, 05 Jan 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BESS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
         "pubdate": "Fri, 05 Jan 2024 08:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Rage Against the Machine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rage%20Against%20the%20Machine",
         "pubdate": "Fri, 05 Jan 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The father",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20father",
+        "pubdate": "Fri, 05 Jan 2024 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kick",
         "pubdate": "Thu, 04 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Discovery",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discovery",
-        "pubdate": "Thu, 04 Jan 2024 21:00:00 +0200"
       }
     ]
   ]
