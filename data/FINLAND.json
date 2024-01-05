@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2024 , 08:48:06",
+  "lastUpdate": "05-01-2024 , 08:57:20",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FA%20Cup",
         "pubdate": "Fri, 05 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jokerit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jokerit",
+        "pubdate": "Fri, 05 Jan 2024 08:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Helen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Helen",
         "pubdate": "Thu, 04 Jan 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de Ski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tour%20de%20Ski",
+        "pubdate": "Thu, 04 Jan 2024 14:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
-        "pubdate": "Thu, 04 Jan 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Britney%20Spears",
         "pubdate": "Thu, 04 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
-        "pubdate": "Thu, 04 Jan 2024 04:00:00 +0200"
       }
     ]
   ]
