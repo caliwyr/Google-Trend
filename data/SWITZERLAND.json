@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-01-2024 , 13:48:41",
+  "lastUpdate": "06-01-2024 , 13:57:55",
   "data": [
     [
       {
         "title": "Adelboden Skirennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adelboden%20Skirennen",
         "pubdate": "Sat, 06 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kranjska Gora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kranjska%20Gora",
+        "pubdate": "Sat, 06 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Rolling Stones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rolling%20Stones",
         "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kranjska Gora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kranjska%20Gora",
-        "pubdate": "Sat, 06 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Basel Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Basel%20Bayern",
+        "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oslo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oslo",
         "pubdate": "Sat, 06 Jan 2024 00:00:00 +0100"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Christina Block Kinder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christina%20Block%20Kinder",
-        "pubdate": "Sat, 06 Jan 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alerte Cobra Christian Oliver",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alerte%20Cobra%20Christian%20Oliver",
         "pubdate": "Sat, 06 Jan 2024 10:00:00 +0100"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Basel Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Basel%20Bayern",
-        "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
+        "title": "Christina Block Kinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christina%20Block%20Kinder",
+        "pubdate": "Sat, 06 Jan 2024 07:00:00 +0100"
       }
     ],
     [
@@ -122,15 +122,15 @@
     ],
     [
       {
-        "title": "EHC Kloten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Kloten",
+        "title": "Beatles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatles",
         "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Beatles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatles",
+        "title": "EHC Kloten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Kloten",
         "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
       }
     ],
