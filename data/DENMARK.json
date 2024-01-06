@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2024 , 17:45:05",
+  "lastUpdate": "06-01-2024 , 17:54:28",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Mg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mg",
         "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
-        "pubdate": "Sat, 06 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+        "pubdate": "Fri, 05 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rikke Sevecke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rikke%20Sevecke",
         "pubdate": "Fri, 05 Jan 2024 13:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-        "pubdate": "Fri, 05 Jan 2024 21:00:00 +0100"
+        "title": "Glynis Johns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glynis%20Johns",
+        "pubdate": "Fri, 05 Jan 2024 00:00:00 +0100"
       }
     ]
   ]
