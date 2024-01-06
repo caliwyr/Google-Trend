@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2024 , 15:42:04",
+  "lastUpdate": "06-01-2024 , 15:51:31",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Rolling Stones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rolling%20Stones",
-        "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
+        "title": "FCB gegen Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FCB%20gegen%20Bayern",
+        "pubdate": "Sat, 06 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Entführung Kinder Christina Block",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Entf%C3%BChrung%20Kinder%20Christina%20Block",
+        "title": "Rolling Stones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rolling%20Stones",
+        "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Entführung:Kinder Christina Block",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Entf%C3%BChrung:Kinder%20Christina%20Block",
         "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "FCB gegen Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FCB%20gegen%20Bayern",
-        "pubdate": "Sat, 06 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Timo Horn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Timo%20Horn",
         "pubdate": "Sat, 06 Jan 2024 12:00:00 +0100"
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Günther Jauch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#G%C3%BCnther%20Jauch",
-        "pubdate": "Sat, 06 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Val di Fiemme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Val%20di%20Fiemme",
-        "pubdate": "Sat, 06 Jan 2024 13:00:00 +0100"
+        "title": "Tennis Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tennis%20Live",
+        "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Dreikönigstag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dreik%C3%B6nigstag",
         "pubdate": "Sat, 06 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Günther Jauch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#G%C3%BCnther%20Jauch",
+        "pubdate": "Sat, 06 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stuttgart",
-        "pubdate": "Sat, 06 Jan 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ICE Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
         "pubdate": "Sat, 06 Jan 2024 15:00:00 +0100"
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Christian Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20Oliver",
-        "pubdate": "Fri, 05 Jan 2024 19:00:00 +0100"
+        "title": "Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Miami",
+        "pubdate": "Sat, 06 Jan 2024 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Windhager Insolvenzverfahren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Windhager%20Insolvenzverfahren",
-        "pubdate": "Fri, 05 Jan 2024 16:00:00 +0100"
+        "title": "Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stuttgart",
+        "pubdate": "Sat, 06 Jan 2024 02:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Günther Fielmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#G%C3%BCnther%20Fielmann",
-        "pubdate": "Fri, 05 Jan 2024 12:00:00 +0100"
+        "title": "Befana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Befana",
+        "pubdate": "Sat, 06 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "KAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KAC",
+        "pubdate": "Sat, 06 Jan 2024 16:00:00 +0100"
       }
     ]
   ]

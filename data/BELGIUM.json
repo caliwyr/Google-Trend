@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-01-2024 , 15:42:04",
+  "lastUpdate": "06-01-2024 , 15:51:32",
   "data": [
     [
       {
         "title": "Epiphanie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Epiphanie",
         "pubdate": "Sat, 06 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cross Gullegem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cross%20Gullegem",
+        "pubdate": "Sat, 06 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cyclocross Gullegem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyclocross%20Gullegem",
+        "pubdate": "Sat, 06 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -17,8 +31,15 @@
     ],
     [
       {
-        "title": "Drie koningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Drie%20koningen",
+        "title": "Inter – Hellas Vérone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20%E2%80%93%20Hellas%20V%C3%A9rone",
+        "pubdate": "Sat, 06 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Driekoningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Driekoningen",
         "pubdate": "Sat, 06 Jan 2024 07:00:00 +0100"
       }
     ],
@@ -38,6 +59,13 @@
     ],
     [
       {
+        "title": "Coupe de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20France",
+        "pubdate": "Sat, 06 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Les Inconnus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Inconnus",
         "pubdate": "Sat, 06 Jan 2024 01:00:00 +0100"
@@ -48,13 +76,6 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
         "pubdate": "Sat, 06 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Coupe de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20France",
-        "pubdate": "Sat, 06 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -76,6 +97,20 @@
         "title": "Mario Zagallo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mario%20Zagallo",
         "pubdate": "Sat, 06 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Burnley",
+        "pubdate": "Sat, 06 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Altea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Altea",
+        "pubdate": "Sat, 06 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Glynis Johns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Glynis%20Johns",
         "pubdate": "Fri, 05 Jan 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oscar Pistorius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oscar%20Pistorius",
-        "pubdate": "Fri, 05 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rafael%20Nadal",
-        "pubdate": "Fri, 05 Jan 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blauwe rotslijster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blauwe%20rotslijster",
-        "pubdate": "Fri, 05 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Deux plongeurs disparus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deux%20plongeurs%20disparus",
-        "pubdate": "Fri, 05 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Driekoningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Driekoningen",
-        "pubdate": "Fri, 05 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
