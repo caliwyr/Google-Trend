@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2024 , 08:50:20",
+  "lastUpdate": "07-01-2024 , 08:59:31",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Nice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nice",
         "pubdate": "Sun, 07 Jan 2024 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rockets  Bucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rockets%20%20Bucks",
+        "pubdate": "Sun, 07 Jan 2024 11:00:00 +0300"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Bolu deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bolu%20deprem",
-        "pubdate": "Sat, 06 Jan 2024 02:00:00 +0300"
+        "title": "Cansu Canan Özgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cansu%20Canan%20%C3%96zgen",
+        "pubdate": "Sat, 06 Jan 2024 07:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Cansu Canan Özgen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cansu%20Canan%20%C3%96zgen",
-        "pubdate": "Sat, 06 Jan 2024 07:00:00 +0300"
+        "title": "Bolu deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bolu%20deprem",
+        "pubdate": "Sat, 06 Jan 2024 02:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tottenham",
         "pubdate": "Sat, 06 Jan 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Devlet Bahçeli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli",
-        "pubdate": "Sat, 06 Jan 2024 19:00:00 +0300"
       }
     ]
   ]
