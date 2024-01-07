@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-01-2024 , 16:49:35",
+  "lastUpdate": "07-01-2024 , 16:58:48",
   "data": [
     [
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
         "pubdate": "Sun, 07 Jan 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20%20Liverpool",
+        "pubdate": "Sun, 07 Jan 2024 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ironman pucon 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ironman%20pucon%202024",
+        "pubdate": "Sun, 07 Jan 2024 13:00:00 -0300"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FA%20Cup",
+        "pubdate": "Sat, 06 Jan 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20del%20Rey",
         "pubdate": "Sat, 06 Jan 2024 00:00:00 -0300"
@@ -38,9 +59,9 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FA%20Cup",
-        "pubdate": "Sat, 06 Jan 2024 19:00:00 -0300"
+        "title": "Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
+        "pubdate": "Sat, 06 Jan 2024 17:00:00 -0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle",
         "pubdate": "Sat, 06 Jan 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo Ríos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marcelo%20R%C3%ADos",
-        "pubdate": "Sat, 06 Jan 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Christian Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Christian%20Oliver",
-        "pubdate": "Fri, 05 Jan 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sheffield%20United",
-        "pubdate": "Fri, 05 Jan 2024 16:00:00 -0300"
       }
     ]
   ]
