@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "08-01-2024 , 13:01:14",
+  "lastUpdate": "08-01-2024 , 13:23:46",
   "data": [
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maps",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "AMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AMS",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Teams",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -17,37 +31,16 @@
     ],
     [
       {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LinkedIn",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Post",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Post",
         "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Valon Berisha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Valon%20Berisha",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Deutsche Bahn streiks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutsche%20Bahn%20streiks",
-        "pubdate": "Mon, 08 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NFL-Playoffs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL-Playoffs",
-        "pubdate": "Mon, 08 Jan 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DHL",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -59,9 +52,37 @@
     ],
     [
       {
+        "title": "Long COVID news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Long%20COVID%20news",
+        "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DHL",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NFL Playoffs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL%20Playoffs",
+        "pubdate": "Mon, 08 Jan 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "WIFI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WIFI",
         "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparkasse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sparkasse",
+        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "Kylie Jenner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kylie%20Jenner",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Microsoft 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Microsoft%20365",
         "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
@@ -87,16 +101,9 @@
     ],
     [
       {
-        "title": "Lily Gladstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lily%20Gladstone",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
-        "pubdate": "Mon, 08 Jan 2024 00:00:00 +0100"
+        "title": "Wko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wko",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Let's Dance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Let's%20Dance",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "James Morrison",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#James%20Morrison",
         "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Valentina Höll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Valentina%20H%C3%B6ll",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
+        "pubdate": "Mon, 08 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "ATX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ATX",
-        "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
+        "title": "LASK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
       }
     ]
   ]
