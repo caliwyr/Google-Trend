@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-01-2024 , 11:54:09",
+  "lastUpdate": "08-01-2024 , 12:19:08",
   "data": [
     [
       {
         "title": "Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
         "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LinkedIn",
+        "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "GM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GM",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Slides",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
@@ -66,22 +80,8 @@
     ],
     [
       {
-        "title": "Revel  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Revel%20%20PSG",
-        "pubdate": "Mon, 08 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AI",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mbappe",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
       }
     ],
@@ -97,6 +97,27 @@
         "title": "ABC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Economic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
+        "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snake",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Min",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Min",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Barbastro  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barbastro%20%20Barcelona",
         "pubdate": "Sun, 07 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oman",
-        "pubdate": "Sun, 07 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City  Huddersfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Huddersfield",
-        "pubdate": "Sun, 07 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Halle Bailey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Halle%20Bailey",
-        "pubdate": "Sun, 07 Jan 2024 15:00:00 +0100"
       }
     ]
   ]
