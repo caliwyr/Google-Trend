@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-01-2024 , 17:53:11",
+  "lastUpdate": "08-01-2024 , 18:11:27",
   "data": [
-    [
-      {
-        "title": "Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maps",
-        "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Gmail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gmail",
         "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ChatGPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ChatGPT",
+        "pubdate": "Mon, 08 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Raiffeisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raiffeisen",
-        "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
+        "title": "Swisscom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swisscom",
+        "pubdate": "Mon, 08 Jan 2024 18:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Rechner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rechner",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 +0100"
+        "title": "SMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
+        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "SMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
+        "title": "Rechner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rechner",
+        "pubdate": "Mon, 08 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Google Map",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Google%20Map",
+        "pubdate": "Mon, 08 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cindy Morgan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cindy%20Morgan",
         "pubdate": "Mon, 08 Jan 2024 01:00:00 +0100"
@@ -87,23 +94,16 @@
     ],
     [
       {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Teams",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
         "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Assura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Assura",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-        "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "AXA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AXA",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Credit Suisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Credit%20Suisse",
         "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "WEF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ]
   ]
