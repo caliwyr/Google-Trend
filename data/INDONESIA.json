@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-01-2024 , 00:47:40",
+  "lastUpdate": "08-01-2024 , 01:45:16",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona",
         "pubdate": "Mon, 08 Jan 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Revel vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Revel%20vs%20PSG",
-        "pubdate": "Mon, 08 Jan 2024 04:00:00 +0700"
       }
     ],
     [
@@ -24,16 +17,23 @@
     ],
     [
       {
-        "title": "Roma vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Roma%20vs%20Atalanta",
-        "pubdate": "Mon, 08 Jan 2024 03:00:00 +0700"
+        "title": "Revel vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Revel%20vs%20PSG",
+        "pubdate": "Mon, 08 Jan 2024 04:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Villarreal",
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AC%20Milan",
         "pubdate": "Mon, 08 Jan 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Roma vs Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Roma%20vs%20Atalanta",
+        "pubdate": "Mon, 08 Jan 2024 03:00:00 +0700"
       }
     ],
     [
@@ -45,16 +45,9 @@
     ],
     [
       {
-        "title": "Danilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Danilla",
-        "pubdate": "Mon, 08 Jan 2024 05:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea vs Preston North End",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea%20vs%20Preston%20North%20End",
-        "pubdate": "Sun, 07 Jan 2024 00:00:00 +0700"
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Villarreal",
+        "pubdate": "Mon, 08 Jan 2024 02:00:00 +0700"
       }
     ],
     [
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Empoli vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Empoli%20vs%20Milan",
-        "pubdate": "Sun, 07 Jan 2024 18:00:00 +0700"
+        "title": "Chelsea vs Preston North End",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea%20vs%20Preston%20North%20End",
+        "pubdate": "Sun, 07 Jan 2024 00:00:00 +0700"
       }
     ],
     [
@@ -94,8 +87,8 @@
     ],
     [
       {
-        "title": "Kode Redeem Mobile Legends",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kode%20Redeem%20Mobile%20Legends",
+        "title": "Kode redeem Mobile Legends",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kode%20redeem%20Mobile%20Legends",
         "pubdate": "Sun, 07 Jan 2024 01:00:00 +0700"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Tom Lembong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tom%20Lembong",
-        "pubdate": "Sun, 07 Jan 2024 00:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Maarten Paes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Maarten%20Paes",
         "pubdate": "Sun, 07 Jan 2024 22:00:00 +0700"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Tom Lembong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tom%20Lembong",
+        "pubdate": "Sun, 07 Jan 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Sriwijaya FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sriwijaya%20FC",
         "pubdate": "Sun, 07 Jan 2024 16:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Kecelakaan kereta api di Cicalengka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kecelakaan%20kereta%20api%20di%20Cicalengka",
+        "pubdate": "Sun, 07 Jan 2024 01:00:00 +0700"
       }
     ]
   ]
