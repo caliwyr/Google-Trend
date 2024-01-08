@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2024 , 20:08:02",
+  "lastUpdate": "08-01-2024 , 20:23:40",
   "data": [
     [
       {
@@ -10,22 +10,8 @@
     ],
     [
       {
-        "title": "Minimálbér 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Minim%C3%A1lb%C3%A9r%202024",
-        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Finta József",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Finta%20J%C3%B3zsef",
-        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "MVM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
         "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
       }
     ],
@@ -38,9 +24,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-        "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
+        "title": "MVM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
+        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
       }
     ],
     [
@@ -52,9 +38,9 @@
     ],
     [
       {
-        "title": "NAV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
+        "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
       }
     ],
     [
@@ -62,6 +48,20 @@
         "title": "Kylie Jenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kylie%20Jenner",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NAV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Retro Rádió",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Retro%20R%C3%A1di%C3%B3",
+        "pubdate": "Mon, 08 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Posta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Posta",
-        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lily Gladstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lily%20Gladstone",
         "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
@@ -101,8 +94,15 @@
     ],
     [
       {
-        "title": "Önéletrajz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%96n%C3%A9letrajz",
+        "title": "Szijjártó Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szijj%C3%A1rt%C3%B3%20P%C3%A9ter",
+        "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lázár János",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Lázár János",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mol",
         "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Meryl Streep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meryl%20Streep",
+        "pubdate": "Mon, 08 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BME",
         "pubdate": "Mon, 08 Jan 2024 16:00:00 +0100"
       }
     ]
