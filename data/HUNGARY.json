@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-01-2024 , 18:09:53",
+  "lastUpdate": "09-01-2024 , 18:24:40",
   "data": [
     [
       {
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Macron",
         "pubdate": "Tue, 09 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elhunyt Benedek Miklós",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elhunyt%20Benedek%20Mikl%C3%B3s",
+        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Benedek Miklós betegsége",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedek%20Mikl%C3%B3s%20betegs%C3%A9ge",
-        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
+        "title": "Gálvölgyi János",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1lv%C3%B6lgyi%20J%C3%A1nos",
+        "pubdate": "Tue, 09 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -31,41 +38,6 @@
     ],
     [
       {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Selena%20Gomez",
-        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gálvölgyi János",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1lv%C3%B6lgyi%20J%C3%A1nos",
-        "pubdate": "Tue, 09 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gödöllő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%B6d%C3%B6ll%C5%91",
-        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gillian Anderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gillian%20Anderson",
-        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Napoleon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoleon",
-        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rúzsa Magdi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%BAzsa%20Magdi",
         "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
@@ -73,9 +45,9 @@
     ],
     [
       {
-        "title": "Húsevő baktériumok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%BAsev%C5%91%20bakt%C3%A9riumok",
-        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Selena%20Gomez",
+        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -87,9 +59,44 @@
     ],
     [
       {
-        "title": "Fauda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fauda",
-        "pubdate": "Tue, 09 Jan 2024 13:00:00 +0100"
+        "title": "Gillian Anderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gillian%20Anderson",
+        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Húsevő baktériumok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%BAsev%C5%91%20bakt%C3%A9riumok",
+        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gödöllő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%B6d%C3%B6ll%C5%91",
+        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoleon",
+        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fishing on Orfű",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fishing%20on%20Orf%C5%B1",
+        "pubdate": "Tue, 09 Jan 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Asus ROG Phone 8",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Asus%20ROG%20Phone%208",
+        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Varga Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Zsolt",
-        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
+        "title": "Fauda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fauda",
+        "pubdate": "Tue, 09 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nvidia",
-        "pubdate": "Tue, 09 Jan 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nagy Bandó András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Band%C3%B3%20Andr%C3%A1s",
+        "title": "Varga Zsolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Zsolt",
         "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nvidia",
         "pubdate": "Tue, 09 Jan 2024 01:00:00 +0100"
       }
     ]
