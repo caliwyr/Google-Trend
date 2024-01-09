@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 01:44:44",
+  "lastUpdate": "09-01-2024 , 02:20:25",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teams",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 +0200"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Googlemaps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Googlemaps",
-        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0200"
+        "title": "Jo Koy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jo%20Koy",
+        "pubdate": "Mon, 08 Jan 2024 16:00:00 +0200"
       }
     ],
     [
@@ -118,13 +125,6 @@
         "title": "Sisu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sisu",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jo Koy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jo%20Koy",
-        "pubdate": "Mon, 08 Jan 2024 16:00:00 +0200"
       }
     ],
     [
