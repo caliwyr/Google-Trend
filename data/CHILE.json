@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "09-01-2024 , 00:44:43",
+  "lastUpdate": "09-01-2024 , 01:44:43",
   "data": [
-    [
-      {
-        "title": "Banco de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20de%20Chile",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Franz Beckenbauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Franz%20Beckenbauer",
         "pubdate": "Mon, 08 Jan 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Banco de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20de%20Chile",
+        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Banco Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20Santander",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
+        "title": "Wigan Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wigan%20Manchester%20United",
+        "pubdate": "Mon, 08 Jan 2024 17:00:00 -0300"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Wigan Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wigan%20Manchester%20United",
-        "pubdate": "Mon, 08 Jan 2024 17:00:00 -0300"
+        "title": "Banco Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Banco%20Santander",
+        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Timoth%C3%A9e%20Chalamet",
-        "pubdate": "Mon, 08 Jan 2024 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "CGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
         "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Claro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claro",
         "pubdate": "Mon, 08 Jan 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Clave unica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clave%20unica",
+        "pubdate": "Mon, 08 Jan 2024 12:00:00 -0300"
       }
     ]
   ]
