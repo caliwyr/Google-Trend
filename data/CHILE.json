@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 02:58:20",
+  "lastUpdate": "09-01-2024 , 03:18:31",
   "data": [
     [
       {
@@ -45,15 +45,22 @@
     ],
     [
       {
-        "title": "Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santander",
+        "title": "UF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UF",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Wigan Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wigan%20Manchester%20United",
         "pubdate": "Mon, 08 Jan 2024 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Wigan  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wigan%20%20Manchester%20United",
+        "title": "Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santander",
         "pubdate": "Mon, 08 Jan 2024 17:00:00 -0300"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "IPC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "WOM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#WOM",
         "pubdate": "Mon, 08 Jan 2024 19:00:00 -0300"
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Poder Judicial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Poder%20Judicial",
-        "pubdate": "Mon, 08 Jan 2024 13:00:00 -0300"
+        "title": "CGE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
+        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "CGE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CGE",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
+        "title": "Poder Judicial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Poder%20Judicial",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 -0300"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Dolar hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20hoy",
+        "title": "Valor dolar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valor%20dolar",
         "pubdate": "Mon, 08 Jan 2024 15:00:00 -0300"
       }
     ],
