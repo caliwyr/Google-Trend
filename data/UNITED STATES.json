@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "09-01-2024 , 19:05:26",
+  "lastUpdate": "09-01-2024 , 19:17:09",
   "data": [
     [
       {
-        "title": "NJ state of emergency",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NJ%20state%20of%20emergency",
+        "title": "N.J state of emergency",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#N.J%20state%20of%20emergency",
         "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Mike Vrabel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Vrabel",
+        "pubdate": "Tue, 09 Jan 2024 10:00:00 -0800"
       }
     ],
     [
@@ -13,6 +27,13 @@
         "title": "Gabriel Attal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gabriel%20Attal",
         "pubdate": "Tue, 09 Jan 2024 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Sinead O'Connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sinead%20O'Connor",
+        "pubdate": "Tue, 09 Jan 2024 09:00:00 -0800"
       }
     ],
     [
@@ -31,20 +52,6 @@
     ],
     [
       {
-        "title": "Sinead O'Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sinead%20O'Connor",
-        "pubdate": "Tue, 09 Jan 2024 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
-        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Fani Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fani%20Willis",
         "pubdate": "Tue, 09 Jan 2024 08:00:00 -0800"
@@ -55,13 +62,6 @@
         "title": "Atlanta weather",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlanta%20weather",
         "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Charlotte Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Charlotte%20Weather",
-        "pubdate": "Tue, 09 Jan 2024 08:00:00 -0800"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Weather Channel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Weather%20Channel",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Fort Worth hotel explosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fort%20Worth%20hotel%20explosion",
         "pubdate": "Mon, 08 Jan 2024 16:00:00 -0800"
@@ -94,16 +87,9 @@
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow%20Jones",
-        "pubdate": "Mon, 08 Jan 2024 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Washington Commanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Commanders",
-        "pubdate": "Mon, 08 Jan 2024 03:00:00 -0800"
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Epic",
+        "pubdate": "Mon, 08 Jan 2024 06:00:00 -0800"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "Ja Morant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ja%20Morant",
         "pubdate": "Mon, 08 Jan 2024 20:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Washington Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Commanders",
+        "pubdate": "Mon, 08 Jan 2024 03:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
         "pubdate": "Mon, 08 Jan 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow%20Jones",
+        "pubdate": "Mon, 08 Jan 2024 08:00:00 -0800"
       }
     ]
   ]
