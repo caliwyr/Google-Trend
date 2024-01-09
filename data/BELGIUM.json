@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 14:55:19",
+  "lastUpdate": "09-01-2024 , 15:12:40",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "NVIDIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NVIDIA",
-        "pubdate": "Tue, 09 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "CES 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#CES%202024",
         "pubdate": "Tue, 09 Jan 2024 10:00:00 +0100"
@@ -59,9 +52,30 @@
     ],
     [
       {
+        "title": "NVIDIA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NVIDIA",
+        "pubdate": "Tue, 09 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hochoetz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hochoetz",
+        "pubdate": "Tue, 09 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Robert Downey Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Robert%20Downey%20Jr",
         "pubdate": "Tue, 09 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mohamed Ali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mohamed%20Ali",
+        "pubdate": "Tue, 09 Jan 2024 14:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Verloren Maandag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verloren%20Maandag",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Bpost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bpost",
+        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Expeditie: Groenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Expeditie:%20Groenland",
         "pubdate": "Mon, 08 Jan 2024 20:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ing",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KBC",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luminus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luminus",
-        "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
+        "title": "Verloren Maandag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verloren%20Maandag",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 +0100"
       }
     ]
   ]
