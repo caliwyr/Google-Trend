@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "09-01-2024 , 10:58:57",
+  "lastUpdate": "09-01-2024 , 11:15:38",
   "data": [
     [
       {
         "title": "Bild.de",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bild.de",
+        "pubdate": "Tue, 09 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Le monde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20monde",
+        "pubdate": "Tue, 09 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dean Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dean%20Martin",
         "pubdate": "Tue, 09 Jan 2024 00:00:00 +0100"
       }
     ],
@@ -41,6 +55,13 @@
         "title": "Lauberhorn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lauberhorn",
         "pubdate": "Tue, 09 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Baloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baloise",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 +0100"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Novo Nordisk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novo%20Nordisk",
-        "pubdate": "Mon, 08 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "UBS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UBS",
         "pubdate": "Mon, 08 Jan 2024 12:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Benoit Jacquot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benoit%20Jacquot",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mbappe",
-        "pubdate": "Mon, 08 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ]
   ]
