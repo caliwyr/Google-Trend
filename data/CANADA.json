@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 08:57:23",
+  "lastUpdate": "09-01-2024 , 09:15:46",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "John Harbaugh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Harbaugh",
+        "pubdate": "Tue, 09 Jan 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Peel District School Board",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Peel%20District%20School%20Board",
         "pubdate": "Tue, 09 Jan 2024 01:00:00 -0500"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "John Harbaugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Harbaugh",
-        "pubdate": "Tue, 09 Jan 2024 01:00:00 -0500"
+        "title": "Quentin Grimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Quentin%20Grimes",
+        "pubdate": "Tue, 09 Jan 2024 03:00:00 -0500"
       }
     ],
     [
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "William Nylander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#William%20Nylander",
+        "pubdate": "Mon, 08 Jan 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maps",
         "pubdate": "Mon, 08 Jan 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Outlook",
+        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0500"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Classroom",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zoom",
-        "pubdate": "Mon, 08 Jan 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Dow Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dow%20Jones",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 -0500"
       }
     ]
   ]

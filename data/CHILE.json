@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 08:57:24",
+  "lastUpdate": "09-01-2024 , 09:15:46",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "UF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UF",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0300"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Outlook",
+        "pubdate": "Mon, 08 Jan 2024 12:00:00 -0300"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "IPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
+        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "WOM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#WOM",
         "pubdate": "Mon, 08 Jan 2024 19:00:00 -0300"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Enel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Enel",
-        "pubdate": "Mon, 08 Jan 2024 16:00:00 -0300"
+        "title": "Leda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leda",
+        "pubdate": "Mon, 08 Jan 2024 14:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Claro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claro",
         "pubdate": "Mon, 08 Jan 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Clave unica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clave%20unica",
-        "pubdate": "Mon, 08 Jan 2024 12:00:00 -0300"
       }
     ]
   ]
