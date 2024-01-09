@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2024 , 05:58:10",
+  "lastUpdate": "09-01-2024 , 06:22:28",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Česká spořitelna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20spo%C5%99itelna",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Timothée Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Timoth%C3%A9e%20Chalamet",
         "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc",
-        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
+        "title": "Minimální mzda 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Minim%C3%A1ln%C3%AD%20mzda%202024",
+        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Česká pošta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20po%C5%A1ta",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
+        "title": "Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc",
+        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "ČEZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CEZ",
-        "pubdate": "Mon, 08 Jan 2024 13:00:00 +0100"
+        "title": "Česká pošta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20po%C5%A1ta",
+        "pubdate": "Mon, 08 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Old Shatterhand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Old%20Shatterhand",
-        "pubdate": "Mon, 08 Jan 2024 21:00:00 +0100"
+        "title": "UNIQA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UNIQA",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zásilkovna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1silkovna",
+        "pubdate": "Mon, 08 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ceska sporitelna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ceska%20sporitelna",
-        "pubdate": "Mon, 08 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BTC",
         "pubdate": "Mon, 08 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Billie%20Eilish",
-        "pubdate": "Mon, 08 Jan 2024 23:00:00 +0100"
       }
     ]
   ]
