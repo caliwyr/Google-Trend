@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-01-2024 , 15:54:41",
+  "lastUpdate": "09-01-2024 , 16:14:53",
   "data": [
-    [
-      {
-        "title": "Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cat",
-        "pubdate": "Tue, 09 Jan 2024 00:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Jimmy Kimmel",
@@ -17,9 +10,30 @@
     ],
     [
       {
+        "title": "Atlanta weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlanta%20weather",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "NJ state of emergency",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NJ%20state%20of%20emergency",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Michigan vs Washington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20vs%20Washington",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 -0800"
+        "pubdate": "Mon, 08 Jan 2024 07:00:00 -0800"
       }
     ],
     [
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "Philadelphia Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philadelphia%20Eagles",
-        "pubdate": "Mon, 08 Jan 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow%20Jones",
-        "pubdate": "Mon, 08 Jan 2024 08:00:00 -0800"
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Epic",
+        "pubdate": "Mon, 08 Jan 2024 06:00:00 -0800"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Tiger Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tiger%20Woods",
+        "pubdate": "Mon, 08 Jan 2024 10:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Franz Beckenbauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Franz%20Beckenbauer",
         "pubdate": "Mon, 08 Jan 2024 10:00:00 -0800"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin",
-        "pubdate": "Mon, 08 Jan 2024 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tiger Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tiger%20Woods",
-        "pubdate": "Mon, 08 Jan 2024 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Lloyd Austin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lloyd%20Austin",
-        "pubdate": "Mon, 08 Jan 2024 22:00:00 -0800"
+        "title": "Social Security",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20Security",
+        "pubdate": "Mon, 08 Jan 2024 12:00:00 -0800"
       }
     ]
   ]

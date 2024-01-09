@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-01-2024 , 15:54:42",
+  "lastUpdate": "09-01-2024 , 16:14:54",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea",
+        "pubdate": "Tue, 09 Jan 2024 09:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Porto",
@@ -13,6 +20,13 @@
         "title": "Besiktas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besiktas",
         "pubdate": "Tue, 09 Jan 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ja Morant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ja%20Morant",
+        "pubdate": "Tue, 09 Jan 2024 10:00:00 -0500"
       }
     ],
     [
@@ -45,9 +59,16 @@
     ],
     [
       {
-        "title": "Isabelle Nogueira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isabelle%20Nogueira",
-        "pubdate": "Tue, 09 Jan 2024 08:00:00 -0500"
+        "title": "Alanyaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alanyaspor",
+        "pubdate": "Tue, 09 Jan 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vale",
+        "pubdate": "Tue, 09 Jan 2024 10:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Quina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina",
         "pubdate": "Mon, 08 Jan 2024 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "GOV.BR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GOV.BR",
-        "pubdate": "Mon, 08 Jan 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dolar hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dolar%20hoje",
-        "pubdate": "Mon, 08 Jan 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Detran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Detran",
-        "pubdate": "Mon, 08 Jan 2024 11:00:00 -0500"
       }
     ]
   ]
