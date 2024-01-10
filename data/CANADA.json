@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-01-2024 , 11:53:47",
+  "lastUpdate": "10-01-2024 , 12:17:40",
   "data": [
     [
       {
         "title": "Canada Ukraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Ukraine",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "School closures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#School%20closures",
+        "pubdate": "Wed, 10 Jan 2024 06:00:00 -0500"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Melania%20Trump",
+        "pubdate": "Wed, 10 Jan 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Mike Portnoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mike%20Portnoy",
         "pubdate": "Wed, 10 Jan 2024 03:00:00 -0500"
@@ -41,13 +55,6 @@
         "title": "Felix Auger-Aliassime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Felix%20Auger-Aliassime",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Melania%20Trump",
-        "pubdate": "Wed, 10 Jan 2024 05:00:00 -0500"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Bus cancellations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bus%20cancellations",
+        "pubdate": "Tue, 09 Jan 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sinead O'Connor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sinead%20O'Connor",
         "pubdate": "Tue, 09 Jan 2024 12:00:00 -0500"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "French Prime Minister Elisabeth Borne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#French%20Prime%20Minister%20Elisabeth%20Borne",
-        "pubdate": "Tue, 09 Jan 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Justin Trudeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Trudeau",
-        "pubdate": "Tue, 09 Jan 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MatPat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MatPat",
-        "pubdate": "Tue, 09 Jan 2024 18:00:00 -0500"
+        "title": "BC Hydro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BC%20Hydro",
+        "pubdate": "Tue, 09 Jan 2024 04:00:00 -0500"
       }
     ]
   ]

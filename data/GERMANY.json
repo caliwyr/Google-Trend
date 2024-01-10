@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2024 , 11:53:48",
+  "lastUpdate": "10-01-2024 , 12:17:42",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sarah Kern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sarah%20Kern",
         "pubdate": "Wed, 10 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biathlon heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon%20heute",
+        "pubdate": "Wed, 10 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Hannah Herzsprung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannah%20Herzsprung",
-        "pubdate": "Tue, 09 Jan 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ecuador",
         "pubdate": "Tue, 09 Jan 2024 23:00:00 +0100"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Hannah Herzsprung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannah%20Herzsprung",
+        "pubdate": "Tue, 09 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Insolvenzantrag Galeria Karstadt Kaufhof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Insolvenzantrag%20Galeria%20Karstadt%20Kaufhof",
-        "pubdate": "Tue, 09 Jan 2024 18:00:00 +0100"
+        "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "US-Verteidigungsminister Austin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Verteidigungsminister%20Austin",
+        "pubdate": "Tue, 09 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
-        "pubdate": "Mon, 08 Jan 2024 23:00:00 +0100"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
+        "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
-        "pubdate": "Mon, 08 Jan 2024 17:00:00 +0100"
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
+        "pubdate": "Mon, 08 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Franz Beckenbauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franz%20Beckenbauer",
         "pubdate": "Sun, 07 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bauernproteste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bauernproteste",
-        "pubdate": "Sun, 07 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Streik Bahn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Bahn",
-        "pubdate": "Sun, 07 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
