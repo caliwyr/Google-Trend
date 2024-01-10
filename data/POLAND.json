@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-01-2024 , 04:58:30",
+  "lastUpdate": "10-01-2024 , 05:17:03",
   "data": [
     [
       {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CNN",
+        "pubdate": "Wed, 10 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fiorentina",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 +0100"
       }
     ],
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Tadeusz Isakowicz-Zaleski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tadeusz%20Isakowicz-Zaleski",
+        "title": "Isakowicz-Zaleski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Isakowicz-Zaleski",
         "pubdate": "Tue, 09 Jan 2024 11:00:00 +0100"
       }
     ],
@@ -47,13 +54,6 @@
       {
         "title": "Cukier krzepi Kto jest autorem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cukier%20krzepi%20Kto%20jest%20autorem",
-        "pubdate": "Tue, 09 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Belweder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Belweder",
         "pubdate": "Tue, 09 Jan 2024 22:00:00 +0100"
       }
     ],
@@ -90,13 +90,6 @@
         "title": "Prime MMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prime%20MMA",
         "pubdate": "Tue, 09 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fiorentina – Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fiorentina%20%E2%80%93%20Bologna",
-        "pubdate": "Tue, 09 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Posiedzenie Sejmu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Posiedzenie%20Sejmu",
         "pubdate": "Tue, 09 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Celine Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Celine%20Dion",
+        "pubdate": "Tue, 09 Jan 2024 20:00:00 +0100"
       }
     ]
   ]
