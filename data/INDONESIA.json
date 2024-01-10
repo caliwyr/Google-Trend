@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2024 , 09:00:40",
+  "lastUpdate": "10-01-2024 , 09:19:36",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Porto",
-        "pubdate": "Wed, 10 Jan 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Vietnam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Vietnam",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 +0700"
@@ -34,6 +27,13 @@
         "title": "Stranger Things",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Stranger%20Things",
         "pubdate": "Wed, 10 Jan 2024 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Timo Werner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Timo%20Werner",
+        "pubdate": "Wed, 10 Jan 2024 15:00:00 +0700"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Indonesia vs Irak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Irak",
+        "pubdate": "Tue, 09 Jan 2024 14:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Surat 5 ayat 11",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Surat%205%20ayat%2011",
         "pubdate": "Tue, 09 Jan 2024 16:00:00 +0700"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Melly Goeslaw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Melly%20Goeslaw",
-        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0700"
+        "title": "Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Malaysia",
+        "pubdate": "Tue, 09 Jan 2024 06:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Malaysia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Malaysia",
-        "pubdate": "Tue, 09 Jan 2024 06:00:00 +0700"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Porto",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Melly Goeslaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Melly%20Goeslaw",
+        "pubdate": "Tue, 09 Jan 2024 09:00:00 +0700"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Manchester United FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United%20FC",
-        "pubdate": "Tue, 09 Jan 2024 07:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Formasi pendaftaran CPNS 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Formasi%20pendaftaran%20CPNS%202024",
         "pubdate": "Tue, 09 Jan 2024 10:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "FC Dallas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FC%20Dallas",
-        "pubdate": "Tue, 09 Jan 2024 00:00:00 +0700"
       }
     ]
   ]
