@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2024 , 03:52:38",
+  "lastUpdate": "10-01-2024 , 04:09:55",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Tue, 09 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CHL",
+        "pubdate": "Tue, 09 Jan 2024 21:00:00 +0200"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Poor Things",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Poor%20Things",
-        "pubdate": "Mon, 08 Jan 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Outlook",
         "pubdate": "Mon, 08 Jan 2024 13:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "LinkedIn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LinkedIn",
-        "pubdate": "Mon, 08 Jan 2024 14:00:00 +0200"
+        "title": "Emma Stone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emma%20Stone",
+        "pubdate": "Mon, 08 Jan 2024 06:00:00 +0200"
       }
     ]
   ]
