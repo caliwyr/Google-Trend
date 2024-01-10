@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2024 , 14:51:55",
+  "lastUpdate": "10-01-2024 , 15:06:33",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Grippewelle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grippewelle",
         "pubdate": "Wed, 10 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sarah Kern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sarah%20Kern",
-        "pubdate": "Wed, 10 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Timo Werner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Timo%20Werner",
-        "pubdate": "Wed, 10 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "James Kottak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#James%20Kottak",
         "pubdate": "Wed, 10 Jan 2024 13:00:00 +0100"
@@ -73,8 +59,15 @@
     ],
     [
       {
-        "title": "EISENSTADT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EISENSTADT",
+        "title": "Timo Werner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Timo%20Werner",
+        "pubdate": "Wed, 10 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eisenstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eisenstadt",
         "pubdate": "Wed, 10 Jan 2024 07:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Haus aus Glas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haus%20aus%20Glas",
         "pubdate": "Tue, 09 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jason Momoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jason%20Momoa",
+        "pubdate": "Tue, 09 Jan 2024 11:00:00 +0100"
       }
     ]
   ]
