@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-01-2024 , 21:46:28",
+  "lastUpdate": "10-01-2024 , 21:55:40",
   "data": [
-    [
-      {
-        "title": "Lazio  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lazio%20%20Roma",
-        "pubdate": "Wed, 10 Jan 2024 15:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Javier Milei",
@@ -20,6 +13,13 @@
         "title": "Roxana Carabajal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roxana%20Carabajal",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lazio",
+        "pubdate": "Wed, 10 Jan 2024 16:00:00 -0300"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Bailando 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bailando%202023",
+        "pubdate": "Wed, 10 Jan 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "James Kottak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#James%20Kottak",
         "pubdate": "Wed, 10 Jan 2024 00:00:00 -0300"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Nicole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nicole",
-        "pubdate": "Wed, 10 Jan 2024 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Echo serie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Echo%20serie",
         "pubdate": "Wed, 10 Jan 2024 14:00:00 -0300"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Javier Correa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Correa",
-        "pubdate": "Wed, 10 Jan 2024 02:00:00 -0300"
+        "title": "Nicole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nicole",
+        "pubdate": "Wed, 10 Jan 2024 13:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Cuneo Libarona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cuneo%20Libarona",
-        "pubdate": "Wed, 10 Jan 2024 00:00:00 -0300"
+        "title": "Javier Correa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Correa",
+        "pubdate": "Wed, 10 Jan 2024 02:00:00 -0300"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Tiago PZK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiago%20PZK",
         "pubdate": "Wed, 10 Jan 2024 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lakers  Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers%20%20Raptors",
-        "pubdate": "Wed, 10 Jan 2024 12:00:00 -0300"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Gabriela Lerner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gabriela%20Lerner",
-        "pubdate": "Tue, 09 Jan 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea",
         "pubdate": "Tue, 09 Jan 2024 17:00:00 -0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Ley ómnibus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ley%20%C3%B3mnibus",
-        "pubdate": "Tue, 09 Jan 2024 15:00:00 -0300"
+        "title": "Gabriela Lerner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gabriela%20Lerner",
+        "pubdate": "Tue, 09 Jan 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Adan Canto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Adan%20Canto",
+        "pubdate": "Tue, 09 Jan 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool  Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool%20%20Fulham",
+        "pubdate": "Tue, 09 Jan 2024 18:00:00 -0300"
       }
     ]
   ]
