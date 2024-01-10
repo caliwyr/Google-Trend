@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2024 , 10:16:35",
+  "lastUpdate": "10-01-2024 , 10:32:23",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
+        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
         "pubdate": "Tue, 09 Jan 2024 12:00:00 -0800"
@@ -55,13 +62,6 @@
         "title": "Panama City Beach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Panama%20City%20Beach",
         "pubdate": "Tue, 09 Jan 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
-        "pubdate": "Tue, 09 Jan 2024 07:00:00 -0800"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Bonnaroo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bonnaroo",
+        "pubdate": "Tue, 09 Jan 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Gabriel Attal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gabriel%20Attal",
         "pubdate": "Tue, 09 Jan 2024 08:00:00 -0800"
@@ -104,13 +111,6 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Haley",
         "pubdate": "Tue, 09 Jan 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "U of m Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#U%20of%20m%20Football",
-        "pubdate": "Tue, 09 Jan 2024 15:00:00 -0800"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Melania%20Trump",
-        "pubdate": "Tue, 09 Jan 2024 21:00:00 -0800"
+        "title": "Raptors vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raptors%20vs%20Lakers",
+        "pubdate": "Tue, 09 Jan 2024 22:00:00 -0800"
       }
     ]
   ]
