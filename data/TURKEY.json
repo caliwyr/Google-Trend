@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-01-2024 , 02:52:41",
+  "lastUpdate": "10-01-2024 , 03:08:35",
   "data": [
-    [
-      {
-        "title": "Togg sedan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Togg%20sedan",
-        "pubdate": "Wed, 10 Jan 2024 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Çorum deprem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20deprem",
         "pubdate": "Wed, 10 Jan 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Togg T10F",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Togg%20T10F",
+        "pubdate": "Wed, 10 Jan 2024 00:00:00 +0300"
       }
     ],
     [
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Rizespor  Beşiktaş",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor%20%20Be%C5%9Fikta%C5%9F",
+        "title": "Süper Lig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCper%20Lig",
         "pubdate": "Tue, 09 Jan 2024 20:00:00 +0300"
       }
     ],
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Fransa Başbakanı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fransa%20Ba%C5%9Fbakan%C4%B1",
+        "pubdate": "Tue, 09 Jan 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "10 Ocak okullar tatil mi 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#10%20Ocak%20okullar%20tatil%20mi%202024",
         "pubdate": "Tue, 09 Jan 2024 20:00:00 +0300"
@@ -76,13 +83,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United",
         "pubdate": "Tue, 09 Jan 2024 03:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fransa Başbakanı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fransa%20Ba%C5%9Fbakan%C4%B1",
-        "pubdate": "Tue, 09 Jan 2024 17:00:00 +0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "GRİP DÜŞMANI TATLI TARİFİ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#GR%C4%B0P%20D%C3%9C%C5%9EMANI%20TATLI%20TAR%C4%B0F%C4%B0",
-        "pubdate": "Tue, 09 Jan 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Evde Tek Başına",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Evde%20Tek%20Ba%C5%9F%C4%B1na",
         "pubdate": "Tue, 09 Jan 2024 22:00:00 +0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Şahsiyet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eahsiyet",
-        "pubdate": "Tue, 09 Jan 2024 17:00:00 +0300"
+        "title": "Fenerbahçe  Partizan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20%20Partizan",
+        "pubdate": "Tue, 09 Jan 2024 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sadio Mane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sadio%20Mane",
+        "pubdate": "Tue, 09 Jan 2024 20:00:00 +0300"
       }
     ]
   ]
