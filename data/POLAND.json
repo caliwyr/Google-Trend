@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2024 , 15:44:01",
+  "lastUpdate": "11-01-2024 , 15:53:28",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Fuks 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fuks%202",
-        "pubdate": "Thu, 11 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Forst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Forst",
         "pubdate": "Thu, 11 Jan 2024 10:00:00 +0100"
@@ -33,6 +26,13 @@
       {
         "title": "Nowa Zelandia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nowa%20Zelandia",
+        "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trybunał Konstytucyjny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trybuna%C5%82%20Konstytucyjny",
         "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
       }
     ],
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Mentzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mentzen",
-        "pubdate": "Thu, 11 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "POCO X6 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#POCO%20X6%20Pro",
         "pubdate": "Thu, 11 Jan 2024 13:00:00 +0100"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Sven-Goran Eriksson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sven-Goran%20Eriksson",
+        "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "BEKSIŃSKI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BEKSI%C5%83SKI",
         "pubdate": "Thu, 11 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wróciły barierki pod Sejmem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wr%C3%B3ci%C5%82y%20barierki%20pod%20Sejmem",
+        "pubdate": "Thu, 11 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -94,23 +101,23 @@
     ],
     [
       {
-        "title": "Joanna Krupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
-        "pubdate": "Thu, 11 Jan 2024 10:00:00 +0100"
+        "title": "Wody polskie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wody%20polskie",
+        "pubdate": "Thu, 11 Jan 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sven-Goran Eriksson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sven-Goran%20Eriksson",
+        "title": "Lombard. Życie pod zastaw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lombard.%20%C5%BBycie%20pod%20zastaw",
         "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Wody polskie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wody%20polskie",
-        "pubdate": "Thu, 11 Jan 2024 14:00:00 +0100"
+        "title": "Joanna Krupa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Krupa",
+        "pubdate": "Thu, 11 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Lombard. Życie pod zastaw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lombard.%20%C5%BBycie%20pod%20zastaw",
-        "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Glapiński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Glapi%C5%84ski",
-        "pubdate": "Thu, 11 Jan 2024 15:00:00 +0100"
+        "title": "Mariusz Kamiński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mariusz%20Kami%C5%84ski",
+        "pubdate": "Wed, 10 Jan 2024 10:00:00 +0100"
       }
     ]
   ]
