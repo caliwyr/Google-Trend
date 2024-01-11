@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2024 , 03:47:05",
+  "lastUpdate": "11-01-2024 , 03:56:40",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "ETF Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ETF%20Bitcoin",
-        "pubdate": "Wed, 10 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ana Baniciu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Baniciu",
         "pubdate": "Wed, 10 Jan 2024 14:00:00 +0200"
@@ -90,6 +83,13 @@
         "title": "Cabral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cabral",
         "pubdate": "Wed, 10 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SEC",
+        "pubdate": "Wed, 10 Jan 2024 21:00:00 +0200"
       }
     ],
     [
