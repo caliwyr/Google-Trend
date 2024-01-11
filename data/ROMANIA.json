@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "11-01-2024 , 17:44:36",
+  "lastUpdate": "11-01-2024 , 17:53:45",
   "data": [
     [
       {
         "title": "Robert Turcescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Robert%20Turcescu",
         "pubdate": "Thu, 11 Jan 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mary Donaldson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mary%20Donaldson",
-        "pubdate": "Thu, 11 Jan 2024 07:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Mary Donaldson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mary%20Donaldson",
+        "pubdate": "Thu, 11 Jan 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cutremur România",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cutremur%20Rom%C3%A2nia",
         "pubdate": "Thu, 11 Jan 2024 15:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Alina Sorescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alina%20Sorescu",
-        "pubdate": "Thu, 11 Jan 2024 17:00:00 +0200"
+        "title": "David Popovici",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#David%20Popovici",
+        "pubdate": "Thu, 11 Jan 2024 18:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Australian Open 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Australian%20Open%202024",
         "pubdate": "Thu, 11 Jan 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Popovici",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#David%20Popovici",
-        "pubdate": "Thu, 11 Jan 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Protest bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Protest%20bucuresti",
         "pubdate": "Wed, 10 Jan 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ETF Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ETF%20Bitcoin",
+        "pubdate": "Wed, 10 Jan 2024 21:00:00 +0200"
       }
     ]
   ]
