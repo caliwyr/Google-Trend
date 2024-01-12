@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-01-2024 , 20:48:02",
+  "lastUpdate": "12-01-2024 , 20:57:24",
   "data": [
     [
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
+        "pubdate": "Fri, 12 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Beerdigung Franz Beckenbauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beerdigung%20Franz%20Beckenbauer",
-        "pubdate": "Fri, 12 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Frida Kahlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frida%20Kahlo",
         "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Glatteis Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Glatteis%20Berlin",
-        "pubdate": "Fri, 12 Jan 2024 02:00:00 +0100"
+        "title": "Dirk Borchardt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dirk%20Borchardt",
+        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -52,8 +52,15 @@
     ],
     [
       {
-        "title": "AfD verbot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20verbot",
+        "title": "Glatteis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Glatteis",
+        "pubdate": "Thu, 11 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AfD-Verbot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Verbot",
         "pubdate": "Thu, 11 Jan 2024 14:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
         "pubdate": "Mon, 08 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Markus Lanz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20Lanz",
-        "pubdate": "Mon, 08 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
