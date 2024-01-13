@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2024 , 14:42:50",
+  "lastUpdate": "13-01-2024 , 14:52:07",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
+        "pubdate": "Sat, 13 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brad%20Pitt",
+        "pubdate": "Sat, 13 Jan 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maia Sandu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Maia%20Sandu",
         "pubdate": "Sat, 13 Jan 2024 02:00:00 +0200"
@@ -31,8 +45,22 @@
     ],
     [
       {
+        "title": "Cutremur Timisoara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cutremur%20Timisoara",
+        "pubdate": "Sat, 13 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ion Țiriac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ion%20%C8%9Airiac",
+        "pubdate": "Sat, 13 Jan 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Flori de mină",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori%20de%20min%C4%83",
         "pubdate": "Sat, 13 Jan 2024 02:00:00 +0200"
       }
     ],
@@ -80,13 +108,6 @@
     ],
     [
       {
-        "title": "Flori de mina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori%20de%20mina",
-        "pubdate": "Fri, 12 Jan 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Balaton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Balaton",
         "pubdate": "Fri, 12 Jan 2024 08:00:00 +0200"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Barcelona Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20Osasuna",
-        "pubdate": "Fri, 12 Jan 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Camera 609",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Camera%20609",
         "pubdate": "Fri, 12 Jan 2024 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Loto 6/49 11 ianuarie 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loto%206/49%2011%20ianuarie%202024",
-        "pubdate": "Fri, 12 Jan 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lavinia Goste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lavinia%20Goste",
-        "pubdate": "Fri, 12 Jan 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Accident floresti Prahova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20floresti%20Prahova",
-        "pubdate": "Fri, 12 Jan 2024 17:00:00 +0200"
+        "title": "Barcelona Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20Osasuna",
+        "pubdate": "Fri, 12 Jan 2024 00:00:00 +0200"
       }
     ]
   ]
