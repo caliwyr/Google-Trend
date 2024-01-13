@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2024 , 03:45:18",
+  "lastUpdate": "13-01-2024 , 03:54:34",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Donald Tusk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Tusk",
-        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
+        "pubdate": "Fri, 12 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Morze Czerwone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morze%20Czerwone",
         "pubdate": "Fri, 12 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Szymon Hołownia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Ho%C5%82ownia",
+        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,20 @@
     ],
     [
       {
+        "title": "Hołownia Wykształcenie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ho%C5%82ownia%20Wykszta%C5%82cenie",
+        "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andrzej Zaucha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Zaucha",
+        "pubdate": "Fri, 12 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Anna maria żukowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20maria%20%C5%BCukowska",
         "pubdate": "Fri, 12 Jan 2024 09:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Adrianna Sułek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Adrianna%20Su%C5%82ek",
         "pubdate": "Fri, 12 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maciej Stuhr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Stuhr",
-        "pubdate": "Fri, 12 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Laurence Fishburne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Laurence%20Fishburne",
-        "pubdate": "Fri, 12 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bez urazy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bez%20urazy",
-        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
