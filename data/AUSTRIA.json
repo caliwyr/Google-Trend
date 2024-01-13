@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2024 , 06:30:44",
+  "lastUpdate": "13-01-2024 , 06:40:08",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Sepp Maier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sepp%20Maier",
+        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Felix Neureuther",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felix%20Neureuther",
         "pubdate": "Fri, 12 Jan 2024 00:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Sunken City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sunken%20City",
-        "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ICE Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
         "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "KAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KAC",
-        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
+        "title": "Sunken City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sunken%20City",
+        "pubdate": "Fri, 12 Jan 2024 14:00:00 +0100"
       }
     ]
   ]

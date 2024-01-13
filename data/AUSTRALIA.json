@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "13-01-2024 , 06:30:44",
+  "lastUpdate": "13-01-2024 , 06:40:07",
   "data": [
     [
       {
         "title": "Lynja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lynja",
         "pubdate": "Sat, 13 Jan 2024 02:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Annie Nightingale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Annie%20Nightingale",
-        "pubdate": "Sat, 13 Jan 2024 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Socceroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Socceroos",
-        "pubdate": "Sat, 13 Jan 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Jacinda Ardern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacinda%20Ardern",
-        "pubdate": "Sat, 13 Jan 2024 10:00:00 +1100"
       }
     ],
     [
@@ -45,6 +24,34 @@
     ],
     [
       {
+        "title": "Annie Nightingale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Annie%20Nightingale",
+        "pubdate": "Sat, 13 Jan 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Socceroos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Socceroos",
+        "pubdate": "Sat, 13 Jan 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Lift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lift",
+        "pubdate": "Sat, 13 Jan 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacinda%20Ardern",
+        "pubdate": "Sat, 13 Jan 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Jerod Mayo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jerod%20Mayo",
         "pubdate": "Sat, 13 Jan 2024 10:00:00 +1100"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Lift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lift",
+        "title": "Taiwan election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taiwan%20election",
         "pubdate": "Sat, 13 Jan 2024 15:00:00 +1100"
       }
     ],
@@ -68,13 +75,6 @@
       {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
-        "pubdate": "Sat, 13 Jan 2024 15:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taiwan%20election",
         "pubdate": "Sat, 13 Jan 2024 15:00:00 +1100"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Boy Swallows Universe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boy%20Swallows%20Universe",
         "pubdate": "Fri, 12 Jan 2024 21:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Choral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Choral",
+        "pubdate": "Fri, 12 Jan 2024 07:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
         "pubdate": "Fri, 12 Jan 2024 13:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tour Down Under",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tour%20Down%20Under",
-        "pubdate": "Fri, 12 Jan 2024 12:00:00 +1100"
       }
     ]
   ]
