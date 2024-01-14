@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-01-2024 , 04:48:59",
+  "lastUpdate": "14-01-2024 , 04:58:24",
   "data": [
+    [
+      {
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Australian%20Open",
+        "pubdate": "Sun, 14 Jan 2024 01:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Marcos Rojo",
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Martin Paz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Martin%20Paz",
+        "title": "Los Manseros Santiagueños",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Manseros%20Santiague%C3%B1os",
         "pubdate": "Sat, 13 Jan 2024 03:00:00 -0300"
       }
     ],
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Los Manseros Santiagueños",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Manseros%20Santiague%C3%B1os",
-        "pubdate": "Sat, 13 Jan 2024 03:00:00 -0300"
+        "title": "Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Union",
+        "pubdate": "Sat, 13 Jan 2024 22:00:00 -0300"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Union",
-        "pubdate": "Sat, 13 Jan 2024 22:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Flybondi cancela vuelos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flybondi%20cancela%20vuelos",
         "pubdate": "Sat, 13 Jan 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Star",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Star",
-        "pubdate": "Sat, 13 Jan 2024 22:00:00 -0300"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Haaland",
-        "pubdate": "Sat, 13 Jan 2024 19:00:00 -0300"
+        "title": "Futbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol",
+        "pubdate": "Sat, 13 Jan 2024 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Top Gun 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Top%20Gun%203",
-        "pubdate": "Sat, 13 Jan 2024 01:00:00 -0300"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UFC",
+        "pubdate": "Sat, 13 Jan 2024 23:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Haaland",
+        "pubdate": "Sat, 13 Jan 2024 19:00:00 -0300"
       }
     ]
   ]
