@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2024 , 22:56:39",
+  "lastUpdate": "14-01-2024 , 23:14:56",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Real Madrid  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%20Barcelona",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
         "pubdate": "Sun, 14 Jan 2024 19:00:00 +0100"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Lenie eliminee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lenie%20eliminee",
         "pubdate": "Sun, 14 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joran Wyseure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joran%20Wyseure",
+        "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -45,22 +52,8 @@
     ],
     [
       {
-        "title": "Joran Wyseure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joran%20Wyseure",
-        "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Djokovic",
-        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Australian%20Open",
         "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
       }
     ],
@@ -73,44 +66,16 @@
     ],
     [
       {
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Australian%20Open",
+        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Emiel Verstrynge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emiel%20Verstrynge",
         "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NFL",
-        "pubdate": "Sun, 14 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ac Milan – Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ac%20Milan%20%E2%80%93%20Roma",
-        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nathalie Marquay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nathalie%20Marquay",
-        "pubdate": "Sun, 14 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michel Drucker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Drucker",
-        "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anais Van Ertvelde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anais%20Van%20Ertvelde",
-        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -122,16 +87,51 @@
     ],
     [
       {
-        "title": "Bart De Wever",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20De%20Wever",
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NFL",
+        "pubdate": "Sun, 14 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thibau Nys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibau%20Nys",
+        "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nathalie Marquay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nathalie%20Marquay",
+        "pubdate": "Sun, 14 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NK veldrijden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NK%20veldrijden",
+        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Michel Drucker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michel%20Drucker",
         "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Laetitia Casta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laetitia%20Casta",
+        "title": "AC Milan – Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan%20%E2%80%93%20Roma",
         "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anais Van Ertvelde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anais%20Van%20Ertvelde",
+        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
       }
     ],
     [
