@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-01-2024 , 08:46:21",
+  "lastUpdate": "14-01-2024 , 08:55:34",
   "data": [
+    [
+      {
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Australian%20Open",
+        "pubdate": "Sun, 14 Jan 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Premier League",
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
-        "pubdate": "Sat, 13 Jan 2024 21:00:00 +0100"
+        "title": "True Detective Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#True%20Detective%20Season%204",
+        "pubdate": "Sat, 13 Jan 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lynja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lynja",
-        "pubdate": "Sat, 13 Jan 2024 01:00:00 +0100"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
+        "pubdate": "Sat, 13 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "True Detective",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#True%20Detective",
-        "pubdate": "Sat, 13 Jan 2024 15:00:00 +0100"
+        "title": "Lynja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lynja",
+        "pubdate": "Sat, 13 Jan 2024 01:00:00 +0100"
       }
     ],
     [
@@ -87,15 +94,15 @@
     ],
     [
       {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taiwan",
+        "title": "Frederik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Frederik",
         "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Frederik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Frederik",
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taiwan",
         "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dortmund",
         "pubdate": "Fri, 12 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern  Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern%20%20Hoffenheim",
-        "pubdate": "Fri, 12 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
