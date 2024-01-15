@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-01-2024 , 18:57:57",
+  "lastUpdate": "15-01-2024 , 19:13:00",
   "data": [
+    [
+      {
+        "title": "A-50",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#A-50",
+        "pubdate": "Mon, 15 Jan 2024 12:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Citroen",
@@ -27,6 +34,13 @@
         "title": "Luděk Munzar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lud%C4%9Bk%20Munzar",
         "pubdate": "Sun, 14 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ČT sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Collateral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Collateral",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Šlachta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0lachta",
-        "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
+        "title": "Collateral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Collateral",
+        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Mg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mg",
-        "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Šapovalivová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0apovalivov%C3%A1",
         "pubdate": "Sun, 14 Jan 2024 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Dansko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dansko",
         "pubdate": "Sun, 14 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Štybar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0tybar",
-        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
       }
     ]
   ]
