@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-01-2024 , 00:57:31",
+  "lastUpdate": "15-01-2024 , 02:00:29",
   "data": [
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
-        "pubdate": "Sun, 14 Jan 2024 08:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
         "pubdate": "Sun, 14 Jan 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
+        "pubdate": "Sun, 14 Jan 2024 08:00:00 -0500"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novak%20Djokovic",
+        "pubdate": "Sun, 14 Jan 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gremio Copinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gremio%20Copinha",
+        "pubdate": "Sun, 14 Jan 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Werder%20Bremen",
         "pubdate": "Sun, 14 Jan 2024 09:00:00 -0500"
@@ -66,20 +80,6 @@
     ],
     [
       {
-        "title": "Paris Saint-Germain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paris%20Saint-Germain",
-        "pubdate": "Sun, 14 Jan 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
-        "pubdate": "Sun, 14 Jan 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Marlene Engelhorn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marlene%20Engelhorn",
         "pubdate": "Sun, 14 Jan 2024 00:00:00 -0500"
@@ -87,9 +87,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
-        "pubdate": "Sun, 14 Jan 2024 07:00:00 -0500"
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Cowboys",
+        "pubdate": "Sun, 14 Jan 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Botafogo-PB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
+        "pubdate": "Sun, 14 Jan 2024 16:00:00 -0500"
       }
     ],
     [
@@ -108,8 +115,15 @@
     ],
     [
       {
-        "title": "Botafogo-PB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
+        "title": "Racismo ambiental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racismo%20ambiental",
+        "pubdate": "Sun, 14 Jan 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Paris Saint-Germain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paris%20Saint-Germain",
         "pubdate": "Sun, 14 Jan 2024 16:00:00 -0500"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Thiago Wild",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Thiago%20Wild",
         "pubdate": "Sun, 14 Jan 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto%20FC",
-        "pubdate": "Sun, 14 Jan 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Racismo ambiental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racismo%20ambiental",
-        "pubdate": "Sun, 14 Jan 2024 16:00:00 -0500"
       }
     ]
   ]
