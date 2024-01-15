@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-01-2024 , 11:57:20",
+  "lastUpdate": "15-01-2024 , 12:30:39",
   "data": [
+    [
+      {
+        "title": "Mary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mary",
+        "pubdate": "Mon, 15 Jan 2024 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "NT$",
@@ -34,13 +41,6 @@
         "title": "Australian Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Australian%20Open",
         "pubdate": "Sun, 14 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Australian news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Australian%20news",
-        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Sky News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20News",
+        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Queen Elizabeth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Queen%20Elizabeth",
         "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
@@ -125,13 +132,6 @@
         "title": "Fox news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20news",
         "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kim Jong-un",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kim%20Jong-un",
-        "pubdate": "Sun, 14 Jan 2024 17:00:00 +0100"
       }
     ],
     [
