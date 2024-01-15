@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-01-2024 , 06:57:18",
+  "lastUpdate": "15-01-2024 , 07:15:05",
   "data": [
+    [
+      {
+        "title": "Iowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iowa",
+        "pubdate": "Mon, 15 Jan 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Man United mot Tottenham",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Iowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iowa",
-        "pubdate": "Sun, 14 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cristian Brennhovd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cristian%20Brennhovd",
         "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "TV2.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TV2.no",
-        "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Australian Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Australian%20Open",
-        "pubdate": "Sun, 14 Jan 2024 10:00:00 +0100"
+        "pubdate": "Sun, 14 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,20 @@
     ],
     [
       {
+        "title": "Nikki Haley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nikki%20Haley",
+        "pubdate": "Sun, 14 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Australian Open 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Australian%20Open%202024",
+        "pubdate": "Sun, 14 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Johannes Dale-Skjevdal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Johannes%20Dale-Skjevdal",
         "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
@@ -87,8 +94,22 @@
     ],
     [
       {
+        "title": "Kronprins Haakon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kronprins%20Haakon",
+        "pubdate": "Sun, 14 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "John Arne Riise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#John%20Arne%20Riise",
+        "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emilie Nereng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Nereng",
         "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Shetland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shetland",
         "pubdate": "Sun, 14 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Biden",
-        "pubdate": "Sun, 14 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverige",
-        "pubdate": "Sun, 14 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mari Boine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mari%20Boine",
-        "pubdate": "Sat, 13 Jan 2024 21:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2024 , 06:57:20",
+  "lastUpdate": "15-01-2024 , 07:15:07",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "WEF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF",
+        "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
         "pubdate": "Sun, 14 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Australian Open 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Australian%20Open%202024",
+        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Australian Open 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Australian%20Open%202024",
-        "pubdate": "Sun, 14 Jan 2024 12:00:00 +0100"
+        "title": "Andrea Berg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Berg",
+        "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Manunited gegen Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manunited%20gegen%20Tottenham",
-        "pubdate": "Sun, 14 Jan 2024 18:00:00 +0100"
+        "title": "Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
+        "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Michelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
-        "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "pubdate": "Sun, 14 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
-        "pubdate": "Sun, 14 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "La reunion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#La%20reunion",
         "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Beatrice Egli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beatrice%20Egli",
-        "pubdate": "Sun, 14 Jan 2024 02:00:00 +0100"
       }
     ]
   ]

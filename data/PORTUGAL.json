@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2024 , 06:57:19",
+  "lastUpdate": "15-01-2024 , 07:15:06",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sporting Clube de Braga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Braga",
         "pubdate": "Mon, 15 Jan 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Velocidade Furiosa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Velocidade%20Furiosa",
+        "pubdate": "Mon, 15 Jan 2024 02:00:00 +0000"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Gil Vicente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
+        "pubdate": "Sun, 14 Jan 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
         "pubdate": "Sun, 14 Jan 2024 15:00:00 +0000"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Gil Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente",
-        "pubdate": "Sun, 14 Jan 2024 18:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Maritimo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
         "pubdate": "Sun, 14 Jan 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NFL",
-        "pubdate": "Sun, 14 Jan 2024 11:00:00 +0000"
       }
     ]
   ]
