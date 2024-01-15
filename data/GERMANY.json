@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-01-2024 , 10:53:10",
+  "lastUpdate": "15-01-2024 , 11:07:46",
   "data": [
-    [
-      {
-        "title": "Bauernproteste Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bauernproteste%20Berlin",
-        "pubdate": "Mon, 15 Jan 2024 08:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Remigration",
@@ -17,23 +10,9 @@
     ],
     [
       {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dallas%20Cowboys",
-        "pubdate": "Mon, 15 Jan 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Handball-EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-EM",
+        "title": "Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
         "pubdate": "Sun, 14 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dänemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%A4nemark",
-        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -45,9 +24,16 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sun, 14 Jan 2024 19:00:00 +0100"
+        "title": "Dänemark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%A4nemark",
+        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Island Vulkanausbruch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Island%20Vulkanausbruch",
+        "pubdate": "Sun, 14 Jan 2024 14:00:00 +0100"
       }
     ],
     [
@@ -59,9 +45,9 @@
     ],
     [
       {
-        "title": "Island Vulkanausbruch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Island%20Vulkanausbruch",
-        "pubdate": "Sun, 14 Jan 2024 14:00:00 +0100"
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Sun, 14 Jan 2024 18:00:00 +0100"
       }
     ],
     [
@@ -76,6 +62,13 @@
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bauernproteste Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bauernproteste%20Berlin",
+        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Correctiv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Correctiv",
         "pubdate": "Wed, 10 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin-ETF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin-ETF",
+        "pubdate": "Wed, 10 Jan 2024 18:00:00 +0100"
       }
     ]
   ]

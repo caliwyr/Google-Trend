@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-01-2024 , 10:53:16",
+  "lastUpdate": "15-01-2024 , 11:07:53",
   "data": [
-    [
-      {
-        "title": "Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
-        "pubdate": "Mon, 15 Jan 2024 06:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Blue Monday",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "WEF Davos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF%20Davos",
-        "pubdate": "Mon, 15 Jan 2024 10:00:00 +0100"
+        "title": "Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wawrinka",
+        "pubdate": "Mon, 15 Jan 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto",
+        "pubdate": "Mon, 15 Jan 2024 07:00:00 +0100"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alcaraz",
         "pubdate": "Mon, 15 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Li Qiang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Li%20Qiang",
+        "pubdate": "Mon, 15 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL",
         "pubdate": "Sun, 14 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Handball-EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Handball-EM",
-        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Andrea Berg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Berg",
-        "pubdate": "Sun, 14 Jan 2024 00:00:00 +0100"
+        "title": "Milan Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20Roma",
+        "pubdate": "Sun, 14 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
