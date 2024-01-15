@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2024 , 22:53:45",
+  "lastUpdate": "15-01-2024 , 23:09:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cameroon vs Guinea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cameroon%20vs%20Guinea",
         "pubdate": "Mon, 15 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Algeria vs Angola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Algeria%20vs%20Angola",
+        "pubdate": "Mon, 15 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Algeria vs Angola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Algeria%20vs%20Angola",
-        "pubdate": "Mon, 15 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mohbad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mohbad",
         "pubdate": "Mon, 15 Jan 2024 22:00:00 +0100"
@@ -52,16 +52,23 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Galatasaray",
-        "pubdate": "Mon, 15 Jan 2024 20:00:00 +0100"
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benzema",
+        "pubdate": "Mon, 15 Jan 2024 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benzema",
-        "pubdate": "Mon, 15 Jan 2024 13:00:00 +0100"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AC%20Milan",
+        "pubdate": "Mon, 15 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Galatasaray",
+        "pubdate": "Mon, 15 Jan 2024 20:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,20 @@
     ],
     [
       {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta",
+        "pubdate": "Mon, 15 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fani Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fani%20Willis",
+        "pubdate": "Mon, 15 Jan 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kudus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kudus",
         "pubdate": "Mon, 15 Jan 2024 09:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Airbnb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Airbnb",
         "pubdate": "Mon, 15 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta",
-        "pubdate": "Mon, 15 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Tottenham",
-        "pubdate": "Sun, 14 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Barcelona",
-        "pubdate": "Sun, 14 Jan 2024 20:00:00 +0100"
       }
     ]
   ]

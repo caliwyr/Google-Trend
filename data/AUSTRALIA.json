@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2024 , 22:53:39",
+  "lastUpdate": "15-01-2024 , 23:09:20",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nauru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nauru",
         "pubdate": "Tue, 16 Jan 2024 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Saraji mine incident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Saraji%20mine%20incident",
+        "pubdate": "Tue, 16 Jan 2024 09:00:00 +1100"
       }
     ],
     [
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Dominic Thiem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dominic%20Thiem",
+        "pubdate": "Mon, 15 Jan 2024 21:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "True Detective",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#True%20Detective",
         "pubdate": "Mon, 15 Jan 2024 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Stephen Laybutt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephen%20Laybutt",
+        "pubdate": "Mon, 15 Jan 2024 14:00:00 +1100"
       }
     ],
     [
@@ -59,23 +80,9 @@
     ],
     [
       {
-        "title": "Stephen Laybutt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephen%20Laybutt",
-        "pubdate": "Mon, 15 Jan 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Dominic Thiem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dominic%20Thiem",
-        "pubdate": "Mon, 15 Jan 2024 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dallas%20Cowboys",
-        "pubdate": "Mon, 15 Jan 2024 12:00:00 +1100"
+        "title": "Iowa caucus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iowa%20caucus",
+        "pubdate": "Mon, 15 Jan 2024 08:00:00 +1100"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Storm Hunter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20Hunter",
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dallas%20Cowboys",
         "pubdate": "Mon, 15 Jan 2024 12:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Iowa caucus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iowa%20caucus",
-        "pubdate": "Mon, 15 Jan 2024 08:00:00 +1100"
+        "title": "Storm Hunter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20Hunter",
+        "pubdate": "Mon, 15 Jan 2024 12:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20utd",
         "pubdate": "Mon, 15 Jan 2024 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Medvedev",
-        "pubdate": "Mon, 15 Jan 2024 14:00:00 +1100"
       }
     ]
   ]
