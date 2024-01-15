@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "15-01-2024 , 19:50:40",
+  "lastUpdate": "15-01-2024 , 19:59:57",
   "data": [
     [
       {
         "title": "Hurkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
         "pubdate": "Mon, 15 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ukraina zestrzelenie samolotu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukraina%20zestrzelenie%20samolotu",
-        "pubdate": "Mon, 15 Jan 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fręch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fr%C4%99ch",
-        "pubdate": "Mon, 15 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -31,9 +17,23 @@
     ],
     [
       {
-        "title": "Ac milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ac%20milan",
-        "pubdate": "Mon, 15 Jan 2024 13:00:00 +0100"
+        "title": "Sławomir Mentzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Mentzen",
+        "pubdate": "Mon, 15 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fręch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fr%C4%99ch",
+        "pubdate": "Mon, 15 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ukraina zestrzelenie samolotu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukraina%20zestrzelenie%20samolotu",
+        "pubdate": "Mon, 15 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Ac milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ac%20milan",
+        "pubdate": "Mon, 15 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Yellowstone",
         "pubdate": "Mon, 15 Jan 2024 17:00:00 +0100"
@@ -52,22 +59,15 @@
     ],
     [
       {
-        "title": "Sławomir Mentzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Mentzen",
-        "pubdate": "Mon, 15 Jan 2024 09:00:00 +0100"
+        "title": "Polska - Wyspy Owcze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Wyspy%20Owcze",
+        "pubdate": "Mon, 15 Jan 2024 18:00:00 +0100"
       }
     ],
     [
       {
         "title": "Tłusty Czwartek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#T%C5%82usty%20Czwartek",
-        "pubdate": "Mon, 15 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mentzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mentzen",
         "pubdate": "Mon, 15 Jan 2024 10:00:00 +0100"
       }
     ],
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "Jodie Foster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jodie%20Foster",
-        "pubdate": "Mon, 15 Jan 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ronnie O'Sullivan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ronnie%20O'Sullivan",
-        "pubdate": "Mon, 15 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Davos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Davos",
         "pubdate": "Mon, 15 Jan 2024 15:00:00 +0100"
@@ -101,9 +87,23 @@
     ],
     [
       {
-        "title": "Polska - Wyspy Owcze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Wyspy%20Owcze",
-        "pubdate": "Mon, 15 Jan 2024 18:00:00 +0100"
+        "title": "Jodie Foster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jodie%20Foster",
+        "pubdate": "Mon, 15 Jan 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ministerstwo Sprawiedliwości",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ministerstwo%20Sprawiedliwo%C5%9Bci",
+        "pubdate": "Mon, 15 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ronnie O'Sullivan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ronnie%20O'Sullivan",
+        "pubdate": "Mon, 15 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Spotkanie prezydenta z premierem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Spotkanie%20prezydenta%20z%20premierem",
-        "pubdate": "Mon, 15 Jan 2024 16:00:00 +0100"
+        "title": "Gambia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gambia",
+        "pubdate": "Mon, 15 Jan 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gambia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gambia",
-        "pubdate": "Mon, 15 Jan 2024 15:00:00 +0100"
+        "title": "Spotkanie prezydenta z premierem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Spotkanie%20prezydenta%20z%20premierem",
+        "pubdate": "Mon, 15 Jan 2024 16:00:00 +0100"
       }
     ]
   ]
