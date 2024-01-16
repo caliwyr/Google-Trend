@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2024 , 17:54:35",
+  "lastUpdate": "16-01-2024 , 18:13:48",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Iowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iowa",
-        "pubdate": "Tue, 16 Jan 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IPS Calinic, arhiepiscopul Sucevei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#IPS%20Calinic,%20arhiepiscopul%20Sucevei",
         "pubdate": "Tue, 16 Jan 2024 08:00:00 +0200"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Iowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iowa",
+        "pubdate": "Tue, 16 Jan 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lefties",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lefties",
         "pubdate": "Tue, 16 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dana Budeanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dana%20Budeanu",
+        "pubdate": "Tue, 16 Jan 2024 12:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Rugaciune mihai Eminescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rugaciune%20mihai%20Eminescu",
+        "pubdate": "Tue, 16 Jan 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Blue Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Blue%20Monday",
         "pubdate": "Mon, 15 Jan 2024 09:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "True Detective",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#True%20Detective",
-        "pubdate": "Mon, 15 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Survivor",
         "pubdate": "Mon, 15 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jennifer%20Lawrence",
-        "pubdate": "Mon, 15 Jan 2024 00:00:00 +0200"
       }
     ]
   ]
