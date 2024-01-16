@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2024 , 01:42:18",
+  "lastUpdate": "16-01-2024 , 02:19:50",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Iowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iowa",
+        "pubdate": "Mon, 15 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yellowstone",
         "pubdate": "Mon, 15 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
+        "pubdate": "Mon, 15 Jan 2024 01:00:00 +0100"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Iowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iowa",
-        "pubdate": "Sun, 14 Jan 2024 07:00:00 +0100"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
-        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Monogram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Monogram",
         "pubdate": "Sun, 14 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
-        "pubdate": "Sun, 14 Jan 2024 15:00:00 +0100"
       }
     ]
   ]
