@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-01-2024 , 02:49:07",
+  "lastUpdate": "16-01-2024 , 02:58:26",
   "data": [
+    [
+      {
+        "title": "Iowa caucus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iowa%20caucus",
+        "pubdate": "Tue, 16 Jan 2024 12:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Can't",
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "Love Island: All Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Love%20Island:%20All%20Stars",
+        "pubdate": "Tue, 16 Jan 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Emmys 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Emmys%202024",
+        "pubdate": "Tue, 16 Jan 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Ted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ted",
         "pubdate": "Tue, 16 Jan 2024 00:00:00 +1300"
@@ -38,22 +59,8 @@
     ],
     [
       {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nikki%20Haley",
-        "pubdate": "Tue, 16 Jan 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Zhilei Zhang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zhilei%20Zhang",
-        "pubdate": "Tue, 16 Jan 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Iowa caucus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iowa%20caucus",
         "pubdate": "Tue, 16 Jan 2024 14:00:00 +1300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yellowstone",
         "pubdate": "Mon, 15 Jan 2024 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "True Detective",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#True%20Detective",
-        "pubdate": "Mon, 15 Jan 2024 22:00:00 +1300"
       }
     ]
   ]
