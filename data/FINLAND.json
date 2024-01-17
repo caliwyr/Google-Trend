@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-01-2024 , 00:53:31",
+  "lastUpdate": "17-01-2024 , 01:53:19",
   "data": [
     [
       {
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Il-22",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Il-22",
+        "pubdate": "Mon, 15 Jan 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Yellowstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yellowstone",
         "pubdate": "Mon, 15 Jan 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nikki Haley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nikki%20Haley",
+        "pubdate": "Mon, 15 Jan 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pop",
         "pubdate": "Mon, 15 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Il-22",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Il-22",
-        "pubdate": "Mon, 15 Jan 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Luther King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Martin%20Luther%20King",
-        "pubdate": "Mon, 15 Jan 2024 23:00:00 +0200"
       }
     ]
   ]
