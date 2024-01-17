@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "17-01-2024 , 19:52:24",
+  "lastUpdate": "17-01-2024 , 20:07:50",
   "data": [
-    [
-      {
-        "title": "India vs Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20Afghanistan",
-        "pubdate": "Wed, 17 Jan 2024 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Morocco vs Tanzania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Morocco%20vs%20Tanzania",
         "pubdate": "Wed, 17 Jan 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "India vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20Afghanistan",
+        "pubdate": "Wed, 17 Jan 2024 16:00:00 +0200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
+        "pubdate": "Wed, 17 Jan 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AZ Alkmaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AZ%20Alkmaar",
         "pubdate": "Wed, 17 Jan 2024 04:00:00 +0200"
@@ -87,8 +94,15 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nigeria",
+        "pubdate": "Wed, 17 Jan 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mirra Andreeva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mirra%20Andreeva",
         "pubdate": "Wed, 17 Jan 2024 19:00:00 +0200"
       }
     ],
@@ -101,30 +115,9 @@
     ],
     [
       {
-        "title": "Mirra Andreeva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mirra%20Andreeva",
-        "pubdate": "Wed, 17 Jan 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wigan Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wigan%20Athletic",
-        "pubdate": "Wed, 17 Jan 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Phoenix Secondary School",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Phoenix%20Secondary%20School",
         "pubdate": "Wed, 17 Jan 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
-        "pubdate": "Wed, 17 Jan 2024 04:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bafana Bafana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-        "pubdate": "Tue, 16 Jan 2024 00:00:00 +0200"
+        "title": "Wigan Athletic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wigan%20Athletic",
+        "pubdate": "Wed, 17 Jan 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bank",
+        "pubdate": "Wed, 17 Jan 2024 21:00:00 +0200"
       }
     ]
   ]
