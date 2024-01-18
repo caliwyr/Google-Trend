@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 10:40:53",
+  "lastUpdate": "18-01-2024 , 10:50:05",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Virginia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Virginia",
+        "pubdate": "Thu, 18 Jan 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
         "pubdate": "Thu, 18 Jan 2024 02:00:00 +0000"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Virginia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Virginia",
-        "pubdate": "Thu, 18 Jan 2024 08:00:00 +0000"
+        "title": "Neemias Queta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neemias%20Queta",
+        "pubdate": "Thu, 18 Jan 2024 10:00:00 +0000"
       }
     ],
     [
@@ -124,13 +131,6 @@
       {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Everton",
-        "pubdate": "Wed, 17 Jan 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Dejan Milojevic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dejan%20Milojevic",
         "pubdate": "Wed, 17 Jan 2024 22:00:00 +0000"
       }
     ],
