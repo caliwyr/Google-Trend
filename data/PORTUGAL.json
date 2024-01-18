@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 15:44:54",
+  "lastUpdate": "18-01-2024 , 15:54:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Open australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Open%20australia",
         "pubdate": "Thu, 18 Jan 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Paquistao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paquistao",
+        "pubdate": "Thu, 18 Jan 2024 00:00:00 +0000"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Paquistão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paquist%C3%A3o",
-        "pubdate": "Thu, 18 Jan 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Vizela Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20Sporting",
         "pubdate": "Thu, 18 Jan 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
-        "pubdate": "Thu, 18 Jan 2024 02:00:00 +0000"
       }
     ],
     [
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Thu, 18 Jan 2024 02:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Jogo sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20sporting",
         "pubdate": "Thu, 18 Jan 2024 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Dia do Riso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Riso",
+        "pubdate": "Thu, 18 Jan 2024 15:00:00 +0000"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Alvaro fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alvaro%20fernandez",
-        "pubdate": "Wed, 17 Jan 2024 01:00:00 +0000"
+        "title": "Jose luis Peixoto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20luis%20Peixoto",
+        "pubdate": "Wed, 17 Jan 2024 22:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Jose luis Peixoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20luis%20Peixoto",
-        "pubdate": "Wed, 17 Jan 2024 22:00:00 +0000"
+        "title": "Alvaro fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alvaro%20fernandez",
+        "pubdate": "Wed, 17 Jan 2024 01:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Herman jose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Herman%20jose",
         "pubdate": "Wed, 17 Jan 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Djokovic",
-        "pubdate": "Wed, 17 Jan 2024 13:00:00 +0000"
       }
     ]
   ]

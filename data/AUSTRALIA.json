@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-01-2024 , 15:44:45",
+  "lastUpdate": "18-01-2024 , 15:54:07",
   "data": [
     [
       {
         "title": "Palau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Palau",
         "pubdate": "Fri, 19 Jan 2024 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Galaxy Ring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Galaxy%20Ring",
+        "pubdate": "Fri, 19 Jan 2024 00:00:00 +1100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Lotto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lotto",
-        "pubdate": "Thu, 18 Jan 2024 18:00:00 +1100"
+        "title": "Priceline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Priceline",
+        "pubdate": "Thu, 18 Jan 2024 15:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Priceline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Priceline",
-        "pubdate": "Thu, 18 Jan 2024 15:00:00 +1100"
+        "title": "Lotto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lotto",
+        "pubdate": "Thu, 18 Jan 2024 18:00:00 +1100"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Max Purcell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Max%20Purcell",
-        "pubdate": "Thu, 18 Jan 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alcaraz",
         "pubdate": "Thu, 18 Jan 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "India vs Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Afghanistan",
-        "pubdate": "Thu, 18 Jan 2024 01:00:00 +1100"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Iga Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iga%20Swiatek",
-        "pubdate": "Thu, 18 Jan 2024 16:00:00 +1100"
+        "title": "India vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Afghanistan",
+        "pubdate": "Thu, 18 Jan 2024 01:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dejan Milojevic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dejan%20Milojevic",
         "pubdate": "Thu, 18 Jan 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iga%20Swiatek",
+        "pubdate": "Thu, 18 Jan 2024 16:00:00 +1100"
       }
     ]
   ]
