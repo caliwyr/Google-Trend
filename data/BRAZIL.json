@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-01-2024 , 19:42:49",
+  "lastUpdate": "18-01-2024 , 19:52:03",
   "data": [
     [
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
         "pubdate": "Thu, 18 Jan 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Jordy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Jordy",
+        "pubdate": "Thu, 18 Jan 2024 07:00:00 -0500"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "RRRP3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RRRP3",
-        "pubdate": "Thu, 18 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Medvedev",
         "pubdate": "Thu, 18 Jan 2024 12:00:00 -0500"
@@ -80,16 +80,9 @@
     ],
     [
       {
-        "title": "Amistosos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amistosos",
-        "pubdate": "Thu, 18 Jan 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pobres Criaturas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pobres%20Criaturas",
-        "pubdate": "Thu, 18 Jan 2024 11:00:00 -0500"
+        "title": "RRRP3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RRRP3",
+        "pubdate": "Thu, 18 Jan 2024 10:00:00 -0500"
       }
     ],
     [
@@ -101,15 +94,8 @@
     ],
     [
       {
-        "title": "BID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BID",
-        "pubdate": "Thu, 18 Jan 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Leo Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leo%20Pereira",
+        "title": "Pobres Criaturas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pobres%20Criaturas",
         "pubdate": "Thu, 18 Jan 2024 11:00:00 -0500"
       }
     ],
@@ -122,9 +108,23 @@
     ],
     [
       {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benzema",
-        "pubdate": "Thu, 18 Jan 2024 08:00:00 -0500"
+        "title": "Amistosos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amistosos",
+        "pubdate": "Thu, 18 Jan 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leo Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leo%20Pereira",
+        "pubdate": "Thu, 18 Jan 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BID",
+        "pubdate": "Thu, 18 Jan 2024 09:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo",
-        "pubdate": "Wed, 17 Jan 2024 12:00:00 -0500"
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benzema",
+        "pubdate": "Thu, 18 Jan 2024 08:00:00 -0500"
       }
     ]
   ]
