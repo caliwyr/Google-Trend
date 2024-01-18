@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 13:43:11",
+  "lastUpdate": "18-01-2024 , 13:52:30",
   "data": [
     [
       {
@@ -10,15 +10,22 @@
     ],
     [
       {
-        "title": "Loeb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loeb",
+        "title": "Clara Burel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Burel",
         "pubdate": "Thu, 18 Jan 2024 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Clara Burel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Burel",
+        "title": "Callum Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Callum%20Turner",
+        "pubdate": "Thu, 18 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Loeb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loeb",
         "pubdate": "Thu, 18 Jan 2024 11:00:00 +0100"
       }
     ],
@@ -38,8 +45,15 @@
     ],
     [
       {
-        "title": "Match Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Match%20Maroc",
+        "title": "RDC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RDC",
+        "pubdate": "Thu, 18 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc",
         "pubdate": "Wed, 17 Jan 2024 12:00:00 +0100"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Gift Orban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gift%20Orban",
-        "pubdate": "Wed, 17 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Julio Iglesias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julio%20Iglesias",
         "pubdate": "Wed, 17 Jan 2024 20:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Congo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Congo",
-        "pubdate": "Wed, 17 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pauvres créatures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pauvres%20cr%C3%A9atures",
-        "pubdate": "Wed, 17 Jan 2024 12:00:00 +0100"
+        "title": "Gift Orban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gift%20Orban",
+        "pubdate": "Wed, 17 Jan 2024 08:00:00 +0100"
       }
     ]
   ]
