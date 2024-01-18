@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "18-01-2024 , 05:48:17",
+  "lastUpdate": "18-01-2024 , 05:57:31",
   "data": [
     [
       {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Samsung",
         "pubdate": "Wed, 17 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Skispringen heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skispringen%20heute",
-        "pubdate": "Wed, 17 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Teams",
         "pubdate": "Wed, 17 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Skispringen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skispringen",
+        "pubdate": "Wed, 17 Jan 2024 11:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,20 @@
     ],
     [
       {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Tue, 16 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schnee NRW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee%20NRW",
+        "pubdate": "Tue, 16 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Remigration",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Remigration",
         "pubdate": "Mon, 15 Jan 2024 10:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nikki%20Haley",
         "pubdate": "Sun, 14 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taiwan",
-        "pubdate": "Sat, 13 Jan 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Sat, 13 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
