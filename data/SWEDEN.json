@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 03:44:32",
+  "lastUpdate": "18-01-2024 , 03:53:42",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Snöstorm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sn%C3%B6storm",
-        "pubdate": "Wed, 17 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NASA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NASA",
         "pubdate": "Wed, 17 Jan 2024 19:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Romina Pourmokhtari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Romina%20Pourmokhtari",
+        "title": "Jose Mourinho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jose%20Mourinho",
+        "pubdate": "Tue, 16 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Succession",
         "pubdate": "Tue, 16 Jan 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jose Mourinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jose%20Mourinho",
-        "pubdate": "Tue, 16 Jan 2024 15:00:00 +0100"
+        "title": "Yellowstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yellowstone",
+        "pubdate": "Tue, 16 Jan 2024 00:00:00 +0100"
       }
     ]
   ]
