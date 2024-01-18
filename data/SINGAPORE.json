@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 08:44:35",
+  "lastUpdate": "18-01-2024 , 08:54:02",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pakistan",
+        "pubdate": "Thu, 18 Jan 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Everton",
         "pubdate": "Thu, 18 Jan 2024 11:00:00 +0800"
@@ -108,8 +115,15 @@
     ],
     [
       {
-        "title": "DAVOS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DAVOS",
+        "title": "Josef Fritzl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Josef%20Fritzl",
+        "pubdate": "Wed, 17 Jan 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Davos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Davos",
         "pubdate": "Wed, 17 Jan 2024 14:00:00 +0800"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Jason Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jason%20Kelce",
         "pubdate": "Wed, 17 Jan 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jose Mourinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jose%20Mourinho",
-        "pubdate": "Tue, 16 Jan 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Iowa caucus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iowa%20caucus",
-        "pubdate": "Tue, 16 Jan 2024 08:00:00 +0800"
       }
     ]
   ]
