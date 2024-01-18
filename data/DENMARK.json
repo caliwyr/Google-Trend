@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2024 , 07:50:41",
+  "lastUpdate": "18-01-2024 , 07:59:55",
   "data": [
     [
       {
@@ -24,15 +24,15 @@
     ],
     [
       {
-        "title": "Tesla Model Y",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%20Y",
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
         "pubdate": "Wed, 17 Jan 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
+        "title": "Tesla Model Y",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%20Y",
         "pubdate": "Wed, 17 Jan 2024 10:00:00 +0100"
       }
     ],
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Nt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nt",
+        "pubdate": "Wed, 17 Jan 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Abdominal operation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Abdominal%20operation",
         "pubdate": "Wed, 17 Jan 2024 20:00:00 +0100"
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Tesla Model 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%203",
+        "pubdate": "Wed, 17 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "ALS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ALS",
         "pubdate": "Wed, 17 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Landin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Landin",
+        "pubdate": "Wed, 17 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Succession",
         "pubdate": "Tue, 16 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wolves  Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wolves%20%20Brentford",
-        "pubdate": "Tue, 16 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nikki%20Haley",
-        "pubdate": "Tue, 16 Jan 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kate Moss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kate%20Moss",
-        "pubdate": "Tue, 16 Jan 2024 16:00:00 +0100"
       }
     ]
   ]
