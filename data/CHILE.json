@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2024 , 15:43:16",
+  "lastUpdate": "19-01-2024 , 15:52:40",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Princesa Alba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Princesa%20Alba",
         "pubdate": "Fri, 19 Jan 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Curico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curico",
+        "pubdate": "Fri, 19 Jan 2024 12:00:00 -0300"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
-        "pubdate": "Thu, 18 Jan 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Mundo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mundo",
         "pubdate": "Thu, 18 Jan 2024 22:00:00 -0300"
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
+        "pubdate": "Thu, 18 Jan 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli  Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli%20%20Fiorentina",
+        "pubdate": "Thu, 18 Jan 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
         "pubdate": "Thu, 18 Jan 2024 17:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Matias sepulveda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Matias%20sepulveda",
         "pubdate": "Thu, 18 Jan 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Maisa Rojas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maisa%20Rojas",
-        "pubdate": "Thu, 18 Jan 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Festival de olmue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Festival%20de%20olmue",
-        "pubdate": "Wed, 17 Jan 2024 17:00:00 -0300"
       }
     ]
   ]
