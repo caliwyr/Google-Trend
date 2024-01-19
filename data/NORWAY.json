@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2024 , 06:44:08",
+  "lastUpdate": "19-01-2024 , 06:53:42",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Flesland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Flesland",
-        "pubdate": "Thu, 18 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anterselva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anterselva",
         "pubdate": "Thu, 18 Jan 2024 15:00:00 +0100"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Thu, 18 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Farmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
         "pubdate": "Thu, 18 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Skappel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skappel",
+        "pubdate": "Thu, 18 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ingrid Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Alexandra",
         "pubdate": "Wed, 17 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nammo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nammo",
-        "pubdate": "Wed, 17 Jan 2024 17:00:00 +0100"
       }
     ]
   ]
