@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2024 , 03:45:19",
+  "lastUpdate": "19-01-2024 , 03:54:43",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Copa%20del%20Rey",
+        "pubdate": "Thu, 18 Jan 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "HHC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#HHC",
         "pubdate": "Thu, 18 Jan 2024 21:00:00 +0200"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Copa%20del%20Rey",
-        "pubdate": "Thu, 18 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Κουτσουμπασ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%BF%CF%85%CF%84%CF%83%CE%BF%CF%85%CE%BC%CF%80%CE%B1%CF%83",
         "pubdate": "Thu, 18 Jan 2024 16:00:00 +0200"
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Έρωτας Φυγάς",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%88%CF%81%CF%89%CF%84%CE%B1%CF%82%20%CE%A6%CF%85%CE%B3%CE%AC%CF%82",
+        "title": "Έρωτας φυγάς",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%88%CF%81%CF%89%CF%84%CE%B1%CF%82%20%CF%86%CF%85%CE%B3%CE%AC%CF%82",
         "pubdate": "Thu, 18 Jan 2024 23:00:00 +0200"
       }
     ],
