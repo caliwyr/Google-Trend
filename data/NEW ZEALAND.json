@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-01-2024 , 10:50:11",
+  "lastUpdate": "20-01-2024 , 10:59:34",
   "data": [
-    [
-      {
-        "title": "GeoNet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-        "pubdate": "Sat, 20 Jan 2024 18:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "Foo Fighters Auckland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters%20Auckland",
         "pubdate": "Sat, 20 Jan 2024 14:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Sat, 20 Jan 2024 18:00:00 +1300"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Ruben Love",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ruben%20Love",
+        "pubdate": "Sat, 20 Jan 2024 21:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
         "pubdate": "Sat, 20 Jan 2024 08:00:00 +1300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Ruben Love",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ruben%20Love",
-        "pubdate": "Sat, 20 Jan 2024 21:00:00 +1300"
+        "title": "Blackclash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackclash",
+        "pubdate": "Sat, 20 Jan 2024 18:00:00 +1300"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Cameron Norrie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cameron%20Norrie",
+        "pubdate": "Sat, 20 Jan 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Etcheverry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Etcheverry",
         "pubdate": "Sat, 20 Jan 2024 00:00:00 +1300"
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Hazbin Hotel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hazbin%20Hotel",
-        "pubdate": "Sat, 20 Jan 2024 01:00:00 +1300"
+        "title": "Alec Baldwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alec%20Baldwin",
+        "pubdate": "Sat, 20 Jan 2024 20:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Alec Baldwin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alec%20Baldwin",
-        "pubdate": "Sat, 20 Jan 2024 20:00:00 +1300"
+        "title": "Hazbin Hotel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hazbin%20Hotel",
+        "pubdate": "Sat, 20 Jan 2024 01:00:00 +1300"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Swiatek",
+        "pubdate": "Sat, 20 Jan 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "FREAKS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FREAKS",
         "pubdate": "Sat, 20 Jan 2024 16:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Black Clash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Clash",
-        "pubdate": "Fri, 19 Jan 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "A-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A-League",
-        "pubdate": "Fri, 19 Jan 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Pakistan vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20New%20Zealand",
-        "pubdate": "Fri, 19 Jan 2024 20:00:00 +1300"
       }
     ]
   ]
