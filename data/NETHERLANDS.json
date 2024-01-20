@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-01-2024 , 16:44:49",
+  "lastUpdate": "20-01-2024 , 16:54:22",
   "data": [
+    [
+      {
+        "title": "NEC  Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC%20%20Twente",
+        "pubdate": "Sat, 20 Jan 2024 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Storm Isha",
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Milieudefensie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Milieudefensie",
-        "pubdate": "Fri, 19 Jan 2024 21:00:00 +0100"
+        "title": "Claude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Claude",
+        "pubdate": "Fri, 19 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sneeuw Limburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw%20Limburg",
         "pubdate": "Wed, 17 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hercules",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hercules",
-        "pubdate": "Wed, 17 Jan 2024 00:00:00 +0100"
       }
     ]
   ]
