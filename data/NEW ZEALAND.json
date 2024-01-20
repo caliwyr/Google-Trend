@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2024 , 15:48:47",
+  "lastUpdate": "20-01-2024 , 15:58:07",
   "data": [
     [
       {
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Foo Fighters ... Auckland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters%20...%20Auckland",
+        "title": "Foo Fighters Auckland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Foo%20Fighters%20Auckland",
         "pubdate": "Sat, 20 Jan 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "GeoNet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-        "pubdate": "Sat, 20 Jan 2024 18:00:00 +1300"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Brian Lara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brian%20Lara",
         "pubdate": "Sat, 20 Jan 2024 19:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Sat, 20 Jan 2024 18:00:00 +1300"
       }
     ],
     [
