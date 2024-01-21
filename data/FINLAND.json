@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2024 , 00:59:55",
+  "lastUpdate": "21-01-2024 , 02:04:22",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Adam Harrison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adam%20Harrison",
+        "pubdate": "Sat, 20 Jan 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jumanji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jumanji",
         "pubdate": "Sat, 20 Jan 2024 00:00:00 +0200"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Adam Harrison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adam%20Harrison",
+        "title": "Widows",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Widows",
         "pubdate": "Sat, 20 Jan 2024 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Lufthansa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lufthansa",
         "pubdate": "Fri, 19 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aliens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aliens",
-        "pubdate": "Fri, 19 Jan 2024 23:00:00 +0200"
       }
     ]
   ]
