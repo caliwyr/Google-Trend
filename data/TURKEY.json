@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2024 , 05:47:33",
+  "lastUpdate": "21-01-2024 , 05:56:57",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Sivas deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivas%20deprem",
+        "pubdate": "Sat, 20 Jan 2024 03:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Nihat Altınkaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nihat%20Alt%C4%B1nkaya",
         "pubdate": "Sat, 20 Jan 2024 22:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dortmund",
         "pubdate": "Sat, 20 Jan 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sivas deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivas%20deprem",
-        "pubdate": "Sat, 20 Jan 2024 03:00:00 +0300"
       }
     ]
   ]
