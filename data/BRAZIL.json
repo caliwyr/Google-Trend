@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-01-2024 , 16:49:42",
+  "lastUpdate": "21-01-2024 , 16:59:01",
   "data": [
-    [
-      {
-        "title": "Campeonato Carioca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Carioca",
-        "pubdate": "Sun, 21 Jan 2024 01:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Real Madrid x Almería",
@@ -17,9 +10,30 @@
     ],
     [
       {
+        "title": "Campeonato Carioca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Carioca",
+        "pubdate": "Sun, 21 Jan 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Silvio Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silvio%20Santos",
         "pubdate": "Sun, 21 Jan 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+        "pubdate": "Sun, 21 Jan 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sun, 21 Jan 2024 11:00:00 -0500"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Sun, 21 Jan 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Sun, 21 Jan 2024 08:00:00 -0500"
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sun, 21 Jan 2024 08:00:00 -0500"
+        "title": "Bournemouth x Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bournemouth%20x%20Liverpool",
+        "pubdate": "Sun, 21 Jan 2024 11:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bragantino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
         "pubdate": "Sat, 20 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo x Bangu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20Bangu",
-        "pubdate": "Sat, 20 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Adam Harrison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Adam%20Harrison",
-        "pubdate": "Sat, 20 Jan 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
-        "pubdate": "Sat, 20 Jan 2024 13:00:00 -0500"
       }
     ]
   ]
