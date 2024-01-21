@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-01-2024 , 08:46:47",
+  "lastUpdate": "21-01-2024 , 08:56:08",
   "data": [
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
-        "pubdate": "Sat, 20 Jan 2024 14:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Ravens vs Texans",
@@ -17,9 +10,16 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
+        "pubdate": "Sat, 20 Jan 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Lamar Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lamar%20Jackson",
-        "pubdate": "Sat, 20 Jan 2024 09:00:00 -0800"
+        "pubdate": "Sat, 20 Jan 2024 13:00:00 -0800"
       }
     ],
     [
@@ -68,13 +68,6 @@
       {
         "title": "Anders Carlson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anders%20Carlson",
-        "pubdate": "Sat, 20 Jan 2024 21:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Neil Magny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neil%20Magny",
         "pubdate": "Sat, 20 Jan 2024 21:00:00 -0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Mark Andrews",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mark%20Andrews",
         "pubdate": "Sat, 20 Jan 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Simone Biles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Simone%20Biles",
+        "pubdate": "Sat, 20 Jan 2024 21:00:00 -0800"
       }
     ]
   ]
