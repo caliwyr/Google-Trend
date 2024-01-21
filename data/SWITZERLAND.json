@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2024 , 02:49:02",
+  "lastUpdate": "21-01-2024 , 02:58:25",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Sat, 20 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Franjo von Allmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franjo%20von%20Allmen",
         "pubdate": "Sat, 20 Jan 2024 14:00:00 +0100"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Coupe de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coupe%20de%20France",
-        "pubdate": "Sat, 20 Jan 2024 18:00:00 +0100"
+        "title": "David Odonkor Dschungelcamp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Odonkor%20Dschungelcamp",
+        "pubdate": "Sat, 20 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Alexis Monney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexis%20Monney",
         "pubdate": "Sat, 20 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
-        "pubdate": "Sat, 20 Jan 2024 03:00:00 +0100"
       }
     ]
   ]
