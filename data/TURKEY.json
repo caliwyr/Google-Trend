@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-01-2024 , 12:48:25",
+  "lastUpdate": "22-01-2024 , 13:08:32",
   "data": [
     [
       {
-        "title": "Girona  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Girona%20%20Sevilla",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
         "pubdate": "Mon, 22 Jan 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Fred",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fred",
+        "pubdate": "Mon, 22 Jan 2024 02:00:00 +0300"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Fred",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fred",
-        "pubdate": "Mon, 22 Jan 2024 02:00:00 +0300"
+        "title": "Ziraat Türkiye Kupası",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ziraat%20T%C3%BCrkiye%20Kupas%C4%B1",
+        "pubdate": "Mon, 22 Jan 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Girona  Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Girona%20%20Sevilla",
+        "pubdate": "Mon, 22 Jan 2024 00:00:00 +0300"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Sevan Nişanyan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sevan%20Ni%C5%9Fanyan",
         "pubdate": "Mon, 22 Jan 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20Fenerbah%C3%A7e",
+        "pubdate": "Mon, 22 Jan 2024 15:00:00 +0300"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Osasuna",
-        "pubdate": "Mon, 22 Jan 2024 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahçe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e",
         "pubdate": "Sun, 21 Jan 2024 01:00:00 +0300"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
-        "pubdate": "Sun, 21 Jan 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool",
         "pubdate": "Sun, 21 Jan 2024 21:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Real Betis' Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Betis'%20Barcelona",
         "pubdate": "Sun, 21 Jan 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Konyaspor  Antalyaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor%20%20Antalyaspor",
-        "pubdate": "Sun, 21 Jan 2024 16:00:00 +0300"
       }
     ]
   ]
