@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-01-2024 , 06:48:33",
+  "lastUpdate": "22-01-2024 , 06:58:02",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Yastremska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yastremska",
-        "pubdate": "Mon, 22 Jan 2024 17:00:00 +1300"
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ron%20DeSantis",
+        "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
       }
     ],
     [
@@ -45,22 +45,8 @@
     ],
     [
       {
-        "title": "Ron DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ron%20DeSantis",
-        "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Ayodhya Ram Mandir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ayodhya%20Ram%20Mandir",
-        "pubdate": "Mon, 22 Jan 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
         "pubdate": "Mon, 22 Jan 2024 14:00:00 +1300"
       }
     ],
@@ -73,9 +59,23 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
+        "pubdate": "Mon, 22 Jan 2024 14:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Toyota Aqua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Toyota%20Aqua",
         "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Dayana Yastremska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dayana%20Yastremska",
+        "pubdate": "Mon, 22 Jan 2024 17:00:00 +1300"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "False killer whale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#False%20killer%20whale",
+        "pubdate": "Sun, 21 Jan 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Shoaib Malik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shoaib%20Malik",
         "pubdate": "Sun, 21 Jan 2024 00:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
         "pubdate": "Sun, 21 Jan 2024 03:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "False killer whale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#False%20killer%20whale",
-        "pubdate": "Sun, 21 Jan 2024 23:00:00 +1300"
       }
     ]
   ]
