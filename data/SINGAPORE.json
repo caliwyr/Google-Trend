@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-01-2024 , 22:47:57",
+  "lastUpdate": "22-01-2024 , 22:57:20",
   "data": [
+    [
+      {
+        "title": "Brighton vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Wolves",
+        "pubdate": "Tue, 23 Jan 2024 06:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Liverpool",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Real Madrid vs almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20almer%C3%ADa",
+        "title": "Real Madrid vs Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20Almer%C3%ADa",
         "pubdate": "Mon, 22 Jan 2024 00:00:00 +0800"
       }
     ],
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham",
+        "pubdate": "Mon, 22 Jan 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Ron DeSantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ron%20DeSantis",
         "pubdate": "Mon, 22 Jan 2024 13:00:00 +0800"
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
-        "pubdate": "Sun, 21 Jan 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Omar Berrada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Omar%20Berrada",
         "pubdate": "Sun, 21 Jan 2024 08:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Shoaib Malik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shoaib%20Malik",
         "pubdate": "Sat, 20 Jan 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
-        "pubdate": "Sat, 20 Jan 2024 17:00:00 +0800"
       }
     ]
   ]
