@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-01-2024 , 09:53:00",
+  "lastUpdate": "22-01-2024 , 10:09:22",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Kansas City Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kansas%20City%20Chiefs",
+        "pubdate": "Mon, 22 Jan 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Department of Education",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Department%20of%20Education",
         "pubdate": "Mon, 22 Jan 2024 00:00:00 +0000"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Christopher Dean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Christopher%20Dean",
-        "pubdate": "Mon, 22 Jan 2024 00:00:00 +0000"
+        "title": "Storm Isha School closure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Storm%20Isha%20School%20closure",
+        "pubdate": "Mon, 22 Jan 2024 09:00:00 +0000"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Cork Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cork%20Airport",
-        "pubdate": "Sun, 21 Jan 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Sheffield United vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sheffield%20United%20vs%20West%20Ham",
         "pubdate": "Sun, 21 Jan 2024 14:00:00 +0000"
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Liverpool fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20fc",
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20FC",
         "pubdate": "Sun, 21 Jan 2024 18:00:00 +0000"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Electricity outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Electricity%20outage",
+        "pubdate": "Sun, 21 Jan 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Windy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Windy",
         "pubdate": "Sun, 21 Jan 2024 08:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leeds%20United",
         "pubdate": "Sun, 21 Jan 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Dubai Desert Classic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dubai%20Desert%20Classic",
-        "pubdate": "Sun, 21 Jan 2024 09:00:00 +0000"
       }
     ]
   ]
