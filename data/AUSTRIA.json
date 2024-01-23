@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-01-2024 , 11:54:01",
+  "lastUpdate": "23-01-2024 , 12:18:51",
   "data": [
-    [
-      {
-        "title": "Diana June",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Diana%20June",
-        "pubdate": "Tue, 23 Jan 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Erdbeben St. Johann in Tirol",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Erdbeben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erdbeben",
+        "pubdate": "Tue, 23 Jan 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lena Schilling EU-Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena%20Schilling%20EU-Wahl",
         "pubdate": "Tue, 23 Jan 2024 05:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Erdbeben",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erdbeben",
-        "pubdate": "Tue, 23 Jan 2024 07:00:00 +0100"
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
+        "pubdate": "Tue, 23 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Sofia Vergara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sofia%20Vergara",
         "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alisha Lehmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alisha%20Lehmann",
+        "pubdate": "Tue, 23 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "iOS 17.3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#iOS%2017.3",
         "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Südtirol news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCdtirol%20news",
+        "pubdate": "Tue, 23 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
         "pubdate": "Mon, 22 Jan 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heath Ledger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heath%20Ledger",
-        "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "School of Champions ORF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#School%20of%20Champions%20ORF",
-        "pubdate": "Mon, 22 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
