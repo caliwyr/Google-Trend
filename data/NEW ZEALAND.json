@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "22-01-2024 , 23:55:15",
+  "lastUpdate": "23-01-2024 , 00:57:46",
   "data": [
+    [
+      {
+        "title": "BBL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BBL",
+        "pubdate": "Tue, 23 Jan 2024 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zverev",
+        "pubdate": "Mon, 22 Jan 2024 22:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Alexander Zverev",
@@ -27,13 +41,6 @@
         "title": "Bills vs Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bills%20vs%20Chiefs",
         "pubdate": "Mon, 22 Jan 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Ron DeSantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ron%20DeSantis",
-        "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Medvedev",
-        "pubdate": "Mon, 22 Jan 2024 21:00:00 +1300"
+        "title": "Nikki Haley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nikki%20Haley",
+        "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ron%20DeSantis",
+        "pubdate": "Mon, 22 Jan 2024 16:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Elina Svitolina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elina%20Svitolina",
         "pubdate": "Mon, 22 Jan 2024 20:00:00 +1300"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Medvedev",
+        "pubdate": "Mon, 22 Jan 2024 21:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Sarah Ferguson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sarah%20Ferguson",
         "pubdate": "Mon, 22 Jan 2024 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA",
-        "pubdate": "Mon, 22 Jan 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#49ers",
-        "pubdate": "Mon, 22 Jan 2024 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
-        "pubdate": "Sun, 21 Jan 2024 11:00:00 +1300"
       }
     ]
   ]
