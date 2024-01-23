@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2024 , 06:54:18",
+  "lastUpdate": "23-01-2024 , 07:10:49",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "La Tregua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20Tregua",
-        "pubdate": "Tue, 23 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nefrectomia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nefrectomia",
         "pubdate": "Tue, 23 Jan 2024 00:00:00 +0100"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Calhanoglu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calhanoglu",
-        "pubdate": "Tue, 23 Jan 2024 01:00:00 +0100"
+        "title": "La Tregua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20Tregua",
+        "pubdate": "Tue, 23 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Planet Farms",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Planet%20Farms",
+        "pubdate": "Mon, 22 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "David Gail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#David%20Gail",
         "pubdate": "Mon, 22 Jan 2024 01:00:00 +0100"
@@ -90,13 +90,6 @@
         "title": "Djalo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Djalo",
         "pubdate": "Mon, 22 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Incendio Cavenago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Incendio%20Cavenago",
-        "pubdate": "Mon, 22 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trump",
-        "pubdate": "Mon, 22 Jan 2024 03:00:00 +0100"
+        "title": "Mazzarri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mazzarri",
+        "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mazzarri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mazzarri",
-        "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
+        "title": "Guenda Goria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Guenda%20Goria",
+        "pubdate": "Mon, 22 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trump",
+        "pubdate": "Mon, 22 Jan 2024 09:00:00 +0100"
       }
     ]
   ]
