@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-01-2024 , 04:49:53",
+  "lastUpdate": "24-01-2024 , 04:59:09",
   "data": [
     [
       {
         "title": "New Hampshire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#New%20Hampshire",
         "pubdate": "Wed, 24 Jan 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frank Farian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Frank%20Farian",
+        "pubdate": "Tue, 23 Jan 2024 18:00:00 +0100"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Boney M",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boney%20M",
-        "pubdate": "Tue, 23 Jan 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rakušan karviná",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Raku%C5%A1an%20karvin%C3%A1",
         "pubdate": "Tue, 23 Jan 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lucie Borhyová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20Borhyov%C3%A1",
-        "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dominik Hašek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominik%20Ha%C5%A1ek",
         "pubdate": "Tue, 23 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ledovka dnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ledovka%20dnes",
+        "pubdate": "Tue, 23 Jan 2024 08:00:00 +0100"
       }
     ]
   ]
