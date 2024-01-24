@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2024 , 03:54:20",
+  "lastUpdate": "24-01-2024 , 04:13:27",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Gerard Ekdom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Ekdom",
-        "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oppenheimer",
         "pubdate": "Tue, 23 Jan 2024 19:00:00 +0100"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Gerard Ekdom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Ekdom",
+        "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
         "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
@@ -76,6 +76,13 @@
         "title": "Oscar and the Wolf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oscar%20and%20the%20Wolf",
         "pubdate": "Tue, 23 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "New Hampshire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#New%20Hampshire",
+        "pubdate": "Tue, 23 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Graafschap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ADO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO",
         "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
       }
     ]

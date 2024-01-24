@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2024 , 03:54:15",
+  "lastUpdate": "24-01-2024 , 04:13:22",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
+        "title": "Pre olimpico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pre%20olimpico",
         "pubdate": "Tue, 23 Jan 2024 10:00:00 -0500"
       }
     ],
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
+        "pubdate": "Tue, 23 Jan 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "SPFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
         "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
@@ -48,6 +55,13 @@
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
         "pubdate": "Tue, 23 Jan 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Agua Santa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agua%20Santa",
+        "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
       }
     ],
     [
@@ -66,44 +80,9 @@
     ],
     [
       {
-        "title": "Andressa Urach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
-        "pubdate": "Tue, 23 Jan 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Os 33",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Os%2033",
-        "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novak%20Djokovic",
         "pubdate": "Tue, 23 Jan 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Agua santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agua%20santa",
-        "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Anatomia de uma Queda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Anatomia%20de%20uma%20Queda",
-        "pubdate": "Tue, 23 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Água Santa x Botafogo-SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#%C3%81gua%20Santa%20x%20Botafogo-SP",
-        "pubdate": "Tue, 23 Jan 2024 18:00:00 -0500"
       }
     ],
     [
@@ -136,8 +115,29 @@
     ],
     [
       {
+        "title": "Quina (6347",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%20(6347",
+        "pubdate": "Tue, 23 Jan 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Enquete Paredão BBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20Pared%C3%A3o%20BBB",
+        "pubdate": "Tue, 23 Jan 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Rock in Rio 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rock%20in%20Rio%202024",
+        "pubdate": "Tue, 23 Jan 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Botafogo-SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
         "pubdate": "Tue, 23 Jan 2024 18:00:00 -0500"
       }
     ]
