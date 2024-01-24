@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "24-01-2024 , 20:54:00",
+  "lastUpdate": "24-01-2024 , 21:09:02",
   "data": [
     [
       {
-        "title": "East Bengal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#East%20Bengal",
-        "pubdate": "Thu, 25 Jan 2024 00:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea vs Middlesbrough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chelsea%20vs%20Middlesbrough",
-        "pubdate": "Wed, 24 Jan 2024 00:30:00 +0530"
+        "title": "Fulham vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Fulham%20vs%20Liverpool",
+        "pubdate": "Thu, 25 Jan 2024 01:30:00 +0530"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chelsea",
+        "pubdate": "Wed, 24 Jan 2024 00:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Girl Child Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Girl%20Child%20Day",
         "pubdate": "Wed, 24 Jan 2024 11:30:00 +0530"
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Carabao%20Cup",
-        "pubdate": "Wed, 24 Jan 2024 08:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Prithviraj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prithviraj",
         "pubdate": "Wed, 24 Jan 2024 16:30:00 +0530"
@@ -139,6 +132,13 @@
         "title": "WPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WPL",
         "pubdate": "Wed, 24 Jan 2024 09:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Killers of the Flower Moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Killers%20of%20the%20Flower%20Moon",
+        "pubdate": "Wed, 24 Jan 2024 10:30:00 +0530"
       }
     ]
   ]
