@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-01-2024 , 17:46:38",
+  "lastUpdate": "24-01-2024 , 17:56:01",
   "data": [
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
+        "pubdate": "Wed, 24 Jan 2024 14:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "ASML",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zverev",
-        "pubdate": "Wed, 24 Jan 2024 14:00:00 +0100"
+        "title": "Quincy Promes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
+        "pubdate": "Wed, 24 Jan 2024 15:00:00 +0100"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Quincy Promes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quincy%20Promes",
-        "pubdate": "Wed, 24 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Tue, 23 Jan 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Frank Farian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frank%20Farian",
-        "pubdate": "Tue, 23 Jan 2024 16:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,20 @@
     ],
     [
       {
+        "title": "Mall of the Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mall%20of%20the%20Netherlands",
+        "pubdate": "Tue, 23 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frank Farian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frank%20Farian",
+        "pubdate": "Tue, 23 Jan 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Westland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Westland",
         "pubdate": "Tue, 23 Jan 2024 12:00:00 +0100"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Gerard Ekdom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Ekdom",
-        "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
+        "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
-        "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
+        "title": "Gerard Ekdom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Ekdom",
+        "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "A50",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A50",
         "pubdate": "Mon, 22 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
       }
     ]
   ]
