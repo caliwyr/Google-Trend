@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2024 , 02:46:16",
+  "lastUpdate": "24-01-2024 , 02:55:30",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
-        "pubdate": "Tue, 23 Jan 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Kyle Lowry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kyle%20Lowry",
         "pubdate": "Tue, 23 Jan 2024 11:00:00 -0500"
@@ -38,8 +31,22 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
+        "pubdate": "Tue, 23 Jan 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Algerie Mauritanie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Algerie%20Mauritanie",
+        "pubdate": "Tue, 23 Jan 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Adrian Griffin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adrian%20Griffin",
         "pubdate": "Tue, 23 Jan 2024 16:00:00 -0500"
       }
     ],
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Adrian Griffin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adrian%20Griffin",
-        "pubdate": "Tue, 23 Jan 2024 16:00:00 -0500"
+        "title": "American Fiction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#American%20Fiction",
+        "pubdate": "Tue, 23 Jan 2024 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "American Fiction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#American%20Fiction",
-        "pubdate": "Tue, 23 Jan 2024 11:00:00 -0500"
+        "title": "Emergencies Act",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emergencies%20Act",
+        "pubdate": "Tue, 23 Jan 2024 15:00:00 -0500"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Emergencies Act",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emergencies%20Act",
-        "pubdate": "Tue, 23 Jan 2024 15:00:00 -0500"
+        "title": "Edmonton city hall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20city%20hall",
+        "pubdate": "Tue, 23 Jan 2024 17:00:00 -0500"
       }
     ],
     [
@@ -101,30 +108,9 @@
     ],
     [
       {
-        "title": "Edmonton city hall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20city%20hall",
-        "pubdate": "Tue, 23 Jan 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruce%20Willis",
         "pubdate": "Tue, 23 Jan 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "BostonBruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BostonBruins",
-        "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Common",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Common",
-        "pubdate": "Tue, 23 Jan 2024 02:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "BostonBruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BostonBruins",
+        "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "The Holdovers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Holdovers",
         "pubdate": "Tue, 23 Jan 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Common",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Common",
+        "pubdate": "Tue, 23 Jan 2024 02:00:00 -0500"
       }
     ]
   ]
