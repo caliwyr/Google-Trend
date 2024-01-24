@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2024 , 09:45:59",
+  "lastUpdate": "24-01-2024 , 09:55:16",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Oscar-Nominierungen 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscar-Nominierungen%202024",
+        "title": "Oscarnominierungen 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscarnominierungen%202024",
         "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "3. Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
+        "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "MSV Duisburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MSV%20Duisburg",
-        "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
+        "title": "Marco Neppe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marco%20Neppe",
+        "pubdate": "Tue, 23 Jan 2024 14:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Tuchel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
+        "pubdate": "Mon, 22 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kay Bernstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kay%20Bernstein",
         "pubdate": "Sun, 21 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Caren Miosga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Caren%20Miosga",
-        "pubdate": "Sun, 21 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sun, 21 Jan 2024 15:00:00 +0100"
       }
     ]
   ]
