@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2024 , 23:55:29",
+  "lastUpdate": "25-01-2024 , 00:59:56",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Coquimbo Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
+        "pubdate": "Wed, 24 Jan 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Greta Gerwig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Greta%20Gerwig",
         "pubdate": "Wed, 24 Jan 2024 02:00:00 -0300"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Reforma de pensiones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Reforma%20de%20pensiones",
-        "pubdate": "Wed, 24 Jan 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Ignacio corvalan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ignacio%20corvalan",
         "pubdate": "Wed, 24 Jan 2024 14:00:00 -0300"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Coquimbo Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
-        "pubdate": "Wed, 24 Jan 2024 18:00:00 -0300"
+        "title": "Reforma de pensiones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Reforma%20de%20pensiones",
+        "pubdate": "Wed, 24 Jan 2024 15:00:00 -0300"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Sismología",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismolog%C3%ADa",
         "pubdate": "Wed, 24 Jan 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Catolica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Catolica",
+        "pubdate": "Wed, 24 Jan 2024 21:00:00 -0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Emma Stone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Emma%20Stone",
-        "pubdate": "Wed, 24 Jan 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Anatomia de una caida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anatomia%20de%20una%20caida",
-        "pubdate": "Wed, 24 Jan 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Diego ibañez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diego%20iba%C3%B1ez",
         "pubdate": "Wed, 24 Jan 2024 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Pedrini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Pedrini",
+        "pubdate": "Wed, 24 Jan 2024 19:00:00 -0300"
       }
     ]
   ]
