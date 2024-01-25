@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2024 , 10:50:23",
+  "lastUpdate": "25-01-2024 , 10:59:40",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona",
         "pubdate": "Wed, 24 Jan 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gareca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gareca",
+        "pubdate": "Wed, 24 Jan 2024 12:00:00 -0300"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Seleccion Chilena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Seleccion%20Chilena",
-        "pubdate": "Wed, 24 Jan 2024 17:00:00 -0300"
+        "title": "Diego ibañez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diego%20iba%C3%B1ez",
+        "pubdate": "Wed, 24 Jan 2024 20:00:00 -0300"
       }
     ],
     [
@@ -104,13 +111,6 @@
         "title": "Dayana Yastremska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dayana%20Yastremska",
         "pubdate": "Wed, 24 Jan 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Diego ibañez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diego%20iba%C3%B1ez",
-        "pubdate": "Wed, 24 Jan 2024 20:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Carlos Pedrini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Pedrini",
-        "pubdate": "Wed, 24 Jan 2024 19:00:00 -0300"
+        "title": "Incendio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio",
+        "pubdate": "Wed, 24 Jan 2024 21:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Benfica",
-        "pubdate": "Wed, 24 Jan 2024 21:00:00 -0300"
+        "title": "Carlos Pedrini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Pedrini",
+        "pubdate": "Wed, 24 Jan 2024 19:00:00 -0300"
       }
     ]
   ]
