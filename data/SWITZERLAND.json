@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-01-2024 , 22:44:03",
+  "lastUpdate": "25-01-2024 , 22:53:24",
   "data": [
-    [
-      {
-        "title": "Josef Fritzl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Josef%20Fritzl",
-        "pubdate": "Thu, 25 Jan 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Sabalenka",
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Lara Fabian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Fabian",
-        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
+        "title": "Fritzl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fritzl",
+        "pubdate": "Thu, 25 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -69,6 +62,20 @@
         "title": "Jesse Jane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jesse%20Jane",
         "pubdate": "Thu, 25 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lara Fabian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Fabian",
+        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Januar Vollmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Januar%20Vollmond",
+        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
       }
     ],
     [
@@ -82,13 +89,6 @@
       {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
-        "pubdate": "Thu, 25 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ferienmesse Bern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ferienmesse%20Bern",
         "pubdate": "Thu, 25 Jan 2024 14:00:00 +0100"
       }
     ],
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Januar Vollmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Januar%20Vollmond",
-        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
+        "title": "Ferienmesse Bern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ferienmesse%20Bern",
+        "pubdate": "Thu, 25 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serge Lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serge%20Lama",
+        "pubdate": "Thu, 25 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Simone Pafundi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simone%20Pafundi",
-        "pubdate": "Thu, 25 Jan 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zheng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zheng",
         "pubdate": "Thu, 25 Jan 2024 14:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Camille Etienne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Camille%20Etienne",
-        "pubdate": "Thu, 25 Jan 2024 21:00:00 +0100"
+        "title": "Simone Pafundi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simone%20Pafundi",
+        "pubdate": "Thu, 25 Jan 2024 16:00:00 +0100"
       }
     ]
   ]
