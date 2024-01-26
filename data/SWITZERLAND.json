@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-01-2024 , 11:48:45",
+  "lastUpdate": "26-01-2024 , 11:57:59",
   "data": [
+    [
+      {
+        "title": "Cortina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cortina",
+        "pubdate": "Fri, 26 Jan 2024 12:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Stephen Hawking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stephen%20Hawking",
-        "pubdate": "Fri, 26 Jan 2024 01:00:00 +0100"
+        "title": "Sacha Boey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sacha%20Boey",
+        "pubdate": "Fri, 26 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BYD",
-        "pubdate": "Fri, 26 Jan 2024 08:00:00 +0100"
+        "title": "Stephen Hawking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stephen%20Hawking",
+        "pubdate": "Fri, 26 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sonja Zietlow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonja%20Zietlow",
+        "pubdate": "Fri, 26 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Sonja Zietlow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonja%20Zietlow",
-        "pubdate": "Fri, 26 Jan 2024 10:00:00 +0100"
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BYD",
+        "pubdate": "Fri, 26 Jan 2024 08:00:00 +0100"
       }
     ],
     [
@@ -59,8 +73,15 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "title": "Klopp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klopp",
+        "pubdate": "Fri, 26 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
         "pubdate": "Thu, 25 Jan 2024 10:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Tesla-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
         "pubdate": "Thu, 25 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
-        "pubdate": "Thu, 25 Jan 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Januar Vollmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Januar%20Vollmond",
-        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lara Fabian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Fabian",
-        "pubdate": "Thu, 25 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
