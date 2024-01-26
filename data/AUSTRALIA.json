@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-01-2024 , 21:53:20",
+  "lastUpdate": "26-01-2024 , 22:08:47",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+        "pubdate": "Sat, 27 Jan 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Aston%20Villa",
+        "pubdate": "Sat, 27 Jan 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Austin Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Austin%20Butler",
         "pubdate": "Sat, 27 Jan 2024 00:00:00 +1100"
@@ -27,6 +41,13 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic",
         "pubdate": "Fri, 26 Jan 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zverev",
+        "pubdate": "Fri, 26 Jan 2024 20:00:00 +1100"
       }
     ],
     [
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies",
-        "pubdate": "Fri, 26 Jan 2024 19:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Australian flag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20flag",
         "pubdate": "Fri, 26 Jan 2024 02:00:00 +1100"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Road House",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Road%20House",
-        "pubdate": "Fri, 26 Jan 2024 16:00:00 +1100"
+        "title": "West Indies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies",
+        "pubdate": "Fri, 26 Jan 2024 19:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Melbourne Victory",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Victory",
         "pubdate": "Fri, 26 Jan 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tekken 8",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tekken%208",
-        "pubdate": "Fri, 26 Jan 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Justin Timberlake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justin%20Timberlake",
-        "pubdate": "Fri, 26 Jan 2024 19:00:00 +1100"
       }
     ]
   ]
