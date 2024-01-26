@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-01-2024 , 06:48:45",
+  "lastUpdate": "26-01-2024 , 06:58:08",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Hercules",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hercules",
         "pubdate": "Thu, 25 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
-        "pubdate": "Thu, 25 Jan 2024 18:00:00 +0100"
       }
     ],
     [
@@ -66,15 +59,15 @@
     ],
     [
       {
-        "title": "Porsche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Porsche",
-        "pubdate": "Thu, 25 Jan 2024 22:00:00 +0100"
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 24 Jan 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "title": "Feyenoord-PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-PSV",
         "pubdate": "Wed, 24 Jan 2024 10:00:00 +0100"
       }
     ],
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Halloumi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halloumi",
-        "pubdate": "Wed, 24 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paleis Soestdijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paleis%20Soestdijk",
         "pubdate": "Wed, 24 Jan 2024 20:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Westland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Westland",
         "pubdate": "Tue, 23 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sabalenka",
+        "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Peter R. de Vries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Peter%20R.%20de%20Vries",
+        "pubdate": "Tue, 23 Jan 2024 17:00:00 +0100"
       }
     ]
   ]
