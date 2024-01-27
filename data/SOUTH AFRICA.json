@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2024 , 05:44:14",
+  "lastUpdate": "27-01-2024 , 05:53:43",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City",
         "pubdate": "Fri, 26 Jan 2024 17:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Jurgen Klopp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jurgen%20Klopp",
         "pubdate": "Fri, 26 Jan 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City",
-        "pubdate": "Fri, 26 Jan 2024 21:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Vince McMahon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vince%20McMahon",
-        "pubdate": "Fri, 26 Jan 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sevens Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevens%20Rugby",
         "pubdate": "Fri, 26 Jan 2024 15:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "King Misuzulu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#King%20Misuzulu",
+        "title": "Vince McMahon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vince%20McMahon",
+        "pubdate": "Fri, 26 Jan 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bravo B Big Brother",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bravo%20B%20Big%20Brother",
         "pubdate": "Fri, 26 Jan 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al Jazeera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Jazeera",
+        "pubdate": "Fri, 26 Jan 2024 16:00:00 +0200"
       }
     ]
   ]
