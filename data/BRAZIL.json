@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-01-2024 , 18:44:29",
+  "lastUpdate": "27-01-2024 , 18:53:57",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
         "pubdate": "Sat, 27 Jan 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
+        "pubdate": "Sat, 27 Jan 2024 12:00:00 -0500"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Barcelona x Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Villarreal",
-        "pubdate": "Sat, 27 Jan 2024 12:00:00 -0500"
+        "title": "Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brighton",
+        "pubdate": "Sat, 27 Jan 2024 11:00:00 -0500"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtic",
         "pubdate": "Sat, 27 Jan 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rangers",
-        "pubdate": "Sat, 27 Jan 2024 10:00:00 -0500"
       }
     ],
     [
@@ -101,16 +101,23 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea",
-        "pubdate": "Fri, 26 Jan 2024 11:00:00 -0500"
+        "title": "Klopp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Klopp",
+        "pubdate": "Fri, 26 Jan 2024 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Klopp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Klopp",
-        "pubdate": "Fri, 26 Jan 2024 07:00:00 -0500"
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City",
+        "pubdate": "Fri, 26 Jan 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea x Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea%20x%20Aston%20Villa",
+        "pubdate": "Fri, 26 Jan 2024 11:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Puma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Puma",
         "pubdate": "Fri, 26 Jan 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Mavericks",
-        "pubdate": "Fri, 26 Jan 2024 22:00:00 -0500"
       }
     ]
   ]

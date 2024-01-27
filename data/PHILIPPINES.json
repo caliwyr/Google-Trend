@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2024 , 18:44:36",
+  "lastUpdate": "27-01-2024 , 18:54:03",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Eyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Eyes",
         "pubdate": "Sat, 27 Jan 2024 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Doctor Slump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Doctor%20Slump",
+        "pubdate": "Sat, 27 Jan 2024 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Daniil Medvedev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Daniil%20Medvedev",
         "pubdate": "Sat, 27 Jan 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dev Patel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dev%20Patel",
-        "pubdate": "Sat, 27 Jan 2024 19:00:00 +0800"
       }
     ]
   ]
