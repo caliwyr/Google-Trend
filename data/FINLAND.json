@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2024 , 21:42:48",
+  "lastUpdate": "27-01-2024 , 21:52:18",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Henry Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Ford",
-        "pubdate": "Sat, 27 Jan 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UNRWA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UNRWA",
         "pubdate": "Sat, 27 Jan 2024 15:00:00 +0200"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Henry Ford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Ford",
+        "pubdate": "Sat, 27 Jan 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schonach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Schonach",
         "pubdate": "Sat, 27 Jan 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jodie Foster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jodie%20Foster",
+        "pubdate": "Sat, 27 Jan 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Zach Parise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zach%20Parise",
-        "pubdate": "Sat, 27 Jan 2024 18:00:00 +0200"
+        "title": "Goms",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Goms",
+        "pubdate": "Sat, 27 Jan 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Luka Doncic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Luka%20Doncic",
-        "pubdate": "Sat, 27 Jan 2024 20:00:00 +0200"
+        "title": "Zach Parise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zach%20Parise",
+        "pubdate": "Sat, 27 Jan 2024 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Luka Doncic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Luka%20Doncic",
+        "pubdate": "Sat, 27 Jan 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PGA Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PGA%20Tour",
         "pubdate": "Sat, 27 Jan 2024 01:00:00 +0200"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Chelsea – Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Aston%20Villa",
-        "pubdate": "Sat, 27 Jan 2024 12:00:00 +0200"
+        "title": "New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York",
+        "pubdate": "Sat, 27 Jan 2024 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Apple TV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Apple%20TV",
         "pubdate": "Fri, 26 Jan 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Zone of Interest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Zone%20of%20Interest",
-        "pubdate": "Fri, 26 Jan 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Schumacher",
-        "pubdate": "Fri, 26 Jan 2024 18:00:00 +0200"
       }
     ]
   ]
