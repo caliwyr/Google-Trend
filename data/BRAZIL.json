@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2024 , 16:45:30",
+  "lastUpdate": "28-01-2024 , 16:54:47",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Sun, 28 Jan 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Union%20Berlin",
+        "pubdate": "Sun, 28 Jan 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Bell Marques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bell%20Marques",
         "pubdate": "Sun, 28 Jan 2024 00:00:00 -0500"
@@ -48,6 +62,13 @@
         "title": "Carlinhos Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlinhos%20Brown",
         "pubdate": "Sun, 28 Jan 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Wolverhampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolverhampton",
+        "pubdate": "Sun, 28 Jan 2024 11:00:00 -0500"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Bahia de Feira x Bahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20de%20Feira%20x%20Bahia",
-        "pubdate": "Sat, 27 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Barcelona x Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Villarreal",
         "pubdate": "Sat, 27 Jan 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo x Sampaio Corrêa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20Sampaio%20Corr%C3%AAa",
-        "pubdate": "Sat, 27 Jan 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sat, 27 Jan 2024 06:00:00 -0500"
       }
     ]
   ]

@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "28-01-2024 , 16:45:36",
+  "lastUpdate": "28-01-2024 , 16:54:53",
   "data": [
     [
       {
-        "title": "Heerenveen  AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20AZ",
+        "title": "Feyenoord  Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Twente",
         "pubdate": "Sun, 28 Jan 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Feyenoord  Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Twente",
+        "title": "Heerenveen  AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20AZ",
         "pubdate": "Sun, 28 Jan 2024 12:00:00 +0100"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "Bram Bakker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bram%20Bakker",
         "pubdate": "Sun, 28 Jan 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hogeschool Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hogeschool%20Utrecht",
+        "pubdate": "Sun, 28 Jan 2024 17:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
+        "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sat, 27 Jan 2024 01:00:00 +0100"
@@ -104,20 +118,6 @@
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Barcelona",
         "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
-        "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jordan Stolz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jordan%20Stolz",
-        "pubdate": "Sat, 27 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
+        "title": "VVD-congres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVD-congres",
+        "pubdate": "Sat, 27 Jan 2024 18:00:00 +0100"
       }
     ]
   ]
