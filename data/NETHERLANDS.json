@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-01-2024 , 09:42:43",
+  "lastUpdate": "28-01-2024 , 09:52:18",
   "data": [
     [
       {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
+        "title": "Van Gerwen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
         "pubdate": "Sun, 28 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sat, 27 Jan 2024 19:00:00 +0100"
+        "title": "Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
+        "pubdate": "Sun, 28 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Heracles  Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles%20%20Ajax",
         "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sat, 27 Jan 2024 20:00:00 +0100"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Darts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
-        "pubdate": "Sat, 27 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "RKC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
         "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sat, 27 Jan 2024 01:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Tiny Kox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tiny%20Kox",
-        "pubdate": "Sat, 27 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Raymond van Barneveld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Raymond%20van%20Barneveld",
         "pubdate": "Sat, 27 Jan 2024 21:00:00 +0100"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "PEC  Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20%20Vitesse",
+        "pubdate": "Fri, 26 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
         "pubdate": "Fri, 26 Jan 2024 22:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "PEC  Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20%20Vitesse",
-        "pubdate": "Fri, 26 Jan 2024 20:00:00 +0100"
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Fri, 26 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Salt Lake City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salt%20Lake%20City",
+        "pubdate": "Fri, 26 Jan 2024 22:00:00 +0100"
       }
     ]
   ]
