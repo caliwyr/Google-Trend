@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2024 , 23:55:40",
+  "lastUpdate": "28-01-2024 , 00:58:44",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Sat, 27 Jan 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sabalenka",
         "pubdate": "Sat, 27 Jan 2024 10:00:00 -0800"
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "pubdate": "Sat, 27 Jan 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Iowa State basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iowa%20State%20basketball",
         "pubdate": "Sat, 27 Jan 2024 12:00:00 -0800"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Sherrone Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sherrone%20Moore",
+        "pubdate": "Sat, 27 Jan 2024 04:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Bucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
         "pubdate": "Sat, 27 Jan 2024 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Duke basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20basketball",
+        "pubdate": "Sat, 27 Jan 2024 16:00:00 -0800"
       }
     ],
     [
@@ -80,16 +94,23 @@
     ],
     [
       {
-        "title": "Gasparilla 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gasparilla%202024",
-        "pubdate": "Sat, 27 Jan 2024 11:00:00 -0800"
+        "title": "Jay Leno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jay%20Leno",
+        "pubdate": "Sat, 27 Jan 2024 15:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Jay Leno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jay%20Leno",
+        "title": "Illinois basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball",
         "pubdate": "Sat, 27 Jan 2024 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Julius Randle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Julius%20Randle",
+        "pubdate": "Sat, 27 Jan 2024 16:00:00 -0800"
       }
     ],
     [
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Luka Doncic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luka%20Doncic",
-        "pubdate": "Fri, 26 Jan 2024 19:00:00 -0800"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barca",
+        "pubdate": "Sat, 27 Jan 2024 15:00:00 -0800"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FA%20Cup",
-        "pubdate": "Fri, 26 Jan 2024 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Royal Rumble 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Royal%20Rumble%202024",
-        "pubdate": "Fri, 26 Jan 2024 21:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Nicki Minaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicki%20Minaj",
-        "pubdate": "Fri, 26 Jan 2024 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Kobe Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
-        "pubdate": "Fri, 26 Jan 2024 07:00:00 -0800"
+        "title": "Luka Doncic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luka%20Doncic",
+        "pubdate": "Fri, 26 Jan 2024 19:00:00 -0800"
       }
     ]
   ]
