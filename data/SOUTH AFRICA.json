@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2024 , 09:47:01",
+  "lastUpdate": "29-01-2024 , 09:56:21",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#La%20Liga",
+        "pubdate": "Sun, 28 Jan 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
         "pubdate": "Sun, 28 Jan 2024 22:00:00 +0200"
@@ -41,13 +48,6 @@
         "title": "West Brom vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Brom%20vs%20Wolves",
         "pubdate": "Sun, 28 Jan 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celta Vigo vs Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celta%20Vigo%20vs%20Girona",
-        "pubdate": "Sun, 28 Jan 2024 15:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "AKA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AKA",
+        "pubdate": "Sun, 28 Jan 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Warriors vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Warriors%20vs%20Lakers",
         "pubdate": "Sun, 28 Jan 2024 10:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Union%20Berlin",
         "pubdate": "Sun, 28 Jan 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup%20draw",
-        "pubdate": "Sun, 28 Jan 2024 22:00:00 +0200"
       }
     ]
   ]
