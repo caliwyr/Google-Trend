@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2024 , 08:50:28",
+  "lastUpdate": "29-01-2024 , 08:59:51",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sun, 28 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Icon of the Seas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Icon%20of%20the%20Seas",
         "pubdate": "Sun, 28 Jan 2024 10:00:00 +0100"
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sun, 28 Jan 2024 15:00:00 +0100"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Sun, 28 Jan 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Handball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
-        "pubdate": "Sun, 28 Jan 2024 20:00:00 +0100"
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sun, 28 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -59,23 +52,9 @@
     ],
     [
       {
-        "title": "Tatort Saarbrücken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Saarbr%C3%BCcken",
-        "pubdate": "Sun, 28 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Strack-Zimmermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
         "pubdate": "Sun, 28 Jan 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "GDL Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL%20Streik",
-        "pubdate": "Sun, 28 Jan 2024 10:00:00 +0100"
       }
     ],
     [
@@ -94,9 +73,9 @@
     ],
     [
       {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
-        "pubdate": "Sat, 27 Jan 2024 17:00:00 +0100"
+        "title": "Frankreich Dänemark Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20D%C3%A4nemark%20Handball",
+        "pubdate": "Sun, 28 Jan 2024 20:00:00 +0100"
       }
     ],
     [
@@ -104,6 +83,13 @@
         "title": "Handball Deutschland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Deutschland",
         "pubdate": "Sat, 27 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sahra Wagenknecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
+        "pubdate": "Sat, 27 Jan 2024 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jürgen Klopp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klopp",
         "pubdate": "Fri, 26 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Fri, 26 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Medvedev",
+        "pubdate": "Fri, 26 Jan 2024 16:00:00 +0100"
       }
     ]
   ]
