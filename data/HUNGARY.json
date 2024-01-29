@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-01-2024 , 03:47:17",
+  "lastUpdate": "29-01-2024 , 03:56:40",
   "data": [
-    [
-      {
-        "title": "Lamar Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lamar%20Jackson",
-        "pubdate": "Mon, 29 Jan 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Jannik Sinner",
@@ -34,13 +27,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
         "pubdate": "Sun, 28 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FIORENTINA–INTER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FIORENTINA%E2%80%93INTER",
-        "pubdate": "Sun, 28 Jan 2024 19:00:00 +0100"
       }
     ],
     [
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "LAZIO–NAPOLI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#LAZIO%E2%80%93NAPOLI",
+        "pubdate": "Sun, 28 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tgm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tgm",
         "pubdate": "Sun, 28 Jan 2024 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "UNRWA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UNRWA",
         "pubdate": "Sun, 28 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kobra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kobra",
+        "pubdate": "Sun, 28 Jan 2024 23:00:00 +0100"
       }
     ]
   ]
