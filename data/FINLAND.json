@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2024 , 13:51:05",
+  "lastUpdate": "30-01-2024 , 14:00:30",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl",
+        "pubdate": "Mon, 29 Jan 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kamila Valieva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamila%20Valieva",
         "pubdate": "Mon, 29 Jan 2024 22:00:00 +0200"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Super Bowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl",
-        "pubdate": "Mon, 29 Jan 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WEF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WEF",
         "pubdate": "Mon, 29 Jan 2024 08:00:00 +0200"
@@ -61,13 +61,6 @@
       {
         "title": "Travis Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Travis%20Kelce",
-        "pubdate": "Mon, 29 Jan 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Superbowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Superbowl",
         "pubdate": "Mon, 29 Jan 2024 15:00:00 +0200"
       }
     ],
@@ -132,6 +125,13 @@
         "title": "Icon of the Seas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Icon%20of%20the%20Seas",
         "pubdate": "Sun, 28 Jan 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Sun, 28 Jan 2024 21:00:00 +0200"
       }
     ],
     [
