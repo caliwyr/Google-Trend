@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-01-2024 , 08:54:27",
+  "lastUpdate": "30-01-2024 , 09:11:04",
   "data": [
+    [
+      {
+        "title": "CM Punk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CM%20Punk",
+        "pubdate": "Tue, 30 Jan 2024 08:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Evergrande",
@@ -24,16 +31,23 @@
     ],
     [
       {
-        "title": "Super Bowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Super%20Bowl",
-        "pubdate": "Mon, 29 Jan 2024 00:00:00 +0000"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Inter%20Miami",
+        "pubdate": "Mon, 29 Jan 2024 19:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Inter%20Miami",
-        "pubdate": "Mon, 29 Jan 2024 19:00:00 +0000"
+        "title": "Wrexham fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wrexham%20fc",
+        "pubdate": "Mon, 29 Jan 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#49ers",
+        "pubdate": "Mon, 29 Jan 2024 08:00:00 +0000"
       }
     ],
     [
@@ -62,6 +76,13 @@
         "title": "Despicable Me 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Despicable%20Me%204",
         "pubdate": "Mon, 29 Jan 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Ed Westwick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ed%20Westwick",
+        "pubdate": "Mon, 29 Jan 2024 20:00:00 +0000"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Amy Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Amy%20Jackson",
-        "pubdate": "Mon, 29 Jan 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Suicide Squad: Kill the Justice League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Suicide%20Squad:%20Kill%20the%20Justice%20League",
         "pubdate": "Mon, 29 Jan 2024 21:00:00 +0000"
@@ -125,20 +139,6 @@
         "title": "Hannah Love Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hannah%20Love%20Island",
         "pubdate": "Mon, 29 Jan 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bristol stabbing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bristol%20stabbing",
-        "pubdate": "Mon, 29 Jan 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dortmund",
-        "pubdate": "Mon, 29 Jan 2024 00:00:00 +0000"
       }
     ]
   ]

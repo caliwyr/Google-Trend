@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-01-2024 , 08:54:26",
+  "lastUpdate": "30-01-2024 , 09:11:02",
   "data": [
     [
       {
         "title": "Valora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Valora",
         "pubdate": "Tue, 30 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BYD",
+        "pubdate": "Tue, 30 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Bayer-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayer-Aktie",
         "pubdate": "Tue, 30 Jan 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amelia Earhart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amelia%20Earhart",
+        "pubdate": "Tue, 30 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Größtes Kreuzfahrtschiff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gr%C3%B6%C3%9Ftes%20Kreuzfahrtschiff",
-        "pubdate": "Mon, 29 Jan 2024 07:00:00 +0100"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+        "pubdate": "Mon, 29 Jan 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
-        "pubdate": "Mon, 29 Jan 2024 19:00:00 +0100"
+        "title": "Größtes Kreuzfahrtschiff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gr%C3%B6%C3%9Ftes%20Kreuzfahrtschiff",
+        "pubdate": "Mon, 29 Jan 2024 07:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al-Hilal",
         "pubdate": "Mon, 29 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Davos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davos",
-        "pubdate": "Mon, 29 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#T%C3%BCrkei",
-        "pubdate": "Mon, 29 Jan 2024 22:00:00 +0100"
       }
     ]
   ]
