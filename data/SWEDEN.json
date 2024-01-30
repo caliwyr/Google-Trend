@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2024 , 22:46:45",
+  "lastUpdate": "30-01-2024 , 22:56:30",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "HV71",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
+        "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "KTH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#KTH",
         "pubdate": "Tue, 30 Jan 2024 00:00:00 +0100"
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Melodifestivalen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen",
+        "pubdate": "Tue, 30 Jan 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Transparency International",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Transparency%20International",
         "pubdate": "Tue, 30 Jan 2024 12:00:00 +0100"
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Växjö Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4xj%C3%B6%20Lakers",
+        "title": "Häcken Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20Real%20Madrid",
         "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
       }
     ],
@@ -87,23 +101,9 @@
     ],
     [
       {
-        "title": "Häcken Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20Real%20Madrid",
-        "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jonah Kusi-Asare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonah%20Kusi-Asare",
         "pubdate": "Tue, 30 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Erik Christensen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erik%20Christensen",
-        "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Gert Wingårdh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gert%20Wing%C3%A5rdh",
-        "pubdate": "Mon, 29 Jan 2024 21:00:00 +0100"
+        "title": "Ringsjön",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ringsj%C3%B6n",
+        "pubdate": "Mon, 29 Jan 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ringsjön",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ringsj%C3%B6n",
-        "pubdate": "Mon, 29 Jan 2024 09:00:00 +0100"
+        "title": "Patrik Laine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrik%20Laine",
+        "pubdate": "Mon, 29 Jan 2024 00:00:00 +0100"
       }
     ]
   ]
