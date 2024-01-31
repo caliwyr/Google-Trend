@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2024 , 15:42:41",
+  "lastUpdate": "31-01-2024 , 15:52:08",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "Microsoft stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
         "pubdate": "Wed, 31 Jan 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wärtsilä",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#W%C3%A4rtsil%C3%A4",
+        "pubdate": "Wed, 31 Jan 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polestar 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Polestar%204",
+        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20Miami",
-        "pubdate": "Mon, 29 Jan 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Heart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Heart",
         "pubdate": "Mon, 29 Jan 2024 20:00:00 +0200"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inter%20Miami",
+        "pubdate": "Mon, 29 Jan 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kamila Valieva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamila%20Valieva",
         "pubdate": "Mon, 29 Jan 2024 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Vigil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vigil",
         "pubdate": "Mon, 29 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wef",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wef",
-        "pubdate": "Mon, 29 Jan 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Travis Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Travis%20Kelce",
-        "pubdate": "Mon, 29 Jan 2024 15:00:00 +0200"
       }
     ]
   ]
