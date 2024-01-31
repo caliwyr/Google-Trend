@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2024 , 02:44:44",
+  "lastUpdate": "31-01-2024 , 02:54:24",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Arnold Karskens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arnold%20Karskens",
+        "pubdate": "Tue, 30 Jan 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Schammenkamp Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schammenkamp%20Rotterdam",
         "pubdate": "Mon, 29 Jan 2024 23:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Kamp van Koningsbrugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kamp%20van%20Koningsbrugge",
         "pubdate": "Sun, 28 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
-        "pubdate": "Sun, 28 Jan 2024 12:00:00 +0100"
       }
     ]
   ]
