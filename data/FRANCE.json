@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-01-2024 , 18:46:08",
+  "lastUpdate": "31-01-2024 , 18:55:41",
   "data": [
-    [
-      {
-        "title": "Benoit Kounkoud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benoit%20Kounkoud",
-        "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Muriel Cousin",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Benoît Kounkoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Beno%C3%AEt%20Kounkoud",
+        "pubdate": "Wed, 31 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amine Adli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amine%20Adli",
         "pubdate": "Wed, 31 Jan 2024 14:00:00 +0100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Retour chez ma mère",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Retour%20chez%20ma%20m%C3%A8re",
-        "pubdate": "Wed, 31 Jan 2024 06:00:00 +0100"
+        "title": "Marie Labory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Labory",
+        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
       }
     ],
     [
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Maroc-Afrique du Sud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc-Afrique%20du%20Sud",
+        "title": "Maroc Afrique du Sud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc%20Afrique%20du%20Sud",
         "pubdate": "Tue, 30 Jan 2024 02:00:00 +0100"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Mali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mali",
-        "pubdate": "Tue, 30 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Helena Noguerra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Helena%20Noguerra",
         "pubdate": "Tue, 30 Jan 2024 14:00:00 +0100"
@@ -122,15 +115,15 @@
     ],
     [
       {
-        "title": "Isabelle Mergault",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Mergault",
-        "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
+        "title": "Mali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mali",
+        "pubdate": "Tue, 30 Jan 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marine Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
+        "title": "Isabelle Mergault",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Mergault",
         "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "La Zone d'intérêt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Zone%20d'int%C3%A9r%C3%AAt",
         "pubdate": "Tue, 30 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marine Le Pen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
+        "pubdate": "Tue, 30 Jan 2024 21:00:00 +0100"
       }
     ]
   ]
