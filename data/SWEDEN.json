@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-01-2024 , 23:42:47",
+  "lastUpdate": "31-01-2024 , 23:52:06",
   "data": [
+    [
+      {
+        "title": "John Vanbiesbrouck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#John%20Vanbiesbrouck",
+        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Helena Helmersson",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Stormen Ingunn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stormen%20Ingunn",
-        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Polestar 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Polestar%204",
         "pubdate": "Wed, 31 Jan 2024 11:00:00 +0100"
@@ -34,6 +34,27 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Wed, 31 Jan 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stormen Ingunn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stormen%20Ingunn",
+        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Macron Lund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macron%20Lund",
+        "pubdate": "Wed, 31 Jan 2024 12:00:00 +0100"
       }
     ],
     [
@@ -59,6 +80,13 @@
     ],
     [
       {
+        "title": "Liverpool Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool%20Chelsea",
+        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ewan McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ewan%20McGregor",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
@@ -73,16 +101,16 @@
     ],
     [
       {
-        "title": "Liverpool Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool%20Chelsea",
-        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
+        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
-        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Port Vale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Port%20Vale",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
-        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Botheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Botheim",
-        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bellingcat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bellingcat",
-        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
-        "pubdate": "Tue, 30 Jan 2024 23:00:00 +0100"
       }
     ]
   ]

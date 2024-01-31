@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "31-01-2024 , 23:42:46",
+  "lastUpdate": "31-01-2024 , 23:52:05",
   "data": [
+    [
+      {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BRICS",
+        "pubdate": "Thu, 01 Feb 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
+        "pubdate": "Wed, 31 Jan 2024 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Barcelona - Osasuna",
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "Tottenham  Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20%20Brentford",
-        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Viktor Orban",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Viktor%20Orban",
         "pubdate": "Wed, 31 Jan 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid - Rayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atl%C3%A9tico%20Madrid%20-%20Rayo",
-        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Deep Fear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Deep%20Fear",
-        "pubdate": "Wed, 31 Jan 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ronald Gavril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ronald%20Gavril",
         "pubdate": "Wed, 31 Jan 2024 22:00:00 +0200"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Laura Cosoi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laura%20Cosoi",
-        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0200"
+        "title": "Deep Fear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Deep%20Fear",
+        "pubdate": "Wed, 31 Jan 2024 11:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina",
         "pubdate": "Wed, 31 Jan 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laura Cosoi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laura%20Cosoi",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0200"
       }
     ],
     [
