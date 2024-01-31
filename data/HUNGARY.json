@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-01-2024 , 21:48:00",
+  "lastUpdate": "31-01-2024 , 21:57:25",
   "data": [
-    [
-      {
-        "title": "Barcelona–osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93osasuna",
-        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Liverpool–Chelsea",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
-        "pubdate": "Wed, 31 Jan 2024 06:00:00 +0100"
+        "title": "Barcelona–osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93osasuna",
+        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
       }
     ],
     [
@@ -38,51 +31,9 @@
     ],
     [
       {
-        "title": "Závodszky Noémi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%C3%A1vodszky%20No%C3%A9mi",
-        "pubdate": "Wed, 31 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Elisabeth Moss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elisabeth%20Moss",
         "pubdate": "Wed, 31 Jan 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barkó György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bark%C3%B3%20Gy%C3%B6rgy",
-        "pubdate": "Wed, 31 Jan 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pintér Tibor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20Tibor",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pokimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pokimane",
-        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haaland",
-        "pubdate": "Wed, 31 Jan 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gene Hackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gene%20Hackman",
-        "pubdate": "Wed, 31 Jan 2024 13:00:00 +0100"
       }
     ],
     [
@@ -94,9 +45,58 @@
     ],
     [
       {
+        "title": "Lola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lola",
+        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barkó György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bark%C3%B3%20Gy%C3%B6rgy",
+        "pubdate": "Wed, 31 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pokimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pokimane",
+        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pintér Tibor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20Tibor",
+        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gene Hackman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gene%20Hackman",
+        "pubdate": "Wed, 31 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haaland",
+        "pubdate": "Wed, 31 Jan 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Éves autópálya-matrica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89ves%20aut%C3%B3p%C3%A1lya-matrica",
         "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20League",
+        "pubdate": "Tue, 30 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Premier liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Premier%20liga",
-        "pubdate": "Tue, 30 Jan 2024 22:00:00 +0100"
+        "title": "Ilaria Salis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ilaria%20Salis",
+        "pubdate": "Tue, 30 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ilaria Salis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ilaria%20Salis",
-        "pubdate": "Tue, 30 Jan 2024 09:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+        "pubdate": "Tue, 30 Jan 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Tue, 30 Jan 2024 20:00:00 +0100"
+        "title": "Horkai Zoltán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horkai%20Zolt%C3%A1n",
+        "pubdate": "Tue, 30 Jan 2024 15:00:00 +0100"
       }
     ]
   ]

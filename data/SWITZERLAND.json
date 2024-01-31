@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "31-01-2024 , 21:48:05",
+  "lastUpdate": "31-01-2024 , 21:57:30",
   "data": [
+    [
+      {
+        "title": "Super League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
+        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
+        "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Adele",
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "St. Gallen gegen Servette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Gallen%20gegen%20Servette",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Heino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heino",
         "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
@@ -55,6 +62,13 @@
         "title": "Polestar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polestar",
         "pubdate": "Wed, 31 Jan 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julius Bär",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julius%20B%C3%A4r",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
       }
     ],
     [
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Julius baer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julius%20baer",
+        "title": "Liverpool gegen Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Chelsea",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
       }
     ],
@@ -101,20 +115,6 @@
     ],
     [
       {
-        "title": "Barcelone – Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelone%20%E2%80%93%20Osasuna",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alphabet-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alphabet-Aktie",
-        "pubdate": "Wed, 31 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Judith Magre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Judith%20Magre",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Argylle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Argylle",
-        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0100"
+        "title": "Michael Tsokos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Tsokos",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "The Beekeeper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Beekeeper",
-        "pubdate": "Wed, 31 Jan 2024 11:00:00 +0100"
+        "title": "Alphabet-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alphabet-Aktie",
+        "pubdate": "Wed, 31 Jan 2024 08:00:00 +0100"
       }
     ]
   ]
