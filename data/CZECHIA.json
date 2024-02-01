@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 15:41:56",
+  "lastUpdate": "01-02-2024 , 15:51:14",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Orbán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orb%C3%A1n",
-        "pubdate": "Thu, 01 Feb 2024 09:00:00 +0100"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1",
+        "pubdate": "Thu, 01 Feb 2024 14:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Eliška Havlíková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eli%C5%A1ka%20Havl%C3%ADkov%C3%A1",
         "pubdate": "Thu, 01 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Agáta Hanychová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ag%C3%A1ta%20Hanychov%C3%A1",
+        "pubdate": "Thu, 01 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ken Griffin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ken%20Griffin",
         "pubdate": "Wed, 31 Jan 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Forbes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0100"
       }
     ]
   ]
