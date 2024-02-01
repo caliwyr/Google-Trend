@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 03:38:32",
+  "lastUpdate": "01-02-2024 , 03:47:58",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Manchester City – Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City%20%E2%80%93%20Burnley",
+        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Julius Bär",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julius%20B%C3%A4r",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Microsoft-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Microsoft-Aktie",
-        "pubdate": "Wed, 31 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Polestar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polestar",
         "pubdate": "Wed, 31 Jan 2024 15:00:00 +0100"
@@ -97,13 +97,6 @@
         "title": "Heino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heino",
         "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City – Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City%20%E2%80%93%20Burnley",
-        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Apple Vision Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20Vision%20Pro",
         "pubdate": "Wed, 31 Jan 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chita Rivera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chita%20Rivera",
+        "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
       }
     ]
   ]
