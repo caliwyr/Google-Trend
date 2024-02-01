@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-02-2024 , 20:44:13",
+  "lastUpdate": "01-02-2024 , 20:54:20",
   "data": [
     [
       {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lewis%20Hamilton",
         "pubdate": "Thu, 01 Feb 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kormányinfó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
-        "pubdate": "Thu, 01 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Mészáros Lőrinc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
-        "pubdate": "Thu, 01 Feb 2024 11:00:00 +0100"
+        "title": "Kormányinfó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
+        "pubdate": "Thu, 01 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Földrengés volt Ausztriában",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s%20volt%20Ausztri%C3%A1ban",
         "pubdate": "Thu, 01 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mészáros Lőrinc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
+        "pubdate": "Thu, 01 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "SMA-szűrés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SMA-sz%C5%B1r%C3%A9s",
+        "pubdate": "Thu, 01 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "DVTK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
         "pubdate": "Thu, 01 Feb 2024 09:00:00 +0100"
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "SMA-szűrés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SMA-sz%C5%B1r%C3%A9s",
-        "pubdate": "Thu, 01 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shane Tusup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shane%20Tusup",
-        "pubdate": "Thu, 01 Feb 2024 04:00:00 +0100"
+        "title": "Ferrari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferrari",
+        "pubdate": "Thu, 01 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Shane Tusup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shane%20Tusup",
+        "pubdate": "Thu, 01 Feb 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nemes Jeles László",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemes%20Jeles%20L%C3%A1szl%C3%B3",
         "pubdate": "Thu, 01 Feb 2024 13:00:00 +0100"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Ferrari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferrari",
-        "pubdate": "Thu, 01 Feb 2024 18:00:00 +0100"
+        "title": "Chita Rivera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chita%20Rivera",
+        "pubdate": "Thu, 01 Feb 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Chita Rivera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chita%20Rivera",
-        "pubdate": "Thu, 01 Feb 2024 09:00:00 +0100"
+        "title": "Nagy Ádám",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20%C3%81d%C3%A1m",
+        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Orbán Viktor EU-csúcs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor%20EU-cs%C3%BAcs",
+        "pubdate": "Thu, 01 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Babakötvény",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babak%C3%B6tv%C3%A9ny",
         "pubdate": "Thu, 01 Feb 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
-        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kincskereső kisködmön",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kincskeres%C5%91%20kisk%C3%B6dm%C3%B6n",
-        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
       }
     ]
   ]
