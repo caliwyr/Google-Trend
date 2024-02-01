@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-02-2024 , 04:39:56",
+  "lastUpdate": "01-02-2024 , 04:49:28",
   "data": [
+    [
+      {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BRICS",
+        "pubdate": "Thu, 01 Feb 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Premier League",
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elon%20Musk",
         "pubdate": "Wed, 31 Jan 2024 00:00:00 +0200"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Laura Cosoi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laura%20Cosoi",
-        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0200"
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina",
+        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0200"
       }
     ],
     [

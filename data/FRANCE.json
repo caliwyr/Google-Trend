@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-02-2024 , 04:39:51",
+  "lastUpdate": "01-02-2024 , 04:49:23",
   "data": [
-    [
-      {
-        "title": "Harry Bring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Harry%20Bring",
-        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Rachida Dati",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Ninho Stade de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ninho%20Stade%20de%20France",
-        "pubdate": "Thu, 01 Feb 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Premier%20League",
         "pubdate": "Wed, 31 Jan 2024 01:00:00 +0100"
@@ -48,6 +34,13 @@
         "title": "Judith Magre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Judith%20Magre",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benoit Kounkoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benoit%20Kounkoud",
+        "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
       }
     ],
     [
@@ -68,13 +61,6 @@
       {
         "title": "Greve 1er fevrier 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Greve%201er%20fevrier%202024",
-        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Total Recall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Total%20Recall",
         "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
       }
     ],
@@ -101,13 +87,6 @@
     ],
     [
       {
-        "title": "Camille Goudeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camille%20Goudeau",
-        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Liga",
         "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
@@ -129,16 +108,37 @@
     ],
     [
       {
-        "title": "Oriane Bertone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oriane%20Bertone",
-        "pubdate": "Wed, 31 Jan 2024 22:00:00 +0100"
+        "title": "Marie Labory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Labory",
+        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marie Labory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Labory",
-        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
+        "title": "Pokimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pokimane",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Laetitia Casta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laetitia%20Casta",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Assemblée nationale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Assembl%C3%A9e%20nationale",
+        "pubdate": "Wed, 31 Jan 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maroc Afrique du Sud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc%20Afrique%20du%20Sud",
+        "pubdate": "Tue, 30 Jan 2024 02:00:00 +0100"
       }
     ]
   ]
