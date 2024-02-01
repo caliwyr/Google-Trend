@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 10:46:51",
+  "lastUpdate": "01-02-2024 , 10:56:02",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "AEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AEC",
+        "pubdate": "Thu, 01 Feb 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Michael Egan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Egan",
         "pubdate": "Thu, 01 Feb 2024 11:00:00 +1100"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Amelia Earhart plane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amelia%20Earhart%20plane",
-        "pubdate": "Thu, 01 Feb 2024 09:00:00 +1100"
+        "title": "Al Nassr vs Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr%20vs%20Inter%20Miami",
+        "pubdate": "Thu, 01 Feb 2024 16:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Al Nassr vs Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr%20vs%20Inter%20Miami",
-        "pubdate": "Thu, 01 Feb 2024 16:00:00 +1100"
+        "title": "Amelia Earhart plane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amelia%20Earhart%20plane",
+        "pubdate": "Thu, 01 Feb 2024 09:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Newington College",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newington%20College",
         "pubdate": "Wed, 31 Jan 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Chita Rivera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chita%20Rivera",
-        "pubdate": "Wed, 31 Jan 2024 11:00:00 +1100"
       }
     ]
   ]

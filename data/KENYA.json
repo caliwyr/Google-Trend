@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-02-2024 , 10:46:56",
+  "lastUpdate": "01-02-2024 , 10:56:08",
   "data": [
-    [
-      {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
-        "pubdate": "Thu, 01 Feb 2024 09:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Showmax",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Ian Nene",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ian%20Nene",
-        "pubdate": "Thu, 01 Feb 2024 01:00:00 +0300"
+        "title": "Chelsea FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+        "pubdate": "Thu, 01 Feb 2024 09:00:00 +0300"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Wolves vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves%20vs%20Man%20United",
         "pubdate": "Thu, 01 Feb 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ian Nene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ian%20Nene",
+        "pubdate": "Thu, 01 Feb 2024 01:00:00 +0300"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Haiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Haiti",
+        "pubdate": "Wed, 31 Jan 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Georgie Purcell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Georgie%20Purcell",
         "pubdate": "Wed, 31 Jan 2024 11:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#South%20Africa",
         "pubdate": "Wed, 31 Jan 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kenya Airports Authority",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Airports%20Authority",
-        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0300"
       }
     ]
   ]
