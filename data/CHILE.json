@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 01:37:36",
+  "lastUpdate": "01-02-2024 , 02:13:58",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Barcelona  Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Osasuna",
+        "title": "Barcelona - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20-%20Osasuna",
         "pubdate": "Wed, 31 Jan 2024 15:00:00 -0300"
       }
     ],
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Atlético Madrid - Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20-%20Rayo%20Vallecano",
+        "title": "Atlético Madrid  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20%20Rayo%20Vallecano",
         "pubdate": "Wed, 31 Jan 2024 18:00:00 -0300"
       }
     ],
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Barracas Central  River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barracas%20Central%20%20River%20Plate",
+        "pubdate": "Wed, 31 Jan 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Chip cerebral Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chip%20cerebral%20Elon%20Musk",
         "pubdate": "Wed, 31 Jan 2024 00:00:00 -0300"
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Paolo Guerrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paolo%20Guerrero",
+        "pubdate": "Wed, 31 Jan 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "SOAP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SOAP",
         "pubdate": "Wed, 31 Jan 2024 20:00:00 -0300"
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Poppy Playtime",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Poppy%20Playtime",
-        "pubdate": "Wed, 31 Jan 2024 01:00:00 -0300"
+        "title": "Pichidangui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pichidangui",
+        "pubdate": "Wed, 31 Jan 2024 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Pichidangui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pichidangui",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 -0300"
+        "title": "Poppy Playtime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Poppy%20Playtime",
+        "pubdate": "Wed, 31 Jan 2024 01:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Phil Collins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Phil%20Collins",
         "pubdate": "Wed, 31 Jan 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Pablo Solari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pablo%20Solari",
-        "pubdate": "Wed, 31 Jan 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
-        "pubdate": "Tue, 30 Jan 2024 18:00:00 -0300"
       }
     ]
   ]
