@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 08:46:25",
+  "lastUpdate": "01-02-2024 , 08:55:41",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Beatrix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beatrix",
         "pubdate": "Wed, 31 Jan 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Claudia de Breij",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Claudia%20de%20Breij",
-        "pubdate": "Wed, 31 Jan 2024 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sun, 28 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 28 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
