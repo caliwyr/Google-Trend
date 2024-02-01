@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2024 , 17:44:20",
+  "lastUpdate": "01-02-2024 , 17:53:39",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Al%20Nassr",
         "pubdate": "Thu, 01 Feb 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Chelsea",
+        "pubdate": "Thu, 01 Feb 2024 08:00:00 -0500"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Amelia Earhart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Amelia%20Earhart",
+        "pubdate": "Wed, 31 Jan 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Millonarios vs Alianza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Millonarios%20vs%20Alianza",
         "pubdate": "Wed, 31 Jan 2024 21:00:00 -0500"
@@ -125,20 +139,6 @@
         "title": "Dólar hoy Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#D%C3%B3lar%20hoy%20Colombia",
         "pubdate": "Wed, 31 Jan 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jhonny Rivera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jhonny%20Rivera",
-        "pubdate": "Wed, 31 Jan 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Amelia Earhart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Amelia%20Earhart",
-        "pubdate": "Wed, 31 Jan 2024 08:00:00 -0500"
       }
     ]
   ]
