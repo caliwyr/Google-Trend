@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-02-2024 , 13:46:19",
+  "lastUpdate": "01-02-2024 , 13:55:31",
   "data": [
     [
       {
         "title": "ATB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ATB",
         "pubdate": "Thu, 01 Feb 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hamilton",
+        "pubdate": "Thu, 01 Feb 2024 14:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Tv2 no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2%20no",
-        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Smp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Smp",
         "pubdate": "Wed, 31 Jan 2024 09:00:00 +0100"
@@ -48,6 +48,13 @@
         "title": "Polestar 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polestar%204",
         "pubdate": "Wed, 31 Jan 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tv2 no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2%20no",
+        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Mark Knopfler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mark%20Knopfler",
-        "pubdate": "Wed, 31 Jan 2024 20:00:00 +0100"
+        "title": "Tv2.no Farmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no%20Farmen",
+        "pubdate": "Wed, 31 Jan 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emilie Nereng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Nereng",
+        "pubdate": "Wed, 31 Jan 2024 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Adressa.no",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adressa.no",
         "pubdate": "Wed, 31 Jan 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ålesund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85lesund",
-        "pubdate": "Wed, 31 Jan 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Motor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Motor",
-        "pubdate": "Wed, 31 Jan 2024 19:00:00 +0100"
       }
     ]
   ]
