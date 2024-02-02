@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2024 , 11:37:47",
+  "lastUpdate": "02-02-2024 , 11:46:55",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Mark Zuckerberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mark%20Zuckerberg",
         "pubdate": "Fri, 02 Feb 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lil Pump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lil%20Pump",
+        "pubdate": "Fri, 02 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
         "pubdate": "Thu, 01 Feb 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barátok közt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bar%C3%A1tok%20k%C3%B6zt",
-        "pubdate": "Thu, 01 Feb 2024 10:00:00 +0100"
       }
     ]
   ]
