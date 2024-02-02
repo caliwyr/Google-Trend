@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-02-2024 , 09:43:12",
+  "lastUpdate": "02-02-2024 , 09:52:42",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
         "pubdate": "Fri, 02 Feb 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Incendiu portile de Fier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20portile%20de%20Fier",
-        "pubdate": "Fri, 02 Feb 2024 07:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Incendiu portile de Fier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20portile%20de%20Fier",
+        "pubdate": "Fri, 02 Feb 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Caragiale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caragiale",
         "pubdate": "Fri, 02 Feb 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Automecanica medias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Automecanica%20medias",
+        "pubdate": "Fri, 02 Feb 2024 00:00:00 +0200"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Survivor Romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Survivor%20Romania",
+        "title": "Survivor romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Survivor%20romania",
         "pubdate": "Fri, 02 Feb 2024 10:00:00 +0200"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Gabriel Enache",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gabriel%20Enache",
-        "pubdate": "Thu, 01 Feb 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zuckerberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zuckerberg",
         "pubdate": "Thu, 01 Feb 2024 15:00:00 +0200"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Amicale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Amicale",
-        "pubdate": "Thu, 01 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
         "pubdate": "Thu, 01 Feb 2024 19:00:00 +0200"
@@ -132,6 +125,13 @@
         "title": "Bruxelles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bruxelles",
         "pubdate": "Thu, 01 Feb 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taiwan",
+        "pubdate": "Thu, 01 Feb 2024 19:00:00 +0200"
       }
     ],
     [
