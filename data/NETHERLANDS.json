@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2024 , 10:45:35",
+  "lastUpdate": "02-02-2024 , 10:54:48",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Driouech",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Driouech",
-        "pubdate": "Thu, 01 Feb 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Thu, 01 Feb 2024 22:00:00 +0100"
@@ -34,13 +27,6 @@
         "title": "Billy Joel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Billy%20Joel",
         "pubdate": "Thu, 01 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Boadu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boadu",
-        "pubdate": "Thu, 01 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sun, 28 Jan 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 28 Jan 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Duncan Laurence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duncan%20Laurence",
+        "pubdate": "Sun, 28 Jan 2024 02:00:00 +0100"
       }
     ]
   ]
