@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "02-02-2024 , 14:50:45",
+  "lastUpdate": "02-02-2024 , 15:00:04",
   "data": [
+    [
+      {
+        "title": "Weather today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20today",
+        "pubdate": "Sat, 03 Feb 2024 03:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
+        "pubdate": "Sat, 03 Feb 2024 01:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Lewis Hamilton",
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
+        "title": "Wellington Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix",
         "pubdate": "Fri, 02 Feb 2024 23:00:00 +1300"
       }
     ],
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "300",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#300",
-        "pubdate": "Fri, 02 Feb 2024 22:00:00 +1300"
+        "title": "Margot Robbie Barbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Margot%20Robbie%20Barbie",
+        "pubdate": "Fri, 02 Feb 2024 14:00:00 +1300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Dogwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dogwood",
-        "pubdate": "Fri, 02 Feb 2024 20:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
         "pubdate": "Fri, 02 Feb 2024 21:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Minimum wage NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Minimum%20wage%20NZ",
         "pubdate": "Thu, 01 Feb 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Everyday Rewards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Everyday%20Rewards",
-        "pubdate": "Thu, 01 Feb 2024 10:00:00 +1300"
       }
     ]
   ]
