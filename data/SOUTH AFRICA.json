@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-02-2024 , 02:04:12",
+  "lastUpdate": "02-02-2024 , 02:25:38",
   "data": [
-    [
-      {
-        "title": "Man U",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20U",
-        "pubdate": "Fri, 02 Feb 2024 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Al-nassr vs Inter Miami",
@@ -41,13 +34,6 @@
         "title": "West Ham vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham%20vs%20Bournemouth",
         "pubdate": "Thu, 01 Feb 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20utd",
-        "pubdate": "Thu, 01 Feb 2024 20:00:00 +0200"
       }
     ],
     [
@@ -87,6 +73,13 @@
     ],
     [
       {
+        "title": "Watford FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford%20FC",
+        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Chelsea",
         "pubdate": "Wed, 31 Jan 2024 01:00:00 +0200"
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Tottenham vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Brentford",
+        "pubdate": "Wed, 31 Jan 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barcelona vs Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Osasuna",
         "pubdate": "Wed, 31 Jan 2024 17:00:00 +0200"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Tottenham vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Brentford",
-        "pubdate": "Wed, 31 Jan 2024 10:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Wed, 31 Jan 2024 21:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Watford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#La%20Liga",
         "pubdate": "Wed, 31 Jan 2024 23:00:00 +0200"
       }
     ]

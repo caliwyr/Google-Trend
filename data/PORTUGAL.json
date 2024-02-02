@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-02-2024 , 02:04:10",
+  "lastUpdate": "02-02-2024 , 02:25:37",
   "data": [
+    [
+      {
+        "title": "Paris Hilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paris%20Hilton",
+        "pubdate": "Fri, 02 Feb 2024 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Miguel Vicente",
@@ -12,13 +19,6 @@
       {
         "title": "Valter Hugo Mãe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valter%20Hugo%20M%C3%A3e",
-        "pubdate": "Fri, 02 Feb 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Paris Hilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paris%20Hilton",
         "pubdate": "Fri, 02 Feb 2024 00:00:00 +0000"
       }
     ],
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Wolves  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wolves%20%20Manchester%20United",
-        "pubdate": "Thu, 01 Feb 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Protestos agricultores portugueses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Protestos%20agricultores%20portugueses",
         "pubdate": "Thu, 01 Feb 2024 12:00:00 +0000"
@@ -61,6 +54,13 @@
       {
         "title": "Getafe  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Getafe%20%20Real%20Madrid",
+        "pubdate": "Thu, 01 Feb 2024 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Wolves  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wolves%20%20Manchester%20United",
         "pubdate": "Thu, 01 Feb 2024 20:00:00 +0000"
       }
     ],
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Rock in Rio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rock%20in%20Rio",
-        "pubdate": "Thu, 01 Feb 2024 21:00:00 +0000"
+        "title": "Sérgio Conceição",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A9rgio%20Concei%C3%A7%C3%A3o",
+        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Sérgio Conceição",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A9rgio%20Concei%C3%A7%C3%A3o",
-        "pubdate": "Thu, 01 Feb 2024 00:00:00 +0000"
+        "title": "Rock in Rio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rock%20in%20Rio",
+        "pubdate": "Thu, 01 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Agricultores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agricultores",
+        "pubdate": "Thu, 01 Feb 2024 07:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Musa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Musa",
         "pubdate": "Thu, 01 Feb 2024 17:00:00 +0000"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#West%20Ham",
-        "pubdate": "Thu, 01 Feb 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Paulo Pereira Cristóvão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Pereira%20Crist%C3%B3v%C3%A3o",
-        "pubdate": "Thu, 01 Feb 2024 20:00:00 +0000"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
+        "pubdate": "Thu, 01 Feb 2024 19:00:00 +0000"
       }
     ]
   ]
