@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2024 , 03:41:35",
+  "lastUpdate": "02-02-2024 , 03:50:57",
   "data": [
     [
       {
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "Hammerbarn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hammerbarn",
-        "pubdate": "Thu, 01 Feb 2024 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "All Blacks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks",
-        "pubdate": "Thu, 01 Feb 2024 14:00:00 +1300"
+        "title": "Andrew Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Scott",
+        "pubdate": "Thu, 01 Feb 2024 21:00:00 +1300"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Andrew Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Scott",
-        "pubdate": "Thu, 01 Feb 2024 21:00:00 +1300"
+        "title": "All Blacks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks",
+        "pubdate": "Thu, 01 Feb 2024 14:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "EPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPL",
         "pubdate": "Wed, 31 Jan 2024 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Wed, 31 Jan 2024 10:00:00 +1300"
       }
     ]
   ]
