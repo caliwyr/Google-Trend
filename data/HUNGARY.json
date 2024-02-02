@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2024 , 16:38:56",
+  "lastUpdate": "02-02-2024 , 16:48:27",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Gyertyaszentelő Boldogasszony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyertyaszentel%C5%91%20Boldogasszony",
         "pubdate": "Fri, 02 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alonso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alonso",
-        "pubdate": "Fri, 02 Feb 2024 01:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Zalatnay Sarolta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalatnay%20Sarolta",
+        "pubdate": "Fri, 02 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mark Zuckerberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mark%20Zuckerberg",
         "pubdate": "Fri, 02 Feb 2024 07:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Zalatnay Sarolta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalatnay%20Sarolta",
-        "pubdate": "Fri, 02 Feb 2024 15:00:00 +0100"
+        "title": "Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alonso",
+        "pubdate": "Fri, 02 Feb 2024 01:00:00 +0100"
       }
     ],
     [
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Tarantino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tarantino",
+        "pubdate": "Fri, 02 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Trokán nóra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trok%C3%A1n%20n%C3%B3ra",
         "pubdate": "Fri, 02 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Darts",
+        "pubdate": "Fri, 02 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Szoboszlai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai",
         "pubdate": "Thu, 01 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
-        "pubdate": "Thu, 01 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kormányinfó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
-        "pubdate": "Thu, 01 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
