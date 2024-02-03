@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2024 , 02:45:22",
+  "lastUpdate": "03-02-2024 , 02:54:37",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
-        "pubdate": "Fri, 02 Feb 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Six Nations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Six%20Nations",
         "pubdate": "Fri, 02 Feb 2024 15:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "India vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20England",
         "pubdate": "Fri, 02 Feb 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+        "pubdate": "Fri, 02 Feb 2024 13:00:00 +0200"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "The river",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20river",
-        "pubdate": "Fri, 02 Feb 2024 14:00:00 +0200"
+        "title": "Athletic Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Athletic%20Bilbao",
+        "pubdate": "Fri, 02 Feb 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Athletic Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Athletic%20Bilbao",
-        "pubdate": "Fri, 02 Feb 2024 15:00:00 +0200"
+        "title": "The river",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20river",
+        "pubdate": "Fri, 02 Feb 2024 14:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "MI Cape Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MI%20Cape%20Town",
-        "pubdate": "Fri, 02 Feb 2024 08:00:00 +0200"
+        "title": "Voter registration",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Voter%20registration",
+        "pubdate": "Fri, 02 Feb 2024 22:00:00 +0200"
       }
     ]
   ]
