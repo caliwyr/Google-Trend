@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-02-2024 , 23:48:44",
+  "lastUpdate": "03-02-2024 , 23:58:13",
   "data": [
+    [
+      {
+        "title": "Medina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medina",
+        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Everton  Tottenham",
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Newcastle  Luton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Luton",
-        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0100"
+        "title": "Melodifestivalen 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melodifestivalen%202024",
+        "pubdate": "Sat, 03 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Newcastle  Luton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Luton",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Newton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newton",
         "pubdate": "Sat, 03 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
+        "pubdate": "Sat, 03 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -90,13 +111,6 @@
         "title": "Olivia Rodrigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Olivia%20Rodrigo",
         "pubdate": "Sat, 03 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Metro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
-        "pubdate": "Sat, 03 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Greta%20Thunberg",
         "pubdate": "Sat, 03 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carl Weathers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carl%20Weathers",
-        "pubdate": "Fri, 02 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Fri, 02 Feb 2024 01:00:00 +0100"
       }
     ]
   ]
