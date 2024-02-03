@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-02-2024 , 20:41:16",
+  "lastUpdate": "03-02-2024 , 20:50:51",
   "data": [
+    [
+      {
+        "title": "Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
+        "pubdate": "Sat, 03 Feb 2024 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Eero Vasa",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Alavés – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alav%C3%A9s%20%E2%80%93%20Barcelona",
+        "pubdate": "Sat, 03 Feb 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Asian Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Asian%20Cup",
         "pubdate": "Sat, 03 Feb 2024 15:00:00 +0200"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Alavés – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alav%C3%A9s%20%E2%80%93%20Barcelona",
-        "pubdate": "Sat, 03 Feb 2024 21:00:00 +0200"
+        "title": "Carl Weathers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carl%20Weathers",
+        "pubdate": "Fri, 02 Feb 2024 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "AFCON",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AFCON",
         "pubdate": "Fri, 02 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Davis Cup 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Davis%20Cup%202024",
-        "pubdate": "Fri, 02 Feb 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tate McRae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tate%20McRae",
-        "pubdate": "Fri, 02 Feb 2024 17:00:00 +0200"
       }
     ]
   ]
