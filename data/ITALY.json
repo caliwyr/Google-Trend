@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2024 , 17:45:10",
+  "lastUpdate": "03-02-2024 , 17:54:34",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
-        "title": "Grande Fratello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Grande%20Fratello",
+        "title": "Empoli-Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Empoli-Genoa",
+        "pubdate": "Sat, 03 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frosinone-Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frosinone-Milan",
+        "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gf",
         "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
       }
     ],
@@ -24,30 +38,9 @@
     ],
     [
       {
-        "title": "Empoli-Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Empoli-Genoa",
-        "pubdate": "Sat, 03 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mina",
         "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alessandro Baricco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessandro%20Baricco",
-        "pubdate": "Sat, 03 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cosenza-Pisa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cosenza-Pisa",
-        "pubdate": "Sat, 03 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -59,9 +52,23 @@
     ],
     [
       {
-        "title": "Parma-Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parma-Venezia",
+        "title": "Cosenza-Pisa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cosenza-Pisa",
         "pubdate": "Sat, 03 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alessandro Baricco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessandro%20Baricco",
+        "pubdate": "Sat, 03 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sampdoria",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -80,9 +87,23 @@
     ],
     [
       {
-        "title": "Frosinone-Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frosinone-Milan",
-        "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
+        "title": "Parma-Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Parma-Venezia",
+        "pubdate": "Sat, 03 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rita Pavone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rita%20Pavone",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juve Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve%20Inter",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -101,43 +122,22 @@
     ],
     [
       {
-        "title": "Reggiana-Feralpisalò",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggiana-Feralpisal%C3%B2",
+        "title": "Reggiana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggiana",
         "pubdate": "Sat, 03 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mia Martini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mia%20Martini",
+        "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
       }
     ],
     [
       {
         "title": "Lindsey Vonn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lindsey%20Vonn",
-        "pubdate": "Sat, 03 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brescia-Cittadella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia-Cittadella",
-        "pubdate": "Sat, 03 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Francia Irlanda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francia%20Irlanda",
-        "pubdate": "Sat, 03 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fire with fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fire%20with%20fire",
-        "pubdate": "Sat, 03 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Napoli-Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli-Verona",
         "pubdate": "Sat, 03 Feb 2024 14:00:00 +0100"
       }
     ]
