@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2024 , 04:44:53",
+  "lastUpdate": "03-02-2024 , 04:54:13",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Weather Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20Today",
+        "title": "Weather today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20today",
         "pubdate": "Sat, 03 Feb 2024 03:00:00 +1300"
       }
     ],
@@ -41,6 +41,13 @@
         "title": "Jonnie Irwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jonnie%20Irwin",
         "pubdate": "Sat, 03 Feb 2024 13:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "AFCON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AFCON",
+        "pubdate": "Sat, 03 Feb 2024 17:00:00 +1300"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Super Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Super%20Rugby",
         "pubdate": "Sat, 03 Feb 2024 13:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Palmerston North speedway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Palmerston%20North%20speedway",
+        "pubdate": "Sat, 03 Feb 2024 17:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Steven Adams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Steven%20Adams",
         "pubdate": "Fri, 02 Feb 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Amelia Earhart plane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Amelia%20Earhart%20plane",
-        "pubdate": "Fri, 02 Feb 2024 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Cleft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cleft",
-        "pubdate": "Fri, 02 Feb 2024 11:00:00 +1300"
       }
     ]
   ]
