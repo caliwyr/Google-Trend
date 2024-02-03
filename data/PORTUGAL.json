@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2024 , 22:52:00",
+  "lastUpdate": "03-02-2024 , 23:06:45",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Alavés  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alav%C3%A9s%20%20Barcelona",
         "pubdate": "Sat, 03 Feb 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Cabo Verde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cabo%20Verde",
+        "pubdate": "Sat, 03 Feb 2024 20:00:00 +0000"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Liga Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20Portugal",
-        "pubdate": "Sat, 03 Feb 2024 20:00:00 +0000"
+        "title": "Sporting Clube de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0000"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "De la Vega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#De%20la%20Vega",
         "pubdate": "Sat, 03 Feb 2024 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sporting Clube de Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
-        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0000"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Cabo Verde  África do Sul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cabo%20Verde%20%20%C3%81frica%20do%20Sul",
+        "title": "FCP!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FCP!",
         "pubdate": "Sat, 03 Feb 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Jandira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jandira",
-        "pubdate": "Sat, 03 Feb 2024 07:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Everton  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Everton%20%20Tottenham",
-        "pubdate": "Sat, 03 Feb 2024 13:00:00 +0000"
       }
     ],
     [
@@ -108,23 +94,9 @@
     ],
     [
       {
-        "title": "Hoquei em patins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
-        "pubdate": "Sat, 03 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Cabo Verde FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cabo%20Verde%20FC",
-        "pubdate": "Sat, 03 Feb 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Laura Pausini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Laura%20Pausini",
-        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0000"
+        "title": "Jandira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jandira",
+        "pubdate": "Sat, 03 Feb 2024 07:00:00 +0000"
       }
     ],
     [
@@ -136,9 +108,37 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Newcastle",
+        "title": "Everton  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Everton%20%20Tottenham",
+        "pubdate": "Sat, 03 Feb 2024 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Cabo Verde FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cabo%20Verde%20FC",
+        "pubdate": "Sat, 03 Feb 2024 10:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Hoquei em patins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
         "pubdate": "Sat, 03 Feb 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Laura Pausini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Laura%20Pausini",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
+        "pubdate": "Sat, 03 Feb 2024 22:00:00 +0000"
       }
     ]
   ]
