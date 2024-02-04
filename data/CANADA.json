@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2024 , 09:43:24",
+  "lastUpdate": "04-02-2024 , 09:52:42",
   "data": [
     [
       {
@@ -40,7 +40,7 @@
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
-        "pubdate": "Sat, 03 Feb 2024 10:00:00 -0500"
+        "pubdate": "Sat, 03 Feb 2024 22:00:00 -0500"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Immigrants leaving Canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Immigrants%20leaving%20Canada",
         "pubdate": "Sat, 03 Feb 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Everton%20vs%20Tottenham",
+        "pubdate": "Sat, 03 Feb 2024 10:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crosby",
+        "pubdate": "Sat, 03 Feb 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Six Nations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Six%20Nations",
         "pubdate": "Sat, 03 Feb 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Joe Rogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Rogan",
-        "pubdate": "Sat, 03 Feb 2024 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyson%20Fury",
-        "pubdate": "Sat, 03 Feb 2024 02:00:00 -0500"
       }
     ]
   ]
