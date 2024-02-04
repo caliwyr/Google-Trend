@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-02-2024 , 06:44:38",
+  "lastUpdate": "04-02-2024 , 06:53:54",
   "data": [
     [
       {
         "title": "EPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EPL",
         "pubdate": "Sun, 04 Feb 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
+        "pubdate": "Sun, 04 Feb 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Rex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rex",
+        "pubdate": "Sun, 04 Feb 2024 00:00:00 +1100"
       }
     ],
     [
@@ -17,16 +31,16 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mbappe",
-        "pubdate": "Sun, 04 Feb 2024 11:00:00 +1100"
+        "title": "Colman Domingo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colman%20Domingo",
+        "pubdate": "Sun, 04 Feb 2024 12:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Colman Domingo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colman%20Domingo",
-        "pubdate": "Sun, 04 Feb 2024 12:00:00 +1100"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mbappe",
+        "pubdate": "Sun, 04 Feb 2024 11:00:00 +1100"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Ben Cousins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Cousins",
+        "pubdate": "Sun, 04 Feb 2024 16:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Carl Weathers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carl%20Weathers",
         "pubdate": "Sat, 03 Feb 2024 08:00:00 +1100"
@@ -80,16 +101,16 @@
     ],
     [
       {
-        "title": "AFC Asian Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFC%20Asian%20Cup",
-        "pubdate": "Sat, 03 Feb 2024 09:00:00 +1100"
+        "title": "Apple Vision Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Vision%20Pro",
+        "pubdate": "Sat, 03 Feb 2024 20:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Apple Vision Pro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Vision%20Pro",
-        "pubdate": "Sat, 03 Feb 2024 20:00:00 +1100"
+        "title": "AFC Asian Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFC%20Asian%20Cup",
+        "pubdate": "Sat, 03 Feb 2024 09:00:00 +1100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Six Nations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Six%20Nations",
         "pubdate": "Sat, 03 Feb 2024 07:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Adelaide United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20United",
-        "pubdate": "Sat, 03 Feb 2024 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury",
-        "pubdate": "Sat, 03 Feb 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Wayne Kramer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wayne%20Kramer",
-        "pubdate": "Sat, 03 Feb 2024 15:00:00 +1100"
       }
     ]
   ]
