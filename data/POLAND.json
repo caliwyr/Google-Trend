@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2024 , 15:47:45",
+  "lastUpdate": "04-02-2024 , 15:57:00",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Piątek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pi%C4%85tek",
-        "pubdate": "Sun, 04 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Diablo Włodarczyk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Diablo%20W%C5%82odarczyk",
         "pubdate": "Sun, 04 Feb 2024 10:00:00 +0100"
@@ -76,6 +69,13 @@
         "title": "Zakwas buraczany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakwas%20buraczany",
         "pubdate": "Sun, 04 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rutkowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rutkowski",
+        "pubdate": "Sun, 04 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Waloryzacja emerytury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Waloryzacja%20emerytury",
-        "pubdate": "Sat, 03 Feb 2024 12:00:00 +0100"
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iran",
+        "pubdate": "Sat, 03 Feb 2024 11:00:00 +0100"
       }
     ]
   ]

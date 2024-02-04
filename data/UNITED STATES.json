@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-02-2024 , 15:47:37",
+  "lastUpdate": "04-02-2024 , 15:56:52",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
         "pubdate": "Sun, 04 Feb 2024 02:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Grammys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grammys",
-        "pubdate": "Sun, 04 Feb 2024 00:00:00 -0800"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Grammys 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grammys%202024",
+        "pubdate": "Sat, 03 Feb 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Duke vs unc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20vs%20unc",
         "pubdate": "Sat, 03 Feb 2024 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Ayo Edebiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ayo%20Edebiri",
+        "pubdate": "Sat, 03 Feb 2024 09:00:00 -0800"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Senior Bowl 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Senior%20Bowl%202024",
-        "pubdate": "Sat, 03 Feb 2024 11:00:00 -0800"
+        "title": "South Carolina primary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#South%20Carolina%20primary",
+        "pubdate": "Sat, 03 Feb 2024 14:00:00 -0800"
       }
     ],
     [
       {
-        "title": "South Carolina primary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#South%20Carolina%20primary",
-        "pubdate": "Sat, 03 Feb 2024 14:00:00 -0800"
+        "title": "Senior Bowl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Senior%20Bowl%202024",
+        "pubdate": "Sat, 03 Feb 2024 11:00:00 -0800"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Wyndham Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wyndham%20Clark",
-        "pubdate": "Sat, 03 Feb 2024 15:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Miami Heat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
         "pubdate": "Sat, 03 Feb 2024 04:00:00 -0800"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jennifer%20Lopez",
-        "pubdate": "Sat, 03 Feb 2024 22:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "UConn basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UConn%20basketball",
         "pubdate": "Sat, 03 Feb 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Pebble Beach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pebble%20Beach",
-        "pubdate": "Sat, 03 Feb 2024 15:00:00 -0800"
       }
     ],
     [
@@ -118,6 +104,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
         "pubdate": "Sat, 03 Feb 2024 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Emma Roberts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emma%20Roberts",
+        "pubdate": "Sat, 03 Feb 2024 18:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Carl Weathers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carl%20Weathers",
         "pubdate": "Fri, 02 Feb 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Apple Vision Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20Vision%20Pro",
+        "pubdate": "Fri, 02 Feb 2024 08:00:00 -0800"
       }
     ]
   ]
