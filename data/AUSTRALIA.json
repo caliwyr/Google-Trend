@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "04-02-2024 , 20:43:45",
+  "lastUpdate": "04-02-2024 , 20:53:00",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
+        "pubdate": "Mon, 05 Feb 2024 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Super%20Bowl",
+        "pubdate": "Mon, 05 Feb 2024 07:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Man United vs West Ham",
@@ -10,9 +24,9 @@
     ],
     [
       {
-        "title": "Chelsea vs Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Wolves",
-        "pubdate": "Mon, 05 Feb 2024 03:00:00 +1100"
+        "title": "Elvis Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elvis%20Presley",
+        "pubdate": "Mon, 05 Feb 2024 07:00:00 +1100"
       }
     ],
     [
@@ -24,23 +38,9 @@
     ],
     [
       {
-        "title": "Temperature Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Temperature%20Melbourne",
-        "pubdate": "Mon, 05 Feb 2024 01:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "EPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EPL",
         "pubdate": "Sun, 04 Feb 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
-        "pubdate": "Sun, 04 Feb 2024 16:00:00 +1100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
+        "pubdate": "Sun, 04 Feb 2024 16:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
         "pubdate": "Sun, 04 Feb 2024 11:00:00 +1100"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Jacob Elordi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Elordi",
-        "pubdate": "Sun, 04 Feb 2024 21:00:00 +1100"
+        "title": "Grammys 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grammys%202024",
+        "pubdate": "Sun, 04 Feb 2024 17:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Grammys 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grammys%202024",
-        "pubdate": "Sun, 04 Feb 2024 17:00:00 +1100"
+        "title": "Jacob Elordi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Elordi",
+        "pubdate": "Sun, 04 Feb 2024 21:00:00 +1100"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Redbank Plains",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Redbank%20Plains",
-        "pubdate": "Sun, 04 Feb 2024 14:00:00 +1100"
+        "title": "Lowitja O'Donoghue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lowitja%20O'Donoghue",
+        "pubdate": "Sun, 04 Feb 2024 17:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Lowitja O'Donoghue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lowitja%20O'Donoghue",
-        "pubdate": "Sun, 04 Feb 2024 17:00:00 +1100"
+        "title": "Redbank Plains",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Redbank%20Plains",
+        "pubdate": "Sun, 04 Feb 2024 14:00:00 +1100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Ben Cousins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Cousins",
-        "pubdate": "Sun, 04 Feb 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Craig Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Craig%20Kelly",
         "pubdate": "Sun, 04 Feb 2024 23:00:00 +1100"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Stephen Curry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephen%20Curry",
+        "title": "Ben Cousins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Cousins",
         "pubdate": "Sun, 04 Feb 2024 16:00:00 +1100"
       }
     ]
