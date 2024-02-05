@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-02-2024 , 10:48:12",
+  "lastUpdate": "05-02-2024 , 10:57:45",
   "data": [
-    [
-      {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Billie%20Eilish",
-        "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "AZ  Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Feyenoord",
         "pubdate": "Sun, 04 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jan van Veen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20van%20Veen",
+        "pubdate": "Sun, 04 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-        "pubdate": "Sat, 03 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sat, 03 Feb 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Davis Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davis%20Cup",
         "pubdate": "Sat, 03 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Sat, 03 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
