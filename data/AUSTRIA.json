@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2024 , 07:45:00",
+  "lastUpdate": "05-02-2024 , 07:54:16",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Grammys 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grammys%202024",
+        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Joyn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joyn",
         "pubdate": "Sun, 04 Feb 2024 20:00:00 +0100"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
-        "pubdate": "Sun, 04 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Krankheit Gigi D'Agostino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Krankheit%20Gigi%20D'Agostino",
         "pubdate": "Sun, 04 Feb 2024 20:00:00 +0100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Grammys 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grammys%202024",
-        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
+        "pubdate": "Sun, 04 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
-        "pubdate": "Sun, 04 Feb 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barbara Schett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barbara%20Schett",
         "pubdate": "Sun, 04 Feb 2024 18:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Jodie Foster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jodie%20Foster",
-        "pubdate": "Sun, 04 Feb 2024 23:00:00 +0100"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
+        "pubdate": "Sun, 04 Feb 2024 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
-        "pubdate": "Sun, 04 Feb 2024 11:00:00 +0100"
+        "title": "Pro Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pro%20Bowl",
+        "pubdate": "Sun, 04 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jodie Foster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jodie%20Foster",
+        "pubdate": "Sun, 04 Feb 2024 23:00:00 +0100"
       }
     ]
   ]
