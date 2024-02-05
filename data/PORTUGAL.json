@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2024 , 06:49:10",
+  "lastUpdate": "05-02-2024 , 06:58:23",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
-        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Grammy 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grammy%202024",
         "pubdate": "Sun, 04 Feb 2024 12:00:00 +0000"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Leixoes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leixoes",
-        "pubdate": "Sun, 04 Feb 2024 12:00:00 +0000"
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Grammys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grammys",
         "pubdate": "Sun, 04 Feb 2024 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Leixoes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leixoes",
+        "pubdate": "Sun, 04 Feb 2024 12:00:00 +0000"
       }
     ]
   ]
