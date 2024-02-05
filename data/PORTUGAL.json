@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2024 , 04:49:52",
+  "lastUpdate": "05-02-2024 , 04:59:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CDU",
         "pubdate": "Mon, 05 Feb 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Killer Mike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Killer%20Mike",
+        "pubdate": "Mon, 05 Feb 2024 04:00:00 +0000"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Sun, 04 Feb 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Manchester United  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United%20%20West%20Ham",
         "pubdate": "Sun, 04 Feb 2024 14:00:00 +0000"
@@ -69,6 +69,13 @@
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cristiano%20Ronaldo",
         "pubdate": "Sun, 04 Feb 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Sun, 04 Feb 2024 22:00:00 +0000"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "MAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MAI",
-        "pubdate": "Sun, 04 Feb 2024 11:00:00 +0000"
+        "title": "Grammys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grammys",
+        "pubdate": "Sun, 04 Feb 2024 15:00:00 +0000"
       }
     ],
     [
       {
         "title": "Marítimo  Benfica B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mar%C3%ADtimo%20%20Benfica%20B",
-        "pubdate": "Sun, 04 Feb 2024 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Grammys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grammys",
         "pubdate": "Sun, 04 Feb 2024 15:00:00 +0000"
       }
     ]
