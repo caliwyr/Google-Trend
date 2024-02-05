@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2024 , 19:58:33",
+  "lastUpdate": "05-02-2024 , 20:18:17",
   "data": [
     [
       {
@@ -12,7 +12,14 @@
       {
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronaldo",
-        "pubdate": "Mon, 05 Feb 2024 10:00:00 +0100"
+        "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Miley%20Cyrus",
+        "pubdate": "Mon, 05 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Celine%20Dion",
         "pubdate": "Mon, 05 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#King%20Charles",
+        "pubdate": "Mon, 05 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ALS",
+        "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mary",
         "pubdate": "Mon, 05 Feb 2024 12:00:00 +0100"
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cristiano%20Ronaldo",
-        "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
+        "title": "The Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Survivor",
+        "pubdate": "Mon, 05 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -62,13 +83,6 @@
         "title": "Playboi Carti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Playboi%20Carti",
         "pubdate": "Mon, 05 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Survivor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Survivor",
-        "pubdate": "Mon, 05 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "Apple Vision Pro price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Apple%20Vision%20Pro%20price",
         "pubdate": "Mon, 05 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MetLife Stadium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MetLife%20Stadium",
+        "pubdate": "Mon, 05 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Grammys 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Grammys%202024",
         "pubdate": "Sun, 04 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Medina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medina",
-        "pubdate": "Sun, 04 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
-        "pubdate": "Sun, 04 Feb 2024 16:00:00 +0100"
       }
     ]
   ]
