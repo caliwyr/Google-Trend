@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 17:52:33",
+  "lastUpdate": "06-02-2024 , 18:08:46",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "ITUB4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ITUB4",
-        "pubdate": "Tue, 06 Feb 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rangers",
         "pubdate": "Tue, 06 Feb 2024 09:00:00 -0500"
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "ITUB4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ITUB4",
+        "pubdate": "Tue, 06 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BBDC4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BBDC4",
+        "pubdate": "Tue, 06 Feb 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Clara Bow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Clara%20Bow",
         "pubdate": "Tue, 06 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Toby Keith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Toby%20Keith",
+        "pubdate": "Tue, 06 Feb 2024 12:00:00 -0500"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Prouni resultado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prouni%20resultado",
         "pubdate": "Mon, 05 Feb 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carteira de Trabalho Digital",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carteira%20de%20Trabalho%20Digital",
+        "pubdate": "Mon, 05 Feb 2024 08:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "A Culpa É das Estrelas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#A%20Culpa%20%C3%89%20das%20Estrelas",
         "pubdate": "Mon, 05 Feb 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
-        "pubdate": "Mon, 05 Feb 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Stone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Stone",
-        "pubdate": "Mon, 05 Feb 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bernard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bernard",
-        "pubdate": "Mon, 05 Feb 2024 10:00:00 -0500"
       }
     ]
   ]
