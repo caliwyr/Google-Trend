@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 21:44:27",
+  "lastUpdate": "06-02-2024 , 21:53:45",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Noticias Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20Chile",
+        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "CNN Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CNN%20Chile",
         "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Ignacio Guerrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ignacio%20Guerrero",
+        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "ADN Radio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ADN%20Radio",
         "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Ignacio Guerrero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ignacio%20Guerrero",
+        "title": "Noticias en vivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20en%20vivo",
         "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
       }
     ],
@@ -73,9 +87,16 @@
     ],
     [
       {
-        "title": "Noticias en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20en%20vivo",
+        "title": "Ultimas noticias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ultimas%20noticias",
         "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayer%20Leverkusen",
+        "pubdate": "Tue, 06 Feb 2024 18:00:00 -0300"
       }
     ],
     [
@@ -87,16 +108,9 @@
     ],
     [
       {
-        "title": "Ultimas noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ultimas%20noticias",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Noticias Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20Chile",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
+        "title": "ATP cordoba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ATP%20cordoba",
+        "pubdate": "Tue, 06 Feb 2024 16:00:00 -0300"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "John Krasinski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#John%20Krasinski",
-        "pubdate": "Tue, 06 Feb 2024 10:00:00 -0300"
+        "title": "Kobe Bryant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kobe%20Bryant",
+        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "La tercera chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20tercera%20chile",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Linares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Linares",
-        "pubdate": "Tue, 06 Feb 2024 06:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Wikipedia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wikipedia",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
+        "title": "John Krasinski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#John%20Krasinski",
+        "pubdate": "Tue, 06 Feb 2024 10:00:00 -0300"
       }
     ]
   ]
