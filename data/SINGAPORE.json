@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 05:42:30",
+  "lastUpdate": "06-02-2024 , 05:51:49",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Meta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta",
         "pubdate": "Tue, 06 Feb 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Paris Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20Jackson",
+        "pubdate": "Tue, 06 Feb 2024 13:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Yang Hengjun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yang%20Hengjun",
         "pubdate": "Mon, 05 Feb 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hojlund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hojlund",
-        "pubdate": "Mon, 05 Feb 2024 01:00:00 +0800"
       }
     ]
   ]
