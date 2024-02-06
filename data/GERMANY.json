@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 11:49:04",
+  "lastUpdate": "06-02-2024 , 11:58:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Charles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charles",
         "pubdate": "Mon, 05 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lufthansa Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lufthansa%20Streik",
+        "pubdate": "Mon, 05 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "SUV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SUV",
-        "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carmen Geiss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carmen%20Geiss",
-        "pubdate": "Mon, 05 Feb 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Miele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Miele",
         "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
@@ -69,6 +62,13 @@
         "title": "Shahak Shapira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shahak%20Shapira",
         "pubdate": "Mon, 05 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SUV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SUV",
+        "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Sun, 04 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grammys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grammys",
+        "pubdate": "Sun, 04 Feb 2024 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Maaßen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maa%C3%9Fen",
         "pubdate": "Wed, 31 Jan 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bryan Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bryan%20Zaragoza",
-        "pubdate": "Wed, 31 Jan 2024 11:00:00 +0100"
       }
     ]
   ]

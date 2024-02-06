@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 11:49:11",
+  "lastUpdate": "06-02-2024 , 11:58:18",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Grammys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grammys",
-        "pubdate": "Mon, 05 Feb 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bianca Salming",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bianca%20Salming",
         "pubdate": "Mon, 05 Feb 2024 11:00:00 +0100"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Nybro Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nybro%20Vikings",
-        "pubdate": "Mon, 05 Feb 2024 18:00:00 +0100"
+        "title": "Beijer Hockey Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beijer%20Hockey%20Games",
+        "pubdate": "Mon, 05 Feb 2024 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tony Rickardsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tony%20Rickardsson",
         "pubdate": "Sun, 04 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kurt Hamrin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kurt%20Hamrin",
+        "pubdate": "Sun, 04 Feb 2024 11:00:00 +0100"
       }
     ]
   ]
