@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 20:50:58",
+  "lastUpdate": "06-02-2024 , 21:00:13",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Zanzibar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zanzibar",
         "pubdate": "Tue, 06 Feb 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malaria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Malaria",
+        "pubdate": "Tue, 06 Feb 2024 16:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Bogdan Aurescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bogdan%20Aurescu",
+        "pubdate": "Tue, 06 Feb 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
         "pubdate": "Tue, 06 Feb 2024 09:00:00 +0200"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Bogdan Aurescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bogdan%20Aurescu",
-        "pubdate": "Tue, 06 Feb 2024 20:00:00 +0200"
+        "title": "Natanticu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Natanticu",
+        "pubdate": "Tue, 06 Feb 2024 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Sanremo 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sanremo%202024",
+        "pubdate": "Tue, 06 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Beyonce",
         "pubdate": "Tue, 06 Feb 2024 15:00:00 +0200"
@@ -94,15 +115,8 @@
     ],
     [
       {
-        "title": "Florinel Coman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
-        "pubdate": "Tue, 06 Feb 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FCSB  Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20%20Farul%20Constan%C8%9Ba",
+        "title": "FCSB - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Farul%20Constan%C8%9Ba",
         "pubdate": "Mon, 05 Feb 2024 08:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Voluntari - Hermannstadt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Voluntari%20-%20Hermannstadt",
         "pubdate": "Mon, 05 Feb 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brentford - Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brentford%20-%20Man%20City",
-        "pubdate": "Mon, 05 Feb 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taylor%20Swift",
-        "pubdate": "Mon, 05 Feb 2024 18:00:00 +0200"
       }
     ]
   ]
