@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 02:44:06",
+  "lastUpdate": "06-02-2024 , 02:53:21",
   "data": [
     [
       {
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Miley Cyrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Miley%20Cyrus",
-        "pubdate": "Mon, 05 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Celine%20Dion",
         "pubdate": "Mon, 05 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Killer Mike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Killer%20Mike",
         "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
+        "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Stake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stake",
+        "pubdate": "Mon, 05 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "El Salvador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#El%20Salvador",
         "pubdate": "Mon, 05 Feb 2024 09:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Stake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stake",
-        "pubdate": "Mon, 05 Feb 2024 22:00:00 +0100"
+        "title": "SUV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SUV",
+        "pubdate": "Mon, 05 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
