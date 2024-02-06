@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 03:42:23",
+  "lastUpdate": "06-02-2024 , 03:51:40",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
+        "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dani Alves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dani%20Alves",
         "pubdate": "Mon, 05 Feb 2024 12:00:00 +0100"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Grammys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grammys",
         "pubdate": "Mon, 05 Feb 2024 00:00:00 +0100"
@@ -97,13 +97,6 @@
         "title": "Christian Horner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20Horner",
         "pubdate": "Mon, 05 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kick",
-        "pubdate": "Mon, 05 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "SUV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SUV",
         "pubdate": "Mon, 05 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tina Turner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tina%20Turner",
+        "pubdate": "Mon, 05 Feb 2024 14:00:00 +0100"
       }
     ]
   ]

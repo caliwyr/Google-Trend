@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2024 , 03:42:14",
+  "lastUpdate": "06-02-2024 , 03:51:31",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Depeche Mode",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Depeche%20Mode",
+        "pubdate": "Mon, 05 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OM",
         "pubdate": "Mon, 05 Feb 2024 00:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Blue Ivy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blue%20Ivy",
         "pubdate": "Mon, 05 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tracy Chapman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tracy%20Chapman",
-        "pubdate": "Mon, 05 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
