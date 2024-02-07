@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2024 , 10:47:26",
+  "lastUpdate": "07-02-2024 , 10:56:53",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Supernova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supernova",
-        "pubdate": "Wed, 07 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "La poste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20poste",
         "pubdate": "Wed, 07 Feb 2024 08:00:00 +0100"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Drake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Drake",
+        "pubdate": "Tue, 06 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Toby Keith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toby%20Keith",
         "pubdate": "Tue, 06 Feb 2024 14:00:00 +0100"
@@ -104,13 +104,6 @@
         "title": "Charline Van Snick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charline%20Van%20Snick",
         "pubdate": "Tue, 06 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Drake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Drake",
-        "pubdate": "Tue, 06 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tom Waes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Waes",
         "pubdate": "Tue, 06 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Meunier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thomas%20Meunier",
+        "pubdate": "Tue, 06 Feb 2024 14:00:00 +0100"
       }
     ]
   ]
