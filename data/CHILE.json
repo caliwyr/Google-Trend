@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2024 , 11:40:55",
+  "lastUpdate": "07-02-2024 , 11:50:16",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Bob Marley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bob%20Marley",
         "pubdate": "Wed, 07 Feb 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Vissel Kobe  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vissel%20Kobe%20%20Inter%20Miami",
+        "pubdate": "Wed, 07 Feb 2024 08:00:00 -0300"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Noticias de hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "title": "Noticias de Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20Hoy",
         "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayer%20Leverkusen",
         "pubdate": "Tue, 06 Feb 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Meganoticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Meganoticias",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 -0300"
       }
     ]
   ]

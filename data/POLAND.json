@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2024 , 11:41:01",
+  "lastUpdate": "07-02-2024 , 11:50:22",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "CPK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CPK",
         "pubdate": "Wed, 07 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wladyslaw Kosiniak-Kamysz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wladyslaw%20Kosiniak-Kamysz",
+        "pubdate": "Wed, 07 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Maria Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Thun",
-        "pubdate": "Tue, 06 Feb 2024 14:00:00 +0100"
+        "title": "Środa Popielcowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Aroda%20Popielcowa",
+        "pubdate": "Wed, 07 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Sejm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sejm",
         "pubdate": "Tue, 06 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maria Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Thun",
+        "pubdate": "Tue, 06 Feb 2024 14:00:00 +0100"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Lelek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lelek",
         "pubdate": "Tue, 06 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Król Karol III ma raka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kr%C3%B3l%20Karol%20III%20ma%20raka",
+        "pubdate": "Tue, 06 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Drake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Drake",
         "pubdate": "Tue, 06 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Podwyżki dla nauczycieli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podwy%C5%BCki%20dla%20nauczycieli",
-        "pubdate": "Tue, 06 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bob Marley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bob%20Marley",
-        "pubdate": "Tue, 06 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tucker%20Carlson",
-        "pubdate": "Tue, 06 Feb 2024 22:00:00 +0100"
       }
     ]
   ]
