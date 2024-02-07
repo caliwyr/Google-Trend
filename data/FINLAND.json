@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2024 , 20:41:47",
+  "lastUpdate": "07-02-2024 , 20:51:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Tucker Carlson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tucker%20Carlson",
         "pubdate": "Wed, 07 Feb 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Flow Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow%20Festival",
+        "pubdate": "Wed, 07 Feb 2024 16:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Friends, Rachel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Friends,%20Rachel",
-        "pubdate": "Wed, 07 Feb 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gina Carano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gina%20Carano",
         "pubdate": "Wed, 07 Feb 2024 17:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Friends Joey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Friends%20Joey",
-        "pubdate": "Wed, 07 Feb 2024 01:00:00 +0200"
+        "title": "Friends, Rachel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Friends,%20Rachel",
+        "pubdate": "Wed, 07 Feb 2024 00:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Friends Joey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Friends%20Joey",
+        "pubdate": "Wed, 07 Feb 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Friends Phoebe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Friends%20Phoebe",
         "pubdate": "Wed, 07 Feb 2024 09:00:00 +0200"
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Flow Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow%20Festival",
-        "pubdate": "Wed, 07 Feb 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Flow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow",
-        "pubdate": "Wed, 07 Feb 2024 18:00:00 +0200"
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FA%20Cup",
+        "pubdate": "Wed, 07 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Senegal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Senegal",
         "pubdate": "Wed, 07 Feb 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FA%20Cup",
-        "pubdate": "Wed, 07 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
-        "pubdate": "Tue, 06 Feb 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hollandaise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hollandaise",
         "pubdate": "Tue, 06 Feb 2024 21:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Pickleball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pickleball",
         "pubdate": "Tue, 06 Feb 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lauri Markkanen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lauri%20Markkanen",
+        "pubdate": "Tue, 06 Feb 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Be cool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Be%20cool",
+        "pubdate": "Tue, 06 Feb 2024 23:00:00 +0200"
       }
     ]
   ]
