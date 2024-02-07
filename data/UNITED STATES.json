@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2024 , 05:44:58",
+  "lastUpdate": "07-02-2024 , 05:54:08",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Drake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake",
         "pubdate": "Tue, 06 Feb 2024 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tucker%20Carlson",
-        "pubdate": "Tue, 06 Feb 2024 14:00:00 -0800"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Cecilia Gentili",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cecilia%20Gentili",
+        "pubdate": "Tue, 06 Feb 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Klay Thompson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Klay%20Thompson",
         "pubdate": "Tue, 06 Feb 2024 00:00:00 -0800"
@@ -73,15 +73,15 @@
     ],
     [
       {
-        "title": "Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
+        "title": "Nevada primary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nevada%20primary",
         "pubdate": "Tue, 06 Feb 2024 19:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Cecilia Gentili",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cecilia%20Gentili",
+        "title": "Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
         "pubdate": "Tue, 06 Feb 2024 19:00:00 -0800"
       }
     ],
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Nevada primary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nevada%20primary",
-        "pubdate": "Tue, 06 Feb 2024 19:00:00 -0800"
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Tue, 06 Feb 2024 21:00:00 -0800"
       }
     ],
     [
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Marilyn Mosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marilyn%20Mosby",
+        "pubdate": "Tue, 06 Feb 2024 20:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Clemson basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clemson%20basketball",
         "pubdate": "Tue, 06 Feb 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Palantir stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Palantir%20stock",
+        "pubdate": "Tue, 06 Feb 2024 10:00:00 -0800"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Marilyn Mosby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marilyn%20Mosby",
-        "pubdate": "Tue, 06 Feb 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Bluesky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bluesky",
         "pubdate": "Tue, 06 Feb 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "San Diego flooding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#San%20Diego%20flooding",
-        "pubdate": "Tue, 06 Feb 2024 12:00:00 -0800"
       }
     ]
   ]
