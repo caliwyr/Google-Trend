@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2024 , 06:49:04",
+  "lastUpdate": "08-02-2024 , 06:58:16",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "DRC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#DRC",
         "pubdate": "Thu, 08 Feb 2024 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Recruitment",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Recruitment",
+        "pubdate": "Thu, 08 Feb 2024 09:00:00 +0300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Atlético Madrid vs Athletic club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atl%C3%A9tico%20Madrid%20vs%20Athletic%20club",
-        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Elsa Majimbo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Elsa%20Majimbo",
         "pubdate": "Wed, 07 Feb 2024 18:00:00 +0300"
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Chile President",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chile%20President",
+        "title": "Chilean President",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chilean%20President",
         "pubdate": "Wed, 07 Feb 2024 14:00:00 +0300"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Atletico Madrid vs Athletic Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid%20vs%20Athletic%20Bilbao",
+        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Samsung S24",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Samsung%20S24",
         "pubdate": "Wed, 07 Feb 2024 10:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Bianca Censori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bianca%20Censori",
         "pubdate": "Wed, 07 Feb 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Lookman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lookman",
-        "pubdate": "Wed, 07 Feb 2024 22:00:00 +0300"
       }
     ]
   ]
