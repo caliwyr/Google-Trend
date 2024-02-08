@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2024 , 12:32:58",
+  "lastUpdate": "08-02-2024 , 12:49:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "RTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
         "pubdate": "Thu, 08 Feb 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Gyokeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gyokeres",
+        "pubdate": "Thu, 08 Feb 2024 10:00:00 +0000"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Xavier Tillman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Xavier%20Tillman",
-        "pubdate": "Thu, 08 Feb 2024 01:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Jenna Ortega",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jenna%20Ortega",
         "pubdate": "Thu, 08 Feb 2024 02:00:00 +0000"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Meteorologia Funchal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Meteorologia%20Funchal",
-        "pubdate": "Thu, 08 Feb 2024 10:00:00 +0000"
+        "title": "Xavier Tillman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Xavier%20Tillman",
+        "pubdate": "Thu, 08 Feb 2024 01:00:00 +0000"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "FCP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FCP",
-        "pubdate": "Wed, 07 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Gina Carano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gina%20Carano",
         "pubdate": "Wed, 07 Feb 2024 10:00:00 +0000"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "PCP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PCP",
-        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0000"
+        "title": "FCP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FCP",
+        "pubdate": "Wed, 07 Feb 2024 17:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nigeria",
+        "title": "Vizela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela",
         "pubdate": "Wed, 07 Feb 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "PCP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PCP",
+        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0000"
       }
     ]
   ]
