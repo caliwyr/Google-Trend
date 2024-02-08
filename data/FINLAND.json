@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-02-2024 , 23:58:32",
+  "lastUpdate": "08-02-2024 , 01:12:13",
   "data": [
+    [
+      {
+        "title": "Discovery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discovery",
+        "pubdate": "Thu, 08 Feb 2024 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Utah Jazz",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Drake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Drake",
-        "pubdate": "Wed, 07 Feb 2024 06:00:00 +0200"
+        "title": "Tucker Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tucker%20Carlson",
+        "pubdate": "Wed, 07 Feb 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tucker%20Carlson",
-        "pubdate": "Wed, 07 Feb 2024 00:00:00 +0200"
+        "title": "Drake leak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Drake%20leak",
+        "pubdate": "Wed, 07 Feb 2024 06:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Toby Keith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Toby%20Keith",
         "pubdate": "Tue, 06 Feb 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
-        "pubdate": "Tue, 06 Feb 2024 00:00:00 +0200"
       }
     ]
   ]
