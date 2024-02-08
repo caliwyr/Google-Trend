@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-02-2024 , 02:47:41",
+  "lastUpdate": "08-02-2024 , 02:57:01",
   "data": [
+    [
+      {
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Wed, 07 Feb 2024 13:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "São Paulo x Água Santa",
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "James rodriguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#James%20rodriguez",
-        "pubdate": "Wed, 07 Feb 2024 13:00:00 -0500"
+        "title": "Bahia x Itabuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Itabuna",
+        "pubdate": "Wed, 07 Feb 2024 20:00:00 -0500"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Ferroviário x Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferrovi%C3%A1rio%20x%20Fortaleza",
+        "pubdate": "Wed, 07 Feb 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Porto FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto%20FC",
         "pubdate": "Wed, 07 Feb 2024 12:00:00 -0500"
@@ -87,9 +101,23 @@
     ],
     [
       {
-        "title": "Ferroviário x Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferrovi%C3%A1rio%20x%20Fortaleza",
+        "title": "Beatriz Haddad Maia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Beatriz%20Haddad%20Maia",
+        "pubdate": "Wed, 07 Feb 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santos futebol clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20futebol%20clube",
         "pubdate": "Wed, 07 Feb 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Paysandu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
+        "pubdate": "Wed, 07 Feb 2024 18:00:00 -0500"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Jacobina x EC Vitória",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jacobina%20x%20EC%20Vit%C3%B3ria",
-        "pubdate": "Wed, 07 Feb 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bahia x Itabuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Itabuna",
-        "pubdate": "Wed, 07 Feb 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Botafogo-SP x Ponte Preta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20Ponte%20Preta",
         "pubdate": "Wed, 07 Feb 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Paysandu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-        "pubdate": "Wed, 07 Feb 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Saopaulofc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saopaulofc",
-        "pubdate": "Wed, 07 Feb 2024 20:00:00 -0500"
       }
     ]
   ]
