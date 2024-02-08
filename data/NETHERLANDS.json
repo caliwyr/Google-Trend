@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2024 , 18:27:28",
+  "lastUpdate": "08-02-2024 , 18:38:25",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Charles",
-        "pubdate": "Mon, 05 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zonnepanelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zonnepanelen",
         "pubdate": "Mon, 05 Feb 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Sun, 04 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 04 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
