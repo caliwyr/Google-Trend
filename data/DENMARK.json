@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2024 , 22:45:02",
+  "lastUpdate": "08-02-2024 , 22:54:19",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Drake leaked",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Drake%20leaked",
-        "pubdate": "Wed, 07 Feb 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gina Carano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gina%20Carano",
         "pubdate": "Wed, 07 Feb 2024 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Toby Keith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Toby%20Keith",
         "pubdate": "Tue, 06 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tucker Carlson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tucker%20Carlson",
+        "pubdate": "Tue, 06 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
