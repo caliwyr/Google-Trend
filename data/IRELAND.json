@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-02-2024 , 01:12:15",
+  "lastUpdate": "08-02-2024 , 01:55:55",
   "data": [
     [
       {
         "title": "AFCON",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#AFCON",
         "pubdate": "Wed, 07 Feb 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic",
+        "pubdate": "Wed, 07 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Irish Wish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Irish%20Wish",
         "pubdate": "Wed, 07 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic",
-        "pubdate": "Wed, 07 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "April Windsor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#April%20Windsor",
+        "pubdate": "Wed, 07 Feb 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Ger Loughnane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ger%20Loughnane",
         "pubdate": "Wed, 07 Feb 2024 02:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Holly Valance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Holly%20Valance",
         "pubdate": "Wed, 07 Feb 2024 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Wes Nelson Love Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wes%20Nelson%20Love%20Island",
-        "pubdate": "Wed, 07 Feb 2024 22:00:00 +0000"
       }
     ]
   ]
