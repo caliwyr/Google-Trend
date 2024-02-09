@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-02-2024 , 17:45:27",
+  "lastUpdate": "09-02-2024 , 17:54:42",
   "data": [
     [
       {
         "title": "Australia vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20West%20Indies",
         "pubdate": "Fri, 09 Feb 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chinese New Year 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chinese%20New%20Year%202024",
+        "pubdate": "Fri, 09 Feb 2024 17:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Durban Super Giants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Durban%20Super%20Giants",
-        "pubdate": "Fri, 09 Feb 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Hilal",
         "pubdate": "Fri, 09 Feb 2024 10:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Chinese New Year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chinese%20New%20Year",
-        "pubdate": "Fri, 09 Feb 2024 17:00:00 +0200"
+        "title": "Durban Super Giants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Durban%20Super%20Giants",
+        "pubdate": "Fri, 09 Feb 2024 08:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
         "pubdate": "Thu, 08 Feb 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CAF 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%202024",
-        "pubdate": "Thu, 08 Feb 2024 01:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "SANDF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SANDF",
         "pubdate": "Thu, 08 Feb 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF",
+        "pubdate": "Thu, 08 Feb 2024 01:00:00 +0200"
       }
     ],
     [
