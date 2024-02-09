@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-02-2024 , 02:48:01",
+  "lastUpdate": "09-02-2024 , 02:57:26",
   "data": [
+    [
+      {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras",
+        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Bolsonaro",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Palmeiras x Ituano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Ituano",
-        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0500"
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
+        "pubdate": "Thu, 08 Feb 2024 16:00:00 -0500"
       }
     ],
     [
@@ -24,29 +31,8 @@
     ],
     [
       {
-        "title": "Jogo do Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Vasco",
-        "pubdate": "Thu, 08 Feb 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fluminense x Sampaio Corrêa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x%20Sampaio%20Corr%C3%AAa",
-        "pubdate": "Thu, 08 Feb 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
-        "pubdate": "Thu, 08 Feb 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Go",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20Go",
         "pubdate": "Thu, 08 Feb 2024 19:00:00 -0500"
       }
     ],
@@ -59,9 +45,16 @@
     ],
     [
       {
-        "title": "Diego Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Diego%20Costa",
+        "title": "Atletico Go",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20Go",
         "pubdate": "Thu, 08 Feb 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Thu, 08 Feb 2024 07:00:00 -0500"
       }
     ],
     [
@@ -80,16 +73,9 @@
     ],
     [
       {
-        "title": "Galo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Galo",
-        "pubdate": "Thu, 08 Feb 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pre olimpico 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pre%20olimpico%202024",
-        "pubdate": "Thu, 08 Feb 2024 19:00:00 -0500"
+        "title": "Remo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
+        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0500"
       }
     ],
     [
@@ -101,16 +87,16 @@
     ],
     [
       {
-        "title": "Mega-Sena 2686",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202686",
-        "pubdate": "Thu, 08 Feb 2024 07:00:00 -0500"
+        "title": "Jogo do galo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20galo",
+        "pubdate": "Thu, 08 Feb 2024 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
-        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0500"
+        "title": "Brasil x Venezuela sub-23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20x%20Venezuela%20sub-23",
+        "pubdate": "Thu, 08 Feb 2024 20:00:00 -0500"
       }
     ],
     [
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Jogo do galo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20galo",
-        "pubdate": "Thu, 08 Feb 2024 14:00:00 -0500"
+        "title": "Classificação Paulista 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Classifica%C3%A7%C3%A3o%20Paulista%202024",
+        "pubdate": "Thu, 08 Feb 2024 05:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Mega-Sena 2686",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202686",
+        "pubdate": "Thu, 08 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Helldivers 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Helldivers%202",
         "pubdate": "Thu, 08 Feb 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sociedade Esportiva Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sociedade%20Esportiva%20Palmeiras",
+        "pubdate": "Thu, 08 Feb 2024 21:00:00 -0500"
       }
     ]
   ]
