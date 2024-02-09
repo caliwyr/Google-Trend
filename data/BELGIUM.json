@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2024 , 05:43:52",
+  "lastUpdate": "09-02-2024 , 05:53:08",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nations%20League",
-        "pubdate": "Thu, 08 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Reservist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Reservist",
         "pubdate": "Thu, 08 Feb 2024 08:00:00 +0100"
@@ -48,6 +41,13 @@
         "title": "Afrika Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Afrika%20Cup",
         "pubdate": "Thu, 08 Feb 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nations%20League",
+        "pubdate": "Thu, 08 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -101,9 +101,23 @@
     ],
     [
       {
+        "title": "Nations League 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nations%20League%202024",
+        "pubdate": "Thu, 08 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Van Gogh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Gogh",
         "pubdate": "Thu, 08 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karen Damen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Karen%20Damen",
+        "pubdate": "Thu, 08 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Antoine Dupont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antoine%20Dupont",
-        "pubdate": "Thu, 08 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nicole Belloubet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicole%20Belloubet",
         "pubdate": "Thu, 08 Feb 2024 22:00:00 +0100"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Afrique du Sud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Afrique%20du%20Sud",
-        "pubdate": "Thu, 08 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Euro%202024",
+        "title": "Antoine Dupont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antoine%20Dupont",
         "pubdate": "Thu, 08 Feb 2024 21:00:00 +0100"
       }
     ]
