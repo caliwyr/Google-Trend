@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2024 , 06:45:38",
+  "lastUpdate": "09-02-2024 , 06:54:50",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
-        "pubdate": "Thu, 08 Feb 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Morreu João",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morreu%20Jo%C3%A3o",
         "pubdate": "Thu, 08 Feb 2024 22:00:00 +0000"
@@ -45,16 +38,23 @@
     ],
     [
       {
-        "title": "CAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CAN",
-        "pubdate": "Thu, 08 Feb 2024 10:00:00 +0000"
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
+        "pubdate": "Thu, 08 Feb 2024 19:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Hoquei em patins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
-        "pubdate": "Thu, 08 Feb 2024 18:00:00 +0000"
+        "title": "Prisao preventiva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Prisao%20preventiva",
+        "pubdate": "Thu, 08 Feb 2024 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "CAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CAN",
+        "pubdate": "Thu, 08 Feb 2024 10:00:00 +0000"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "RTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
         "pubdate": "Thu, 08 Feb 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Hoquei em patins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
+        "pubdate": "Thu, 08 Feb 2024 18:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rita Salema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Salema",
         "pubdate": "Thu, 08 Feb 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Joana Taful",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Taful",
-        "pubdate": "Thu, 08 Feb 2024 22:00:00 +0000"
       }
     ]
   ]

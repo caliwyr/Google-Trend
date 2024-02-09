@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2024 , 06:45:32",
+  "lastUpdate": "09-02-2024 , 06:54:44",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Tucker Carlson Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tucker%20Carlson%20Putin",
-        "pubdate": "Thu, 08 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gemini",
         "pubdate": "Thu, 08 Feb 2024 22:00:00 +0100"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Podzimková Eva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Podzimkov%C3%A1%20Eva",
+        "title": "Eva Podzimková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20Podzimkov%C3%A1",
         "pubdate": "Wed, 07 Feb 2024 23:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Simon Rattle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simon%20Rattle",
         "pubdate": "Wed, 07 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steve Jobs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steve%20Jobs",
+        "pubdate": "Wed, 07 Feb 2024 17:00:00 +0100"
       }
     ]
   ]

@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "09-02-2024 , 06:45:30",
+  "lastUpdate": "09-02-2024 , 06:54:42",
   "data": [
-    [
-      {
-        "title": "Kobe statue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20statue",
-        "pubdate": "Thu, 08 Feb 2024 13:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "NFL Honors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Honors",
         "pubdate": "Thu, 08 Feb 2024 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kobe statue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20statue",
+        "pubdate": "Thu, 08 Feb 2024 13:00:00 -0800"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "The Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Rock",
-        "pubdate": "Thu, 08 Feb 2024 19:00:00 -0800"
+        "title": "Gordon Hayward",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gordon%20Hayward",
+        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0800"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Gordon Hayward",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gordon%20Hayward",
-        "pubdate": "Thu, 08 Feb 2024 09:00:00 -0800"
+        "title": "Teofimo Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Teofimo%20Lopez",
+        "pubdate": "Thu, 08 Feb 2024 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "The Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Rock",
+        "pubdate": "Thu, 08 Feb 2024 19:00:00 -0800"
       }
     ],
     [
@@ -101,30 +108,9 @@
     ],
     [
       {
-        "title": "NFL MVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20MVP",
-        "pubdate": "Thu, 08 Feb 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Teofimo Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Teofimo%20Lopez",
-        "pubdate": "Thu, 08 Feb 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Killian Hayes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Killian%20Hayes",
         "pubdate": "Thu, 08 Feb 2024 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Sacramento Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sacramento%20Kings",
-        "pubdate": "Thu, 08 Feb 2024 17:00:00 -0800"
       }
     ],
     [
@@ -138,6 +124,20 @@
       {
         "title": "Steve McMichael",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steve%20McMichael",
+        "pubdate": "Thu, 08 Feb 2024 20:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Zay Flowers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zay%20Flowers",
+        "pubdate": "Thu, 08 Feb 2024 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
         "pubdate": "Thu, 08 Feb 2024 20:00:00 -0800"
       }
     ]
