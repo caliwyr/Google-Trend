@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2024 , 19:45:19",
+  "lastUpdate": "10-02-2024 , 19:54:42",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "One Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#One%20Day",
-        "pubdate": "Sat, 10 Feb 2024 01:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Sat, 10 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leverkusen",
+        "pubdate": "Sat, 10 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Wolves  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wolves%20%20Brentford",
         "pubdate": "Sat, 10 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "One Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#One%20Day",
+        "pubdate": "Sat, 10 Feb 2024 01:00:00 +0100"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Real Madrid  Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Girona",
-        "pubdate": "Sat, 10 Feb 2024 19:00:00 +0100"
+        "title": "Bianca Censori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bianca%20Censori",
+        "pubdate": "Sat, 10 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Dakota Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dakota%20Johnson",
         "pubdate": "Sat, 10 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bianca%20Censori",
-        "pubdate": "Sat, 10 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Johnny%20Depp",
-        "pubdate": "Fri, 09 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mission: Impossible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible",
         "pubdate": "Fri, 09 Feb 2024 22:00:00 +0100"
       }
     ]
