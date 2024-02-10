@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-02-2024 , 20:49:24",
+  "lastUpdate": "10-02-2024 , 20:58:48",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Sat, 10 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool  Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool%20%20Burnley",
-        "pubdate": "Sat, 10 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,27 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+        "pubdate": "Sat, 10 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Sat, 10 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Sat, 10 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ajax Vrouwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Vrouwen",
         "pubdate": "Sat, 10 Feb 2024 15:00:00 +0100"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Jakhals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jakhals",
-        "pubdate": "Sat, 10 Feb 2024 20:00:00 +0100"
+        "title": "Heracles  Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles%20%20Vitesse",
+        "pubdate": "Sat, 10 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Tue, 06 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tucker Carlson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tucker%20Carlson",
-        "pubdate": "Tue, 06 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Salderingsregeling Eerste Kamer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salderingsregeling%20Eerste%20Kamer",
-        "pubdate": "Tue, 06 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
