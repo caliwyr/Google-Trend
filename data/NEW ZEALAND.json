@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2024 , 13:42:11",
+  "lastUpdate": "10-02-2024 , 13:51:33",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Coast to Coast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coast%20to%20Coast",
+        "pubdate": "Fri, 09 Feb 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Synthony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Synthony",
         "pubdate": "Fri, 09 Feb 2024 16:00:00 +1300"
@@ -131,13 +138,6 @@
       {
         "title": "Chinese zodiac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chinese%20zodiac",
-        "pubdate": "Fri, 09 Feb 2024 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Breakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Breakers",
         "pubdate": "Fri, 09 Feb 2024 22:00:00 +1300"
       }
     ]
