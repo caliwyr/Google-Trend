@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2024 , 08:44:38",
+  "lastUpdate": "10-02-2024 , 08:53:56",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bansko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bansko",
+        "pubdate": "Sat, 10 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Das Jerico Projekt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Das%20Jerico%20Projekt",
         "pubdate": "Sat, 10 Feb 2024 00:00:00 +0100"
@@ -31,9 +38,23 @@
     ],
     [
       {
-        "title": "Bansko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bansko",
-        "pubdate": "Sat, 10 Feb 2024 08:00:00 +0100"
+        "title": "Soldeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Soldeu",
+        "pubdate": "Sat, 10 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mika Vermeulen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mika%20Vermeulen",
+        "pubdate": "Sat, 10 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Badinter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20Badinter",
+        "pubdate": "Sat, 10 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "Rene Benko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rene%20Benko",
-        "pubdate": "Fri, 09 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Biden",
         "pubdate": "Fri, 09 Feb 2024 02:00:00 +0100"
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "HSV gegen Hannover 96",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV%20gegen%20Hannover%2096",
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
         "pubdate": "Fri, 09 Feb 2024 20:00:00 +0100"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Horner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Horner",
-        "pubdate": "Fri, 09 Feb 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vicky Leandros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vicky%20Leandros",
-        "pubdate": "Fri, 09 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lili Paul-Roncalli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lili%20Paul-Roncalli",
-        "pubdate": "Fri, 09 Feb 2024 00:00:00 +0100"
+        "title": "Signa Versteigerung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Signa%20Versteigerung",
+        "pubdate": "Fri, 09 Feb 2024 18:00:00 +0100"
       }
     ]
   ]
