@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-02-2024 , 21:43:18",
+  "lastUpdate": "10-02-2024 , 21:52:44",
   "data": [
     [
       {
         "title": "A League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A%20League",
+        "pubdate": "Sun, 11 Feb 2024 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Everton",
         "pubdate": "Sun, 11 Feb 2024 08:00:00 +1300"
       }
     ],
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Liverpool v/s Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20v/s%20Burnley",
-        "pubdate": "Sun, 11 Feb 2024 09:00:00 +1300"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
+        "pubdate": "Sun, 11 Feb 2024 10:00:00 +1300"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
-        "pubdate": "Sat, 10 Feb 2024 21:00:00 +1300"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bundesliga",
+        "pubdate": "Sat, 10 Feb 2024 22:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bundesliga",
-        "pubdate": "Sat, 10 Feb 2024 22:00:00 +1300"
+        "title": "Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
+        "pubdate": "Sat, 10 Feb 2024 21:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Australia vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20West%20Indies",
         "pubdate": "Fri, 09 Feb 2024 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Ryan Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ryan%20Fox",
-        "pubdate": "Fri, 09 Feb 2024 20:00:00 +1300"
       }
     ]
   ]

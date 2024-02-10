@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "10-02-2024 , 21:43:20",
+  "lastUpdate": "10-02-2024 , 21:52:45",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid",
         "pubdate": "Sat, 10 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "City  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Everton",
-        "pubdate": "Sat, 10 Feb 2024 12:00:00 +0000"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Liverpool-Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool-Burnley",
+        "title": "City  Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Everton",
+        "pubdate": "Sat, 10 Feb 2024 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool  Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Burnley",
         "pubdate": "Sat, 10 Feb 2024 15:00:00 +0000"
       }
     ],
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "PREC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PREC",
-        "pubdate": "Sat, 10 Feb 2024 01:00:00 +0000"
+        "title": "Pedro Nuno Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Nuno%20Santos",
+        "pubdate": "Sat, 10 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "PREC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PREC",
+        "pubdate": "Sat, 10 Feb 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Flamengo  Volta Redonda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Volta%20Redonda",
         "pubdate": "Sat, 10 Feb 2024 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Benfica B  Leixões",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20B%20%20Leix%C3%B5es",
+        "pubdate": "Sat, 10 Feb 2024 17:00:00 +0000"
       }
     ],
     [
@@ -73,22 +87,15 @@
     ],
     [
       {
-        "title": "Figueira Champions Classic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Figueira%20Champions%20Classic",
+        "title": "CDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CDU",
         "pubdate": "Sat, 10 Feb 2024 01:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Benfica B-Leixões",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20B-Leix%C3%B5es",
-        "pubdate": "Sat, 10 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "CDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CDU",
+        "title": "Figueira Champions Classic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Figueira%20Champions%20Classic",
         "pubdate": "Sat, 10 Feb 2024 01:00:00 +0000"
       }
     ],
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Liga 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%203",
-        "pubdate": "Sat, 10 Feb 2024 20:00:00 +0000"
+        "title": "Boavista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boavista",
+        "pubdate": "Sat, 10 Feb 2024 21:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Pinhel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pinhel",
-        "pubdate": "Sat, 10 Feb 2024 15:00:00 +0000"
+        "title": "Liga 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%203",
+        "pubdate": "Sat, 10 Feb 2024 20:00:00 +0000"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Rui Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Costa",
-        "pubdate": "Sat, 10 Feb 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Thor!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Thor!",
-        "pubdate": "Sat, 10 Feb 2024 19:00:00 +0000"
+        "title": "Pinhel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pinhel",
+        "pubdate": "Sat, 10 Feb 2024 15:00:00 +0000"
       }
     ]
   ]
