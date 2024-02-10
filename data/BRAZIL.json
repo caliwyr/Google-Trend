@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-02-2024 , 03:47:31",
+  "lastUpdate": "10-02-2024 , 03:56:45",
   "data": [
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
+        "pubdate": "Fri, 09 Feb 2024 14:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Concurso Nacional Unificado",
@@ -19,7 +26,7 @@
       {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
-        "pubdate": "Fri, 09 Feb 2024 18:00:00 -0500"
+        "pubdate": "Fri, 09 Feb 2024 17:00:00 -0500"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Bia Haddad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bia%20Haddad",
         "pubdate": "Fri, 09 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Borussia x Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia%20x%20Freiburg",
-        "pubdate": "Fri, 09 Feb 2024 14:00:00 -0500"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Gui Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gui%20Santos",
-        "pubdate": "Fri, 09 Feb 2024 00:00:00 -0500"
+        "title": "Desfile das escolas de samba 2024 RJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Desfile%20das%20escolas%20de%20samba%202024%20RJ",
+        "pubdate": "Fri, 09 Feb 2024 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marseille",
-        "pubdate": "Fri, 09 Feb 2024 16:00:00 -0500"
+        "title": "Gui Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gui%20Santos",
+        "pubdate": "Fri, 09 Feb 2024 00:00:00 -0500"
       }
     ],
     [
@@ -108,20 +108,6 @@
     ],
     [
       {
-        "title": "Desfile das escolas de samba 2024 RJ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Desfile%20das%20escolas%20de%20samba%202024%20RJ",
-        "pubdate": "Fri, 09 Feb 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Selecao pre olimpica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selecao%20pre%20olimpica",
-        "pubdate": "Fri, 09 Feb 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Chico Science",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chico%20Science",
         "pubdate": "Fri, 09 Feb 2024 13:00:00 -0500"
@@ -139,6 +125,20 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nikki%20Haley",
         "pubdate": "Fri, 09 Feb 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Campeonato argentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20argentino",
+        "pubdate": "Fri, 09 Feb 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Big brother",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Big%20brother",
+        "pubdate": "Fri, 09 Feb 2024 22:00:00 -0500"
       }
     ]
   ]

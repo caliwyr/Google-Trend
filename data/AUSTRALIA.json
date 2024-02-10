@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2024 , 03:47:30",
+  "lastUpdate": "10-02-2024 , 03:56:44",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Canary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canary",
-        "pubdate": "Sat, 10 Feb 2024 12:00:00 +1100"
+        "title": "Jonathan Majors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonathan%20Majors",
+        "pubdate": "Sat, 10 Feb 2024 13:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Teri Baaton Mein Aisa Uljha Jiya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya",
+        "pubdate": "Sat, 10 Feb 2024 11:00:00 +1100"
       }
     ],
     [
@@ -34,20 +41,6 @@
         "title": "Teofimo Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Teofimo%20Lopez",
         "pubdate": "Sat, 10 Feb 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonathan%20Majors",
-        "pubdate": "Sat, 10 Feb 2024 13:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lunar New Year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lunar%20New%20Year",
-        "pubdate": "Fri, 09 Feb 2024 07:00:00 +1100"
       }
     ],
     [
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Pakistan Elections 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pakistan%20Elections%202024",
+        "title": "Pakistan elections 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pakistan%20elections%202024",
         "pubdate": "Fri, 09 Feb 2024 03:00:00 +1100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "The Rock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Rock",
         "pubdate": "Fri, 09 Feb 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20news",
+        "pubdate": "Fri, 09 Feb 2024 21:00:00 +1100"
       }
     ]
   ]
