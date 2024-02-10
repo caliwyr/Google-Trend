@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-02-2024 , 18:45:24",
+  "lastUpdate": "10-02-2024 , 18:54:39",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
+        "pubdate": "Sat, 10 Feb 2024 11:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "City x Everton",
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Real Madrid x Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid%20x%20Girona",
-        "pubdate": "Sat, 10 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lakers x Pelicans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Pelicans",
-        "pubdate": "Sat, 10 Feb 2024 01:00:00 -0500"
+        "title": "Leverkusen x Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leverkusen%20x%20Bayern",
+        "pubdate": "Sat, 10 Feb 2024 12:00:00 -0500"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Lakers x Pelicans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Pelicans",
+        "pubdate": "Sat, 10 Feb 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Fabiana Justus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabiana%20Justus",
         "pubdate": "Sat, 10 Feb 2024 08:00:00 -0500"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
-        "pubdate": "Sat, 10 Feb 2024 09:00:00 -0500"
+        "title": "Flamengo x Volta Redonda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Volta%20Redonda",
+        "pubdate": "Sat, 10 Feb 2024 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Flamengo x Volta Redonda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Volta%20Redonda",
-        "pubdate": "Sat, 10 Feb 2024 11:00:00 -0500"
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
+        "pubdate": "Sat, 10 Feb 2024 09:00:00 -0500"
       }
     ],
     [
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
+        "pubdate": "Sat, 10 Feb 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Paolla Oliveira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paolla%20Oliveira",
         "pubdate": "Sat, 10 Feb 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Viviane Araújo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Viviane%20Ara%C3%BAjo",
+        "pubdate": "Sat, 10 Feb 2024 13:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
         "pubdate": "Fri, 09 Feb 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bia Haddad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bia%20Haddad",
-        "pubdate": "Fri, 09 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
-        "pubdate": "Fri, 09 Feb 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cadiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cadiz",
-        "pubdate": "Fri, 09 Feb 2024 10:00:00 -0500"
       }
     ]
   ]
