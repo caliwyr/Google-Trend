@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-02-2024 , 09:48:51",
+  "lastUpdate": "11-02-2024 , 09:58:12",
   "data": [
     [
       {
         "title": "Super Bowl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Super%20Bowl",
         "pubdate": "Sun, 11 Feb 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Sun, 11 Feb 2024 02:00:00 -0500"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Canadiens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
+        "pubdate": "Sat, 10 Feb 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
         "pubdate": "Sat, 10 Feb 2024 13:00:00 -0500"
@@ -76,13 +90,6 @@
         "title": "What time is the Super Bowl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What%20time%20is%20the%20Super%20Bowl",
         "pubdate": "Sat, 10 Feb 2024 03:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Canadiens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
-        "pubdate": "Sat, 10 Feb 2024 18:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cavaliers vs Raptors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cavaliers%20vs%20Raptors",
         "pubdate": "Sat, 10 Feb 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ovechkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ovechkin",
-        "pubdate": "Sat, 10 Feb 2024 22:00:00 -0500"
       }
     ]
   ]
