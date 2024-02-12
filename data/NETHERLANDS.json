@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2024 , 17:26:34",
+  "lastUpdate": "12-02-2024 , 17:36:19",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Van Agt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Agt",
-        "pubdate": "Fri, 09 Feb 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 09 Feb 2024 21:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "title": "Feyenoord  AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20AZ",
         "pubdate": "Wed, 07 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0100"
       }
     ]
   ]
