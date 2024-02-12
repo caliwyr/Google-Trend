@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2024 , 04:21:43",
+  "lastUpdate": "12-02-2024 , 04:32:03",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Kiptum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kiptum",
         "pubdate": "Mon, 12 Feb 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vajont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vajont",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -33,6 +40,13 @@
       {
         "title": "Angelica Cinquantini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelica%20Cinquantini",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mazzocchi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mazzocchi",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Finale Coppa d'Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Finale%20Coppa%20d'Africa",
         "pubdate": "Sun, 11 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Monza-Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza-Verona",
-        "pubdate": "Sun, 11 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bundesliga",
-        "pubdate": "Sun, 11 Feb 2024 10:00:00 +0100"
       }
     ]
   ]
