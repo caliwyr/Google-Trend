@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-02-2024 , 16:47:59",
+  "lastUpdate": "12-02-2024 , 16:56:58",
   "data": [
-    [
-      {
-        "title": "Afrika Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Afrika%20Cup",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Kelvin Kiptum",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Afrika Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Afrika%20Cup",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Usher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Usher",
         "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Usher Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Usher%20Super%20Bowl",
+        "pubdate": "Mon, 12 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -40,7 +47,7 @@
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 11 Feb 2024 17:00:00 +0100"
+        "pubdate": "Sun, 11 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Sun, 11 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
         "pubdate": "Sun, 11 Feb 2024 02:00:00 +0100"
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Stroomstoring Oss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stroomstoring%20Oss",
-        "pubdate": "Sun, 11 Feb 2024 19:00:00 +0100"
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Sun, 11 Feb 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "SC Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SC%20Heerenveen",
+        "title": "Stroomstoring Oss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stroomstoring%20Oss",
         "pubdate": "Sun, 11 Feb 2024 19:00:00 +0100"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sat, 10 Feb 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 09 Feb 2024 21:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Feyenoord  AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20AZ",
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Wed, 07 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Wed, 07 Feb 2024 15:00:00 +0100"
       }
     ]
   ]
