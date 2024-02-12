@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-02-2024 , 10:10:36",
+  "lastUpdate": "12-02-2024 , 10:29:32",
   "data": [
-    [
-      {
-        "title": "Super Bowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Super%20Bowl",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Kelvin Kiptum",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Sissel Kyrkjebø",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sissel%20Kyrkjeb%C3%B8",
+        "pubdate": "Mon, 12 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tone Damli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tone%20Damli",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
@@ -34,6 +34,13 @@
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nikki%20Haley",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Super%20Bowl",
+        "pubdate": "Sun, 11 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#West%20Ham",
         "pubdate": "Sun, 11 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mamma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mamma",
-        "pubdate": "Sun, 11 Feb 2024 14:00:00 +0100"
       }
     ]
   ]
