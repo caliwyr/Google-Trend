@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2024 , 20:54:40",
+  "lastUpdate": "12-02-2024 , 21:09:12",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Kansas City Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kansas%20City%20Chiefs",
+        "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
@@ -69,6 +76,13 @@
         "title": "Bob Marley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bob%20Marley",
         "pubdate": "Mon, 12 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Fux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robert%20Fux",
+        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
+        "title": "Ellen Krauss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ellen%20Krauss",
+        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
-        "pubdate": "Sun, 11 Feb 2024 00:00:00 +0100"
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Alexander Stubb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Stubb",
         "pubdate": "Sun, 11 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Travis Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Travis%20Kelce",
-        "pubdate": "Sun, 11 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gunilla Persson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gunilla%20Persson",
-        "pubdate": "Sun, 11 Feb 2024 11:00:00 +0100"
       }
     ]
   ]
