@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 02:53:29",
+  "lastUpdate": "13-02-2024 , 03:10:24",
   "data": [
     [
       {
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NFL",
-        "pubdate": "Mon, 12 Feb 2024 02:00:00 +0100"
+        "title": "Helicopter crashed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Helicopter%20crashed",
+        "pubdate": "Mon, 12 Feb 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Helicopter crashed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Helicopter%20crashed",
-        "pubdate": "Mon, 12 Feb 2024 19:00:00 +0100"
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NFL",
+        "pubdate": "Mon, 12 Feb 2024 02:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Scores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Scores",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Match",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Match",
         "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Barcelona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20FC",
         "pubdate": "Mon, 12 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AFCON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AFCON",
+        "pubdate": "Sun, 11 Feb 2024 12:00:00 +0100"
       }
     ]
   ]
