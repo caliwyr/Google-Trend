@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 01:31:19",
+  "lastUpdate": "13-02-2024 , 02:04:33",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "ATP - Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20-%20Rotterdam",
+        "title": "ATP Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Rotterdam",
         "pubdate": "Tue, 13 Feb 2024 01:00:00 +0100"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Arouca  Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arouca%20%20Porto",
-        "pubdate": "Mon, 12 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Africa-Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Africa-Cup",
         "pubdate": "Mon, 12 Feb 2024 06:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Rafah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rafah",
         "pubdate": "Mon, 12 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
       }
     ]
   ]
