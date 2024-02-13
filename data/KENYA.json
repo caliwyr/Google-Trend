@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-02-2024 , 11:53:31",
+  "lastUpdate": "13-02-2024 , 12:14:53",
   "data": [
     [
       {
-        "title": "Moi University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moi%20University",
-        "pubdate": "Tue, 13 Feb 2024 09:00:00 +0300"
+        "title": "Chelsea FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+        "pubdate": "Tue, 13 Feb 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jazz vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jazz%20vs%20Warriors",
+        "pubdate": "Tue, 13 Feb 2024 11:00:00 +0300"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Jazz vs Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jazz%20vs%20Warriors",
-        "pubdate": "Tue, 13 Feb 2024 11:00:00 +0300"
+        "title": "Moi University",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moi%20University",
+        "pubdate": "Tue, 13 Feb 2024 09:00:00 +0300"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bitcoin",
+        "pubdate": "Tue, 13 Feb 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "AFCON",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AFCON",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0300"
@@ -48,13 +62,6 @@
         "title": "Kelvin Kiptum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kelvin%20Kiptum",
         "pubdate": "Mon, 12 Feb 2024 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Adingra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adingra",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0300"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Swaleh Mdoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Swaleh%20Mdoe",
+        "pubdate": "Mon, 12 Feb 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Ekong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ekong",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0300"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Swaleh Mdoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Swaleh%20Mdoe",
-        "pubdate": "Mon, 12 Feb 2024 18:00:00 +0300"
+        "title": "Adingra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adingra",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Lakewood Church",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakewood%20Church",
-        "pubdate": "Mon, 12 Feb 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Leipzig vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leipzig%20vs%20Real%20Madrid",
         "pubdate": "Mon, 12 Feb 2024 18:00:00 +0300"
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Usher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Usher",
-        "pubdate": "Mon, 12 Feb 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Access Bank CEO helicopter crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Access%20Bank%20CEO%20helicopter%20crash",
-        "pubdate": "Mon, 12 Feb 2024 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Iwobi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Iwobi",
-        "pubdate": "Mon, 12 Feb 2024 02:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Champions%20League",
         "pubdate": "Mon, 12 Feb 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lakewood Church",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakewood%20Church",
+        "pubdate": "Mon, 12 Feb 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Usher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Usher",
+        "pubdate": "Mon, 12 Feb 2024 11:00:00 +0300"
       }
     ]
   ]
