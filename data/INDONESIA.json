@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 22:46:43",
+  "lastUpdate": "13-02-2024 , 22:58:35",
   "data": [
     [
       {
@@ -10,8 +10,29 @@
     ],
     [
       {
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Championship",
+        "pubdate": "Wed, 14 Feb 2024 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gerindra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gerindra",
+        "pubdate": "Wed, 14 Feb 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "PAN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PAN",
+        "pubdate": "Wed, 14 Feb 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Khofifah Indar Parawansa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Khofifah%20Indar%20Parawansa",
         "pubdate": "Wed, 14 Feb 2024 00:00:00 +0700"
       }
     ],
@@ -24,44 +45,9 @@
     ],
     [
       {
-        "title": "Khofifah Indar Parawansa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Khofifah%20Indar%20Parawansa",
-        "pubdate": "Wed, 14 Feb 2024 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Championship",
-        "pubdate": "Wed, 14 Feb 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Anggota KPPS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Anggota%20KPPS",
         "pubdate": "Wed, 14 Feb 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Klasemen Liga Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Klasemen%20Liga%20Champions",
-        "pubdate": "Wed, 14 Feb 2024 04:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crystal%20Palace%20vs%20Chelsea",
-        "pubdate": "Tue, 13 Feb 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dirty Vote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dirty%20Vote",
-        "pubdate": "Tue, 13 Feb 2024 10:00:00 +0700"
       }
     ],
     [
@@ -76,6 +62,20 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Real%20Madrid",
         "pubdate": "Tue, 13 Feb 2024 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crystal%20Palace%20vs%20Chelsea",
+        "pubdate": "Tue, 13 Feb 2024 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Dirty Vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dirty%20Vote",
+        "pubdate": "Tue, 13 Feb 2024 10:00:00 +0700"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "The White Lotus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20White%20Lotus",
+        "title": "Tugas saksi partai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tugas%20saksi%20partai",
         "pubdate": "Tue, 13 Feb 2024 12:00:00 +0700"
       }
     ],
     [
       {
-        "title": "The Great Gatsby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Great%20Gatsby",
-        "pubdate": "Tue, 13 Feb 2024 22:00:00 +0700"
+        "title": "The White Lotus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20White%20Lotus",
+        "pubdate": "Tue, 13 Feb 2024 12:00:00 +0700"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tugas saksi partai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tugas%20saksi%20partai",
-        "pubdate": "Tue, 13 Feb 2024 12:00:00 +0700"
+        "title": "The Great Gatsby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Great%20Gatsby",
+        "pubdate": "Tue, 13 Feb 2024 22:00:00 +0700"
       }
     ]
   ]
