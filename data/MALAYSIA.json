@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-02-2024 , 00:25:31",
+  "lastUpdate": "13-02-2024 , 01:31:15",
   "data": [
-    [
-      {
-        "title": "Super Bowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Super%20Bowl",
-        "pubdate": "Tue, 13 Feb 2024 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Crystal Palace vs Chelsea",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Super%20Bowl",
+        "pubdate": "Tue, 13 Feb 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Juventus vs Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Udinese",
         "pubdate": "Tue, 13 Feb 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Champions%20League",
+        "pubdate": "Tue, 13 Feb 2024 08:00:00 +0800"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Barcelona vs Granada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona%20vs%20Granada",
         "pubdate": "Mon, 12 Feb 2024 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Superbowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Superbowl",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0800"
       }
     ],
     [
