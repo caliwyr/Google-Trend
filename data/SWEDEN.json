@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-02-2024 , 23:51:16",
+  "lastUpdate": "13-02-2024 , 00:25:35",
   "data": [
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bitcoin",
+        "pubdate": "Tue, 13 Feb 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Liseberg",
@@ -12,7 +19,7 @@
       {
         "title": "Gp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gp",
-        "pubdate": "Mon, 12 Feb 2024 12:00:00 +0100"
+        "pubdate": "Mon, 12 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Kelvin Kiptum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kelvin%20Kiptum",
         "pubdate": "Mon, 12 Feb 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Göteborgs posten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6teborgs%20posten",
-        "pubdate": "Mon, 12 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Blake%20Lively",
         "pubdate": "Mon, 12 Feb 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kansas City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kansas%20City",
+        "pubdate": "Mon, 12 Feb 2024 07:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
-        "pubdate": "Mon, 12 Feb 2024 23:00:00 +0100"
       }
     ]
   ]
