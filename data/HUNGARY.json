@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-02-2024 , 17:52:26",
+  "lastUpdate": "13-02-2024 , 18:09:53",
   "data": [
-    [
-      {
-        "title": "Gyárfás Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C3%A1rf%C3%A1s%20Tam%C3%A1s",
-        "pubdate": "Tue, 13 Feb 2024 09:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Reviczky Gábor",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Csongrádi Kata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csongr%C3%A1di%20Kata",
-        "pubdate": "Tue, 13 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gundel Takács Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gundel%20Tak%C3%A1cs%20G%C3%A1bor",
         "pubdate": "Tue, 13 Feb 2024 14:00:00 +0100"
@@ -55,6 +41,20 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
         "pubdate": "Tue, 13 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tényi István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9nyi%20Istv%C3%A1n",
+        "pubdate": "Tue, 13 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chandler Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chandler%20Bing",
+        "pubdate": "Tue, 13 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Sándor Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ndor%20P%C3%A9ter",
-        "pubdate": "Mon, 12 Feb 2024 13:00:00 +0100"
+        "title": "Arató András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arat%C3%B3%20Andr%C3%A1s",
+        "pubdate": "Mon, 12 Feb 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arató András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arat%C3%B3%20Andr%C3%A1s",
-        "pubdate": "Mon, 12 Feb 2024 18:00:00 +0100"
+        "title": "Sándor Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ndor%20P%C3%A9ter",
+        "pubdate": "Mon, 12 Feb 2024 13:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Gyárfás Tamás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C3%A1rf%C3%A1s%20Tam%C3%A1s",
+        "pubdate": "Mon, 12 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Patrick Mahomes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Patrick%20Mahomes",
         "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Azahriah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Azahriah",
+        "pubdate": "Mon, 12 Feb 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fekete-Győr András",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete-Gy%C5%91r%20Andr%C3%A1s",
         "pubdate": "Mon, 12 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Deadpool 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Deadpool%203",
-        "pubdate": "Mon, 12 Feb 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gyurcsány Ferenc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyurcs%C3%A1ny%20Ferenc",
-        "pubdate": "Mon, 12 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
