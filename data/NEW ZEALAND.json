@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 05:55:00",
+  "lastUpdate": "13-02-2024 , 06:15:47",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Scratch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scratch",
-        "pubdate": "Tue, 13 Feb 2024 10:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Kayla Itsines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kayla%20Itsines",
         "pubdate": "Tue, 13 Feb 2024 12:00:00 +1300"
@@ -45,6 +38,20 @@
     ],
     [
       {
+        "title": "Scratch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scratch",
+        "pubdate": "Tue, 13 Feb 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
+        "pubdate": "Tue, 13 Feb 2024 18:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Lakewood Church",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakewood%20Church",
         "pubdate": "Tue, 13 Feb 2024 06:00:00 +1300"
@@ -54,13 +61,6 @@
       {
         "title": "Auckland Transport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Transport",
-        "pubdate": "Tue, 13 Feb 2024 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Slope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slope",
         "pubdate": "Tue, 13 Feb 2024 11:00:00 +1300"
       }
     ],
@@ -83,6 +83,13 @@
         "title": "Shrove Tuesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shrove%20Tuesday",
         "pubdate": "Tue, 13 Feb 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Slope",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slope",
+        "pubdate": "Tue, 13 Feb 2024 11:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NFL",
         "pubdate": "Mon, 12 Feb 2024 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "GeoNet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-        "pubdate": "Mon, 12 Feb 2024 18:00:00 +1300"
       }
     ]
   ]

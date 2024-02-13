@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "13-02-2024 , 05:55:02",
+  "lastUpdate": "13-02-2024 , 06:15:48",
   "data": [
     [
       {
-        "title": "Superbowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Superbowl",
-        "pubdate": "Tue, 13 Feb 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mircea Geoana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Geoana",
+        "title": "Mircea geoana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20geoana",
         "pubdate": "Tue, 13 Feb 2024 00:00:00 +0200"
       }
     ],
@@ -34,6 +27,13 @@
         "title": "Tanase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tanase",
         "pubdate": "Tue, 13 Feb 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC/DC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC/DC",
+        "pubdate": "Tue, 13 Feb 2024 07:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Premier Energy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20Energy",
-        "pubdate": "Mon, 12 Feb 2024 14:00:00 +0200"
+        "title": "Marea Mediterană",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marea%20Mediteran%C4%83",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
+        "title": "Valentine's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Valentine's%20Day",
+        "pubdate": "Mon, 12 Feb 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Premier Energy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20Energy",
+        "pubdate": "Mon, 12 Feb 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Popovici",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#David%20Popovici",
         "pubdate": "Mon, 12 Feb 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deadpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Deadpool",
-        "pubdate": "Mon, 12 Feb 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC%20Milan",
-        "pubdate": "Mon, 12 Feb 2024 07:00:00 +0200"
       }
     ]
   ]

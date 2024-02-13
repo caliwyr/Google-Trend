@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 05:54:55",
+  "lastUpdate": "13-02-2024 , 06:15:41",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20United",
-        "pubdate": "Mon, 12 Feb 2024 11:00:00 -0500"
+        "title": "Canal RCN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Canal%20RCN",
+        "pubdate": "Mon, 12 Feb 2024 00:00:00 -0500"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Pasto  Envigado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pasto%20%20Envigado",
         "pubdate": "Mon, 12 Feb 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20United",
+        "pubdate": "Mon, 12 Feb 2024 11:00:00 -0500"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Fortaleza Junior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza%20Junior",
-        "pubdate": "Mon, 12 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Urban Roosters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Urban%20Roosters",
         "pubdate": "Mon, 12 Feb 2024 20:00:00 -0500"
@@ -101,9 +101,23 @@
     ],
     [
       {
+        "title": "Fortaleza Junior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fortaleza%20Junior",
+        "pubdate": "Mon, 12 Feb 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Blake%20Lively",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "San valentin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#San%20valentin",
+        "pubdate": "Mon, 12 Feb 2024 15:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#UEFA%20Champions%20League",
-        "pubdate": "Mon, 12 Feb 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pereira",
+        "title": "Costa de Marfil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Costa%20de%20Marfil",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Yeezy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Yeezy",
-        "pubdate": "Mon, 12 Feb 2024 10:00:00 -0500"
       }
     ]
   ]
