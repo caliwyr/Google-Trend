@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 19:49:36",
+  "lastUpdate": "13-02-2024 , 19:59:03",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UEFA%20Champions%20League",
+        "pubdate": "Tue, 13 Feb 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Luis Miguel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20Miguel",
         "pubdate": "Tue, 13 Feb 2024 04:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Newell's  Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's%20%20Racing",
         "pubdate": "Mon, 12 Feb 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Champions",
-        "pubdate": "Mon, 12 Feb 2024 16:00:00 -0300"
       }
     ]
   ]
