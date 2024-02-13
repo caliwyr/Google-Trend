@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-02-2024 , 21:44:34",
+  "lastUpdate": "13-02-2024 , 21:53:47",
   "data": [
-    [
-      {
-        "title": "Mardi Gras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mardi%20Gras",
-        "pubdate": "Tue, 13 Feb 2024 04:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Madame Web",
@@ -19,6 +12,27 @@
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
+        "pubdate": "Tue, 13 Feb 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Mardi Gras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mardi%20Gras",
+        "pubdate": "Tue, 13 Feb 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Paczki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paczki",
+        "pubdate": "Tue, 13 Feb 2024 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "RB Leipzig  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#RB%20Leipzig%20%20Real%20Madrid",
         "pubdate": "Tue, 13 Feb 2024 12:00:00 -0800"
       }
     ],
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Paczki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paczki",
-        "pubdate": "Tue, 13 Feb 2024 06:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Ash Wednesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ash%20Wednesday",
         "pubdate": "Tue, 13 Feb 2024 12:00:00 -0800"
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "RB Leipzig  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#RB%20Leipzig%20%20Real%20Madrid",
-        "pubdate": "Tue, 13 Feb 2024 12:00:00 -0800"
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Katy%20Perry",
+        "pubdate": "Tue, 13 Feb 2024 10:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Katy Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Katy%20Perry",
-        "pubdate": "Tue, 13 Feb 2024 10:00:00 -0800"
+        "title": "New York Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#New%20York%20Weather",
+        "pubdate": "Tue, 13 Feb 2024 07:00:00 -0800"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "NYC Weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NYC%20Weather",
-        "pubdate": "Mon, 12 Feb 2024 07:00:00 -0800"
+        "title": "Jorge Soler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jorge%20Soler",
+        "pubdate": "Tue, 13 Feb 2024 13:00:00 -0800"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Champions%20League",
         "pubdate": "Mon, 12 Feb 2024 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "NYC weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NYC%20weather",
+        "pubdate": "Mon, 12 Feb 2024 07:00:00 -0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jon Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jon%20Stewart",
         "pubdate": "Mon, 12 Feb 2024 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bitcoin%20price",
-        "pubdate": "Mon, 12 Feb 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
-        "pubdate": "Mon, 12 Feb 2024 21:00:00 -0800"
       }
     ]
   ]
