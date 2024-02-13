@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2024 , 08:45:54",
+  "lastUpdate": "13-02-2024 , 08:55:11",
   "data": [
     [
       {
@@ -20,6 +20,20 @@
         "title": "ATP - Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20-%20Rotterdam",
         "pubdate": "Tue, 13 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
+        "pubdate": "Tue, 13 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rheinmetall-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rheinmetall-Aktie",
+        "pubdate": "Tue, 13 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Zürich Altstetten Bahnhof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20Altstetten%20Bahnhof",
+        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blake%20Lively",
         "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Zürich Altstetten Bahnhof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20Altstetten%20Bahnhof",
-        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
+        "title": "Kelce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kelce",
+        "pubdate": "Mon, 12 Feb 2024 03:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-        "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luzerner Fasnacht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luzerner%20Fasnacht",
-        "pubdate": "Mon, 12 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rafah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rafah",
-        "pubdate": "Mon, 12 Feb 2024 15:00:00 +0100"
       }
     ]
   ]
