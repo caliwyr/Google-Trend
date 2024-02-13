@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-02-2024 , 03:52:09",
+  "lastUpdate": "13-02-2024 , 04:07:54",
   "data": [
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bitcoin",
+        "pubdate": "Tue, 13 Feb 2024 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Europa League",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Crystal Palace mot Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Crystal%20Palace%20mot%20Chelsea",
-        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League",
         "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
@@ -55,13 +55,6 @@
         "title": "Kansas City Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kansas%20City%20Chiefs",
         "pubdate": "Mon, 12 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bitcoin",
-        "pubdate": "Mon, 12 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mees Rijks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mees%20Rijks",
         "pubdate": "Mon, 12 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andøya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#And%C3%B8ya",
+        "pubdate": "Mon, 12 Feb 2024 01:00:00 +0100"
       }
     ]
   ]
