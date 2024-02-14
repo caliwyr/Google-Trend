@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2024 , 05:46:17",
+  "lastUpdate": "14-02-2024 , 05:55:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Saint-Valentin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saint-Valentin",
         "pubdate": "Wed, 14 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
+        "pubdate": "Tue, 13 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Haiti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haiti",
-        "pubdate": "Tue, 13 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Endometriose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Endometriose",
         "pubdate": "Tue, 13 Feb 2024 20:00:00 +0100"
       }
     ]
