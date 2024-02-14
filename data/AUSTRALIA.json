@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2024 , 12:49:42",
+  "lastUpdate": "14-02-2024 , 12:59:46",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne",
-        "pubdate": "Wed, 14 Feb 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Sydney Trains",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
         "pubdate": "Wed, 14 Feb 2024 17:00:00 +1100"
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Florist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florist",
-        "pubdate": "Wed, 14 Feb 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Jaafar Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jaafar%20Jackson",
         "pubdate": "Wed, 14 Feb 2024 16:00:00 +1100"
@@ -73,9 +59,9 @@
     ],
     [
       {
-        "title": "Galentine's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Galentine's",
-        "pubdate": "Wed, 14 Feb 2024 08:00:00 +1100"
+        "title": "Florist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Florist",
+        "pubdate": "Wed, 14 Feb 2024 11:00:00 +1100"
       }
     ],
     [
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Mirboo North",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mirboo%20North",
-        "pubdate": "Wed, 14 Feb 2024 19:00:00 +1100"
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wrexham",
+        "pubdate": "Wed, 14 Feb 2024 14:00:00 +1100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "CBA ASX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CBA%20ASX",
         "pubdate": "Wed, 14 Feb 2024 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "T20 Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#T20%20Australia",
+        "pubdate": "Wed, 14 Feb 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Power outage Melbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Power%20outage%20Melbourne",
+        "pubdate": "Tue, 13 Feb 2024 16:00:00 +1100"
       }
     ]
   ]
