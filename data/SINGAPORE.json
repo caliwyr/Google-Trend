@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2024 , 00:30:13",
+  "lastUpdate": "14-02-2024 , 01:33:41",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+        "title": "RB Leipzig vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RB%20Leipzig%20vs%20Real%20Madrid",
         "pubdate": "Wed, 14 Feb 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
+        "pubdate": "Wed, 14 Feb 2024 08:00:00 +0800"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
         "pubdate": "Wed, 14 Feb 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Valentines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentines",
+        "pubdate": "Wed, 14 Feb 2024 08:00:00 +0800"
       }
     ],
     [
@@ -73,6 +87,20 @@
     ],
     [
       {
+        "title": "Ash Wednesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ash%20Wednesday",
+        "pubdate": "Tue, 13 Feb 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Valentine Day Gift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentine%20Day%20Gift",
+        "pubdate": "Tue, 13 Feb 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Benny Blanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benny%20Blanco",
         "pubdate": "Tue, 13 Feb 2024 22:00:00 +0800"
@@ -87,15 +115,15 @@
     ],
     [
       {
-        "title": "Ash Wednesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ash%20Wednesday",
-        "pubdate": "Tue, 13 Feb 2024 20:00:00 +0800"
+        "title": "Valentine's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentine's%20Day",
+        "pubdate": "Tue, 13 Feb 2024 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Valentine day gift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentine%20day%20gift",
+        "title": "Valentine Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentine%20Day",
         "pubdate": "Tue, 13 Feb 2024 22:00:00 +0800"
       }
     ],
@@ -110,34 +138,6 @@
       {
         "title": "Vetri Duraisamy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vetri%20Duraisamy",
-        "pubdate": "Tue, 13 Feb 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI",
-        "pubdate": "Tue, 13 Feb 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Thaksin Shinawatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thaksin%20Shinawatra",
-        "pubdate": "Tue, 13 Feb 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Beyonce",
-        "pubdate": "Tue, 13 Feb 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Gemini Google",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gemini%20Google",
         "pubdate": "Tue, 13 Feb 2024 19:00:00 +0800"
       }
     ]
