@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2024 , 03:45:27",
+  "lastUpdate": "14-02-2024 , 03:54:45",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bitcoin%20price",
+        "pubdate": "Tue, 13 Feb 2024 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Norwich City vs Watford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Norwich%20City%20vs%20Watford",
         "pubdate": "Tue, 13 Feb 2024 22:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Lent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lent",
         "pubdate": "Tue, 13 Feb 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Europa%20League",
-        "pubdate": "Tue, 13 Feb 2024 22:00:00 +0000"
       }
     ]
   ]
