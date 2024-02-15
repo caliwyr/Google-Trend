@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-02-2024 , 19:48:42",
+  "lastUpdate": "15-02-2024 , 19:58:04",
   "data": [
     [
       {
         "title": "Kansas City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kansas%20City",
         "pubdate": "Thu, 15 Feb 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jarmo kekäläinen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jarmo%20kek%C3%A4l%C3%A4inen",
+        "pubdate": "Thu, 15 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Jarmo kekäläinen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jarmo%20kek%C3%A4l%C3%A4inen",
-        "pubdate": "Thu, 15 Feb 2024 18:00:00 +0200"
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oppenheimer",
+        "pubdate": "Thu, 15 Feb 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Beck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Beck",
         "pubdate": "Wed, 14 Feb 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Champions%20League",
-        "pubdate": "Tue, 13 Feb 2024 00:00:00 +0200"
       }
     ]
   ]
