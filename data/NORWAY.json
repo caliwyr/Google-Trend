@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-02-2024 , 15:52:29",
+  "lastUpdate": "15-02-2024 , 16:08:19",
   "data": [
     [
       {
         "title": "Mongstad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mongstad",
+        "pubdate": "Thu, 15 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bodø/Glimt Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20Ajax",
         "pubdate": "Thu, 15 Feb 2024 15:00:00 +0100"
       }
     ],
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Bodø/Glimt Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20Ajax",
-        "pubdate": "Thu, 15 Feb 2024 15:00:00 +0100"
+        "title": "Metteson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Metteson",
+        "pubdate": "Thu, 15 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Kansas City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kansas%20City",
-        "pubdate": "Wed, 14 Feb 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marie Curie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marie%20Curie",
         "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Drammen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drammen",
+        "pubdate": "Wed, 14 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Megan Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Megan%20Fox",
         "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sidra Hassouna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sidra%20Hassouna",
+        "pubdate": "Wed, 14 Feb 2024 14:00:00 +0100"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Besseberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Besseberg",
         "pubdate": "Wed, 14 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Drammen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drammen",
-        "pubdate": "Wed, 14 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kelly Brook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kelly%20Brook",
         "pubdate": "Wed, 14 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lilli Bendriss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lilli%20Bendriss",
-        "pubdate": "Wed, 14 Feb 2024 16:00:00 +0100"
       }
     ]
   ]
