@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2024 , 07:50:27",
+  "lastUpdate": "15-02-2024 , 07:59:56",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Friedhelm Funkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedhelm%20Funkel",
         "pubdate": "Wed, 14 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aschermittwoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aschermittwoch",
-        "pubdate": "Wed, 14 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Martin Winterkorn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Winterkorn",
+        "title": "Winterkorn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Winterkorn",
         "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forsthaus Rampensau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Forsthaus%20Rampensau",
+        "pubdate": "Wed, 14 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA",
+        "pubdate": "Tue, 13 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
+        "pubdate": "Tue, 13 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Mon, 12 Feb 2024 05:00:00 +0100"
@@ -124,20 +138,6 @@
       {
         "title": "HSV news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV%20news",
-        "pubdate": "Mon, 12 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rafah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rafah",
-        "pubdate": "Mon, 12 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AC/DC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AC/DC",
         "pubdate": "Mon, 12 Feb 2024 12:00:00 +0100"
       }
     ]
