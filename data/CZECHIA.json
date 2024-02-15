@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2024 , 12:40:06",
+  "lastUpdate": "15-02-2024 , 12:54:08",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Kansas City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kansas%20City",
-        "pubdate": "Thu, 15 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "GOG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GOG",
-        "pubdate": "Thu, 15 Feb 2024 09:00:00 +0100"
+        "title": "Jan Šťastný",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%A0%C5%A5astn%C3%BD",
+        "pubdate": "Thu, 15 Feb 2024 12:00:00 +0100"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Jan Šťastný",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%A0%C5%A5astn%C3%BD",
-        "pubdate": "Thu, 15 Feb 2024 12:00:00 +0100"
+        "title": "GOG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GOG",
+        "pubdate": "Thu, 15 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lenny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lenny",
         "pubdate": "Wed, 14 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Svatý Valentýn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svat%C3%BD%20Valent%C3%BDn",
+        "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
