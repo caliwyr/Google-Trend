@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-02-2024 , 09:49:58",
+  "lastUpdate": "15-02-2024 , 09:59:20",
   "data": [
+    [
+      {
+        "title": "Kansas City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kansas%20City",
+        "pubdate": "Thu, 15 Feb 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Galatasaray",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Zlín – Slavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zl%C3%ADn%20%E2%80%93%20Slavia",
-        "pubdate": "Wed, 14 Feb 2024 18:00:00 +0100"
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lady%20Gaga",
+        "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lady%20Gaga",
-        "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
+        "title": "Zlín – Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zl%C3%ADn%20%E2%80%93%20Slavia",
+        "pubdate": "Wed, 14 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Čapí hnízdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cap%C3%AD%20hn%C3%ADzdo",
-        "pubdate": "Wed, 14 Feb 2024 18:00:00 +0100"
+        "title": "Tomáš Mikyska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Mikyska",
+        "pubdate": "Wed, 14 Feb 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tomáš Mikyska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Mikyska",
-        "pubdate": "Wed, 14 Feb 2024 19:00:00 +0100"
+        "title": "Čapí hnízdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cap%C3%AD%20hn%C3%ADzdo",
+        "pubdate": "Wed, 14 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Jiří Šlitr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20%C5%A0litr",
+        "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Skoda Auto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Auto",
         "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Jiří Šlitr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20%C5%A0litr",
-        "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
+        "title": "Karviná – Pardubice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Pardubice",
+        "pubdate": "Wed, 14 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "Svatý Valentýn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svat%C3%BD%20Valent%C3%BDn",
         "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Žbirka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%BDbirka",
-        "pubdate": "Wed, 14 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Markéta Davidová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Davidov%C3%A1",
-        "pubdate": "Wed, 14 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Máša Málková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#M%C3%A1%C5%A1a%20M%C3%A1lkov%C3%A1",
-        "pubdate": "Wed, 14 Feb 2024 14:00:00 +0100"
+        "title": "SK Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
+        "pubdate": "Wed, 14 Feb 2024 21:00:00 +0100"
       }
     ]
   ]

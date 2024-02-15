@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2024 , 09:49:57",
+  "lastUpdate": "15-02-2024 , 09:59:19",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Wed, 14 Feb 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Copa do Nordeste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Nordeste",
         "pubdate": "Wed, 14 Feb 2024 18:00:00 -0500"
@@ -83,13 +90,6 @@
         "title": "Fortaleza x ríver",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20r%C3%ADver",
         "pubdate": "Wed, 14 Feb 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
-        "pubdate": "Wed, 14 Feb 2024 20:00:00 -0500"
       }
     ],
     [
