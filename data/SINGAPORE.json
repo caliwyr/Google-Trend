@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-02-2024 , 02:46:06",
+  "lastUpdate": "15-02-2024 , 02:55:32",
   "data": [
-    [
-      {
-        "title": "Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valentine's%20Day",
-        "pubdate": "Thu, 15 Feb 2024 01:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Lazio vs Bayern",
@@ -17,8 +10,15 @@
     ],
     [
       {
-        "title": "Vanessa Kirby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vanessa%20Kirby",
+        "title": "PSG vs Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG%20vs%20Real%20Sociedad",
+        "pubdate": "Thu, 15 Feb 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fantastic Four",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fantastic%20Four",
         "pubdate": "Thu, 15 Feb 2024 02:00:00 +0800"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Richie Koh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Richie%20Koh",
-        "pubdate": "Thu, 15 Feb 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dan Ashworth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dan%20Ashworth",
         "pubdate": "Thu, 15 Feb 2024 00:00:00 +0800"
@@ -69,13 +62,6 @@
         "title": "Madame Web",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madame%20Web",
         "pubdate": "Wed, 14 Feb 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Happy Valentine's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Valentine's%20Day",
-        "pubdate": "Wed, 14 Feb 2024 08:00:00 +0800"
       }
     ],
     [
@@ -104,6 +90,13 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
         "pubdate": "Wed, 14 Feb 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sydney%20Sweeney",
+        "pubdate": "Wed, 14 Feb 2024 13:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Singapore Airshow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Airshow",
         "pubdate": "Wed, 14 Feb 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lyft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lyft",
+        "pubdate": "Wed, 14 Feb 2024 17:00:00 +0800"
       }
     ]
   ]
