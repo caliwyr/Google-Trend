@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "15-02-2024 , 22:47:07",
+  "lastUpdate": "15-02-2024 , 22:54:46",
   "data": [
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
-        "pubdate": "Thu, 15 Feb 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord x Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feyenoord%20x%20Roma",
-        "pubdate": "Thu, 15 Feb 2024 08:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Galatasaray",
@@ -27,6 +13,13 @@
         "title": "Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
         "pubdate": "Thu, 15 Feb 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
+        "pubdate": "Thu, 15 Feb 2024 14:00:00 -0500"
       }
     ],
     [
@@ -45,9 +38,30 @@
     ],
     [
       {
+        "title": "Shakhtar Donetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shakhtar%20Donetsk",
+        "pubdate": "Thu, 15 Feb 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "OAB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#OAB",
         "pubdate": "Thu, 15 Feb 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feyenoord",
+        "pubdate": "Thu, 15 Feb 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
+        "pubdate": "Thu, 15 Feb 2024 17:00:00 -0500"
       }
     ],
     [
@@ -59,9 +73,23 @@
     ],
     [
       {
-        "title": "Shakhtar Donetsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shakhtar%20Donetsk",
-        "pubdate": "Thu, 15 Feb 2024 11:00:00 -0500"
+        "title": "Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Braga",
+        "pubdate": "Thu, 15 Feb 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
+        "pubdate": "Thu, 15 Feb 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Benfica x Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica%20x%20Toulouse",
+        "pubdate": "Thu, 15 Feb 2024 15:00:00 -0500"
       }
     ],
     [
@@ -80,23 +108,9 @@
     ],
     [
       {
-        "title": "Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Braga",
-        "pubdate": "Thu, 15 Feb 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jogo do Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Cruzeiro",
         "pubdate": "Thu, 15 Feb 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Benfica x Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica%20x%20Toulouse",
-        "pubdate": "Thu, 15 Feb 2024 15:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Palmeiras x corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20corinthians",
-        "pubdate": "Thu, 15 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Escolas de Samba Rio de Janeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Escolas%20de%20Samba%20Rio%20de%20Janeiro",
-        "pubdate": "Thu, 15 Feb 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-        "pubdate": "Wed, 14 Feb 2024 12:00:00 -0500"
+        "title": "Kansas City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Kansas%20City",
+        "pubdate": "Thu, 15 Feb 2024 00:00:00 -0500"
       }
     ]
   ]
