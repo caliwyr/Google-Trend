@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 23:39:09",
+  "lastUpdate": "16-02-2024 , 23:48:21",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Susan Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Susan%20Smith",
-        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jarmo kekäläinen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jarmo%20kek%C3%A4l%C3%A4inen",
         "pubdate": "Thu, 15 Feb 2024 18:00:00 +0200"
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "Wrc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wrc",
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#WRC",
         "pubdate": "Thu, 15 Feb 2024 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Titanic",
         "pubdate": "Wed, 14 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tsezar Kunikov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tsezar%20Kunikov",
+        "pubdate": "Wed, 14 Feb 2024 12:00:00 +0200"
       }
     ]
   ]
