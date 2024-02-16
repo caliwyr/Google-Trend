@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 03:43:27",
+  "lastUpdate": "16-02-2024 , 03:52:40",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
-        "pubdate": "Thu, 15 Feb 2024 21:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mbappe",
         "pubdate": "Thu, 15 Feb 2024 19:00:00 +0000"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Rafael Nel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20Nel",
+        "pubdate": "Thu, 15 Feb 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
         "pubdate": "Thu, 15 Feb 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
+        "pubdate": "Thu, 15 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Conference%20League",
         "pubdate": "Thu, 15 Feb 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Miguel Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Alves",
-        "pubdate": "Thu, 15 Feb 2024 17:00:00 +0000"
       }
     ]
   ]
