@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 08:44:51",
+  "lastUpdate": "16-02-2024 , 08:54:25",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "GNTM 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GNTM%202024",
+        "pubdate": "Thu, 15 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kansas City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kansas%20City",
         "pubdate": "Thu, 15 Feb 2024 00:00:00 +0100"
@@ -27,13 +34,6 @@
         "title": "Leverkusen Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen%20Europa%20League",
         "pubdate": "Thu, 15 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "GNTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GNTM",
-        "pubdate": "Thu, 15 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Sicherheitskonferenz München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sicherheitskonferenz%20M%C3%BCnchen",
         "pubdate": "Thu, 15 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Babboe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Babboe",
+        "pubdate": "Thu, 15 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
+        "pubdate": "Wed, 14 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Forsthaus Rampensau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Forsthaus%20Rampensau",
         "pubdate": "Wed, 14 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Politischer Aschermittwoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Politischer%20Aschermittwoch",
-        "pubdate": "Wed, 14 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Tue, 13 Feb 2024 10:00:00 +0100"
       }
     ]
   ]
