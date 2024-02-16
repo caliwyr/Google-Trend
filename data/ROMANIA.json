@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-02-2024 , 17:43:15",
+  "lastUpdate": "16-02-2024 , 17:52:31",
   "data": [
     [
       {
-        "title": "Alexei Navalny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexei%20Navalny",
+        "title": "Navalny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Navalny",
         "pubdate": "Fri, 16 Feb 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petrolul - Poli Iași",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20-%20Poli%20Ia%C8%99i",
+        "pubdate": "Fri, 16 Feb 2024 17:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
         "pubdate": "Fri, 16 Feb 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petrolul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul",
-        "pubdate": "Fri, 16 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Sora OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sora%20OpenAI",
-        "pubdate": "Fri, 16 Feb 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UEL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEL",
         "pubdate": "Fri, 16 Feb 2024 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20League",
         "pubdate": "Thu, 15 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Florentina Satmari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florentina%20Satmari",
+        "pubdate": "Thu, 15 Feb 2024 16:00:00 +0200"
       }
     ]
   ]
