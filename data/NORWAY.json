@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 07:42:49",
+  "lastUpdate": "16-02-2024 , 07:52:18",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Mongstad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mongstad",
         "pubdate": "Thu, 15 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ane By Farstad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ane%20By%20Farstad",
+        "pubdate": "Thu, 15 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,16 +122,9 @@
     ],
     [
       {
-        "title": "Au pair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Au%20pair",
-        "pubdate": "Thu, 15 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pedro Pascal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pedro%20Pascal",
-        "pubdate": "Thu, 15 Feb 2024 14:00:00 +0100"
+        "title": "Indonesia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Indonesia",
+        "pubdate": "Thu, 15 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "John Kerry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#John%20Kerry",
-        "pubdate": "Wed, 14 Feb 2024 17:00:00 +0100"
+        "title": "Au pair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Au%20pair",
+        "pubdate": "Thu, 15 Feb 2024 10:00:00 +0100"
       }
     ]
   ]
