@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 09:49:59",
+  "lastUpdate": "16-02-2024 , 09:59:42",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tiger Woods",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tiger%20Woods",
         "pubdate": "Thu, 15 Feb 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "OpenAI Sora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#OpenAI%20Sora",
+        "pubdate": "Thu, 15 Feb 2024 14:00:00 -0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "OpenAI Sora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#OpenAI%20Sora",
-        "pubdate": "Thu, 15 Feb 2024 18:00:00 -0800"
+        "title": "Dune 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dune%202",
+        "pubdate": "Thu, 15 Feb 2024 22:00:00 -0800"
       }
     ],
     [
@@ -73,22 +80,8 @@
     ],
     [
       {
-        "title": "Dune 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dune%202",
-        "pubdate": "Thu, 15 Feb 2024 22:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Bucks vs Grizzlies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks%20vs%20Grizzlies",
-        "pubdate": "Thu, 15 Feb 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Jazz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Jazz",
         "pubdate": "Thu, 15 Feb 2024 20:00:00 -0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Vince Staples",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vince%20Staples",
         "pubdate": "Thu, 15 Feb 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Minnesota Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Minnesota%20Timberwolves",
+        "pubdate": "Thu, 15 Feb 2024 22:00:00 -0800"
       }
     ]
   ]
