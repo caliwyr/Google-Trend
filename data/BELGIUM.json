@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 19:47:14",
+  "lastUpdate": "16-02-2024 , 19:56:25",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "OpenAI Sora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OpenAI%20Sora",
+        "pubdate": "Fri, 16 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
         "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "OpenAI Sora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OpenAI%20Sora",
-        "pubdate": "Fri, 16 Feb 2024 09:00:00 +0100"
+        "title": "Deepnude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deepnude",
+        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
-        "pubdate": "Fri, 16 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aleksej Navalny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aleksej%20Navalny",
         "pubdate": "Fri, 16 Feb 2024 15:00:00 +0100"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Rym Fikri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rym%20Fikri",
-        "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
+        "pubdate": "Fri, 16 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Daniel Martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daniel%20Martinez",
-        "pubdate": "Fri, 16 Feb 2024 09:00:00 +0100"
+        "title": "Rym Fikri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rym%20Fikri",
+        "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -87,23 +87,23 @@
     ],
     [
       {
+        "title": "Frans Hals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frans%20Hals",
+        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daniel%20Martinez",
+        "pubdate": "Fri, 16 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lukaku",
         "pubdate": "Fri, 16 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens",
-        "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma",
-        "pubdate": "Fri, 16 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lens",
+        "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lierse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lierse",
         "pubdate": "Fri, 16 Feb 2024 19:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma",
+        "pubdate": "Fri, 16 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
         "pubdate": "Thu, 15 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
-        "pubdate": "Thu, 15 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marc Coucke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Coucke",
-        "pubdate": "Thu, 15 Feb 2024 22:00:00 +0100"
       }
     ]
   ]
