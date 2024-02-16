@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2024 , 04:44:26",
+  "lastUpdate": "16-02-2024 , 04:53:38",
   "data": [
     [
       {
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Kansas City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kansas%20City",
-        "pubdate": "Thu, 15 Feb 2024 00:00:00 +0100"
+        "title": "GNTM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GNTM",
+        "pubdate": "Thu, 15 Feb 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "GNTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GNTM",
-        "pubdate": "Thu, 15 Feb 2024 19:00:00 +0100"
+        "title": "Kansas City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kansas%20City",
+        "pubdate": "Thu, 15 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Glacier 3000",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glacier%203000",
-        "pubdate": "Thu, 15 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Johanna von Koczian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Johanna%20von%20Koczian",
         "pubdate": "Thu, 15 Feb 2024 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Benfica  Toulouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica%20%20Toulouse",
         "pubdate": "Thu, 15 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Glacier 3000",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Glacier%203000",
+        "pubdate": "Thu, 15 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
