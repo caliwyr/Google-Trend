@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2024 , 19:46:35",
+  "lastUpdate": "17-02-2024 , 19:55:52",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "ASSE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
-        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
+        "title": "Lille – Le Havre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Le%20Havre",
+        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Lille – Le Havre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Le%20Havre",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0100"
+        "title": "ASSE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -54,6 +54,13 @@
       {
         "title": "Stade Toulousain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20Toulousain",
+        "pubdate": "Sat, 17 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nantes-PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes-PSG",
         "pubdate": "Sat, 17 Feb 2024 18:00:00 +0100"
       }
     ],
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
+        "pubdate": "Sat, 17 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rouen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rouen",
         "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
+        "pubdate": "Sat, 17 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juventus",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OGC Nice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OGC%20Nice",
         "pubdate": "Sat, 17 Feb 2024 00:00:00 +0100"
@@ -94,23 +122,9 @@
     ],
     [
       {
-        "title": "Nantes-PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes-PSG",
-        "pubdate": "Sat, 17 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zelensky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zelensky",
         "pubdate": "Sat, 17 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juventus",
-        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "James Denton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#James%20Denton",
         "pubdate": "Fri, 16 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
-        "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OpenAI",
-        "pubdate": "Fri, 16 Feb 2024 07:00:00 +0100"
       }
     ]
   ]

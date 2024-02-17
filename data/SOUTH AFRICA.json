@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-02-2024 , 19:46:42",
+  "lastUpdate": "17-02-2024 , 19:55:58",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Brentford vs Liverpool",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
+        "pubdate": "Sat, 17 Feb 2024 16:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
         "pubdate": "Sat, 17 Feb 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sharks vs Stormers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sharks%20vs%20Stormers",
+        "pubdate": "Sat, 17 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
+        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayer%20Leverkusen",
         "pubdate": "Sat, 17 Feb 2024 18:00:00 +0200"
@@ -59,9 +80,16 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
+        "title": "Mamelodi Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns",
+        "pubdate": "Sat, 17 Feb 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr vs Al Fateh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al%20Fateh",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Mamelodi Sundowns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns",
-        "pubdate": "Sat, 17 Feb 2024 13:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -101,29 +129,8 @@
     ],
     [
       {
-        "title": "Al-Nassr vs Al Fateh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al%20Fateh",
-        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cape Town City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20City",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
-        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20FC",
         "pubdate": "Sat, 17 Feb 2024 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
         "pubdate": "Sat, 17 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC 298",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC%20298",
-        "pubdate": "Sat, 17 Feb 2024 08:00:00 +0200"
       }
     ]
   ]
