@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2024 , 06:55:39",
+  "lastUpdate": "17-02-2024 , 07:10:29",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "SRF Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20Sport",
-        "pubdate": "Fri, 16 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nawalny Tod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nawalny%20Tod",
         "pubdate": "Fri, 16 Feb 2024 14:00:00 +0100"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
-        "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
+        "title": "SRF Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20Sport",
+        "pubdate": "Fri, 16 Feb 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "James Denton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Denton",
-        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0100"
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+        "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -76,6 +69,13 @@
         "title": "FC Thun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
         "pubdate": "Fri, 16 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James Denton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Denton",
+        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Fasnacht Bern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fasnacht%20Bern",
-        "pubdate": "Fri, 16 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Natasha St-Pier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Natasha%20St-Pier",
         "pubdate": "Fri, 16 Feb 2024 23:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Michaela May",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michaela%20May",
+        "pubdate": "Fri, 16 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Aarau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
         "pubdate": "Fri, 16 Feb 2024 21:00:00 +0100"
       }
     ]
