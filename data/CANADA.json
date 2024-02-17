@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2024 , 09:48:35",
+  "lastUpdate": "17-02-2024 , 09:57:57",
   "data": [
     [
       {
@@ -61,7 +61,14 @@
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trump",
-        "pubdate": "Fri, 16 Feb 2024 22:00:00 -0500"
+        "pubdate": "Fri, 16 Feb 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
+        "pubdate": "Fri, 16 Feb 2024 08:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oilers game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20game",
         "pubdate": "Fri, 16 Feb 2024 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ottawa senators",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20senators",
-        "pubdate": "Fri, 16 Feb 2024 05:00:00 -0500"
       }
     ]
   ]

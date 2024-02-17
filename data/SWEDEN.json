@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2024 , 09:48:45",
+  "lastUpdate": "17-02-2024 , 09:58:06",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dune",
-        "pubdate": "Fri, 16 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Fri, 16 Feb 2024 08:00:00 +0100"
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Conference%20League",
-        "pubdate": "Fri, 16 Feb 2024 00:00:00 +0100"
+        "title": "Björn Seeliger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Seeliger",
+        "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Björn Seeliger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Seeliger",
-        "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Conference%20League",
+        "pubdate": "Fri, 16 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bill Skarsgård",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bill%20Skarsg%C3%A5rd",
         "pubdate": "Thu, 15 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Skyttedal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skyttedal",
+        "pubdate": "Thu, 15 Feb 2024 16:00:00 +0100"
       }
     ]
   ]
