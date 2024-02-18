@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-02-2024 , 07:44:53",
+  "lastUpdate": "18-02-2024 , 07:54:24",
   "data": [
+    [
+      {
+        "title": "NPFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NPFL",
+        "pubdate": "Sun, 18 Feb 2024 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Burnley vs Arsenal",
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Arsenal next match",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20next%20match",
-        "pubdate": "Sat, 17 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
-        "pubdate": "Sat, 17 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dennis Idahosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dennis%20Idahosa",
         "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta",
+        "pubdate": "Sat, 17 Feb 2024 22:00:00 +0100"
       }
     ]
   ]

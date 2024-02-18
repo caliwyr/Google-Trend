@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-02-2024 , 07:44:48",
+  "lastUpdate": "18-02-2024 , 07:54:19",
   "data": [
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
         "pubdate": "Sun, 18 Feb 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "KSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSW",
+        "pubdate": "Sat, 17 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CNN",
         "pubdate": "Sat, 17 Feb 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Soukalová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soukalov%C3%A1",
+        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "KSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSW",
-        "pubdate": "Fri, 16 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marcel Nemec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marcel%20Nemec",
         "pubdate": "Fri, 16 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sora",
-        "pubdate": "Fri, 16 Feb 2024 09:00:00 +0100"
       }
     ]
   ]
