@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "18-02-2024 , 14:42:01",
+  "lastUpdate": "18-02-2024 , 14:52:22",
   "data": [
     [
       {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#City",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
+        "pubdate": "Sun, 18 Feb 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rayo Vallecano - Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20-%20Real%20Madrid",
         "pubdate": "Sun, 18 Feb 2024 10:00:00 -0300"
       }
     ],
@@ -13,13 +20,6 @@
         "title": "Star",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Star",
         "pubdate": "Sun, 18 Feb 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rayo Vallecano - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20-%20Real%20Madrid",
-        "pubdate": "Sun, 18 Feb 2024 10:00:00 -0300"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
-        "pubdate": "Sat, 17 Feb 2024 15:00:00 -0300"
+        "title": "Godoy Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Godoy%20Cruz",
+        "pubdate": "Sat, 17 Feb 2024 21:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Godoy Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Godoy%20Cruz",
-        "pubdate": "Sat, 17 Feb 2024 21:00:00 -0300"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
+        "pubdate": "Sat, 17 Feb 2024 15:00:00 -0300"
       }
     ],
     [
