@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2024 , 19:44:49",
+  "lastUpdate": "18-02-2024 , 19:54:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "ראיו נגד ריאל מדריד",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%90%D7%99%D7%95%20%D7%A0%D7%92%D7%93%20%D7%A8%D7%99%D7%90%D7%9C%20%D7%9E%D7%93%D7%A8%D7%99%D7%93",
         "pubdate": "Sun, 18 Feb 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "מכבי חיפה נגד הפועל חיפה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%9B%D7%91%D7%99%20%D7%97%D7%99%D7%A4%D7%94%20%D7%A0%D7%92%D7%93%20%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%97%D7%99%D7%A4%D7%94",
+        "pubdate": "Sun, 18 Feb 2024 20:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "מכבי חיפה נגד הפועל חיפה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%9B%D7%91%D7%99%20%D7%97%D7%99%D7%A4%D7%94%20%D7%A0%D7%92%D7%93%20%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%97%D7%99%D7%A4%D7%94",
-        "pubdate": "Sun, 18 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "דרור וינברג",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%A8%D7%95%D7%A8%20%D7%95%D7%99%D7%A0%D7%91%D7%A8%D7%92",
         "pubdate": "Sun, 18 Feb 2024 08:00:00 +0200"
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "אור אוהד",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%A8%20%D7%90%D7%95%D7%94%D7%93",
+        "pubdate": "Sun, 18 Feb 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "פיגוע בצומת ראם",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%99%D7%92%D7%95%D7%A2%20%D7%91%D7%A6%D7%95%D7%9E%D7%AA%20%D7%A8%D7%90%D7%9D",
         "pubdate": "Sun, 18 Feb 2024 17:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "אינייסטה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%A0%D7%99%D7%99%D7%A1%D7%98%D7%94",
-        "pubdate": "Sun, 18 Feb 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "דני אלבס",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%A0%D7%99%20%D7%90%D7%9C%D7%91%D7%A1",
         "pubdate": "Sun, 18 Feb 2024 18:00:00 +0200"
@@ -94,9 +94,30 @@
     ],
     [
       {
+        "title": "אינייסטה",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%A0%D7%99%D7%99%D7%A1%D7%98%D7%94",
+        "pubdate": "Sun, 18 Feb 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "הפועל חולון",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%97%D7%95%D7%9C%D7%95%D7%9F",
         "pubdate": "Sun, 18 Feb 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "אלון אבוטבול",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%95%D7%9F%20%D7%90%D7%91%D7%95%D7%98%D7%91%D7%95%D7%9C",
+        "pubdate": "Sat, 17 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "בני סכנין נגד בית ר ירושלים",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A0%D7%99%20%D7%A1%D7%9B%D7%A0%D7%99%D7%9F%20%D7%A0%D7%92%D7%93%20%D7%91%D7%99%D7%AA%20%D7%A8%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "ידין גלמן",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%93%D7%99%D7%9F%20%D7%92%D7%9C%D7%9E%D7%9F",
         "pubdate": "Sat, 17 Feb 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ברצלונה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94",
-        "pubdate": "Sat, 17 Feb 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "מנצ'סטר סיטי נגד צ'לסי",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A0%D7%A6'%D7%A1%D7%98%D7%A8%20%D7%A1%D7%99%D7%98%D7%99%20%D7%A0%D7%92%D7%93%20%D7%A6'%D7%9C%D7%A1%D7%99",
-        "pubdate": "Sat, 17 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "דניאל פרץ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%A0%D7%99%D7%90%D7%9C%20%D7%A4%D7%A8%D7%A5",
-        "pubdate": "Sat, 17 Feb 2024 22:00:00 +0200"
       }
     ]
   ]
