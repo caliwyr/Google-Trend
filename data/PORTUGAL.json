@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2024 , 12:30:41",
+  "lastUpdate": "18-02-2024 , 12:47:11",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
+        "pubdate": "Sat, 17 Feb 2024 04:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Marítimo  Porto B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mar%C3%ADtimo%20%20Porto%20B",
         "pubdate": "Sat, 17 Feb 2024 16:00:00 +0000"
@@ -131,13 +138,6 @@
       {
         "title": "Chaves-Boavista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chaves-Boavista",
-        "pubdate": "Sat, 17 Feb 2024 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
         "pubdate": "Sat, 17 Feb 2024 16:00:00 +0000"
       }
     ]
