@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2024 , 13:44:20",
+  "lastUpdate": "18-02-2024 , 13:53:35",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
+        "pubdate": "Sun, 18 Feb 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Mackenzie Dern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mackenzie%20Dern",
         "pubdate": "Sun, 18 Feb 2024 17:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Big Gay Out",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Big%20Gay%20Out",
         "pubdate": "Sat, 17 Feb 2024 18:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Cloverlea Tavern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cloverlea%20Tavern",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +1300"
       }
     ]
   ]
