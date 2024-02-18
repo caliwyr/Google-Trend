@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2024 , 09:41:01",
+  "lastUpdate": "18-02-2024 , 09:50:21",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "ING Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ING%20Arena",
+        "pubdate": "Sat, 17 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
         "pubdate": "Sat, 17 Feb 2024 20:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Christophe Licata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christophe%20Licata",
         "pubdate": "Sat, 17 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lokeren-Temse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lokeren-Temse",
-        "pubdate": "Sat, 17 Feb 2024 23:00:00 +0100"
       }
     ]
   ]
