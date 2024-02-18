@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2024 , 18:45:15",
+  "lastUpdate": "18-02-2024 , 18:54:26",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City",
+        "pubdate": "Sun, 18 Feb 2024 08:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Luton  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luton%20%20Manchester%20United",
         "pubdate": "Sun, 18 Feb 2024 11:00:00 -0600"
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Bochum  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bochum%20%20Bayern",
+        "title": "Bochum - Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bochum%20-%20Bayern",
         "pubdate": "Sun, 18 Feb 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Al Hilal,  al raed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Hilal,%20%20al%20raed",
+        "pubdate": "Sun, 18 Feb 2024 10:00:00 -0600"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Xolos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xolos",
-        "pubdate": "Sun, 18 Feb 2024 05:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Sheffield United  Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sheffield%20United%20%20Brighton",
         "pubdate": "Sun, 18 Feb 2024 11:00:00 -0600"
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Xolos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xolos",
+        "pubdate": "Sun, 18 Feb 2024 05:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Mateo Levy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mateo%20Levy",
         "pubdate": "Sun, 18 Feb 2024 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Granada - Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Granada%20-%20Almer%C3%ADa",
+        "pubdate": "Sun, 18 Feb 2024 12:00:00 -0600"
       }
     ],
     [
@@ -94,8 +115,8 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20hoy",
+        "title": "Temblor HOY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20HOY",
         "pubdate": "Sat, 17 Feb 2024 19:00:00 -0600"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Atl San Luis - Tijuana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%20San%20Luis%20-%20Tijuana",
         "pubdate": "Sat, 17 Feb 2024 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Nassr",
-        "pubdate": "Sat, 17 Feb 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Clima CDMX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20CDMX",
-        "pubdate": "Sat, 17 Feb 2024 06:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid  UD Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Madrid%20%20UD%20Las%20Palmas",
-        "pubdate": "Sat, 17 Feb 2024 08:00:00 -0600"
       }
     ]
   ]

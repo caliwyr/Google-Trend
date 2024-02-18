@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-02-2024 , 18:45:12",
+  "lastUpdate": "18-02-2024 , 18:54:23",
   "data": [
     [
       {
         "title": "Amanda Lear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amanda%20Lear",
         "pubdate": "Sun, 18 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UFC",
+        "pubdate": "Sun, 18 Feb 2024 05:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UFC",
-        "pubdate": "Sun, 18 Feb 2024 09:00:00 +0100"
+        "title": "Reims – Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Reims%20%E2%80%93%20Lens",
+        "pubdate": "Sun, 18 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Rennes – Clermont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rennes%20%E2%80%93%20Clermont",
         "pubdate": "Sun, 18 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Reims – Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Reims%20%E2%80%93%20Lens",
-        "pubdate": "Sun, 18 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galatasaray",
+        "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Au nom de la terre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Au%20nom%20de%20la%20terre",
         "pubdate": "Sun, 18 Feb 2024 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Nantes-PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes-PSG",
         "pubdate": "Sat, 17 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Top 14",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Top%2014",
-        "pubdate": "Sat, 17 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
