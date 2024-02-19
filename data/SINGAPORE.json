@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 17:46:14",
+  "lastUpdate": "19-02-2024 , 17:55:41",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "All-Star Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#All-Star%20Game",
+        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Drive",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
@@ -87,22 +94,8 @@
     ],
     [
       {
-        "title": "NBA All-Star Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20All-Star%20Game",
-        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "HSBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HSBC",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Chat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chat",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
       }
     ],
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "CNA Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNA%20Singapore",
-        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0800"
+        "title": "Chat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chat",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "AIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AIA",
-        "pubdate": "Mon, 19 Feb 2024 14:00:00 +0800"
+        "title": "BTO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BTO",
+        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0800"
       }
     ],
     [
       {
-        "title": "BTO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BTO",
-        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0800"
+        "title": "GPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GPT",
+        "pubdate": "Mon, 19 Feb 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "LTA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#LTA",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
       }
     ]
   ]
