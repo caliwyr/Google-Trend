@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 07:45:47",
+  "lastUpdate": "19-02-2024 , 07:55:11",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Bochum  Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bochum%20%20Bayern",
+        "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rayo  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rayo%20%20Real%20Madrid",
         "pubdate": "Sun, 18 Feb 2024 14:00:00 +0100"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Bochum  Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bochum%20%20Bayern",
-        "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ilia Topuria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ilia%20Topuria",
         "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "True detective season 4 Episode 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#True%20detective%20season%204%20Episode%206",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
+        "title": "Bryan Adams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bryan%20Adams",
+        "pubdate": "Sun, 18 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Sand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sand",
         "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern",
-        "pubdate": "Sun, 18 Feb 2024 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Sat, 17 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+        "pubdate": "Sat, 17 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
