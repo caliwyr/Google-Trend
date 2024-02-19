@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 22:47:18",
+  "lastUpdate": "19-02-2024 , 22:56:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maps",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gov.br",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gov.br",
+        "pubdate": "Mon, 19 Feb 2024 11:00:00 -0500"
       }
     ],
     [
@@ -38,34 +45,6 @@
     ],
     [
       {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Drive",
-        "pubdate": "Mon, 19 Feb 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Gov.br",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gov.br",
-        "pubdate": "Mon, 19 Feb 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CNPJ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNPJ",
-        "pubdate": "Mon, 19 Feb 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CPC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CPC",
-        "pubdate": "Mon, 19 Feb 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
         "pubdate": "Mon, 19 Feb 2024 00:00:00 -0500"
@@ -73,16 +52,16 @@
     ],
     [
       {
-        "title": "Enquete paredão BBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20pared%C3%A3o%20BBB",
-        "pubdate": "Mon, 19 Feb 2024 04:00:00 -0500"
+        "title": "Drive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Drive",
+        "pubdate": "Mon, 19 Feb 2024 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Detran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Detran",
-        "pubdate": "Mon, 19 Feb 2024 11:00:00 -0500"
+        "title": "SED",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SED",
+        "pubdate": "Mon, 19 Feb 2024 06:00:00 -0500"
       }
     ],
     [
@@ -94,8 +73,29 @@
     ],
     [
       {
-        "title": "Gov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gov",
+        "title": "CPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CPC",
+        "pubdate": "Mon, 19 Feb 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "CNPJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNPJ",
+        "pubdate": "Mon, 19 Feb 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Enquete Paredão BBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20Pared%C3%A3o%20BBB",
+        "pubdate": "Mon, 19 Feb 2024 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Detran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Detran",
         "pubdate": "Mon, 19 Feb 2024 11:00:00 -0500"
       }
     ],
@@ -111,13 +111,6 @@
         "title": "Equatorial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Equatorial",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "INSS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#INSS",
-        "pubdate": "Mon, 19 Feb 2024 11:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CIEE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CIEE",
         "pubdate": "Mon, 19 Feb 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ibovespa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ibovespa",
+        "pubdate": "Mon, 19 Feb 2024 10:00:00 -0500"
       }
     ]
   ]
