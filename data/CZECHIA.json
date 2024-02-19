@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 18:47:54",
+  "lastUpdate": "19-02-2024 , 18:57:07",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Extraliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
         "pubdate": "Mon, 19 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BAFTA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BAFTA%202024",
+        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "BAFTA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BAFTA%202024",
-        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0100"
+        "title": "Rabbit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rabbit",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sidney Crosby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sidney%20Crosby",
         "pubdate": "Sun, 18 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern",
-        "pubdate": "Sun, 18 Feb 2024 22:00:00 +0100"
       }
     ]
   ]
