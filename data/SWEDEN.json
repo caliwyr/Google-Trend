@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 04:40:13",
+  "lastUpdate": "19-02-2024 , 04:49:20",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "pubdate": "Sun, 18 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sun, 18 Feb 2024 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Gunilla Persson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gunilla%20Persson",
         "pubdate": "Sat, 17 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Svenska cupen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svenska%20cupen",
-        "pubdate": "Sat, 17 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
