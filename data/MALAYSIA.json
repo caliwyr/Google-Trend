@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 12:50:01",
+  "lastUpdate": "19-02-2024 , 12:59:55",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "TNB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#TNB",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "EPF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EPF",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
@@ -76,6 +69,13 @@
         "title": "Monza vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Monza%20vs%20Milan",
         "pubdate": "Mon, 19 Feb 2024 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Zoom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zoom",
+        "pubdate": "Mon, 19 Feb 2024 18:00:00 +0800"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Bursa Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bursa%20Malaysia",
+        "pubdate": "Mon, 19 Feb 2024 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Great Eastern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Great%20Eastern",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "GPT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#GPT",
-        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0800"
+        "title": "Mutang Tagal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mutang%20Tagal",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Mutang Tagal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mutang%20Tagal",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+        "title": "GPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#GPT",
+        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "OCBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#OCBC",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Zakaria Kasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zakaria%20Kasa",
-        "pubdate": "Mon, 19 Feb 2024 01:00:00 +0800"
       }
     ]
   ]
