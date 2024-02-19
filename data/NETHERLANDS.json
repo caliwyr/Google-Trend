@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-02-2024 , 16:50:46",
+  "lastUpdate": "19-02-2024 , 17:00:13",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
         "pubdate": "Mon, 19 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anaconda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anaconda",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Stonehenge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stonehenge",
-        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "BAFTA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BAFTA",
         "pubdate": "Mon, 19 Feb 2024 11:00:00 +0100"
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Freek Vonk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Freek%20Vonk",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ajax - NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20-%20NEC",
-        "pubdate": "Sun, 18 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord  RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20RKC",
-        "pubdate": "Sun, 18 Feb 2024 17:00:00 +0100"
+        "title": "Anna Nooshin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Nooshin",
+        "pubdate": "Mon, 19 Feb 2024 12:00:00 +0100"
       }
     ],
     [
@@ -66,16 +52,16 @@
     ],
     [
       {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
+        "title": "Irene Schouten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
+        "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Irene Schouten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
-        "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
+        "title": "Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "UFC 298",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20298",
-        "pubdate": "Sun, 18 Feb 2024 01:00:00 +0100"
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Sun, 18 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -122,8 +108,15 @@
     ],
     [
       {
-        "title": "Schaatsen WK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schaatsen%20WK",
+        "title": "RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
+        "pubdate": "Sun, 18 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schaatsen wk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schaatsen%20wk",
         "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Haag",
         "pubdate": "Sat, 17 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bee Gees Forever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bee%20Gees%20Forever",
+        "pubdate": "Sat, 17 Feb 2024 19:00:00 +0100"
       }
     ]
   ]
