@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 14:46:09",
+  "lastUpdate": "19-02-2024 , 14:55:25",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Norec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norec",
+        "pubdate": "Mon, 19 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Calima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Calima",
         "pubdate": "Mon, 19 Feb 2024 02:00:00 +0100"
@@ -34,6 +41,13 @@
         "title": "Bafta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bafta",
         "pubdate": "Mon, 19 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gemini Advanced",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gemini%20Advanced",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Rasmus Højlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rasmus%20H%C3%B8jlund",
+        "pubdate": "Sun, 18 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern munchen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bayern%20munchen",
         "pubdate": "Sun, 18 Feb 2024 22:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Luton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luton",
         "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dorthe Skappel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dorthe%20Skappel",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anniken Huitfeldt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anniken%20Huitfeldt",
-        "pubdate": "Sun, 18 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jonna Sundling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonna%20Sundling",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
