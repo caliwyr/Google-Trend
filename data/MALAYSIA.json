@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 08:48:52",
+  "lastUpdate": "19-02-2024 , 08:58:06",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "RHB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RHB",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "TNB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#TNB",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "EPF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EPF",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Monza vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Monza%20vs%20Milan",
         "pubdate": "Mon, 19 Feb 2024 07:00:00 +0800"
@@ -87,9 +101,30 @@
     ],
     [
       {
+        "title": "HSBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#HSBC",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Great Eastern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Great%20Eastern",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Standard Chartered",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Standard%20Chartered",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Classroom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Classroom",
+        "pubdate": "Mon, 19 Feb 2024 11:00:00 +0800"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "OCBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#OCBC",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "AIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AIA",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City",
-        "pubdate": "Sun, 18 Feb 2024 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Rayo Vallecano vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rayo%20Vallecano%20vs%20Real%20Madrid",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Nassr",
-        "pubdate": "Sun, 18 Feb 2024 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield United vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sheffield%20United%20vs%20Brighton",
-        "pubdate": "Sun, 18 Feb 2024 22:00:00 +0800"
+        "title": "Zakaria Kasa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zakaria%20Kasa",
+        "pubdate": "Mon, 19 Feb 2024 01:00:00 +0800"
       }
     ]
   ]
