@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 21:48:49",
+  "lastUpdate": "19-02-2024 , 21:58:20",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
-        "pubdate": "Sun, 18 Feb 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Travis%20Scott",
         "pubdate": "Sun, 18 Feb 2024 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lazio",
         "pubdate": "Sun, 18 Feb 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC 300",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC%20300",
+        "pubdate": "Sun, 18 Feb 2024 18:00:00 +0200"
       }
     ]
   ]
