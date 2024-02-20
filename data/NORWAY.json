@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 09:44:27",
+  "lastUpdate": "20-02-2024 , 09:53:47",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Tatler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tatler",
         "pubdate": "Tue, 20 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andreas Brehme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andreas%20Brehme",
+        "pubdate": "Tue, 20 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Sondre Mulongo Nystrøm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sondre%20Mulongo%20Nystr%C3%B8m",
+        "pubdate": "Sun, 18 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Harald Eia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harald%20Eia",
         "pubdate": "Sun, 18 Feb 2024 18:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Gus Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gus%20Schumacher",
         "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jenny Hagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenny%20Hagen",
-        "pubdate": "Sun, 18 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rastorgujevs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rastorgujevs",
-        "pubdate": "Sun, 18 Feb 2024 18:00:00 +0100"
       }
     ]
   ]
