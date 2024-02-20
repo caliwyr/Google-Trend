@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-02-2024 , 05:40:26",
+  "lastUpdate": "20-02-2024 , 05:50:01",
   "data": [
+    [
+      {
+        "title": "The Bachelor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Bachelor",
+        "pubdate": "Tue, 20 Feb 2024 00:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "NBA All-Star Game",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Family Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Family%20Day",
-        "pubdate": "Mon, 19 Feb 2024 00:00:00 -0500"
+        "title": "No Frills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#No%20Frills",
+        "pubdate": "Mon, 19 Feb 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
+        "pubdate": "Mon, 19 Feb 2024 23:00:00 -0500"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LeBron%20James",
-        "pubdate": "Mon, 19 Feb 2024 00:00:00 -0500"
+        "title": "David McCallum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20McCallum",
+        "pubdate": "Mon, 19 Feb 2024 22:00:00 -0500"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "David McCallum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20McCallum",
-        "pubdate": "Mon, 19 Feb 2024 22:00:00 -0500"
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LeBron%20James",
+        "pubdate": "Mon, 19 Feb 2024 00:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tyrese Haliburton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyrese%20Haliburton",
         "pubdate": "Mon, 19 Feb 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mbappe",
-        "pubdate": "Mon, 19 Feb 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Louis Riel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Louis%20Riel",
-        "pubdate": "Mon, 19 Feb 2024 12:00:00 -0500"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 05:40:34",
+  "lastUpdate": "20-02-2024 , 05:50:10",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Sarah Sjöström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sarah%20Sj%C3%B6str%C3%B6m",
-        "pubdate": "Sun, 18 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marcus Wandt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Wandt",
         "pubdate": "Sun, 18 Feb 2024 16:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Gunilla Persson Kronofogden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gunilla%20Persson%20Kronofogden",
         "pubdate": "Sun, 18 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sun, 18 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
