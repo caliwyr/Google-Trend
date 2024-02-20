@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-02-2024 , 06:52:12",
+  "lastUpdate": "20-02-2024 , 07:07:19",
   "data": [
-    [
-      {
-        "title": "Harbour Bridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harbour%20Bridge",
-        "pubdate": "Tue, 20 Feb 2024 09:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Everton vs Crystal Palace",
@@ -59,15 +52,8 @@
     ],
     [
       {
-        "title": "Hinge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hinge",
-        "pubdate": "Tue, 20 Feb 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20weather",
+        "title": "Sydney, Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney,%20Weather",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
       }
     ],
@@ -94,9 +80,23 @@
     ],
     [
       {
+        "title": "Weather Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20Sydney",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Brad Banducci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brad%20Banducci",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Sydney Trains",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Trains",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dating apps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dating%20apps",
         "pubdate": "Mon, 19 Feb 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Tinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tinder",
+        "pubdate": "Mon, 19 Feb 2024 14:00:00 +1100"
       }
     ]
   ]
