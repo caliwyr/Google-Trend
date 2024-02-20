@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-02-2024 , 10:45:51",
+  "lastUpdate": "20-02-2024 , 10:55:13",
   "data": [
     [
       {
         "title": "Anna Slováčková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Anna%20Slov%C3%A1%C4%8Dkov%C3%A1",
         "pubdate": "Tue, 20 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andreas Brehme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andreas%20Brehme",
+        "pubdate": "Tue, 20 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Nečas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ne%C4%8Das",
-        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0100"
+        "title": "Rabbit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rabbit",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "PID",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PID",
         "pubdate": "Mon, 19 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rabbit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rabbit",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Kometa Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa%20Brno",
-        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0100"
+        "title": "Petr Nečas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Ne%C4%8Das",
+        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dufek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dufek",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0100"
+        "title": "Kometa Brno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kometa%20Brno",
+        "pubdate": "Mon, 19 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Vladimir Krutov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladimir%20Krutov",
         "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Krajská zdravotní",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krajsk%C3%A1%20zdravotn%C3%AD",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Martina Sáblíková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martina%20S%C3%A1bl%C3%ADkov%C3%A1",
         "pubdate": "Sun, 18 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
+        "pubdate": "Sun, 18 Feb 2024 19:00:00 +0100"
       }
     ]
   ]
