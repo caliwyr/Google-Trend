@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 08:48:48",
+  "lastUpdate": "20-02-2024 , 08:58:05",
   "data": [
     [
       {
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Yahoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Yahoo",
-        "pubdate": "Mon, 19 Feb 2024 13:00:00 +0800"
+        "title": "Air Asia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Air%20Asia",
+        "pubdate": "Mon, 19 Feb 2024 10:00:00 +0800"
       }
     ],
     [
       {
-        "title": "RHB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RHB",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+        "title": "Yahoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Yahoo",
+        "pubdate": "Mon, 19 Feb 2024 13:00:00 +0800"
       }
     ],
     [
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "RHB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RHB",
+        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bayern%20Munich",
         "pubdate": "Mon, 19 Feb 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "TNB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#TNB",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
       }
     ],
     [
@@ -101,22 +115,8 @@
     ],
     [
       {
-        "title": "Mutang Tagal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mutang%20Tagal",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Drive",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "HSBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#HSBC",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Oppenheimer",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0800"
+        "title": "HSBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#HSBC",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Mahathir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mahathir",
-        "pubdate": "Mon, 19 Feb 2024 19:00:00 +0800"
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Oppenheimer",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0800"
       }
     ]
   ]

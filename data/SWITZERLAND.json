@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 08:48:51",
+  "lastUpdate": "20-02-2024 , 08:58:09",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "EHC Basel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Basel",
+        "pubdate": "Mon, 19 Feb 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Abu Dhabi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abu%20Dhabi",
         "pubdate": "Mon, 19 Feb 2024 16:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Philipp Fankhauser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Philipp%20Fankhauser",
         "pubdate": "Mon, 19 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Monza – AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monza%20%E2%80%93%20AC%20Milan",
-        "pubdate": "Mon, 19 Feb 2024 01:00:00 +0100"
       }
     ]
   ]
