@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 02:46:56",
+  "lastUpdate": "20-02-2024 , 02:56:14",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
+        "pubdate": "Mon, 19 Feb 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
         "pubdate": "Mon, 19 Feb 2024 22:00:00 +0000"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
-        "pubdate": "Mon, 19 Feb 2024 20:00:00 +0000"
+        "title": "Jose Eduardo Moniz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20Eduardo%20Moniz",
+        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0000"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
+        "title": "Manuel Luís Goucha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Lu%C3%ADs%20Goucha",
+        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Vies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vies",
-        "pubdate": "Mon, 19 Feb 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
-        "pubdate": "Mon, 19 Feb 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Scratch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Scratch",
         "pubdate": "Mon, 19 Feb 2024 11:00:00 +0000"
       }
     ]
