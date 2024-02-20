@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 01:16:10",
+  "lastUpdate": "20-02-2024 , 01:56:10",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Santander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santander",
         "pubdate": "Mon, 19 Feb 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Janetjackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Janetjackson",
+        "pubdate": "Mon, 19 Feb 2024 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Minneapolis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Minneapolis",
         "pubdate": "Sun, 18 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
-        "pubdate": "Sun, 18 Feb 2024 15:00:00 +0200"
       }
     ]
   ]

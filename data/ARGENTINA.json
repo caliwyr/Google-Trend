@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 01:16:07",
+  "lastUpdate": "20-02-2024 , 01:56:07",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Estudiantes  Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Newell's",
+        "pubdate": "Mon, 19 Feb 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maps",
         "pubdate": "Mon, 19 Feb 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Deportivo Riestra  Atlético Tucumán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Atl%C3%A9tico%20Tucum%C3%A1n",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Deportivo Riestra  Atlético Tucumán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Atl%C3%A9tico%20Tucum%C3%A1n",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
+        "title": "Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano",
+        "pubdate": "Mon, 19 Feb 2024 21:00:00 -0300"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "Banco Galicia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20Galicia",
         "pubdate": "Mon, 19 Feb 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barracas Central  Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20%20Talleres",
+        "pubdate": "Mon, 19 Feb 2024 20:00:00 -0300"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
-        "pubdate": "Mon, 19 Feb 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Barracas Central  Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20%20Talleres",
-        "pubdate": "Mon, 19 Feb 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Mosquitos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mosquitos",
         "pubdate": "Mon, 19 Feb 2024 08:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Estudiantes  Newell's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Newell's",
-        "pubdate": "Mon, 19 Feb 2024 19:00:00 -0300"
       }
     ]
   ]
