@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2024 , 23:59:57",
+  "lastUpdate": "20-02-2024 , 01:16:07",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Google Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Google%20Maps",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
+        "title": "Canva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Canva",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Canva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Canva",
-        "pubdate": "Mon, 19 Feb 2024 15:00:00 -0300"
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Google%20Maps",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
       }
     ],
     [
@@ -75,6 +75,13 @@
       {
         "title": "ARBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ARBA",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Deportivo Riestra  Atlético Tucumán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Atl%C3%A9tico%20Tucum%C3%A1n",
         "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
       }
     ],
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "BBVA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BBVA",
-        "pubdate": "Mon, 19 Feb 2024 16:00:00 -0300"
+        "title": "Estudiantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
+        "pubdate": "Mon, 19 Feb 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barracas Central  Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20%20Talleres",
+        "pubdate": "Mon, 19 Feb 2024 20:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ABC",
-        "pubdate": "Mon, 19 Feb 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Deportivo Riestra  Atlético Tucumán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Atl%C3%A9tico%20Tucum%C3%A1n",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
-        "pubdate": "Mon, 19 Feb 2024 18:00:00 -0300"
+        "title": "Estudiantes  Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Newell's",
+        "pubdate": "Mon, 19 Feb 2024 19:00:00 -0300"
       }
     ]
   ]
