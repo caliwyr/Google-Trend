@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "20-02-2024 , 18:41:44",
+  "lastUpdate": "20-02-2024 , 18:51:20",
   "data": [
     [
       {
         "title": "OAU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#OAU",
         "pubdate": "Tue, 20 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Asylum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Asylum",
-        "pubdate": "Tue, 20 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Asylum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Asylum",
+        "pubdate": "Tue, 20 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Seyi Tinubu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Seyi%20Tinubu",
         "pubdate": "Tue, 20 Feb 2024 12:00:00 +0100"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "PSV vs Dortmund Prediction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSV%20vs%20Dortmund%20Prediction",
+        "title": "PSV vs Dortmund prediction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSV%20vs%20Dortmund%20prediction",
         "pubdate": "Tue, 20 Feb 2024 15:00:00 +0100"
       }
     ],
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Kobbie Mainoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kobbie%20Mainoo",
+        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gardening leave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Gardening%20leave",
         "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Monza vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monza%20vs%20Milan",
         "pubdate": "Sun, 18 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
-        "pubdate": "Sun, 18 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
