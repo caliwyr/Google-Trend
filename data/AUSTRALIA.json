@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2024 , 16:42:26",
+  "lastUpdate": "20-02-2024 , 16:51:43",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20Styles",
-        "pubdate": "Tue, 20 Feb 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Sydney weather",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20weather",
         "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
         "pubdate": "Mon, 19 Feb 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sydney Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
+        "pubdate": "Mon, 19 Feb 2024 15:00:00 +1100"
       }
     ]
   ]
