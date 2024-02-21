@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 01:56:46",
+  "lastUpdate": "21-02-2024 , 02:19:08",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ipswich%20Town",
+        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rihanna",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Gardening leave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Gardening%20leave",
         "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kobbie Mainoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kobbie%20Mainoo",
-        "pubdate": "Mon, 19 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
