@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-02-2024 , 21:39:23",
+  "lastUpdate": "21-02-2024 , 21:48:44",
   "data": [
-    [
-      {
-        "title": "Nvidia stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
-        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Elden Ring",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "ESA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ESA",
         "pubdate": "Wed, 21 Feb 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool – Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Luton%20Town",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Liverpool – Luton Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Luton%20Town",
-        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0200"
+        "title": "Lynx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lynx",
+        "pubdate": "Wed, 21 Feb 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lynx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lynx",
-        "pubdate": "Wed, 21 Feb 2024 01:00:00 +0200"
+        "title": "Vincent van Gogh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vincent%20van%20Gogh",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Wed, 21 Feb 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vincent van Gogh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vincent%20van%20Gogh",
-        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,20 @@
     ],
     [
       {
+        "title": "Upgraded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Upgraded",
+        "pubdate": "Wed, 21 Feb 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Napoli%20%E2%80%93%20Barcelona",
+        "pubdate": "Wed, 21 Feb 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Borderlands movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Borderlands%20movie",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0200"
@@ -124,20 +138,6 @@
       {
         "title": "Manchester City – Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Brentford",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julian Assange",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Julian%20Assange",
-        "pubdate": "Tue, 20 Feb 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malcolm X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malcolm%20X",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0200"
       }
     ]

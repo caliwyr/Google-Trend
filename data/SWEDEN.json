@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-02-2024 , 21:39:29",
+  "lastUpdate": "21-02-2024 , 21:48:52",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Erik Bergkvist",
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anders Pihlblad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Pihlblad",
+        "pubdate": "Wed, 21 Feb 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Göteborg Horse Show",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6teborg%20Horse%20Show",
         "pubdate": "Wed, 21 Feb 2024 19:00:00 +0100"
@@ -34,13 +55,6 @@
         "title": "Ewen MacIntosh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ewen%20MacIntosh",
         "pubdate": "Wed, 21 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ace of Base",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ace%20of%20Base",
-        "pubdate": "Wed, 21 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Ellen Bergström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ellen%20Bergstr%C3%B6m",
-        "pubdate": "Tue, 20 Feb 2024 12:00:00 +0100"
+        "title": "Ace of Base",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ace%20of%20Base",
+        "pubdate": "Wed, 21 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Helena Bergström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Helena%20Bergstr%C3%B6m",
         "pubdate": "Tue, 20 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inter",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kal P Dal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kal%20P%20Dal",
-        "pubdate": "Tue, 20 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
