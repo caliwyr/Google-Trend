@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 23:35:01",
+  "lastUpdate": "21-02-2024 , 23:44:05",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cape Town Spurs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20Spurs",
         "pubdate": "Wed, 21 Feb 2024 20:00:00 +0200"
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Voter Registration",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Voter%20Registration",
+        "pubdate": "Wed, 21 Feb 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ruby Franke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ruby%20Franke",
         "pubdate": "Wed, 21 Feb 2024 12:00:00 +0200"
@@ -101,8 +115,8 @@
     ],
     [
       {
-        "title": "BRADFORD CITY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BRADFORD%20CITY",
+        "title": "Bradford City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bradford%20City",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Tue, 20 Feb 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV%20vs%20Dortmund",
-        "pubdate": "Tue, 20 Feb 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Register to vote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Register%20to%20vote",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0200"
       }
     ]
   ]
