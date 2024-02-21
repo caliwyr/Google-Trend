@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 05:45:18",
+  "lastUpdate": "21-02-2024 , 05:54:31",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Alita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alita",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Montpellier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Montpellier",
         "pubdate": "Tue, 20 Feb 2024 17:00:00 +0100"
@@ -61,6 +54,13 @@
       {
         "title": "Pantheon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pantheon",
+        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alita",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Julien Frison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julien%20Frison",
-        "pubdate": "Tue, 20 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rihanna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rihanna",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Forvia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Forvia",
         "pubdate": "Tue, 20 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bagnols-sur ceze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bagnols-sur%20ceze",
+        "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
