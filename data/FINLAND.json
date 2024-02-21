@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 17:36:58",
+  "lastUpdate": "21-02-2024 , 17:46:08",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Lynx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lynx",
-        "pubdate": "Wed, 21 Feb 2024 01:00:00 +0200"
+        "title": "ERS-2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ERS-2",
+        "pubdate": "Wed, 21 Feb 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ERS-2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ERS-2",
-        "pubdate": "Wed, 21 Feb 2024 17:00:00 +0200"
+        "title": "Lynx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lynx",
+        "pubdate": "Wed, 21 Feb 2024 01:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Wed, 21 Feb 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elden Ring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elden%20Ring",
+        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Danny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Danny",
         "pubdate": "Mon, 19 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump shoes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump%20shoes",
-        "pubdate": "Mon, 19 Feb 2024 01:00:00 +0200"
       }
     ]
   ]
