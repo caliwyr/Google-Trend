@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 15:41:24",
+  "lastUpdate": "21-02-2024 , 15:50:41",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F1",
+        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holger%20Rune",
         "pubdate": "Wed, 21 Feb 2024 14:00:00 +0100"
       }
     ],
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elon%20Musk",
-        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0100"
+        "title": "BankID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BankID",
+        "pubdate": "Wed, 21 Feb 2024 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holger%20Rune",
-        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elon%20Musk",
+        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0100"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Eva Kristin Hansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eva%20Kristin%20Hansen",
-        "pubdate": "Tue, 20 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Inter",
         "pubdate": "Tue, 20 Feb 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Frank Løke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frank%20L%C3%B8ke",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ensurge Micropower",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ensurge%20Micropower",
         "pubdate": "Tue, 20 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MMA",
+        "pubdate": "Tue, 20 Feb 2024 23:00:00 +0100"
       }
     ]
   ]
