@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 22:37:16",
+  "lastUpdate": "21-02-2024 , 22:46:32",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
+        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Elden Ring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elden%20Ring",
         "pubdate": "Wed, 21 Feb 2024 16:00:00 +0000"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
-        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0000"
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nvidia",
+        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0000"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Sheridan Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sheridan%20Smith",
+        "pubdate": "Wed, 21 Feb 2024 20:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Xabi Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Xabi%20Alonso",
         "pubdate": "Wed, 21 Feb 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "LFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#LFC",
+        "pubdate": "Wed, 21 Feb 2024 20:00:00 +0000"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Upgraded",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Upgraded",
-        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Lindsay Hoyle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lindsay%20Hoyle",
         "pubdate": "Wed, 21 Feb 2024 20:00:00 +0000"
@@ -108,30 +122,9 @@
     ],
     [
       {
-        "title": "New Zealand vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20Zealand%20vs%20Australia",
-        "pubdate": "Wed, 21 Feb 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nvidia",
-        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Alan Davies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alan%20Davies",
-        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Prince William",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Prince%20William",
-        "pubdate": "Wed, 21 Feb 2024 08:00:00 +0000"
+        "title": "Upgraded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Upgraded",
+        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "BRADFORD CITY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BRADFORD%20CITY",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "New Zealand vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20Zealand%20vs%20Australia",
+        "pubdate": "Wed, 21 Feb 2024 11:00:00 +0000"
       }
     ]
   ]
