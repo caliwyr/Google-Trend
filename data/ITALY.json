@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-02-2024 , 08:43:26",
+  "lastUpdate": "21-02-2024 , 08:52:50",
   "data": [
+    [
+      {
+        "title": "Mediaset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mediaset",
+        "pubdate": "Wed, 21 Feb 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlos%20Alcaraz",
         "pubdate": "Wed, 21 Feb 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mediaset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mediaset",
-        "pubdate": "Wed, 21 Feb 2024 02:00:00 +0100"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Irene Cecchini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Irene%20Cecchini",
+        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brehme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brehme",
         "pubdate": "Tue, 20 Feb 2024 10:00:00 +0100"
@@ -48,6 +55,13 @@
         "title": "Aline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aline",
         "pubdate": "Tue, 20 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thuram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thuram",
+        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Melissa Satta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Melissa%20Satta",
+        "pubdate": "Tue, 20 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chiara Ferragni e Fedez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiara%20Ferragni%20e%20Fedez",
         "pubdate": "Tue, 20 Feb 2024 12:00:00 +0100"
@@ -73,23 +94,9 @@
     ],
     [
       {
-        "title": "Thuram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thuram",
-        "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV Eindhoven  Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PSV%20Eindhoven%20%20Borussia%20Dortmund",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Berrettini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berrettini",
-        "pubdate": "Tue, 20 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Fedez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fedez",
-        "pubdate": "Tue, 20 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meteo Palermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Palermo",
-        "pubdate": "Tue, 20 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paolini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paolini",
-        "pubdate": "Tue, 20 Feb 2024 16:00:00 +0100"
+        "title": "Anna Mazzamauro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anna%20Mazzamauro",
+        "pubdate": "Tue, 20 Feb 2024 23:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Marco Carta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Carta",
-        "pubdate": "Tue, 20 Feb 2024 16:00:00 +0100"
+        "title": "Fedez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fedez",
+        "pubdate": "Tue, 20 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Meteo Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Palermo",
+        "pubdate": "Tue, 20 Feb 2024 09:00:00 +0100"
       }
     ]
   ]
