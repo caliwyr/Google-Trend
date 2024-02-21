@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-02-2024 , 18:38:31",
+  "lastUpdate": "21-02-2024 , 18:47:49",
   "data": [
+    [
+      {
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Wed, 21 Feb 2024 18:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marion Rousse",
@@ -13,13 +20,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
         "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-        "pubdate": "Wed, 21 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Lochem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lochem",
+        "pubdate": "Wed, 21 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Florent Pagny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florent%20Pagny",
         "pubdate": "Wed, 21 Feb 2024 04:00:00 +0100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Lochem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lochem",
-        "pubdate": "Wed, 21 Feb 2024 16:00:00 +0100"
+        "title": "Last Epoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Last%20Epoch",
+        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Axel Witsel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Axel%20Witsel",
-        "pubdate": "Wed, 21 Feb 2024 07:00:00 +0100"
+        "title": "Kimchi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kimchi",
+        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Julian Assange",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Assange",
-        "pubdate": "Tue, 20 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Manouchian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manouchian",
         "pubdate": "Tue, 20 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eurovision%202024",
-        "pubdate": "Tue, 20 Feb 2024 13:00:00 +0100"
       }
     ]
   ]
