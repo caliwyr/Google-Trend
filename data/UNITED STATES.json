@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2024 , 11:37:02",
+  "lastUpdate": "22-02-2024 , 11:46:19",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Wed, 21 Feb 2024 12:00:00 -0800"
+        "title": "AT&T outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AT%26T%20outage",
+        "pubdate": "Thu, 22 Feb 2024 03:00:00 -0800"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
         "pubdate": "Wed, 21 Feb 2024 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "pubdate": "Wed, 21 Feb 2024 12:00:00 -0800"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Duke basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20basketball",
+        "title": "Duke Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20Basketball",
         "pubdate": "Wed, 21 Feb 2024 18:00:00 -0800"
       }
     ],
@@ -125,13 +132,6 @@
         "title": "Google Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20Gemini",
         "pubdate": "Wed, 21 Feb 2024 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Super",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Super",
-        "pubdate": "Wed, 21 Feb 2024 10:00:00 -0800"
       }
     ],
     [
