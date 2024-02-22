@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "22-02-2024 , 06:39:43",
+  "lastUpdate": "22-02-2024 , 06:48:53",
   "data": [
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
         "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Ellen Bergström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ellen%20Bergstr%C3%B6m",
-        "pubdate": "Tue, 20 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stridsbåt 90",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stridsb%C3%A5t%2090",
         "pubdate": "Tue, 20 Feb 2024 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Runar Sögaard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Runar%20S%C3%B6gaard",
         "pubdate": "Tue, 20 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CHL",
+        "pubdate": "Tue, 20 Feb 2024 19:00:00 +0100"
       }
     ]
   ]

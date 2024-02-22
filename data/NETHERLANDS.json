@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-02-2024 , 06:39:39",
+  "lastUpdate": "22-02-2024 , 06:48:50",
   "data": [
+    [
+      {
+        "title": "Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
+        "pubdate": "Thu, 22 Feb 2024 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Lochem",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "title": "Napoli-Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli-Barcelona",
         "pubdate": "Wed, 21 Feb 2024 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Irene Schouten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Irene%20Schouten",
-        "pubdate": "Sun, 18 Feb 2024 10:00:00 +0100"
       }
     ]
   ]
