@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "22-02-2024 , 20:43:00",
+  "lastUpdate": "22-02-2024 , 20:52:16",
   "data": [
     [
       {
         "title": "Wuppertal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wuppertal",
         "pubdate": "Thu, 22 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Freiburg gegen Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20gegen%20Lens",
+        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fritz Puppel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fritz%20Puppel",
+        "pubdate": "Thu, 22 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -24,16 +38,9 @@
     ],
     [
       {
-        "title": "Avatar Netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Avatar%20Netflix",
-        "pubdate": "Thu, 22 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SC Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
-        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0100"
+        "title": "Verdi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verdi",
+        "pubdate": "Thu, 22 Feb 2024 17:00:00 +0100"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Verdi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verdi",
-        "pubdate": "Thu, 22 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#City",
-        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tuchel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
         "pubdate": "Wed, 21 Feb 2024 14:00:00 +0100"
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "NVIDIA Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NVIDIA%20Aktie",
+        "title": "Nvidia-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia-Aktie",
         "pubdate": "Wed, 21 Feb 2024 09:00:00 +0100"
       }
     ],
@@ -83,13 +76,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elden Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elden%20Ring",
-        "pubdate": "Wed, 21 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Elden Ring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elden%20Ring",
+        "pubdate": "Wed, 21 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Wachstumschancengesetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wachstumschancengesetz",
         "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Borderlands-Film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borderlands-Film",
-        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0100"
+        "title": "Radio essen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Radio%20essen",
+        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Radio Essen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Radio%20Essen",
-        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
+        "title": "Andreas Brehme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Brehme",
+        "pubdate": "Tue, 20 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julian Assange",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Assange",
+        "pubdate": "Tue, 20 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
