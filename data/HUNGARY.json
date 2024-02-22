@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2024 , 02:34:22",
+  "lastUpdate": "22-02-2024 , 02:43:46",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
         "pubdate": "Wed, 21 Feb 2024 11:00:00 +0100"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Last Epoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Last%20Epoch",
         "pubdate": "Wed, 21 Feb 2024 20:00:00 +0100"
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Szeged kézilabda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szeged%20k%C3%A9zilabda",
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Pick Szeged",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pick%20Szeged",
+        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Formula-1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula-1",
         "pubdate": "Wed, 21 Feb 2024 17:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "TheVR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#TheVR",
         "pubdate": "Wed, 21 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Somos András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Somos%20Andr%C3%A1s",
-        "pubdate": "Tue, 20 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
