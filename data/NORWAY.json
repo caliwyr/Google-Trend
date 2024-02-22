@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-02-2024 , 05:38:06",
+  "lastUpdate": "22-02-2024 , 05:47:33",
   "data": [
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Kong Harald",
@@ -20,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Napoli",
+        "title": "NAPOLI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NAPOLI",
         "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
       }
     ],
