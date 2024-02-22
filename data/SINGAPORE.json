@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2024 , 13:44:43",
+  "lastUpdate": "22-02-2024 , 13:53:55",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Napoli vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Napoli%20vs%20Barcelona",
+        "pubdate": "Thu, 22 Feb 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
         "pubdate": "Thu, 22 Feb 2024 11:00:00 +0800"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Avatar: The Last Airbender",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avatar:%20The%20Last%20Airbender",
+        "title": "Avatar: The Last Airbender Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avatar:%20The%20Last%20Airbender%20Netflix",
         "pubdate": "Thu, 22 Feb 2024 19:00:00 +0800"
       }
     ],
@@ -52,22 +59,8 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Thu, 22 Feb 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dani Alves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dani%20Alves",
-        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Star Awards 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Awards%202024",
         "pubdate": "Thu, 22 Feb 2024 19:00:00 +0800"
       }
     ],
@@ -76,6 +69,13 @@
         "title": "Zika virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zika%20virus",
         "pubdate": "Thu, 22 Feb 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Star Awards 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Awards%202024",
+        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0800"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "BTO Feb 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BTO%20Feb%202024",
         "pubdate": "Wed, 21 Feb 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "HDB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB",
-        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ruby Franke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ruby%20Franke",
         "pubdate": "Wed, 21 Feb 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Upgraded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Upgraded",
+        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0800"
       }
     ]
   ]
