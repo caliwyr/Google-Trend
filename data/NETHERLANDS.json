@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2024 , 07:43:04",
+  "lastUpdate": "22-02-2024 , 07:52:35",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Napoli-Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli-Barcelona",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
         "pubdate": "Wed, 21 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
+        "pubdate": "Wed, 21 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PSV Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Dortmund",
         "pubdate": "Mon, 19 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Mon, 19 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
