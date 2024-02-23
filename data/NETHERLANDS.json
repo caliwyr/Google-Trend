@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2024 , 05:36:12",
+  "lastUpdate": "23-02-2024 , 05:45:21",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Bodo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bodo",
-        "pubdate": "Thu, 22 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "KNMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
         "pubdate": "Thu, 22 Feb 2024 11:00:00 +0100"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Ramaj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ramaj",
+        "pubdate": "Thu, 22 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Winsum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Winsum",
         "pubdate": "Thu, 22 Feb 2024 12:00:00 +0100"
@@ -83,6 +83,13 @@
         "title": "Gijzeling Apple Store",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gijzeling%20Apple%20Store",
         "pubdate": "Thu, 22 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "pubdate": "Thu, 22 Feb 2024 23:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Royston Drenthe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Royston%20Drenthe",
         "pubdate": "Wed, 21 Feb 2024 21:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoli",
-        "pubdate": "Wed, 21 Feb 2024 20:00:00 +0100"
+        "title": "Pastoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pastoe",
+        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pastoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pastoe",
-        "pubdate": "Wed, 21 Feb 2024 22:00:00 +0100"
+        "title": "Omroep Gelderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Gelderland",
+        "pubdate": "Wed, 21 Feb 2024 14:00:00 +0100"
       }
     ]
   ]
