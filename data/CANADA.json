@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-02-2024 , 16:37:52",
+  "lastUpdate": "23-02-2024 , 16:47:20",
   "data": [
+    [
+      {
+        "title": "Raptors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "pubdate": "Fri, 23 Feb 2024 01:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Lakers",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "LPGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LPGA",
-        "pubdate": "Fri, 23 Feb 2024 08:00:00 -0500"
+        "title": "Casimir Funk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Casimir%20Funk",
+        "pubdate": "Fri, 23 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Scottie Barnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scottie%20Barnes",
+        "pubdate": "Fri, 23 Feb 2024 11:00:00 -0500"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Toronto Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
-        "pubdate": "Thu, 22 Feb 2024 08:00:00 -0500"
+        "title": "Aphasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aphasia",
+        "pubdate": "Thu, 22 Feb 2024 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Aphasia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aphasia",
-        "pubdate": "Thu, 22 Feb 2024 12:00:00 -0500"
+        "title": "Toronto Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
+        "pubdate": "Thu, 22 Feb 2024 08:00:00 -0500"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
-        "pubdate": "Thu, 22 Feb 2024 22:00:00 -0500"
+        "title": "Moon landing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moon%20landing",
+        "pubdate": "Thu, 22 Feb 2024 18:00:00 -0500"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Edmonton Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Oilers",
         "pubdate": "Thu, 22 Feb 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Moon landing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moon%20landing",
-        "pubdate": "Thu, 22 Feb 2024 19:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Emil Bemstrom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emil%20Bemstrom",
         "pubdate": "Thu, 22 Feb 2024 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Full moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Full%20moon",
-        "pubdate": "Thu, 22 Feb 2024 07:00:00 -0500"
       }
     ]
   ]
