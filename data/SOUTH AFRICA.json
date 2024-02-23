@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2024 , 04:36:17",
+  "lastUpdate": "23-02-2024 , 04:45:30",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Barcelona FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
+        "pubdate": "Thu, 22 Feb 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AmaZulu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AmaZulu",
         "pubdate": "Thu, 22 Feb 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Judge Hlophe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Judge%20Hlophe",
         "pubdate": "Wed, 21 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "New Zealand vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#New%20Zealand%20vs%20Australia",
-        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0200"
       }
     ]
   ]
