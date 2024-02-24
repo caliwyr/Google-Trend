@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 07:49:18",
+  "lastUpdate": "24-02-2024 , 07:58:31",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Preciado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Preciado",
+        "pubdate": "Fri, 23 Feb 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Tolga Sarıtaş",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tolga%20Sar%C4%B1ta%C5%9F",
         "pubdate": "Fri, 23 Feb 2024 00:00:00 +0300"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Karabağ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Karaba%C4%9F",
-        "pubdate": "Fri, 23 Feb 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Dilan Polat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dilan%20Polat",
         "pubdate": "Fri, 23 Feb 2024 17:00:00 +0300"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Oyak Yatırım",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Oyak%20Yat%C4%B1r%C4%B1m",
-        "pubdate": "Fri, 23 Feb 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Urfi Çetinkaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Urfi%20%C3%87etinkaya",
         "pubdate": "Fri, 23 Feb 2024 18:00:00 +0300"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aston%20Villa",
-        "pubdate": "Fri, 23 Feb 2024 18:00:00 +0300"
+        "title": "Oyak Yatırım",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Oyak%20Yat%C4%B1r%C4%B1m",
+        "pubdate": "Fri, 23 Feb 2024 11:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Veysi Kurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Veysi%20Kurt",
-        "pubdate": "Fri, 23 Feb 2024 10:00:00 +0300"
+        "title": "Karabağ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Karaba%C4%9F",
+        "pubdate": "Fri, 23 Feb 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aston%20Villa",
+        "pubdate": "Fri, 23 Feb 2024 18:00:00 +0300"
       }
     ]
   ]
