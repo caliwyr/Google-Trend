@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 08:56:18",
+  "lastUpdate": "24-02-2024 , 09:11:31",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Sorteggio Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sorteggio%20Europa%20League",
+        "title": "Cagliari Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cagliari%20Napoli",
+        "pubdate": "Sat, 24 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roma calcio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma%20calcio",
         "pubdate": "Fri, 23 Feb 2024 01:00:00 +0100"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma",
-        "pubdate": "Fri, 23 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Patty Pravo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Patty%20Pravo",
         "pubdate": "Fri, 23 Feb 2024 23:00:00 +0100"
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Zeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zeman",
-        "pubdate": "Fri, 23 Feb 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pisa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa",
         "pubdate": "Fri, 23 Feb 2024 14:00:00 +0100"
@@ -94,9 +87,30 @@
     ],
     [
       {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma",
+        "pubdate": "Fri, 23 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zeman",
+        "pubdate": "Fri, 23 Feb 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Anggun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anggun",
         "pubdate": "Fri, 23 Feb 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Partita Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partita%20Roma",
+        "pubdate": "Fri, 23 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Terremoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto",
+        "title": "Terremoto Bari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20Bari",
         "pubdate": "Fri, 23 Feb 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Big Mama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Big%20Mama",
-        "pubdate": "Fri, 23 Feb 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "La zona d'interesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20zona%20d'interesse",
-        "pubdate": "Fri, 23 Feb 2024 00:00:00 +0100"
       }
     ]
   ]
