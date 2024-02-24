@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-02-2024 , 09:39:26",
+  "lastUpdate": "24-02-2024 , 09:48:55",
   "data": [
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celine%20Dion",
-        "pubdate": "Sat, 24 Feb 2024 05:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bologna",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Vancouver Sevens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vancouver%20Sevens",
+        "title": "Vancouver sevens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vancouver%20sevens",
         "pubdate": "Sat, 24 Feb 2024 10:00:00 +0200"
       }
     ],
@@ -27,6 +20,13 @@
         "title": "Porsha Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Porsha%20Williams",
         "pubdate": "Sat, 24 Feb 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Leverkusen",
+        "pubdate": "Sat, 24 Feb 2024 11:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Australia vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20New%20Zealand",
-        "pubdate": "Fri, 23 Feb 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aphasia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aphasia",
         "pubdate": "Fri, 23 Feb 2024 03:00:00 +0200"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Super Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Super%20Rugby",
-        "pubdate": "Fri, 23 Feb 2024 11:00:00 +0200"
+        "title": "CAF Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Champions%20League",
+        "pubdate": "Fri, 23 Feb 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "CAF Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Champions%20League",
-        "pubdate": "Fri, 23 Feb 2024 20:00:00 +0200"
+        "title": "Super Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Super%20Rugby",
+        "pubdate": "Fri, 23 Feb 2024 11:00:00 +0200"
       }
     ],
     [
@@ -111,13 +104,6 @@
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
         "pubdate": "Fri, 23 Feb 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TS Galaxy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#TS%20Galaxy",
-        "pubdate": "Fri, 23 Feb 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Riky Rick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Riky%20Rick",
         "pubdate": "Fri, 23 Feb 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mea Culpa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mea%20Culpa",
+        "pubdate": "Fri, 23 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coventry City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Coventry%20City",
+        "pubdate": "Fri, 23 Feb 2024 23:00:00 +0200"
       }
     ]
   ]
