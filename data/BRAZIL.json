@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 02:44:23",
+  "lastUpdate": "24-02-2024 , 02:53:45",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bundesliga",
+        "pubdate": "Fri, 23 Feb 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
         "pubdate": "Fri, 23 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Joao Fonseca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joao%20Fonseca",
+        "pubdate": "Fri, 23 Feb 2024 10:00:00 -0500"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
         "pubdate": "Fri, 23 Feb 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Joao Fonseca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joao%20Fonseca",
-        "pubdate": "Fri, 23 Feb 2024 17:00:00 -0500"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "FLUMINENSE FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FLUMINENSE%20FC",
+        "title": "Fluminense FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20FC",
         "pubdate": "Fri, 23 Feb 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Romero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Romero",
-        "pubdate": "Fri, 23 Feb 2024 08:00:00 -0500"
       }
     ]
   ]
