@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 06:55:28",
+  "lastUpdate": "24-02-2024 , 07:12:03",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
+        "pubdate": "Fri, 23 Feb 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Chayanne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chayanne",
         "pubdate": "Fri, 23 Feb 2024 18:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Lady Gaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lady%20Gaga",
         "pubdate": "Fri, 23 Feb 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Secuestro exmilitar venezolano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Secuestro%20exmilitar%20venezolano",
-        "pubdate": "Fri, 23 Feb 2024 11:00:00 -0300"
       }
     ]
   ]
