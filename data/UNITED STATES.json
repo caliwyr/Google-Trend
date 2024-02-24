@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 12:35:39",
+  "lastUpdate": "24-02-2024 , 12:49:44",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Everything Everywhere All at Once",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Everything%20Everywhere%20All%20at%20Once",
-        "pubdate": "Fri, 23 Feb 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Xavien Howard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Xavien%20Howard",
         "pubdate": "Fri, 23 Feb 2024 20:00:00 -0800"
@@ -139,6 +132,13 @@
         "title": "Mavericks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mavericks",
         "pubdate": "Fri, 23 Feb 2024 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Cubs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cubs",
+        "pubdate": "Fri, 23 Feb 2024 18:00:00 -0800"
       }
     ]
   ]
