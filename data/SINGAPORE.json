@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2024 , 03:44:50",
+  "lastUpdate": "24-02-2024 , 03:54:07",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Toto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Toto",
-        "pubdate": "Fri, 23 Feb 2024 22:00:00 +0800"
+        "title": "Elimination Chamber 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elimination%20Chamber%202024",
+        "pubdate": "Sat, 24 Feb 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jesse Baird",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jesse%20Baird",
+        "pubdate": "Sat, 24 Feb 2024 11:00:00 +0800"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
-        "pubdate": "Thu, 22 Feb 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "YuuZoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#YuuZoo",
         "pubdate": "Thu, 22 Feb 2024 01:00:00 +0800"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Nvidia share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20share%20price",
-        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0800"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
+        "pubdate": "Thu, 22 Feb 2024 11:00:00 +0800"
       }
     ],
     [
       {
-        "title": "HDB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB",
-        "pubdate": "Wed, 21 Feb 2024 19:00:00 +0800"
+        "title": "Nvidia share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20share%20price",
+        "pubdate": "Wed, 21 Feb 2024 09:00:00 +0800"
       }
     ]
   ]
