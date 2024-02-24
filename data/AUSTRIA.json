@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "24-02-2024 , 13:38:00",
+  "lastUpdate": "24-02-2024 , 13:47:31",
   "data": [
     [
       {
         "title": "Val di Fassa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Val%20di%20Fassa",
         "pubdate": "Sat, 24 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pink Floyd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pink%20Floyd",
-        "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Pink Floyd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pink%20Floyd",
+        "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jan Böhmermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jan%20B%C3%B6hmermann",
         "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Reiteralm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reiteralm",
+        "pubdate": "Sat, 24 Feb 2024 13:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Lawine Tirol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lawine%20Tirol",
-        "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
+        "title": "Brigittenau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brigittenau",
+        "pubdate": "Sat, 24 Feb 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brigittenau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brigittenau",
-        "pubdate": "Sat, 24 Feb 2024 12:00:00 +0100"
+        "title": "Lawine Tirol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lawine%20Tirol",
+        "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Galtür",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galt%C3%BCr",
-        "pubdate": "Fri, 23 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gabriel Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gabriel%20Kelly",
         "pubdate": "Fri, 23 Feb 2024 22:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Eva Padberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eva%20Padberg",
-        "pubdate": "Fri, 23 Feb 2024 22:00:00 +0100"
+        "title": "Galtür",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galt%C3%BCr",
+        "pubdate": "Fri, 23 Feb 2024 08:00:00 +0100"
       }
     ]
   ]
