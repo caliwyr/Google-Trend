@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2024 , 05:44:36",
+  "lastUpdate": "25-02-2024 , 05:54:01",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta",
+        "pubdate": "Sat, 24 Feb 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leverkusen",
         "pubdate": "Sat, 24 Feb 2024 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valencia",
         "pubdate": "Fri, 23 Feb 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jeff Buckley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jeff%20Buckley",
-        "pubdate": "Fri, 23 Feb 2024 21:00:00 +0200"
       }
     ]
   ]
