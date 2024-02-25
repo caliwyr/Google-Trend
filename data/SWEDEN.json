@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2024 , 04:47:05",
+  "lastUpdate": "25-02-2024 , 04:56:17",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "Arsenal Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal%20Newcastle",
-        "pubdate": "Sun, 25 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
         "pubdate": "Sun, 25 Feb 2024 00:00:00 +0100"
       }
     ],
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Gislaved",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gislaved",
-        "pubdate": "Sat, 24 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sebastian Hartmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sebastian%20Hartmann",
         "pubdate": "Sat, 24 Feb 2024 21:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Sepsis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sepsis",
+        "pubdate": "Sat, 24 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jas 39 Gripen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jas%2039%20Gripen",
         "pubdate": "Sat, 24 Feb 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
+        "pubdate": "Sat, 24 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
