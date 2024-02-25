@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "25-02-2024 , 19:48:45",
+  "lastUpdate": "25-02-2024 , 19:57:58",
   "data": [
-    [
-      {
-        "title": "Terrugem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terrugem",
-        "pubdate": "Sun, 25 Feb 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Benfica-Portimonense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica-Portimonense",
-        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Gil Vicente,  Porto",
@@ -24,8 +10,15 @@
     ],
     [
       {
-        "title": "Al-Shabab  Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Shabab%20%20Al-Nassr",
+        "title": "Terrugem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terrugem",
+        "pubdate": "Sun, 25 Feb 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Al-Shabab)  Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Shabab)%20%20Al-Nassr",
         "pubdate": "Sun, 25 Feb 2024 17:00:00 +0000"
       }
     ],
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Juventus  Frosinone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Frosinone",
+        "pubdate": "Sun, 25 Feb 2024 13:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oppenheimer",
         "pubdate": "Sun, 25 Feb 2024 16:00:00 +0000"
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Rio Ave Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave%20Sporting",
+        "pubdate": "Sun, 25 Feb 2024 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Hoquei em patins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins",
         "pubdate": "Sun, 25 Feb 2024 08:00:00 +0000"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Rio Ave Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave%20Sporting",
-        "pubdate": "Sun, 25 Feb 2024 10:00:00 +0000"
+        "title": "PSG  Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Rennes",
+        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0000"
       }
     ],
     [
@@ -87,23 +94,16 @@
     ],
     [
       {
-        "title": "Juventus  Frosinone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Frosinone",
-        "pubdate": "Sun, 25 Feb 2024 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Rennes",
-        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "MC Gui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MC%20Gui",
         "pubdate": "Sun, 25 Feb 2024 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Rosinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosinha",
+        "pubdate": "Sun, 25 Feb 2024 14:00:00 +0000"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Rosinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosinha",
-        "pubdate": "Sun, 25 Feb 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Vila do Conde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vila%20do%20Conde",
         "pubdate": "Sun, 25 Feb 2024 15:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "SAG Awards 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SAG%20Awards%202024",
         "pubdate": "Sun, 25 Feb 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olivia%20Rodrigo",
+        "pubdate": "Sun, 25 Feb 2024 00:00:00 +0000"
       }
     ]
   ]
