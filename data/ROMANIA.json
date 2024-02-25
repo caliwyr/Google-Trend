@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "25-02-2024 , 20:43:19",
+  "lastUpdate": "25-02-2024 , 20:52:38",
   "data": [
     [
       {
-        "title": "FCSB  Botoşani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20%20Boto%C5%9Fani",
+        "title": "FCSB -  Botoşani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20%20Boto%C5%9Fani",
         "pubdate": "Sun, 25 Feb 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
-        "pubdate": "Sun, 25 Feb 2024 10:00:00 +0200"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
         "pubdate": "Sun, 25 Feb 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "pubdate": "Sun, 25 Feb 2024 10:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Juventus - Frosinone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus%20-%20Frosinone",
+        "title": "JUVENTUS - FROSINONE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#JUVENTUS%20-%20FROSINONE",
         "pubdate": "Sun, 25 Feb 2024 14:00:00 +0200"
       }
     ],
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Lecce,  Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lecce,%20%20Inter",
-        "pubdate": "Sun, 25 Feb 2024 20:00:00 +0200"
+        "title": "Steaua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
+        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0200"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Steaua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
+        "title": "Mihai Viteazul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Viteazul",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0200"
       }
     ],
@@ -89,13 +89,6 @@
       {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrew%20Tate",
-        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mihai Viteazul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Viteazul",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leverkusen",
         "pubdate": "Sat, 24 Feb 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
+        "pubdate": "Sat, 24 Feb 2024 21:00:00 +0200"
       }
     ]
   ]
