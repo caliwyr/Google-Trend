@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2024 , 21:47:18",
+  "lastUpdate": "25-02-2024 , 21:56:35",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
+        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
         "pubdate": "Sun, 25 Feb 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
+        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Real Madrid vs Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Sevilla",
+        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
         "pubdate": "Sun, 25 Feb 2024 20:00:00 +0200"
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Real Madrid vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Sevilla",
-        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0200"
+        "title": "Chippa United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chippa%20United",
+        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -55,20 +76,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
         "pubdate": "Sun, 25 Feb 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
-        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chippa United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chippa%20United",
-        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan Vs Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan%20Vs%20Atalanta",
+        "pubdate": "Sun, 25 Feb 2024 19:00:00 +0200"
       }
     ],
     [
@@ -108,15 +122,8 @@
     ],
     [
       {
-        "title": "France vs Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France%20vs%20Italy",
-        "pubdate": "Sun, 25 Feb 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan Vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan%20Vs%20Atalanta",
+        "title": "SuperSport United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SuperSport%20United",
         "pubdate": "Sun, 25 Feb 2024 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Chelsea vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Liverpool",
         "pubdate": "Sat, 24 Feb 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Fulham",
-        "pubdate": "Sat, 24 Feb 2024 16:00:00 +0200"
       }
     ]
   ]
