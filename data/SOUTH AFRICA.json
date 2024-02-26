@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-02-2024 , 01:18:50",
+  "lastUpdate": "26-02-2024 , 02:00:41",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-        "pubdate": "Sun, 25 Feb 2024 12:00:00 +0200"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
+        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Wolves vs Sheffield United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wolves%20vs%20Sheffield%20United",
         "pubdate": "Sun, 25 Feb 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EFL Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#EFL%20Cup",
+        "pubdate": "Sun, 25 Feb 2024 12:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
-        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
         "pubdate": "Sun, 25 Feb 2024 17:00:00 +0200"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Wembley stadium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wembley%20stadium",
+        "title": "Wembley Stadium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wembley%20Stadium",
         "pubdate": "Sun, 25 Feb 2024 19:00:00 +0200"
       }
     ]
