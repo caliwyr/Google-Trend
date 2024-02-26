@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-02-2024 , 05:45:14",
+  "lastUpdate": "26-02-2024 , 05:54:25",
   "data": [
-    [
-      {
-        "title": "Olimpia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
-        "pubdate": "Mon, 26 Feb 2024 01:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Quien entra en el repechaje de Gran Hermano",
@@ -17,15 +10,15 @@
     ],
     [
       {
-        "title": "Malena Alterio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Malena%20Alterio",
-        "pubdate": "Mon, 26 Feb 2024 00:00:00 -0300"
+        "title": "Olimpia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
+        "pubdate": "Mon, 26 Feb 2024 01:00:00 -0300"
       }
     ],
     [
       {
-        "title": "O'Higgins  colo-colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#O'Higgins%20%20colo-colo",
+        "title": "Malena Alterio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Malena%20Alterio",
         "pubdate": "Mon, 26 Feb 2024 00:00:00 -0300"
       }
     ],
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami",
+        "title": "LA Galaxy  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LA%20Galaxy%20%20Inter%20Miami",
         "pubdate": "Sun, 25 Feb 2024 09:00:00 -0300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Quilmes  Chacarita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quilmes%20%20Chacarita",
         "pubdate": "Sun, 25 Feb 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
+        "pubdate": "Sun, 25 Feb 2024 15:00:00 -0300"
       }
     ]
   ]
