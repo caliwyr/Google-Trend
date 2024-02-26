@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-02-2024 , 18:45:23",
+  "lastUpdate": "26-02-2024 , 18:56:59",
   "data": [
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Mon, 26 Feb 2024 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Zealand Pharma",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Metro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
-        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Mon, 26 Feb 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mercedes-amg One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mercedes-amg%20One",
+        "pubdate": "Mon, 26 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "George Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#George%20Michael",
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
         "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Zealand pharma stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zealand%20pharma%20stock",
-        "pubdate": "Mon, 26 Feb 2024 13:00:00 +0100"
+        "title": "George Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#George%20Michael",
+        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Jon Dahl Tomasson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jon%20Dahl%20Tomasson",
-        "pubdate": "Mon, 26 Feb 2024 18:00:00 +0100"
+        "title": "Zealand pharma stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zealand%20pharma%20stock",
+        "pubdate": "Mon, 26 Feb 2024 13:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "OB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
-        "pubdate": "Sun, 25 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Sevilla",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Generator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Generator",
         "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ellie Goulding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ellie%20Goulding",
+        "pubdate": "Sun, 25 Feb 2024 07:00:00 +0100"
       }
     ]
   ]
