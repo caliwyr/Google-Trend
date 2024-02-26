@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "26-02-2024 , 20:43:31",
+  "lastUpdate": "26-02-2024 , 20:52:48",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
         "pubdate": "Mon, 26 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cholera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cholera",
-        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Cholera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cholera",
+        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "99 Luftballons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#99%20Luftballons",
         "pubdate": "Mon, 26 Feb 2024 12:00:00 +0100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Mon, 26 Feb 2024 00:00:00 +0100"
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haaland",
+        "pubdate": "Mon, 26 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BYD",
+        "pubdate": "Mon, 26 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pete Doherty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pete%20Doherty",
         "pubdate": "Mon, 26 Feb 2024 07:00:00 +0100"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "BYD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BYD",
-        "pubdate": "Mon, 26 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chris Gauthier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20Gauthier",
         "pubdate": "Mon, 26 Feb 2024 15:00:00 +0100"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Als",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Als",
-        "pubdate": "Mon, 26 Feb 2024 11:00:00 +0100"
+        "title": "AS Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AS%20Roma",
+        "pubdate": "Mon, 26 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
+        "title": "Ana Girardot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ana%20Girardot",
+        "pubdate": "Mon, 26 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Als",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Als",
+        "pubdate": "Mon, 26 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Roger Federer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer",
         "pubdate": "Mon, 26 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20%20Sevilla",
-        "pubdate": "Mon, 26 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Google Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Google%20Gemini",
-        "pubdate": "Mon, 26 Feb 2024 12:00:00 +0100"
       }
     ]
   ]
