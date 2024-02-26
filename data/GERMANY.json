@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-02-2024 , 02:47:10",
+  "lastUpdate": "26-02-2024 , 02:56:41",
   "data": [
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sun, 25 Feb 2024 14:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "BVB",
@@ -17,23 +10,16 @@
     ],
     [
       {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sun, 25 Feb 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
         "pubdate": "Sun, 25 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Augsburg gegen Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Augsburg%20gegen%20Freiburg",
-        "pubdate": "Sun, 25 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sun, 25 Feb 2024 16:00:00 +0100"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Xiaomi 14 Ultra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xiaomi%2014%20Ultra",
         "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Augsburg Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Augsburg%20Freiburg",
+        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cannabis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cannabis",
         "pubdate": "Fri, 23 Feb 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vollmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vollmond",
+        "pubdate": "Fri, 23 Feb 2024 09:00:00 +0100"
       }
     ]
   ]
