@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-02-2024 , 16:48:49",
+  "lastUpdate": "26-02-2024 , 16:58:04",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Almere City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
-        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Laos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laos",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Chris Huizinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chris%20Huizinga",
-        "pubdate": "Sun, 25 Feb 2024 16:00:00 +0100"
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
+        "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marcel Levi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marcel%20Levi",
+        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
