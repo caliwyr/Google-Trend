@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2024 , 23:59:59",
+  "lastUpdate": "26-02-2024 , 01:18:49",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Paolini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paolini",
-        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "The Walking Dead: The Ones Who Live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#The%20Walking%20Dead:%20The%20Ones%20Who%20Live",
         "pubdate": "Sun, 25 Feb 2024 16:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Lodowy szlak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lodowy%20szlak",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pedro Pascal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pedro%20Pascal",
+        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0100"
       }
     ]
   ]
