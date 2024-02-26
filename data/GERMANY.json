@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-02-2024 , 10:48:56",
+  "lastUpdate": "26-02-2024 , 10:58:15",
   "data": [
+    [
+      {
+        "title": "Cholera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cholera",
+        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Streik",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Cholera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cholera",
-        "pubdate": "Mon, 26 Feb 2024 08:00:00 +0100"
+        "title": "Jürgen Klopp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klopp",
+        "pubdate": "Mon, 26 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -45,15 +52,15 @@
     ],
     [
       {
-        "title": "Polizeiruf 110",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizeiruf%20110",
-        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
+        "title": "Kenneth Mitchell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kenneth%20Mitchell",
+        "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kenneth Mitchell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kenneth%20Mitchell",
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
         "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
       }
     ],
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Belarus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belarus",
-        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
         "pubdate": "Sun, 25 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Palisades Tahoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Palisades%20Tahoe",
-        "pubdate": "Sun, 25 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Roland Kaiser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roland%20Kaiser",
         "pubdate": "Fri, 23 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
       }
     ]
   ]
