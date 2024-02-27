@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 12:45:21",
+  "lastUpdate": "27-02-2024 , 12:56:29",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Mercedes-AMG One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mercedes-AMG%20One",
-        "pubdate": "Mon, 26 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Åsted Norge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85sted%20Norge",
         "pubdate": "Mon, 26 Feb 2024 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Jodie Turner-Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jodie%20Turner-Smith",
         "pubdate": "Mon, 26 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forsvaret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvaret",
+        "pubdate": "Mon, 26 Feb 2024 12:00:00 +0100"
       }
     ]
   ]
