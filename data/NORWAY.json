@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 11:38:33",
+  "lastUpdate": "27-02-2024 , 11:47:55",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-        "pubdate": "Mon, 26 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Oscar Bobb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oscar%20Bobb",
         "pubdate": "Mon, 26 Feb 2024 10:00:00 +0100"
@@ -83,6 +76,13 @@
         "title": "Årdal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85rdal",
         "pubdate": "Mon, 26 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Åsted Norge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85sted%20Norge",
+        "pubdate": "Mon, 26 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Forsvaret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvaret",
+        "pubdate": "Mon, 26 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
         "pubdate": "Sun, 25 Feb 2024 16:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Lyko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyko",
-        "pubdate": "Sun, 25 Feb 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Girl In Red",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Girl%20In%20Red",
-        "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
+        "title": "Chelsea mot Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Liverpool",
+        "pubdate": "Sun, 25 Feb 2024 16:00:00 +0100"
       }
     ]
   ]
