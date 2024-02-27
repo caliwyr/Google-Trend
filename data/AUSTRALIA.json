@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 14:42:26",
+  "lastUpdate": "27-02-2024 , 14:51:43",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Collingwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
-        "pubdate": "Tue, 27 Feb 2024 20:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "George Michael",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#George%20Michael",
         "pubdate": "Tue, 27 Feb 2024 17:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Mon, 26 Feb 2024 02:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Fred Again",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fred%20Again",
+        "pubdate": "Mon, 26 Feb 2024 22:00:00 +1100"
       }
     ]
   ]

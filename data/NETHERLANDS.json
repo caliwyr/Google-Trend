@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 14:42:32",
+  "lastUpdate": "27-02-2024 , 14:51:51",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Jong Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
-        "pubdate": "Mon, 26 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hermelijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hermelijn",
         "pubdate": "Mon, 26 Feb 2024 21:00:00 +0100"
@@ -76,13 +69,6 @@
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ruben van Bommel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ruben%20van%20Bommel",
-        "pubdate": "Sun, 25 Feb 2024 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Fri, 23 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Krol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thomas%20Krol",
+        "pubdate": "Fri, 23 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Storm Louis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm%20Louis",
+        "pubdate": "Thu, 22 Feb 2024 13:00:00 +0100"
       }
     ]
   ]
