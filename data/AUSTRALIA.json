@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "27-02-2024 , 16:44:08",
+  "lastUpdate": "27-02-2024 , 16:53:35",
   "data": [
-    [
-      {
-        "title": "Luke Davies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Davies",
-        "pubdate": "Wed, 28 Feb 2024 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Pokemon Presents",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pokemon%20Presents",
-        "pubdate": "Wed, 28 Feb 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clint%20Eastwood",
         "pubdate": "Wed, 28 Feb 2024 00:00:00 +1100"
       }
     ],
@@ -31,8 +17,8 @@
     ],
     [
       {
-        "title": "Bitcoin Price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20Price",
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin",
         "pubdate": "Tue, 27 Feb 2024 15:00:00 +1100"
       }
     ],
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Fani Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fani%20Willis",
+        "pubdate": "Tue, 27 Feb 2024 23:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Neil Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neil%20Wagner",
         "pubdate": "Tue, 27 Feb 2024 19:00:00 +1100"
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Bungonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bungonia",
+        "pubdate": "Mon, 26 Feb 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Fred Again",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fred%20Again",
         "pubdate": "Mon, 26 Feb 2024 22:00:00 +1100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bungonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bungonia",
-        "pubdate": "Mon, 26 Feb 2024 10:00:00 +1100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
+        "pubdate": "Mon, 26 Feb 2024 05:00:00 +1100"
       }
     ]
   ]
