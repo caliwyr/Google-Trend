@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 06:47:50",
+  "lastUpdate": "27-02-2024 , 06:57:22",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jacob Rothschild",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Rothschild",
         "pubdate": "Tue, 27 Feb 2024 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin",
+        "pubdate": "Tue, 27 Feb 2024 15:00:00 +1100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Mardi Gras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mardi%20Gras",
+        "pubdate": "Tue, 27 Feb 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham",
         "pubdate": "Tue, 27 Feb 2024 09:00:00 +1100"
@@ -45,9 +59,23 @@
     ],
     [
       {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BTC",
-        "pubdate": "Tue, 27 Feb 2024 15:00:00 +1100"
+        "title": "Pattie Boyd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pattie%20Boyd",
+        "pubdate": "Tue, 27 Feb 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "George Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#George%20Michael",
+        "pubdate": "Tue, 27 Feb 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Scott Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scott%20Swift",
+        "pubdate": "Tue, 27 Feb 2024 17:00:00 +1100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FA%20Cup",
         "pubdate": "Mon, 26 Feb 2024 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami",
-        "pubdate": "Mon, 26 Feb 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "ALS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ALS",
-        "pubdate": "Mon, 26 Feb 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Mls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mls",
-        "pubdate": "Mon, 26 Feb 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Shane Gillis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shane%20Gillis",
-        "pubdate": "Mon, 26 Feb 2024 00:00:00 +1100"
       }
     ]
   ]
