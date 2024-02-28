@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "28-02-2024 , 22:45:52",
+  "lastUpdate": "28-02-2024 , 22:55:09",
   "data": [
-    [
-      {
-        "title": "Liverpool–Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93Southampton",
-        "pubdate": "Wed, 28 Feb 2024 21:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Marco Rossi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
         "pubdate": "Wed, 28 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea–leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93leeds",
-        "pubdate": "Wed, 28 Feb 2024 19:00:00 +0100"
       }
     ],
     [
@@ -45,13 +31,6 @@
     ],
     [
       {
-        "title": "Szilágyi Liliána",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szil%C3%A1gyi%20Lili%C3%A1na",
-        "pubdate": "Wed, 28 Feb 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Csernák János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csern%C3%A1k%20J%C3%A1nos",
         "pubdate": "Wed, 28 Feb 2024 06:00:00 +0100"
@@ -59,8 +38,22 @@
     ],
     [
       {
+        "title": "Szilágyi Liliána",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szil%C3%A1gyi%20Lili%C3%A1na",
+        "pubdate": "Wed, 28 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kozármisleny–mtk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koz%C3%A1rmisleny%E2%80%93mtk",
+        "pubdate": "Wed, 28 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Christian Horner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Christian%20Horner",
         "pubdate": "Wed, 28 Feb 2024 18:00:00 +0100"
       }
     ],
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20City",
-        "pubdate": "Wed, 28 Feb 2024 13:00:00 +0100"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
+        "pubdate": "Wed, 28 Feb 2024 22:00:00 +0100"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
-        "pubdate": "Wed, 28 Feb 2024 22:00:00 +0100"
+        "title": "Inter–atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter%E2%80%93atalanta",
+        "pubdate": "Wed, 28 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Inter–atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter%E2%80%93atalanta",
-        "pubdate": "Wed, 28 Feb 2024 21:00:00 +0100"
+        "title": "Tóth Bence Gyula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Bence%20Gyula",
+        "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Tóth Bence Gyula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Bence%20Gyula",
-        "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Horner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horner",
-        "pubdate": "Wed, 28 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jason Momoa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jason%20Momoa",
         "pubdate": "Wed, 28 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haaland",
+        "pubdate": "Wed, 28 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Coinbase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Coinbase",
+        "pubdate": "Wed, 28 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zacher Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zacher%20G%C3%A1bor",
+        "pubdate": "Wed, 28 Feb 2024 23:00:00 +0100"
       }
     ]
   ]
