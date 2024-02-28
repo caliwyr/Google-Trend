@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2024 , 20:00:22",
+  "lastUpdate": "28-02-2024 , 20:18:54",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Moldau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
+        "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "EU-Parlament Führerschein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EU-Parlament%20F%C3%BChrerschein",
         "pubdate": "Wed, 28 Feb 2024 14:00:00 +0100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Moldau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
-        "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
+        "title": "Fregatte Hessen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fregatte%20Hessen",
+        "pubdate": "Wed, 28 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Kida Khodr Ramadan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kida%20Khodr%20Ramadan",
-        "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
+        "title": "Mark Medlock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mark%20Medlock",
+        "pubdate": "Wed, 28 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Frauen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
+        "pubdate": "Wed, 28 Feb 2024 11:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Roland Kaiser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roland%20Kaiser",
         "pubdate": "Fri, 23 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cannabis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cannabis",
-        "pubdate": "Fri, 23 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vollmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vollmond",
-        "pubdate": "Fri, 23 Feb 2024 09:00:00 +0100"
       }
     ]
   ]
