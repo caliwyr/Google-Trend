@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2024 , 07:32:35",
+  "lastUpdate": "28-02-2024 , 07:41:42",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cannabis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cannabis",
         "pubdate": "Fri, 23 Feb 2024 16:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Vollmond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vollmond",
         "pubdate": "Fri, 23 Feb 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frankfurt Eintracht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Eintracht",
+        "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
       }
     ]
   ]
