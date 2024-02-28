@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2024 , 04:38:16",
+  "lastUpdate": "28-02-2024 , 04:47:42",
   "data": [
     [
       {
@@ -40,6 +40,13 @@
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bitcoin",
+        "pubdate": "Tue, 27 Feb 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stavernfestivalen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavernfestivalen",
         "pubdate": "Tue, 27 Feb 2024 12:00:00 +0100"
       }
     ],
@@ -96,13 +103,6 @@
       {
         "title": "Sørfold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#S%C3%B8rfold",
-        "pubdate": "Tue, 27 Feb 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stavernfestivalen 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavernfestivalen%202024",
         "pubdate": "Tue, 27 Feb 2024 18:00:00 +0100"
       }
     ],

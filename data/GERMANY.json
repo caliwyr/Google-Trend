@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-02-2024 , 04:38:12",
+  "lastUpdate": "28-02-2024 , 04:47:39",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Emmanuel Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Emmanuel%20Macron",
-        "pubdate": "Tue, 27 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
         "pubdate": "Tue, 27 Feb 2024 11:00:00 +0100"
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FA%20Cup",
+        "title": "FA-Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FA-Cup",
         "pubdate": "Tue, 27 Feb 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
+        "pubdate": "Tue, 27 Feb 2024 10:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Cannabis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cannabis",
-        "pubdate": "Fri, 23 Feb 2024 16:00:00 +0100"
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
+        "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
       }
     ]
   ]
