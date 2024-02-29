@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-02-2024 , 00:45:03",
+  "lastUpdate": "29-02-2024 , 01:35:10",
   "data": [
-    [
-      {
-        "title": "Pink Shirt Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pink%20Shirt%20Day",
-        "pubdate": "Wed, 28 Feb 2024 07:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Richard Lewis",
@@ -17,9 +10,16 @@
     ],
     [
       {
+        "title": "Pink Shirt Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pink%20Shirt%20Day",
+        "pubdate": "Wed, 28 Feb 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
-        "pubdate": "Wed, 28 Feb 2024 14:00:00 -0500"
+        "pubdate": "Wed, 28 Feb 2024 15:00:00 -0500"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Survivor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Survivor",
+        "pubdate": "Wed, 28 Feb 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Hunter Schafer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hunter%20Schafer",
         "pubdate": "Wed, 28 Feb 2024 07:00:00 -0500"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Eclipse solaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eclipse%20solaire",
-        "pubdate": "Wed, 28 Feb 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Snow squall warning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snow%20squall%20warning",
         "pubdate": "Wed, 28 Feb 2024 17:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Leap year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leap%20year",
-        "pubdate": "Wed, 28 Feb 2024 16:00:00 -0500"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20City",
+        "pubdate": "Wed, 28 Feb 2024 14:00:00 -0500"
       }
     ]
   ]
