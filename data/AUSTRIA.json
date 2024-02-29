@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-02-2024 , 23:45:47",
+  "lastUpdate": "29-02-2024 , 23:54:57",
   "data": [
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Atletico%20Madrid",
+        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Josef Fritzl",
@@ -17,9 +24,30 @@
     ],
     [
       {
+        "title": "Paul Pogba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paul%20Pogba",
+        "pubdate": "Thu, 29 Feb 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Julian Pölsler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julian%20P%C3%B6lsler",
         "pubdate": "Thu, 29 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201",
+        "pubdate": "Thu, 29 Feb 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1",
+        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0100"
       }
     ],
     [
@@ -31,30 +59,9 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1",
-        "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Richard Lewis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Richard%20Lewis",
         "pubdate": "Thu, 29 Feb 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paul Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paul%20Pogba",
-        "pubdate": "Thu, 29 Feb 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Masked Singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Masked%20Singer",
-        "pubdate": "Thu, 29 Feb 2024 07:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "The Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Masked%20Singer",
+        "pubdate": "Thu, 29 Feb 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cat Janice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cat%20Janice",
         "pubdate": "Thu, 29 Feb 2024 10:00:00 +0100"
@@ -73,30 +87,9 @@
     ],
     [
       {
-        "title": "Serie-A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie-A",
-        "pubdate": "Thu, 29 Feb 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bahrain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bahrain",
-        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kolumbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kolumbien",
         "pubdate": "Thu, 29 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BTC",
-        "pubdate": "Thu, 29 Feb 2024 12:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Biathlon heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biathlon%20heute",
-        "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
+        "title": "Rudolf Höß",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rudolf%20H%C3%B6%C3%9F",
+        "pubdate": "Thu, 29 Feb 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rudolf Höß",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rudolf%20H%C3%B6%C3%9F",
+        "title": "Lena Gercke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena%20Gercke",
         "pubdate": "Thu, 29 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biathlon heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biathlon%20heute",
+        "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
       }
     ]
   ]
