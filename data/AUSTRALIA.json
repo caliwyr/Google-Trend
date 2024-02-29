@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-02-2024 , 17:44:13",
+  "lastUpdate": "29-02-2024 , 17:53:37",
   "data": [
     [
       {
@@ -87,8 +87,15 @@
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20utd",
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
+        "pubdate": "Thu, 29 Feb 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20Utd",
         "pubdate": "Thu, 29 Feb 2024 07:00:00 +1100"
       }
     ],
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Thu, 29 Feb 2024 17:00:00 +1100"
+        "title": "Reed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reed",
+        "pubdate": "Thu, 29 Feb 2024 12:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ASIO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASIO",
         "pubdate": "Thu, 29 Feb 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Deepika Padukone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Deepika%20Padukone",
-        "pubdate": "Thu, 29 Feb 2024 22:00:00 +1100"
       }
     ]
   ]
