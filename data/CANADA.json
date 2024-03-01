@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 00:56:09",
+  "lastUpdate": "01-03-2024 , 01:52:52",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Paul Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Pogba",
-        "pubdate": "Thu, 29 Feb 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Justin Bieber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Bieber",
         "pubdate": "Thu, 29 Feb 2024 13:00:00 -0500"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Zach Hyman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Hyman",
-        "pubdate": "Thu, 29 Feb 2024 14:00:00 -0500"
+        "title": "Paul Pogba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Pogba",
+        "pubdate": "Thu, 29 Feb 2024 11:00:00 -0500"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Snowflake stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snowflake%20stock",
         "pubdate": "Thu, 29 Feb 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Shohei Ohtani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shohei%20Ohtani",
+        "pubdate": "Thu, 29 Feb 2024 17:00:00 -0500"
       }
     ],
     [
@@ -87,6 +87,20 @@
     ],
     [
       {
+        "title": "Neil Young",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Neil%20Young",
+        "pubdate": "Thu, 29 Feb 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "School bus cancellations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#School%20bus%20cancellations",
+        "pubdate": "Thu, 29 Feb 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "ArriveCan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ArriveCan",
         "pubdate": "Thu, 29 Feb 2024 11:00:00 -0500"
@@ -97,13 +111,6 @@
         "title": "Final Fantasy 7 Rebirth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Final%20Fantasy%207%20Rebirth",
         "pubdate": "Thu, 29 Feb 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Neil Young",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Neil%20Young",
-        "pubdate": "Thu, 29 Feb 2024 16:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Ivan Cantu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ivan%20Cantu",
-        "pubdate": "Thu, 29 Feb 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nova Scotia Power",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nova%20Scotia%20Power",
-        "pubdate": "Thu, 29 Feb 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Elsbeth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elsbeth",
         "pubdate": "Thu, 29 Feb 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ivan Cantu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ivan%20Cantu",
+        "pubdate": "Thu, 29 Feb 2024 00:00:00 -0500"
       }
     ]
   ]
