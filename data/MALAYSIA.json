@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 18:40:19",
+  "lastUpdate": "01-03-2024 , 18:49:37",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
-        "pubdate": "Fri, 01 Mar 2024 12:00:00 +0800"
+        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0800"
       }
     ],
     [
@@ -59,22 +59,8 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Formula%201",
-        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Shohei%20Ohtani",
-        "pubdate": "Fri, 01 Mar 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Lauren Boebert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lauren%20Boebert",
         "pubdate": "Fri, 01 Mar 2024 10:00:00 +0800"
       }
     ],
@@ -83,6 +69,13 @@
         "title": "Paul Yong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paul%20Yong",
         "pubdate": "Fri, 01 Mar 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lauren Boebert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lauren%20Boebert",
+        "pubdate": "Fri, 01 Mar 2024 10:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City",
         "pubdate": "Thu, 29 Feb 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bitcoin",
+        "pubdate": "Thu, 29 Feb 2024 13:00:00 +0800"
       }
     ]
   ]

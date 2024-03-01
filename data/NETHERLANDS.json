@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 18:40:19",
+  "lastUpdate": "01-03-2024 , 18:49:37",
   "data": [
     [
       {
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
-        "pubdate": "Fri, 01 Mar 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maxime Meiland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maxime%20Meiland",
-        "pubdate": "Fri, 01 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Feyenoord",
         "pubdate": "Fri, 01 Mar 2024 16:00:00 +0100"
@@ -83,6 +69,13 @@
         "title": "Feyenoord-Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-Groningen",
         "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Tue, 27 Feb 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Taghi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taghi",
+        "pubdate": "Tue, 27 Feb 2024 12:00:00 +0100"
       }
     ]
   ]
