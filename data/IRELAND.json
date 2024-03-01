@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 13:45:39",
+  "lastUpdate": "01-03-2024 , 13:55:07",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Weather forecast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20forecast",
         "pubdate": "Fri, 01 Mar 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Formula%201",
-        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0000"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Formula%201",
+        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "HSE redundancy package",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#HSE%20redundancy%20package",
         "pubdate": "Thu, 29 Feb 2024 22:00:00 +0000"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Mary and George",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mary%20and%20George",
+        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Wayne Rooney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wayne%20Rooney",
         "pubdate": "Thu, 29 Feb 2024 18:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Aaron Bushnell Air Force",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aaron%20Bushnell%20Air%20Force",
         "pubdate": "Thu, 29 Feb 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mary and George",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mary%20and%20George",
-        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0000"
       }
     ]
   ]
