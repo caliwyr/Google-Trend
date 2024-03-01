@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-03-2024 , 23:40:55",
+  "lastUpdate": "01-03-2024 , 23:50:09",
   "data": [
-    [
-      {
-        "title": "Cà Mau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%A0%20Mau",
-        "pubdate": "Sat, 02 Mar 2024 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Al-nassr đấu với Al-Hazm",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern",
+        "title": "Freiburg đấu với Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Freiburg%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Bayern",
         "pubdate": "Fri, 01 Mar 2024 20:00:00 +0700"
       }
     ],
@@ -52,8 +45,8 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Psg",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG",
         "pubdate": "Fri, 01 Mar 2024 20:00:00 +0700"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "MU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU",
         "pubdate": "Thu, 29 Feb 2024 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
+        "pubdate": "Thu, 29 Feb 2024 09:00:00 +0700"
       }
     ]
   ]
