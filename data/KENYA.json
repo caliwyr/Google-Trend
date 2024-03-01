@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 10:37:24",
+  "lastUpdate": "01-03-2024 , 10:46:42",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Haiti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Haiti",
-        "pubdate": "Fri, 01 Mar 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Leap Day 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leap%20Day%202024",
         "pubdate": "Thu, 29 Feb 2024 01:00:00 +0300"
@@ -62,6 +55,13 @@
         "title": "Ali Hassan Mwinyi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ali%20Hassan%20Mwinyi",
         "pubdate": "Thu, 29 Feb 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "LSK elections 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LSK%20elections%202024",
+        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0300"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "LSK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LSK",
-        "pubdate": "Thu, 29 Feb 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Cat Janice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cat%20Janice",
         "pubdate": "Thu, 29 Feb 2024 15:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Code 8",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Code%208",
         "pubdate": "Thu, 29 Feb 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Serie%20A",
+        "pubdate": "Thu, 29 Feb 2024 01:00:00 +0300"
       }
     ]
   ]
