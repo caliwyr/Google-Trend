@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-03-2024 , 03:47:28",
+  "lastUpdate": "01-03-2024 , 03:56:50",
   "data": [
-    [
-      {
-        "title": "TVNZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TVNZ",
-        "pubdate": "Fri, 01 Mar 2024 00:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "F1",
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
+        "pubdate": "Fri, 01 Mar 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Leap Day 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leap%20Day%202024",
         "pubdate": "Thu, 29 Feb 2024 01:00:00 +1300"
@@ -73,23 +73,9 @@
     ],
     [
       {
-        "title": "Ird",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ird",
-        "pubdate": "Thu, 29 Feb 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Australia vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20New%20Zealand",
         "pubdate": "Thu, 29 Feb 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Black Caps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
-        "pubdate": "Thu, 29 Feb 2024 15:00:00 +1300"
       }
     ],
     [
@@ -104,6 +90,13 @@
         "title": "Richard Lewis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Richard%20Lewis",
         "pubdate": "Thu, 29 Feb 2024 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Inland Revenue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inland%20Revenue",
+        "pubdate": "Thu, 29 Feb 2024 14:00:00 +1300"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bitcoin",
         "pubdate": "Thu, 29 Feb 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Blackcaps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
+        "pubdate": "Thu, 29 Feb 2024 22:00:00 +1300"
       }
     ],
     [
