@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "01-03-2024 , 06:40:02",
+  "lastUpdate": "01-03-2024 , 06:49:18",
   "data": [
+    [
+      {
+        "title": "Gordon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gordon",
+        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Angela Schijf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Angela%20Schijf",
         "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
+        "pubdate": "Fri, 01 Mar 2024 07:00:00 +0100"
       }
     ],
     [
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "Feyenoord  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20Groningen",
+        "title": "Feyenoord-Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord-Groningen",
         "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Rapper Bigidagoe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rapper%20Bigidagoe",
         "pubdate": "Sun, 25 Feb 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cholera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cholera",
-        "pubdate": "Sun, 25 Feb 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 25 Feb 2024 15:00:00 +0100"
       }
     ]
   ]
