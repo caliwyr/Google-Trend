@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 08:46:23",
+  "lastUpdate": "01-03-2024 , 08:55:49",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Dubai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dubai",
-        "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
         "pubdate": "Thu, 29 Feb 2024 09:00:00 +0100"
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "Sophie Elise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Elise",
+        "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mitch McConnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mitch%20McConnell",
         "pubdate": "Thu, 29 Feb 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Clark Kent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Clark%20Kent",
+        "pubdate": "Thu, 29 Feb 2024 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Transnistria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Transnistria",
         "pubdate": "Wed, 28 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dennis Vareide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dennis%20Vareide",
-        "pubdate": "Wed, 28 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
