@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "01-03-2024 , 10:46:40",
+  "lastUpdate": "01-03-2024 , 10:56:00",
   "data": [
-    [
-      {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gaza",
-        "pubdate": "Fri, 01 Mar 2024 04:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Anna Cabana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anna%20Cabana",
         "pubdate": "Fri, 01 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rachida Brakni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rachida%20Brakni",
+        "pubdate": "Fri, 01 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gaza",
+        "pubdate": "Fri, 01 Mar 2024 04:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Bruno Vandelli Yanis Marshall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruno%20Vandelli%20Yanis%20Marshall",
-        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+        "title": "Edouard Philippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
+        "pubdate": "Fri, 01 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Le Puy Foot 43 – Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Puy%20Foot%2043%20%E2%80%93%20Rennes",
-        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pogba",
         "pubdate": "Thu, 29 Feb 2024 14:00:00 +0100"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Valerie Hayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valerie%20Hayer",
-        "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
+        "title": "Marion Maréchal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marion%20Mar%C3%A9chal",
+        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marion Maréchal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marion%20Mar%C3%A9chal",
-        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0100"
+        "title": "Valerie Hayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valerie%20Hayer",
+        "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Le Puy Foot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Puy%20Foot",
+        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Atletico%20Madrid",
         "pubdate": "Thu, 29 Feb 2024 22:00:00 +0100"
@@ -108,15 +115,8 @@
     ],
     [
       {
-        "title": "Marie jose perec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20jose%20perec",
-        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nathalie Saint-Cricq France Insoumise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nathalie%20Saint-Cricq%20France%20Insoumise",
+        "title": "Nathalie Saint-Cricq France insoumise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nathalie%20Saint-Cricq%20France%20insoumise",
         "pubdate": "Thu, 29 Feb 2024 17:00:00 +0100"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Russie ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie%20ukraine",
-        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0100"
+        "title": "Biathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Biathlon",
+        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Biathlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Biathlon",
-        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0100"
+        "title": "Russie ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie%20ukraine",
+        "pubdate": "Thu, 29 Feb 2024 19:00:00 +0100"
       }
     ]
   ]
