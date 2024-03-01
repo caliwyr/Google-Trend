@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 17:46:42",
+  "lastUpdate": "01-03-2024 , 17:56:17",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Día del Contador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#D%C3%ADa%20del%20Contador",
+        "pubdate": "Fri, 01 Mar 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Israel",
         "pubdate": "Fri, 01 Mar 2024 08:00:00 -0500"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Olmedo lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Olmedo%20lopez",
-        "pubdate": "Fri, 01 Mar 2024 09:00:00 -0500"
+        "title": "1 de marzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#1%20de%20marzo",
+        "pubdate": "Fri, 01 Mar 2024 12:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gerardo Morales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Gerardo%20Morales",
         "pubdate": "Thu, 29 Feb 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Buddy Duress",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Buddy%20Duress",
-        "pubdate": "Thu, 29 Feb 2024 17:00:00 -0500"
       }
     ]
   ]
