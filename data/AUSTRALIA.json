@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-03-2024 , 07:44:15",
+  "lastUpdate": "01-03-2024 , 07:53:35",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Mardi Gras Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mardi%20Gras%20Sydney",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Patty Mills",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patty%20Mills",
         "pubdate": "Fri, 01 Mar 2024 12:00:00 +1100"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
-        "pubdate": "Fri, 01 Mar 2024 15:00:00 +1100"
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gaza",
+        "pubdate": "Fri, 01 Mar 2024 18:00:00 +1100"
       }
     ],
     [
@@ -104,6 +111,20 @@
         "title": "Bahrain GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bahrain%20GP",
         "pubdate": "Fri, 01 Mar 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+        "pubdate": "Fri, 01 Mar 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Shohei Ohtani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shohei%20Ohtani",
+        "pubdate": "Fri, 01 Mar 2024 18:00:00 +1100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Dunkley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dunkley",
         "pubdate": "Fri, 01 Mar 2024 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Mardi Gras Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mardi%20Gras%20Sydney",
-        "pubdate": "Fri, 01 Mar 2024 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Australia vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20New%20Zealand",
-        "pubdate": "Thu, 29 Feb 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Richard Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Richard%20Lewis",
-        "pubdate": "Thu, 29 Feb 2024 09:00:00 +1100"
       }
     ]
   ]
