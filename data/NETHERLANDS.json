@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2024 , 16:40:27",
+  "lastUpdate": "02-03-2024 , 16:49:35",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Strade Bianche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Strade%20Bianche",
         "pubdate": "Sat, 02 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bigidagoe uitvaart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bigidagoe%20uitvaart",
+        "pubdate": "Sat, 02 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Stengs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stengs",
-        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gordon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gordon",
         "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Thijs Römer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20R%C3%B6mer",
+        "pubdate": "Fri, 01 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 01 Mar 2024 21:00:00 +0100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Thijs Römer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20R%C3%B6mer",
-        "pubdate": "Fri, 01 Mar 2024 19:00:00 +0100"
+        "title": "Stengs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stengs",
+        "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Joost Klein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
         "pubdate": "Thu, 29 Feb 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Thu, 29 Feb 2024 21:00:00 +0100"
       }
     ]
   ]
