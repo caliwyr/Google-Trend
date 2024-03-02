@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2024 , 23:46:51",
+  "lastUpdate": "02-03-2024 , 23:56:28",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
-        "pubdate": "Sat, 02 Mar 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Mirassol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cruzeiro x Uberlândia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro%20x%20Uberl%C3%A2ndia",
-        "pubdate": "Sat, 02 Mar 2024 12:00:00 -0500"
       }
     ],
     [
@@ -59,6 +45,27 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sat, 02 Mar 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cruzeiro x Uberlândia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro%20x%20Uberl%C3%A2ndia",
+        "pubdate": "Sat, 02 Mar 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter de Limeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira",
+        "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Jogo do flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20flamengo",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
@@ -66,22 +73,15 @@
     ],
     [
       {
-        "title": "Jogo do Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Corinthians",
+        "title": "Atlético-MG x Ipatinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Ipatinga",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
-        "pubdate": "Sat, 02 Mar 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atlético-MG x Ipatinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Ipatinga",
+        "title": "Flamengo hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20hoje",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
       }
     ],
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Flamengo hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20hoje",
-        "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inter de Limeira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira",
-        "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Santa Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
         "pubdate": "Sat, 02 Mar 2024 12:00:00 -0500"
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Corinthians hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20hoje",
-        "pubdate": "Sat, 02 Mar 2024 14:00:00 -0500"
+        "title": "Gauchão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gauch%C3%A3o",
+        "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
       }
     ],
     [
@@ -129,9 +115,9 @@
     ],
     [
       {
-        "title": "Fifa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fifa",
-        "pubdate": "Sat, 02 Mar 2024 10:00:00 -0500"
+        "title": "Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "pubdate": "Sat, 02 Mar 2024 08:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Athletico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fifa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fifa",
+        "pubdate": "Sat, 02 Mar 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Criciuma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Criciuma",
+        "pubdate": "Sat, 02 Mar 2024 16:00:00 -0500"
       }
     ]
   ]
