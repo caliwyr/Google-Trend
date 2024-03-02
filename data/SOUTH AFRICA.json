@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2024 , 01:14:37",
+  "lastUpdate": "02-03-2024 , 01:54:25",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "West Brom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Brom",
-        "pubdate": "Fri, 01 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ekurhuleni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ekurhuleni",
         "pubdate": "Fri, 01 Mar 2024 00:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Joslin Smith missing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Joslin%20Smith%20missing",
-        "pubdate": "Fri, 01 Mar 2024 06:00:00 +0200"
+        "title": "West Brom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Brom",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 +0200"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Bahrain GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bahrain%20GP",
         "pubdate": "Fri, 01 Mar 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joslin Smith missing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Joslin%20Smith%20missing",
+        "pubdate": "Fri, 01 Mar 2024 06:00:00 +0200"
       }
     ],
     [
