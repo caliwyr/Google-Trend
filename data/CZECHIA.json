@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-03-2024 , 10:44:15",
+  "lastUpdate": "02-03-2024 , 10:53:37",
   "data": [
+    [
+      {
+        "title": "Iris Apfel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Iris%20Apfel",
+        "pubdate": "Sat, 02 Mar 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Štětín",
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Daniela Špinar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20%C5%A0pinar",
+        "pubdate": "Fri, 01 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Monako – PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monako%20%E2%80%93%20PSG",
         "pubdate": "Fri, 01 Mar 2024 22:00:00 +0100"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Scholz",
-        "pubdate": "Fri, 01 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Napoleon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Napoleon",
         "pubdate": "Fri, 01 Mar 2024 22:00:00 +0100"
@@ -89,6 +96,13 @@
       {
         "title": "Jawa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jawa",
+        "pubdate": "Fri, 01 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Scholz",
         "pubdate": "Fri, 01 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GTA%206",
         "pubdate": "Fri, 01 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bianca%20Censori",
-        "pubdate": "Thu, 29 Feb 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jiřina Bohdalová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99ina%20Bohdalov%C3%A1",
-        "pubdate": "Thu, 29 Feb 2024 20:00:00 +0100"
       }
     ]
   ]
