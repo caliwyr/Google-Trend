@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2024 , 20:50:00",
+  "lastUpdate": "02-03-2024 , 20:59:29",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Mr Ibu news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mr%20Ibu%20news",
+        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tottenham vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Crystal%20Palace",
         "pubdate": "Sat, 02 Mar 2024 14:00:00 +0100"
@@ -34,6 +41,13 @@
         "title": "Newcastle vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Wolves",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luton Town vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luton%20Town%20vs%20Aston%20Villa",
+        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Luton Town vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luton%20Town%20vs%20Aston%20Villa",
-        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0100"
+        "title": "Valencia vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia%20vs%20Real%20Madrid",
+        "pubdate": "Sat, 02 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Man City vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Man%20United",
+        "pubdate": "Sat, 02 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
         "pubdate": "Sat, 02 Mar 2024 17:00:00 +0100"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Man City vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Man%20United",
-        "pubdate": "Sat, 02 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "West Brom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Brom",
         "pubdate": "Sat, 02 Mar 2024 01:00:00 +0100"
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Valencia vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia%20vs%20Real%20Madrid",
-        "pubdate": "Sat, 02 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Is Sisi Quadri dead",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Is%20Sisi%20Quadri%20dead",
-        "pubdate": "Fri, 01 Mar 2024 19:00:00 +0100"
+        "title": "Sisi Quadri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sisi%20Quadri",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lazio vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio%20vs%20Milan",
         "pubdate": "Fri, 01 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
-        "pubdate": "Fri, 01 Mar 2024 15:00:00 +0100"
       }
     ]
   ]

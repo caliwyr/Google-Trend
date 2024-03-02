@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-03-2024 , 20:50:01",
+  "lastUpdate": "02-03-2024 , 20:59:31",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
         "pubdate": "Sat, 02 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mamelodi Sundowns vs TP Mazembe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20TP%20Mazembe",
-        "pubdate": "Sat, 02 Mar 2024 15:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,20 @@
     ],
     [
       {
+        "title": "Mamelodi Sundowns vs TP Mazembe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20TP%20Mazembe",
+        "pubdate": "Sat, 02 Mar 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Sat, 02 Mar 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
         "pubdate": "Sat, 02 Mar 2024 10:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Newcastle vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Wolves",
         "pubdate": "Sat, 02 Mar 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "URC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#URC",
+        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0200"
       }
     ],
     [
@@ -59,9 +73,16 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
-        "pubdate": "Sat, 02 Mar 2024 14:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
+        "pubdate": "Sat, 02 Mar 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luton Town vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town%20vs%20Aston%20Villa",
+        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "DStv Premiership",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#DStv%20Premiership",
-        "pubdate": "Sat, 02 Mar 2024 11:00:00 +0200"
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
+        "pubdate": "Sat, 02 Mar 2024 14:00:00 +0200"
       }
     ],
     [
@@ -83,6 +104,13 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
         "pubdate": "Sat, 02 Mar 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DStv Premiership",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#DStv%20Premiership",
+        "pubdate": "Sat, 02 Mar 2024 11:00:00 +0200"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Luton Town vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luton%20Town%20vs%20Aston%20Villa",
-        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Spaceman Adam Sandler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spaceman%20Adam%20Sandler",
         "pubdate": "Sat, 02 Mar 2024 12:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Richards Bay vs Royal AM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richards%20Bay%20vs%20Royal%20AM",
-        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anant Ambani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Anant%20Ambani",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rangers",
-        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Kim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Anthony%20Kim",
-        "pubdate": "Sat, 02 Mar 2024 14:00:00 +0200"
       }
     ]
   ]
