@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-03-2024 , 05:47:06",
+  "lastUpdate": "02-03-2024 , 05:56:24",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Coluche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coluche",
-        "pubdate": "Fri, 01 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ugo Humbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ugo%20Humbert",
         "pubdate": "Fri, 01 Mar 2024 14:00:00 +0100"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gaza",
-        "pubdate": "Fri, 01 Mar 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rublev",
         "pubdate": "Fri, 01 Mar 2024 18:00:00 +0100"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Claudia Tagbo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claudia%20Tagbo",
-        "pubdate": "Fri, 01 Mar 2024 23:00:00 +0100"
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gaza",
+        "pubdate": "Fri, 01 Mar 2024 04:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Furies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Furies",
         "pubdate": "Fri, 01 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spaceman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Spaceman",
+        "pubdate": "Fri, 01 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern",
+        "pubdate": "Fri, 01 Mar 2024 23:00:00 +0100"
       }
     ]
   ]
