@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-03-2024 , 14:45:11",
+  "lastUpdate": "02-03-2024 , 14:54:41",
   "data": [
     [
       {
         "title": "Chivas vs Cruz Azul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs%20Cruz%20Azul",
         "pubdate": "Sat, 02 Mar 2024 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla - Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sevilla%20-%20Real%20Sociedad",
+        "pubdate": "Sat, 02 Mar 2024 08:00:00 -0600"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Atlas vs America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atlas%20vs%20America",
+        "title": "Atlas vs america",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atlas%20vs%20america",
         "pubdate": "Sat, 02 Mar 2024 00:00:00 -0600"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "BBVA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#BBVA",
+        "pubdate": "Fri, 01 Mar 2024 09:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Querétaro - Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Quer%C3%A9taro%20-%20Santos",
         "pubdate": "Fri, 01 Mar 2024 17:00:00 -0600"
@@ -47,13 +61,6 @@
       {
         "title": "Mazatlán - Necaxa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mazatl%C3%A1n%20-%20Necaxa",
-        "pubdate": "Fri, 01 Mar 2024 18:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "BBVA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#BBVA",
         "pubdate": "Fri, 01 Mar 2024 18:00:00 -0600"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sydney%20Sweeney",
         "pubdate": "Fri, 01 Mar 2024 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Iris Apfel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Iris%20Apfel",
-        "pubdate": "Fri, 01 Mar 2024 21:00:00 -0600"
       }
     ]
   ]
