@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-03-2024 , 03:46:15",
+  "lastUpdate": "03-03-2024 , 03:55:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
         "pubdate": "Sat, 02 Mar 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Fastest 40-yard dash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fastest%2040-yard%20dash",
+        "pubdate": "Sat, 02 Mar 2024 16:00:00 -0800"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
-        "pubdate": "Sat, 02 Mar 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Orlando City vs Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orlando%20City%20vs%20Inter%20Miami",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0800"
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jake%20Paul",
-        "pubdate": "Sat, 02 Mar 2024 16:00:00 -0800"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
+        "pubdate": "Sat, 02 Mar 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Jake Paul vs Ryan Bourland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jake%20Paul%20vs%20Ryan%20Bourland",
+        "pubdate": "Sat, 02 Mar 2024 19:00:00 -0800"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Fastest 40-yard dash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fastest%2040-yard%20dash",
-        "pubdate": "Sat, 02 Mar 2024 18:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Russell Westbrook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Westbrook",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0800"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Dave Bautista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dave%20Bautista",
-        "pubdate": "Sat, 02 Mar 2024 16:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Rajah Caruth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rajah%20Caruth",
         "pubdate": "Sat, 02 Mar 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Iris Apfel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iris%20Apfel",
-        "pubdate": "Fri, 01 Mar 2024 18:00:00 -0800"
       }
     ],
     [
@@ -129,8 +115,8 @@
     ],
     [
       {
-        "title": "Ambani wedding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ambani%20wedding",
+        "title": "Ambani ... wedding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ambani%20...%20wedding",
         "pubdate": "Fri, 01 Mar 2024 22:00:00 -0800"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Employee Appreciation Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Employee%20Appreciation%20Day",
         "pubdate": "Fri, 01 Mar 2024 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Napoleon",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Women's History Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Women's%20History%20Month",
+        "pubdate": "Fri, 01 Mar 2024 06:00:00 -0800"
       }
     ]
   ]
