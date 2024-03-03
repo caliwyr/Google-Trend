@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-03-2024 , 15:42:01",
+  "lastUpdate": "03-03-2024 , 15:51:19",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Purdue basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20basketball",
-        "pubdate": "Sat, 02 Mar 2024 19:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
         "pubdate": "Sat, 02 Mar 2024 00:00:00 -0800"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "Bahrain gp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bahrain%20gp",
+        "title": "Bahrain GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bahrain%20GP",
         "pubdate": "Sat, 02 Mar 2024 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Sat, 02 Mar 2024 21:00:00 -0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-        "pubdate": "Sat, 02 Mar 2024 21:00:00 -0800"
+        "title": "Matt Chapman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Chapman",
+        "pubdate": "Sat, 02 Mar 2024 00:00:00 -0800"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Phoenix Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phoenix%20Suns",
-        "pubdate": "Sat, 02 Mar 2024 22:00:00 -0800"
+        "title": "Michigan State basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20basketball",
+        "pubdate": "Sat, 02 Mar 2024 20:00:00 -0800"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Iris Apfel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iris%20Apfel",
+        "pubdate": "Fri, 01 Mar 2024 18:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Michelle Troconis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michelle%20Troconis",
         "pubdate": "Fri, 01 Mar 2024 12:00:00 -0800"
@@ -132,13 +139,6 @@
         "title": "Anant Ambani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anant%20Ambani",
         "pubdate": "Fri, 01 Mar 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Madeline Soto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Madeline%20Soto",
-        "pubdate": "Fri, 01 Mar 2024 12:00:00 -0800"
       }
     ]
   ]
