@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-03-2024 , 05:45:25",
+  "lastUpdate": "03-03-2024 , 05:54:57",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Elias Pettersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elias%20Pettersson",
         "pubdate": "Sat, 02 Mar 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Usain Bolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Usain%20Bolt",
+        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Face off",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Face%20off",
         "pubdate": "Fri, 01 Mar 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Toyota",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Toyota",
-        "pubdate": "Fri, 01 Mar 2024 08:00:00 +0200"
       }
     ]
   ]
