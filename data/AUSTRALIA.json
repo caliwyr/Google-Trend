@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-03-2024 , 01:02:53",
+  "lastUpdate": "03-03-2024 , 01:56:22",
   "data": [
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
-        "pubdate": "Sun, 03 Mar 2024 10:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Inter Miami",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Brentford vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brentford%20vs%20Chelsea",
-        "pubdate": "Sun, 03 Mar 2024 08:00:00 +1100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+        "pubdate": "Sun, 03 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -80,20 +73,6 @@
     ],
     [
       {
-        "title": "Napoleon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Napoleon",
-        "pubdate": "Sat, 02 Mar 2024 01:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Albanese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Albanese",
-        "pubdate": "Sat, 02 Mar 2024 22:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rublev",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 +1100"
@@ -139,6 +118,27 @@
         "title": "AFL scores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20scores",
         "pubdate": "Sat, 02 Mar 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Dunkley by-election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dunkley%20by-election",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Mardi Gras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mardi%20Gras",
+        "pubdate": "Fri, 01 Mar 2024 17:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
+        "pubdate": "Fri, 01 Mar 2024 09:00:00 +1100"
       }
     ]
   ]
