@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-03-2024 , 07:48:19",
+  "lastUpdate": "03-03-2024 , 07:57:38",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea",
-        "pubdate": "Sat, 02 Mar 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jogo do flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20flamengo",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
@@ -129,9 +122,16 @@
     ],
     [
       {
-        "title": "Flamengo.hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo.hoje",
+        "title": "Flamengo hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20hoje",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea",
+        "pubdate": "Sat, 02 Mar 2024 10:00:00 -0500"
       }
     ],
     [
