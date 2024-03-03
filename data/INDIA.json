@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-03-2024 , 17:44:00",
+  "lastUpdate": "03-03-2024 , 17:53:23",
   "data": [
+    [
+      {
+        "title": "Man City vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City%20vs%20Man%20United",
+        "pubdate": "Sun, 03 Mar 2024 20:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "Inter Miami",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "WTC Points Table",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WTC%20Points%20Table",
-        "pubdate": "Sun, 03 Mar 2024 10:30:00 +0530"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+        "pubdate": "Sun, 03 Mar 2024 22:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Polio drops",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Polio%20drops",
+        "pubdate": "Sun, 03 Mar 2024 00:30:00 +0530"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Shardul Thakur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shardul%20Thakur",
         "pubdate": "Sun, 03 Mar 2024 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Max%20Verstappen",
-        "pubdate": "Sun, 03 Mar 2024 12:30:00 +0530"
       }
     ],
     [
@@ -80,22 +87,8 @@
     ],
     [
       {
-        "title": "Bansuri Swaraj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bansuri%20Swaraj",
-        "pubdate": "Sat, 02 Mar 2024 19:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Pawan Singh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pawan%20Singh",
-        "pubdate": "Sat, 02 Mar 2024 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Varalaxmi Sarathkumar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Varalaxmi%20Sarathkumar",
         "pubdate": "Sat, 02 Mar 2024 21:30:00 +0530"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Anant Ambani wedding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anant%20Ambani%20wedding",
         "pubdate": "Fri, 01 Mar 2024 01:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Formula%201",
+        "pubdate": "Fri, 01 Mar 2024 12:30:00 +0530"
       }
     ]
   ]

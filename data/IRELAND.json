@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-03-2024 , 17:44:01",
+  "lastUpdate": "03-03-2024 , 17:53:24",
   "data": [
     [
       {
         "title": "Man City vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City%20vs%20Man%20United",
         "pubdate": "Sun, 03 Mar 2024 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20Utd",
+        "pubdate": "Sun, 03 Mar 2024 17:00:00 +0000"
       }
     ],
     [
@@ -87,20 +94,6 @@
     ],
     [
       {
-        "title": "Brits 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brits%202024",
-        "pubdate": "Sun, 03 Mar 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Raye singer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Raye%20singer",
-        "pubdate": "Sun, 03 Mar 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool",
         "pubdate": "Sat, 02 Mar 2024 15:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20FC",
         "pubdate": "Sat, 02 Mar 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tottenham%20vs%20Crystal%20Palace",
+        "pubdate": "Sat, 02 Mar 2024 16:00:00 +0000"
       }
     ]
   ]
