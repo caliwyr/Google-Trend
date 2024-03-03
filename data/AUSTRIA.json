@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-03-2024 , 12:45:43",
+  "lastUpdate": "03-03-2024 , 12:55:40",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "RAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RAF",
+        "pubdate": "Sun, 03 Mar 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Edtstadler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Edtstadler",
         "pubdate": "Sun, 03 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP",
+        "pubdate": "Sun, 03 Mar 2024 13:00:00 +0100"
       }
     ],
     [
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Yvonne Catterfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yvonne%20Catterfeld",
+        "title": "Catterfeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Catterfeld",
         "pubdate": "Sat, 02 Mar 2024 21:00:00 +0100"
       }
     ],
@@ -62,13 +76,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
         "pubdate": "Sat, 02 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Waltraud Haas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Waltraud%20Haas",
-        "pubdate": "Sat, 02 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Taurus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taurus",
         "pubdate": "Sat, 02 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "EU mitgliedstaaten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EU%20mitgliedstaaten",
-        "pubdate": "Sat, 02 Mar 2024 21:00:00 +0100"
       }
     ]
   ]

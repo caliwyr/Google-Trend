@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-03-2024 , 12:45:48",
+  "lastUpdate": "03-03-2024 , 12:55:44",
   "data": [
+    [
+      {
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul",
+        "pubdate": "Sun, 03 Mar 2024 03:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Leeds United",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul",
-        "pubdate": "Sun, 03 Mar 2024 03:00:00 +0000"
+        "title": "Sarah Lavin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sarah%20Lavin",
+        "pubdate": "Sun, 03 Mar 2024 11:00:00 +0000"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Sarah Lavin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sarah%20Lavin",
-        "pubdate": "Sun, 03 Mar 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "American Fiction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#American%20Fiction",
         "pubdate": "Sun, 03 Mar 2024 00:00:00 +0000"
@@ -47,13 +47,6 @@
       {
         "title": "CMAT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#CMAT",
-        "pubdate": "Sun, 03 Mar 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Brits 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brits%202024",
         "pubdate": "Sun, 03 Mar 2024 10:00:00 +0000"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Everton vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20vs%20West%20Ham",
         "pubdate": "Sat, 02 Mar 2024 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Lee Anderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lee%20Anderson",
+        "pubdate": "Sat, 02 Mar 2024 09:00:00 +0000"
       }
     ]
   ]
