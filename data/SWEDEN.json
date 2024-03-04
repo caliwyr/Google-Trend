@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "04-03-2024 , 18:49:15",
+  "lastUpdate": "04-03-2024 , 18:58:51",
   "data": [
     [
       {
         "title": "Vasaloppet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasaloppet",
+        "pubdate": "Mon, 04 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deklaration",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Deklaration",
         "pubdate": "Mon, 04 Mar 2024 01:00:00 +0100"
       }
     ],
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Deklaration",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Deklaration",
-        "pubdate": "Mon, 04 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Mon, 04 Mar 2024 16:00:00 +0100"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Henrik Larsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson",
-        "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
+        "title": "Sophiahemmet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophiahemmet",
+        "pubdate": "Mon, 04 Mar 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sophiahemmet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophiahemmet",
-        "pubdate": "Mon, 04 Mar 2024 14:00:00 +0100"
+        "title": "Henrik Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson",
+        "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Ryan Garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryan%20Garcia",
         "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Acko Ankarberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Acko%20Ankarberg",
+        "pubdate": "Mon, 04 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 03 Mar 2024 15:00:00 +0100"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
         "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Sun, 03 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20utd",
-        "pubdate": "Sun, 03 Mar 2024 18:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
