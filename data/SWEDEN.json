@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-03-2024 , 20:49:14",
+  "lastUpdate": "04-03-2024 , 20:58:27",
   "data": [
-    [
-      {
-        "title": "Vasaloppet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasaloppet",
-        "pubdate": "Mon, 04 Mar 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Deklaration",
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Skatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skatt",
+        "pubdate": "Mon, 04 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sophiahemmet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophiahemmet",
         "pubdate": "Mon, 04 Mar 2024 14:00:00 +0100"
@@ -45,15 +45,29 @@
     ],
     [
       {
-        "title": "Skatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skatt",
-        "pubdate": "Mon, 04 Mar 2024 17:00:00 +0100"
+        "title": "Tjörn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tj%C3%B6rn",
+        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kate Winslet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kate%20Winslet",
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
+        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Landvetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landvetter",
+        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kristin Cavallari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristin%20Cavallari",
         "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Kristin Cavallari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristin%20Cavallari",
-        "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
+        "title": "Ryan Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryan%20Garcia",
+        "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ryan Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryan%20Garcia",
-        "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
+        "title": "Katerina Janouch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Katerina%20Janouch",
+        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Vasaloppet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasaloppet",
+        "pubdate": "Sun, 03 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Sun, 03 Mar 2024 16:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 03 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andreas Kramer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Kramer",
-        "pubdate": "Sun, 03 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
