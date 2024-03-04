@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-03-2024 , 14:46:44",
+  "lastUpdate": "04-03-2024 , 14:56:02",
   "data": [
     [
       {
         "title": "Tirreno-Adriatico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tirreno-Adriatico",
         "pubdate": "Mon, 04 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BTC",
+        "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BLOX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BLOX",
+        "pubdate": "Mon, 04 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -24,13 +38,6 @@
     ],
     [
       {
-        "title": "BLOX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BLOX",
-        "pubdate": "Mon, 04 Mar 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luke Humphries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luke%20Humphries",
         "pubdate": "Mon, 04 Mar 2024 03:00:00 +0100"
@@ -41,6 +48,13 @@
         "title": "The 1975",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%201975",
         "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eliott Crestan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eliott%20Crestan",
+        "pubdate": "Mon, 04 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -87,23 +101,16 @@
     ],
     [
       {
+        "title": "Naples – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Naples%20%E2%80%93%20Juventus",
+        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Sun, 03 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juliet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliet",
-        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Naples – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Naples%20%E2%80%93%20Juventus",
+        "title": "Juliet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliet",
         "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
         "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Isabelle Boulay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Isabelle%20Boulay",
-        "pubdate": "Sun, 03 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
