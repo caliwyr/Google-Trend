@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-03-2024 , 17:39:54",
+  "lastUpdate": "04-03-2024 , 17:49:31",
   "data": [
     [
       {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
         "pubdate": "Mon, 04 Mar 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al Ain vs Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ain%20vs%20Al-Nassr",
+        "pubdate": "Mon, 04 Mar 2024 18:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "PGA Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PGA%20Tour",
         "pubdate": "Mon, 04 Mar 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petrol price march 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price%20march%202024",
+        "pubdate": "Mon, 04 Mar 2024 15:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
-        "pubdate": "Sun, 03 Mar 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Royal Antwerp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Royal%20Antwerp",
-        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Haaland",
-        "pubdate": "Sun, 03 Mar 2024 20:00:00 +0200"
+        "title": "Cape Town Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20Spurs",
+        "pubdate": "Sun, 03 Mar 2024 17:00:00 +0200"
       }
     ]
   ]
