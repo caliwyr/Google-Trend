@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-03-2024 , 13:51:12",
+  "lastUpdate": "04-03-2024 , 14:00:31",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "IVG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#IVG",
+        "pubdate": "Mon, 04 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Agnes b",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Agnes%20b",
         "pubdate": "Mon, 04 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inde",
+        "pubdate": "Mon, 04 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -66,15 +80,8 @@
     ],
     [
       {
-        "title": "Isabelle Boulay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Boulay",
-        "pubdate": "Sun, 03 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paris-Nice 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris-Nice%202024",
+        "title": "Paris Nice 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20Nice%202024",
         "pubdate": "Sun, 03 Mar 2024 11:00:00 +0100"
       }
     ],
@@ -83,13 +90,6 @@
         "title": "FC Nantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
         "pubdate": "Sun, 03 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jarry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jarry",
-        "pubdate": "Sun, 03 Mar 2024 14:00:00 +0100"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
         "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Diakhaby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diakhaby",
-        "pubdate": "Sun, 03 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Marine Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
         "pubdate": "Sun, 03 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marathon Paris 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marathon%20Paris%202024",
+        "pubdate": "Sun, 03 Mar 2024 11:00:00 +0100"
       }
     ]
   ]
