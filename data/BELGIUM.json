@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-03-2024 , 15:44:27",
+  "lastUpdate": "04-03-2024 , 15:53:39",
   "data": [
+    [
+      {
+        "title": "STVV!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#STVV!",
+        "pubdate": "Mon, 04 Mar 2024 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tirreno-Adriatico",
@@ -13,6 +20,13 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BTC",
         "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haiti",
+        "pubdate": "Mon, 04 Mar 2024 13:00:00 +0100"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Haiti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haiti",
-        "pubdate": "Mon, 04 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luke Humphries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luke%20Humphries",
         "pubdate": "Mon, 04 Mar 2024 03:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Eliott Crestan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eliott%20Crestan",
-        "pubdate": "Mon, 04 Mar 2024 09:00:00 +0100"
+        "title": "Zonnepanelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zonnepanelen",
+        "pubdate": "Mon, 04 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Juliet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliet",
         "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Sun, 03 Mar 2024 15:00:00 +0100"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Sun, 03 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
