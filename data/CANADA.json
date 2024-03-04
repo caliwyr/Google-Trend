@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-03-2024 , 08:33:52",
+  "lastUpdate": "04-03-2024 , 10:28:22",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics",
+        "pubdate": "Sun, 03 Mar 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Joe Bocan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Bocan",
         "pubdate": "Sun, 03 Mar 2024 22:00:00 -0500"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics",
-        "pubdate": "Sun, 03 Mar 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Extreme cold warning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Extreme%20cold%20warning",
         "pubdate": "Sun, 03 Mar 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Napoli vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Napoli%20vs%20Juventus",
-        "pubdate": "Sun, 03 Mar 2024 17:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Manitoba Hydro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manitoba%20Hydro",
         "pubdate": "Sun, 03 Mar 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "California snow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California%20snow",
+        "pubdate": "Sun, 03 Mar 2024 15:00:00 -0500"
       }
     ]
   ]

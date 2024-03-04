@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-03-2024 , 08:33:59",
+  "lastUpdate": "04-03-2024 , 10:28:31",
   "data": [
     [
       {
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cape Town Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20Spurs",
-        "pubdate": "Sun, 03 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
         "pubdate": "Sun, 03 Mar 2024 23:00:00 +0200"
@@ -104,6 +90,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray",
         "pubdate": "Sun, 03 Mar 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Haaland",
+        "pubdate": "Sun, 03 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
         "pubdate": "Sat, 02 Mar 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
+        "pubdate": "Sat, 02 Mar 2024 22:00:00 +0200"
       }
     ]
   ]
