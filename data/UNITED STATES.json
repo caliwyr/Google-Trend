@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-03-2024 , 23:48:02",
+  "lastUpdate": "04-03-2024 , 23:57:26",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Russell Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
+        "pubdate": "Mon, 04 Mar 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Super Tuesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Super%20Tuesday",
         "pubdate": "Mon, 04 Mar 2024 10:00:00 -0800"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Russell Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
-        "pubdate": "Mon, 04 Mar 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Haiti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Haiti",
         "pubdate": "Mon, 04 Mar 2024 05:00:00 -0800"
@@ -69,6 +69,13 @@
         "title": "Mike Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Evans",
         "pubdate": "Mon, 04 Mar 2024 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Coinbase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coinbase",
+        "pubdate": "Mon, 04 Mar 2024 15:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jalen Brunson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jalen%20Brunson",
         "pubdate": "Sun, 03 Mar 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Ryan Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20Garcia",
-        "pubdate": "Sun, 03 Mar 2024 10:00:00 -0800"
       }
     ]
   ]
