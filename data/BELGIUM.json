@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-03-2024 , 01:44:11",
+  "lastUpdate": "04-03-2024 , 02:53:04",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Sun, 03 Mar 2024 14:00:00 +0100"
+        "title": "Genk  Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%20Club%20Brugge",
+        "pubdate": "Sun, 03 Mar 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anderlecht  Eupen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20%20Eupen",
+        "pubdate": "Sun, 03 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Sun, 03 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Sun, 03 Mar 2024 16:00:00 +0100"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
         "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Juliet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliet",
-        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
+        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "SK Beveren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SK%20Beveren",
         "pubdate": "Sun, 03 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dune film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dune%20film",
         "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Femke Bol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Femke%20Bol",
+        "pubdate": "Sun, 03 Mar 2024 02:00:00 +0100"
       }
     ]
   ]

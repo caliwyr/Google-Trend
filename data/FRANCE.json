@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-03-2024 , 01:44:14",
+  "lastUpdate": "04-03-2024 , 02:53:06",
   "data": [
     [
       {
         "title": "Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nadal",
         "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "La Rochelle – Clermont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle%20%E2%80%93%20Clermont",
+        "pubdate": "Mon, 04 Mar 2024 01:00:00 +0100"
       }
     ],
     [
@@ -40,20 +47,6 @@
       {
         "title": "Isabelle Boulay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Boulay",
-        "pubdate": "Sun, 03 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sylvie Vartan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvie%20Vartan",
-        "pubdate": "Sun, 03 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rennes – Lorient",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rennes%20%E2%80%93%20Lorient",
         "pubdate": "Sun, 03 Mar 2024 17:00:00 +0100"
       }
     ],
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
+        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jean-Luc Reichmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Luc%20Reichmann",
         "pubdate": "Sun, 03 Mar 2024 00:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marine Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
         "pubdate": "Sun, 03 Mar 2024 20:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Naples – Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Naples%20%E2%80%93%20Juventus",
-        "pubdate": "Sun, 03 Mar 2024 22:00:00 +0100"
+        "title": "Marathon Paris 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marathon%20Paris%202024",
+        "pubdate": "Sun, 03 Mar 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Darius Rochebin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Darius%20Rochebin",
+        "pubdate": "Sun, 03 Mar 2024 01:00:00 +0100"
       }
     ]
   ]
