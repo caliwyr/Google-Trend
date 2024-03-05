@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-03-2024 , 15:46:07",
+  "lastUpdate": "05-03-2024 , 15:55:26",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "International Women's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#International%20Women's%20Day",
+        "pubdate": "Tue, 05 Mar 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Broadway Across Canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Broadway%20Across%20Canada",
         "pubdate": "Tue, 05 Mar 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Claude 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Claude%203",
+        "pubdate": "Tue, 05 Mar 2024 10:00:00 -0500"
       }
     ],
     [
@@ -80,16 +94,23 @@
     ],
     [
       {
-        "title": "Rougeole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rougeole",
-        "pubdate": "Mon, 04 Mar 2024 16:00:00 -0500"
+        "title": "Jamil Jivani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jamil%20Jivani",
+        "pubdate": "Mon, 04 Mar 2024 22:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Jamil Jivani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jamil%20Jivani",
-        "pubdate": "Mon, 04 Mar 2024 22:00:00 -0500"
+        "title": "Bruins vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruins%20vs%20Maple%20Leafs",
+        "pubdate": "Mon, 04 Mar 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Rougeole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rougeole",
+        "pubdate": "Mon, 04 Mar 2024 16:00:00 -0500"
       }
     ],
     [
@@ -110,27 +131,6 @@
       {
         "title": "Josh Donaldson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Donaldson",
-        "pubdate": "Mon, 04 Mar 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nikki%20Haley",
-        "pubdate": "Mon, 04 Mar 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bruins vs Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruins%20vs%20Maple%20Leafs",
-        "pubdate": "Mon, 04 Mar 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Yuzu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yuzu",
         "pubdate": "Mon, 04 Mar 2024 16:00:00 -0500"
       }
     ],
