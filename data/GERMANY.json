@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-03-2024 , 01:05:48",
+  "lastUpdate": "05-03-2024 , 01:55:02",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
-        "pubdate": "Mon, 04 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gerhard Berger Ferrari",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhard%20Berger%20Ferrari",
         "pubdate": "Mon, 04 Mar 2024 19:00:00 +0100"
@@ -62,13 +55,6 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BTC",
         "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matthias Koeberlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matthias%20Koeberlin",
-        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,13 +94,6 @@
     ],
     [
       {
-        "title": "Werder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder",
-        "pubdate": "Sun, 03 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "RAF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RAF",
         "pubdate": "Sat, 02 Mar 2024 20:00:00 +0100"
@@ -139,6 +118,27 @@
         "title": "VfL Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
         "pubdate": "Sat, 02 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
+        "pubdate": "Fri, 01 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "UK Open Darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UK%20Open%20Darts",
+        "pubdate": "Fri, 01 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "GDL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL",
+        "pubdate": "Thu, 29 Feb 2024 18:00:00 +0100"
       }
     ]
   ]
