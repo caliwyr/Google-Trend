@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-03-2024 , 12:42:10",
+  "lastUpdate": "05-03-2024 , 12:55:46",
   "data": [
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
+        "pubdate": "Tue, 05 Mar 2024 04:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Flames",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20price",
+        "title": "Bitcoin Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20Price",
         "pubdate": "Mon, 04 Mar 2024 12:00:00 -0500"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "NHL trade deadline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NHL%20trade%20deadline",
         "pubdate": "Mon, 04 Mar 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Malaysia Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Malaysia%20Airlines",
-        "pubdate": "Mon, 04 Mar 2024 20:00:00 -0500"
       }
     ]
   ]
