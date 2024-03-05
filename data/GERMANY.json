@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-03-2024 , 13:42:44",
+  "lastUpdate": "05-03-2024 , 13:51:57",
   "data": [
+    [
+      {
+        "title": "Kate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kate",
+        "pubdate": "Tue, 05 Mar 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Aachen",
@@ -20,6 +27,13 @@
         "title": "Lufthansa Streik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lufthansa%20Streik",
         "pubdate": "Mon, 04 Mar 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marie Luise Angerer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marie%20Luise%20Angerer",
+        "pubdate": "Mon, 04 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Ross Antony",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ross%20Antony",
-        "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
+        "title": "Biggest Loser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biggest%20Loser",
+        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Biggest Loser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biggest%20Loser",
-        "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
+        "title": "Ross Antony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ross%20Antony",
+        "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Katja Riemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katja%20Riemann",
         "pubdate": "Sat, 02 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "VfL Wolfsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
-        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
-        "pubdate": "Fri, 01 Mar 2024 12:00:00 +0100"
       }
     ]
   ]
