@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-03-2024 , 23:57:27",
+  "lastUpdate": "05-03-2024 , 01:05:46",
   "data": [
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-        "pubdate": "Tue, 05 Mar 2024 08:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Sam Kerr",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikki%20Haley",
-        "pubdate": "Tue, 05 Mar 2024 10:00:00 +1100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "pubdate": "Tue, 05 Mar 2024 08:00:00 +1100"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Jason Kelce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jason%20Kelce",
         "pubdate": "Tue, 05 Mar 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Nikki Haley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikki%20Haley",
+        "pubdate": "Tue, 05 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Man City vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Man%20United",
-        "pubdate": "Mon, 04 Mar 2024 02:00:00 +1100"
+        "title": "Bitcoin price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20price",
+        "pubdate": "Mon, 04 Mar 2024 22:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Bitcoin price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20price",
-        "pubdate": "Mon, 04 Mar 2024 22:00:00 +1100"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+        "pubdate": "Mon, 04 Mar 2024 07:00:00 +1100"
       }
     ],
     [
@@ -101,6 +101,20 @@
     ],
     [
       {
+        "title": "Cranbrook School",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cranbrook%20School",
+        "pubdate": "Mon, 04 Mar 2024 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Teddy Swims",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Teddy%20Swims",
+        "pubdate": "Mon, 04 Mar 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Barry Keoghan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barry%20Keoghan",
         "pubdate": "Mon, 04 Mar 2024 19:00:00 +1100"
@@ -125,20 +139,6 @@
         "title": "The Regime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Regime",
         "pubdate": "Mon, 04 Mar 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Cranbrook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cranbrook",
-        "pubdate": "Mon, 04 Mar 2024 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "BTC price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BTC%20price",
-        "pubdate": "Mon, 04 Mar 2024 22:00:00 +1100"
       }
     ]
   ]

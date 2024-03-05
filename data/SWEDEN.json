@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-03-2024 , 23:57:35",
+  "lastUpdate": "05-03-2024 , 01:05:53",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
         "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jason Kelce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jason%20Kelce",
+        "pubdate": "Tue, 05 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Space Stockholm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Space%20Stockholm",
+        "pubdate": "Tue, 05 Mar 2024 01:00:00 +0100"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "The regime",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20regime",
+        "pubdate": "Mon, 04 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Mon, 04 Mar 2024 16:00:00 +0100"
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Henrik Larsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson",
-        "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BTC",
         "pubdate": "Mon, 04 Mar 2024 18:00:00 +0100"
@@ -80,15 +94,15 @@
     ],
     [
       {
-        "title": "Kristin Cavallari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristin%20Cavallari",
-        "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
+        "title": "Henrik Larsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson",
+        "pubdate": "Mon, 04 Mar 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kate Winslet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kate%20Winslet",
+        "title": "Kristin Cavallari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristin%20Cavallari",
         "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Ryan Garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ryan%20Garcia",
         "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sam Kendricks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sam%20Kendricks",
-        "pubdate": "Mon, 04 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bron",
-        "pubdate": "Mon, 04 Mar 2024 16:00:00 +0100"
       }
     ]
   ]
