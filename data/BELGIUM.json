@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-03-2024 , 23:43:19",
+  "lastUpdate": "05-03-2024 , 23:52:27",
   "data": [
+    [
+      {
+        "title": "Autun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Autun",
+        "pubdate": "Wed, 06 Mar 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Facebook",
@@ -80,16 +87,9 @@
     ],
     [
       {
-        "title": "Salah Abdeslam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salah%20Abdeslam",
-        "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
-        "pubdate": "Tue, 05 Mar 2024 08:00:00 +0100"
+        "title": "Super Tuesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Super%20Tuesday",
+        "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -101,9 +101,16 @@
     ],
     [
       {
-        "title": "Super Tuesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Super%20Tuesday",
-        "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
+        "title": "Salah Abdeslam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Salah%20Abdeslam",
+        "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
+        "pubdate": "Tue, 05 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bernard Arnault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Arnault",
         "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Biden",
-        "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
       }
     ]
   ]
