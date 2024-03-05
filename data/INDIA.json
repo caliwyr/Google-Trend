@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-03-2024 , 10:40:19",
+  "lastUpdate": "05-03-2024 , 10:49:37",
   "data": [
     [
       {
@@ -45,23 +45,16 @@
     ],
     [
       {
+        "title": "Aptet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aptet",
+        "pubdate": "Tue, 05 Mar 2024 10:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Revanth Reddy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Revanth%20Reddy",
         "pubdate": "Tue, 05 Mar 2024 01:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "JP Nadda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JP%20Nadda",
-        "pubdate": "Tue, 05 Mar 2024 05:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Jeff Bezos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jeff%20Bezos",
-        "pubdate": "Tue, 05 Mar 2024 13:30:00 +0530"
       }
     ],
     [
@@ -73,9 +66,16 @@
     ],
     [
       {
-        "title": "AP TET",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AP%20TET",
-        "pubdate": "Tue, 05 Mar 2024 10:30:00 +0530"
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jeff%20Bezos",
+        "pubdate": "Tue, 05 Mar 2024 13:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "JP Nadda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JP%20Nadda",
+        "pubdate": "Tue, 05 Mar 2024 05:30:00 +0530"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Sephora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sephora",
-        "pubdate": "Tue, 05 Mar 2024 09:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Arjun Modhwadia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arjun%20Modhwadia",
         "pubdate": "Tue, 05 Mar 2024 13:30:00 +0530"
@@ -108,8 +101,15 @@
     ],
     [
       {
-        "title": "AP TET 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AP%20TET%202024",
+        "title": "Sephora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sephora",
+        "pubdate": "Tue, 05 Mar 2024 09:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Samsung Galaxy F15 5G",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Samsung%20Galaxy%20F15%205G",
         "pubdate": "Tue, 05 Mar 2024 10:30:00 +0530"
       }
     ],
