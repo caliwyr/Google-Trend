@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 12:33:54",
+  "lastUpdate": "06-03-2024 , 12:51:12",
   "data": [
     [
       {
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
         "pubdate": "Tue, 05 Mar 2024 00:00:00 +0100"
       }
     ],
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
+        "pubdate": "Tue, 05 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brad Paisley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brad%20Paisley",
         "pubdate": "Tue, 05 Mar 2024 18:00:00 +0100"
@@ -97,13 +104,6 @@
         "title": "Yuzu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yuzu",
         "pubdate": "Tue, 05 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Biden",
-        "pubdate": "Tue, 05 Mar 2024 22:00:00 +0100"
       }
     ],
     [
