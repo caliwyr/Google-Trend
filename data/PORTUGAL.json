@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 07:45:03",
+  "lastUpdate": "06-03-2024 , 07:54:22",
   "data": [
     [
       {
@@ -73,22 +73,8 @@
     ],
     [
       {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Russia",
-        "pubdate": "Tue, 05 Mar 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trump",
-        "pubdate": "Tue, 05 Mar 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rita Matias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Matias",
         "pubdate": "Tue, 05 Mar 2024 00:00:00 +0000"
       }
     ],
@@ -111,6 +97,13 @@
         "title": "Riken Yamamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Riken%20Yamamoto",
         "pubdate": "Tue, 05 Mar 2024 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Russia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Russia",
+        "pubdate": "Tue, 05 Mar 2024 04:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Championship",
         "pubdate": "Tue, 05 Mar 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Pereira Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Pereira%20Santos",
+        "pubdate": "Tue, 05 Mar 2024 00:00:00 +0000"
       }
     ]
   ]

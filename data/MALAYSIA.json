@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 07:45:02",
+  "lastUpdate": "06-03-2024 , 07:54:20",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Mark Zuckerberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mark%20Zuckerberg",
+        "pubdate": "Wed, 06 Mar 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Magnum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Magnum",
         "pubdate": "Wed, 06 Mar 2024 07:00:00 +0800"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA",
-        "pubdate": "Wed, 06 Mar 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Victoria Nuland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Victoria%20Nuland",
         "pubdate": "Wed, 06 Mar 2024 10:00:00 +0800"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA",
+        "pubdate": "Wed, 06 Mar 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#News",
         "pubdate": "Wed, 06 Mar 2024 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Argylle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argylle",
+        "pubdate": "Wed, 06 Mar 2024 03:00:00 +0800"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Malaysia Airline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia%20Airline",
-        "pubdate": "Tue, 05 Mar 2024 14:00:00 +0800"
+        "title": "Nothing Phone (2a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nothing%20Phone%20(2a",
+        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Nothing Phone (2a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nothing%20Phone%20(2a",
-        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0800"
+        "title": "Malaysia Airline",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia%20Airline",
+        "pubdate": "Tue, 05 Mar 2024 14:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Isham Jalil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Isham%20Jalil",
         "pubdate": "Tue, 05 Mar 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Milan",
-        "pubdate": "Tue, 05 Mar 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Iswaran Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iswaran%20Singapore",
-        "pubdate": "Tue, 05 Mar 2024 22:00:00 +0800"
       }
     ]
   ]
