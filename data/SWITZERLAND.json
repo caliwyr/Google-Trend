@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-03-2024 , 15:44:35",
+  "lastUpdate": "06-03-2024 , 15:53:51",
   "data": [
     [
       {
         "title": "Old Swiss House",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Old%20Swiss%20House",
         "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
+        "pubdate": "Wed, 06 Mar 2024 10:00:00 +0100"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Galderma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galderma",
+        "pubdate": "Wed, 06 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
         "pubdate": "Wed, 06 Mar 2024 00:00:00 +0100"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Galderma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galderma",
-        "pubdate": "Wed, 06 Mar 2024 14:00:00 +0100"
+        "title": "Lomepal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lomepal",
+        "pubdate": "Wed, 06 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Agnes Jaoui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Agnes%20Jaoui",
         "pubdate": "Wed, 06 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lomepal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lomepal",
-        "pubdate": "Wed, 06 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Nothing Phone (2a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nothing%20Phone%20(2a",
-        "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Riken Yamamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Riken%20Yamamoto",
         "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
       }
     ]
