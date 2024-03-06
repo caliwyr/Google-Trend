@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 00:33:49",
+  "lastUpdate": "06-03-2024 , 01:33:22",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
+        "title": "Real Sociedad vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Sociedad%20vs%20PSG",
         "pubdate": "Wed, 06 Mar 2024 09:00:00 +1100"
       }
     ],
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Claude 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Claude%203",
-        "pubdate": "Wed, 06 Mar 2024 00:00:00 +1100"
+        "title": "Electric Fields",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Electric%20Fields",
+        "pubdate": "Wed, 06 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Electric Fields",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Electric%20Fields",
-        "pubdate": "Wed, 06 Mar 2024 10:00:00 +1100"
+        "title": "Claude 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Claude%203",
+        "pubdate": "Wed, 06 Mar 2024 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Garrison Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Garrison%20Brown",
+        "pubdate": "Wed, 06 Mar 2024 11:00:00 +1100"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "The National",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20National",
         "pubdate": "Wed, 06 Mar 2024 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Patty Mills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Patty%20Mills",
+        "pubdate": "Wed, 06 Mar 2024 11:00:00 +1100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "NBN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBN",
-        "pubdate": "Tue, 05 Mar 2024 15:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "NRL team lists",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20team%20lists",
         "pubdate": "Tue, 05 Mar 2024 17:00:00 +1100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "NBN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBN",
+        "pubdate": "Tue, 05 Mar 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Yuzu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Yuzu",
         "pubdate": "Tue, 05 Mar 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikki%20Haley",
-        "pubdate": "Tue, 05 Mar 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Mary and George",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mary%20and%20George",
-        "pubdate": "Tue, 05 Mar 2024 19:00:00 +1100"
       }
     ]
   ]
