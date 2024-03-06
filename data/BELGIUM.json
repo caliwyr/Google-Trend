@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 09:27:31",
+  "lastUpdate": "06-03-2024 , 09:36:44",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AI",
+        "title": "Ai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ai",
         "pubdate": "Tue, 05 Mar 2024 18:00:00 +0100"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "Mithra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mithra",
         "pubdate": "Tue, 05 Mar 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LdC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LdC",
-        "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al%20Nassr",
         "pubdate": "Tue, 05 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Celebrity MasterChef",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celebrity%20MasterChef",
-        "pubdate": "Tue, 05 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Bernard Arnault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Arnault",
         "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeff%20Bezos",
+        "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Celebrity MasterChef Vlaanderen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celebrity%20MasterChef%20Vlaanderen",
+        "pubdate": "Tue, 05 Mar 2024 08:00:00 +0100"
       }
     ]
   ]
