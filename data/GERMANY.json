@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 11:40:40",
+  "lastUpdate": "06-03-2024 , 11:49:57",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Super Tuesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Super%20Tuesday",
-        "pubdate": "Tue, 05 Mar 2024 14:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
+        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
-        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Prinzessin Kate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinzessin%20Kate",
-        "pubdate": "Tue, 05 Mar 2024 09:00:00 +0100"
+        "title": "Super Tuesday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Super%20Tuesday",
+        "pubdate": "Tue, 05 Mar 2024 14:00:00 +0100"
       }
     ],
     [
@@ -61,6 +54,13 @@
       {
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Kane",
+        "pubdate": "Tue, 05 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
         "pubdate": "Tue, 05 Mar 2024 22:00:00 +0100"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
         "pubdate": "Mon, 04 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Streik Lufthansa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Lufthansa",
-        "pubdate": "Mon, 04 Mar 2024 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Katja Riemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katja%20Riemann",
         "pubdate": "Sat, 02 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "VfL Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
+        "pubdate": "Sat, 02 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
