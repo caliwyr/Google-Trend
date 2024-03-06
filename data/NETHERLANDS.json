@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-03-2024 , 19:47:47",
+  "lastUpdate": "06-03-2024 , 19:56:56",
   "data": [
+    [
+      {
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+        "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marjan Berk",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "ASML",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
-        "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Donald%20Trump",
+        "pubdate": "Wed, 06 Mar 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
+        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -31,6 +45,20 @@
     ],
     [
       {
+        "title": "Olga Zuiderhoek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olga%20Zuiderhoek",
+        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schietpartij Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Zwolle",
+        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kasem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kasem",
         "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
@@ -41,6 +69,13 @@
         "title": "Eysing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eysing",
         "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Biden",
+        "pubdate": "Wed, 06 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -62,13 +97,6 @@
         "title": "Martijn krabbe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Martijn%20krabbe",
         "pubdate": "Tue, 05 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Donald%20Trump",
+        "title": "Nikki Haley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nikki%20Haley",
         "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
-        "pubdate": "Mon, 04 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Sun, 03 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PEC Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
-        "pubdate": "Sun, 03 Mar 2024 23:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-03-2024 , 19:47:48",
+  "lastUpdate": "06-03-2024 , 19:56:57",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Garrison Brown",
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Jason Kelce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jason%20Kelce",
-        "pubdate": "Tue, 05 Mar 2024 01:00:00 +0100"
+        "title": "Ole Ivars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ole%20Ivars",
+        "pubdate": "Tue, 05 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vegard Harm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vegard%20Harm",
         "pubdate": "Mon, 04 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bitcoin",
-        "pubdate": "Mon, 04 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
