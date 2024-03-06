@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 20:24:17",
+  "lastUpdate": "06-03-2024 , 20:33:56",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Streik Lufthansa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20Lufthansa",
-        "pubdate": "Mon, 04 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ross Antony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ross%20Antony",
         "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bahnstreik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
         "pubdate": "Sun, 03 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Big Brother",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Big%20Brother",
+        "pubdate": "Sun, 03 Mar 2024 21:00:00 +0100"
       }
     ]
   ]
