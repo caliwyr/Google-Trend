@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-03-2024 , 22:44:37",
+  "lastUpdate": "06-03-2024 , 22:54:01",
   "data": [
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "ASML",
@@ -27,6 +20,20 @@
         "title": "Boekel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boekel",
         "pubdate": "Wed, 06 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schietpartij Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Zwolle",
+        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City  Kopenhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City%20%20Kopenhagen",
+        "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Schietpartij Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schietpartij%20Zwolle",
-        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Olga Zuiderhoek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olga%20Zuiderhoek",
         "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
@@ -76,6 +76,13 @@
         "title": "Eysing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eysing",
         "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kasem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kasem",
+        "pubdate": "Wed, 06 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -94,15 +101,15 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
-        "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
+        "title": "Ancelotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ancelotti",
+        "pubdate": "Wed, 06 Mar 2024 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kasem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kasem",
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
         "pubdate": "Tue, 05 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
         "pubdate": "Mon, 04 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kees Rijvers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kees%20Rijvers",
-        "pubdate": "Mon, 04 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
