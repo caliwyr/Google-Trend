@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 20:42:20",
+  "lastUpdate": "07-03-2024 , 20:51:49",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Dafne Schippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dafne%20Schippers",
-        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robbie%20Williams",
         "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
@@ -31,9 +24,16 @@
     ],
     [
       {
+        "title": "Dafne Schippers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dafne%20Schippers",
+        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
+        "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Theo Maassen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Theo%20Maassen",
         "pubdate": "Wed, 06 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RB%20Leipzig",
-        "pubdate": "Wed, 06 Mar 2024 23:00:00 +0100"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Nikki Haley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nikki%20Haley",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Mon, 04 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "PEC Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
         "pubdate": "Sun, 03 Mar 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Parijs-Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Parijs-Nice",
+        "pubdate": "Sun, 03 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
