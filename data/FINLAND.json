@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 17:45:03",
+  "lastUpdate": "07-03-2024 , 17:54:11",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NATO",
+        "pubdate": "Thu, 07 Mar 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Paul Gascoigne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paul%20Gascoigne",
         "pubdate": "Thu, 07 Mar 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mike Tyson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mike%20Tyson",
+        "pubdate": "Thu, 07 Mar 2024 18:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "NHL trade deadline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL%20trade%20deadline",
         "pubdate": "Thu, 07 Mar 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Tyson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mike%20Tyson",
-        "pubdate": "Thu, 07 Mar 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Claude 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Claude%203",
         "pubdate": "Wed, 06 Mar 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Facebook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Facebook",
-        "pubdate": "Tue, 05 Mar 2024 18:00:00 +0200"
       }
     ]
   ]
