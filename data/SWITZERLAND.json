@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 15:40:43",
+  "lastUpdate": "07-03-2024 , 15:50:00",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Anne Hathaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Hathaway",
+        "pubdate": "Thu, 07 Mar 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RB%20Leipzig",
         "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
@@ -52,9 +59,30 @@
     ],
     [
       {
+        "title": "Engadin Skimarathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Engadin%20Skimarathon",
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Frauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frauentag",
         "pubdate": "Thu, 07 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Noah Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Noah%20Cyrus",
+        "pubdate": "Thu, 07 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karine Le Marchand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karine%20Le%20Marchand",
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Baywatch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baywatch",
         "pubdate": "Wed, 06 Mar 2024 10:00:00 +0100"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
-        "pubdate": "Wed, 06 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DAZN",
         "pubdate": "Wed, 06 Mar 2024 19:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Gal Gadot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gal%20Gadot",
-        "pubdate": "Wed, 06 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nemo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nemo",
-        "pubdate": "Wed, 06 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Corona-Impfung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Corona-Impfung",
-        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0100"
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Wed, 06 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
