@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-03-2024 , 23:44:17",
+  "lastUpdate": "07-03-2024 , 23:53:32",
   "data": [
+    [
+      {
+        "title": "Fast And Furious",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fast%20And%20Furious",
+        "pubdate": "Fri, 08 Mar 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Anne Wünsche",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "EZB Leitzinsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB%20Leitzinsen",
-        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bäckerei Hartkirchen Explosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%A4ckerei%20Hartkirchen%20Explosion",
-        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
+        "title": "EZB Leitzinsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB%20Leitzinsen",
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
+        "title": "Bäckerei Hartkirchen Explosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%A4ckerei%20Hartkirchen%20Explosion",
+        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Rust Waffenmeisterin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rust%20Waffenmeisterin",
         "pubdate": "Thu, 07 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grundlsee Leiche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grundlsee%20Leiche",
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafael%20Nadal",
-        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mike Tyson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mike%20Tyson",
         "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Gal Gadot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gal%20Gadot",
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafael%20Nadal",
         "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "American Staffordshire Terrier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#American%20Staffordshire%20Terrier",
-        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Grundlsee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grundlsee",
-        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Ralf Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ralf%20Schumacher",
-        "pubdate": "Thu, 07 Mar 2024 19:00:00 +0100"
+        "title": "American Staffordshire Terrier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#American%20Staffordshire%20Terrier",
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gal Gadot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gal%20Gadot",
+        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
       }
     ]
   ]
