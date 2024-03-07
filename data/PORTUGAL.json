@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-03-2024 , 01:52:18",
+  "lastUpdate": "07-03-2024 , 02:07:01",
   "data": [
+    [
+      {
+        "title": "SEF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SEF",
+        "pubdate": "Thu, 07 Mar 2024 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Jose Pedro Vasconcelos",
@@ -12,7 +19,7 @@
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid",
-        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0000"
+        "pubdate": "Wed, 06 Mar 2024 00:00:00 +0000"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Carolina Patrocínio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carolina%20Patroc%C3%ADnio",
+        "pubdate": "Wed, 06 Mar 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Ricardo araujo Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ricardo%20araujo%20Pereira",
         "pubdate": "Wed, 06 Mar 2024 00:00:00 +0000"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Carolina Patrocínio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carolina%20Patroc%C3%ADnio",
-        "pubdate": "Wed, 06 Mar 2024 18:00:00 +0000"
+        "title": "Inês Aguiar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#In%C3%AAs%20Aguiar",
+        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0000"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "iOS 17.4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#iOS%2017.4",
         "pubdate": "Wed, 06 Mar 2024 02:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Inês Aguiar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#In%C3%AAs%20Aguiar",
-        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0000"
       }
     ],
     [
@@ -115,9 +122,16 @@
     ],
     [
       {
-        "title": "Antena 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
-        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0000"
+        "title": "Quim Barreiros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quim%20Barreiros",
+        "pubdate": "Wed, 06 Mar 2024 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "KM 224",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#KM%20224",
+        "pubdate": "Wed, 06 Mar 2024 23:00:00 +0000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Matheus Nunes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matheus%20Nunes",
         "pubdate": "Wed, 06 Mar 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Gabriel garcia marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gabriel%20garcia%20marquez",
-        "pubdate": "Wed, 06 Mar 2024 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Goucha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goucha",
-        "pubdate": "Wed, 06 Mar 2024 16:00:00 +0000"
       }
     ]
   ]

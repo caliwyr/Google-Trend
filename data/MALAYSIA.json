@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 01:52:16",
+  "lastUpdate": "07-03-2024 , 02:06:59",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mark%20Zuckerberg",
-        "pubdate": "Wed, 06 Mar 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Victoria Nuland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Victoria%20Nuland",
         "pubdate": "Wed, 06 Mar 2024 10:00:00 +0800"
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "Bohemian Grove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bohemian%20Grove",
-        "pubdate": "Wed, 06 Mar 2024 12:00:00 +0800"
+        "title": "Isa Samad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Isa%20Samad",
+        "pubdate": "Wed, 06 Mar 2024 14:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Isa Samad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Isa%20Samad",
-        "pubdate": "Wed, 06 Mar 2024 14:00:00 +0800"
+        "title": "Bohemian Grove",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bohemian%20Grove",
+        "pubdate": "Wed, 06 Mar 2024 12:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Champions%20League",
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
         "pubdate": "Tue, 05 Mar 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sheffield United vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sheffield%20United%20vs%20Arsenal",
+        "pubdate": "Tue, 05 Mar 2024 04:00:00 +0800"
       }
     ]
   ]

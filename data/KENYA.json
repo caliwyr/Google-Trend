@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 01:52:16",
+  "lastUpdate": "07-03-2024 , 02:06:59",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "TSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#TSC",
         "pubdate": "Wed, 06 Mar 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid",
+        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Facebook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Facebook",
-        "pubdate": "Tue, 05 Mar 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Man City vs Copenhagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Copenhagen",
-        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0300"
+        "pubdate": "Tue, 05 Mar 2024 09:00:00 +0300"
       }
     ]
   ]
