@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 23:58:33",
+  "lastUpdate": "07-03-2024 , 01:00:40",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "ASML",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ASML",
-        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ancelotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ancelotti",
         "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
@@ -38,15 +31,15 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
-        "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ASML",
+        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Real Madrid – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20RB%20Leipzig",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
         "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Autun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Autun",
         "pubdate": "Wed, 06 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "iOS 17.4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#iOS%2017.4",
+        "pubdate": "Wed, 06 Mar 2024 10:00:00 +0100"
       }
     ]
   ]
