@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 03:41:46",
+  "lastUpdate": "07-03-2024 , 03:51:13",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Snooker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Snooker",
+        "pubdate": "Wed, 06 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Garrison Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Garrison%20Brown",
         "pubdate": "Wed, 06 Mar 2024 10:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Autun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Autun",
         "pubdate": "Wed, 06 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "iOS 17.4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#iOS%2017.4",
-        "pubdate": "Wed, 06 Mar 2024 10:00:00 +0100"
       }
     ]
   ]
