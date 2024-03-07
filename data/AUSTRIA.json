@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-03-2024 , 07:47:39",
+  "lastUpdate": "07-03-2024 , 07:56:50",
   "data": [
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20City",
-        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Anne Wünsche",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City",
+        "pubdate": "Thu, 07 Mar 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Aktenzeichen XY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aktenzeichen%20XY",
         "pubdate": "Thu, 07 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafael%20Nadal",
+        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafael%20Nadal",
-        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nadal",
+        "pubdate": "Thu, 07 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Feller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Feller",
-        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
+        "title": "Bäckerei Hartkirchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%A4ckerei%20Hartkirchen",
+        "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bäckerei Hartkirchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%A4ckerei%20Hartkirchen",
-        "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
+        "title": "Feller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Feller",
+        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Aneta Sablik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aneta%20Sablik",
         "pubdate": "Wed, 06 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sepp Ladinig Mölltaler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sepp%20Ladinig%20M%C3%B6lltaler",
-        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Malakoff-Torte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Malakoff-Torte",
+        "title": "14-jähriges Mädchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#14-j%C3%A4hriges%20M%C3%A4dchen",
         "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "14-jähriges Mädchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#14-j%C3%A4hriges%20M%C3%A4dchen",
+        "title": "Malakoff-Torte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Malakoff-Torte",
         "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
       }
     ]
