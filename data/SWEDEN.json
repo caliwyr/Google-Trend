@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-03-2024 , 10:45:55",
+  "lastUpdate": "07-03-2024 , 10:55:06",
   "data": [
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+        "pubdate": "Thu, 07 Mar 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Brand Norrköping",
@@ -20,6 +27,13 @@
         "title": "May December",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20December",
         "pubdate": "Thu, 07 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Woke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Woke",
+        "pubdate": "Thu, 07 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Garrison Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Garrison%20Brown",
-        "pubdate": "Wed, 06 Mar 2024 08:00:00 +0100"
+        "title": "Amerikanska bombplan Stockholm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amerikanska%20bombplan%20Stockholm",
+        "pubdate": "Wed, 06 Mar 2024 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Amerikanska bombplan Stockholm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amerikanska%20bombplan%20Stockholm",
-        "pubdate": "Wed, 06 Mar 2024 16:00:00 +0100"
+        "title": "Garrison Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Garrison%20Brown",
+        "pubdate": "Wed, 06 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "SDHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SDHL",
+        "title": "GW Persson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GW%20Persson",
         "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Facebook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Facebook",
-        "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
-        "pubdate": "Tue, 05 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
