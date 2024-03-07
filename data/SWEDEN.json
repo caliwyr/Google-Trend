@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-03-2024 , 14:44:17",
+  "lastUpdate": "07-03-2024 , 14:53:33",
   "data": [
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
+        "pubdate": "Thu, 07 Mar 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Brand Norrköping",
@@ -34,13 +41,6 @@
         "title": "May December",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#May%20December",
         "pubdate": "Thu, 07 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Leif GW Persson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leif%20GW%20Persson",
-        "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Leif GW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leif%20GW",
+        "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sophiahemmet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sophiahemmet",
         "pubdate": "Wed, 06 Mar 2024 20:00:00 +0100"
@@ -104,13 +111,6 @@
         "title": "Anders Borg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Borg",
         "pubdate": "Wed, 06 Mar 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NPF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NPF",
-        "pubdate": "Wed, 06 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Oxen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oxen",
-        "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
+        "title": "Facebook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Facebook",
+        "pubdate": "Tue, 05 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
