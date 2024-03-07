@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-03-2024 , 06:46:29",
+  "lastUpdate": "07-03-2024 , 06:55:58",
   "data": [
-    [
-      {
-        "title": "Tirreno-Adriatico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tirreno-Adriatico",
-        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Matteo Arnaldi",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Tirreno-Adriatico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tirreno-Adriatico",
+        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lincoln film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lincoln%20film",
         "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rafael%20Nadal",
+        "pubdate": "Thu, 07 Mar 2024 07:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Sergio Mattarella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sergio%20Mattarella",
-        "pubdate": "Wed, 06 Mar 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Padova-Vicenza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Padova-Vicenza",
         "pubdate": "Wed, 06 Mar 2024 22:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Voglia di ricominciare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Voglia%20di%20ricominciare",
-        "pubdate": "Wed, 06 Mar 2024 21:00:00 +0100"
+        "title": "Sergio Mattarella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sergio%20Mattarella",
+        "pubdate": "Wed, 06 Mar 2024 03:00:00 +0100"
       }
     ]
   ]
