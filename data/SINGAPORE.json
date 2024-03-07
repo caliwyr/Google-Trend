@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2024 , 11:47:09",
+  "lastUpdate": "07-03-2024 , 11:56:25",
   "data": [
     [
       {
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
-        "pubdate": "Wed, 06 Mar 2024 06:00:00 +0800"
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
+        "pubdate": "Wed, 06 Mar 2024 02:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Koma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Koma",
-        "pubdate": "Wed, 06 Mar 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Messenger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Messenger",
         "pubdate": "Wed, 06 Mar 2024 12:00:00 +0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Mary and George",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mary%20and%20George",
-        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0800"
+        "title": "Face",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Face",
+        "pubdate": "Wed, 06 Mar 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
+        "pubdate": "Tue, 05 Mar 2024 23:00:00 +0800"
       }
     ]
   ]
