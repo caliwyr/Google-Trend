@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-03-2024 , 07:46:26",
+  "lastUpdate": "08-03-2024 , 07:55:40",
   "data": [
     [
       {
@@ -33,7 +33,7 @@
       {
         "title": "ISS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ISS",
-        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
+        "pubdate": "Thu, 07 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Von der Leyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
-        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Internationaler Frauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Internationaler%20Frauentag",
         "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
@@ -73,9 +66,30 @@
     ],
     [
       {
+        "title": "Von der Leyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
+        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lang Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lang%20Lang",
+        "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "UEFA Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Europa%20League",
         "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "8 märz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#8%20m%C3%A4rz",
+        "pubdate": "Thu, 07 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
-        "pubdate": "Tue, 05 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tesla",
-        "pubdate": "Tue, 05 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Super Tuesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Super%20Tuesday",
-        "pubdate": "Tue, 05 Mar 2024 14:00:00 +0100"
+        "title": "Rheinland-Pfalz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinland-Pfalz",
+        "pubdate": "Wed, 06 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
