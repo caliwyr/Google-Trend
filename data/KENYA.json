@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-03-2024 , 23:44:35",
+  "lastUpdate": "08-03-2024 , 23:53:45",
   "data": [
     [
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
         "pubdate": "Sat, 09 Mar 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nice",
+        "pubdate": "Sat, 09 Mar 2024 02:00:00 +0300"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Mother's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mother's%20Day",
+        "title": "Mothers Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mothers%20Day",
         "pubdate": "Fri, 08 Mar 2024 09:00:00 +0300"
       }
     ],
@@ -115,16 +122,9 @@
     ],
     [
       {
-        "title": "Ezra Chiloba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ezra%20Chiloba",
-        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton",
-        "pubdate": "Fri, 08 Mar 2024 00:00:00 +0300"
+        "title": "Sheffield Wednesday vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sheffield%20Wednesday%20vs%20Leeds",
+        "pubdate": "Fri, 08 Mar 2024 19:00:00 +0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Chelsea Women",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20Women",
-        "pubdate": "Fri, 08 Mar 2024 00:00:00 +0300"
+        "title": "Ezra Chiloba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ezra%20Chiloba",
+        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0300"
       }
     ]
   ]
