@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-03-2024 , 03:42:55",
+  "lastUpdate": "08-03-2024 , 03:52:10",
   "data": [
     [
       {
         "title": "Barrhaven",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barrhaven",
         "pubdate": "Thu, 07 Mar 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Toronto Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
-        "pubdate": "Thu, 07 Mar 2024 06:00:00 -0500"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Jan Mysak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jan%20Mysak",
         "pubdate": "Thu, 07 Mar 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Joel Edmundson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joel%20Edmundson",
+        "pubdate": "Thu, 07 Mar 2024 12:00:00 -0500"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Cade Webber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cade%20Webber",
-        "pubdate": "Thu, 07 Mar 2024 18:00:00 -0500"
+        "title": "State of the Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#State%20of%20the%20Union",
+        "pubdate": "Thu, 07 Mar 2024 19:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Colorado Avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
-        "pubdate": "Thu, 07 Mar 2024 11:00:00 -0500"
+        "title": "Cade Webber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cade%20Webber",
+        "pubdate": "Thu, 07 Mar 2024 18:00:00 -0500"
       }
     ],
     [
@@ -73,6 +73,20 @@
     ],
     [
       {
+        "title": "Colorado Avalanche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
+        "pubdate": "Thu, 07 Mar 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
+        "pubdate": "Thu, 07 Mar 2024 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ngannou vs Joshua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ngannou%20vs%20Joshua",
         "pubdate": "Thu, 07 Mar 2024 14:00:00 -0500"
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Victor Dotsenko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Victor%20Dotsenko",
-        "pubdate": "Thu, 07 Mar 2024 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "State of the Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#State%20of%20the%20Union",
-        "pubdate": "Thu, 07 Mar 2024 19:00:00 -0500"
+        "title": "Ricky Stanicky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ricky%20Stanicky",
+        "pubdate": "Thu, 07 Mar 2024 10:00:00 -0500"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Ricky Stanicky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ricky%20Stanicky",
-        "pubdate": "Thu, 07 Mar 2024 10:00:00 -0500"
+        "title": "Victor Dotsenko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Victor%20Dotsenko",
+        "pubdate": "Thu, 07 Mar 2024 01:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
         "pubdate": "Thu, 07 Mar 2024 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Maple Leafs vs Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Bruins",
-        "pubdate": "Thu, 07 Mar 2024 20:00:00 -0500"
       }
     ]
   ]
