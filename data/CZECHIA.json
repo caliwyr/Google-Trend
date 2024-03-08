@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-03-2024 , 02:46:03",
+  "lastUpdate": "08-03-2024 , 02:55:30",
   "data": [
     [
       {
@@ -26,7 +26,14 @@
       {
         "title": "ČT Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20Sport",
-        "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+        "pubdate": "Thu, 07 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+        "pubdate": "Thu, 07 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "SK Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
-        "pubdate": "Thu, 07 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "LP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LP",
         "pubdate": "Thu, 07 Mar 2024 11:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Tomas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tomas",
-        "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen",
         "pubdate": "Thu, 07 Mar 2024 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Kristen Stewart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kristen%20Stewart",
         "pubdate": "Thu, 07 Mar 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "HC Olomouc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Olomouc",
+        "pubdate": "Thu, 07 Mar 2024 00:00:00 +0100"
       }
     ]
   ]
