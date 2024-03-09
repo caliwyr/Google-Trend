@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 11:42:16",
+  "lastUpdate": "09-03-2024 , 11:51:28",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Collingwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
+        "pubdate": "Sat, 09 Mar 2024 21:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "GOLD COAST vs RICHMOND",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GOLD%20COAST%20vs%20RICHMOND",
         "pubdate": "Sat, 09 Mar 2024 17:00:00 +1100"
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Collingwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
-        "pubdate": "Sat, 09 Mar 2024 21:00:00 +1100"
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MotoGP",
+        "pubdate": "Sat, 09 Mar 2024 01:00:00 +1100"
       }
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MotoGP",
-        "pubdate": "Sat, 09 Mar 2024 01:00:00 +1100"
+        "title": "Spanian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spanian",
+        "pubdate": "Sat, 09 Mar 2024 19:00:00 +1100"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Dragon Ball Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dragon%20Ball%20Z",
-        "pubdate": "Sat, 09 Mar 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Saudi Arabia F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Saudi%20Arabia%20F1",
         "pubdate": "Sat, 09 Mar 2024 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Spanian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spanian",
-        "pubdate": "Sat, 09 Mar 2024 19:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Madonna",
         "pubdate": "Sat, 09 Mar 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Richmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Richmond",
+        "pubdate": "Sat, 09 Mar 2024 19:00:00 +1100"
       }
     ]
   ]

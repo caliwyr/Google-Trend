@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 11:42:23",
+  "lastUpdate": "09-03-2024 , 11:51:36",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Carta de condução",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carta%20de%20condu%C3%A7%C3%A3o",
+        "pubdate": "Sat, 09 Mar 2024 10:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
         "pubdate": "Fri, 08 Mar 2024 18:00:00 +0000"
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "Estrela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela",
+        "title": "Morreu atriz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morreu%20atriz",
         "pubdate": "Fri, 08 Mar 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Porto FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20FC",
+        "pubdate": "Fri, 08 Mar 2024 21:00:00 +0000"
       }
     ],
     [
       {
         "title": "SIC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC",
-        "pubdate": "Fri, 08 Mar 2024 12:00:00 +0000"
+        "pubdate": "Fri, 08 Mar 2024 19:00:00 +0000"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Mulheres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mulheres",
-        "pubdate": "Fri, 08 Mar 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Casa Pia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casa%20Pia",
         "pubdate": "Fri, 08 Mar 2024 21:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Serra da Estrela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serra%20da%20Estrela",
         "pubdate": "Fri, 08 Mar 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Flores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flores",
-        "pubdate": "Fri, 08 Mar 2024 09:00:00 +0000"
       }
     ]
   ]
