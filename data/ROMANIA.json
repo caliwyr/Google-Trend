@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 06:51:11",
+  "lastUpdate": "09-03-2024 , 07:00:19",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "CFR Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj",
-        "pubdate": "Fri, 08 Mar 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Petrolul - Sepsi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20-%20Sepsi",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20League",
-        "pubdate": "Fri, 08 Mar 2024 15:00:00 +0200"
       }
     ],
     [
@@ -52,6 +38,20 @@
     ],
     [
       {
+        "title": "CFR Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj",
+        "pubdate": "Fri, 08 Mar 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20League",
+        "pubdate": "Fri, 08 Mar 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Flori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori",
         "pubdate": "Fri, 08 Mar 2024 09:00:00 +0200"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Botoşani  - Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boto%C5%9Fani%20%20-%20Farul%20Constan%C8%9Ba",
-        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0200"
+        "title": "Barcelona - Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Mallorca",
+        "pubdate": "Fri, 08 Mar 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Barcelona - Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Mallorca",
-        "pubdate": "Fri, 08 Mar 2024 22:00:00 +0200"
+        "title": "Botoşani  - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boto%C5%9Fani%20%20-%20Farul%20Constan%C8%9Ba",
+        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Damsel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Damsel",
         "pubdate": "Fri, 08 Mar 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "pubdate": "Fri, 08 Mar 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Adam Sandler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adam%20Sandler",
         "pubdate": "Fri, 08 Mar 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Titanic",
-        "pubdate": "Fri, 08 Mar 2024 22:00:00 +0200"
       }
     ]
   ]
