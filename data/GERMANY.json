@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 13:52:30",
+  "lastUpdate": "09-03-2024 , 14:07:41",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Dragon Ball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dragon%20Ball",
+        "title": "Akira Toriyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Akira%20Toriyama",
         "pubdate": "Fri, 08 Mar 2024 06:00:00 +0100"
       }
     ],
@@ -38,23 +38,16 @@
     ],
     [
       {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortnite",
-        "pubdate": "Fri, 08 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hellofresh-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hellofresh-Aktie",
-        "pubdate": "Fri, 08 Mar 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Helmut Marko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helmut%20Marko",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Fri, 08 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "ISS Batterieblock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ISS%20Batterieblock",
-        "pubdate": "Thu, 07 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Frauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frauentag",
         "pubdate": "Thu, 07 Mar 2024 13:00:00 +0100"
@@ -87,9 +73,16 @@
     ],
     [
       {
-        "title": "SC Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
-        "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+        "title": "Weltraumschrott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weltraumschrott",
+        "pubdate": "Thu, 07 Mar 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ISS Batterieblock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ISS%20Batterieblock",
+        "pubdate": "Thu, 07 Mar 2024 14:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Europa Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20Conference%20League",
         "pubdate": "Thu, 07 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
+        "pubdate": "Wed, 06 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
