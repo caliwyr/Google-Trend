@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-03-2024 , 21:45:35",
+  "lastUpdate": "09-03-2024 , 21:55:05",
   "data": [
+    [
+      {
+        "title": "Arsenal vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Brentford",
+        "pubdate": "Sun, 10 Mar 2024 07:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Six Nations",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal vs Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Brentford",
-        "pubdate": "Sun, 10 Mar 2024 07:00:00 +1100"
+        "title": "6 Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#6%20Nations",
+        "pubdate": "Sun, 10 Mar 2024 05:00:00 +1100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Ricky Stanicky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ricky%20Stanicky",
-        "pubdate": "Sat, 09 Mar 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Collingwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
         "pubdate": "Sat, 09 Mar 2024 21:00:00 +1100"
@@ -55,13 +55,6 @@
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#George%20Santos",
         "pubdate": "Sat, 09 Mar 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Gold Coast vs Richmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20vs%20Richmond",
-        "pubdate": "Sat, 09 Mar 2024 17:00:00 +1100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Spanian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spanian",
-        "pubdate": "Sat, 09 Mar 2024 19:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
         "pubdate": "Sat, 09 Mar 2024 23:00:00 +1100"
@@ -139,6 +125,20 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
         "pubdate": "Sat, 09 Mar 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Madonna",
+        "pubdate": "Sat, 09 Mar 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Richmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Richmond",
+        "pubdate": "Sat, 09 Mar 2024 19:00:00 +1100"
       }
     ]
   ]
