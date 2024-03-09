@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 02:48:37",
+  "lastUpdate": "09-03-2024 , 02:57:48",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Fauve Hautot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fauve%20Hautot",
         "pubdate": "Sat, 09 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
+        "pubdate": "Sat, 09 Mar 2024 03:00:00 +0100"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Van Hool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Hool",
-        "pubdate": "Fri, 08 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Beerschot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
-        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
+        "title": "Van Hool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Hool",
+        "pubdate": "Fri, 08 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
-        "pubdate": "Fri, 08 Mar 2024 00:00:00 +0100"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joe%20Biden",
+        "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Vladimir Poetin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vladimir%20Poetin",
-        "pubdate": "Fri, 08 Mar 2024 22:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Fri, 08 Mar 2024 00:00:00 +0100"
       }
     ]
   ]
