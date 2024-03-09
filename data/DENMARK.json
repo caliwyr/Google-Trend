@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2024 , 03:47:32",
+  "lastUpdate": "09-03-2024 , 03:56:56",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Barcelona - Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20-%20Mallorca",
+        "title": "Barcelona  Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Mallorca",
         "pubdate": "Fri, 08 Mar 2024 21:00:00 +0100"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Killing it",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Killing%20it",
-        "pubdate": "Fri, 08 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Who Run The World",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Who%20Run%20The%20World",
         "pubdate": "Fri, 08 Mar 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Feminist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Feminist",
         "pubdate": "Fri, 08 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Metro",
+        "pubdate": "Fri, 08 Mar 2024 13:00:00 +0100"
       }
     ]
   ]
