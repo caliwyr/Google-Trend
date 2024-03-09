@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "09-03-2024 , 05:48:00",
+  "lastUpdate": "09-03-2024 , 05:57:21",
   "data": [
     [
       {
-        "title": "Dragon Ball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dragon%20Ball",
+        "title": "Akira Toriyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Akira%20Toriyama",
         "pubdate": "Fri, 08 Mar 2024 06:00:00 +0100"
       }
     ],
@@ -27,13 +27,6 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortnite",
-        "pubdate": "Fri, 08 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Ochtrup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ochtrup",
-        "pubdate": "Fri, 08 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Natalie Portman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Natalie%20Portman",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "SC Freiburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SC%20Freiburg",
         "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%20Leverkusen",
+        "pubdate": "Thu, 07 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Internationaler Frauentag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Internationaler%20Frauentag",
+        "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
