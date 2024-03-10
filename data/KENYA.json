@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-03-2024 , 10:45:55",
+  "lastUpdate": "10-03-2024 , 10:55:21",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Man United vs Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Everton",
         "pubdate": "Sat, 09 Mar 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
+        "pubdate": "Sat, 09 Mar 2024 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Herbert Wigwe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Herbert%20Wigwe",
         "pubdate": "Sat, 09 Mar 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bristol City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City",
-        "pubdate": "Sat, 09 Mar 2024 11:00:00 +0300"
       }
     ]
   ]
