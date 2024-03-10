@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-03-2024 , 00:38:44",
+  "lastUpdate": "10-03-2024 , 01:39:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Catanzaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro",
         "pubdate": "Sun, 10 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Novak%20Djokovic",
+        "pubdate": "Sun, 10 Mar 2024 01:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Sassuolo  Frosinone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo%20%20Frosinone",
-        "pubdate": "Sat, 09 Mar 2024 15:00:00 +0100"
+        "title": "Genoa-Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa-Monza",
+        "pubdate": "Sat, 09 Mar 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Genoa-Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa-Monza",
-        "pubdate": "Sat, 09 Mar 2024 20:00:00 +0100"
+        "title": "Sassuolo  Frosinone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo%20%20Frosinone",
+        "pubdate": "Sat, 09 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "GP Arabia Saudita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#GP%20Arabia%20Saudita",
+        "title": "Gp Arabia Saudita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gp%20Arabia%20Saudita",
         "pubdate": "Sat, 09 Mar 2024 11:00:00 +0100"
       }
     ],
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Luis Sal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luis%20Sal",
-        "pubdate": "Sat, 09 Mar 2024 14:00:00 +0100"
+        "title": "Pellegrini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pellegrini",
+        "pubdate": "Sat, 09 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Lorenzo Pellegrini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Pellegrini",
-        "pubdate": "Sat, 09 Mar 2024 22:00:00 +0100"
+        "title": "Frosinone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frosinone",
+        "pubdate": "Sat, 09 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bernardo Lanzetti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bernardo%20Lanzetti",
         "pubdate": "Sat, 09 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cadice  atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cadice%20%20atl%C3%A9tico%20Madrid",
-        "pubdate": "Sat, 09 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
