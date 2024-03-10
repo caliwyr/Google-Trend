@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-03-2024 , 03:47:08",
+  "lastUpdate": "10-03-2024 , 03:56:22",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Haute-Loire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haute-Loire",
-        "pubdate": "Sat, 09 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Simone Veil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Simone%20Veil",
         "pubdate": "Sat, 09 Mar 2024 01:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United",
         "pubdate": "Sat, 09 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ASSE - Auxerre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE%20-%20Auxerre",
+        "pubdate": "Sat, 09 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
