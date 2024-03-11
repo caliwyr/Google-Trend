@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-03-2024 , 05:48:13",
+  "lastUpdate": "11-03-2024 , 05:57:47",
   "data": [
+    [
+      {
+        "title": "Flat White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flat%20White",
+        "pubdate": "Mon, 11 Mar 2024 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ryan Gosling",
@@ -17,23 +24,16 @@
     ],
     [
       {
-        "title": "Al Pacino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al%20Pacino",
-        "pubdate": "Mon, 11 Mar 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Insomnia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Insomnia",
-        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Robert Downey Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robert%20Downey%20Jr",
         "pubdate": "Mon, 11 Mar 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al Pacino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Al%20Pacino",
+        "pubdate": "Mon, 11 Mar 2024 04:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oppenheimer",
-        "pubdate": "Sun, 10 Mar 2024 11:00:00 +0100"
+        "title": "Ramadan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ramadan",
+        "pubdate": "Sun, 10 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Oscar Nominierungen 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oscar%20Nominierungen%202024",
+        "pubdate": "Sun, 10 Mar 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool gegen Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Man%20City",
         "pubdate": "Sun, 10 Mar 2024 16:00:00 +0100"
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Vermisste Skitourengänger Zermatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vermisste%20Skitoureng%C3%A4nger%20Zermatt",
+        "title": "Arolla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arolla",
         "pubdate": "Sun, 10 Mar 2024 16:00:00 +0100"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+        "pubdate": "Sun, 10 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen gegen Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20gegen%20Wolfsburg",
         "pubdate": "Sun, 10 Mar 2024 20:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Sun, 10 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid – Celta Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20%E2%80%93%20Celta%20Vigo",
-        "pubdate": "Sun, 10 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Sun, 10 Mar 2024 02:00:00 +0100"
       }
     ]
   ]
