@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-03-2024 , 07:57:33",
+  "lastUpdate": "11-03-2024 , 08:19:34",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Brad Binder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brad%20Binder",
         "pubdate": "Mon, 11 Mar 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Peanut butter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Peanut%20butter",
+        "pubdate": "Mon, 11 Mar 2024 09:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,20 @@
     ],
     [
       {
+        "title": "Ramadan 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ramadan%202024",
+        "pubdate": "Sun, 10 Mar 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mother's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mother's%20Day",
+        "pubdate": "Sun, 10 Mar 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dani Alves news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dani%20Alves%20news",
         "pubdate": "Sun, 10 Mar 2024 07:00:00 +0200"
@@ -108,8 +129,8 @@
     ],
     [
       {
-        "title": "Ramadan 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ramadan%202024",
+        "title": "Oscars 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Oscars%202024",
         "pubdate": "Sun, 10 Mar 2024 20:00:00 +0200"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
         "pubdate": "Sun, 10 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Juventus vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus%20vs%20Atalanta",
-        "pubdate": "Sun, 10 Mar 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-        "pubdate": "Sun, 10 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oscars 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Oscars%202024",
-        "pubdate": "Sun, 10 Mar 2024 20:00:00 +0200"
       }
     ]
   ]
