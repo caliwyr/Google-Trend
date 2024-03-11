@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-03-2024 , 10:58:35",
+  "lastUpdate": "11-03-2024 , 11:16:38",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Noticias Rosario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Noticias%20Rosario",
+        "pubdate": "Mon, 11 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Scorsese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Scorsese",
         "pubdate": "Mon, 11 Mar 2024 02:00:00 -0300"
@@ -117,7 +124,7 @@
       {
         "title": "La sociedad de la nieve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20sociedad%20de%20la%20nieve",
-        "pubdate": "Sun, 10 Mar 2024 22:00:00 -0300"
+        "pubdate": "Sun, 10 Mar 2024 20:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Godoy Cruz  Newell's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Godoy%20Cruz%20%20Newell's",
         "pubdate": "Sun, 10 Mar 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rosario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario",
-        "pubdate": "Sun, 10 Mar 2024 15:00:00 -0300"
       }
     ]
   ]

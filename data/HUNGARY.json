@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-03-2024 , 10:58:40",
+  "lastUpdate": "11-03-2024 , 11:16:44",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "John Cena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Cena",
         "pubdate": "Mon, 11 Mar 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Downey Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20Downey%20Jr",
+        "pubdate": "Mon, 11 Mar 2024 02:00:00 +0100"
       }
     ],
     [
@@ -80,9 +87,23 @@
     ],
     [
       {
+        "title": "Betis–villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Betis%E2%80%93villarreal",
+        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Al Pacino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Pacino",
         "pubdate": "Mon, 11 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kovács Dániel Richárd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20D%C3%A1niel%20Rich%C3%A1rd",
+        "pubdate": "Mon, 11 Mar 2024 07:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Real madrid–celta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93celta",
         "pubdate": "Sun, 10 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zalaegerszeg–mtk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalaegerszeg%E2%80%93mtk",
-        "pubdate": "Sun, 10 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fehér Anna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9r%20Anna",
-        "pubdate": "Sun, 10 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marilyn Manson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marilyn%20Manson",
-        "pubdate": "Sun, 10 Mar 2024 00:00:00 +0100"
       }
     ]
   ]
