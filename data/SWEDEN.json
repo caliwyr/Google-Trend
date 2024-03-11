@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-03-2024 , 11:55:05",
+  "lastUpdate": "11-03-2024 , 12:20:39",
   "data": [
+    [
+      {
+        "title": "Oscars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscars",
+        "pubdate": "Mon, 11 Mar 2024 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Young Royals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Young%20Royals",
         "pubdate": "Mon, 11 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Greta%20Thunberg",
+        "pubdate": "Mon, 11 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Portugal",
-        "pubdate": "Sun, 10 Mar 2024 23:00:00 +0100"
+        "title": "Leif andree",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leif%20andree",
+        "pubdate": "Sun, 10 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
         "pubdate": "Sun, 10 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UFC 300",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20300",
-        "pubdate": "Sun, 10 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Medina Melodifestivalen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Medina%20Melodifestivalen",
-        "pubdate": "Sun, 10 Mar 2024 22:00:00 +0100"
       }
     ]
   ]

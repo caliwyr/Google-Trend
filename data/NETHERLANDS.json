@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-03-2024 , 11:55:02",
+  "lastUpdate": "11-03-2024 , 12:20:36",
   "data": [
     [
       {
         "title": "AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kate%20Middleton",
+        "pubdate": "Mon, 11 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "PEC  Volendam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20%20Volendam",
-        "pubdate": "Sun, 10 Mar 2024 15:00:00 +0100"
+        "title": "Holocaustmuseum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Holocaustmuseum",
+        "pubdate": "Sun, 10 Mar 2024 13:00:00 +0100"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Nationaal Holocaustmuseum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Holocaustmuseum",
-        "pubdate": "Sun, 10 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Azewijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Azewijn",
-        "pubdate": "Sun, 10 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fortuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna",
         "pubdate": "Sun, 10 Mar 2024 17:00:00 +0100"
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Marijke Groenewoud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijke%20Groenewoud",
+        "title": "Marijke groenewoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijke%20groenewoud",
         "pubdate": "Sun, 10 Mar 2024 18:00:00 +0100"
       }
     ],
@@ -104,13 +97,6 @@
         "title": "Joy Beune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joy%20Beune",
         "pubdate": "Sat, 09 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ben Saddik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ben%20Saddik",
-        "pubdate": "Sat, 09 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Rico Verhoeven",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rico%20Verhoeven",
         "pubdate": "Fri, 08 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "International Women's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#International%20Women's%20Day",
+        "pubdate": "Fri, 08 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Fri, 08 Mar 2024 22:00:00 +0100"
       }
     ]
   ]
