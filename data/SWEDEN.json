@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "11-03-2024 , 03:56:19",
+  "lastUpdate": "11-03-2024 , 04:16:55",
   "data": [
-    [
-      {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oppenheimer",
-        "pubdate": "Mon, 11 Mar 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ludwig Göransson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludwig%20G%C3%B6ransson",
-        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Värmdö",
@@ -38,16 +24,16 @@
     ],
     [
       {
-        "title": "Joel Lundqvist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joel%20Lundqvist",
-        "pubdate": "Sun, 10 Mar 2024 21:00:00 +0100"
+        "title": "Oscars 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscars%202024",
+        "pubdate": "Sun, 10 Mar 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Oscars 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscars%202024",
-        "pubdate": "Sun, 10 Mar 2024 09:00:00 +0100"
+        "title": "Joel Lundqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joel%20Lundqvist",
+        "pubdate": "Sun, 10 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "PFAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PFAS",
         "pubdate": "Sun, 10 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Banksy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Banksy",
+        "pubdate": "Sun, 10 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Björn Gustafsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Gustafsson",
         "pubdate": "Sat, 09 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eurovision%202024",
+        "pubdate": "Sat, 09 Mar 2024 20:00:00 +0100"
       }
     ]
   ]
