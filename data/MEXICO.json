@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-03-2024 , 09:55:42",
+  "lastUpdate": "12-03-2024 , 10:12:45",
   "data": [
+    [
+      {
+        "title": "San Patricio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#San%20Patricio",
+        "pubdate": "Tue, 12 Mar 2024 00:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Aaron Jones",
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Almería  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Almer%C3%ADa%20%20Sevilla",
+        "title": "Almería - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Almer%C3%ADa%20-%20Sevilla",
         "pubdate": "Mon, 11 Mar 2024 15:00:00 -0600"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Tiburon Medina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tiburon%20Medina",
         "pubdate": "Mon, 11 Mar 2024 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona vs Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20vs%20Napoli",
-        "pubdate": "Mon, 11 Mar 2024 14:00:00 -0600"
       }
     ]
   ]
