@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2024 , 04:58:17",
+  "lastUpdate": "12-03-2024 , 05:17:20",
   "data": [
     [
       {
@@ -17,22 +17,8 @@
     ],
     [
       {
-        "title": "Oscars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oscars",
-        "pubdate": "Mon, 11 Mar 2024 03:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Correio da Manhã",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Correio%20da%20Manh%C3%A3",
-        "pubdate": "Mon, 11 Mar 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Emma Stone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emma%20Stone",
+        "title": "Emma Stone Oscars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emma%20Stone%20Oscars",
         "pubdate": "Mon, 11 Mar 2024 02:00:00 +0000"
       }
     ],
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "Sofia Arruda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Arruda",
+        "pubdate": "Mon, 11 Mar 2024 22:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Arsenal Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20Porto",
         "pubdate": "Mon, 11 Mar 2024 22:00:00 +0000"
@@ -111,13 +104,6 @@
         "title": "Jodie Foster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jodie%20Foster",
         "pubdate": "Mon, 11 Mar 2024 02:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Madalena Cordeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madalena%20Cordeiro",
-        "pubdate": "Mon, 11 Mar 2024 12:00:00 +0000"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Notícias Última hora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Not%C3%ADcias%20%C3%9Altima%20hora",
         "pubdate": "Mon, 11 Mar 2024 05:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Flat White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flat%20White",
+        "pubdate": "Mon, 11 Mar 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Madalena Cordeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madalena%20Cordeiro",
+        "pubdate": "Mon, 11 Mar 2024 12:00:00 +0000"
       }
     ]
   ]
