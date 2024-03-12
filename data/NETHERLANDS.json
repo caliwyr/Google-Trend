@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-03-2024 , 03:55:02",
+  "lastUpdate": "12-03-2024 , 04:15:43",
   "data": [
-    [
-      {
-        "title": "Bauke Vaatstra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bauke%20Vaatstra",
-        "pubdate": "Tue, 12 Mar 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Habbo Hotel",
@@ -139,6 +132,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 10 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CPC",
+        "pubdate": "Sun, 10 Mar 2024 00:00:00 +0100"
       }
     ]
   ]
