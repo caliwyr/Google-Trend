@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2024 , 01:34:03",
+  "lastUpdate": "12-03-2024 , 02:04:13",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Arnold Schwarzenegger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arnold%20Schwarzenegger",
+        "pubdate": "Tue, 12 Mar 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
         "pubdate": "Mon, 11 Mar 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Correio da Manhã",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Correio%20da%20Manh%C3%A3",
+        "pubdate": "Mon, 11 Mar 2024 10:00:00 +0000"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Billie%20Eilish",
         "pubdate": "Mon, 11 Mar 2024 01:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo Rebelo de Sousa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
-        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0000"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Sofia Arruda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Arruda",
-        "pubdate": "Mon, 11 Mar 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
         "pubdate": "Mon, 11 Mar 2024 13:00:00 +0000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Flat White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flat%20White",
-        "pubdate": "Mon, 11 Mar 2024 11:00:00 +0000"
+        "title": "Notícias Última hora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Not%C3%ADcias%20%C3%9Altima%20hora",
+        "pubdate": "Mon, 11 Mar 2024 05:00:00 +0000"
       }
     ]
   ]
