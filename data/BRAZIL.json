@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "12-03-2024 , 21:51:13",
+  "lastUpdate": "12-03-2024 , 22:00:45",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
-        "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "IRPF 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IRPF%202024",
         "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
       }
     ],
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Fies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
-        "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
+        "title": "IRPF 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IRPF%202024",
+        "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
       }
     ],
     [
@@ -34,6 +27,20 @@
         "title": "Arsenal x Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal%20x%20Porto",
         "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
+        "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Rodoviária Novo Rio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodovi%C3%A1ria%20Novo%20Rio",
+        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
       }
     ],
     [
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Lotofácil resultado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lotof%C3%A1cil%20resultado",
-        "pubdate": "Tue, 12 Mar 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Superliga feminina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20feminina",
-        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
+        "title": "Al-Ittihad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
+        "pubdate": "Tue, 12 Mar 2024 10:00:00 -0500"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Guilherme Derrite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guilherme%20Derrite",
-        "pubdate": "Tue, 12 Mar 2024 12:00:00 -0500"
+        "title": "Superliga feminina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20feminina",
+        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Rodoviária Novo Rio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodovi%C3%A1ria%20Novo%20Rio",
-        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
+        "title": "Guilherme Derrite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guilherme%20Derrite",
+        "pubdate": "Tue, 12 Mar 2024 12:00:00 -0500"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Al-Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
-        "pubdate": "Tue, 12 Mar 2024 14:00:00 -0500"
+        "title": "Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
       }
     ],
     [
@@ -108,16 +108,23 @@
     ],
     [
       {
-        "title": "Borussia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "title": "Leidy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leidy",
         "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Leidy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leidy",
+        "title": "Wesley Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wesley%20Flamengo",
         "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Resultado Quina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20Quina",
         "pubdate": "Tue, 12 Mar 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Wesley Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wesley%20Flamengo",
-        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
       }
     ]
   ]
