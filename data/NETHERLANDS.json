@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2024 , 05:57:20",
+  "lastUpdate": "12-03-2024 , 06:19:18",
   "data": [
     [
       {
@@ -31,20 +31,6 @@
     ],
     [
       {
-        "title": "Eneco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eneco",
-        "pubdate": "Mon, 11 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Mon, 11 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Mon, 11 Mar 2024 21:00:00 +0100"
@@ -59,8 +45,8 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
+        "title": "De Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
         "pubdate": "Mon, 11 Mar 2024 22:00:00 +0100"
       }
     ],
@@ -97,6 +83,13 @@
         "title": "Iftar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iftar",
         "pubdate": "Mon, 11 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Mon, 11 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CPC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CPC",
         "pubdate": "Sun, 10 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CPC Loop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CPC%20Loop",
+        "pubdate": "Sun, 10 Mar 2024 16:00:00 +0100"
       }
     ]
   ]
