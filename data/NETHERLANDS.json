@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2024 , 14:54:25",
+  "lastUpdate": "12-03-2024 , 15:10:16",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "ADO Den Haag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
-        "pubdate": "Mon, 11 Mar 2024 21:00:00 +0100"
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-        "pubdate": "Mon, 11 Mar 2024 00:00:00 +0100"
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Mon, 11 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "N.E.C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#N.E.C",
-        "pubdate": "Sun, 10 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "CPC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CPC",
         "pubdate": "Sun, 10 Mar 2024 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "CPC Loop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CPC%20Loop",
         "pubdate": "Sun, 10 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marijke groenewoud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marijke%20groenewoud",
+        "pubdate": "Sun, 10 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
