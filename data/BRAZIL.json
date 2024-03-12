@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-03-2024 , 22:57:05",
+  "lastUpdate": "12-03-2024 , 23:15:54",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
         "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
+        "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Arsenal x Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal%20x%20Porto",
-        "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
         "pubdate": "Tue, 12 Mar 2024 08:00:00 -0500"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Eric Carmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eric%20Carmen",
-        "pubdate": "Tue, 12 Mar 2024 09:00:00 -0500"
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
       }
     ],
     [
       {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
-        "pubdate": "Tue, 12 Mar 2024 07:00:00 -0500"
+        "title": "Eric Carmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eric%20Carmen",
+        "pubdate": "Tue, 12 Mar 2024 09:00:00 -0500"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Papa Francisco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Papa%20Francisco",
-        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
+        "title": "Caxias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caxias",
+        "pubdate": "Tue, 12 Mar 2024 17:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Superliga feminina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20feminina",
-        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
+        "title": "Papa Francisco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Papa%20Francisco",
+        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Vale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vale",
-        "pubdate": "Tue, 12 Mar 2024 13:00:00 -0500"
+        "title": "Superliga Feminina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20Feminina",
+        "pubdate": "Tue, 12 Mar 2024 15:00:00 -0500"
       }
     ],
     [
@@ -101,23 +101,16 @@
     ],
     [
       {
+        "title": "Vale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vale",
+        "pubdate": "Tue, 12 Mar 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors",
         "pubdate": "Tue, 12 Mar 2024 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Leidy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leidy",
-        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Wesley Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wesley%20Flamengo",
-        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Leidy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leidy",
+        "pubdate": "Tue, 12 Mar 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Isabella Nardoni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isabella%20Nardoni",
         "pubdate": "Tue, 12 Mar 2024 09:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Resultado Quina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20Quina",
-        "pubdate": "Tue, 12 Mar 2024 10:00:00 -0500"
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lamine%20Yamal",
+        "pubdate": "Tue, 12 Mar 2024 17:00:00 -0500"
       }
     ]
   ]

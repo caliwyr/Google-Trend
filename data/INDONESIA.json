@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-03-2024 , 22:57:08",
+  "lastUpdate": "12-03-2024 , 23:15:57",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona",
+        "pubdate": "Tue, 12 Mar 2024 22:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Niat sholat tahajud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Niat%20sholat%20tahajud",
         "pubdate": "Tue, 12 Mar 2024 02:00:00 +0700"
@@ -66,22 +73,8 @@
     ],
     [
       {
-        "title": "Niat sholat subuh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Niat%20sholat%20subuh",
-        "pubdate": "Tue, 12 Mar 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Cerezo Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cerezo%20Osaka",
-        "pubdate": "Tue, 12 Mar 2024 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Helena Lim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Helena%20Lim",
         "pubdate": "Tue, 12 Mar 2024 17:00:00 +0700"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "SCTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#SCTV",
-        "pubdate": "Tue, 12 Mar 2024 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "All England 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#All%20England%202024",
         "pubdate": "Tue, 12 Mar 2024 22:00:00 +0700"
@@ -139,6 +125,20 @@
         "title": "Al-Qur'an online",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al-Qur'an%20online",
         "pubdate": "Tue, 12 Mar 2024 04:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "J. League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#J.%20League",
+        "pubdate": "Tue, 12 Mar 2024 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Calvin Verdonk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Calvin%20Verdonk",
+        "pubdate": "Tue, 12 Mar 2024 00:00:00 +0700"
       }
     ]
   ]
