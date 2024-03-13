@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-03-2024 , 21:47:26",
+  "lastUpdate": "13-03-2024 , 21:55:05",
   "data": [
+    [
+      {
+        "title": "Semarang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Semarang",
+        "pubdate": "Thu, 14 Mar 2024 04:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Habib Hasan",
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Atlético Madrid vs Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atl%C3%A9tico%20Madrid%20vs%20Inter",
+        "pubdate": "Wed, 13 Mar 2024 15:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Persita vs Arema FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita%20vs%20Arema%20FC",
         "pubdate": "Wed, 13 Mar 2024 20:00:00 +0700"
@@ -24,22 +38,8 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
-        "pubdate": "Wed, 13 Mar 2024 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Didit Prabowo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Didit%20Prabowo",
-        "pubdate": "Wed, 13 Mar 2024 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund",
+        "title": "Dortmund vs PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund%20vs%20PSV",
         "pubdate": "Wed, 13 Mar 2024 15:00:00 +0700"
       }
     ],
@@ -55,6 +55,13 @@
         "title": "Mixue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mixue",
         "pubdate": "Wed, 13 Mar 2024 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Cubarsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cubarsi",
+        "pubdate": "Wed, 13 Mar 2024 14:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ratu Wulla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ratu%20Wulla",
         "pubdate": "Wed, 13 Mar 2024 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kawal Pemilu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kawal%20Pemilu",
-        "pubdate": "Wed, 13 Mar 2024 08:00:00 +0700"
       }
     ]
   ]
