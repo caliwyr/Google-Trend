@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-03-2024 , 02:48:31",
+  "lastUpdate": "13-03-2024 , 02:57:48",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
+        "pubdate": "Wed, 13 Mar 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Pepe",
@@ -13,6 +20,13 @@
         "title": "Hidra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hidra",
         "pubdate": "Wed, 13 Mar 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Valencia",
+        "pubdate": "Wed, 13 Mar 2024 04:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Al Ittihad  al-hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Ittihad%20%20al-hilal",
         "pubdate": "Tue, 12 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Neveu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neveu",
-        "pubdate": "Tue, 12 Mar 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erste Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Erste%20Liga",
-        "pubdate": "Tue, 12 Mar 2024 21:00:00 +0200"
       }
     ]
   ]
