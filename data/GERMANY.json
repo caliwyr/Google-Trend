@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-03-2024 , 15:43:42",
+  "lastUpdate": "13-03-2024 , 15:53:23",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Percy Adlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Percy%20Adlon",
-        "pubdate": "Mon, 11 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Oscars 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscars%202024",
         "pubdate": "Sun, 10 Mar 2024 06:00:00 +0100"
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "GDL Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL%20Streik",
+        "title": "GDL-Streik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GDL-Streik",
         "pubdate": "Sun, 10 Mar 2024 13:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Internationaler Frauentag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Internationaler%20Frauentag",
         "pubdate": "Thu, 07 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rene Benko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rene%20Benko",
+        "pubdate": "Thu, 07 Mar 2024 14:00:00 +0100"
       }
     ]
   ]
