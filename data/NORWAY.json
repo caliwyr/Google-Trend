@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-03-2024 , 05:47:18",
+  "lastUpdate": "13-03-2024 , 05:56:31",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Girl in red",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Girl%20in%20red",
+        "pubdate": "Tue, 12 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Raw Air",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raw%20Air",
         "pubdate": "Tue, 12 Mar 2024 18:00:00 +0100"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nato",
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NATO",
         "pubdate": "Mon, 11 Mar 2024 18:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "The Zone of Interest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Zone%20of%20Interest",
         "pubdate": "Mon, 11 Mar 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Mon, 11 Mar 2024 22:00:00 +0100"
       }
     ]
   ]
