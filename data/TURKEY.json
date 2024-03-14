@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-03-2024 , 06:37:32",
+  "lastUpdate": "14-03-2024 , 06:46:58",
   "data": [
     [
       {
         "title": "Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bournemouth",
         "pubdate": "Thu, 14 Mar 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Pi sayısı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Pi%20say%C4%B1s%C4%B1",
+        "pubdate": "Thu, 14 Mar 2024 08:00:00 +0300"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "İSKİ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0SK%C4%B0",
-        "pubdate": "Thu, 14 Mar 2024 06:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Cumhurbaşkanı koruma ekibi trafik kazası",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cumhurba%C5%9Fkan%C4%B1%20koruma%20ekibi%20trafik%20kazas%C4%B1",
         "pubdate": "Thu, 14 Mar 2024 02:00:00 +0300"
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Fisker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fisker",
+        "pubdate": "Thu, 14 Mar 2024 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Demet Akbağ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Demet%20Akba%C4%9F",
         "pubdate": "Thu, 14 Mar 2024 00:00:00 +0300"
@@ -69,13 +76,6 @@
         "title": "Murat Cemcir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Murat%20Cemcir",
         "pubdate": "Thu, 14 Mar 2024 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fisker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fisker",
-        "pubdate": "Thu, 14 Mar 2024 07:00:00 +0300"
       }
     ],
     [
@@ -115,9 +115,16 @@
     ],
     [
       {
-        "title": "Odine halka arz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Odine%20halka%20arz",
-        "pubdate": "Wed, 13 Mar 2024 11:00:00 +0300"
+        "title": "14 Mart Tıp Bayramı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#14%20Mart%20T%C4%B1p%20Bayram%C4%B1",
+        "pubdate": "Wed, 13 Mar 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Vincent Bayındır",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Vincent%20Bay%C4%B1nd%C4%B1r",
+        "pubdate": "Wed, 13 Mar 2024 03:00:00 +0300"
       }
     ],
     [
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "14 Mart Tıp Bayramı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#14%20Mart%20T%C4%B1p%20Bayram%C4%B1",
-        "pubdate": "Wed, 13 Mar 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Nice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG%20%20Nice",
+        "title": "PSG' Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG'%20Nice",
         "pubdate": "Wed, 13 Mar 2024 23:00:00 +0300"
       }
     ]
