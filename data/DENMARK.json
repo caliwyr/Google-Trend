@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-03-2024 , 15:42:27",
+  "lastUpdate": "14-03-2024 , 15:51:52",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Fisker stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fisker%20stock",
+        "pubdate": "Thu, 14 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Polestar 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar%203",
         "pubdate": "Thu, 14 Mar 2024 03:00:00 +0100"
@@ -27,13 +34,6 @@
         "title": "Taylor Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Fritz",
         "pubdate": "Thu, 14 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League%20draw",
-        "pubdate": "Thu, 14 Mar 2024 10:00:00 +0100"
       }
     ],
     [
@@ -68,6 +68,13 @@
       {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Atletico%20Madrid",
+        "pubdate": "Wed, 13 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League%202024",
         "pubdate": "Wed, 13 Mar 2024 13:00:00 +0100"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Devin AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Devin%20AI",
-        "pubdate": "Wed, 13 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Monfils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Monfils",
         "pubdate": "Wed, 13 Mar 2024 21:00:00 +0100"
       }
     ]
