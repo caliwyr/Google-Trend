@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-03-2024 , 20:45:28",
+  "lastUpdate": "14-03-2024 , 20:54:47",
   "data": [
+    [
+      {
+        "title": "PGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA",
+        "pubdate": "Fri, 15 Mar 2024 06:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Glastonbury 2024",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA",
-        "pubdate": "Fri, 15 Mar 2024 06:00:00 +1100"
+        "title": "Liverpool vs Sparta praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Sparta%20praha",
+        "pubdate": "Fri, 15 Mar 2024 07:00:00 +1100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Olivia Munn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Munn",
         "pubdate": "Thu, 14 Mar 2024 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami",
-        "pubdate": "Thu, 14 Mar 2024 12:00:00 +1100"
       }
     ],
     [
@@ -80,16 +80,23 @@
     ],
     [
       {
-        "title": "Sam Goodman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Goodman",
-        "pubdate": "Thu, 14 Mar 2024 05:00:00 +1100"
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SpaceX",
+        "pubdate": "Thu, 14 Mar 2024 22:00:00 +1100"
       }
     ],
     [
       {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SpaceX",
-        "pubdate": "Thu, 14 Mar 2024 22:00:00 +1100"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami",
+        "pubdate": "Thu, 14 Mar 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sam Goodman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Goodman",
+        "pubdate": "Thu, 14 Mar 2024 05:00:00 +1100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Olivia Wirth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Wirth",
-        "pubdate": "Thu, 14 Mar 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Champions League draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League%20draw",
         "pubdate": "Thu, 14 Mar 2024 13:00:00 +1100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zodiac signs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zodiac%20signs",
-        "pubdate": "Thu, 14 Mar 2024 20:00:00 +1100"
+        "title": "Olivia Wirth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Wirth",
+        "pubdate": "Thu, 14 Mar 2024 16:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Apples Never Fall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apples%20Never%20Fall",
-        "pubdate": "Thu, 14 Mar 2024 22:00:00 +1100"
+        "title": "Zodiac signs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zodiac%20signs",
+        "pubdate": "Thu, 14 Mar 2024 20:00:00 +1100"
       }
     ]
   ]
