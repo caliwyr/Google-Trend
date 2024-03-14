@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-03-2024 , 03:45:09",
+  "lastUpdate": "14-03-2024 , 03:54:32",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Frank Hester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Frank%20Hester",
+        "pubdate": "Wed, 13 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "David Raya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#David%20Raya",
         "pubdate": "Wed, 13 Mar 2024 11:00:00 +0100"
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Frank Hester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Frank%20Hester",
-        "pubdate": "Wed, 13 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Abiodun Adebanjo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Abiodun%20Adebanjo",
         "pubdate": "Wed, 13 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NPFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NPFL",
-        "pubdate": "Wed, 13 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -97,13 +90,6 @@
         "title": "Paul Alexander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Paul%20Alexander",
         "pubdate": "Wed, 13 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20FC",
-        "pubdate": "Wed, 13 Mar 2024 03:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Charles Schwab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Charles%20Schwab",
         "pubdate": "Tue, 12 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
+        "pubdate": "Tue, 12 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wuse Market",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wuse%20Market",
+        "pubdate": "Tue, 12 Mar 2024 20:00:00 +0100"
       }
     ]
   ]
