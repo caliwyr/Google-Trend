@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-03-2024 , 17:44:23",
+  "lastUpdate": "14-03-2024 , 17:53:36",
   "data": [
-    [
-      {
-        "title": "Gerard Timmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Timmer",
-        "pubdate": "Thu, 14 Mar 2024 11:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Aston Villa Ajax",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SpaceX",
-        "pubdate": "Thu, 14 Mar 2024 15:00:00 +0100"
+        "title": "Gerard Timmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerard%20Timmer",
+        "pubdate": "Thu, 14 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dua%20Lipa",
         "pubdate": "Thu, 14 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Starship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Starship",
+        "pubdate": "Thu, 14 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Ijzeren long",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ijzeren%20long",
         "pubdate": "Wed, 13 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emma Wortelboer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Wortelboer",
+        "pubdate": "Wed, 13 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ADO Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
         "pubdate": "Mon, 11 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oscar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oscar",
-        "pubdate": "Mon, 11 Mar 2024 13:00:00 +0100"
       }
     ]
   ]
