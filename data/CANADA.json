@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-03-2024 , 13:47:55",
+  "lastUpdate": "15-03-2024 , 13:57:24",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ides of March",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ides%20of%20March",
         "pubdate": "Fri, 15 Mar 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Doh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Doh",
+        "pubdate": "Fri, 15 Mar 2024 08:00:00 -0400"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Paul Simon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Simon",
+        "pubdate": "Fri, 15 Mar 2024 09:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Pi Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pi%20Day",
         "pubdate": "Thu, 14 Mar 2024 06:00:00 -0400"
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Nathan Barrett Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nathan%20Barrett%20Basketball",
+        "title": "Nathan Barrett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nathan%20Barrett",
         "pubdate": "Thu, 14 Mar 2024 20:00:00 -0400"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Mark Coleman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Coleman",
         "pubdate": "Thu, 14 Mar 2024 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bruins – Canadiens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruins%20%E2%80%93%20Canadiens",
-        "pubdate": "Thu, 14 Mar 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Vybz Kartel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vybz%20Kartel",
-        "pubdate": "Thu, 14 Mar 2024 13:00:00 -0400"
       }
     ]
   ]
