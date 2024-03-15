@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-03-2024 , 21:39:28",
+  "lastUpdate": "15-03-2024 , 21:48:50",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA",
-        "pubdate": "Fri, 15 Mar 2024 09:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Nrl results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nrl%20results",
         "pubdate": "Fri, 15 Mar 2024 12:00:00 +1300"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Broncos vs Rabbitohs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Broncos%20vs%20Rabbitohs",
-        "pubdate": "Fri, 15 Mar 2024 01:00:00 +1300"
+        "title": "PGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA",
+        "pubdate": "Fri, 15 Mar 2024 09:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
         "pubdate": "Fri, 15 Mar 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Cryptosporidium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cryptosporidium",
+        "pubdate": "Thu, 14 Mar 2024 11:00:00 +1300"
       }
     ]
   ]
