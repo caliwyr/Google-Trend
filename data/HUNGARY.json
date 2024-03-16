@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-03-2024 , 20:48:11",
+  "lastUpdate": "16-03-2024 , 20:57:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Rose Hanbury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rose%20Hanbury",
         "pubdate": "Sat, 16 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester city–newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93newcastle",
+        "pubdate": "Sat, 16 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Sat, 16 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titanic",
         "pubdate": "Sat, 16 Mar 2024 19:00:00 +0100"
@@ -41,13 +55,6 @@
         "title": "Magyar Hang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Hang",
         "pubdate": "Sat, 16 Mar 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
-        "pubdate": "Sat, 16 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Burnley–Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Burnley%E2%80%93Brentford",
+        "title": "Burnley–brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Burnley%E2%80%93brentford",
         "pubdate": "Sat, 16 Mar 2024 16:00:00 +0100"
       }
     ],
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Kaszás Attila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kasz%C3%A1s%20Attila",
-        "pubdate": "Sat, 16 Mar 2024 15:00:00 +0100"
+        "title": "Getafe–girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Getafe%E2%80%93girona",
+        "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Hitler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hitler",
-        "pubdate": "Sat, 16 Mar 2024 12:00:00 +0100"
+        "title": "Kaszás Attila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kasz%C3%A1s%20Attila",
+        "pubdate": "Sat, 16 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -101,20 +108,6 @@
     ],
     [
       {
-        "title": "Balogh Levente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balogh%20Levente",
-        "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eva Longoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eva%20Longoria",
-        "pubdate": "Sat, 16 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hosszú Katinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hossz%C3%BA%20Katinka",
         "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Férfi kézilabda olimpiai selejtező 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A9rfi%20k%C3%A9zilabda%20olimpiai%20selejtez%C5%91%202024",
+        "title": "Hitler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hitler",
+        "pubdate": "Sat, 16 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tottenham",
+        "pubdate": "Sat, 16 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Balogh Levente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balogh%20Levente",
         "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ryan Garcia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ryan%20Garcia",
-        "pubdate": "Sat, 16 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Magyar Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter",
-        "pubdate": "Fri, 15 Mar 2024 17:00:00 +0100"
+        "title": "Monster Truck show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Monster%20Truck%20show",
+        "pubdate": "Sat, 16 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
