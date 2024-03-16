@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-03-2024 , 06:50:07",
+  "lastUpdate": "16-03-2024 , 06:59:20",
   "data": [
+    [
+      {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA",
+        "pubdate": "Sat, 16 Mar 2024 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Voyager 1",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
+        "title": "LASK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
         "pubdate": "Fri, 15 Mar 2024 19:00:00 +0100"
       }
     ],
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
-        "pubdate": "Fri, 15 Mar 2024 08:00:00 +0100"
+        "title": "Jérôme Boateng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J%C3%A9r%C3%B4me%20Boateng",
+        "pubdate": "Fri, 15 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Wolfgang Ambros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Ambros",
         "pubdate": "Fri, 15 Mar 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
+        "pubdate": "Fri, 15 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Macron",
         "pubdate": "Fri, 15 Mar 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Charlize Theron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Charlize%20Theron",
-        "pubdate": "Fri, 15 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Antony Blinken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Antony%20Blinken",
-        "pubdate": "Fri, 15 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
