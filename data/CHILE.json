@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-03-2024 , 05:41:43",
+  "lastUpdate": "16-03-2024 , 05:50:54",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-Nassr",
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
         "pubdate": "Fri, 15 Mar 2024 19:00:00 -0300"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lollapalooza 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lollapalooza%202024",
+        "pubdate": "Fri, 15 Mar 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Lindsay Lohan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lindsay%20Lohan",
         "pubdate": "Fri, 15 Mar 2024 19:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Toulouse  Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toulouse%20%20Lyon",
         "pubdate": "Fri, 15 Mar 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sinner",
-        "pubdate": "Fri, 15 Mar 2024 11:00:00 -0300"
       }
     ]
   ]

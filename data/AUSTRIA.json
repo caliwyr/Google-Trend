@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-03-2024 , 05:41:41",
+  "lastUpdate": "16-03-2024 , 05:50:53",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
+        "title": "Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
         "pubdate": "Fri, 15 Mar 2024 19:00:00 +0100"
       }
     ],
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Köln gegen RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20gegen%20RB%20Leipzig",
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
         "pubdate": "Fri, 15 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -41,6 +41,13 @@
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer%20Leverkusen",
         "pubdate": "Fri, 15 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Köln gegen RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20gegen%20RB%20Leipzig",
+        "pubdate": "Fri, 15 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Antony Blinken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Antony%20Blinken",
         "pubdate": "Fri, 15 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mark Keller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mark%20Keller",
-        "pubdate": "Fri, 15 Mar 2024 22:00:00 +0100"
       }
     ]
   ]
