@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-03-2024 , 11:48:37",
+  "lastUpdate": "17-03-2024 , 11:57:51",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Silje Opseth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Opseth",
+        "pubdate": "Sun, 17 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Johannes Thingnes Bø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Johannes%20Thingnes%20B%C3%B8",
         "pubdate": "Sun, 17 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
+        "pubdate": "Sun, 17 Mar 2024 10:00:00 +0100"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Bjørn Eidsvåg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rn%20Eidsv%C3%A5g",
-        "pubdate": "Sat, 16 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "St. Patricks Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Patricks%20Day",
         "pubdate": "Sat, 16 Mar 2024 01:00:00 +0100"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-        "pubdate": "Sat, 16 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Madame Web",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Madame%20Web",
         "pubdate": "Sat, 16 Mar 2024 11:00:00 +0100"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
-        "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+        "pubdate": "Sat, 16 Mar 2024 00:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
+        "pubdate": "Sat, 16 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stein Lier-Hansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stein%20Lier-Hansen",
         "pubdate": "Sat, 16 Mar 2024 03:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "St. Patricks Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Patricks%20Day",
         "pubdate": "Sat, 16 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FA-cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FA-cup",
-        "pubdate": "Fri, 15 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
