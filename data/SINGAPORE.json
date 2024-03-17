@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-03-2024 , 08:47:10",
+  "lastUpdate": "17-03-2024 , 08:56:39",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Car-Free Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Car-Free%20Sunday",
+        "pubdate": "Sun, 17 Mar 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Miami",
         "pubdate": "Sun, 17 Mar 2024 09:00:00 +0800"
@@ -27,13 +34,6 @@
         "title": "Boeing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boeing",
         "pubdate": "Sun, 17 Mar 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Car-Free Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Car-Free%20Sunday",
-        "pubdate": "Sun, 17 Mar 2024 02:00:00 +0800"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
         "pubdate": "Sat, 16 Mar 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "WPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#WPL",
-        "pubdate": "Sat, 16 Mar 2024 03:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Champions League draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League%20draw",
         "pubdate": "Thu, 14 Mar 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SpaceX",
+        "pubdate": "Thu, 14 Mar 2024 22:00:00 +0800"
       }
     ]
   ]
