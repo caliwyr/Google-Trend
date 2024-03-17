@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-03-2024 , 02:47:11",
+  "lastUpdate": "17-03-2024 , 02:56:28",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alcaraz",
+        "pubdate": "Sat, 16 Mar 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Avai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
         "pubdate": "Sat, 16 Mar 2024 13:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
         "pubdate": "Sat, 16 Mar 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#WSL",
-        "pubdate": "Sat, 16 Mar 2024 09:00:00 -0500"
       }
     ]
   ]
