@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-03-2024 , 23:59:39",
+  "lastUpdate": "18-03-2024 , 01:17:57",
   "data": [
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
+        "title": "Atlético Madrid đấu với Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atl%C3%A9tico%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Barcelona",
         "pubdate": "Mon, 18 Mar 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Montpellier đấu với PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Montpellier%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20PSG",
+        "pubdate": "Mon, 18 Mar 2024 04:00:00 +0700"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MLS",
+        "pubdate": "Sun, 17 Mar 2024 10:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Song Hye Kyo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Song%20Hye%20Kyo",
         "pubdate": "Sun, 17 Mar 2024 01:00:00 +0700"
@@ -110,7 +124,7 @@
       {
         "title": "Man Utd đấu với Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
-        "pubdate": "Sat, 16 Mar 2024 07:00:00 +0700"
+        "pubdate": "Sat, 16 Mar 2024 21:00:00 +0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Osasuna đấu với Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Osasuna%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
         "pubdate": "Sat, 16 Mar 2024 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Cha Eun Woo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cha%20Eun%20Woo",
-        "pubdate": "Sat, 16 Mar 2024 14:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Queen of Tears tập 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Queen%20of%20Tears%20t%E1%BA%ADp%203",
-        "pubdate": "Sat, 16 Mar 2024 11:00:00 +0700"
       }
     ]
   ]
