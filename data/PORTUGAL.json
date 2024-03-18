@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-03-2024 , 02:49:55",
+  "lastUpdate": "18-03-2024 , 02:59:08",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Zona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zona",
         "pubdate": "Mon, 18 Mar 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sporting  Boavista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20%20Boavista",
-        "pubdate": "Sun, 17 Mar 2024 20:00:00 +0000"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Rugby portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rugby%20portugal",
-        "pubdate": "Sun, 17 Mar 2024 21:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Montpellier  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Montpellier%20%20PSG",
         "pubdate": "Sun, 17 Mar 2024 21:00:00 +0000"
@@ -139,6 +125,20 @@
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
         "pubdate": "Sun, 17 Mar 2024 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Rugby portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rugby%20portugal",
+        "pubdate": "Sun, 17 Mar 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Inter  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20%20Napoli",
+        "pubdate": "Sun, 17 Mar 2024 22:00:00 +0000"
       }
     ]
   ]
