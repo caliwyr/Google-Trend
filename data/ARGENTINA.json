@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-03-2024 , 17:47:04",
+  "lastUpdate": "18-03-2024 , 17:57:46",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#PSG",
+        "title": "Seleccion Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20Argentina",
         "pubdate": "Mon, 18 Mar 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "500 cortes Piqueteros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#500%20cortes%20Piqueteros",
+        "pubdate": "Mon, 18 Mar 2024 08:00:00 -0300"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "500 cortes Piqueteros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#500%20cortes%20Piqueteros",
-        "pubdate": "Mon, 18 Mar 2024 08:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Miami Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Miami%20Open",
         "pubdate": "Mon, 18 Mar 2024 07:00:00 -0300"
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Atlanta United - Orlando City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atlanta%20United%20-%20Orlando%20City",
-        "pubdate": "Mon, 18 Mar 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Kate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kate",
         "pubdate": "Mon, 18 Mar 2024 12:00:00 -0300"
@@ -73,9 +66,30 @@
     ],
     [
       {
+        "title": "Atlanta United - Orlando City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atlanta%20United%20-%20Orlando%20City",
+        "pubdate": "Mon, 18 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Becas Manuel Belgrano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Becas%20Manuel%20Belgrano",
+        "pubdate": "Mon, 18 Mar 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Hellboy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hellboy",
         "pubdate": "Mon, 18 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Letizia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Letizia",
+        "pubdate": "Mon, 18 Mar 2024 14:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Banfield  Talleres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield%20%20Talleres",
         "pubdate": "Sun, 17 Mar 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ross Lynch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ross%20Lynch",
-        "pubdate": "Sun, 17 Mar 2024 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter  Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20%20Napoli",
-        "pubdate": "Sun, 17 Mar 2024 17:00:00 -0300"
       }
     ]
   ]
