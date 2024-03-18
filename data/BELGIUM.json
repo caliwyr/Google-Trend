@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "18-03-2024 , 18:48:37",
+  "lastUpdate": "18-03-2024 , 18:57:50",
   "data": [
     [
       {
         "title": "Police",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Police",
-        "pubdate": "Mon, 18 Mar 2024 11:00:00 +0100"
+        "pubdate": "Mon, 18 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Mon, 18 Mar 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Presidentsverkiezingen Rusland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Presidentsverkiezingen%20Rusland",
         "pubdate": "Mon, 18 Mar 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Michy Batshuayi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michy%20Batshuayi",
+        "pubdate": "Mon, 18 Mar 2024 14:00:00 +0100"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Michy Batshuayi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michy%20Batshuayi",
-        "pubdate": "Mon, 18 Mar 2024 14:00:00 +0100"
+        "title": "Stevie Nicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stevie%20Nicks",
+        "pubdate": "Mon, 18 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -80,9 +94,16 @@
     ],
     [
       {
-        "title": "Stevie Nicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stevie%20Nicks",
-        "pubdate": "Mon, 18 Mar 2024 15:00:00 +0100"
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Putin",
+        "pubdate": "Mon, 18 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tour de Catalogne 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20de%20Catalogne%202024",
+        "pubdate": "Mon, 18 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Loena Hendrickx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loena%20Hendrickx",
+        "pubdate": "Mon, 18 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Niger",
         "pubdate": "Mon, 18 Mar 2024 08:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "STVV  Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#STVV%20%20Club%20Brugge",
-        "pubdate": "Sun, 17 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De mol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20mol",
-        "pubdate": "Sun, 17 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KV Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
-        "pubdate": "Sun, 17 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Liverpool",
-        "pubdate": "Sun, 17 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sun, 17 Mar 2024 21:00:00 +0100"
+        "title": "CIR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#CIR",
+        "pubdate": "Mon, 18 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
