@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-03-2024 , 12:51:19",
+  "lastUpdate": "18-03-2024 , 13:03:07",
   "data": [
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Putin",
-        "pubdate": "Mon, 18 Mar 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Ine Jansen",
@@ -139,6 +132,13 @@
         "title": "St. Patricks Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#St.%20Patricks%20Day",
         "pubdate": "Sat, 16 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sat, 16 Mar 2024 23:00:00 +0100"
       }
     ]
   ]
