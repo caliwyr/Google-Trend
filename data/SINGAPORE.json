@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-03-2024 , 04:47:27",
+  "lastUpdate": "18-03-2024 , 04:56:33",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Milan",
+        "pubdate": "Mon, 18 Mar 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "St. Patrick's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#St.%20Patrick's%20Day",
         "pubdate": "Sun, 17 Mar 2024 01:00:00 +0800"
@@ -33,14 +40,14 @@
       {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FA%20Cup",
-        "pubdate": "Sun, 17 Mar 2024 22:00:00 +0800"
+        "pubdate": "Sun, 17 Mar 2024 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
-        "pubdate": "Sun, 17 Mar 2024 19:00:00 +0800"
+        "title": "Man United vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Liverpool",
+        "pubdate": "Sun, 17 Mar 2024 23:00:00 +0800"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "St. Patrick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#St.%20Patrick",
-        "pubdate": "Sun, 17 Mar 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
         "pubdate": "Sun, 17 Mar 2024 14:00:00 +0800"
@@ -90,6 +90,13 @@
         "title": "Car-Free Sunday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Car-Free%20Sunday",
         "pubdate": "Sun, 17 Mar 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "ViewQwest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ViewQwest",
+        "pubdate": "Sun, 17 Mar 2024 13:00:00 +0800"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Matilda Tao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Matilda%20Tao",
-        "pubdate": "Fri, 15 Mar 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Frank Hester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Frank%20Hester",
         "pubdate": "Fri, 15 Mar 2024 00:00:00 +0800"
       }
     ]
