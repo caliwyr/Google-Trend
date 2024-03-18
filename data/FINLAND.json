@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-03-2024 , 14:48:06",
+  "lastUpdate": "18-03-2024 , 14:57:32",
   "data": [
-    [
-      {
-        "title": "Atlético Madrid – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Barcelona",
-        "pubdate": "Mon, 18 Mar 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "BBC",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-        "pubdate": "Mon, 18 Mar 2024 11:00:00 +0200"
+        "title": "Atlético Madrid – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Barcelona",
+        "pubdate": "Mon, 18 Mar 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bianca Censori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bianca%20Censori",
+        "pubdate": "Mon, 18 Mar 2024 16:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Chelsea – Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Leicester%20City",
-        "pubdate": "Sun, 17 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "St. Patrick's Day 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#St.%20Patrick's%20Day%202024",
         "pubdate": "Sun, 17 Mar 2024 14:00:00 +0200"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Chelsea – Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Leicester%20City",
+        "pubdate": "Sun, 17 Mar 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Freiburg – Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Freiburg%20%E2%80%93%20Leverkusen",
         "pubdate": "Sun, 17 Mar 2024 19:00:00 +0200"
@@ -83,6 +83,13 @@
         "title": "Pittsburgh Penguins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pittsburgh%20Penguins",
         "pubdate": "Sun, 17 Mar 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea",
+        "pubdate": "Sun, 17 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inferno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Inferno",
         "pubdate": "Sat, 16 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vladimir%20Putin",
-        "pubdate": "Sat, 16 Mar 2024 00:00:00 +0200"
       }
     ]
   ]
