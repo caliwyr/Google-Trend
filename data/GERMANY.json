@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-03-2024 , 05:46:35",
+  "lastUpdate": "19-03-2024 , 05:55:46",
   "data": [
-    [
-      {
-        "title": "Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
-        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Irish Coffee",
@@ -27,6 +20,13 @@
         "title": "Henry Valentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Henry%20Valentino",
         "pubdate": "Mon, 18 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flagge Nato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flagge%20Nato",
+        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Fliegende Bauten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fliegende%20Bauten",
         "pubdate": "Mon, 18 Mar 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benedikt Doll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Benedikt%20Doll",
+        "pubdate": "Mon, 18 Mar 2024 00:00:00 +0100"
       }
     ],
     [
@@ -103,7 +110,7 @@
       {
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sun, 17 Mar 2024 17:00:00 +0100"
+        "pubdate": "Sun, 17 Mar 2024 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Antje Hagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Antje%20Hagen",
         "pubdate": "Sun, 17 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hasenhüttl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hasenh%C3%BCttl",
-        "pubdate": "Sun, 17 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
