@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "19-03-2024 , 08:44:31",
+  "lastUpdate": "19-03-2024 , 08:53:46",
   "data": [
     [
       {
-        "title": "Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+        "title": "Washington Capitals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Washington%20Capitals",
         "pubdate": "Tue, 19 Mar 2024 00:00:00 -0400"
       }
     ],
@@ -59,20 +59,6 @@
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic",
-        "pubdate": "Mon, 18 Mar 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Winnipeg Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-        "pubdate": "Mon, 18 Mar 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Cyclone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cyclone",
         "pubdate": "Mon, 18 Mar 2024 08:00:00 -0400"
@@ -90,6 +76,13 @@
         "title": "Gemini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gemini",
         "pubdate": "Mon, 18 Mar 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Mon, 18 Mar 2024 12:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "The Acolyte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Acolyte",
         "pubdate": "Mon, 18 Mar 2024 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Solar eclipse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solar%20eclipse",
+        "pubdate": "Mon, 18 Mar 2024 21:00:00 -0400"
       }
     ]
   ]
