@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-03-2024 , 01:17:39",
+  "lastUpdate": "19-03-2024 , 01:58:01",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Haiti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Haiti",
+        "pubdate": "Mon, 18 Mar 2024 21:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Niger",
         "pubdate": "Mon, 18 Mar 2024 01:00:00 +0700"
@@ -132,13 +139,6 @@
         "title": "Freiburg đấu với Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Freiburg%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Leverkusen",
         "pubdate": "Sun, 17 Mar 2024 21:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Khoa Pug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Khoa%20Pug",
-        "pubdate": "Sun, 17 Mar 2024 22:00:00 +0700"
       }
     ]
   ]
