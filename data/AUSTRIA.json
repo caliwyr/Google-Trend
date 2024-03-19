@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-03-2024 , 14:47:08",
+  "lastUpdate": "19-03-2024 , 14:56:19",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Bahnhof Innsbruck Fliegerbombe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bahnhof%20Innsbruck%20Fliegerbombe",
-        "pubdate": "Tue, 19 Mar 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia",
         "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Wolfgang Ambros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Ambros",
         "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bruce%20Willis",
+        "pubdate": "Tue, 19 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Nato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nato",
+        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fisker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fisker",
         "pubdate": "Mon, 18 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dolores Schmidinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dolores%20Schmidinger",
+        "pubdate": "Mon, 18 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Flagge Nato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flagge%20Nato",
-        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Audi Q6 e-tron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Audi%20Q6%20e-tron",
         "pubdate": "Mon, 18 Mar 2024 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Kevin Vogt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kevin%20Vogt",
         "pubdate": "Mon, 18 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NATO",
-        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
       }
     ]
   ]
