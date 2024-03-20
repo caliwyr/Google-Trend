@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-03-2024 , 03:42:19",
+  "lastUpdate": "20-03-2024 , 03:51:54",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
         "pubdate": "Tue, 19 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia-Aktie",
-        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,20 @@
     ],
     [
       {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia",
+        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wolfgang Ambros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Ambros",
+        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bruce Willis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bruce%20Willis",
         "pubdate": "Tue, 19 Mar 2024 11:00:00 +0100"
@@ -47,13 +54,6 @@
       {
         "title": "Setagayapark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Setagayapark",
-        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wolfgang Ambros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Ambros",
         "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
       }
     ],
@@ -69,6 +69,13 @@
         "title": "Inoptec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inoptec",
         "pubdate": "Tue, 19 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Namenstag Josef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Namenstag%20Josef",
+        "pubdate": "Tue, 19 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Henry Valentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Henry%20Valentino",
         "pubdate": "Mon, 18 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fisker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fisker",
-        "pubdate": "Mon, 18 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
