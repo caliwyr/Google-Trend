@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-03-2024 , 00:39:00",
+  "lastUpdate": "20-03-2024 , 01:34:42",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Martin Sellner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Sellner",
+        "pubdate": "Tue, 19 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabalenka",
         "pubdate": "Tue, 19 Mar 2024 12:00:00 +0100"
@@ -27,13 +34,6 @@
         "title": "Toni Kroos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Toni%20Kroos",
         "pubdate": "Tue, 19 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Einreiseverbot Sellner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Einreiseverbot%20Sellner",
-        "pubdate": "Tue, 19 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Audi Q6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Audi%20Q6",
-        "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nato",
         "pubdate": "Mon, 18 Mar 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Charles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charles",
         "pubdate": "Mon, 18 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Organspende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Organspende",
+        "pubdate": "Mon, 18 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
