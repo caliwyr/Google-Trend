@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-03-2024 , 08:38:48",
+  "lastUpdate": "20-03-2024 , 08:48:11",
   "data": [
+    [
+      {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+        "pubdate": "Wed, 20 Mar 2024 10:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "AstroTurf",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Unilever",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Unilever",
-        "pubdate": "Wed, 20 Mar 2024 09:00:00 +0800"
+        "title": "COE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
+        "pubdate": "Wed, 20 Mar 2024 16:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Fed meeting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20meeting",
-        "pubdate": "Wed, 20 Mar 2024 10:00:00 +0800"
+        "title": "Unilever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Unilever",
+        "pubdate": "Wed, 20 Mar 2024 09:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "King Charles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#King%20Charles",
         "pubdate": "Mon, 18 Mar 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-        "pubdate": "Mon, 18 Mar 2024 07:00:00 +0800"
       }
     ]
   ]
