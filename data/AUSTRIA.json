@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "20-03-2024 , 13:38:25",
+  "lastUpdate": "20-03-2024 , 13:47:49",
   "data": [
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
+        "title": "Frühlingsanfang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fr%C3%BChlingsanfang",
+        "pubdate": "Wed, 20 Mar 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Simona Halep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Simona%20Halep",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 +0100"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Martin Sellner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Sellner",
-        "pubdate": "Tue, 19 Mar 2024 21:00:00 +0100"
+        "title": "Nvidia-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia-Aktie",
+        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia",
-        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
+        "title": "Einreiseverbot Sellner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Einreiseverbot%20Sellner",
+        "pubdate": "Tue, 19 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Favoriten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Favoriten",
         "pubdate": "Tue, 19 Mar 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Acolyte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Acolyte",
-        "pubdate": "Tue, 19 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
