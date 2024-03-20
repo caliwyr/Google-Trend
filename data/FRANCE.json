@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-03-2024 , 23:42:04",
+  "lastUpdate": "20-03-2024 , 23:51:23",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
+        "pubdate": "Thu, 21 Mar 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Laetitia Krupa",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Christine Angot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Angot",
-        "pubdate": "Wed, 20 Mar 2024 13:00:00 +0100"
+        "title": "Alain Chamfort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Chamfort",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alain Chamfort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Chamfort",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+        "title": "Christine Angot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Angot",
+        "pubdate": "Wed, 20 Mar 2024 13:00:00 +0100"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Alien : Romulus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alien%20:%20Romulus",
+        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bipolaire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bipolaire",
         "pubdate": "Wed, 20 Mar 2024 08:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Alien : Romulus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alien%20:%20Romulus",
-        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Yvan Colonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yvan%20Colonna",
         "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kering",
-        "pubdate": "Wed, 20 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
