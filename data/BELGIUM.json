@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2024 , 16:42:58",
+  "lastUpdate": "21-03-2024 , 16:52:12",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Alien : Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alien%20:%20Romulus",
         "pubdate": "Thu, 21 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Iftar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Iftar",
+        "pubdate": "Thu, 21 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Warzone Mobile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warzone%20Mobile",
+        "pubdate": "Thu, 21 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leo Varadkar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leo%20Varadkar",
         "pubdate": "Thu, 21 Mar 2024 00:00:00 +0100"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Warzone Mobile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warzone%20Mobile",
-        "pubdate": "Thu, 21 Mar 2024 15:00:00 +0100"
+        "title": "Djibril Cissé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Djibril%20Ciss%C3%A9",
+        "pubdate": "Thu, 21 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Brugge-De Panne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brugge-De%20Panne",
-        "pubdate": "Wed, 20 Mar 2024 11:00:00 +0100"
+        "title": "Imke Courtois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Imke%20Courtois",
+        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Upway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Upway",
-        "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Voice Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Voice%20Belgique",
-        "pubdate": "Wed, 20 Mar 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille",
-        "pubdate": "Wed, 20 Mar 2024 07:00:00 +0100"
+        "title": "Lente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lente",
+        "pubdate": "Wed, 20 Mar 2024 10:00:00 +0100"
       }
     ]
   ]
