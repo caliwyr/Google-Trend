@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-03-2024 , 07:44:28",
+  "lastUpdate": "21-03-2024 , 07:54:05",
   "data": [
     [
       {
         "title": "Dodgers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
         "pubdate": "Wed, 20 Mar 2024 06:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0700"
       }
     ],
     [
@@ -24,9 +17,30 @@
     ],
     [
       {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alien:%20Romulus",
         "pubdate": "Wed, 20 Mar 2024 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "NCAA basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NCAA%20basketball",
+        "pubdate": "Wed, 20 Mar 2024 07:00:00 -0700"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "M. Emmet Walsh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#M.%20Emmet%20Walsh",
         "pubdate": "Wed, 20 Mar 2024 19:00:00 -0700"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohtani",
-        "pubdate": "Wed, 20 Mar 2024 18:00:00 -0700"
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beetlejuice",
+        "pubdate": "Wed, 20 Mar 2024 12:00:00 -0700"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Fed meeting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fed%20meeting",
         "pubdate": "Wed, 20 Mar 2024 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barron%20Trump",
+        "pubdate": "Wed, 20 Mar 2024 17:00:00 -0700"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Grambling basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grambling%20basketball",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Grizzlies vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grizzlies%20vs%20Warriors",
         "pubdate": "Wed, 20 Mar 2024 23:00:00 -0700"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Grambling basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grambling%20basketball",
+        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Reddit IPO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Reddit%20IPO",
         "pubdate": "Wed, 20 Mar 2024 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Intel stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Intel%20stock",
-        "pubdate": "Wed, 20 Mar 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Giannis Antetokounmpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giannis%20Antetokounmpo",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0700"
       }
     ]
   ]

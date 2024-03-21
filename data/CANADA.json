@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "21-03-2024 , 07:44:29",
+  "lastUpdate": "21-03-2024 , 07:54:07",
   "data": [
     [
       {
         "title": "Max Domi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Max%20Domi",
-        "pubdate": "Thu, 21 Mar 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Barron Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barron%20Trump",
         "pubdate": "Thu, 21 Mar 2024 00:00:00 -0400"
       }
     ],
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barron%20Trump",
+        "pubdate": "Thu, 21 Mar 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Dallas Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
         "pubdate": "Thu, 21 Mar 2024 00:00:00 -0400"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "FEQ 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FEQ%202024",
+        "title": "FEQ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FEQ",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 -0400"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "Edmonton Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Oilers",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Michael Keaton Beetlejuice 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Keaton%20Beetlejuice%202",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0400"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Santiago Espinal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Santiago%20Espinal",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alien:%20Romulus",
         "pubdate": "Wed, 20 Mar 2024 15:00:00 -0400"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Santiago Espinal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Santiago%20Espinal",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Shohei Ohtani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shohei%20Ohtani",
         "pubdate": "Wed, 20 Mar 2024 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Yves Michaud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yves%20Michaud",
+        "pubdate": "Wed, 20 Mar 2024 13:00:00 -0400"
       }
     ]
   ]
