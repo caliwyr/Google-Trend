@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2024 , 10:43:53",
+  "lastUpdate": "21-03-2024 , 10:53:20",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Jenny McCarthy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jenny%20McCarthy",
         "pubdate": "Thu, 21 Mar 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julian Assange",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julian%20Assange",
+        "pubdate": "Thu, 21 Mar 2024 00:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Ghostbusters: Legacy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ghostbusters:%20Legacy",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump",
+        "pubdate": "Wed, 20 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Ghostbusters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ghostbusters",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Die glücklichsten Menschen der Welt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20gl%C3%BCcklichsten%20Menschen%20der%20Welt",
         "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fed Zinsentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fed%20Zinsentscheid",
+        "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Fed Zinsentscheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fed%20Zinsentscheid",
-        "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Max%20Verstappen",
+        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Harry Prünster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Pr%C3%BCnster",
         "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KAC",
-        "pubdate": "Wed, 20 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Max%20Verstappen",
-        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Burg Clam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Burg%20Clam",
-        "pubdate": "Wed, 20 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
