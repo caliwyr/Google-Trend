@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-03-2024 , 23:46:39",
+  "lastUpdate": "21-03-2024 , 23:55:55",
   "data": [
+    [
+      {
+        "title": "South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
+        "pubdate": "Fri, 22 Mar 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Markus Jooste",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Andorra vs South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andorra%20vs%20South%20Africa",
-        "pubdate": "Thu, 21 Mar 2024 17:00:00 +0200"
+        "title": "Bafana Bafana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
+        "pubdate": "Thu, 21 Mar 2024 19:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Warzone Mobile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Warzone%20Mobile",
         "pubdate": "Thu, 21 Mar 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andorra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andorra",
+        "pubdate": "Thu, 21 Mar 2024 17:00:00 +0200"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Wales vs Finland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wales%20vs%20Finland",
+        "pubdate": "Thu, 21 Mar 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Screamer' Tshabalala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Screamer'%20Tshabalala",
         "pubdate": "Thu, 21 Mar 2024 22:00:00 +0200"
@@ -83,20 +104,6 @@
         "title": "Bob Marley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bob%20Marley",
         "pubdate": "Thu, 21 Mar 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wales vs Finland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wales%20vs%20Finland",
-        "pubdate": "Thu, 21 Mar 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PTSD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PTSD",
-        "pubdate": "Thu, 21 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Brian Peck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brian%20Peck",
         "pubdate": "Wed, 20 Mar 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dan Schneider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dan%20Schneider",
-        "pubdate": "Wed, 20 Mar 2024 11:00:00 +0200"
       }
     ]
   ]
