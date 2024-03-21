@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "21-03-2024 , 14:36:18",
+  "lastUpdate": "21-03-2024 , 14:45:32",
   "data": [
+    [
+      {
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
+        "pubdate": "Thu, 21 Mar 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Coreia do Sul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
+        "pubdate": "Thu, 21 Mar 2024 08:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Esporte clube bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20clube%20bahia",
         "pubdate": "Thu, 21 Mar 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ayrton Senna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ayrton%20Senna",
+        "pubdate": "Thu, 21 Mar 2024 09:00:00 -0500"
       }
     ],
     [
@@ -17,8 +38,15 @@
     ],
     [
       {
-        "title": "Coreia do Sul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
+        "title": "Saidinhas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saidinhas",
+        "pubdate": "Thu, 21 Mar 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Maozinha Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maozinha%20Pereira",
         "pubdate": "Thu, 21 Mar 2024 08:00:00 -0500"
       }
     ],
@@ -31,9 +59,9 @@
     ],
     [
       {
-        "title": "Maozinha Pereira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maozinha%20Pereira",
-        "pubdate": "Thu, 21 Mar 2024 08:00:00 -0500"
+        "title": "Dragon's Dogma 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dragon's%20Dogma%202",
+        "pubdate": "Thu, 21 Mar 2024 09:00:00 -0500"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ticketmaster",
-        "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Atletico MG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20MG",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Avai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
-        "pubdate": "Wed, 20 Mar 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Remo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
-        "pubdate": "Wed, 20 Mar 2024 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Terremoto Japão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Terremoto%20Jap%C3%A3o",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 -0500"
       }
     ]
   ]

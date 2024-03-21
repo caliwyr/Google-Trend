@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2024 , 14:36:25",
+  "lastUpdate": "21-03-2024 , 14:45:39",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stormy%20Daniels",
+        "pubdate": "Thu, 21 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alien:%20Romulus",
         "pubdate": "Thu, 21 Mar 2024 09:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Mer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mer",
         "pubdate": "Thu, 21 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Down syndrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Down%20syndrom",
-        "pubdate": "Thu, 21 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Bergen storsenter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen%20storsenter",
-        "pubdate": "Wed, 20 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rachida Dati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rachida%20Dati",
         "pubdate": "Wed, 20 Mar 2024 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Kristian Valen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
         "pubdate": "Tue, 19 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dalton Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dalton%20Gomez",
+        "pubdate": "Tue, 19 Mar 2024 15:00:00 +0100"
       }
     ]
   ]
