@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-03-2024 , 00:27:37",
+  "lastUpdate": "21-03-2024 , 01:33:00",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
         "pubdate": "Thu, 21 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dani Alves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dani%20Alves",
+        "pubdate": "Thu, 21 Mar 2024 01:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Alain Chamfort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Chamfort",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Christine Angot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Angot",
         "pubdate": "Wed, 20 Mar 2024 13:00:00 +0100"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Brigitte Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
-        "pubdate": "Wed, 20 Mar 2024 10:00:00 +0100"
+        "title": "Alain Chamfort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Chamfort",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Yasmina Reza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yasmina%20Reza",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jerome Jarre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jerome%20Jarre",
         "pubdate": "Wed, 20 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Yvan Colonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yvan%20Colonna",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
