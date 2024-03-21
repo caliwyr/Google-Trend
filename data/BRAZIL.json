@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-03-2024 , 01:32:58",
+  "lastUpdate": "21-03-2024 , 02:06:17",
   "data": [
-    [
-      {
-        "title": "Caso Daniel Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caso%20Daniel%20Alves",
-        "pubdate": "Wed, 20 Mar 2024 12:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Copa do Nordeste",
@@ -20,6 +13,13 @@
         "title": "Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
         "pubdate": "Wed, 20 Mar 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Caso Daniel Alves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caso%20Daniel%20Alves",
+        "pubdate": "Wed, 20 Mar 2024 12:00:00 -0500"
       }
     ],
     [
@@ -38,9 +38,23 @@
     ],
     [
       {
-        "title": "Selic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
+        "title": "Vila Nova x Goiás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Goi%C3%A1s",
+        "pubdate": "Wed, 20 Mar 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sport Recife x Náutico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20N%C3%A1utico",
         "pubdate": "Wed, 20 Mar 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Wed, 20 Mar 2024 20:00:00 -0500"
       }
     ],
     [
@@ -52,23 +66,16 @@
     ],
     [
       {
-        "title": "Vila Nova x Goiás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Goi%C3%A1s",
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vladimir%20Putin",
+        "pubdate": "Wed, 20 Mar 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Taxa Selic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taxa%20Selic",
         "pubdate": "Wed, 20 Mar 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nautico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
-        "pubdate": "Wed, 20 Mar 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Mineiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20Mineiro",
-        "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
       }
     ],
     [
@@ -80,9 +87,23 @@
     ],
     [
       {
-        "title": "Caetano e bethania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caetano%20e%20bethania",
-        "pubdate": "Wed, 20 Mar 2024 13:00:00 -0500"
+        "title": "Brasiliense x Cuiabá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasiliense%20x%20Cuiab%C3%A1",
+        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atlético Mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20Mineiro",
+        "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Avai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
+        "pubdate": "Wed, 20 Mar 2024 17:00:00 -0500"
       }
     ],
     [
@@ -94,6 +115,20 @@
     ],
     [
       {
+        "title": "Finlandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Finlandia",
+        "pubdate": "Wed, 20 Mar 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Caetano e bethania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caetano%20e%20bethania",
+        "pubdate": "Wed, 20 Mar 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Klara Castanho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Klara%20Castanho",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
@@ -101,43 +136,8 @@
     ],
     [
       {
-        "title": "Brasiliense x Cuiabá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasiliense%20x%20Cuiab%C3%A1",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "X-Men '97",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#X-Men%20'97",
-        "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia da Felicidade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20Felicidade",
-        "pubdate": "Wed, 20 Mar 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sabrina Sato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sabrina%20Sato",
-        "pubdate": "Wed, 20 Mar 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "América-RN x ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-RN%20x%20ABC",
-        "pubdate": "Wed, 20 Mar 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "South Summit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#South%20Summit",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 -0500"
       }
     ]
