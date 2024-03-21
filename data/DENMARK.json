@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2024 , 13:38:41",
+  "lastUpdate": "21-03-2024 , 13:48:04",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "AstroTurf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AstroTurf",
+        "pubdate": "Wed, 20 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brian Peck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brian%20Peck",
         "pubdate": "Wed, 20 Mar 2024 09:00:00 +0100"
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Bocuse d'Or",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bocuse%20d'Or",
+        "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "James Bond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#James%20Bond",
         "pubdate": "Tue, 19 Mar 2024 12:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Halep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Halep",
         "pubdate": "Tue, 19 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SRP",
-        "pubdate": "Tue, 19 Mar 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia",
-        "pubdate": "Tue, 19 Mar 2024 16:00:00 +0100"
       }
     ]
   ]

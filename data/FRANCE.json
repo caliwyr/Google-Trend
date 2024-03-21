@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-03-2024 , 13:38:42",
+  "lastUpdate": "21-03-2024 , 13:48:05",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
         "pubdate": "Thu, 21 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Le probleme a 3 corps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20probleme%20a%203%20corps",
+        "pubdate": "Thu, 21 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Le probleme a 3 corps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20probleme%20a%203%20corps",
-        "pubdate": "Thu, 21 Mar 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Apolline de Malherbe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apolline%20de%20Malherbe",
         "pubdate": "Thu, 21 Mar 2024 11:00:00 +0100"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Alain Chamfort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Chamfort",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brigitte Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
         "pubdate": "Wed, 20 Mar 2024 10:00:00 +0100"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Yasmina Reza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yasmina%20Reza",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
+        "title": "Macron boxe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Macron%20boxe",
+        "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Macron boxe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Macron%20boxe",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
+        "title": "Yasmina Reza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yasmina%20Reza",
+        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Classement lycées",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Classement%20lyc%C3%A9es",
-        "pubdate": "Wed, 20 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Glucksmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glucksmann",
-        "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alien:%20Romulus",
         "pubdate": "Wed, 20 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Classement lycées",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Classement%20lyc%C3%A9es",
+        "pubdate": "Wed, 20 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
