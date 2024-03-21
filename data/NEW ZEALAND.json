@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2024 , 02:38:16",
+  "lastUpdate": "21-03-2024 , 02:47:49",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Recession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Recession",
+        "pubdate": "Thu, 21 Mar 2024 14:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Burnside High School",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Burnside%20High%20School",
         "pubdate": "Thu, 21 Mar 2024 08:00:00 +1300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Recession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Recession",
-        "pubdate": "Thu, 21 Mar 2024 14:00:00 +1300"
+        "title": "DOE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DOE",
+        "pubdate": "Thu, 21 Mar 2024 15:00:00 +1300"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sabalenka",
-        "pubdate": "Wed, 20 Mar 2024 10:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Godfreys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Godfreys",
         "pubdate": "Wed, 20 Mar 2024 22:00:00 +1300"
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "AstroTurf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AstroTurf",
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sabalenka",
         "pubdate": "Wed, 20 Mar 2024 10:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Cosmos Persona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cosmos%20Persona",
-        "pubdate": "Wed, 20 Mar 2024 17:00:00 +1300"
+        "title": "AstroTurf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AstroTurf",
+        "pubdate": "Wed, 20 Mar 2024 10:00:00 +1300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fujifilm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fujifilm",
-        "pubdate": "Wed, 20 Mar 2024 13:00:00 +1300"
+        "title": "Cosmos Persona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cosmos%20Persona",
+        "pubdate": "Wed, 20 Mar 2024 17:00:00 +1300"
       }
     ]
   ]
