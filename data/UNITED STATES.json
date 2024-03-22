@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-03-2024 , 06:38:34",
+  "lastUpdate": "22-03-2024 , 06:48:02",
   "data": [
     [
       {
         "title": "March Madness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#March%20Madness",
         "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kentucky basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 15:00:00 -0700"
       }
     ],
     [
@@ -24,27 +31,6 @@
     ],
     [
       {
-        "title": "USA vs Jamaica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Jamaica",
-        "pubdate": "Thu, 21 Mar 2024 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Road House (2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Road%20House%20(2024",
-        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "NCAA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NCAA",
-        "pubdate": "Thu, 21 Mar 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Michigan State basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20basketball",
         "pubdate": "Thu, 21 Mar 2024 09:00:00 -0700"
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "Illinois basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball",
-        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
+        "title": "USA vs Jamaica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Jamaica",
+        "pubdate": "Thu, 21 Mar 2024 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "CBS Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CBS%20Sports",
+        "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
       }
     ],
     [
@@ -66,9 +59,30 @@
     ],
     [
       {
+        "title": "Illinois basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "NC State basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NC%20State%20basketball",
         "pubdate": "Thu, 21 Mar 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Road House 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Road%20House%202024",
+        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kansas basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kansas%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 19:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tennessee basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20basketball",
         "pubdate": "Thu, 21 Mar 2024 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "CBS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CBS",
-        "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "North Carolina basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#North%20Carolina%20basketball",
-        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
       }
     ]
   ]
