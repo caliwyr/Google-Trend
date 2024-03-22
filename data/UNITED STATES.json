@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-03-2024 , 09:43:38",
+  "lastUpdate": "22-03-2024 , 09:52:55",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "NCAA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NCAA",
-        "pubdate": "Thu, 21 Mar 2024 11:00:00 -0700"
+        "title": "March Madness 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#March%20Madness%202024",
+        "pubdate": "Thu, 21 Mar 2024 16:00:00 -0700"
       }
     ],
     [
@@ -54,13 +54,6 @@
       {
         "title": "3 Body Problem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#3%20Body%20Problem",
-        "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "CBS Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CBS%20Sports",
         "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
       }
     ],
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Dayton basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dayton%20basketball",
-        "pubdate": "Thu, 21 Mar 2024 15:00:00 -0700"
+        "title": "Oregon basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 14:00:00 -0700"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Tennessee basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20basketball",
-        "pubdate": "Thu, 21 Mar 2024 16:00:00 -0700"
+        "title": "Iowa State basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iowa%20State%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 17:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CBS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CBS",
         "pubdate": "Thu, 21 Mar 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "North Carolina basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#North%20Carolina%20basketball",
+        "pubdate": "Thu, 21 Mar 2024 13:00:00 -0700"
       }
     ]
   ]
