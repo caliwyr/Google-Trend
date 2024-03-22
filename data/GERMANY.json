@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-03-2024 , 04:44:33",
+  "lastUpdate": "22-03-2024 , 04:54:01",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Heike Heubach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heike%20Heubach",
-        "pubdate": "Thu, 21 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
         "pubdate": "Thu, 21 Mar 2024 14:00:00 +0100"
@@ -90,13 +83,6 @@
         "title": "Ghostbusters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ghostbusters",
         "pubdate": "Wed, 20 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manuel Neuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manuel%20Neuer",
-        "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuer",
+        "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fed",
         "pubdate": "Wed, 20 Mar 2024 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Leony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leony",
         "pubdate": "Wed, 20 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James Bond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Bond",
+        "pubdate": "Tue, 19 Mar 2024 10:00:00 +0100"
       }
     ]
   ]
