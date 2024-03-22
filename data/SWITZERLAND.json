@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-03-2024 , 13:45:42",
+  "lastUpdate": "22-03-2024 , 13:54:51",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Fri, 22 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jürgen Harksen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#J%C3%BCrgen%20Harksen",
         "pubdate": "Fri, 22 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Adrian Stern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adrian%20Stern",
+        "pubdate": "Fri, 22 Mar 2024 14:00:00 +0100"
       }
     ],
     [
@@ -66,15 +80,15 @@
     ],
     [
       {
-        "title": "Frederic Mitterrand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frederic%20Mitterrand",
+        "title": "Portugal – Suède",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20%E2%80%93%20Su%C3%A8de",
         "pubdate": "Thu, 21 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Portugal – Suède",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20%E2%80%93%20Su%C3%A8de",
+        "title": "Frederic Mitterrand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frederic%20Mitterrand",
         "pubdate": "Thu, 21 Mar 2024 21:00:00 +0100"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Robinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robinho",
-        "pubdate": "Thu, 21 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dragon's Dogma 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dragon's%20Dogma%202",
         "pubdate": "Thu, 21 Mar 2024 13:00:00 +0100"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Reddit-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Reddit-Aktie",
-        "pubdate": "Thu, 21 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dani Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dani%20Alves",
+        "title": "Robinho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robinho",
         "pubdate": "Thu, 21 Mar 2024 11:00:00 +0100"
       }
     ]
