@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-03-2024 , 06:42:42",
+  "lastUpdate": "23-03-2024 , 06:52:03",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Russia",
-        "pubdate": "Sat, 23 Mar 2024 18:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Cameron Diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cameron%20Diaz",
         "pubdate": "Sat, 23 Mar 2024 18:00:00 +1300"
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "SailGP nz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SailGP%20nz",
+        "title": "SailGP NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SailGP%20NZ",
         "pubdate": "Fri, 22 Mar 2024 15:00:00 +1300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Jake Gyllenhaal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jake%20Gyllenhaal",
         "pubdate": "Fri, 22 Mar 2024 22:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Rudd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kevin%20Rudd",
+        "pubdate": "Fri, 22 Mar 2024 20:00:00 +1300"
       }
     ]
   ]
