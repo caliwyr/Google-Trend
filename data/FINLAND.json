@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-03-2024 , 14:50:24",
+  "lastUpdate": "23-03-2024 , 14:59:38",
   "data": [
+    [
+      {
+        "title": "Pelicans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
+        "pubdate": "Sat, 23 Mar 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "The Sun",
@@ -132,13 +139,6 @@
         "title": "3 Body Problem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#3%20Body%20Problem",
         "pubdate": "Thu, 21 Mar 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reddit stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Reddit%20stock",
-        "pubdate": "Thu, 21 Mar 2024 22:00:00 +0200"
       }
     ]
   ]
