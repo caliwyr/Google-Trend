@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-03-2024 , 23:59:24",
+  "lastUpdate": "23-03-2024 , 01:15:34",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russia",
-        "pubdate": "Fri, 22 Mar 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Happy Gilmore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Gilmore",
         "pubdate": "Fri, 22 Mar 2024 17:00:00 -0400"
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Regina King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20King",
+        "pubdate": "Fri, 22 Mar 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Zach Hyman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Hyman",
         "pubdate": "Fri, 22 Mar 2024 12:00:00 -0400"
@@ -97,13 +97,6 @@
         "title": "Deanna Stellato-Dudek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Deanna%20Stellato-Dudek",
         "pubdate": "Fri, 22 Mar 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Regina King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20King",
-        "pubdate": "Fri, 22 Mar 2024 18:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Breaking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Breaking",
         "pubdate": "Fri, 22 Mar 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Truth Social",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Truth%20Social",
+        "pubdate": "Fri, 22 Mar 2024 18:00:00 -0400"
       }
     ]
   ]
