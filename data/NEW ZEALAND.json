@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-03-2024 , 16:49:07",
+  "lastUpdate": "23-03-2024 , 16:58:35",
   "data": [
     [
       {
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
-        "pubdate": "Sat, 23 Mar 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "FIFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FIFA",
-        "pubdate": "Sat, 23 Mar 2024 11:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Cricbuzz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricbuzz",
         "pubdate": "Sat, 23 Mar 2024 10:00:00 +1300"
@@ -96,7 +82,7 @@
       {
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
-        "pubdate": "Fri, 22 Mar 2024 18:00:00 +1300"
+        "pubdate": "Fri, 22 Mar 2024 17:00:00 +1300"
       }
     ],
     [
@@ -111,6 +97,13 @@
         "title": "SailGP NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SailGP%20NZ",
         "pubdate": "Fri, 22 Mar 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oppenheimer",
+        "pubdate": "Fri, 22 Mar 2024 21:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hurricanes vs Rebels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hurricanes%20vs%20Rebels",
         "pubdate": "Fri, 22 Mar 2024 20:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Warriors game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20game",
+        "pubdate": "Fri, 22 Mar 2024 18:00:00 +1300"
       }
     ]
   ]
