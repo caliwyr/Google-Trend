@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-03-2024 , 04:47:49",
+  "lastUpdate": "23-03-2024 , 04:57:20",
   "data": [
+    [
+      {
+        "title": "Blake Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blake%20Lively",
+        "pubdate": "Sat, 23 Mar 2024 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Kate Middleton news",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Moscow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moscow",
-        "pubdate": "Fri, 22 Mar 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Fri, 22 Mar 2024 02:00:00 -0400"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
-        "pubdate": "Fri, 22 Mar 2024 21:00:00 -0400"
+        "title": "Moscow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moscow",
+        "pubdate": "Fri, 22 Mar 2024 16:00:00 -0400"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Happy Gilmore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20Gilmore",
         "pubdate": "Fri, 22 Mar 2024 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
+        "pubdate": "Fri, 22 Mar 2024 21:00:00 -0400"
       }
     ],
     [
@@ -87,20 +94,6 @@
     ],
     [
       {
-        "title": "William Shatner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#William%20Shatner",
-        "pubdate": "Fri, 22 Mar 2024 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs El Salvador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20El%20Salvador",
-        "pubdate": "Fri, 22 Mar 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ruby Franke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ruby%20Franke",
         "pubdate": "Fri, 22 Mar 2024 20:00:00 -0400"
@@ -108,23 +101,9 @@
     ],
     [
       {
-        "title": "Connor McDavid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
-        "pubdate": "Fri, 22 Mar 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Regina King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20King",
-        "pubdate": "Fri, 22 Mar 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Zach Hyman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Hyman",
-        "pubdate": "Fri, 22 Mar 2024 12:00:00 -0400"
+        "title": "William Shatner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#William%20Shatner",
+        "pubdate": "Fri, 22 Mar 2024 11:00:00 -0400"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Argentina vs El Salvador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20El%20Salvador",
+        "pubdate": "Fri, 22 Mar 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Deanna Stellato-Dudek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Deanna%20Stellato-Dudek",
         "pubdate": "Fri, 22 Mar 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Regina King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20King",
+        "pubdate": "Fri, 22 Mar 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Connor McDavid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
+        "pubdate": "Fri, 22 Mar 2024 09:00:00 -0400"
       }
     ]
   ]
