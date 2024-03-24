@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 07:49:34",
+  "lastUpdate": "24-03-2024 , 07:58:54",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Porto Canal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20Canal",
+        "pubdate": "Sat, 23 Mar 2024 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid Porto lendas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20Porto%20lendas",
         "pubdate": "Sat, 23 Mar 2024 16:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Ioannidis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ioannidis",
         "pubdate": "Sat, 23 Mar 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Colombia",
-        "pubdate": "Sat, 23 Mar 2024 00:00:00 +0000"
       }
     ]
   ]
