@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-03-2024 , 10:43:54",
+  "lastUpdate": "24-03-2024 , 10:53:24",
   "data": [
-    [
-      {
-        "title": "Carlos Sainz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carlos%20Sainz",
-        "pubdate": "Sun, 24 Mar 2024 07:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Blake Lively",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Operettszínház",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Operettsz%C3%ADnh%C3%A1z",
-        "pubdate": "Sun, 24 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Franciaország",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franciaorsz%C3%A1g",
         "pubdate": "Sun, 24 Mar 2024 08:00:00 +0100"
@@ -55,6 +41,13 @@
         "title": "Benji Madden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benji%20Madden",
         "pubdate": "Sat, 23 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Szellő István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szell%C5%91%20Istv%C3%A1n",
+        "pubdate": "Sat, 23 Mar 2024 16:00:00 +0100"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula%201",
+        "pubdate": "Sat, 23 Mar 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mészáros Árpád Zsolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20%C3%81rp%C3%A1d%20Zsolt",
         "pubdate": "Sat, 23 Mar 2024 15:00:00 +0100"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula%201",
-        "pubdate": "Sat, 23 Mar 2024 08:00:00 +0100"
+        "title": "Majka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
+        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Majka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MotoGP",
         "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ]
