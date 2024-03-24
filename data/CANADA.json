@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 15:44:45",
+  "lastUpdate": "24-03-2024 , 15:53:57",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lewis%20Hamilton",
         "pubdate": "Sun, 24 Mar 2024 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
+        "pubdate": "Sun, 24 Mar 2024 09:00:00 -0400"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Earth Hour 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Earth%20Hour%202024",
-        "pubdate": "Sat, 23 Mar 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Shirley Chisholm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shirley%20Chisholm",
         "pubdate": "Sat, 23 Mar 2024 18:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
-        "pubdate": "Sat, 23 Mar 2024 02:00:00 -0400"
+        "title": "Earth Hour 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Earth%20Hour%202024",
+        "pubdate": "Sat, 23 Mar 2024 19:00:00 -0400"
       }
     ]
   ]
