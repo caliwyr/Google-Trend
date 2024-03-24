@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 05:45:14",
+  "lastUpdate": "24-03-2024 , 05:54:31",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "France Allemagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20Allemagne",
+        "title": "France - Allemagne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20-%20Allemagne",
         "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Formel 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201",
+        "pubdate": "Sat, 23 Mar 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cameron Diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cameron%20Diaz",
         "pubdate": "Sat, 23 Mar 2024 11:00:00 +0100"
@@ -69,6 +76,13 @@
         "title": "England Brasilien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#England%20Brasilien",
         "pubdate": "Sat, 23 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stromausfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall",
+        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "TF1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#TF1",
         "pubdate": "Sat, 23 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stau Gotthard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stau%20Gotthard",
-        "pubdate": "Sat, 23 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
-        "pubdate": "Sat, 23 Mar 2024 08:00:00 +0100"
       }
     ]
   ]
