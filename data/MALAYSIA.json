@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 14:50:26",
+  "lastUpdate": "24-03-2024 , 14:59:41",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#France",
-        "pubdate": "Sun, 24 Mar 2024 05:00:00 +0800"
+        "title": "Australian GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australian%20GP",
+        "pubdate": "Sun, 24 Mar 2024 01:00:00 +0800"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Mike Gallagher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mike%20Gallagher",
-        "pubdate": "Sun, 24 Mar 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Bonus Raya 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bonus%20Raya%202024",
         "pubdate": "Sun, 24 Mar 2024 19:00:00 +0800"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Iceland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iceland",
-        "pubdate": "Sun, 24 Mar 2024 10:00:00 +0800"
+        "title": "Mike Gallagher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mike%20Gallagher",
+        "pubdate": "Sun, 24 Mar 2024 02:00:00 +0800"
       }
     ],
     [
@@ -101,16 +94,9 @@
     ],
     [
       {
-        "title": "England football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20football",
+        "title": "England Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20Football",
         "pubdate": "Sat, 23 Mar 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs El Salvador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina%20vs%20El%20Salvador",
-        "pubdate": "Sat, 23 Mar 2024 08:00:00 +0800"
       }
     ],
     [
@@ -118,6 +104,13 @@
         "title": "France vs Germany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#France%20vs%20Germany",
         "pubdate": "Sat, 23 Mar 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Argentina vs El Salvador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina%20vs%20El%20Salvador",
+        "pubdate": "Sat, 23 Mar 2024 08:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Palm Sunday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Palm%20Sunday",
         "pubdate": "Sat, 23 Mar 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MotoGP",
+        "pubdate": "Sat, 23 Mar 2024 15:00:00 +0800"
       }
     ]
   ]
