@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-03-2024 , 09:53:13",
+  "lastUpdate": "24-03-2024 , 10:08:28",
   "data": [
-    [
-      {
-        "title": "Gp Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gp%20Australia",
-        "pubdate": "Sun, 24 Mar 2024 02:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Charles Leclerc",
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Inglaterra - Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inglaterra%20-%20Brasil",
+        "title": "Inglaterra  Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inglaterra%20%20Brasil",
         "pubdate": "Sat, 23 Mar 2024 02:00:00 -0600"
       }
     ],
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Max%20Verstappen",
+        "title": "GP Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#GP%20Australia",
         "pubdate": "Sat, 23 Mar 2024 23:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Uruguay vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Uruguay%20vs",
+        "pubdate": "Sat, 23 Mar 2024 14:00:00 -0600"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Productor Nicandro diaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Productor%20Nicandro%20diaz",
         "pubdate": "Sat, 23 Mar 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Uruguay vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Uruguay%20vs",
-        "pubdate": "Sat, 23 Mar 2024 14:00:00 -0600"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Terapias de conversión",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Terapias%20de%20conversi%C3%B3n",
         "pubdate": "Sat, 23 Mar 2024 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Krispy Kreme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Krispy%20Kreme",
+        "pubdate": "Sat, 23 Mar 2024 17:00:00 -0600"
       }
     ]
   ]
