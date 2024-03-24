@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 04:47:30",
+  "lastUpdate": "24-03-2024 , 04:56:49",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "ISS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ISS",
+        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Therese Johaug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Therese%20Johaug",
         "pubdate": "Sat, 23 Mar 2024 16:00:00 +0100"
@@ -62,6 +69,13 @@
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macron",
         "pubdate": "Sat, 23 Mar 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ruby Franke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ruby%20Franke",
+        "pubdate": "Sat, 23 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "Earth Hour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Earth%20Hour",
+        "title": "Earth hour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Earth%20hour",
         "pubdate": "Fri, 22 Mar 2024 19:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
         "pubdate": "Fri, 22 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sven-Göran Eriksson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sven-G%C3%B6ran%20Eriksson",
-        "pubdate": "Fri, 22 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dogge Doggelito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dogge%20Doggelito",
-        "pubdate": "Fri, 22 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
