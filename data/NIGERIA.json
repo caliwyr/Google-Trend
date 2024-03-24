@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 06:47:18",
+  "lastUpdate": "24-03-2024 , 06:56:49",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Palm Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Palm%20Sunday",
+        "pubdate": "Sat, 23 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ireland vs Belgium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ireland%20vs%20Belgium",
         "pubdate": "Sat, 23 Mar 2024 18:00:00 +0100"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Palm Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Palm%20Sunday",
-        "pubdate": "Sat, 23 Mar 2024 18:00:00 +0100"
+        "title": "Sharon Ooja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sharon%20Ooja",
+        "pubdate": "Sat, 23 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Sharon Ooja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sharon%20Ooja",
-        "pubdate": "Sat, 23 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Russia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Russia",
         "pubdate": "Sat, 23 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Denmark Vs Switzerland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Denmark%20Vs%20Switzerland",
-        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "England vs Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England%20vs%20Brazil",
         "pubdate": "Fri, 22 Mar 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria",
+        "pubdate": "Fri, 22 Mar 2024 19:00:00 +0100"
       }
     ]
   ]
