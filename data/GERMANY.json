@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-03-2024 , 01:05:05",
+  "lastUpdate": "24-03-2024 , 02:00:46",
   "data": [
     [
       {
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
+        "title": "Ter Stegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ter%20Stegen",
         "pubdate": "Sat, 23 Mar 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ter Stegen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ter%20Stegen",
+        "title": "Fussball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
         "pubdate": "Sat, 23 Mar 2024 22:00:00 +0100"
       }
     ],
@@ -69,6 +69,13 @@
         "title": "Arminia Bielefeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
         "pubdate": "Sat, 23 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Andrich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Andrich",
+        "pubdate": "Sat, 23 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "DFB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
         "pubdate": "Fri, 22 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Steff Jerkel Goodbye Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steff%20Jerkel%20Goodbye%20Deutschland",
-        "pubdate": "Fri, 22 Mar 2024 21:00:00 +0100"
       }
     ]
   ]
