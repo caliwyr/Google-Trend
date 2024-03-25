@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-03-2024 , 11:43:22",
+  "lastUpdate": "25-03-2024 , 11:52:36",
   "data": [
     [
       {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
         "pubdate": "Mon, 25 Mar 2024 04:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Paro de colectivos Rosario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20de%20colectivos%20Rosario",
+        "pubdate": "Mon, 25 Mar 2024 08:00:00 -0300"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Domingo de Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Domingo%20de%20Ramos",
+        "pubdate": "Sun, 24 Mar 2024 04:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "México  Estados Unidos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#M%C3%A9xico%20%20Estados%20Unidos",
         "pubdate": "Sun, 24 Mar 2024 22:00:00 -0300"
@@ -34,13 +48,6 @@
         "title": "Ecuador  Italia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador%20%20Italia",
         "pubdate": "Sun, 24 Mar 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Domingo de Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Domingo%20de%20Ramos",
-        "pubdate": "Sun, 24 Mar 2024 04:00:00 -0300"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Taringa!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Taringa!",
-        "pubdate": "Sun, 24 Mar 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "San Marino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Marino",
         "pubdate": "Sun, 24 Mar 2024 18:00:00 -0300"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Falcao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Falcao",
-        "pubdate": "Sun, 24 Mar 2024 01:00:00 -0300"
+        "title": "C5N",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#C5N",
+        "pubdate": "Sun, 24 Mar 2024 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "C5N",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#C5N",
+        "title": "Argentina, 1985",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina,%201985",
         "pubdate": "Sun, 24 Mar 2024 17:00:00 -0300"
       }
     ]
