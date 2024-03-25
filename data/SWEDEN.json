@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-03-2024 , 05:50:42",
+  "lastUpdate": "25-03-2024 , 06:00:08",
   "data": [
     [
       {
         "title": "Macchiarini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macchiarini",
         "pubdate": "Mon, 25 Mar 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Våffeldagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A5ffeldagen",
+        "pubdate": "Sun, 24 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Frölunda Leksand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Leksand",
-        "pubdate": "Sun, 24 Mar 2024 22:00:00 +0100"
+        "title": "Tumlare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tumlare",
+        "pubdate": "Sun, 24 Mar 2024 03:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tumlare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tumlare",
-        "pubdate": "Sun, 24 Mar 2024 03:00:00 +0100"
+        "title": "Frölunda Leksand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Leksand",
+        "pubdate": "Sun, 24 Mar 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Emporia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emporia",
         "pubdate": "Sat, 23 Mar 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#England",
-        "pubdate": "Sat, 23 Mar 2024 23:00:00 +0100"
       }
     ]
   ]

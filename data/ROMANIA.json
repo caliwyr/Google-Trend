@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-03-2024 , 05:50:41",
+  "lastUpdate": "25-03-2024 , 06:00:07",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Duminica Ortodoxiei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Duminica%20Ortodoxiei",
-        "pubdate": "Sun, 24 Mar 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MOTO GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MOTO%20GP",
         "pubdate": "Sun, 24 Mar 2024 17:00:00 +0200"
@@ -117,7 +110,7 @@
       {
         "title": "Nicolae Manolescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolae%20Manolescu",
-        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0200"
+        "pubdate": "Sat, 23 Mar 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Romania Columbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Columbia",
         "pubdate": "Sat, 23 Mar 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Selly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Selly",
+        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0200"
       }
     ]
   ]
