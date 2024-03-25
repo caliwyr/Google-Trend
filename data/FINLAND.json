@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-03-2024 , 14:43:40",
+  "lastUpdate": "25-03-2024 , 14:53:05",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Mikael Granlund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mikael%20Granlund",
-        "pubdate": "Sat, 23 Mar 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IPL",
         "pubdate": "Sat, 23 Mar 2024 01:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Dragon's Dogma 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dragon's%20Dogma%202",
         "pubdate": "Fri, 22 Mar 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dailymail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dailymail",
+        "pubdate": "Fri, 22 Mar 2024 21:00:00 +0200"
       }
     ]
   ]
