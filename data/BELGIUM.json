@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "25-03-2024 , 16:48:00",
+  "lastUpdate": "25-03-2024 , 16:57:24",
   "data": [
+    [
+      {
+        "title": "Ilse De Meulemeester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ilse%20De%20Meulemeester",
+        "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Def Rhymz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Def%20Rhymz",
         "pubdate": "Mon, 25 Mar 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Derrick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Derrick",
+        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Fritz Wepper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fritz%20Wepper",
-        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Van Hool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Hool",
         "pubdate": "Mon, 25 Mar 2024 16:00:00 +0100"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Vlaams Belang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vlaams%20Belang",
-        "pubdate": "Mon, 25 Mar 2024 16:00:00 +0100"
+        "title": "Filip Dewinter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Filip%20Dewinter",
+        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Belang van Limburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belang%20van%20Limburg",
+        "pubdate": "Mon, 25 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "Fernando Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fernando%20Alonso",
         "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Filip Dewinter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Filip%20Dewinter",
-        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Reims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Reims",
         "pubdate": "Mon, 25 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manifestation agriculteurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manifestation%20agriculteurs",
+        "pubdate": "Mon, 25 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -94,8 +108,22 @@
     ],
     [
       {
-        "title": "Glenn Janssens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Glenn%20Janssens",
+        "title": "Wout van Aert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
+        "pubdate": "Sun, 24 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dwars door Vlaanderen 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwars%20door%20Vlaanderen%202024",
+        "pubdate": "Sun, 24 Mar 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anais Robin deces accident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anais%20Robin%20deces%20accident",
         "pubdate": "Sun, 24 Mar 2024 23:00:00 +0100"
       }
     ],
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Anais Robin deces accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anais%20Robin%20deces%20accident",
-        "pubdate": "Sun, 24 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
-        "pubdate": "Sun, 24 Mar 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ronde van Vlaanderen 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Vlaanderen%202024",
         "pubdate": "Sun, 24 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gent-Wevelgem live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gent-Wevelgem%20live",
-        "pubdate": "Sun, 24 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dwars door Vlaanderen 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dwars%20door%20Vlaanderen%202024",
-        "pubdate": "Sun, 24 Mar 2024 18:00:00 +0100"
       }
     ]
   ]
