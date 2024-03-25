@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-03-2024 , 17:44:15",
+  "lastUpdate": "25-03-2024 , 17:53:34",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Madonna",
+        "pubdate": "Mon, 25 Mar 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Odermatt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Odermatt",
         "pubdate": "Mon, 25 Mar 2024 12:00:00 +0100"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
+        "title": "Ruswil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruswil",
         "pubdate": "Mon, 25 Mar 2024 09:00:00 +0100"
       }
     ],
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
+        "pubdate": "Mon, 25 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pleine lune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pleine%20lune",
         "pubdate": "Mon, 25 Mar 2024 02:00:00 +0100"
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Meteo France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
-        "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
+        "title": "Osterhase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osterhase",
+        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Osterhase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Osterhase",
-        "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
+        "title": "Meteo France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
+        "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wann ist Vollmond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wann%20ist%20Vollmond",
         "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Emily Blunt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emily%20Blunt",
-        "pubdate": "Mon, 25 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vissoie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vissoie",
-        "pubdate": "Mon, 25 Mar 2024 01:00:00 +0100"
       }
     ]
   ]
