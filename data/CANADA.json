@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-03-2024 , 21:49:49",
+  "lastUpdate": "25-03-2024 , 21:59:11",
   "data": [
     [
       {
         "title": "Solar eclipse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solar%20eclipse",
         "pubdate": "Mon, 25 Mar 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Holi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Holi",
+        "pubdate": "Mon, 25 Mar 2024 10:00:00 -0400"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Good Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Good%20Friday",
         "pubdate": "Mon, 25 Mar 2024 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Eclipse 8 avril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eclipse%208%20avril",
+        "pubdate": "Mon, 25 Mar 2024 12:00:00 -0400"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Eclipse solaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eclipse%20solaire",
-        "pubdate": "Mon, 25 Mar 2024 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Hip-drop tackle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hip-drop%20tackle",
         "pubdate": "Mon, 25 Mar 2024 15:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Senator Murkowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senator%20Murkowski",
         "pubdate": "Sun, 24 Mar 2024 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Homan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rachel%20Homan",
-        "pubdate": "Sun, 24 Mar 2024 20:00:00 -0400"
       }
     ]
   ]
