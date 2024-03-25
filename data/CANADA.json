@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-03-2024 , 02:49:55",
+  "lastUpdate": "25-03-2024 , 02:59:09",
   "data": [
-    [
-      {
-        "title": "Rachel Homan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rachel%20Homan",
-        "pubdate": "Sun, 24 Mar 2024 20:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Maple Leafs vs Hurricanes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Hurricanes",
         "pubdate": "Sun, 24 Mar 2024 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rachel Homan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rachel%20Homan",
+        "pubdate": "Sun, 24 Mar 2024 20:00:00 -0400"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Connor McDavid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
-        "pubdate": "Sun, 24 Mar 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Lisa Murkowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lisa%20Murkowski",
         "pubdate": "Sun, 24 Mar 2024 14:00:00 -0400"
@@ -45,30 +38,9 @@
     ],
     [
       {
-        "title": "Oilers vs Senators",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20vs%20Senators",
-        "pubdate": "Sun, 24 Mar 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Ilia Malinin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ilia%20Malinin",
-        "pubdate": "Sun, 24 Mar 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "GT vs MI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#GT%20vs%20MI",
-        "pubdate": "Sun, 24 Mar 2024 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Charlotte Cardin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Charlotte%20Cardin",
-        "pubdate": "Sun, 24 Mar 2024 16:00:00 -0400"
+        "title": "Connor McDavid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
+        "pubdate": "Sun, 24 Mar 2024 09:00:00 -0400"
       }
     ],
     [
@@ -80,23 +52,9 @@
     ],
     [
       {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andy%20Murray",
-        "pubdate": "Sun, 24 Mar 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lewis%20Hamilton",
+        "title": "Ilia Malinin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ilia%20Malinin",
         "pubdate": "Sun, 24 Mar 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Mackenzie Hughes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mackenzie%20Hughes",
-        "pubdate": "Sun, 24 Mar 2024 17:00:00 -0400"
       }
     ],
     [
@@ -108,9 +66,37 @@
     ],
     [
       {
-        "title": "Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
-        "pubdate": "Sun, 24 Mar 2024 09:00:00 -0400"
+        "title": "GT vs MI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#GT%20vs%20MI",
+        "pubdate": "Sun, 24 Mar 2024 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Tegan and Sara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tegan%20and%20Sara",
+        "pubdate": "Sun, 24 Mar 2024 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lewis%20Hamilton",
+        "pubdate": "Sun, 24 Mar 2024 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Andy Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andy%20Murray",
+        "pubdate": "Sun, 24 Mar 2024 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Mackenzie Hughes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mackenzie%20Hughes",
+        "pubdate": "Sun, 24 Mar 2024 17:00:00 -0400"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
+        "pubdate": "Sun, 24 Mar 2024 09:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Around the Bay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Around%20the%20Bay",
         "pubdate": "Sun, 24 Mar 2024 14:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Brian Mulroney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brian%20Mulroney",
         "pubdate": "Sat, 23 Mar 2024 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Oilers vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20vs%20Maple%20Leafs",
+        "pubdate": "Sat, 23 Mar 2024 20:00:00 -0400"
       }
     ]
   ]
