@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-03-2024 , 23:46:21",
+  "lastUpdate": "25-03-2024 , 23:55:41",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Tỷ giá USD/VND",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%B7%20gi%C3%A1%20USD/VND",
+        "pubdate": "Mon, 25 Mar 2024 20:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "NVL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#NVL",
         "pubdate": "Mon, 25 Mar 2024 16:00:00 +0700"
@@ -132,13 +139,6 @@
         "title": "Văn khấn ngày Rằm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C4%83n%20kh%E1%BA%A5n%20ng%C3%A0y%20R%E1%BA%B1m",
         "pubdate": "Sun, 24 Mar 2024 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Queen of Tears tập 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Queen%20of%20Tears%20t%E1%BA%ADp%206",
-        "pubdate": "Sun, 24 Mar 2024 22:00:00 +0700"
       }
     ]
   ]
