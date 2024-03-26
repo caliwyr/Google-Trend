@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 20:45:22",
+  "lastUpdate": "26-03-2024 , 20:54:42",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Magyarország foci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g%20foci",
+        "pubdate": "Tue, 26 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Magyarország foci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g%20foci",
-        "pubdate": "Tue, 26 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Borkai Zsolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Borkai%20Zsolt",
         "pubdate": "Tue, 26 Mar 2024 16:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Szentkirályi ásványvíz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentkir%C3%A1lyi%20%C3%A1sv%C3%A1nyv%C3%ADz",
-        "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
+        "title": "Eb-selejtező",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eb-selejtez%C5%91",
+        "pubdate": "Tue, 26 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Szentkirályi ásványvíz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentkir%C3%A1lyi%20%C3%A1sv%C3%A1nyv%C3%ADz",
+        "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Suki Waterhouse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Suki%20Waterhouse",
         "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Eb-selejtező",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eb-selejtez%C5%91",
-        "pubdate": "Tue, 26 Mar 2024 20:00:00 +0100"
+        "title": "Foci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Foci",
+        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "South Park: Snow Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#South%20Park:%20Snow%20Day",
+        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bodrogi Gyula",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bodrogi%20Gyula",
         "pubdate": "Mon, 25 Mar 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dárdai Blanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A1rdai%20Blanka",
-        "pubdate": "Mon, 25 Mar 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oroszország terrortámadás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oroszorsz%C3%A1g%20terrort%C3%A1mad%C3%A1s",
-        "pubdate": "Mon, 25 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
