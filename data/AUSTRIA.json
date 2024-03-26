@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 19:48:42",
+  "lastUpdate": "26-03-2024 , 19:58:00",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Fussball EM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20EM",
+        "pubdate": "Tue, 26 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arnold%20Schwarzenegger",
         "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Diana Ross",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Diana%20Ross",
         "pubdate": "Tue, 26 Mar 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fussball EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20EM",
-        "pubdate": "Tue, 26 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Liam Neeson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liam%20Neeson",
         "pubdate": "Tue, 26 Mar 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Suki Waterhouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Suki%20Waterhouse",
+        "pubdate": "Tue, 26 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ryan Gosling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ryan%20Gosling",
         "pubdate": "Mon, 25 Mar 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ICE Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
-        "pubdate": "Mon, 25 Mar 2024 12:00:00 +0100"
       }
     ]
   ]
