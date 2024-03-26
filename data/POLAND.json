@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 22:48:28",
+  "lastUpdate": "26-03-2024 , 22:57:46",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Hurkacz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
-        "pubdate": "Tue, 26 Mar 2024 09:00:00 +0100"
+        "title": "Gruzja - Grecja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gruzja%20-%20Grecja",
+        "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jakub Piotrowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20Piotrowski",
+        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "Gruzja - Grecja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gruzja%20-%20Grecja",
-        "pubdate": "Tue, 26 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Piotrowski Jakub",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotrowski%20Jakub",
-        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dacia",
         "pubdate": "Tue, 26 Mar 2024 17:00:00 +0100"
@@ -73,16 +66,23 @@
     ],
     [
       {
-        "title": "Inea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inea",
-        "pubdate": "Tue, 26 Mar 2024 12:00:00 +0100"
+        "title": "Kieffer Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kieffer%20Moore",
+        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lewandowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewandowski",
+        "title": "Ukraina mecze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukraina%20mecze",
         "pubdate": "Tue, 26 Mar 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inea",
+        "pubdate": "Tue, 26 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Bale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bale",
+        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leszek Bugajski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Leszek%20Bugajski",
         "pubdate": "Tue, 26 Mar 2024 18:00:00 +0100"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Bale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bale",
-        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
+        "title": "Portugalia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Portugalia",
+        "pubdate": "Tue, 26 Mar 2024 23:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Na Wspólnej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Na%20Wsp%C3%B3lnej",
-        "pubdate": "Tue, 26 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kobieta z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kobieta%20z",
-        "pubdate": "Tue, 26 Mar 2024 15:00:00 +0100"
+        "title": "Bosak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bosak",
+        "pubdate": "Tue, 26 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
