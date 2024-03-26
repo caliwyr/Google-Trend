@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 01:43:38",
+  "lastUpdate": "26-03-2024 , 02:11:25",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Ruswil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruswil",
+        "pubdate": "Mon, 25 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Maghreb staaten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maghreb%20staaten",
         "pubdate": "Mon, 25 Mar 2024 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Pleine lune",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pleine%20lune",
         "pubdate": "Mon, 25 Mar 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meteo France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
-        "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
       }
     ]
   ]

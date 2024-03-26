@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 01:43:31",
+  "lastUpdate": "26-03-2024 , 02:11:19",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Brigitte Garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brigitte%20Garcia",
         "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Los Angeles Kings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Los%20Angeles%20Kings",
+        "pubdate": "Mon, 25 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Little Women",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Little%20Women",
         "pubdate": "Sun, 24 Mar 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gent-Wevelgem 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gent-Wevelgem%202024",
-        "pubdate": "Sat, 23 Mar 2024 20:00:00 +0100"
       }
     ]
   ]
