@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-03-2024 , 23:55:39",
+  "lastUpdate": "26-03-2024 , 00:55:03",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Karfreitag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karfreitag",
+        "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Anais Robin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anais%20Robin",
         "pubdate": "Mon, 25 Mar 2024 10:00:00 +0100"
@@ -104,6 +111,13 @@
         "title": "Bassirou Diomaye Faye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bassirou%20Diomaye%20Faye",
         "pubdate": "Mon, 25 Mar 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Axel Franzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Axel%20Franzen",
+        "pubdate": "Mon, 25 Mar 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Axel Franzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Axel%20Franzen",
-        "pubdate": "Mon, 25 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Meteo France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteo%20France",
         "pubdate": "Mon, 25 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Selena%20Gomez",
-        "pubdate": "Mon, 25 Mar 2024 09:00:00 +0100"
       }
     ]
   ]
