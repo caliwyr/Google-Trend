@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 06:49:50",
+  "lastUpdate": "26-03-2024 , 06:59:11",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "ATV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ATV",
+        "pubdate": "Mon, 25 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "UTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UTV",
         "pubdate": "Sun, 24 Mar 2024 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Flekkefjord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Flekkefjord",
         "pubdate": "Sun, 24 Mar 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Julia Roberts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Julia%20Roberts",
-        "pubdate": "Sun, 24 Mar 2024 21:00:00 +0100"
       }
     ]
   ]
