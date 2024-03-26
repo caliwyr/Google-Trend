@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-03-2024 , 07:44:40",
+  "lastUpdate": "26-03-2024 , 07:53:53",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Marozsan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marozsan",
+        "pubdate": "Sun, 24 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "BYD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
         "pubdate": "Sun, 24 Mar 2024 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "England vs Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#England%20vs%20Brazil",
         "pubdate": "Sat, 23 Mar 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benji Madden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Benji%20Madden",
-        "pubdate": "Sat, 23 Mar 2024 11:00:00 +0100"
       }
     ]
   ]
