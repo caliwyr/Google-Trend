@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-03-2024 , 15:46:22",
+  "lastUpdate": "28-03-2024 , 15:55:41",
   "data": [
     [
       {
         "title": "WRC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#WRC",
         "pubdate": "Thu, 28 Mar 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Holy Thursday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Holy%20Thursday",
+        "pubdate": "Thu, 28 Mar 2024 14:00:00 +0300"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Holy Thursday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Holy%20Thursday",
-        "pubdate": "Thu, 28 Mar 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Judicial Service Commission",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Judicial%20Service%20Commission",
         "pubdate": "Thu, 28 Mar 2024 14:00:00 +0300"
@@ -40,13 +40,6 @@
       {
         "title": "Good Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Good%20Friday",
-        "pubdate": "Thu, 28 Mar 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Maundy Thursday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Maundy%20Thursday",
         "pubdate": "Thu, 28 Mar 2024 16:00:00 +0300"
       }
     ],
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Kenya Airways profit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Airways%20profit",
-        "pubdate": "Wed, 27 Mar 2024 12:00:00 +0300"
+        "title": "Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Euro%202024",
+        "pubdate": "Wed, 27 Mar 2024 19:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Euro%202024",
-        "pubdate": "Wed, 27 Mar 2024 19:00:00 +0300"
+        "title": "Kenya Airways profit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Airways%20profit",
+        "pubdate": "Wed, 27 Mar 2024 12:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lamine%20Yamal",
         "pubdate": "Wed, 27 Mar 2024 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "King Roso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#King%20Roso",
+        "pubdate": "Wed, 27 Mar 2024 11:00:00 +0300"
       }
     ]
   ]
