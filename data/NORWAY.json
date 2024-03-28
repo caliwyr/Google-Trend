@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-03-2024 , 10:46:51",
+  "lastUpdate": "28-03-2024 , 10:56:17",
   "data": [
+    [
+      {
+        "title": "Bergen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen",
+        "pubdate": "Thu, 28 Mar 2024 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Skjærtorsdag",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Polet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Polet",
-        "pubdate": "Wed, 27 Mar 2024 00:00:00 +0100"
+        "title": "Aurora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
+        "pubdate": "Wed, 27 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Kvadrat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kvadrat",
         "pubdate": "Wed, 27 Mar 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aurora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
-        "pubdate": "Wed, 27 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Onsdag før skjærtorsdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Onsdag%20f%C3%B8r%20skj%C3%A6rtorsdag",
         "pubdate": "Wed, 27 Mar 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CC Gjøvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#CC%20Gj%C3%B8vik",
-        "pubdate": "Wed, 27 Mar 2024 11:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Baltimore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Baltimore",
+        "pubdate": "Tue, 26 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Francis Scott Key Bridge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Francis%20Scott%20Key%20Bridge",
         "pubdate": "Tue, 26 Mar 2024 09:00:00 +0100"
       }
     ]
