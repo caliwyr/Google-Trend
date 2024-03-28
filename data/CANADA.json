@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-03-2024 , 06:40:21",
+  "lastUpdate": "28-03-2024 , 06:49:40",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Wind warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wind%20warning",
-        "pubdate": "Wed, 27 Mar 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Melanoma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Melanoma",
         "pubdate": "Wed, 27 Mar 2024 08:00:00 -0400"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Canada Goose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Goose",
-        "pubdate": "Wed, 27 Mar 2024 08:00:00 -0400"
+        "title": "Ethan Bear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ethan%20Bear",
+        "pubdate": "Wed, 27 Mar 2024 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Elin Nordegren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elin%20Nordegren",
+        "pubdate": "Wed, 27 Mar 2024 19:00:00 -0400"
       }
     ]
   ]
