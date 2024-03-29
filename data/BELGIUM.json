@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-03-2024 , 00:34:26",
+  "lastUpdate": "29-03-2024 , 01:33:56",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Redactie Jong VRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Redactie%20Jong%20VRT",
-        "pubdate": "Thu, 28 Mar 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pompidou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pompidou",
         "pubdate": "Thu, 28 Mar 2024 08:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
         "pubdate": "Thu, 28 Mar 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Armand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Armand",
+        "pubdate": "Thu, 28 Mar 2024 00:00:00 +0100"
       }
     ]
   ]
