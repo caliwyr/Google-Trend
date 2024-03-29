@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-03-2024 , 06:38:30",
+  "lastUpdate": "29-03-2024 , 06:47:49",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Motor České Budějovice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Motor%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "pubdate": "Thu, 28 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Velký pátek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velk%C3%BD%20p%C3%A1tek",
+        "pubdate": "Thu, 28 Mar 2024 19:00:00 +0100"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Vesele Velikonoce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesele%20Velikonoce",
-        "pubdate": "Thu, 28 Mar 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Letní čas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letn%C3%AD%20%C4%8Das",
         "pubdate": "Thu, 28 Mar 2024 21:00:00 +0100"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Dominik Feri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominik%20Feri",
+        "pubdate": "Thu, 28 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Andrea Bezděková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrea%20Bezd%C4%9Bkov%C3%A1",
         "pubdate": "Thu, 28 Mar 2024 08:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Ninja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ninja",
         "pubdate": "Thu, 28 Mar 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sagrada Familia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sagrada%20Familia",
-        "pubdate": "Thu, 28 Mar 2024 17:00:00 +0100"
       }
     ]
   ]
