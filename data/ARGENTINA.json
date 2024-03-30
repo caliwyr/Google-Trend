@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2024 , 21:46:08",
+  "lastUpdate": "30-03-2024 , 21:55:24",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern",
+        "title": "Bayern  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern%20%20Dortmund",
         "pubdate": "Sat, 30 Mar 2024 14:00:00 -0300"
       }
     ],
@@ -34,6 +34,13 @@
         "title": "Ryan Gosling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ryan%20Gosling",
         "pubdate": "Sat, 30 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
+        "pubdate": "Sat, 30 Mar 2024 17:00:00 -0300"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
-        "pubdate": "Sat, 30 Mar 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
+        "title": "Aston Villa  Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20Wolves",
         "pubdate": "Sat, 30 Mar 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal  Chacarita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20%20Chacarita",
-        "pubdate": "Sat, 30 Mar 2024 14:00:00 -0300"
       }
     ],
     [
@@ -87,16 +80,23 @@
     ],
     [
       {
-        "title": "Napoli  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli%20%20Atalanta",
-        "pubdate": "Sat, 30 Mar 2024 11:00:00 -0300"
+        "title": "Arsenal  Chacarita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20%20Chacarita",
+        "pubdate": "Sat, 30 Mar 2024 14:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus",
+        "title": "Lazio  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lazio%20%20Juventus",
         "pubdate": "Sat, 30 Mar 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli  Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli%20%20Atalanta",
+        "pubdate": "Sat, 30 Mar 2024 11:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "La Renga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Renga",
-        "pubdate": "Sat, 30 Mar 2024 02:00:00 -0300"
+        "title": "Ana Victoria avila mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ana%20Victoria%20avila%20mexico",
+        "pubdate": "Sat, 30 Mar 2024 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Ana Victoria avila mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ana%20Victoria%20avila%20mexico",
-        "pubdate": "Sat, 30 Mar 2024 15:00:00 -0300"
+        "title": "La Renga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Renga",
+        "pubdate": "Sat, 30 Mar 2024 02:00:00 -0300"
       }
     ]
   ]
