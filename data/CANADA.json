@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "30-03-2024 , 19:47:32",
+  "lastUpdate": "30-03-2024 , 19:56:54",
   "data": [
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
-        "pubdate": "Sat, 30 Mar 2024 12:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham",
         "pubdate": "Sat, 30 Mar 2024 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bayern vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20vs%20Dortmund",
+        "pubdate": "Sat, 30 Mar 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+        "pubdate": "Sat, 30 Mar 2024 12:00:00 -0400"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20A",
-        "pubdate": "Sat, 30 Mar 2024 09:00:00 -0400"
+        "title": "Chelsea vs Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea%20vs%20Burnley",
+        "pubdate": "Sat, 30 Mar 2024 13:00:00 -0400"
       }
     ],
     [
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Pope Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pope%20Francis",
+        "pubdate": "Sat, 30 Mar 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Donald Tusk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Donald%20Tusk",
         "pubdate": "Sat, 30 Mar 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "LSG vs PBKS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LSG%20vs%20PBKS",
+        "pubdate": "Sat, 30 Mar 2024 15:00:00 -0400"
       }
     ],
     [
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Livery",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Livery",
-        "pubdate": "Fri, 29 Mar 2024 02:00:00 -0400"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
+        "pubdate": "Fri, 29 Mar 2024 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Premier%20League",
-        "pubdate": "Fri, 29 Mar 2024 13:00:00 -0400"
+        "title": "Livery",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Livery",
+        "pubdate": "Fri, 29 Mar 2024 02:00:00 -0400"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Kraft Hockeyville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraft%20Hockeyville",
-        "pubdate": "Fri, 29 Mar 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Zach Edey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Edey",
-        "pubdate": "Fri, 29 Mar 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "South african bus crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#South%20african%20bus%20crash",
-        "pubdate": "Fri, 29 Mar 2024 07:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Gypsy Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gypsy%20Rose",
-        "pubdate": "Fri, 29 Mar 2024 11:00:00 -0400"
+        "title": "EPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#EPL",
+        "pubdate": "Fri, 29 Mar 2024 15:00:00 -0400"
       }
     ]
   ]
