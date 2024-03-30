@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-03-2024 , 20:43:36",
+  "lastUpdate": "30-03-2024 , 20:52:48",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Zeitumstellung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zeitumstellung",
         "pubdate": "Sat, 30 Mar 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Super League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
-        "pubdate": "Sat, 30 Mar 2024 09:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Super League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
+        "pubdate": "Sat, 30 Mar 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FC Basel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
         "pubdate": "Sat, 30 Mar 2024 18:00:00 +0100"
@@ -45,16 +45,23 @@
     ],
     [
       {
-        "title": "Leverkusen gegen Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20gegen%20Hoffenheim",
-        "pubdate": "Sat, 30 Mar 2024 17:00:00 +0100"
+        "title": "Changement d'heure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Changement%20d'heure",
+        "pubdate": "Sat, 30 Mar 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Changement d'heure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Changement%20d'heure",
-        "pubdate": "Sat, 30 Mar 2024 20:00:00 +0100"
+        "title": "FC Winterthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+        "pubdate": "Sat, 30 Mar 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen gegen Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20gegen%20Hoffenheim",
+        "pubdate": "Sat, 30 Mar 2024 17:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "FCB gegen Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB%20gegen%20Z%C3%BCrich",
+        "pubdate": "Sat, 30 Mar 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Winterthur gegen Servette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Winterthur%20gegen%20Servette",
         "pubdate": "Sat, 30 Mar 2024 18:00:00 +0100"
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
-        "pubdate": "Sat, 30 Mar 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Beyoncé Cowboy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beyonc%C3%A9%20Cowboy%20Carter",
-        "pubdate": "Sat, 30 Mar 2024 12:00:00 +0100"
+        "title": "Servette FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
+        "pubdate": "Sat, 30 Mar 2024 20:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Servette FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
-        "pubdate": "Sat, 30 Mar 2024 20:00:00 +0100"
+        "title": "Beyoncé Cowboy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beyonc%C3%A9%20Cowboy%20Carter",
+        "pubdate": "Sat, 30 Mar 2024 12:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "CGN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CGN",
-        "pubdate": "Sat, 30 Mar 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Florence Foresti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florence%20Foresti",
+        "title": "Sky Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sky%20Sport",
         "pubdate": "Sat, 30 Mar 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Siamesische Zwillinge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Siamesische%20Zwillinge",
-        "pubdate": "Sat, 30 Mar 2024 00:00:00 +0100"
+        "title": "CGN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CGN",
+        "pubdate": "Sat, 30 Mar 2024 11:00:00 +0100"
       }
     ]
   ]
