@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "30-03-2024 , 15:46:50",
+  "lastUpdate": "30-03-2024 , 15:56:20",
   "data": [
+    [
+      {
+        "title": "Newcastle  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20West%20Ham",
+        "pubdate": "Sat, 30 Mar 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli  Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli%20%20Atalanta",
+        "pubdate": "Sat, 30 Mar 2024 11:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Harry Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Harry%20Potter",
         "pubdate": "Sat, 30 Mar 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle - West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20-%20West%20Ham",
-        "pubdate": "Sat, 30 Mar 2024 11:00:00 -0300"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Mel Gibson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mel%20Gibson",
-        "pubdate": "Sat, 30 Mar 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "The Chosen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#The%20Chosen",
-        "pubdate": "Sat, 30 Mar 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Jesus de Nazareth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jesus%20de%20Nazareth",
-        "pubdate": "Sat, 30 Mar 2024 01:00:00 -0300"
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
+        "pubdate": "Sat, 30 Mar 2024 08:00:00 -0300"
       }
     ],
     [
@@ -59,8 +52,15 @@
     ],
     [
       {
-        "title": "Judas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Judas",
+        "title": "The Chosen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#The%20Chosen",
+        "pubdate": "Sat, 30 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Mel Gibson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mel%20Gibson",
         "pubdate": "Sat, 30 Mar 2024 01:00:00 -0300"
       }
     ],
@@ -69,6 +69,20 @@
         "title": "Colo Colo vs Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Everton",
         "pubdate": "Sat, 30 Mar 2024 03:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Jesus de Nazareth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jesus%20de%20Nazareth",
+        "pubdate": "Sat, 30 Mar 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Judas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Judas",
+        "pubdate": "Sat, 30 Mar 2024 01:00:00 -0300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zverev",
-        "pubdate": "Fri, 29 Mar 2024 05:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Huracán  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hurac%C3%A1n%20%20River%20Plate",
         "pubdate": "Fri, 29 Mar 2024 21:00:00 -0300"
@@ -131,13 +138,6 @@
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
-        "pubdate": "Fri, 29 Mar 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ben-Hur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben-Hur",
         "pubdate": "Fri, 29 Mar 2024 15:00:00 -0300"
       }
     ]
