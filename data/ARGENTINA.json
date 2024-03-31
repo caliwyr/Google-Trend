@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "31-03-2024 , 10:46:24",
+  "lastUpdate": "31-03-2024 , 10:55:44",
   "data": [
     [
       {
-        "title": "Pronóstico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pron%C3%B3stico",
+        "title": "Pronostico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pronostico",
         "pubdate": "Sun, 31 Mar 2024 01:00:00 -0300"
       }
     ],
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Pullaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pullaro",
+        "pubdate": "Sun, 31 Mar 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Tiempo en cordoba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiempo%20en%20cordoba",
         "pubdate": "Sun, 31 Mar 2024 02:00:00 -0300"
@@ -40,13 +47,6 @@
       {
         "title": "Fundora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fundora",
-        "pubdate": "Sun, 31 Mar 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Olimpia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
         "pubdate": "Sun, 31 Mar 2024 01:00:00 -0300"
       }
     ],
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Inter Miami  NYCFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami%20%20NYCFC",
+        "title": "Inter Miami  NYC FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami%20%20NYC%20FC",
         "pubdate": "Sat, 30 Mar 2024 20:00:00 -0300"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayer%20Leverkusen",
-        "pubdate": "Sat, 30 Mar 2024 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham",
         "pubdate": "Sat, 30 Mar 2024 13:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
         "pubdate": "Sat, 30 Mar 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayer%20Leverkusen",
+        "pubdate": "Sat, 30 Mar 2024 13:00:00 -0300"
       }
     ]
   ]
