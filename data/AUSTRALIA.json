@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-03-2024 , 23:49:24",
+  "lastUpdate": "31-03-2024 , 23:58:55",
   "data": [
     [
       {
         "title": "Liverpool vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Brighton",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Swans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
+        "pubdate": "Mon, 01 Apr 2024 03:00:00 +1100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +1100"
+        "title": "King Charles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King%20Charles",
+        "pubdate": "Mon, 01 Apr 2024 01:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Swans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
-        "pubdate": "Mon, 01 Apr 2024 03:00:00 +1100"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +1100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Easter Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20Sunday",
-        "pubdate": "Sun, 31 Mar 2024 08:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Newcastle vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20West%20Ham",
         "pubdate": "Sun, 31 Mar 2024 00:00:00 +1100"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Easter Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20Sunday",
+        "pubdate": "Sun, 31 Mar 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "He is risen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#He%20is%20risen",
         "pubdate": "Sun, 31 Mar 2024 09:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elon%20Musk",
         "pubdate": "Sun, 31 Mar 2024 21:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tour of Flanders 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tour%20of%20Flanders%202024",
-        "pubdate": "Sun, 31 Mar 2024 22:00:00 +1100"
       }
     ]
   ]
