@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "31-03-2024 , 01:20:18",
+  "lastUpdate": "31-03-2024 , 02:03:02",
   "data": [
+    [
+      {
+        "title": "Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Justin%20Bieber",
+        "pubdate": "Sun, 31 Mar 2024 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tiago Martins Árbitro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiago%20Martins%20%C3%81rbitro",
         "pubdate": "Sun, 31 Mar 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Braga FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20FC",
+        "pubdate": "Sun, 31 Mar 2024 02:00:00 +0100"
       }
     ],
     [
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Sat, 30 Mar 2024 18:00:00 +0000"
+        "title": "Chance Perdomo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chance%20Perdomo",
+        "pubdate": "Sat, 30 Mar 2024 22:00:00 +0000"
       }
     ],
     [
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "Chance Perdomo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chance%20Perdomo",
+        "title": "Solar dos Presuntos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Solar%20dos%20Presuntos",
         "pubdate": "Sat, 30 Mar 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Porto Hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20Hoje",
-        "pubdate": "Sat, 30 Mar 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
-        "pubdate": "Sat, 30 Mar 2024 14:00:00 +0000"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Vitória SC  Moreirense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vit%C3%B3ria%20SC%20%20Moreirense",
-        "pubdate": "Sat, 30 Mar 2024 15:00:00 +0000"
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+        "pubdate": "Sat, 30 Mar 2024 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Sat, 30 Mar 2024 18:00:00 +0000"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Solar dos Presuntos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Solar%20dos%20Presuntos",
-        "pubdate": "Sat, 30 Mar 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Flashscore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flashscore",
         "pubdate": "Sat, 30 Mar 2024 16:00:00 +0000"
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Porto B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B",
+        "pubdate": "Sat, 30 Mar 2024 16:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Papa Francisco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Papa%20Francisco",
         "pubdate": "Sat, 30 Mar 2024 21:00:00 +0000"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Porto B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B",
-        "pubdate": "Sat, 30 Mar 2024 16:00:00 +0000"
+        "title": "Nova Iguaçu x Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nova%20Igua%C3%A7u%20x%20Flamengo",
+        "pubdate": "Sat, 30 Mar 2024 21:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paises Baixos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paises%20Baixos",
         "pubdate": "Sat, 30 Mar 2024 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Maritimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
-        "pubdate": "Sat, 30 Mar 2024 14:00:00 +0000"
       }
     ]
   ]
