@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-03-2024 , 06:46:57",
+  "lastUpdate": "31-03-2024 , 06:56:09",
   "data": [
-    [
-      {
-        "title": "Pronostico del tiempo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pronostico%20del%20tiempo",
-        "pubdate": "Sun, 31 Mar 2024 01:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Pronóstico",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Pronostico Buenos Aires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pronostico%20Buenos%20Aires",
+        "pubdate": "Sun, 31 Mar 2024 03:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Tiempo en cordoba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tiempo%20en%20cordoba",
         "pubdate": "Sun, 31 Mar 2024 02:00:00 -0300"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Olimpia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia",
-        "pubdate": "Sun, 31 Mar 2024 01:00:00 -0300"
+        "title": "Sub 17 Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sub%2017%20Argentina",
+        "pubdate": "Sun, 31 Mar 2024 02:00:00 -0300"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Central Córdoba  Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Racing",
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
         "pubdate": "Sat, 30 Mar 2024 19:00:00 -0300"
       }
     ],
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Chelsea  Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20%20Burnley",
-        "pubdate": "Sat, 30 Mar 2024 09:00:00 -0300"
+        "title": "Chance Perdomo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chance%20Perdomo",
+        "pubdate": "Sat, 30 Mar 2024 19:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Chance Perdomo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chance%20Perdomo",
-        "pubdate": "Sat, 30 Mar 2024 19:00:00 -0300"
+        "title": "Chelsea  Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20%20Burnley",
+        "pubdate": "Sat, 30 Mar 2024 09:00:00 -0300"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Aston Villa  Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20Wolves",
+        "title": "Aston Villa  wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20wolves",
         "pubdate": "Sat, 30 Mar 2024 15:00:00 -0300"
       }
     ]
