@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 01:23:35",
+  "lastUpdate": "01-04-2024 , 02:08:33",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Hammarby Kalmar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Kalmar",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bingolotto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bingolotto",
-        "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kim Hellberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kim%20Hellberg",
         "pubdate": "Sun, 31 Mar 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Allsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
+        "pubdate": "Sat, 30 Mar 2024 15:00:00 +0100"
       }
     ]
   ]

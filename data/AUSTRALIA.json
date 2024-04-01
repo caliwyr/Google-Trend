@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 01:23:23",
+  "lastUpdate": "01-04-2024 , 02:08:23",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
         "pubdate": "Mon, 01 Apr 2024 07:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King%20Charles",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +1100"
       }
     ],
     [
@@ -52,9 +45,16 @@
     ],
     [
       {
+        "title": "Tour of Flanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tour%20of%20Flanders",
+        "pubdate": "Mon, 01 Apr 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Tim Tszyu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
-        "pubdate": "Sun, 31 Mar 2024 11:00:00 +1100"
+        "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Boxing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
-        "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
+        "title": "Easter Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20Sunday",
+        "pubdate": "Sun, 31 Mar 2024 08:00:00 +1100"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Easter Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20Sunday",
-        "pubdate": "Sun, 31 Mar 2024 08:00:00 +1100"
+        "title": "Hop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hop",
+        "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tour of Flanders 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tour%20of%20Flanders%202024",
-        "pubdate": "Sun, 31 Mar 2024 22:00:00 +1100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elon%20Musk",
+        "pubdate": "Sun, 31 Mar 2024 21:00:00 +1100"
       }
     ]
   ]
