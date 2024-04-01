@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 05:56:09",
+  "lastUpdate": "01-04-2024 , 06:17:33",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Horas portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Horas%20portugal",
+        "pubdate": "Sun, 31 Mar 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Margarida Corceiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Corceiro",
         "pubdate": "Sun, 31 Mar 2024 17:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "Horas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Horas",
-        "pubdate": "Sun, 31 Mar 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Justin%20Bieber",
         "pubdate": "Sun, 31 Mar 2024 02:00:00 +0100"
       }
     ]
