@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 16:30:28",
+  "lastUpdate": "01-04-2024 , 16:42:02",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Aprilscherze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aprilscherze",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andreas Scheuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Scheuer",
+        "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "April, April!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#April,%20April!",
+        "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga",
         "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
@@ -59,6 +73,20 @@
     ],
     [
       {
+        "title": "Ostern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ostern",
+        "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Türkei Wahlen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei%20Wahlen",
         "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
@@ -66,15 +94,15 @@
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Bubatzkarte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bubatzkarte",
         "pubdate": "Sun, 31 Mar 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Seitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Seitz",
-        "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sun, 31 Mar 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
-        "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simone Thomalla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simone%20Thomalla",
-        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
       }
     ]
   ]
