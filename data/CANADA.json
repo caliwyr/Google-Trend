@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-04-2024 , 13:55:21",
+  "lastUpdate": "01-04-2024 , 14:11:26",
   "data": [
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vladimir%20Putin",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "LeBron James",
@@ -31,6 +38,20 @@
     ],
     [
       {
+        "title": "April Fools' Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#April%20Fools'%20Day",
+        "pubdate": "Mon, 01 Apr 2024 08:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Havana syndrome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Havana%20syndrome",
+        "pubdate": "Mon, 01 Apr 2024 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Man City vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Arsenal",
         "pubdate": "Sun, 31 Mar 2024 10:00:00 -0400"
@@ -52,23 +73,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-        "pubdate": "Sun, 31 Mar 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ramy Youssef",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ramy%20Youssef",
         "pubdate": "Sun, 31 Mar 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Maxi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maxi",
-        "pubdate": "Sun, 31 Mar 2024 13:00:00 -0400"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "DJ Burns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DJ%20Burns",
-        "pubdate": "Sun, 31 Mar 2024 20:00:00 -0400"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sun, 31 Mar 2024 15:00:00 -0400"
       }
     ],
     [
@@ -90,13 +97,6 @@
         "title": "Rashee Rice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rashee%20Rice",
         "pubdate": "Sun, 31 Mar 2024 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Trans Day of Visibility",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trans%20Day%20of%20Visibility",
-        "pubdate": "Sun, 31 Mar 2024 11:00:00 -0400"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "What Is open on Easter Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What%20Is%20open%20on%20Easter%20Sunday",
-        "pubdate": "Sun, 31 Mar 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Easter Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Easter%20Monday",
         "pubdate": "Sun, 31 Mar 2024 20:00:00 -0400"
@@ -131,6 +124,13 @@
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
+        "pubdate": "Sun, 31 Mar 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Trans Day of Visibility",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trans%20Day%20of%20Visibility",
         "pubdate": "Sun, 31 Mar 2024 11:00:00 -0400"
       }
     ],
