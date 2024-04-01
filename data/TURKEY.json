@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-04-2024 , 04:26:36",
+  "lastUpdate": "01-04-2024 , 04:36:06",
   "data": [
-    [
-      {
-        "title": "Erdoğan balkon konuşması",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erdo%C4%9Fan%20balkon%20konu%C5%9Fmas%C4%B1",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Hakan Fidan",
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Özgür Çelik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zg%C3%BCr%20%C3%87elik",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "KARAMÜRSEL seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KARAM%C3%9CRSEL%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
@@ -62,6 +48,13 @@
         "title": "Dikili seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dikili%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İl Genel Meclisi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Genel%20Meclisi",
+        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
       }
     ],
     [
@@ -80,22 +73,8 @@
     ],
     [
       {
-        "title": "İl Genel Meclisi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Genel%20Meclisi",
-        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Gaziemir seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gaziemir%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Selçuk Bayraktar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sel%C3%A7uk%20Bayraktar",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
       }
     ],
@@ -108,16 +87,23 @@
     ],
     [
       {
-        "title": "EREĞLİ seçim sonuçları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ERE%C4%9EL%C4%B0%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
+        "title": "Selçuk Bayraktar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sel%C3%A7uk%20Bayraktar",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Ayhan Bilgen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ayhan%20Bilgen",
+        "title": "MURAT KURUM KİMDİR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MURAT%20KURUM%20K%C4%B0MD%C4%B0R",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "EREĞLİ seçim sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ERE%C4%9EL%C4%B0%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
+        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Ayhan Bilgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ayhan%20Bilgen",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Seferihisar seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Seferihisar%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Urfa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Urfa",
+        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 04:26:27",
+  "lastUpdate": "01-04-2024 , 04:35:56",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Liverpool gegen Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20gegen%20Brighton",
+        "pubdate": "Sun, 31 Mar 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LASK gegen Austria Klagenfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20gegen%20Austria%20Klagenfurt",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
@@ -54,13 +61,6 @@
       {
         "title": "Rapid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
-        "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
         "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
       }
     ],
