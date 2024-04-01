@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-04-2024 , 03:51:57",
+  "lastUpdate": "01-04-2024 , 04:08:24",
   "data": [
-    [
-      {
-        "title": "Április 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81prilis%201",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ronja, a rabló lánya",
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Real madrid–bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93bilbao",
-        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
+        "title": "Manchester city–arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20city%E2%80%93arsenal",
+        "pubdate": "Sun, 31 Mar 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Paks–újpest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paks%E2%80%93%C3%BAjpest",
-        "pubdate": "Sun, 31 Mar 2024 15:00:00 +0200"
+        "title": "Real madrid–bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93bilbao",
+        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Paks–újpest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paks%E2%80%93%C3%BAjpest",
+        "pubdate": "Sun, 31 Mar 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20Liga",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Dopeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dopeman",
-        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
+        "title": "Locsolovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Locsolovers",
+        "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anne Hathaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anne%20Hathaway",
+        "pubdate": "Sun, 31 Mar 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Aniston",
-        "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
+        "title": "Dopeman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dopeman",
+        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Girona–betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93betis",
-        "pubdate": "Sun, 31 Mar 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mezőkövesd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mez%C5%91k%C3%B6vesd",
         "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
         "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
       }
     ],

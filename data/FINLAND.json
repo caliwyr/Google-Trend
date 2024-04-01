@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 03:51:56",
+  "lastUpdate": "01-04-2024 , 04:08:22",
   "data": [
     [
       {
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "NAVI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NAVI",
-        "pubdate": "Sun, 31 Mar 2024 20:00:00 +0300"
+        "title": "Sonata Arctica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sonata%20Arctica",
+        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
-        "pubdate": "Sun, 31 Mar 2024 23:00:00 +0300"
+        "title": "NAVI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NAVI",
+        "pubdate": "Sun, 31 Mar 2024 20:00:00 +0300"
       }
     ],
     [
@@ -96,6 +96,13 @@
       {
         "title": "Glass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Glass",
+        "pubdate": "Sun, 31 Mar 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona – Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Las%20Palmas",
         "pubdate": "Sun, 31 Mar 2024 02:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Alzheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alzheimer",
         "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
-        "pubdate": "Sun, 31 Mar 2024 09:00:00 +0300"
       }
     ]
   ]

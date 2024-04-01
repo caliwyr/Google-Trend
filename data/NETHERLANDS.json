@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 03:52:00",
+  "lastUpdate": "01-04-2024 , 04:08:26",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Tijd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tijd",
-        "pubdate": "Sun, 31 Mar 2024 04:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
         "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Vermiste Franse peuter Emile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vermiste%20Franse%20peuter%20Emile",
-        "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
+        "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sat, 30 Mar 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serie%20a",
+        "pubdate": "Sat, 30 Mar 2024 16:00:00 +0100"
       }
     ]
   ]
