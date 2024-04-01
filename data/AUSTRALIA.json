@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-03-2024 , 23:58:55",
+  "lastUpdate": "01-04-2024 , 01:23:23",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "SRH vs GT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SRH%20vs%20GT",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "DC vs CSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DC%20vs%20CSK",
         "pubdate": "Mon, 01 Apr 2024 08:00:00 +1100"
@@ -52,9 +45,16 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
+        "pubdate": "Mon, 01 Apr 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Tim Tszyu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
-        "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
+        "pubdate": "Sun, 31 Mar 2024 11:00:00 +1100"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Newcastle vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20West%20Ham",
-        "pubdate": "Sun, 31 Mar 2024 00:00:00 +1100"
+        "title": "Boxing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boxing",
+        "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elon%20Musk",
-        "pubdate": "Sun, 31 Mar 2024 21:00:00 +1100"
+        "title": "Tour of Flanders 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tour%20of%20Flanders%202024",
+        "pubdate": "Sun, 31 Mar 2024 22:00:00 +1100"
       }
     ]
   ]

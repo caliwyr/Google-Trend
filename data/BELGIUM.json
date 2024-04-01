@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "31-03-2024 , 23:58:55",
+  "lastUpdate": "01-04-2024 , 01:23:24",
   "data": [
     [
       {
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinner",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paris Saint-Germain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris%20Saint-Germain",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Chance Perdomo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chance%20Perdomo",
         "pubdate": "Sun, 31 Mar 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pasen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pasen",
+        "pubdate": "Sun, 31 Mar 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Remco Evenepoel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
-        "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Samuel Le Bihan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Samuel%20Le%20Bihan",
         "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Patro Eisden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patro%20Eisden",
         "pubdate": "Sun, 31 Mar 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kaat Thijs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kaat%20Thijs",
-        "pubdate": "Sun, 31 Mar 2024 09:00:00 +0200"
       }
     ]
   ]
