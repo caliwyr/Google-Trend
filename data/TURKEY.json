@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 06:17:35",
+  "lastUpdate": "01-04-2024 , 06:31:05",
   "data": [
     [
       {
@@ -10,15 +10,29 @@
     ],
     [
       {
-        "title": "Nevşin Mengü",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nev%C5%9Fin%20Meng%C3%BC",
-        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
+        "title": "Körfez seçim sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C3%B6rfez%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Muş secim sonucu 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mu%C5%9F%20secim%20sonucu%202024",
+        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
       }
     ],
     [
       {
         "title": "Kahramankazan seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kahramankazan%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
+        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KARAMÜRSEL seçim sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KARAM%C3%9CRSEL%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
       }
     ],
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "KARAMÜRSEL seçim sonuçları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KARAM%C3%9CRSEL%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Dikili seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dikili%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "İl Genel Meclisi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Genel%20Meclisi",
-        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
       }
     ],
     [
@@ -59,8 +59,15 @@
     ],
     [
       {
-        "title": "Muş secim sonucu 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mu%C5%9F%20secim%20sonucu%202024",
+        "title": "İl Genel Meclisi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Genel%20Meclisi",
+        "pubdate": "Mon, 01 Apr 2024 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Çeşme seçim sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87e%C5%9Fme%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
       }
     ],
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Afyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Afyon",
+        "title": "Tarsus secim Sonucu 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tarsus%20secim%20Sonucu%202024",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
       }
     ],
@@ -97,20 +104,6 @@
         "title": "Keçiören",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ke%C3%A7i%C3%B6ren",
         "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Karşıyaka seçim sonuçları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kar%C5%9F%C4%B1yaka%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ayhan Bilgen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ayhan%20Bilgen",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bornova seçim sonuçları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bornova%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
         "pubdate": "Mon, 01 Apr 2024 04:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yıldırım seçim sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Y%C4%B1ld%C4%B1r%C4%B1m%20se%C3%A7im%20sonu%C3%A7lar%C4%B1",
+        "pubdate": "Mon, 01 Apr 2024 05:00:00 +0300"
       }
     ]
   ]

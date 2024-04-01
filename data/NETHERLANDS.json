@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 06:17:32",
+  "lastUpdate": "01-04-2024 , 06:31:02",
   "data": [
     [
       {
@@ -61,13 +61,6 @@
       {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
-        "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GEMERT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GEMERT",
         "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Sparta Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam",
         "pubdate": "Sat, 30 Mar 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mika",
+        "pubdate": "Sat, 30 Mar 2024 09:00:00 +0100"
       }
     ]
   ]
