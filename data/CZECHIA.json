@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 04:26:36",
+  "lastUpdate": "02-04-2024 , 04:37:20",
   "data": [
     [
       {
@@ -10,23 +10,9 @@
     ],
     [
       {
-        "title": "Vesele Velikonoce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesele%20Velikonoce",
-        "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Belmondo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Belmondo",
         "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "April 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#April%202024",
-        "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -45,6 +31,13 @@
     ],
     [
       {
+        "title": "Pavel Svojanovský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Svojanovsk%C3%BD",
+        "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marek Lambora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Lambora",
         "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
@@ -55,13 +48,6 @@
         "title": "Jan Dolanský",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Dolansk%C3%BD",
         "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zlatovlaska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlatovlaska",
-        "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Medvecká",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Medveck%C3%A1",
+        "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tajemství staré bambitky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tajemstv%C3%AD%20star%C3%A9%20bambitky",
         "pubdate": "Sun, 31 Mar 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hokej Pardubice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20Pardubice",
+        "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
       }
     ]
   ]
