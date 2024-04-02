@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 17:57:18",
+  "lastUpdate": "02-04-2024 , 18:18:47",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "SBS9",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SBS9",
+        "title": "Viaplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
         "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
       }
     ],
@@ -27,20 +27,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emmen  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen%20%20Groningen",
-        "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "1 april",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#1%20april",
-        "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -73,6 +59,13 @@
     ],
     [
       {
+        "title": "1 april grappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#1%20april%20grappen",
+        "pubdate": "Sun, 31 Mar 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
         "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
@@ -89,13 +82,6 @@
       {
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
-        "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gilamonster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gilamonster",
         "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Zomertijd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zomertijd",
         "pubdate": "Sat, 30 Mar 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Sat, 30 Mar 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ronde van Vlaanderen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronde%20van%20Vlaanderen",
+        "pubdate": "Sat, 30 Mar 2024 14:00:00 +0100"
       }
     ]
   ]
