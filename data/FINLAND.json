@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 16:31:13",
+  "lastUpdate": "02-04-2024 , 16:40:39",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "SSAB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SSAB",
         "pubdate": "Tue, 02 Apr 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ticketmaster",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
       }
     ],
     [
@@ -31,9 +45,16 @@
     ],
     [
       {
-        "title": "Respect",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Respect",
-        "pubdate": "Tue, 02 Apr 2024 00:00:00 +0300"
+        "title": "Jokela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jokela",
+        "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guardian",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
       }
     ],
     [
@@ -45,9 +66,23 @@
     ],
     [
       {
+        "title": "Respect",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Respect",
+        "pubdate": "Tue, 02 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Reuters",
         "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20Times",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Barbara Rush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barbara%20Rush",
         "pubdate": "Mon, 01 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Lawrence",
-        "pubdate": "Mon, 01 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Chance Perdomo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chance%20Perdomo",
-        "pubdate": "Sun, 31 Mar 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Navi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Navi",
-        "pubdate": "Sun, 31 Mar 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sonata Arctica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sonata%20Arctica",
-        "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
       }
     ]
   ]
