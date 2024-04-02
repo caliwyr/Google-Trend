@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-04-2024 , 07:55:08",
+  "lastUpdate": "02-04-2024 , 08:14:40",
   "data": [
     [
       {
         "title": "Challenge League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
         "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Super-League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super-League",
-        "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Rivella Gelb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rivella%20Gelb",
         "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oliver Pocher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oliver%20Pocher",
+        "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-        "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Grasshoppers gegen Lausanne-Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20gegen%20Lausanne-Sport",
         "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdogan",
-        "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+        "title": "YB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+        "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -118,13 +111,6 @@
         "title": "Roi Charles III",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roi%20Charles%20III",
         "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "1.-April-Scherz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.-April-Scherz",
-        "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jasna Fritzi Bauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jasna%20Fritzi%20Bauer",
         "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poisson d'avril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poisson%20d'avril",
+        "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
       }
     ]
   ]
