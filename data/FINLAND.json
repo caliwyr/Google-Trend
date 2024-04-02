@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 23:46:59",
+  "lastUpdate": "02-04-2024 , 23:56:17",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "HS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HS",
+        "title": "Hs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hs",
         "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20Times",
-        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+        "title": "Tatarstan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tatarstan",
+        "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Aretha Franklin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aretha%20Franklin",
         "pubdate": "Mon, 01 Apr 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Potter",
-        "pubdate": "Mon, 01 Apr 2024 21:00:00 +0300"
       }
     ]
   ]
