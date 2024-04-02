@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-04-2024 , 19:59:40",
+  "lastUpdate": "02-04-2024 , 20:18:18",
   "data": [
+    [
+      {
+        "title": "Pope Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
+        "pubdate": "Wed, 03 Apr 2024 02:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Joseph Schooling",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Prabowo Subianto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prabowo%20Subianto",
-        "pubdate": "Tue, 02 Apr 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Schizophrenia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Schizophrenia",
         "pubdate": "Tue, 02 Apr 2024 00:00:00 +0800"
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "GrabPay Card Discontinued",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GrabPay%20Card%20Discontinued",
-        "pubdate": "Tue, 02 Apr 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "GXS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GXS",
         "pubdate": "Tue, 02 Apr 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "UOB One account",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UOB%20One%20account",
-        "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
       }
     ],
     [
@@ -108,9 +94,9 @@
     ],
     [
       {
-        "title": "Ellen Chan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ellen%20Chan",
-        "pubdate": "Mon, 01 Apr 2024 21:00:00 +0800"
+        "title": "UOB One account interest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UOB%20One%20account%20interest",
+        "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "AT&T data breach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AT%26T%20data%20breach",
         "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leicester%20City",
+        "pubdate": "Mon, 01 Apr 2024 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "pubdate": "Sun, 31 Mar 2024 23:00:00 +0800"
       }
     ]
   ]
