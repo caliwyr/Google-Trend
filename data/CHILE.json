@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 14:28:54",
+  "lastUpdate": "02-04-2024 , 14:38:10",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "TEA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TEA",
-        "pubdate": "Tue, 02 Apr 2024 09:00:00 -0300"
+        "title": "Sergio fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20fernandez",
+        "pubdate": "Tue, 02 Apr 2024 10:00:00 -0300"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Lo Valledor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lo%20Valledor",
-        "pubdate": "Mon, 01 Apr 2024 10:00:00 -0300"
+        "title": "Copa Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores",
+        "pubdate": "Mon, 01 Apr 2024 19:00:00 -0300"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Copa Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores",
-        "pubdate": "Mon, 01 Apr 2024 19:00:00 -0300"
+        "title": "Lo Valledor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lo%20Valledor",
+        "pubdate": "Mon, 01 Apr 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Autismo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Autismo",
+        "pubdate": "Mon, 01 Apr 2024 16:00:00 -0300"
       }
     ],
     [
@@ -90,20 +97,6 @@
         "title": "Oscar Alejandro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Oscar%20Alejandro",
         "pubdate": "Mon, 01 Apr 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Autismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Autismo",
-        "pubdate": "Mon, 01 Apr 2024 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rey Carlos III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rey%20Carlos%20III",
-        "pubdate": "Mon, 01 Apr 2024 09:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Platense  Godoy Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Platense%20%20Godoy%20Cruz",
         "pubdate": "Mon, 01 Apr 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "April Fools",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#April%20Fools",
+        "pubdate": "Mon, 01 Apr 2024 13:00:00 -0300"
       }
     ]
   ]
