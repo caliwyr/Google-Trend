@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 22:19:12",
+  "lastUpdate": "02-04-2024 , 22:31:09",
   "data": [
     [
       {
@@ -31,20 +31,6 @@
     ],
     [
       {
-        "title": "Villarruel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villarruel",
-        "pubdate": "Tue, 02 Apr 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "San martin de tucuman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20martin%20de%20tucuman",
-        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Central Córdoba  Quilmes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Quilmes",
         "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
@@ -52,15 +38,22 @@
     ],
     [
       {
-        "title": "Heroes de Malvinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Heroes%20de%20Malvinas",
-        "pubdate": "Tue, 02 Apr 2024 02:00:00 -0300"
+        "title": "Villarruel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villarruel",
+        "pubdate": "Tue, 02 Apr 2024 11:00:00 -0300"
       }
     ],
     [
       {
         "title": "West Ham  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#West%20Ham%20%20Tottenham",
+        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "San martin de tucuman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20martin%20de%20tucuman",
         "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
       }
     ],
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Cristian Castro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristian%20Castro",
-        "pubdate": "Tue, 02 Apr 2024 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus",
         "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
@@ -87,9 +73,16 @@
     ],
     [
       {
-        "title": "Marcha de Malvinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marcha%20de%20Malvinas",
-        "pubdate": "Tue, 02 Apr 2024 11:00:00 -0300"
+        "title": "Cristian Castro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristian%20Castro",
+        "pubdate": "Tue, 02 Apr 2024 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Nassr",
+        "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Nassr",
-        "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Felipe Fort",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Felipe%20Fort",
         "pubdate": "Tue, 02 Apr 2024 04:00:00 -0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Santiago Cuneo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Santiago%20Cuneo",
-        "pubdate": "Tue, 02 Apr 2024 15:00:00 -0300"
+        "title": "Gremio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gremio",
+        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham Forest  Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nottingham%20Forest%20%20Fulham",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flamengo",
+        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
       }
     ]
   ]
