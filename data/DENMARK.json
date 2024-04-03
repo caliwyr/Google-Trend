@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 20:43:53",
+  "lastUpdate": "03-04-2024 , 20:53:16",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
         "pubdate": "Wed, 03 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Aston%20Villa",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Brentford  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Brighton",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hunter Schafer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Schafer",
         "pubdate": "Wed, 03 Apr 2024 14:00:00 +0200"
@@ -45,16 +66,16 @@
     ],
     [
       {
-        "title": "Brentford  Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Brighton",
-        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
+        "title": "Genmab",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Genmab",
+        "pubdate": "Wed, 03 Apr 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Arsenal  Luton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Luton",
-        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
+        "title": "The Walking Dead",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Walking%20Dead",
+        "pubdate": "Wed, 03 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Messenger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Messenger",
         "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
-        "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham",
-        "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Infinite Craft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Infinite%20Craft",
-        "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
       }
     ]
   ]
