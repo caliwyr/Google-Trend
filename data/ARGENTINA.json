@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 11:49:53",
+  "lastUpdate": "03-04-2024 , 11:59:24",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Clima Rosario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima%20Rosario",
+        "pubdate": "Wed, 03 Apr 2024 05:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Podoroska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Podoroska",
         "pubdate": "Wed, 03 Apr 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Pronóstico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pron%C3%B3stico",
+        "pubdate": "Wed, 03 Apr 2024 07:00:00 -0300"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "NACIONAL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#NACIONAL",
-        "pubdate": "Wed, 03 Apr 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Shannen Doherty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Shannen%20Doherty",
         "pubdate": "Wed, 03 Apr 2024 01:00:00 -0300"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "CONMEBOL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#CONMEBOL",
-        "pubdate": "Wed, 03 Apr 2024 00:00:00 -0300"
+        "title": "NACIONAL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#NACIONAL",
+        "pubdate": "Wed, 03 Apr 2024 01:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Raquel Mancini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Raquel%20Mancini",
         "pubdate": "Tue, 02 Apr 2024 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "West Ham  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#West%20Ham%20%20Tottenham",
-        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0300"
       }
     ]
   ]

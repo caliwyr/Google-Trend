@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "03-04-2024 , 11:49:54",
+  "lastUpdate": "03-04-2024 , 11:59:26",
   "data": [
     [
       {
         "title": "Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
-        "pubdate": "Wed, 03 Apr 2024 00:00:00 -0400"
+        "pubdate": "Wed, 03 Apr 2024 02:00:00 -0400"
       }
     ],
     [
@@ -19,6 +19,13 @@
       {
         "title": "Kent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kent",
+        "pubdate": "Wed, 03 Apr 2024 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "North Face",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Face",
         "pubdate": "Wed, 03 Apr 2024 03:00:00 -0400"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Autism Awareness Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Day",
-        "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Newfoundland Growlers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Newfoundland%20Growlers",
         "pubdate": "Tue, 02 Apr 2024 18:00:00 -0400"
@@ -101,8 +101,22 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Al-Nassr",
+        "title": "Autism Awareness Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Day",
+        "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Snowfall warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snowfall%20warning",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Al%20Nassr",
         "pubdate": "Tue, 02 Apr 2024 16:00:00 -0400"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Ed Piskor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ed%20Piskor",
         "pubdate": "Tue, 02 Apr 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snoop%20Dogg",
-        "pubdate": "Tue, 02 Apr 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "World Central Kitchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Central%20Kitchen",
-        "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
       }
     ]
   ]
