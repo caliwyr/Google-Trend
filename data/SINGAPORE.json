@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 14:48:40",
+  "lastUpdate": "03-04-2024 , 14:58:10",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Izakaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Izakaya",
+        "pubdate": "Wed, 03 Apr 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
         "pubdate": "Wed, 03 Apr 2024 20:00:00 +0800"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "RCB vs LSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RCB%20vs%20LSG",
-        "pubdate": "Wed, 03 Apr 2024 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Love Nest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Love%20Nest",
         "pubdate": "Wed, 03 Apr 2024 20:00:00 +0800"
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Bella Astillah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bella%20Astillah",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Circle Line",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Circle%20Line",
         "pubdate": "Wed, 03 Apr 2024 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Commonwealth Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Commonwealth%20Games",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Havana Syndrome",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Havana%20Syndrome",
         "pubdate": "Tue, 02 Apr 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "GXS BANK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GXS%20BANK",
-        "pubdate": "Tue, 02 Apr 2024 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Prabowo Subianto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prabowo%20Subianto",
-        "pubdate": "Tue, 02 Apr 2024 14:00:00 +0800"
       }
     ]
   ]
