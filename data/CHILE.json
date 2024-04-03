@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 08:13:55",
+  "lastUpdate": "03-04-2024 , 08:28:19",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sudamericana",
-        "pubdate": "Tue, 02 Apr 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Gremio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gremio",
         "pubdate": "Tue, 02 Apr 2024 22:00:00 -0300"
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Colo Colo vs Cerro Porteño",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Cerro%20Porte%C3%B1o",
-        "pubdate": "Tue, 02 Apr 2024 01:00:00 -0300"
+        "title": "J.K. Rowling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#J.K.%20Rowling",
+        "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "J.K. Rowling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#J.K.%20Rowling",
-        "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
+        "title": "Colo Colo vs Cerro Porteño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Cerro%20Porte%C3%B1o",
+        "pubdate": "Tue, 02 Apr 2024 01:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Papi Micky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Papi%20Micky",
         "pubdate": "Tue, 02 Apr 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Jadue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jadue",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 -0300"
       }
     ]
   ]

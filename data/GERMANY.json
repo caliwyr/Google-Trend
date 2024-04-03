@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 08:13:57",
+  "lastUpdate": "03-04-2024 , 08:28:21",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Ionos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ionos",
+        "title": "Das erste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
         "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Das erste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
-        "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
+        "title": "Botswana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Botswana",
+        "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Eisbären Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eisb%C3%A4ren%20Berlin",
+        "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
-        "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
       }
     ]
   ]
