@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 16:51:29",
+  "lastUpdate": "03-04-2024 , 17:01:24",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-        "pubdate": "Wed, 03 Apr 2024 10:00:00 +1300"
+        "pubdate": "Wed, 03 Apr 2024 19:00:00 +1300"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Kent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kent",
         "pubdate": "Wed, 03 Apr 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "West Ham vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Ham%20vs%20Tottenham",
+        "pubdate": "Wed, 03 Apr 2024 10:00:00 +1300"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "BROADWAY shows",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BROADWAY%20shows",
+        "title": "Broadway shows",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Broadway%20shows",
         "pubdate": "Wed, 03 Apr 2024 21:00:00 +1300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "JK Rowling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#JK%20Rowling",
         "pubdate": "Wed, 03 Apr 2024 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20Everton",
-        "pubdate": "Wed, 03 Apr 2024 12:00:00 +1300"
       }
     ]
   ]
