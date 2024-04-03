@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 14:03:47",
+  "lastUpdate": "03-04-2024 , 14:20:58",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elton",
+        "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Pokal-Halbfinale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pokal-Halbfinale",
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
         "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
       }
     ],
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran",
-        "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
+        "title": "Pokal Halbfinale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pokal%20Halbfinale",
+        "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Raab Halmich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Raab%20Halmich",
-        "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran",
+        "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bonn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bonn",
         "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zermatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zermatt",
-        "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
       }
     ]
   ]

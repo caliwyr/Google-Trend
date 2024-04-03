@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-04-2024 , 14:03:47",
+  "lastUpdate": "03-04-2024 , 14:20:59",
   "data": [
     [
       {
         "title": "Vodafone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vodafone",
         "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Semmelweis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Semmelweis",
+        "pubdate": "Wed, 03 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Spinoza Ház",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Spinoza%20H%C3%A1z",
-        "pubdate": "Wed, 03 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Horányi Juli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hor%C3%A1nyi%20Juli",
         "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Veres Pál",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Veres%20P%C3%A1l",
-        "pubdate": "Wed, 03 Apr 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "J.K. Rowling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J.K.%20Rowling",
         "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Autizmus világnapja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Autizmus%20vil%C3%A1gnapja",
-        "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -87,6 +73,13 @@
     ],
     [
       {
+        "title": "Autizmus világnapja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Autizmus%20vil%C3%A1gnapja",
+        "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "West ham–tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20ham%E2%80%93tottenham",
         "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Dead Kennedys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dead%20Kennedys",
-        "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+        "title": "Bódi Guszti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3di%20Guszti",
+        "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bódi Guszti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3di%20Guszti",
-        "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
+        "title": "Dead Kennedys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dead%20Kennedys",
+        "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle",
         "pubdate": "Tue, 02 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atletico%20Madrid",
+        "pubdate": "Tue, 02 Apr 2024 05:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 14:03:50",
+  "lastUpdate": "03-04-2024 , 14:21:03",
   "data": [
     [
       {
@@ -17,22 +17,8 @@
     ],
     [
       {
-        "title": "Joe Flaherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Flaherty",
-        "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20Manchester%20United",
-        "pubdate": "Wed, 03 Apr 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Morris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morris",
         "pubdate": "Wed, 03 Apr 2024 13:00:00 +0200"
       }
     ],
@@ -45,9 +31,16 @@
     ],
     [
       {
-        "title": "Stortinget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stortinget",
-        "pubdate": "Wed, 03 Apr 2024 14:00:00 +0200"
+        "title": "Morris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morris",
+        "pubdate": "Wed, 03 Apr 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Flaherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joe%20Flaherty",
+        "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Forsvaret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvaret",
-        "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Francesca Farago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Francesca%20Farago",
         "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Obos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Obos",
-        "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tuva Moflag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tuva%20Moflag",
         "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Chat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chat",
         "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LO",
+        "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
+        "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arendal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arendal",
+        "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
       }
     ]
   ]
