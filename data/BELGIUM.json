@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-04-2024 , 21:47:57",
+  "lastUpdate": "03-04-2024 , 21:57:17",
   "data": [
     [
       {
         "title": "Julie Cafmeyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julie%20Cafmeyer",
         "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taiwan",
-        "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,30 @@
     ],
     [
       {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taiwan",
+        "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Poederlee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Poederlee",
         "pubdate": "Wed, 03 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -45,65 +59,9 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
         "pubdate": "Wed, 03 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coupe de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20France",
-        "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
-        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foire du livre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20du%20livre",
-        "pubdate": "Wed, 03 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vinnie Dargaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vinnie%20Dargaud",
-        "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Voyage au bout de l'enfer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voyage%20au%20bout%20de%20l'enfer",
-        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marc Brys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Brys",
-        "pubdate": "Wed, 03 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -115,9 +73,44 @@
     ],
     [
       {
-        "title": "Sidra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sidra",
+        "title": "Wesley Sonck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wesley%20Sonck",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coupe de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20France",
         "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voyage au bout de l'enfer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voyage%20au%20bout%20de%20l'enfer",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Foire du livre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20du%20livre",
+        "pubdate": "Wed, 03 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marc Brys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Brys",
+        "pubdate": "Wed, 03 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Le Pen Jean-Marie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Pen%20Jean-Marie",
+        "pubdate": "Wed, 03 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -129,9 +122,16 @@
     ],
     [
       {
-        "title": "Le Pen Jean-Marie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Le%20Pen%20Jean-Marie",
-        "pubdate": "Wed, 03 Apr 2024 20:00:00 +0200"
+        "title": "Pretty Woman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pretty%20Woman",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sidra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sidra",
+        "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
       }
     ],
     [
