@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-04-2024 , 12:49:57",
+  "lastUpdate": "04-04-2024 , 12:59:51",
   "data": [
-    [
-      {
-        "title": "Storing WhatsApp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storing%20WhatsApp",
-        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eredivisie",
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "WhatsApp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WhatsApp",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Wed, 03 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sc Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Hunter Schafer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hunter%20Schafer",
-        "pubdate": "Wed, 03 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chantal Janzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chantal%20Janzen",
-        "pubdate": "Wed, 03 Apr 2024 11:00:00 +0200"
+        "title": "Balmoral Castle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Balmoral%20Castle",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Tweede Kamer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tweede%20Kamer",
+        "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 31 Mar 2024 13:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
         "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
       }
     ]
   ]
