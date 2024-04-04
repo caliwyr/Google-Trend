@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-04-2024 , 20:47:09",
+  "lastUpdate": "04-04-2024 , 20:56:22",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
+        "pubdate": "Thu, 04 Apr 2024 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tuva Novotny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tuva%20Novotny",
         "pubdate": "Thu, 04 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyn Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn%20V%C3%A5lerenga",
+        "pubdate": "Thu, 04 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -17,20 +31,6 @@
     ],
     [
       {
-        "title": "Arendal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arendal",
-        "pubdate": "Thu, 04 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Odd Nerdrum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20Nerdrum",
-        "pubdate": "Thu, 04 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sistemann ut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sistemann%20ut",
         "pubdate": "Thu, 04 Apr 2024 17:00:00 +0200"
@@ -38,30 +38,9 @@
     ],
     [
       {
-        "title": "Shannen Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shannen%20Doherty",
-        "pubdate": "Thu, 04 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Torstein Tvedt Solberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Torstein%20Tvedt%20Solberg",
-        "pubdate": "Thu, 04 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-        "pubdate": "Thu, 04 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elizabeth Hurley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elizabeth%20Hurley",
-        "pubdate": "Thu, 04 Apr 2024 08:00:00 +0200"
+        "title": "Arendal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arendal",
+        "pubdate": "Thu, 04 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -73,8 +52,29 @@
     ],
     [
       {
-        "title": "Oskar Westerlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
+        "title": "Shannen Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shannen%20Doherty",
+        "pubdate": "Thu, 04 Apr 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Thu, 04 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Torstein Tvedt Solberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Torstein%20Tvedt%20Solberg",
+        "pubdate": "Thu, 04 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elizabeth Hurley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elizabeth%20Hurley",
         "pubdate": "Thu, 04 Apr 2024 08:00:00 +0200"
       }
     ],
@@ -83,6 +83,13 @@
         "title": "Veronica Kristiansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Veronica%20Kristiansen",
         "pubdate": "Thu, 04 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oskar Westerlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
+        "pubdate": "Thu, 04 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Thu, 04 Apr 2024 21:00:00 +0200"
+        "title": "Jordbær",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jordb%C3%A6r",
+        "pubdate": "Thu, 04 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Thu, 04 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ida Elise Broch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ida%20Elise%20Broch",
-        "pubdate": "Wed, 03 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taiwan",
-        "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
       }
     ]
   ]
