@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2024 , 03:46:43",
+  "lastUpdate": "04-04-2024 , 03:56:01",
   "data": [
     [
       {
@@ -45,23 +45,16 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lohnbuch 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lohnbuch%202024",
         "pubdate": "Wed, 03 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
-        "pubdate": "Wed, 03 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jean-Yves Le Fur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean-Yves%20Le%20Fur",
-        "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
+        "pubdate": "Wed, 03 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -90,13 +83,6 @@
         "title": "Curling-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Curling-WM",
         "pubdate": "Wed, 03 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Panne WhatsApp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Panne%20WhatsApp",
-        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Accident hélicoptère Petit Combin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Accident%20h%C3%A9licopt%C3%A8re%20Petit%20Combin",
+        "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fenerbahce",
         "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-        "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+        "title": "Panne WhatsApp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Panne%20WhatsApp",
+        "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bernard Arnault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernard%20Arnault",
         "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ursula von der Leyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ursula%20von%20der%20Leyen",
+        "pubdate": "Wed, 03 Apr 2024 12:00:00 +0200"
       }
     ]
   ]
