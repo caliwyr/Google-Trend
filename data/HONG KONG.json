@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-04-2024 , 14:48:57",
+  "lastUpdate": "05-04-2024 , 14:58:21",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "中銀",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%AD%E9%8A%80",
-        "pubdate": "Fri, 05 Apr 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "TWICE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#TWICE",
         "pubdate": "Fri, 05 Apr 2024 20:00:00 +0800"
@@ -66,9 +59,30 @@
     ],
     [
       {
+        "title": "中銀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%AD%E9%8A%80",
+        "pubdate": "Fri, 05 Apr 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "媽媽咪呀",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AA%BD%E5%AA%BD%E5%92%AA%E5%91%80",
         "pubdate": "Fri, 05 Apr 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "美股",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%8E%E8%82%A1",
+        "pubdate": "Fri, 05 Apr 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "古天樂",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%A4%E5%A4%A9%E6%A8%82",
+        "pubdate": "Fri, 05 Apr 2024 13:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "曼城",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9B%BC%E5%9F%8E",
         "pubdate": "Thu, 04 Apr 2024 05:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "HOKA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#HOKA",
-        "pubdate": "Thu, 04 Apr 2024 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "凶兆",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%87%B6%E5%85%86",
-        "pubdate": "Thu, 04 Apr 2024 19:00:00 +0800"
       }
     ]
   ]
