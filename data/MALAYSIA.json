@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-04-2024 , 03:42:21",
+  "lastUpdate": "06-04-2024 , 03:51:53",
   "data": [
     [
       {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Nassr",
         "pubdate": "Sat, 06 Apr 2024 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1",
+        "pubdate": "Sat, 06 Apr 2024 11:00:00 +0800"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Liverpoolfc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpoolfc",
+        "pubdate": "Fri, 05 Apr 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "CSK vs SRH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CSK%20vs%20SRH",
         "pubdate": "Fri, 05 Apr 2024 22:00:00 +0800"
@@ -45,23 +59,16 @@
     ],
     [
       {
-        "title": "Liverpoolfc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpoolfc",
-        "pubdate": "Fri, 05 Apr 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dr Akmal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dr%20Akmal",
-        "pubdate": "Fri, 05 Apr 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Parasyte: The Grey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Parasyte:%20The%20Grey",
         "pubdate": "Fri, 05 Apr 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Akmal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Akmal",
+        "pubdate": "Fri, 05 Apr 2024 13:00:00 +0800"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Eliot Sumner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Eliot%20Sumner",
         "pubdate": "Fri, 05 Apr 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-        "pubdate": "Fri, 05 Apr 2024 03:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Monkey attack Hong Kong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Monkey%20attack%20Hong%20Kong",
-        "pubdate": "Fri, 05 Apr 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Ethan Wheatley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ethan%20Wheatley",
         "pubdate": "Fri, 05 Apr 2024 09:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Chelsea vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20vs%20Man%20United",
         "pubdate": "Thu, 04 Apr 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Aston%20Villa",
+        "pubdate": "Thu, 04 Apr 2024 03:00:00 +0800"
       }
     ]
   ]
