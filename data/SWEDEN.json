@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-04-2024 , 22:46:43",
+  "lastUpdate": "06-04-2024 , 22:56:10",
   "data": [
+    [
+      {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Arsenal",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frölunda Skellefteå",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Sat, 06 Apr 2024 07:00:00 +0200"
+        "title": "Mjällby mot Norrköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Norrk%C3%B6ping",
+        "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mjällby mot Norrköping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Norrk%C3%B6ping",
-        "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
+        "title": "AIK Fotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Fotboll",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "AIK Brommapojkarna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Brommapojkarna",
-        "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Abba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Abba",
         "pubdate": "Fri, 05 Apr 2024 16:00:00 +0200"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Bik Karlskoga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bik%20Karlskoga",
+        "title": "Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+        "pubdate": "Fri, 05 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fröken Snusk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6ken%20Snusk",
         "pubdate": "Fri, 05 Apr 2024 21:00:00 +0200"
       }
     ]
