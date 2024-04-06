@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "06-04-2024 , 19:47:00",
+  "lastUpdate": "06-04-2024 , 19:56:26",
   "data": [
-    [
-      {
-        "title": "PSV-AZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-AZ",
-        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Greta%20Thunberg",
         "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta Rotterdam.  Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam.%20%20Heracles",
-        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -31,6 +17,20 @@
     ],
     [
       {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
         "pubdate": "Sat, 06 Apr 2024 20:00:00 +0200"
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Sue Chaloner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sue%20Chaloner",
-        "pubdate": "Sat, 06 Apr 2024 08:00:00 +0200"
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Sat, 06 Apr 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PEC Zwolle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
-        "pubdate": "Sat, 06 Apr 2024 20:00:00 +0200"
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De jongen die van de wereld hield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20jongen%20die%20van%20de%20wereld%20hield",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "De jongen die van de wereld hield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20jongen%20die%20van%20de%20wereld%20hield",
-        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
+        "title": "Patty Brard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Patty%20Brard",
+        "pubdate": "Sat, 06 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Fri, 05 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1",
-        "pubdate": "Fri, 05 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Taiwan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taiwan",
-        "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lee Towers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lee%20Towers",
         "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Wed, 03 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taiwan",
+        "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
       }
     ]
   ]
