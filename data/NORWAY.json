@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "06-04-2024 , 15:42:29",
+  "lastUpdate": "06-04-2024 , 15:51:41",
   "data": [
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sat, 06 Apr 2024 15:00:00 +0200"
+        "title": "Crystal Palace mot Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Crystal%20Palace%20mot%20Man%20City",
+        "pubdate": "Sat, 06 Apr 2024 13:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "OBOS-ligaen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OBOS-ligaen",
+        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Sat, 06 Apr 2024 15:00:00 +0200"
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Raufoss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Raufoss",
+        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sacha Baron Cohen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sacha%20Baron%20Cohen",
         "pubdate": "Sat, 06 Apr 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Thunberg",
+        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Kristin Gjelsvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristin%20Gjelsvik",
-        "pubdate": "Fri, 05 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Geir Pollestad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Geir%20Pollestad",
         "pubdate": "Fri, 05 Apr 2024 22:00:00 +0200"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Greencom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greencom",
-        "pubdate": "Fri, 05 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
         "pubdate": "Fri, 05 Apr 2024 00:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Greencom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greencom",
+        "pubdate": "Fri, 05 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The First Omen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20First%20Omen",
         "pubdate": "Fri, 05 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo lufthavn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20lufthavn",
-        "pubdate": "Fri, 05 Apr 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Forsvarets forum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvarets%20forum",
-        "pubdate": "Fri, 05 Apr 2024 16:00:00 +0200"
       }
     ]
   ]
