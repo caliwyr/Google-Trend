@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2024 , 16:46:10",
+  "lastUpdate": "06-04-2024 , 16:55:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frölunda Skellefteå",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
+        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Frölunda Skellefteå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
+        "title": "Degerfors mot Sundsvall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20mot%20Sundsvall",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Penny Parnevik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Penny%20Parnevik",
         "pubdate": "Fri, 05 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Möte i Rom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#M%C3%B6te%20i%20Rom",
-        "pubdate": "Fri, 05 Apr 2024 07:00:00 +0200"
       }
     ]
   ]
