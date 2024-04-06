@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "06-04-2024 , 23:41:21",
+  "lastUpdate": "06-04-2024 , 23:50:51",
   "data": [
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
+        "title": "Dune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dune",
+        "pubdate": "Sun, 07 Apr 2024 01:00:00 +0200"
       }
     ],
     [
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
+        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Frölunda Skellefteå",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
@@ -34,13 +48,6 @@
         "title": "Mjällby mot Norrköping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Norrk%C3%B6ping",
         "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AIK Fotboll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Fotboll",
-        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Brynäs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
         "pubdate": "Fri, 05 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fröken Snusk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6ken%20Snusk",
-        "pubdate": "Fri, 05 Apr 2024 21:00:00 +0200"
       }
     ]
   ]
