@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2024 , 00:00:08",
+  "lastUpdate": "07-04-2024 , 01:24:47",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "N.C. State",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#N.C.%20State",
+        "pubdate": "Sat, 06 Apr 2024 20:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
         "pubdate": "Sat, 06 Apr 2024 12:00:00 -0400"
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Humboldt Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Humboldt%20Broncos",
-        "pubdate": "Sat, 06 Apr 2024 15:00:00 -0400"
+        "title": "Maple Leafs vs Canadiens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Canadiens",
+        "pubdate": "Sat, 06 Apr 2024 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Copa%20del%20Rey",
+        "pubdate": "Sat, 06 Apr 2024 18:00:00 -0400"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Dwayne Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwayne%20Johnson",
-        "pubdate": "Sat, 06 Apr 2024 13:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Chirurgie bariatrique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chirurgie%20bariatrique",
         "pubdate": "Sat, 06 Apr 2024 19:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Aston Villa vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aston%20Villa%20vs%20Brentford",
         "pubdate": "Sat, 06 Apr 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "New York earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20York%20earthquake",
-        "pubdate": "Fri, 05 Apr 2024 11:00:00 -0400"
       }
     ]
   ]
