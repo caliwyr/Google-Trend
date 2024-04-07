@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "07-04-2024 , 20:41:01",
+  "lastUpdate": "07-04-2024 , 20:50:21",
   "data": [
     [
       {
         "title": "Peter Pellegrini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Peter%20Pellegrini",
         "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
-        "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Ferencváros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
+        "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
         "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Gillian Anderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gillian%20Anderson",
         "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tottenham",
+        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tottenham",
-        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FIAT 500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FIAT%20500",
         "pubdate": "Sun, 07 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Menczer Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Menczer%20Tam%C3%A1s",
-        "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rost Andrea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rost%20Andrea",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carson Coma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carson%20Coma",
+        "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
