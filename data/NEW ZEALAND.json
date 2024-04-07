@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-04-2024 , 03:46:34",
+  "lastUpdate": "07-04-2024 , 03:55:59",
   "data": [
-    [
-      {
-        "title": "Time in NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time%20in%20NZ",
-        "pubdate": "Sun, 07 Apr 2024 03:00:00 +1200"
-      }
-    ],
     [
       {
         "title": "Time",
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
+        "title": "Central Coast Mariners vs Wellington Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Central%20Coast%20Mariners%20vs%20Wellington%20Phoenix",
         "pubdate": "Sat, 06 Apr 2024 19:00:00 +1300"
       }
     ],
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Chiefs Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20Rugby",
-        "pubdate": "Sat, 06 Apr 2024 20:00:00 +1300"
+        "title": "WrestleMania 40",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#WrestleMania%2040",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +1300"
       }
     ],
     [
       {
-        "title": "WrestleMania 40",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#WrestleMania%2040",
-        "pubdate": "Sat, 06 Apr 2024 19:00:00 +1300"
+        "title": "Chiefs Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20Rugby",
+        "pubdate": "Sat, 06 Apr 2024 20:00:00 +1300"
       }
     ],
     [
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "NCAA Women's Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NCAA%20Women's%20Basketball",
+        "title": "NCAA women's basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NCAA%20women's%20basketball",
         "pubdate": "Sat, 06 Apr 2024 18:00:00 +1300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Scoop, Netflix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scoop,%20Netflix",
         "pubdate": "Sat, 06 Apr 2024 22:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Radish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Radish",
+        "pubdate": "Sat, 06 Apr 2024 13:00:00 +1300"
       }
     ]
   ]
