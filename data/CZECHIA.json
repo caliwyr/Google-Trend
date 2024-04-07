@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2024 , 19:44:35",
+  "lastUpdate": "07-04-2024 , 19:53:55",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Teplice – Hradec Králové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
         "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HC Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Sparta",
+        "pubdate": "Sun, 07 Apr 2024 13:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BBC",
         "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
@@ -55,6 +69,13 @@
         "title": "Andrej Babiš",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Andrej%20Babi%C5%A1",
         "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sparta - Mladá Boleslav",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20-%20Mlad%C3%A1%20Boleslav",
+        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Trinec Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trinec%20Sparta",
-        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Greta%20Thunberg",
         "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Hana Holišová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hana%20Holi%C5%A1ov%C3%A1",
-        "pubdate": "Sat, 06 Apr 2024 10:00:00 +0200"
+        "title": "Bitevní loď",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitevn%C3%AD%20lo%C4%8F",
+        "pubdate": "Sat, 06 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Etna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Etna",
-        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zlín – Olomouc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zl%C3%ADn%20%E2%80%93%20Olomouc",
+        "title": "Liberec – Slovácko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Slov%C3%A1cko",
         "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Orsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orsk",
-        "pubdate": "Sat, 06 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maraton praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maraton%20praha",
-        "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
+        "title": "Sparta trinec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20trinec",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
