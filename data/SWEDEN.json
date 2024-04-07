@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2024 , 04:48:55",
+  "lastUpdate": "07-04-2024 , 04:58:03",
   "data": [
     [
       {
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Reistadlöpet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reistadl%C3%B6pet",
-        "pubdate": "Sat, 06 Apr 2024 12:00:00 +0200"
+        "title": "Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+        "pubdate": "Sat, 06 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Palermo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Palermo",
         "pubdate": "Sat, 06 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mora Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mora%20Djurg%C3%A5rden",
+        "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -89,13 +96,6 @@
       {
         "title": "Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ecuador",
-        "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Degerfors mot Sundsvall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20mot%20Sundsvall",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "EM-kval",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM-kval",
-        "pubdate": "Sat, 06 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Abba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Abba",
         "pubdate": "Fri, 05 Apr 2024 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Sverige England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20England",
         "pubdate": "Fri, 05 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benny Andersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benny%20Andersson",
+        "pubdate": "Fri, 05 Apr 2024 02:00:00 +0200"
       }
     ]
   ]
