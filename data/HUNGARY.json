@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2024 , 21:45:58",
+  "lastUpdate": "07-04-2024 , 21:55:10",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Szabó István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Istv%C3%A1n",
+        "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
         "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Hír Tv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADr%20Tv",
-        "pubdate": "Sun, 07 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Euronews",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euronews",
         "pubdate": "Sun, 07 Apr 2024 01:00:00 +0200"
@@ -104,6 +104,20 @@
         "title": "FIAT 500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FIAT%20500",
         "pubdate": "Sun, 07 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Őrült, dilis szerelem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C5%90r%C3%BClt,%20dilis%20szerelem",
+        "pubdate": "Sun, 07 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Menczer Tamás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Menczer%20Tam%C3%A1s",
+        "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Bálint András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A1lint%20Andr%C3%A1s",
-        "pubdate": "Sat, 06 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rost Andrea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rost%20Andrea",
         "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carson Coma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carson%20Coma",
-        "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
