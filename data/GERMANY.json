@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "08-04-2024 , 11:53:08",
+  "lastUpdate": "08-04-2024 , 12:14:47",
   "data": [
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maps",
+        "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sonnenfinsternis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sonnenfinsternis",
         "pubdate": "Mon, 08 Apr 2024 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
-        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Rot weiss essen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot%20weiss%20essen",
-        "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WWE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WWE",
         "pubdate": "Sun, 07 Apr 2024 06:00:00 +0200"
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "Woody Allen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Woody%20Allen",
-        "pubdate": "Sun, 07 Apr 2024 19:00:00 +0200"
+        "title": "Rot weiss essen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot%20weiss%20essen",
+        "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sat, 06 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sonnenfinsternis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sonnenfinsternis",
         "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tuchel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
+        "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
