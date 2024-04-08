@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-04-2024 , 03:48:37",
+  "lastUpdate": "08-04-2024 , 03:57:45",
   "data": [
+    [
+      {
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Maps",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "ChatGPT",
@@ -13,13 +20,6 @@
         "title": "Canva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canva",
         "pubdate": "Mon, 08 Apr 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Google Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Maps",
-        "pubdate": "Mon, 08 Apr 2024 14:00:00 +1200"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Anzac Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anzac%20Day",
+        "title": "ANZAC Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ANZAC%20Day",
         "pubdate": "Mon, 08 Apr 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snake",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Snake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snake",
-        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1200"
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LinkedIn",
+        "pubdate": "Mon, 08 Apr 2024 12:00:00 +1200"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
         "pubdate": "Mon, 08 Apr 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Map",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Map",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Word",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Word",
         "pubdate": "Mon, 08 Apr 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Jenna Ortega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jenna%20Ortega",
-        "pubdate": "Mon, 08 Apr 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20nottm%20Forest",
-        "pubdate": "Mon, 08 Apr 2024 08:00:00 +1200"
       }
     ]
   ]
