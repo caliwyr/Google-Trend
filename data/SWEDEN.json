@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 04:50:29",
+  "lastUpdate": "08-04-2024 , 04:59:47",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Abba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Abba",
+        "pubdate": "Sun, 07 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sun, 07 Apr 2024 18:00:00 +0200"
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "F1 Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1%20Japan",
+        "pubdate": "Sun, 07 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Galatasaray",
         "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
@@ -104,13 +111,6 @@
         "title": "VSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
         "pubdate": "Sun, 07 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Solförmörkelse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Solf%C3%B6rm%C3%B6rkelse",
-        "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Abba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Abba",
-        "pubdate": "Sat, 06 Apr 2024 09:00:00 +0200"
+        "title": "Molly sanden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Molly%20sanden",
+        "pubdate": "Sat, 06 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Molly sanden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Molly%20sanden",
-        "pubdate": "Sat, 06 Apr 2024 22:00:00 +0200"
+        "title": "Ola Bini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ola%20Bini",
+        "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
       }
     ]
   ]
