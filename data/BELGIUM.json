@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 12:55:41",
+  "lastUpdate": "08-04-2024 , 13:13:36",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "CM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#CM",
         "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mutualité chrétienne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mutualit%C3%A9%20chr%C3%A9tienne",
+        "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -38,20 +45,6 @@
     ],
     [
       {
-        "title": "Qmusic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Qmusic",
-        "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matthieu Lartot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Matthieu%20Lartot",
-        "pubdate": "Mon, 08 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Van Hool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Hool",
         "pubdate": "Mon, 08 Apr 2024 13:00:00 +0200"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Nantes – Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nantes%20%E2%80%93%20Lyon",
-        "pubdate": "Mon, 08 Apr 2024 07:00:00 +0200"
+        "title": "Avallon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Avallon",
+        "pubdate": "Mon, 08 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Qmusic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Qmusic",
+        "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,20 @@
     ],
     [
       {
+        "title": "Eid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eid",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luik-Bastenaken-Luik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luik-Bastenaken-Luik",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
         "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
@@ -90,6 +104,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
         "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Parijs-Roubaix 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Parijs-Roubaix%202024",
+        "pubdate": "Sun, 07 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Union Saint-Gilloise – Cercle Bruges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise%20%E2%80%93%20Cercle%20Bruges",
-        "pubdate": "Sun, 07 Apr 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aid el-Fitr 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aid%20el-Fitr%202024",
         "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Beerschot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
         "pubdate": "Sun, 07 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
-        "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Westerlo  Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo%20%20Gent",
-        "pubdate": "Sun, 07 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
