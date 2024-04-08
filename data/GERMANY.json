@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-04-2024 , 02:51:14",
+  "lastUpdate": "08-04-2024 , 03:00:37",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United",
         "pubdate": "Mon, 08 Apr 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Peter Sodann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Sodann",
+        "pubdate": "Sun, 07 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -27,20 +34,6 @@
         "title": "Gerhard Schröder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhard%20Schr%C3%B6der",
         "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Bond",
-        "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tatort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort",
-        "pubdate": "Sun, 07 Apr 2024 13:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sonnenfinsternis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sonnenfinsternis",
         "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
       }
     ]
   ]
