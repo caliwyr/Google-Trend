@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 00:37:36",
+  "lastUpdate": "08-04-2024 , 01:37:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
         "pubdate": "Mon, 08 Apr 2024 05:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1000"
       }
     ],
     [
@@ -31,15 +38,29 @@
     ],
     [
       {
-        "title": "Paris-Roubaix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris-Roubaix",
-        "pubdate": "Mon, 08 Apr 2024 06:00:00 +1000"
+        "title": "ASX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Sydney FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1000"
       }
     ],
     [
       {
         "title": "Pneumonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pneumonia",
+        "pubdate": "Mon, 08 Apr 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Isabella Falls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Isabella%20Falls",
         "pubdate": "Mon, 08 Apr 2024 09:00:00 +1000"
       }
     ],
@@ -52,9 +73,16 @@
     ],
     [
       {
-        "title": "Isabella Falls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Isabella%20Falls",
-        "pubdate": "Mon, 08 Apr 2024 09:00:00 +1000"
+        "title": "LSG vs GT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LSG%20vs%20GT",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jon Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jon%20Jones",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +1000"
       }
     ],
     [
@@ -73,6 +101,13 @@
     ],
     [
       {
+        "title": "Solar eclipse 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Solar%20eclipse%202024",
+        "pubdate": "Sun, 07 Apr 2024 19:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Charley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charley",
         "pubdate": "Sun, 07 Apr 2024 02:00:00 +1100"
@@ -80,16 +115,16 @@
     ],
     [
       {
-        "title": "Voila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Voila",
+        "title": "The Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Rock",
         "pubdate": "Sun, 07 Apr 2024 07:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Raiders vs Eels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raiders%20vs%20Eels",
-        "pubdate": "Sun, 07 Apr 2024 19:00:00 +1000"
+        "title": "Voila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Voila",
+        "pubdate": "Sun, 07 Apr 2024 07:00:00 +1000"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
         "pubdate": "Sun, 07 Apr 2024 06:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Man CITY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20CITY",
-        "pubdate": "Sun, 07 Apr 2024 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Caroline Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Caroline%20Kennedy",
-        "pubdate": "Sun, 07 Apr 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "MI vs DC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MI%20vs%20DC",
-        "pubdate": "Sun, 07 Apr 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ncaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ncaa",
-        "pubdate": "Sun, 07 Apr 2024 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Rangers vs Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rangers%20vs%20Celtic",
-        "pubdate": "Sun, 07 Apr 2024 22:00:00 +1000"
       }
     ]
   ]
