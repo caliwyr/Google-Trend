@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 20:52:34",
+  "lastUpdate": "08-04-2024 , 21:06:38",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Outlook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Outlook",
-        "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League",
         "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Outlook",
+        "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Search",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Search",
         "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trinkgeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trinkgeld",
+        "pubdate": "Mon, 08 Apr 2024 06:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "SMI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
         "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trinkgeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trinkgeld",
-        "pubdate": "Mon, 08 Apr 2024 06:00:00 +0200"
       }
     ],
     [
@@ -82,6 +82,13 @@
       {
         "title": "UBS-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UBS-Aktie",
+        "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leo",
         "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "AXA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AXA",
         "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Drive",
-        "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
       }
     ]
   ]
