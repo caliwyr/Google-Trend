@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-04-2024 , 18:50:23",
+  "lastUpdate": "08-04-2024 , 18:59:45",
   "data": [
-    [
-      {
-        "title": "Dolar hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dolar%20hoy",
-        "pubdate": "Mon, 08 Apr 2024 02:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Gran Hermano",
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maps",
+        "pubdate": "Mon, 08 Apr 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Banco nacion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20nacion",
+        "pubdate": "Mon, 08 Apr 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Banco Provincia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20Provincia",
         "pubdate": "Mon, 08 Apr 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "ChatGPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ChatGPT",
+        "pubdate": "Mon, 08 Apr 2024 15:00:00 -0300"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "TN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TN",
+        "pubdate": "Mon, 08 Apr 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Drive",
         "pubdate": "Mon, 08 Apr 2024 13:00:00 -0300"
@@ -101,15 +122,15 @@
     ],
     [
       {
-        "title": "Supervielle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Supervielle",
+        "title": "BCRA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BCRA",
         "pubdate": "Mon, 08 Apr 2024 13:00:00 -0300"
       }
     ],
     [
       {
-        "title": "BCRA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#BCRA",
+        "title": "Supervielle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Supervielle",
         "pubdate": "Mon, 08 Apr 2024 13:00:00 -0300"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Pami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pami",
         "pubdate": "Mon, 08 Apr 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Fecha de cobro ANSES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fecha%20de%20cobro%20ANSES",
-        "pubdate": "Mon, 08 Apr 2024 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Islas Malvinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Islas%20Malvinas",
-        "pubdate": "Mon, 08 Apr 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Naturgy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Naturgy",
-        "pubdate": "Mon, 08 Apr 2024 14:00:00 -0300"
       }
     ]
   ]

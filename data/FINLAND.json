@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 18:50:26",
+  "lastUpdate": "08-04-2024 , 18:59:48",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LinkedIn",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Eid 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eid%202024",
         "pubdate": "Mon, 08 Apr 2024 15:00:00 +0300"
@@ -41,6 +48,13 @@
         "title": "Teams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teams",
         "pubdate": "Mon, 08 Apr 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0300"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Copilot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Copilot",
+        "pubdate": "Mon, 08 Apr 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Wilma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wilma",
         "pubdate": "Sun, 07 Apr 2024 22:00:00 +0300"
@@ -94,8 +115,8 @@
     ],
     [
       {
-        "title": "Solar Eclipse 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Solar%20Eclipse%202024",
+        "title": "Solar eclipse 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Solar%20eclipse%202024",
         "pubdate": "Sun, 07 Apr 2024 22:00:00 +0300"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Greta Thunberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Greta%20Thunberg",
         "pubdate": "Sun, 07 Apr 2024 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Slovakia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slovakia",
-        "pubdate": "Sun, 07 Apr 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Steve Kozari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Steve%20Kozari",
-        "pubdate": "Sun, 07 Apr 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sherwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sherwood",
-        "pubdate": "Sun, 07 Apr 2024 23:00:00 +0300"
       }
     ]
   ]
