@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 06:58:13",
+  "lastUpdate": "09-04-2024 , 07:17:04",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
-        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
         "pubdate": "Mon, 08 Apr 2024 18:00:00 +0200"
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Simple minds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simple%20minds",
-        "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
+        "title": "Snapchat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Word",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Word",
         "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chat",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
       }
     ]
   ]
