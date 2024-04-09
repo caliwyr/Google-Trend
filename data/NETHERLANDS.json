@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "09-04-2024 , 00:58:02",
+  "lastUpdate": "09-04-2024 , 01:51:24",
   "data": [
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Suikerfeest 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suikerfeest%202024",
-        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Middel X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Middel%20X",
-        "pubdate": "Mon, 08 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "PostNL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PostNL",
-        "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
+        "title": "Middel X",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Middel%20X",
+        "pubdate": "Mon, 08 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Suikerfeest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suikerfeest",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Jong Utrecht Willem II",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Utrecht%20Willem%20II",
-        "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jong AZ -  Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20AZ%20-%20%20Emmen",
         "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
@@ -97,6 +83,13 @@
         "title": "Radio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio",
         "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bassie en Adriaan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bassie%20en%20Adriaan",
+        "pubdate": "Mon, 08 Apr 2024 01:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zonsverduistering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zonsverduistering",
         "pubdate": "Sun, 07 Apr 2024 20:00:00 +0200"
       }
     ]
