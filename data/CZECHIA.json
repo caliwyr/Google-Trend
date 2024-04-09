@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-04-2024 , 04:58:22",
+  "lastUpdate": "09-04-2024 , 05:16:15",
   "data": [
-    [
-      {
-        "title": "Is",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Is",
-        "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jaroslav Bašta",
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Počasi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C4%8Dasi",
-        "pubdate": "Mon, 08 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mail",
         "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Kurzy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kurzy",
+        "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VUT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#VUT",
         "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jana Kirschner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Kirschner",
+        "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
