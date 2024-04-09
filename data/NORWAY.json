@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-04-2024 , 05:55:34",
+  "lastUpdate": "09-04-2024 , 06:16:21",
   "data": [
     [
       {
         "title": "Love Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Love%20Island",
         "pubdate": "Tue, 09 Apr 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Billie%20Eilish",
+        "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Billie%20Eilish",
-        "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
+        "title": "Michael Sheen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Michael%20Sheen",
+        "pubdate": "Tue, 09 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "SpareBank 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SpareBank%201",
-        "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
+        "title": "Sommerhytta 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sommerhytta%202024",
+        "pubdate": "Mon, 08 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Gunilla Persson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gunilla%20Persson",
-        "pubdate": "Mon, 08 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "8. april",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#8.%20april",
-        "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Timer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
         "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Astrid Wagner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20Wagner",
         "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fotball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fotball",
+        "pubdate": "Mon, 08 Apr 2024 15:00:00 +0200"
       }
     ]
   ]
