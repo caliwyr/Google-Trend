@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 15:53:50",
+  "lastUpdate": "09-04-2024 , 16:11:08",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
+        "pubdate": "Tue, 09 Apr 2024 00:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jonathan Majors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonathan%20Majors",
         "pubdate": "Tue, 09 Apr 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NCAA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NCAA",
+        "pubdate": "Tue, 09 Apr 2024 22:00:00 +1000"
       }
     ],
     [
@@ -40,7 +54,7 @@
       {
         "title": "Zach Edey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zach%20Edey",
-        "pubdate": "Tue, 09 Apr 2024 19:00:00 +1000"
+        "pubdate": "Tue, 09 Apr 2024 14:00:00 +1000"
       }
     ],
     [
@@ -87,16 +101,9 @@
     ],
     [
       {
-        "title": "UConn vs Purdue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UConn%20vs%20Purdue",
-        "pubdate": "Tue, 09 Apr 2024 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "LiveNation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LiveNation",
-        "pubdate": "Tue, 09 Apr 2024 11:00:00 +1000"
+        "title": "Real Madrid vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Man%20City",
+        "pubdate": "Tue, 09 Apr 2024 21:00:00 +1000"
       }
     ],
     [
@@ -104,13 +111,6 @@
         "title": "NASA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NASA",
         "pubdate": "Tue, 09 Apr 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Man%20City",
-        "pubdate": "Tue, 09 Apr 2024 21:00:00 +1000"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
-        "pubdate": "Tue, 09 Apr 2024 15:00:00 +1000"
+        "title": "Arsenal vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Bayern",
+        "pubdate": "Tue, 09 Apr 2024 23:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Arsenal vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Bayern",
-        "pubdate": "Tue, 09 Apr 2024 23:00:00 +1000"
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
+        "pubdate": "Tue, 09 Apr 2024 15:00:00 +1000"
       }
     ]
   ]
