@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 07:56:29",
+  "lastUpdate": "10-04-2024 , 08:20:09",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Lakers vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Warriors",
+        "pubdate": "Wed, 10 Apr 2024 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Europa%20League",
         "pubdate": "Wed, 10 Apr 2024 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "SRH vs PBKS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SRH%20vs%20PBKS",
+        "pubdate": "Wed, 10 Apr 2024 19:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Reality Check Radio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Reality%20Check%20Radio",
         "pubdate": "Tue, 09 Apr 2024 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Niwa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Niwa",
-        "pubdate": "Tue, 09 Apr 2024 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Football Ferns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Football%20Ferns",
-        "pubdate": "Tue, 09 Apr 2024 22:00:00 +1200"
       }
     ]
   ]
