@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 11:52:40",
+  "lastUpdate": "10-04-2024 , 12:13:42",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
         "pubdate": "Wed, 10 Apr 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
+        "pubdate": "Wed, 10 Apr 2024 07:00:00 -0400"
       }
     ],
     [
@@ -61,6 +68,13 @@
       {
         "title": "Zach Edey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Edey",
+        "pubdate": "Tue, 09 Apr 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Eid Mubarak!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eid%20Mubarak!",
         "pubdate": "Tue, 09 Apr 2024 00:00:00 -0400"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Star Wars Outlaws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Star%20Wars%20Outlaws",
-        "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Ethan Crumbley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ethan%20Crumbley",
-        "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Florian Xhekaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Florian%20Xhekaj",
-        "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DAZN",
+        "pubdate": "Tue, 09 Apr 2024 16:00:00 -0400"
       }
     ]
   ]
