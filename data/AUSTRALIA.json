@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 06:49:40",
+  "lastUpdate": "10-04-2024 , 06:58:54",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Eid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eid",
         "pubdate": "Wed, 10 Apr 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Amy Winehouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amy%20Winehouse",
+        "pubdate": "Wed, 10 Apr 2024 08:00:00 +1000"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Back to Black movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Back%20to%20Black%20movie",
-        "pubdate": "Wed, 10 Apr 2024 08:00:00 +1000"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United",
+        "pubdate": "Wed, 10 Apr 2024 16:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Latrell Mitchell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latrell%20Mitchell",
         "pubdate": "Tue, 09 Apr 2024 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Morgan Wallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Morgan%20Wallen",
-        "pubdate": "Tue, 09 Apr 2024 01:00:00 +1000"
       }
     ]
   ]

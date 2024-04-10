@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-04-2024 , 06:49:44",
+  "lastUpdate": "10-04-2024 , 06:58:58",
   "data": [
     [
       {
         "title": "Olahraga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Olahraga",
+        "pubdate": "Wed, 10 Apr 2024 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Shalat Idul Fitri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Shalat%20Idul%20Fitri",
         "pubdate": "Wed, 10 Apr 2024 05:00:00 +0700"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Masjid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Masjid",
-        "pubdate": "Wed, 10 Apr 2024 05:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Liga Champions UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Champions%20UEFA",
         "pubdate": "Wed, 10 Apr 2024 04:00:00 +0700"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Doa selamat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Doa%20selamat",
-        "pubdate": "Wed, 10 Apr 2024 09:00:00 +0700"
+        "title": "Masjid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Masjid",
+        "pubdate": "Wed, 10 Apr 2024 05:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Imam Budi Hartono",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Imam%20Budi%20Hartono",
-        "pubdate": "Wed, 10 Apr 2024 12:00:00 +0700"
+        "title": "Doa selamat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Doa%20selamat",
+        "pubdate": "Wed, 10 Apr 2024 09:00:00 +0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Lebaran 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lebaran%202024",
-        "pubdate": "Tue, 09 Apr 2024 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona",
         "pubdate": "Tue, 09 Apr 2024 13:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "Udinese vs Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Udinese%20vs%20Inter",
         "pubdate": "Tue, 09 Apr 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Doa Ziarah Kubur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Doa%20Ziarah%20Kubur",
+        "pubdate": "Tue, 09 Apr 2024 11:00:00 +0700"
       }
     ]
   ]
