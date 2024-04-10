@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 03:00:39",
+  "lastUpdate": "10-04-2024 , 03:21:19",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Rögle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
         "pubdate": "Tue, 09 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Tue, 09 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Kronofogden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kronofogden",
-        "pubdate": "Mon, 08 Apr 2024 09:00:00 +0200"
+        "title": "Kommunal strejk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal%20strejk",
+        "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Brynäs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
         "pubdate": "Mon, 08 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Börsen idag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%B6rsen%20idag",
+        "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
       }
     ]
   ]
