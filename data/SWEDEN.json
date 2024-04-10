@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 04:57:42",
+  "lastUpdate": "10-04-2024 , 05:14:47",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Rögle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
         "pubdate": "Tue, 09 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Tue, 09 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Skyttedal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skyttedal",
-        "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+        "title": "Folklistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Folklistan",
+        "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -117,6 +110,13 @@
       {
         "title": "Spotify",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spotify",
+        "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kommunal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal",
         "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
       }
     ],
