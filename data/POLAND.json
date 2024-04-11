@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-04-2024 , 15:43:10",
+  "lastUpdate": "11-04-2024 , 15:52:34",
   "data": [
+    [
+      {
+        "title": "Pacjentka szpitala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pacjentka%20szpitala",
+        "pubdate": "Thu, 11 Apr 2024 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mefedron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mefedron",
         "pubdate": "Thu, 11 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Neymar",
+        "pubdate": "Thu, 11 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Obecność",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Obecno%C5%9B%C4%87",
         "pubdate": "Thu, 11 Apr 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Awionetka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Awionetka",
-        "pubdate": "Thu, 11 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Krzysztof Jackowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krzysztof%20Jackowski",
-        "pubdate": "Wed, 10 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Katastrofa smoleńska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katastrofa%20smole%C5%84ska",
         "pubdate": "Wed, 10 Apr 2024 01:00:00 +0200"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "LM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#LM",
-        "pubdate": "Wed, 10 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jacek Kaczmarski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20Kaczmarski",
         "pubdate": "Wed, 10 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stanisława Ryster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stanis%C5%82awa%20Ryster",
-        "pubdate": "Wed, 10 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Stanisława Ryster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stanis%C5%82awa%20Ryster",
+        "pubdate": "Wed, 10 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Smoleńsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Smole%C5%84sk",
         "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fallout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fallout",
+        "pubdate": "Wed, 10 Apr 2024 08:00:00 +0200"
       }
     ]
   ]
