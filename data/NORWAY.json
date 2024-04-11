@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2024 , 04:49:06",
+  "lastUpdate": "11-04-2024 , 04:58:36",
   "data": [
     [
       {
@@ -24,23 +24,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ingvild Kjerkol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingvild%20Kjerkol",
-        "pubdate": "Wed, 10 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Union Carl Berner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Union%20Carl%20Berner",
         "pubdate": "Wed, 10 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
+        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,20 @@
     ],
     [
       {
+        "title": "Ingvild Kjerkol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingvild%20Kjerkol",
+        "pubdate": "Wed, 10 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nye Hjorten Teater",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nye%20Hjorten%20Teater",
+        "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dortmund",
         "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Gotland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gotland",
         "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spekter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Spekter",
-        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
       }
     ]
   ]
