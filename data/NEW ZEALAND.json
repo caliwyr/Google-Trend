@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2024 , 10:49:43",
+  "lastUpdate": "11-04-2024 , 10:59:01",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Weather today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20today",
-        "pubdate": "Thu, 11 Apr 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Melissa Lee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Melissa%20Lee",
         "pubdate": "Thu, 11 Apr 2024 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "RR vs GT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RR%20vs%20GT",
-        "pubdate": "Thu, 11 Apr 2024 09:00:00 +1200"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "RR vs GT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RR%20vs%20GT",
+        "pubdate": "Thu, 11 Apr 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Championship",
         "pubdate": "Thu, 11 Apr 2024 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Juno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Juno",
+        "pubdate": "Thu, 11 Apr 2024 22:00:00 +1200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Coco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coco",
-        "pubdate": "Wed, 10 Apr 2024 10:00:00 +1200"
+        "title": "OCR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
+        "pubdate": "Wed, 10 Apr 2024 15:00:00 +1200"
       }
     ],
     [
       {
-        "title": "OCR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
-        "pubdate": "Wed, 10 Apr 2024 15:00:00 +1200"
+        "title": "NCAA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NCAA",
+        "pubdate": "Wed, 10 Apr 2024 10:00:00 +1200"
       }
     ]
   ]
