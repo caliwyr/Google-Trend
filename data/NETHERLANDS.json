@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-04-2024 , 22:48:53",
+  "lastUpdate": "11-04-2024 , 22:58:19",
   "data": [
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leverkusen",
+        "pubdate": "Fri, 12 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "O.J. Simpson",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Rens Kroes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rens%20Kroes",
-        "pubdate": "Thu, 11 Apr 2024 15:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
+        "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Liverpool-Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool-Atalanta",
-        "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
+        "title": "Rens Kroes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rens%20Kroes",
+        "pubdate": "Thu, 11 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Fallout",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fallout",
-        "pubdate": "Thu, 11 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vandaag Inside",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vandaag%20Inside",
         "pubdate": "Thu, 11 Apr 2024 00:00:00 +0200"
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Nits",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nits",
-        "pubdate": "Thu, 11 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Masters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Masters",
         "pubdate": "Thu, 11 Apr 2024 20:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luis%20Enrique",
-        "pubdate": "Thu, 11 Apr 2024 00:00:00 +0200"
+        "title": "Nits",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nits",
+        "pubdate": "Thu, 11 Apr 2024 01:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tinka",
         "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fietshelm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietshelm",
+        "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
