@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2024 , 19:55:52",
+  "lastUpdate": "11-04-2024 , 20:12:56",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "PGA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA",
         "pubdate": "Fri, 12 Apr 2024 03:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Masters tee times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masters%20tee%20times",
+        "pubdate": "Fri, 12 Apr 2024 00:00:00 +1000"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Masters 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masters%202024",
+        "pubdate": "Thu, 11 Apr 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Champions%20League",
         "pubdate": "Thu, 11 Apr 2024 06:00:00 +1000"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Masters 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Masters%202024",
-        "pubdate": "Thu, 11 Apr 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Civil War",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Civil%20War",
         "pubdate": "Thu, 11 Apr 2024 17:00:00 +1000"
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "What Jennifer Did",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What%20Jennifer%20Did",
-        "pubdate": "Thu, 11 Apr 2024 01:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Live Nation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Live%20Nation",
         "pubdate": "Thu, 11 Apr 2024 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Us Masters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Us%20Masters",
-        "pubdate": "Thu, 11 Apr 2024 19:00:00 +1000"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Atlético Madrid vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Atl%C3%A9tico%20Madrid%20vs%20Dortmund",
-        "pubdate": "Thu, 11 Apr 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Dr Hilary Cass",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dr%20Hilary%20Cass",
         "pubdate": "Thu, 11 Apr 2024 10:00:00 +1000"
@@ -139,6 +125,20 @@
         "title": "Julian Assange",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Julian%20Assange",
         "pubdate": "Thu, 11 Apr 2024 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "What Jennifer Did",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What%20Jennifer%20Did",
+        "pubdate": "Thu, 11 Apr 2024 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Truong My Lan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Truong%20My%20Lan",
+        "pubdate": "Thu, 11 Apr 2024 23:00:00 +1000"
       }
     ]
   ]
