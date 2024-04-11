@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2024 , 05:48:05",
+  "lastUpdate": "11-04-2024 , 05:57:30",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Torvastad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Torvastad",
-        "pubdate": "Wed, 10 Apr 2024 21:00:00 +0200"
+        "title": "Subjekt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subjekt",
+        "pubdate": "Wed, 10 Apr 2024 23:00:00 +0200"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Gene Hackman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gene%20Hackman",
+        "pubdate": "Wed, 10 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Star Wars Outlaws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Star%20Wars%20Outlaws",
         "pubdate": "Wed, 10 Apr 2024 08:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Ingvild Kjerkol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingvild%20Kjerkol",
         "pubdate": "Wed, 10 Apr 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nye Hjorten Teater",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nye%20Hjorten%20Teater",
-        "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Else Kåss Furuseth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Else%20K%C3%A5ss%20Furuseth",
-        "pubdate": "Wed, 10 Apr 2024 16:00:00 +0200"
+        "title": "Gotland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gotland",
+        "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gotland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gotland",
-        "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
+        "title": "Spekter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Spekter",
+        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FFK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FFK",
+        "pubdate": "Wed, 10 Apr 2024 23:00:00 +0200"
       }
     ]
   ]
