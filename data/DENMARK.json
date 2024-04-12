@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 10:48:08",
+  "lastUpdate": "12-04-2024 , 10:57:33",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fallout",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fallout",
         "pubdate": "Wed, 10 Apr 2024 15:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
-        "pubdate": "Wed, 10 Apr 2024 09:00:00 +0200"
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+        "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Masters 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Masters%202024",
         "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
+        "pubdate": "Wed, 10 Apr 2024 09:00:00 +0200"
       }
     ]
   ]
