@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 04:39:42",
+  "lastUpdate": "12-04-2024 , 04:49:13",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Udio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Udio",
-        "pubdate": "Fri, 12 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "O.J. Simpson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#O.J.%20Simpson",
         "pubdate": "Thu, 11 Apr 2024 18:00:00 +0300"
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Europa%20League",
+        "title": "Liverpool – Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Atalanta",
         "pubdate": "Thu, 11 Apr 2024 22:00:00 +0300"
       }
     ],
@@ -62,13 +55,6 @@
         "title": "Amazon Prime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Amazon%20Prime",
         "pubdate": "Thu, 11 Apr 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid – Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Dortmund",
-        "pubdate": "Thu, 11 Apr 2024 08:00:00 +0300"
       }
     ],
     [
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Atlético Madrid – Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Dortmund",
+        "pubdate": "Thu, 11 Apr 2024 08:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamine%20Yamal",
         "pubdate": "Thu, 11 Apr 2024 18:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Joker 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joker%202",
         "pubdate": "Wed, 10 Apr 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Gladiator 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gladiator%202",
+        "pubdate": "Wed, 10 Apr 2024 11:00:00 +0300"
       }
     ]
   ]
