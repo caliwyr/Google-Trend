@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-04-2024 , 15:43:38",
+  "lastUpdate": "13-04-2024 , 15:52:48",
   "data": [
+    [
+      {
+        "title": "Newcastle  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Tottenham",
+        "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Iran",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Newcastle  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Tottenham",
-        "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
+        "title": "Man City  Luton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Luton",
+        "pubdate": "Sat, 13 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Tofu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tofu",
         "pubdate": "Sat, 13 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coop",
+        "pubdate": "Fri, 12 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Co-op bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Co-op%20bank",
-        "pubdate": "Fri, 12 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Versus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Versus",
         "pubdate": "Fri, 12 Apr 2024 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
         "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AGF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AGF",
-        "pubdate": "Thu, 11 Apr 2024 17:00:00 +0200"
       }
     ]
   ]
