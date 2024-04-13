@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-04-2024 , 23:41:21",
+  "lastUpdate": "13-04-2024 , 23:51:00",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
         "pubdate": "Sat, 13 Apr 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sao Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+        "pubdate": "Sat, 13 Apr 2024 15:00:00 -0500"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
-        "pubdate": "Sat, 13 Apr 2024 15:00:00 -0500"
+        "title": "Brasileirão série a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o%20s%C3%A9rie%20a",
+        "pubdate": "Sat, 13 Apr 2024 07:00:00 -0500"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bologna",
-        "pubdate": "Sat, 13 Apr 2024 12:00:00 -0500"
+        "title": "Gshow votação",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gshow%20vota%C3%A7%C3%A3o",
+        "pubdate": "Sat, 13 Apr 2024 00:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Criciúma x Juventude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Juventude",
-        "pubdate": "Sat, 13 Apr 2024 16:00:00 -0500"
+        "title": "Bayern x Colônia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Col%C3%B4nia",
+        "pubdate": "Sat, 13 Apr 2024 08:00:00 -0500"
       }
     ],
     [
@@ -87,16 +94,23 @@
     ],
     [
       {
-        "title": "Enquete BBB último paredão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20BBB%20%C3%BAltimo%20pared%C3%A3o",
-        "pubdate": "Sat, 13 Apr 2024 00:00:00 -0500"
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bologna",
+        "pubdate": "Sat, 13 Apr 2024 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Velo Clube x Noroeste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velo%20Clube%20x%20Noroeste",
-        "pubdate": "Sat, 13 Apr 2024 15:00:00 -0500"
+        "title": "SPFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+        "pubdate": "Sat, 13 Apr 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Premiere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Premiere",
+        "pubdate": "Sat, 13 Apr 2024 12:00:00 -0500"
       }
     ],
     [
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MotoGP",
-        "pubdate": "Sat, 13 Apr 2024 14:00:00 -0500"
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20Madrid",
+        "pubdate": "Sat, 13 Apr 2024 08:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wrexham",
         "pubdate": "Sat, 13 Apr 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto%20FC",
-        "pubdate": "Sat, 13 Apr 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lana%20Del%20Rey",
-        "pubdate": "Sat, 13 Apr 2024 12:00:00 -0500"
       }
     ]
   ]
