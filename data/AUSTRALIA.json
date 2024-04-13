@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-04-2024 , 20:42:32",
+  "lastUpdate": "13-04-2024 , 20:51:46",
   "data": [
+    [
+      {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BBC",
+        "pubdate": "Sun, 14 Apr 2024 03:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Man City vs Luton Town",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Times",
-        "pubdate": "Sun, 14 Apr 2024 01:00:00 +1000"
+        "title": "Bournemouth vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Man%20United",
+        "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Bournemouth vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Man%20United",
-        "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Times",
+        "pubdate": "Sun, 14 Apr 2024 01:00:00 +1000"
       }
     ],
     [
@@ -101,15 +108,15 @@
     ],
     [
       {
-        "title": "Eleanor Coppola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eleanor%20Coppola",
+        "title": "Arizona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arizona",
         "pubdate": "Sat, 13 Apr 2024 18:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Arizona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arizona",
+        "title": "Eleanor Coppola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eleanor%20Coppola",
         "pubdate": "Sat, 13 Apr 2024 18:00:00 +1000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "SANFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SANFL",
         "pubdate": "Sat, 13 Apr 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "VAFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#VAFA",
-        "pubdate": "Sat, 13 Apr 2024 16:00:00 +1000"
       }
     ]
   ]
