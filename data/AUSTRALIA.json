@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2024 , 10:41:29",
+  "lastUpdate": "13-04-2024 , 10:50:38",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Eels vs Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eels%20vs%20Cowboys",
+        "pubdate": "Sat, 13 Apr 2024 18:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Sam Taylor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Taylor",
         "pubdate": "Sat, 13 Apr 2024 15:00:00 +1000"
@@ -34,13 +41,6 @@
         "title": "Roberto Cavalli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roberto%20Cavalli",
         "pubdate": "Sat, 13 Apr 2024 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "GWS Giants vs St Kilda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GWS%20Giants%20vs%20St%20Kilda",
-        "pubdate": "Sat, 13 Apr 2024 15:00:00 +1000"
       }
     ],
     [
@@ -73,23 +73,16 @@
     ],
     [
       {
-        "title": "Argylle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argylle",
-        "pubdate": "Sat, 13 Apr 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "LSG vs DC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LSG%20vs%20DC",
-        "pubdate": "Sat, 13 Apr 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Parramatta Eels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parramatta%20Eels",
         "pubdate": "Sat, 13 Apr 2024 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Argylle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argylle",
+        "pubdate": "Sat, 13 Apr 2024 00:00:00 +1000"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lana%20Del%20Rey",
-        "pubdate": "Sat, 13 Apr 2024 19:00:00 +1000"
+        "title": "Pride Of Jenni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pride%20Of%20Jenni",
+        "pubdate": "Sat, 13 Apr 2024 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "O.J. Simpson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#O.J.%20Simpson",
+        "pubdate": "Fri, 12 Apr 2024 01:00:00 +1000"
       }
     ]
   ]
