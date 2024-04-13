@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "13-04-2024 , 13:38:39",
+  "lastUpdate": "13-04-2024 , 13:48:02",
   "data": [
     [
       {
         "title": "Sydney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sydney",
         "pubdate": "Sat, 13 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Krieg Israel Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Krieg%20Israel%20Iran",
+        "pubdate": "Sat, 13 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern gegen Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20gegen%20K%C3%B6ln",
+        "pubdate": "Sat, 13 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Stadelhofen Bahnhof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadelhofen%20Bahnhof",
-        "pubdate": "Sat, 13 Apr 2024 00:00:00 +0200"
+        "title": "Marco Odermatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marco%20Odermatt",
+        "pubdate": "Sat, 13 Apr 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Marco Odermatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marco%20Odermatt",
-        "pubdate": "Sat, 13 Apr 2024 12:00:00 +0200"
+        "title": "Stadelhofen Bahnhof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadelhofen%20Bahnhof",
+        "pubdate": "Sat, 13 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Holger%20Rune",
-        "pubdate": "Fri, 12 Apr 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iran",
         "pubdate": "Fri, 12 Apr 2024 13:00:00 +0200"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayer%20Leverkusen",
-        "pubdate": "Fri, 12 Apr 2024 00:00:00 +0200"
+        "title": "Holger Rune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Holger%20Rune",
+        "pubdate": "Fri, 12 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Grossbrand Therwil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grossbrand%20Therwil",
         "pubdate": "Fri, 12 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayer%20Leverkusen",
+        "pubdate": "Fri, 12 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Skihütte Obererbs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Skih%C3%BCtte%20Obererbs",
-        "pubdate": "Fri, 12 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Yamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yamo",
         "pubdate": "Fri, 12 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Praxis mit Meerblick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Praxis%20mit%20Meerblick",
-        "pubdate": "Fri, 12 Apr 2024 21:00:00 +0200"
       }
     ]
   ]
