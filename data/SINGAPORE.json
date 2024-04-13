@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2024 , 01:40:53",
+  "lastUpdate": "13-04-2024 , 01:55:16",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Zurich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zurich",
         "pubdate": "Fri, 12 Apr 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leverkusen",
+        "pubdate": "Fri, 12 Apr 2024 11:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Xi Jinping Ma Ying-jeou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xi%20Jinping%20Ma%20Ying-jeou",
         "pubdate": "Thu, 11 Apr 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-        "pubdate": "Wed, 10 Apr 2024 08:00:00 +0800"
       }
     ]
   ]
