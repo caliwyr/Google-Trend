@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-04-2024 , 07:46:42",
+  "lastUpdate": "13-04-2024 , 07:55:58",
   "data": [
     [
       {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
         "pubdate": "Sat, 13 Apr 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Coachella 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coachella%202024",
+        "pubdate": "Sat, 13 Apr 2024 11:00:00 +0800"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Coachella 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coachella%202024",
-        "pubdate": "Sat, 13 Apr 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Park Bo Ram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Park%20Bo%20Ram",
         "pubdate": "Fri, 12 Apr 2024 09:00:00 +0800"
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Atalanta",
-        "pubdate": "Fri, 12 Apr 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Pope Francis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
         "pubdate": "Fri, 12 Apr 2024 22:00:00 +0800"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Masters 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Masters%202024",
-        "pubdate": "Fri, 12 Apr 2024 09:00:00 +0800"
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Atalanta",
+        "pubdate": "Fri, 12 Apr 2024 11:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Wed, 10 Apr 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
+        "pubdate": "Wed, 10 Apr 2024 18:00:00 +0800"
       }
     ]
   ]
