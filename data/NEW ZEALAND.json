@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-04-2024 , 01:50:43",
+  "lastUpdate": "14-04-2024 , 03:12:11",
   "data": [
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
         "pubdate": "Sun, 14 Apr 2024 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
+        "pubdate": "Sun, 14 Apr 2024 14:00:00 +1200"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clint%20Eastwood",
-        "pubdate": "Sun, 14 Apr 2024 11:00:00 +1200"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
+        "pubdate": "Sun, 14 Apr 2024 14:00:00 +1200"
       }
     ],
     [
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Bondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bondi",
-        "pubdate": "Sat, 13 Apr 2024 19:00:00 +1200"
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Clint%20Eastwood",
+        "pubdate": "Sun, 14 Apr 2024 11:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Warriors vs Sea Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Sea%20Eagles",
-        "pubdate": "Sat, 13 Apr 2024 17:00:00 +1200"
+        "title": "PBKS vs RR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PBKS%20vs%20RR",
+        "pubdate": "Sun, 14 Apr 2024 14:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Bondi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bondi",
+        "pubdate": "Sat, 13 Apr 2024 19:00:00 +1200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Warriors vs Sea Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Sea%20Eagles",
+        "pubdate": "Sat, 13 Apr 2024 17:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Hurricanes vs Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hurricanes%20vs%20Chiefs",
         "pubdate": "Sat, 13 Apr 2024 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Carterton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Carterton",
-        "pubdate": "Sat, 13 Apr 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Coachella 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coachella%202024",
-        "pubdate": "Sat, 13 Apr 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Baby Reindeer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baby%20Reindeer",
-        "pubdate": "Sat, 13 Apr 2024 09:00:00 +1200"
       }
     ]
   ]

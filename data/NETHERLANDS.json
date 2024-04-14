@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-04-2024 , 01:50:43",
+  "lastUpdate": "14-04-2024 , 03:12:11",
   "data": [
-    [
-      {
-        "title": "Iron Dome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iron%20Dome",
-        "pubdate": "Sun, 14 Apr 2024 02:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "PSV-Vitesse",
@@ -34,6 +27,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
         "pubdate": "Sat, 13 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sydney",
+        "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Excelsior  Volendam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior%20%20Volendam",
         "pubdate": "Fri, 12 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marathon Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20Rotterdam",
+        "pubdate": "Fri, 12 Apr 2024 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Eid al-Fitr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eid%20al-Fitr",
         "pubdate": "Wed, 10 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fietshelm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietshelm",
-        "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
       }
     ]
   ]

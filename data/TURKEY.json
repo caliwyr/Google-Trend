@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-04-2024 , 01:50:47",
+  "lastUpdate": "14-04-2024 , 03:12:15",
   "data": [
     [
       {
         "title": "Ürdün",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%9Crd%C3%BCn",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "A Haber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#A%20Haber",
+        "pubdate": "Sun, 14 Apr 2024 01:00:00 +0300"
       }
     ],
     [
@@ -19,6 +26,13 @@
       {
         "title": "Yunus Emre Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yunus%20Emre%20Survivor",
+        "pubdate": "Sun, 14 Apr 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İHA nedir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0HA%20nedir",
         "pubdate": "Sun, 14 Apr 2024 01:00:00 +0300"
       }
     ],
@@ -52,23 +66,9 @@
     ],
     [
       {
-        "title": "Adana Demirspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20Demirspor",
-        "pubdate": "Sat, 13 Apr 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Barcelona",
         "pubdate": "Sat, 13 Apr 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitcoin",
-        "pubdate": "Sat, 13 Apr 2024 01:00:00 +0300"
       }
     ],
     [
@@ -80,8 +80,22 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitcoin",
+        "pubdate": "Sat, 13 Apr 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Hull City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hull%20City",
+        "pubdate": "Sat, 13 Apr 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Adana Demirspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adana%20Demirspor",
         "pubdate": "Sat, 13 Apr 2024 18:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
         "pubdate": "Sat, 13 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Çorum FK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
-        "pubdate": "Sat, 13 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Münih - Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20-%20K%C3%B6ln",
-        "pubdate": "Sat, 13 Apr 2024 16:00:00 +0300"
       }
     ]
   ]
