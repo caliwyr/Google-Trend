@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "14-04-2024 , 06:00:31",
+  "lastUpdate": "14-04-2024 , 07:58:27",
   "data": [
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC",
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BBC%20News",
         "pubdate": "Sun, 14 Apr 2024 01:00:00 +0200"
       }
     ],
@@ -17,16 +17,9 @@
     ],
     [
       {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lana%20Del%20Rey",
+        "title": "Winnaar Big Brother 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Winnaar%20Big%20Brother%202024",
         "pubdate": "Sun, 14 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
-        "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,27 @@
         "title": "RAEC Mons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RAEC%20Mons",
         "pubdate": "Sun, 14 Apr 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lana Del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lana%20Del%20Rey",
+        "pubdate": "Sun, 14 Apr 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#News",
+        "pubdate": "Sun, 14 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
+        "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -54,7 +68,7 @@
       {
         "title": "KV Mechelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
-        "pubdate": "Sat, 13 Apr 2024 23:00:00 +0200"
+        "pubdate": "Sat, 13 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -66,30 +80,9 @@
     ],
     [
       {
-        "title": "Genk, Cercle Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk,%20Cercle%20Brugge",
-        "pubdate": "Sat, 13 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hallerbos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hallerbos",
         "pubdate": "Sat, 13 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid – Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Girona",
-        "pubdate": "Sat, 13 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sydney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sydney",
-        "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sydney",
+        "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca",
         "pubdate": "Sat, 13 Apr 2024 21:00:00 +0200"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Eddy Merckx",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Merckx",
-        "pubdate": "Sat, 13 Apr 2024 08:00:00 +0200"
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Sat, 13 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United",
-        "pubdate": "Sat, 13 Apr 2024 21:00:00 +0200"
+        "title": "Eddy Merckx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Merckx",
+        "pubdate": "Sat, 13 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Bournemouth – Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bournemouth%20%E2%80%93%20Manchester%20United",
+        "title": "Yonimassage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yonimassage",
         "pubdate": "Sat, 13 Apr 2024 20:00:00 +0200"
       }
     ]
