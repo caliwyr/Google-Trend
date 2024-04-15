@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 06:50:44",
+  "lastUpdate": "15-04-2024 , 06:59:54",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20News",
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Israel",
+        "pubdate": "Sun, 14 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC%20news",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0300"
       }
     ],
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Max Holloway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Max%20Holloway",
-        "pubdate": "Sun, 14 Apr 2024 17:00:00 +0300"
+        "title": "Utica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Utica",
+        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Utica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Utica",
-        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0300"
+        "title": "Max Holloway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Max%20Holloway",
+        "pubdate": "Sun, 14 Apr 2024 17:00:00 +0300"
       }
     ],
     [
@@ -83,13 +90,6 @@
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin%20price",
         "pubdate": "Sun, 14 Apr 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gaza",
-        "pubdate": "Sun, 14 Apr 2024 18:00:00 +0300"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "JERUSALEM POST",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JERUSALEM%20POST",
+        "title": "Jerusalem Post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jerusalem%20Post",
         "pubdate": "Sun, 14 Apr 2024 19:00:00 +0300"
       }
     ],

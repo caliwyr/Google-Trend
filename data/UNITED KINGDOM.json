@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 06:50:51",
+  "lastUpdate": "15-04-2024 , 07:00:02",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bundesliga",
         "pubdate": "Sun, 14 Apr 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News",
+        "pubdate": "Sun, 14 Apr 2024 16:00:00 +0100"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#CNN",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "League 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#League%201",
-        "pubdate": "Sun, 14 Apr 2024 11:00:00 +0100"
       }
     ],
     [

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-04-2024 , 06:50:44",
+  "lastUpdate": "15-04-2024 , 06:59:54",
   "data": [
+    [
+      {
+        "title": "Medina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medina",
+        "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "UFC 300",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20News",
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20news",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Al Jazeera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al%20Jazeera",
-        "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
+        "title": "Scottie Scheffler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scottie%20Scheffler",
+        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -80,22 +87,15 @@
     ],
     [
       {
-        "title": "Scottie Scheffler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scottie%20Scheffler",
-        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ludvig åberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ludvig%20%C3%A5berg",
-        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sabrina Carpenter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabrina%20Carpenter",
+        "pubdate": "Sun, 14 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aljazeera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aljazeera",
         "pubdate": "Sun, 14 Apr 2024 09:00:00 +0200"
       }
     ],
