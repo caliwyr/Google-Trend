@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 11:55:22",
+  "lastUpdate": "15-04-2024 , 12:22:43",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Chant du Gros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chant%20du%20Gros",
+        "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aydan Özoğuz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aydan%20%C3%96zo%C4%9Fuz",
         "pubdate": "Mon, 15 Apr 2024 09:00:00 +0200"
@@ -34,13 +41,6 @@
         "title": "Peter Maffay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Maffay",
         "pubdate": "Mon, 15 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chant du Gros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chant%20du%20Gros",
-        "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Globster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Globster",
-        "pubdate": "Mon, 15 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Scottie Scheffler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Scottie%20Scheffler",
         "pubdate": "Mon, 15 Apr 2024 01:00:00 +0200"
@@ -73,16 +66,9 @@
     ],
     [
       {
-        "title": "Zürich hb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20hb",
-        "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Udinese gegen Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Udinese%20gegen%20Roma",
-        "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
+        "title": "Globster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Globster",
+        "pubdate": "Mon, 15 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -94,6 +80,13 @@
     ],
     [
       {
+        "title": "Udinese gegen Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Udinese%20gegen%20Roma",
+        "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayer%20Leverkusen",
         "pubdate": "Sun, 14 Apr 2024 17:00:00 +0200"
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "Böögg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%B6%C3%B6gg",
+        "title": "Sechseläuten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sechsel%C3%A4uten",
         "pubdate": "Sun, 14 Apr 2024 18:00:00 +0200"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "UFC 300",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC%20300",
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+        "pubdate": "Sun, 14 Apr 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
         "pubdate": "Sun, 14 Apr 2024 22:00:00 +0200"
       }
     ]
