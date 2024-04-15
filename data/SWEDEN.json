@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-04-2024 , 22:43:40",
+  "lastUpdate": "15-04-2024 , 22:53:14",
   "data": [
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Mon, 15 Apr 2024 20:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Värnamo mot Malmö FF",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Mon, 15 Apr 2024 20:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+        "title": "MFF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
         "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
       }
     ],
@@ -45,16 +52,23 @@
     ],
     [
       {
-        "title": "Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-        "pubdate": "Mon, 15 Apr 2024 21:00:00 +0200"
+        "title": "Cole Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cole%20Palmer",
+        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Cole Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cole%20Palmer",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
         "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siamesiska tvillingar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Siamesiska%20tvillingar",
+        "pubdate": "Mon, 15 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Calle Halfvarsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Calle%20Halfvarsson",
-        "pubdate": "Mon, 15 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vårbudgeten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A5rbudgeten",
         "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Ålstäket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%85lst%C3%A4ket",
-        "pubdate": "Mon, 15 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-        "pubdate": "Mon, 15 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Donald trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20trump",
-        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
+        "title": "Calle Halfvarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Calle%20Halfvarsson",
+        "pubdate": "Mon, 15 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "UFC 300",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20300",
         "pubdate": "Sun, 14 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sun, 14 Apr 2024 20:00:00 +0200"
       }
     ]
   ]
