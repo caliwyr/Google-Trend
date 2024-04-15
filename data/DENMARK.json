@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 18:48:07",
+  "lastUpdate": "15-04-2024 , 18:57:26",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "COO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#COO",
         "pubdate": "Mon, 15 Apr 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Florian Wirtz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Florian%20Wirtz",
+        "pubdate": "Mon, 15 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "BBC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20News",
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20news",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardian",
-        "pubdate": "Sun, 14 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
         "pubdate": "Sun, 14 Apr 2024 20:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Leverkusen FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leverkusen%20FC",
-        "pubdate": "Sun, 14 Apr 2024 20:00:00 +0200"
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
+        "pubdate": "Sun, 14 Apr 2024 14:00:00 +0200"
       }
     ]
   ]
