@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 09:44:08",
+  "lastUpdate": "16-04-2024 , 09:53:37",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Sydney church stabbing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sydney%20church%20stabbing",
+        "title": "Sydney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sydney",
+        "pubdate": "Tue, 16 Apr 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "RCB vs SRH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RCB%20vs%20SRH",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0800"
       }
     ],
@@ -34,13 +41,6 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
         "pubdate": "Tue, 16 Apr 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "RCB vs SRH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RCB%20vs%20SRH",
-        "pubdate": "Tue, 16 Apr 2024 06:00:00 +0800"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Cathay Pacific buy 1 get 1 free",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cathay%20Pacific%20buy%201%20get%201%20free",
-        "pubdate": "Mon, 15 Apr 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
         "pubdate": "Mon, 15 Apr 2024 01:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Barcelona Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona%20Open",
         "pubdate": "Mon, 15 Apr 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Scottie Scheffler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Scottie%20Scheffler",
+        "pubdate": "Mon, 15 Apr 2024 09:00:00 +0800"
       }
     ]
   ]

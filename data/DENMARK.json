@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "16-04-2024 , 09:44:01",
+  "lastUpdate": "16-04-2024 , 09:53:30",
   "data": [
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC",
-        "pubdate": "Tue, 16 Apr 2024 10:00:00 +0200"
+        "title": "Borsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Borsen",
+        "pubdate": "Tue, 16 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Copenhagen fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Copenhagen%20fire",
+        "title": "Brand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brand",
         "pubdate": "Tue, 16 Apr 2024 10:00:00 +0200"
       }
     ],
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Brand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brand",
+        "title": "Breaking news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Breaking%20news",
         "pubdate": "Tue, 16 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool  Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Crystal%20Palace",
-        "pubdate": "Sun, 14 Apr 2024 15:00:00 +0200"
       }
     ]
   ]
