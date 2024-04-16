@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "16-04-2024 , 22:40:14",
+  "lastUpdate": "16-04-2024 , 22:49:33",
   "data": [
     [
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
         "pubdate": "Tue, 16 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund gegen Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20gegen%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Börse Kopenhagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%B6rse%20Kopenhagen",
-        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -31,16 +17,30 @@
     ],
     [
       {
-        "title": "Dubai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dubai",
-        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BVB",
+        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bitcoin Halving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin%20Halving",
-        "pubdate": "Tue, 16 Apr 2024 14:00:00 +0200"
+        "title": "Börse Kopenhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%B6rse%20Kopenhagen",
+        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LHC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
+        "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dubai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dubai",
+        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Bitcoin Halving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin%20Halving",
+        "pubdate": "Tue, 16 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alfa Romeo Milano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alfa%20Romeo%20Milano",
         "pubdate": "Tue, 16 Apr 2024 08:00:00 +0200"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Bourse de Copenhague",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bourse%20de%20Copenhague",
-        "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
+        "title": "Dubai Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dubai%20Unwetter",
+        "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -76,6 +83,20 @@
         "title": "Scooter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Scooter",
         "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brand. Schönenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brand.%20Sch%C3%B6nenberg",
+        "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bourse de Copenhague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bourse%20de%20Copenhague",
+        "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Justin%20Bieber",
-        "pubdate": "Tue, 16 Apr 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dubai Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dubai%20Unwetter",
-        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Renzo Blumenthal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Renzo%20Blumenthal",
         "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Kristina Vogel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kristina%20Vogel",
         "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Patrouille des Glaciers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#La%20Patrouille%20des%20Glaciers",
-        "pubdate": "Tue, 16 Apr 2024 13:00:00 +0200"
       }
     ]
   ]

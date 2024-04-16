@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "16-04-2024 , 22:40:07",
+  "lastUpdate": "16-04-2024 , 22:49:26",
   "data": [
     [
       {
-        "title": "Dortmund – Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
+        "title": "RMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RMC",
+        "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
       }
     ],
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Copenhague",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Copenhague",
-        "pubdate": "Tue, 16 Apr 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vassieux-en-Vercors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vassieux-en-Vercors",
         "pubdate": "Tue, 16 Apr 2024 09:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Damien Guerot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Damien%20Guerot",
-        "pubdate": "Tue, 16 Apr 2024 10:00:00 +0200"
+        "title": "Bourse de Copenhague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourse%20de%20Copenhague",
+        "pubdate": "Tue, 16 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -62,20 +62,6 @@
         "title": "Zanzibar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zanzibar",
         "pubdate": "Tue, 16 Apr 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beatrice Rosen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Beatrice%20Rosen",
-        "pubdate": "Tue, 16 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glucksmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glucksmann",
-        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Caroline Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Caroline%20Garcia",
+        "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PSG barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20barca",
         "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jul",
+        "pubdate": "Mon, 15 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
