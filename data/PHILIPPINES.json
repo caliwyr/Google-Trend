@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 11:48:03",
+  "lastUpdate": "16-04-2024 , 11:57:27",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "NGCP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NGCP",
-        "pubdate": "Tue, 16 Apr 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Luzon grid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Luzon%20grid",
         "pubdate": "Tue, 16 Apr 2024 14:00:00 +0800"
@@ -115,6 +108,20 @@
     ],
     [
       {
+        "title": "ANSWER",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#ANSWER",
+        "pubdate": "Tue, 16 Apr 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sony PS5 Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sony%20PS5%20Pro",
+        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Pelicans vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pelicans%20vs%20Lakers",
         "pubdate": "Mon, 15 Apr 2024 05:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Kathryn Bernardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kathryn%20Bernardo",
         "pubdate": "Mon, 15 Apr 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Clippers vs Rockets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Clippers%20vs%20Rockets",
-        "pubdate": "Mon, 15 Apr 2024 07:00:00 +0800"
       }
     ]
   ]
