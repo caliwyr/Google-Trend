@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 04:46:24",
+  "lastUpdate": "16-04-2024 , 04:55:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Osasuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Osasuna",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta",
+        "pubdate": "Tue, 16 Apr 2024 07:00:00 +0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Leverkusen FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leverkusen%20FC",
-        "pubdate": "Sun, 14 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CNN",
-        "pubdate": "Sun, 14 Apr 2024 07:00:00 +0300"
+        "title": "Mwangi wa Iria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mwangi%20wa%20Iria",
+        "pubdate": "Sun, 14 Apr 2024 15:00:00 +0300"
       }
     ]
   ]
