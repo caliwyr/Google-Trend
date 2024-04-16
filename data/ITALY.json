@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-04-2024 , 10:46:21",
+  "lastUpdate": "16-04-2024 , 10:55:35",
   "data": [
-    [
-      {
-        "title": "Lorenzo Sonego",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Sonego",
-        "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Intelligence italiana cerca nuovi 007",
@@ -20,6 +13,13 @@
         "title": "Giulia Ottorini Fedez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giulia%20Ottorini%20Fedez",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Copenaghen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Copenaghen",
+        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Ilenia Pastorelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ilenia%20Pastorelli",
+        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barcelona open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcelona%20open",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0200"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Fiorentina-Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Genoa",
-        "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Amadeus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amadeus",
         "pubdate": "Mon, 15 Apr 2024 12:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Mattia Giani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mattia%20Giani",
-        "pubdate": "Mon, 15 Apr 2024 10:00:00 +0200"
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina",
+        "pubdate": "Mon, 15 Apr 2024 09:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
-        "pubdate": "Mon, 15 Apr 2024 12:00:00 +0200"
+        "title": "Francesco Benigno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Benigno",
+        "pubdate": "Mon, 15 Apr 2024 23:00:00 +0200"
       }
     ]
   ]

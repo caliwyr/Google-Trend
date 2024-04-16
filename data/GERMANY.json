@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 10:46:18",
+  "lastUpdate": "16-04-2024 , 10:55:32",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Notre-Dame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Notre-Dame",
+        "pubdate": "Mon, 15 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schweigegeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweigegeld",
         "pubdate": "Mon, 15 Apr 2024 14:00:00 +0200"
@@ -27,6 +34,13 @@
         "title": "Peter Maffay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Maffay",
         "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Börse Kopenhagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%B6rse%20Kopenhagen",
+        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Blitzermarathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Blitzermarathon",
-        "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sudan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sudan",
         "pubdate": "Mon, 15 Apr 2024 17:00:00 +0200"
@@ -94,8 +101,15 @@
     ],
     [
       {
-        "title": "Solarpaket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solarpaket",
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Henry%20Cavill",
+        "pubdate": "Mon, 15 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hansi Hinterseer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansi%20Hinterseer",
         "pubdate": "Mon, 15 Apr 2024 20:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Israel Iran Angriff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel%20Iran%20Angriff",
         "pubdate": "Sun, 14 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sun, 14 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
-        "pubdate": "Sun, 14 Apr 2024 21:00:00 +0200"
       }
     ]
   ]
