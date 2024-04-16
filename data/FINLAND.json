@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 02:44:51",
+  "lastUpdate": "16-04-2024 , 02:54:00",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "The Mule",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Mule",
         "pubdate": "Mon, 15 Apr 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
+        "pubdate": "Mon, 15 Apr 2024 02:00:00 +0300"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Sun, 14 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC",
         "pubdate": "Sun, 14 Apr 2024 00:00:00 +0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bhutan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bhutan",
-        "pubdate": "Sun, 14 Apr 2024 15:00:00 +0300"
+        "title": "Arsenal – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sun, 14 Apr 2024 20:00:00 +0300"
       }
     ]
   ]
