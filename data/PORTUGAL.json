@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-04-2024 , 01:18:29",
+  "lastUpdate": "16-04-2024 , 01:59:40",
   "data": [
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titanic",
-        "pubdate": "Tue, 16 Apr 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Felipe Anderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Anderson",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titanic",
+        "pubdate": "Tue, 16 Apr 2024 01:00:00 +0100"
       }
     ],
     [
@@ -45,30 +45,23 @@
     ],
     [
       {
+        "title": "Zubizarreta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zubizarreta",
+        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "62",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#62",
+        "pubdate": "Mon, 15 Apr 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Vizela FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vizela%20FC",
         "pubdate": "Mon, 15 Apr 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "António Lobo Xavier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ant%C3%B3nio%20Lobo%20Xavier",
-        "pubdate": "Mon, 15 Apr 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andre Villas-Boas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andre%20Villas-Boas",
-        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
-        "pubdate": "Mon, 15 Apr 2024 09:00:00 +0100"
       }
     ],
     [
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Medialivre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Medialivre",
-        "pubdate": "Mon, 15 Apr 2024 01:00:00 +0100"
+        "title": "WSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
+        "pubdate": "Mon, 15 Apr 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paulo Otero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Otero",
-        "pubdate": "Mon, 15 Apr 2024 22:00:00 +0100"
+        "title": "Medialivre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Medialivre",
+        "pubdate": "Mon, 15 Apr 2024 01:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,16 @@
     ],
     [
       {
-        "title": "Paulo Portas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Portas",
+        "title": "Pedro Passos Coelho Paulo Portas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Passos%20Coelho%20Paulo%20Portas",
         "pubdate": "Mon, 15 Apr 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manuel Alegre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Alegre",
+        "pubdate": "Mon, 15 Apr 2024 20:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Famalicão-Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o-Sporting",
+        "title": "Famalicão Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20Sporting",
         "pubdate": "Mon, 15 Apr 2024 22:00:00 +0100"
       }
     ]
