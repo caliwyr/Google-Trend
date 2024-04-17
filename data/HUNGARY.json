@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 05:45:51",
+  "lastUpdate": "17-04-2024 , 05:55:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Bíró Ada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%ADr%C3%B3%20Ada",
-        "pubdate": "Tue, 16 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vincent Friell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vincent%20Friell",
         "pubdate": "Tue, 16 Apr 2024 20:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Dortmund Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund%20Atletico%20Madrid",
         "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Delta műsorvezető",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Delta%20m%C5%B1sorvezet%C5%91",
+        "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Nyerő Páros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyer%C5%91%20P%C3%A1ros",
-        "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sulyok Tamás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sulyok%20Tam%C3%A1s",
         "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
@@ -101,22 +94,15 @@
     ],
     [
       {
-        "title": "Nyári Dia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ny%C3%A1ri%20Dia",
-        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
+        "title": "Szoboszlai Dominik Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik%20Liverpool",
+        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
       }
     ],
     [
       {
         "title": "Holokauszt-emléknap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Holokauszt-eml%C3%A9knap",
-        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szoboszlai Dominik Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szoboszlai%20Dominik%20Liverpool",
         "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Szabó Zsófi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20Zs%C3%B3fi",
         "pubdate": "Tue, 16 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nyerő Páros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyer%C5%91%20P%C3%A1ros",
+        "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Caramel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Caramel",
+        "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
       }
     ]
   ]
