@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-04-2024 , 19:46:55",
+  "lastUpdate": "17-04-2024 , 19:56:51",
   "data": [
+    [
+      {
+        "title": "Kommunal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal",
+        "pubdate": "Wed, 17 Apr 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Frölunda Skellefteå",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Kommunal strejk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal%20strejk",
-        "pubdate": "Wed, 17 Apr 2024 11:00:00 +0200"
+        "title": "Brynäs Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20Djurg%C3%A5rden",
+        "pubdate": "Wed, 17 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dubai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dubai",
+        "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -24,13 +38,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mbappe",
-        "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Johan Floderus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
         "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Alexander Stubb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Stubb",
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mbappe",
         "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Caitlin Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caitlin%20Clark",
-        "pubdate": "Wed, 17 Apr 2024 06:00:00 +0200"
+        "title": "Alexander Stubb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Stubb",
+        "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andreas Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Johnson",
-        "pubdate": "Wed, 17 Apr 2024 16:00:00 +0200"
+        "title": "Caitlin Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caitlin%20Clark",
+        "pubdate": "Wed, 17 Apr 2024 06:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ALS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ALS",
         "pubdate": "Tue, 16 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Autism",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Autism",
-        "pubdate": "Tue, 16 Apr 2024 07:00:00 +0200"
       }
     ]
   ]
