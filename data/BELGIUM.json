@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 03:44:38",
+  "lastUpdate": "17-04-2024 , 03:53:53",
   "data": [
     [
       {
@@ -17,15 +17,22 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "title": "Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yamal",
+        "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barca PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barca%20PSG",
         "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
       }
     ],
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Dortmund – Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bart De Pauw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20De%20Pauw",
-        "pubdate": "Tue, 16 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Beursgebouw Kopenhagen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beursgebouw%20Kopenhagen",
         "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bart De Pauw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20De%20Pauw",
+        "pubdate": "Tue, 16 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "IPTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#IPTV",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stade de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stade%20de%20France",
-        "pubdate": "Tue, 16 Apr 2024 09:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 03:44:47",
+  "lastUpdate": "17-04-2024 , 03:54:00",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "طقس",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B7%D9%82%D8%B3",
+        "pubdate": "Tue, 16 Apr 2024 04:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "دونالد ترامب",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
         "pubdate": "Tue, 16 Apr 2024 00:00:00 +0300"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "طقس",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B7%D9%82%D8%B3",
-        "pubdate": "Tue, 16 Apr 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Zoom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Zoom",
         "pubdate": "Tue, 16 Apr 2024 01:00:00 +0300"
@@ -83,13 +83,6 @@
         "title": "سيول سلطنة عمان",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%B3%D9%8A%D9%88%D9%84%20%D8%B3%D9%84%D8%B7%D9%86%D8%A9%20%D8%B9%D9%85%D8%A7%D9%86",
         "pubdate": "Tue, 16 Apr 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "تعليق الدراسة غدا",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AA%D8%B9%D9%84%D9%8A%D9%82%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9%20%D8%BA%D8%AF%D8%A7",
-        "pubdate": "Tue, 16 Apr 2024 00:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ترامب",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
         "pubdate": "Tue, 16 Apr 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "اخبار الهلال",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
+        "pubdate": "Tue, 16 Apr 2024 21:00:00 +0300"
       }
     ]
   ]
