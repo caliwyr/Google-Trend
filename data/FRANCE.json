@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 08:48:50",
+  "lastUpdate": "17-04-2024 , 08:58:01",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund",
+        "title": "Ousmane Dembélé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ousmane%20Demb%C3%A9l%C3%A9",
+        "pubdate": "Wed, 17 Apr 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund – Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
       }
     ],
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nadal",
-        "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
+        "title": "Dubai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dubai",
+        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dubai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dubai",
-        "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
+        "title": "Cyclades",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyclades",
+        "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Georgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georgie",
+        "pubdate": "Tue, 16 Apr 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Laurent Gerra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Gerra",
         "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "La fievre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20fievre",
-        "pubdate": "Tue, 16 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSG barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20barca",
         "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Stade de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20de%20France",
         "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Flamme olympique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Flamme%20olympique",
-        "pubdate": "Mon, 15 Apr 2024 20:00:00 +0200"
       }
     ]
   ]
