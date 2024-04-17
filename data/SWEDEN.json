@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 21:40:56",
+  "lastUpdate": "17-04-2024 , 21:50:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Brynäs Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20Djurg%C3%A5rden",
         "pubdate": "Wed, 17 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Domanski Lyfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Domanski%20Lyfors",
+        "pubdate": "Wed, 17 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
+        "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sveriges mästerkock 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20m%C3%A4sterkock%202024",
         "pubdate": "Wed, 17 Apr 2024 22:00:00 +0200"
@@ -38,15 +52,22 @@
     ],
     [
       {
-        "title": "Johan Floderus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
-        "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
+        "title": "Könstillhörighetslagen Riksdagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#K%C3%B6nstillh%C3%B6righetslagen%20Riksdagen",
+        "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
       }
     ],
     [
       {
         "title": "Emma Berglund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Berglund",
+        "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Johan Floderus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
         "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
       }
     ],
@@ -80,23 +101,9 @@
     ],
     [
       {
-        "title": "Könstillhörighetslagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#K%C3%B6nstillh%C3%B6righetslagen",
-        "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Luis Enrique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luis%20Enrique",
         "pubdate": "Wed, 17 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Domanski Lyfors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Domanski%20Lyfors",
-        "pubdate": "Wed, 17 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Kommunal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal",
+        "title": "Kommunal strejk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kommunal%20strejk",
         "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dortmund",
         "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakob Silfverberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20Silfverberg",
-        "pubdate": "Tue, 16 Apr 2024 06:00:00 +0200"
       }
     ]
   ]
