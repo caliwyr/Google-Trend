@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2024 , 12:42:26",
+  "lastUpdate": "18-04-2024 , 12:56:37",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20FC",
-        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
         "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
@@ -111,6 +104,13 @@
         "title": "Braunschweig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Braunschweig",
         "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20FC",
+        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
       }
     ],
     [
