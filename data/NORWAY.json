@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-04-2024 , 09:47:11",
+  "lastUpdate": "18-04-2024 , 09:56:32",
   "data": [
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-        "pubdate": "Thu, 18 Apr 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Haaland",
@@ -38,8 +31,15 @@
     ],
     [
       {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brann mot hamarkameratene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20mot%20hamarkameratene",
         "pubdate": "Wed, 17 Apr 2024 18:00:00 +0200"
       }
     ],
@@ -117,7 +117,7 @@
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-        "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
+        "pubdate": "Tue, 16 Apr 2024 20:00:00 +0200"
       }
     ],
     [
