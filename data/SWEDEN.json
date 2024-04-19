@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2024 , 02:43:01",
+  "lastUpdate": "19-04-2024 , 02:52:29",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Domanski Lyfors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Domanski%20Lyfors",
+        "pubdate": "Wed, 17 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Skellefteå AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
         "pubdate": "Wed, 17 Apr 2024 02:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
         "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sveriges mästerkock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20m%C3%A4sterkock",
-        "pubdate": "Wed, 17 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
