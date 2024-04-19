@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "19-04-2024 , 18:45:33",
+  "lastUpdate": "19-04-2024 , 18:54:53",
   "data": [
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1",
-        "pubdate": "Fri, 19 Apr 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Iran",
         "pubdate": "Fri, 19 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1",
+        "pubdate": "Fri, 19 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Meta AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Meta%20AI",
         "pubdate": "Fri, 19 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rebel Moon Part 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rebel%20Moon%20Part%202",
+        "pubdate": "Fri, 19 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Rebel Moon Part 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rebel%20Moon%20Part%202",
-        "pubdate": "Fri, 19 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jennifer Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jennifer%20Lopez",
         "pubdate": "Fri, 19 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trap movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Trap%20movie",
-        "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sophie Kinsella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sophie%20Kinsella",
         "pubdate": "Thu, 18 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dubai floods 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dubai%20floods%202024",
+        "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
