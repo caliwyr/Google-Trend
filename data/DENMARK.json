@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2024 , 05:44:56",
+  "lastUpdate": "19-04-2024 , 05:54:21",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Palads",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Palads",
+        "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Kari Lake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kari%20Lake",
         "pubdate": "Wed, 17 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sophie Kinsella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sophie%20Kinsella",
-        "pubdate": "Wed, 17 Apr 2024 20:00:00 +0200"
       }
     ]
   ]
