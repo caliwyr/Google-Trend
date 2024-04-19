@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-04-2024 , 12:34:06",
+  "lastUpdate": "19-04-2024 , 12:51:42",
   "data": [
     [
       {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taylor%20Swift",
         "pubdate": "Fri, 19 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
+        "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
+        "title": "Europa-Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa-Conference%20League",
         "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Éruption volcanique Indonésie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89ruption%20volcanique%20Indon%C3%A9sie",
+        "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gabriel Attal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gabriel%20Attal",
         "pubdate": "Fri, 19 Apr 2024 01:00:00 +0200"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Éruption volcanique Indonésie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89ruption%20volcanique%20Indon%C3%A9sie",
-        "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
+        "title": "Meryame Kitir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meryame%20Kitir",
+        "pubdate": "Fri, 19 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Nonkels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nonkels",
-        "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Serena Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serena%20Williams",
         "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Snus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Snus",
         "pubdate": "Thu, 18 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jeremy Doku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeremy%20Doku",
-        "pubdate": "Thu, 18 Apr 2024 00:00:00 +0200"
       }
     ]
   ]
