@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-04-2024 , 21:44:05",
+  "lastUpdate": "20-04-2024 , 21:53:45",
   "data": [
+    [
+      {
+        "title": "Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Leicester%20City",
+        "pubdate": "Sun, 21 Apr 2024 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Trabzonspor",
@@ -10,15 +17,8 @@
     ],
     [
       {
-        "title": "Kızılcık Şerbeti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C4%B1z%C4%B1lc%C4%B1k%20%C5%9Eerbeti",
-        "pubdate": "Sat, 20 Apr 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City%20-%20Chelsea",
+        "title": "Manchester City,  Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City,%20%20Chelsea",
         "pubdate": "Sat, 20 Apr 2024 19:00:00 +0300"
       }
     ],
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Samsunspor  Adana Demirspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor%20%20Adana%20Demirspor",
-        "pubdate": "Sat, 20 Apr 2024 19:00:00 +0300"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
+        "pubdate": "Sat, 20 Apr 2024 21:00:00 +0300"
       }
     ],
     [
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Samsunspor  Adana Demirspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor%20%20Adana%20Demirspor",
+        "pubdate": "Sat, 20 Apr 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Union Berlin . Bayern Münih",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Union%20Berlin%20.%20Bayern%20M%C3%BCnih",
         "pubdate": "Sat, 20 Apr 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Göztepe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%B6ztepe",
+        "pubdate": "Sat, 20 Apr 2024 17:00:00 +0300"
       }
     ],
     [
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Giresunspor - Göztepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Giresunspor%20-%20G%C3%B6ztepe",
-        "pubdate": "Sat, 20 Apr 2024 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WOLVERHAMPTON - ARSENAL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#WOLVERHAMPTON%20-%20ARSENAL",
-        "pubdate": "Sat, 20 Apr 2024 21:00:00 +0300"
+        "title": "Baby Reindeer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Baby%20Reindeer",
+        "pubdate": "Sat, 20 Apr 2024 22:00:00 +0300"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
+        "title": "Nihat Zeybekçi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nihat%20Zeybek%C3%A7i",
+        "pubdate": "Sat, 20 Apr 2024 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Eyüpspor  Boluspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor%20%20Boluspor",
-        "pubdate": "Sat, 20 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Cevdet Yılmaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cevdet%20Y%C4%B1lmaz",
-        "pubdate": "Sat, 20 Apr 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Napoli",
         "pubdate": "Sat, 20 Apr 2024 20:00:00 +0300"
       }
     ]
