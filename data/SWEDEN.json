@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-04-2024 , 17:40:28",
+  "lastUpdate": "20-04-2024 , 17:49:55",
   "data": [
+    [
+      {
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Sat, 20 Apr 2024 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "IFK Göteborg mot Norrköping",
@@ -34,6 +41,13 @@
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA%20Cup",
         "pubdate": "Sat, 20 Apr 2024 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vimmerby Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vimmerby%20Hockey",
+        "pubdate": "Sat, 20 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Frölunda Skellefteå",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
-        "pubdate": "Fri, 19 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brynäs - Djurgården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20-%20Djurg%C3%A5rden",
         "pubdate": "Fri, 19 Apr 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "VLT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VLT",
         "pubdate": "Fri, 19 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Västerås",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4ster%C3%A5s",
-        "pubdate": "Fri, 19 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
