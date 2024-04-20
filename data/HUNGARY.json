@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2024 , 04:49:09",
+  "lastUpdate": "20-04-2024 , 04:58:29",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Slash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Slash",
+        "pubdate": "Fri, 19 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cagliari–juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cagliari%E2%80%93juventus",
         "pubdate": "Fri, 19 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kocsis Máté",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20M%C3%A1t%C3%A9",
+        "pubdate": "Fri, 19 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#James%20Bond",
-        "pubdate": "Fri, 19 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina",
-        "pubdate": "Fri, 19 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula%201",
-        "pubdate": "Fri, 19 Apr 2024 19:00:00 +0200"
+        "title": "Brenner Koloman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brenner%20Koloman",
+        "pubdate": "Fri, 19 Apr 2024 18:00:00 +0200"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-04-2024 , 04:49:07",
+  "lastUpdate": "20-04-2024 , 04:58:27",
   "data": [
     [
       {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Israel",
         "pubdate": "Fri, 19 Apr 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "U. La Calera  Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20La%20Calera%20%20Everton",
+        "pubdate": "Fri, 19 Apr 2024 21:00:00 -0400"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Cagliari - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cagliari%20-%20Juventus",
+        "title": "Cagliari  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cagliari%20%20Juventus",
         "pubdate": "Fri, 19 Apr 2024 16:00:00 -0400"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
         "pubdate": "Fri, 19 Apr 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
-        "pubdate": "Fri, 19 Apr 2024 21:00:00 -0400"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Miguelito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miguelito",
+        "pubdate": "Fri, 19 Apr 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Aniversario Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aniversario%20Colo%20Colo",
         "pubdate": "Fri, 19 Apr 2024 10:00:00 -0400"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Miguelito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miguelito",
-        "pubdate": "Fri, 19 Apr 2024 21:00:00 -0400"
+        "title": "Podemos Hablar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Podemos%20Hablar",
+        "pubdate": "Fri, 19 Apr 2024 23:00:00 -0400"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Daniel Jadue alcalde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniel%20Jadue%20alcalde",
         "pubdate": "Fri, 19 Apr 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CNN",
+        "pubdate": "Fri, 19 Apr 2024 00:00:00 -0400"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "William Levy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#William%20Levy",
-        "pubdate": "Fri, 19 Apr 2024 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Podemos Hablar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Podemos%20Hablar",
-        "pubdate": "Fri, 19 Apr 2024 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Unión Comercio  Universitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Uni%C3%B3n%20Comercio%20%20Universitario",
+        "title": "Halving Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halving%20Bitcoin",
         "pubdate": "Fri, 19 Apr 2024 18:00:00 -0400"
       }
     ]
