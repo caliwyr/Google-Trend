@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2024 , 09:38:57",
+  "lastUpdate": "20-04-2024 , 09:48:19",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Koningsspelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsspelen",
-        "pubdate": "Fri, 19 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Viaplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
         "pubdate": "Thu, 18 Apr 2024 16:00:00 +0200"
@@ -69,6 +62,13 @@
         "title": "Inez Weski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Inez%20Weski",
         "pubdate": "Thu, 18 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
+        "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Sun, 14 Apr 2024 19:00:00 +0200"
+        "title": "Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon",
+        "pubdate": "Sun, 14 Apr 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "VVV-Venlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVV-Venlo",
-        "pubdate": "Sun, 14 Apr 2024 18:00:00 +0200"
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sun, 14 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
