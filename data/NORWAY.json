@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-04-2024 , 13:42:24",
+  "lastUpdate": "20-04-2024 , 13:51:49",
   "data": [
-    [
-      {
-        "title": "Thale Myhre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thale%20Myhre",
-        "pubdate": "Sat, 20 Apr 2024 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Obos-ligaen",
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Toppserien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toppserien",
+        "pubdate": "Sat, 20 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Trond Fausa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trond%20Fausa",
         "pubdate": "Sat, 20 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simen Velle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Simen%20Velle",
+        "pubdate": "Sat, 20 Apr 2024 02:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Lyn Vålerenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn%20V%C3%A5lerenga",
-        "pubdate": "Fri, 19 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#F1",
         "pubdate": "Fri, 19 Apr 2024 11:00:00 +0200"
@@ -97,6 +97,13 @@
         "title": "HBO Max",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HBO%20Max",
         "pubdate": "Fri, 19 Apr 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
+        "pubdate": "Fri, 19 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Skaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skaar",
         "pubdate": "Fri, 19 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Storhamar hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Storhamar%20hockey",
-        "pubdate": "Fri, 19 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
