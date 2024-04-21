@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-04-2024 , 22:47:40",
+  "lastUpdate": "21-04-2024 , 22:57:06",
   "data": [
     [
       {
         "title": "Dortmund gegen Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20gegen%20Leverkusen",
         "pubdate": "Sun, 21 Apr 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Werder Bremen gegen VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen%20gegen%20VfB%20Stuttgart",
+        "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sun, 21 Apr 2024 18:00:00 +0200"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LaLiga",
+        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
       }
     ],
     [
@@ -33,7 +40,7 @@
       {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
+        "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#LaLiga",
-        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Xavier Naidoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xavier%20Naidoo",
         "pubdate": "Sun, 21 Apr 2024 04:00:00 +0200"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
-        "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barca",
+        "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barca",
-        "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
+        "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Lüttich-Bastogne-Lüttich 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#L%C3%BCttich-Bastogne-L%C3%BCttich%202024",
+        "title": "Hertha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
         "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
       }
     ],
@@ -103,13 +103,6 @@
       {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
-        "pubdate": "Sat, 20 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
         "pubdate": "Sat, 20 Apr 2024 21:00:00 +0200"
       }
     ],
@@ -132,6 +125,13 @@
         "title": "Struff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
         "pubdate": "Sat, 20 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
+        "pubdate": "Sat, 20 Apr 2024 22:00:00 +0200"
       }
     ],
     [

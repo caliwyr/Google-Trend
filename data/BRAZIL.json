@@ -1,60 +1,11 @@
 {
-  "lastUpdate": "21-04-2024 , 22:47:37",
+  "lastUpdate": "21-04-2024 , 22:57:05",
   "data": [
     [
       {
         "title": "EC Vitória x Bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#EC%20Vit%C3%B3ria%20x%20Bahia",
         "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Borussia x Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia%20x%20Leverkusen",
-        "pubdate": "Sun, 21 Apr 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Athletico-PR x Internacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Internacional",
-        "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atletico de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fulham x Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham%20x%20Liverpool",
-        "pubdate": "Sun, 21 Apr 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tiradentes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tiradentes",
-        "pubdate": "Sun, 21 Apr 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
-        "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Superliga feminina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20feminina",
-        "pubdate": "Sun, 21 Apr 2024 09:00:00 -0500"
       }
     ],
     [
@@ -66,16 +17,23 @@
     ],
     [
       {
-        "title": "Van Gogh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Van%20Gogh",
+        "title": "Athletico-PR x Internacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Internacional",
         "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0500"
+        "title": "Tiradentes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tiradentes",
+        "pubdate": "Sun, 21 Apr 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fulham x Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham%20x%20Liverpool",
+        "pubdate": "Sun, 21 Apr 2024 10:00:00 -0500"
       }
     ],
     [
@@ -87,9 +45,72 @@
     ],
     [
       {
+        "title": "Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "pubdate": "Sun, 21 Apr 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
+        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+        "pubdate": "Sun, 21 Apr 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
+        "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
-        "pubdate": "Sun, 21 Apr 2024 16:00:00 -0500"
+        "pubdate": "Sun, 21 Apr 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bruna Lombardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruna%20Lombardi",
+        "pubdate": "Sun, 21 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Superliga feminina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Superliga%20feminina",
+        "pubdate": "Sun, 21 Apr 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bolsonaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsonaro",
+        "pubdate": "Sun, 21 Apr 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
+        "pubdate": "Sun, 21 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Van Gogh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Van%20Gogh",
+        "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
-        "pubdate": "Sun, 21 Apr 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
         "pubdate": "Sun, 21 Apr 2024 12:00:00 -0500"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Silas Malafaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silas%20Malafaia",
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
         "pubdate": "Sun, 21 Apr 2024 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Figueirense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Figueirense",
-        "pubdate": "Sun, 21 Apr 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Recife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Recife",
-        "pubdate": "Sun, 21 Apr 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0500"
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+        "pubdate": "Sun, 21 Apr 2024 11:00:00 -0500"
       }
     ]
   ]

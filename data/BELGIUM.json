@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-04-2024 , 22:47:36",
+  "lastUpdate": "21-04-2024 , 22:57:04",
   "data": [
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LaLiga",
+        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
         "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union  Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Club%20Brugge",
-        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Union Saint-Gilloise – Club brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise%20%E2%80%93%20Club%20brugge",
-        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jean-Marie Aerts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Marie%20Aerts",
         "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
@@ -66,23 +59,16 @@
     ],
     [
       {
-        "title": "Anne Parillaud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anne%20Parillaud",
-        "pubdate": "Sun, 21 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RWDM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
-        "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anne Parillaud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anne%20Parillaud",
+        "pubdate": "Sun, 21 Apr 2024 01:00:00 +0200"
       }
     ],
     [
@@ -108,6 +94,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
         "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "GP F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#GP%20F1",
-        "pubdate": "Sun, 21 Apr 2024 11:00:00 +0200"
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Incaprettamento",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Incaprettamento",
         "pubdate": "Sun, 21 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#City",
+        "pubdate": "Sun, 21 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
