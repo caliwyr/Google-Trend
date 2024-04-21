@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2024 , 17:41:11",
+  "lastUpdate": "21-04-2024 , 17:50:39",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Christchurch Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christchurch%20Marathon",
+        "pubdate": "Sat, 20 Apr 2024 13:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Midway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Midway",
         "pubdate": "Sat, 20 Apr 2024 21:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Mandisa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mandisa",
         "pubdate": "Sat, 20 Apr 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "thanK you aIMee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#thanK%20you%20aIMee",
-        "pubdate": "Sat, 20 Apr 2024 01:00:00 +1200"
       }
     ]
   ]
