@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "22-04-2024 , 08:50:05",
+  "lastUpdate": "22-04-2024 , 08:59:17",
   "data": [
-    [
-      {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Mon, 22 Apr 2024 03:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Valborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Valborg",
+        "pubdate": "Mon, 22 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jon Henrik Fjällgren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jon%20Henrik%20Fj%C3%A4llgren",
         "pubdate": "Mon, 22 Apr 2024 08:00:00 +0200"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Djurgården Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Bryn%C3%A4s",
+        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "Coventry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Coventry",
         "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Bryn%C3%A4s",
-        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Rednex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rednex",
-        "pubdate": "Sun, 21 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gais Mjällby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais%20Mj%C3%A4llby",
         "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Roberts Zelmanis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Roberts%20Zelmanis",
+        "title": "Rednex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rednex",
         "pubdate": "Sun, 21 Apr 2024 21:00:00 +0200"
       }
     ],
@@ -117,6 +110,13 @@
       {
         "title": "BK Häcken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BK%20H%C3%A4cken",
+        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Max%20Verstappen",
         "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
       }
     ],
