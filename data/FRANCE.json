@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-04-2024 , 04:47:07",
+  "lastUpdate": "22-04-2024 , 04:56:19",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taylor%20Swift",
+        "pubdate": "Mon, 22 Apr 2024 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -27,13 +34,6 @@
         "title": "Anne Parillaud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Parillaud",
         "pubdate": "Sun, 21 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nicoletta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nicoletta",
-        "pubdate": "Sun, 21 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lens",
+        "pubdate": "Sun, 21 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fulham – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fulham%20%E2%80%93%20Liverpool",
         "pubdate": "Sun, 21 Apr 2024 18:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Harry%20Potter",
-        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marquinhos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marquinhos",
         "pubdate": "Sun, 21 Apr 2024 21:00:00 +0200"
@@ -97,13 +97,6 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund",
         "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Vérité si je mens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20V%C3%A9rit%C3%A9%20si%20je%20mens",
-        "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "UBB-Clermont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB-Clermont",
         "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Villeneuve-Saint-Georges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Villeneuve-Saint-Georges",
+        "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
       }
     ]
   ]
