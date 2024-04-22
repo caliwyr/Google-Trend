@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2024 , 17:46:13",
+  "lastUpdate": "22-04-2024 , 17:55:22",
   "data": [
     [
       {
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Pitbull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pitbull",
+        "pubdate": "Mon, 22 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stanley Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stanley%20Cup",
+        "pubdate": "Mon, 22 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Baerbock",
         "pubdate": "Mon, 22 Apr 2024 13:00:00 +0200"
@@ -52,16 +66,9 @@
     ],
     [
       {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Ricciardo",
-        "pubdate": "Mon, 22 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UKH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UKH",
-        "pubdate": "Mon, 22 Apr 2024 09:00:00 +0200"
+        "title": "Lars Ricken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lars%20Ricken",
+        "pubdate": "Mon, 22 Apr 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "GAK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
         "pubdate": "Sun, 21 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
-        "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
