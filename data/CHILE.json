@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2024 , 14:47:15",
+  "lastUpdate": "22-04-2024 , 14:56:30",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Canal 13",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%2013",
-        "pubdate": "Sun, 21 Apr 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
         "pubdate": "Sun, 21 Apr 2024 11:00:00 -0400"
@@ -80,16 +73,23 @@
     ],
     [
       {
-        "title": "Deportes Limache  Santiago Wanderers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Limache%20%20Santiago%20Wanderers",
-        "pubdate": "Sun, 21 Apr 2024 18:00:00 -0400"
+        "title": "Canal 13",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%2013",
+        "pubdate": "Sun, 21 Apr 2024 22:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Dortmund  Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20%20Leverkusen",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
+        "title": "Ganar o Servir participantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ganar%20o%20Servir%20participantes",
+        "pubdate": "Sun, 21 Apr 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Deportes Limache  Santiago Wanderers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Limache%20%20Santiago%20Wanderers",
+        "pubdate": "Sun, 21 Apr 2024 18:00:00 -0400"
       }
     ],
     [
@@ -103,6 +103,13 @@
       {
         "title": "Fulham - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Liverpool",
+        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund  Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20%20Leverkusen",
         "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Luis Mateucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luis%20Mateucci",
         "pubdate": "Sun, 21 Apr 2024 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa  Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20Bournemouth",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2024 , 14:47:16",
+  "lastUpdate": "22-04-2024 , 14:56:30",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Milan Antoš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20Anto%C5%A1",
+        "pubdate": "Mon, 22 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carodejnice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Carodejnice",
         "pubdate": "Mon, 22 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petr Hradil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Hradil",
+        "pubdate": "Mon, 22 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Jiří svátek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20sv%C3%A1tek",
         "pubdate": "Mon, 22 Apr 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Země",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zem%C4%9B",
+        "pubdate": "Mon, 22 Apr 2024 16:00:00 +0200"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Crystal Palace – West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Crystal%20Palace%20%E2%80%93%20West%20Ham",
-        "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vsetin Kladno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vsetin%20Kladno",
         "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Dušan Grúň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Du%C5%A1an%20Gr%C3%BA%C5%88",
         "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nehoda Rallye Šumava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20Rallye%20%C5%A0umava",
-        "pubdate": "Sun, 21 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fulham – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fulham%20%E2%80%93%20Liverpool",
-        "pubdate": "Sun, 21 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
