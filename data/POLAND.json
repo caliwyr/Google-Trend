@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-04-2024 , 16:50:07",
+  "lastUpdate": "22-04-2024 , 16:59:28",
   "data": [
+    [
+      {
+        "title": "Gliwice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gliwice",
+        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Donald Tusk",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Gliwice Wybory",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gliwice%20Wybory",
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#LaLiga",
         "pubdate": "Mon, 22 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Mariusz Kamiński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mariusz%20Kami%C5%84ski",
+        "pubdate": "Mon, 22 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zakopane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakopane",
         "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jastrzębie-Zdrój",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jastrz%C4%99bie-Zdr%C3%B3j",
+        "pubdate": "Mon, 22 Apr 2024 07:00:00 +0200"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Izabela trojanowska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabela%20trojanowska",
+        "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Radio5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radio5",
         "pubdate": "Mon, 22 Apr 2024 09:00:00 +0200"
@@ -111,34 +139,6 @@
         "title": "Pełnia Księżyca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pe%C5%82nia%20Ksi%C4%99%C5%BCyca",
         "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Izabela trojanowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izabela%20trojanowska",
-        "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Monza – Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monza%20%E2%80%93%20Atalanta",
-        "pubdate": "Mon, 22 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mariusz Kamiński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mariusz%20Kami%C5%84ski",
-        "pubdate": "Mon, 22 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jacek Majchrowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20Majchrowski",
-        "pubdate": "Mon, 22 Apr 2024 11:00:00 +0200"
       }
     ]
   ]
