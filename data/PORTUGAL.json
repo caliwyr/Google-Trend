@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-04-2024 , 11:45:12",
+  "lastUpdate": "22-04-2024 , 11:54:28",
   "data": [
     [
       {
         "title": "Sao Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
         "pubdate": "Mon, 22 Apr 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dia da Terra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Terra",
+        "pubdate": "Mon, 22 Apr 2024 10:00:00 +0100"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Porto Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20Sporting",
         "pubdate": "Mon, 22 Apr 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dia da Terra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Terra",
-        "pubdate": "Mon, 22 Apr 2024 10:00:00 +0100"
       }
     ],
     [
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Viktor gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Viktor%20gy%C3%B6keres",
+        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Eleições Europeias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elei%C3%A7%C3%B5es%20Europeias",
         "pubdate": "Mon, 22 Apr 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dia da Terra 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Terra%202024",
+        "pubdate": "Mon, 22 Apr 2024 12:00:00 +0100"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Real Madrid  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Barcelona",
-        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0100"
+        "title": "Pedro Cruz, jornalista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Cruz,%20jornalista",
+        "pubdate": "Sun, 21 Apr 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pedro Cruz, jornalista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Cruz,%20jornalista",
-        "pubdate": "Sun, 21 Apr 2024 12:00:00 +0100"
+        "title": "Real Madrid  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Barcelona",
+        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Caixa Geral depositos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20depositos",
+        "title": "Caixa Geral Depósitos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20Dep%C3%B3sitos",
         "pubdate": "Sun, 21 Apr 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Lyon",
-        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Famalicão-Portimonense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o-Portimonense",
-        "pubdate": "Sun, 21 Apr 2024 16:00:00 +0100"
       }
     ]
   ]
