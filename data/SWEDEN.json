@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-04-2024 , 01:42:24",
+  "lastUpdate": "22-04-2024 , 02:16:33",
   "data": [
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bellingham",
-        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "AIK Djurgården",
@@ -41,6 +34,20 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La%20Liga",
         "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djurgården Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Bryn%C3%A4s",
+        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RBC Heritage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#RBC%20Heritage",
+        "pubdate": "Sun, 21 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Golf PGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Golf%20PGA",
-        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Max%20Verstappen",
-        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Per Gessle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Gessle",
         "pubdate": "Sat, 20 Apr 2024 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Sat, 20 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA%20Cup",
+        "pubdate": "Sat, 20 Apr 2024 05:00:00 +0200"
       }
     ]
   ]
