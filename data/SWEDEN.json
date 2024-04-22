@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-04-2024 , 02:53:12",
+  "lastUpdate": "22-04-2024 , 03:09:48",
   "data": [
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bellingham",
+        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "AIK Djurgården",
@@ -132,13 +139,6 @@
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Sat, 20 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA%20Cup",
-        "pubdate": "Sat, 20 Apr 2024 05:00:00 +0200"
       }
     ]
   ]

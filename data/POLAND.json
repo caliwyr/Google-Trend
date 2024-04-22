@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2024 , 02:53:10",
+  "lastUpdate": "22-04-2024 , 03:09:46",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Wybory samorządowe 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%20samorz%C4%85dowe%202024",
+        "title": "PKW wyniki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKW%20wyniki",
         "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Wybory samorządowe 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%20samorz%C4%85dowe%202024",
+        "pubdate": "Sun, 21 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maciej Musiał",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Musia%C5%82",
         "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Filip Łobodziński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Filip%20%C5%81obodzi%C5%84ski",
-        "pubdate": "Sun, 21 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Konrad Fijołek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konrad%20Fijo%C5%82ek",
         "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Filip Łobodziński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Filip%20%C5%81obodzi%C5%84ski",
+        "pubdate": "Sun, 21 Apr 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arka Gdynia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
         "pubdate": "Sun, 21 Apr 2024 13:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Poznań wybory",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pozna%C5%84%20wybory",
         "pubdate": "Sun, 21 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rybakina",
-        "pubdate": "Sun, 21 Apr 2024 15:00:00 +0200"
       }
     ]
   ]
