@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-04-2024 , 12:45:35",
+  "lastUpdate": "22-04-2024 , 12:58:45",
   "data": [
     [
       {
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
         "pubdate": "Mon, 22 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamine%20Yamal",
+        "pubdate": "Mon, 22 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Union Berlin  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Union%20Berlin%20%20Bayern",
         "pubdate": "Sat, 20 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mandisa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mandisa",
-        "pubdate": "Sat, 20 Apr 2024 00:00:00 +0200"
       }
     ]
   ]

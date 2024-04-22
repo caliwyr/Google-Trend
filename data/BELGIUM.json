@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-04-2024 , 12:45:31",
+  "lastUpdate": "22-04-2024 , 12:58:43",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Fort Boyard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fort%20Boyard",
+        "pubdate": "Mon, 22 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Goffin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
         "pubdate": "Mon, 22 Apr 2024 12:00:00 +0200"
@@ -24,9 +31,23 @@
     ],
     [
       {
+        "title": "Joseph Kamel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joseph%20Kamel",
+        "pubdate": "Mon, 22 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Barcelone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone",
         "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Victoria Beckham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Victoria%20Beckham",
+        "pubdate": "Mon, 22 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -48,13 +69,6 @@
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pogacar",
         "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union  Club Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Club%20Brugge",
-        "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,20 @@
     ],
     [
       {
+        "title": "Erfgoeddag 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Erfgoeddag%202024",
+        "pubdate": "Sun, 21 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cercle Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
         "pubdate": "Sun, 21 Apr 2024 17:00:00 +0200"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Grand Prix F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20F1",
         "pubdate": "Sun, 21 Apr 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eendracht Aalst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eendracht%20Aalst",
-        "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fulham  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fulham%20%20Liverpool",
-        "pubdate": "Sun, 21 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nicoletta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicoletta",
-        "pubdate": "Sun, 21 Apr 2024 01:00:00 +0200"
       }
     ]
   ]
