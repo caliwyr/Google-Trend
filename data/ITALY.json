@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-04-2024 , 09:49:04",
+  "lastUpdate": "23-04-2024 , 09:58:24",
   "data": [
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma",
+        "pubdate": "Tue, 23 Apr 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Pioli",
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Alvina Isola dei Famosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alvina%20Isola%20dei%20Famosi",
-        "pubdate": "Tue, 23 Apr 2024 00:00:00 +0200"
+        "title": "Calhanoglu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calhanoglu",
+        "pubdate": "Tue, 23 Apr 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Calhanoglu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calhanoglu",
-        "pubdate": "Tue, 23 Apr 2024 01:00:00 +0200"
+        "title": "Alvina Isola dei Famosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alvina%20Isola%20dei%20Famosi",
+        "pubdate": "Tue, 23 Apr 2024 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Progressi contro il cambiamento climatico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Progressi%20contro%20il%20cambiamento%20climatico",
         "pubdate": "Mon, 22 Apr 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madrid Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Madrid%20Open",
-        "pubdate": "Mon, 22 Apr 2024 11:00:00 +0200"
       }
     ]
   ]
