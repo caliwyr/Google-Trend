@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "24-04-2024 , 19:47:59",
+  "lastUpdate": "24-04-2024 , 19:57:14",
   "data": [
     [
       {
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
         "pubdate": "Wed, 24 Apr 2024 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
-        "pubdate": "Wed, 24 Apr 2024 10:00:00 +0300"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Flow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flow",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0300"
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "Arsenal – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Chelsea",
+        "title": "Everton – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Liverpool",
+        "pubdate": "Wed, 24 Apr 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
         "pubdate": "Tue, 23 Apr 2024 22:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Earth Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Earth%20Day",
         "pubdate": "Mon, 22 Apr 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Colorado Avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Colorado%20Avalanche",
-        "pubdate": "Mon, 22 Apr 2024 17:00:00 +0300"
       }
     ]
   ]
