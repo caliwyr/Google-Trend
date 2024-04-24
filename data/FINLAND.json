@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 23:43:11",
+  "lastUpdate": "24-04-2024 , 23:52:37",
   "data": [
     [
       {
@@ -38,23 +38,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
-        "pubdate": "Wed, 24 Apr 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Him",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Him",
         "pubdate": "Wed, 24 Apr 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Larry Nassar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Larry%20Nassar",
-        "pubdate": "Wed, 24 Apr 2024 21:00:00 +0300"
       }
     ],
     [
@@ -87,8 +73,8 @@
     ],
     [
       {
-        "title": "Shogun Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shogun%20Season%202",
+        "title": "Shogun season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shogun%20season%202",
         "pubdate": "Tue, 23 Apr 2024 23:00:00 +0300"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla",
         "pubdate": "Mon, 22 Apr 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eva Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Evans",
+        "pubdate": "Mon, 22 Apr 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
+        "pubdate": "Mon, 22 Apr 2024 00:00:00 +0300"
       }
     ]
   ]
