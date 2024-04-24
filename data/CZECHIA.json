@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 10:40:59",
+  "lastUpdate": "24-04-2024 , 10:50:16",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Aiko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aiko",
+        "pubdate": "Tue, 23 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vladimír Kratina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vladim%C3%ADr%20Kratina",
         "pubdate": "Tue, 23 Apr 2024 19:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "AC Milán – Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Mil%C3%A1n%20%E2%80%93%20Inter",
-        "pubdate": "Mon, 22 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macocha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macocha",
         "pubdate": "Mon, 22 Apr 2024 21:00:00 +0200"
       }
     ]
