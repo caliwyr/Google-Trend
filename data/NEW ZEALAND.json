@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 14:41:25",
+  "lastUpdate": "24-04-2024 , 14:50:45",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPL",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
         "pubdate": "Wed, 24 Apr 2024 08:00:00 +1200"
       }
     ],
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-        "pubdate": "Wed, 24 Apr 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Jett Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jett%20Cleary",
         "pubdate": "Wed, 24 Apr 2024 15:00:00 +1200"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Capitol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Capitol",
-        "pubdate": "Wed, 24 Apr 2024 09:00:00 +1200"
+        "title": "Anzac Day trading hours",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anzac%20Day%20trading%20hours",
+        "pubdate": "Wed, 24 Apr 2024 13:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Anzac Day trading hours",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anzac%20Day%20trading%20hours",
-        "pubdate": "Wed, 24 Apr 2024 13:00:00 +1200"
+        "title": "Capitol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Capitol",
+        "pubdate": "Wed, 24 Apr 2024 09:00:00 +1200"
       }
     ],
     [
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "Gallipoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gallipoli",
+        "pubdate": "Wed, 24 Apr 2024 21:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Mole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mole",
         "pubdate": "Wed, 24 Apr 2024 20:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Lest We Forget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lest%20We%20Forget",
+        "pubdate": "Wed, 24 Apr 2024 23:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nathan Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nathan%20Cleary",
         "pubdate": "Wed, 24 Apr 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
-        "pubdate": "Tue, 23 Apr 2024 17:00:00 +1200"
       }
     ]
   ]
