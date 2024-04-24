@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 02:39:11",
+  "lastUpdate": "24-04-2024 , 02:48:31",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "John de Mol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#John%20de%20Mol",
-        "pubdate": "Mon, 22 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Inter",
-        "pubdate": "Mon, 22 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rookworst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rookworst",
         "pubdate": "Mon, 22 Apr 2024 23:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201",
         "pubdate": "Fri, 19 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Den Bosch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
+        "pubdate": "Fri, 19 Apr 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Viaplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
+        "pubdate": "Thu, 18 Apr 2024 16:00:00 +0200"
       }
     ]
   ]
