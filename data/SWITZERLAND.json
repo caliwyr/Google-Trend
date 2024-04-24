@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 15:40:00",
+  "lastUpdate": "24-04-2024 , 15:49:20",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Tour de Romandie: Fribourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie:%20Fribourg",
+        "title": "Tour de Romandie Fribourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie%20Fribourg",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
       }
     ],
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "BCN Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BCN%20Tour",
+        "pubdate": "Wed, 24 Apr 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Flying Tiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flying%20Tiger",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Challengers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challengers",
+        "pubdate": "Wed, 24 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Tesla Model 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla%20Model%203",
+        "pubdate": "Wed, 24 Apr 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ligue 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%202",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
@@ -94,16 +115,9 @@
     ],
     [
       {
-        "title": "Tesla Model 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla%20Model%203",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tour Romandie 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20Romandie%202024",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 +0200"
+        "title": "Halloumi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Halloumi",
+        "pubdate": "Wed, 24 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bremgarten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bremgarten",
         "pubdate": "Tue, 23 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Coppa Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coppa%20Italia",
-        "pubdate": "Tue, 23 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Secret Story 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Secret%20Story%202024",
-        "pubdate": "Tue, 23 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
