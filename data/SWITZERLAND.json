@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 12:23:04",
+  "lastUpdate": "24-04-2024 , 12:53:01",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Lausanne HC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lausanne%20HC",
-        "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla",
+        "pubdate": "Wed, 24 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Brigitte Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Macron",
         "pubdate": "Wed, 24 Apr 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lausanne HC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lausanne%20HC",
+        "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Tesla Model Y",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla%20Model%20Y",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arne Slot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arne%20Slot",
+        "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "FC Baden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Baden",
-        "pubdate": "Tue, 23 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Secret Story 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Secret%20Story%202024",
         "pubdate": "Tue, 23 Apr 2024 22:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "FC Baden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Baden",
+        "pubdate": "Tue, 23 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Tue, 23 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laura Weyel GNTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laura%20Weyel%20GNTM",
-        "pubdate": "Tue, 23 Apr 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Novartis-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novartis-Aktie",
-        "pubdate": "Tue, 23 Apr 2024 12:00:00 +0200"
       }
     ]
   ]
