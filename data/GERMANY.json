@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 04:47:49",
+  "lastUpdate": "24-04-2024 , 04:57:07",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arsenal",
         "pubdate": "Tue, 23 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eigenbrauer-Syndrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eigenbrauer-Syndrom",
-        "pubdate": "Tue, 23 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "KSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
         "pubdate": "Sun, 21 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vollmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vollmond",
+        "pubdate": "Sun, 21 Apr 2024 23:00:00 +0200"
       }
     ]
   ]
