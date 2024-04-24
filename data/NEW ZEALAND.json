@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 20:46:18",
+  "lastUpdate": "24-04-2024 , 20:55:45",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+        "title": "EPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPL",
         "pubdate": "Wed, 24 Apr 2024 08:00:00 +1200"
       }
     ],
@@ -27,6 +27,13 @@
         "title": "Penny Simmonds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Penny%20Simmonds",
         "pubdate": "Wed, 24 Apr 2024 14:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+        "pubdate": "Wed, 24 Apr 2024 16:00:00 +1200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Are shops open on Anzac Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Are%20shops%20open%20on%20Anzac%20Day",
-        "pubdate": "Wed, 24 Apr 2024 18:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Orpheus Pledger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Orpheus%20Pledger",
         "pubdate": "Wed, 24 Apr 2024 13:00:00 +1200"
@@ -87,9 +87,16 @@
     ],
     [
       {
-        "title": "Lest We Forget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lest%20We%20Forget",
-        "pubdate": "Wed, 24 Apr 2024 23:00:00 +1200"
+        "title": "Are shops open on Anzac Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Are%20shops%20open%20on%20Anzac%20Day",
+        "pubdate": "Wed, 24 Apr 2024 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Gallipoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gallipoli",
+        "pubdate": "Wed, 24 Apr 2024 21:00:00 +1200"
       }
     ],
     [
@@ -108,16 +115,9 @@
     ],
     [
       {
-        "title": "Shogun Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shogun%20Season%202",
+        "title": "Shogun season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shogun%20season%202",
         "pubdate": "Wed, 24 Apr 2024 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Brenda Blethyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brenda%20Blethyn",
-        "pubdate": "Wed, 24 Apr 2024 20:00:00 +1200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Baltic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baltic",
-        "pubdate": "Tue, 23 Apr 2024 09:00:00 +1200"
+        "title": "Brenda Blethyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brenda%20Blethyn",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Nuggets vs Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nuggets%20vs%20Lakers",
-        "pubdate": "Tue, 23 Apr 2024 17:00:00 +1200"
+        "title": "Baltic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baltic",
+        "pubdate": "Tue, 23 Apr 2024 09:00:00 +1200"
       }
     ]
   ]
