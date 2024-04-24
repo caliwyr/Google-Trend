@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-04-2024 , 22:42:23",
+  "lastUpdate": "24-04-2024 , 22:51:54",
   "data": [
+    [
+      {
+        "title": "Musical Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Musical%20Awards",
+        "pubdate": "Thu, 25 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Wed, 24 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 +0200"
       }
     ],
     [
@@ -19,7 +33,7 @@
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Wed, 24 Apr 2024 13:00:00 +0200"
+        "pubdate": "Wed, 24 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Batavia Stad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Batavia%20Stad",
-        "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frank Van der Linde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frank%20Van%20der%20Linde",
         "pubdate": "Wed, 24 Apr 2024 22:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Ryan Gosling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryan%20Gosling",
+        "title": "Batavia Stad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Batavia%20Stad",
         "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Marlijn Weerdenburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marlijn%20Weerdenburg",
-        "pubdate": "Wed, 24 Apr 2024 22:00:00 +0200"
+        "title": "Ryan Gosling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryan%20Gosling",
+        "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilders",
         "pubdate": "Sun, 21 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sat, 20 Apr 2024 20:00:00 +0200"
       }
     ]
   ]
