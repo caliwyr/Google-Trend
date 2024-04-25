@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 06:39:56",
+  "lastUpdate": "25-04-2024 , 06:49:20",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Schumacher",
+        "pubdate": "Wed, 24 Apr 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Szent György napja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szent%20Gy%C3%B6rgy%20napja",
         "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Gáspár Evelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1sp%C3%A1r%20Evelin",
-        "pubdate": "Wed, 24 Apr 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pintér Béla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20B%C3%A9la",
         "pubdate": "Wed, 24 Apr 2024 20:00:00 +0200"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Rám-szakadék",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1m-szakad%C3%A9k",
-        "pubdate": "Wed, 24 Apr 2024 18:00:00 +0200"
+        "title": "Gáspár Evelin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1sp%C3%A1r%20Evelin",
+        "pubdate": "Wed, 24 Apr 2024 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PL",
-        "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
+        "title": "Rám-szakadék",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1m-szakad%C3%A9k",
+        "pubdate": "Wed, 24 Apr 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Magyar Kupa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
+        "title": "Nyíregyháza–ftc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ny%C3%ADregyh%C3%A1za%E2%80%93ftc",
         "pubdate": "Tue, 23 Apr 2024 11:00:00 +0200"
       }
     ]
