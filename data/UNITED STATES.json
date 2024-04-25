@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 03:42:45",
+  "lastUpdate": "25-04-2024 , 03:52:01",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Meta stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meta%20stock",
-        "pubdate": "Wed, 24 Apr 2024 14:00:00 -0700"
+        "title": "Pico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pico",
+        "pubdate": "Wed, 24 Apr 2024 02:00:00 -0700"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meta%20stock",
+        "pubdate": "Wed, 24 Apr 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Capitol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Capitol",
         "pubdate": "Wed, 24 Apr 2024 05:00:00 -0700"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
-        "pubdate": "Wed, 24 Apr 2024 13:00:00 -0700"
+        "title": "Mole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mole",
+        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Mole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mole",
-        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0700"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
+        "pubdate": "Wed, 24 Apr 2024 13:00:00 -0700"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "NFL Draft time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Draft%20time",
+        "pubdate": "Wed, 24 Apr 2024 13:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Turks and Caicos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Turks%20and%20Caicos",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 -0700"
@@ -66,9 +80,16 @@
     ],
     [
       {
-        "title": "NFL Draft time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Draft%20time",
-        "pubdate": "Wed, 24 Apr 2024 13:00:00 -0700"
+        "title": "Amanda Seales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amanda%20Seales",
+        "pubdate": "Wed, 24 Apr 2024 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "OKC Thunder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#OKC%20Thunder",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 -0700"
       }
     ],
     [
@@ -94,9 +115,16 @@
     ],
     [
       {
-        "title": "Congressman Donald Payne Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Congressman%20Donald%20Payne%20Jr",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 -0700"
+        "title": "USC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USC",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Columbus vs Monterrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Columbus%20vs%20Monterrey",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 -0700"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Clippers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clippers",
-        "pubdate": "Tue, 23 Apr 2024 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
-        "pubdate": "Tue, 23 Apr 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal%20vs%20Chelsea",
-        "pubdate": "Tue, 23 Apr 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Timberwolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timberwolves",
-        "pubdate": "Tue, 23 Apr 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "TikTok ban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TikTok%20ban",
-        "pubdate": "Tue, 23 Apr 2024 22:00:00 -0700"
+        "title": "Congressman Donald Payne Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Congressman%20Donald%20Payne%20Jr",
+        "pubdate": "Wed, 24 Apr 2024 15:00:00 -0700"
       }
     ]
   ]

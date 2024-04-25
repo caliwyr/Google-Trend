@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "25-04-2024 , 03:42:55",
+  "lastUpdate": "25-04-2024 , 03:52:12",
   "data": [
     [
       {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
+        "pubdate": "Thu, 25 Apr 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Ryser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniel%20Ryser",
         "pubdate": "Thu, 25 Apr 2024 00:00:00 +0200"
       }
     ],
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Tour de Romandie Fribourg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie%20Fribourg",
+        "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BCN Tour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BCN%20Tour",
         "pubdate": "Wed, 24 Apr 2024 17:00:00 +0200"
@@ -110,13 +124,6 @@
       {
         "title": "Flying Tiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flying%20Tiger",
-        "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tour de Romandie Fribourg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Romandie%20Fribourg",
         "pubdate": "Wed, 24 Apr 2024 09:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "TSLA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#TSLA",
         "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Ermotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Ermotti",
-        "pubdate": "Wed, 24 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
