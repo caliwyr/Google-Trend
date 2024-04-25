@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 04:45:13",
+  "lastUpdate": "25-04-2024 , 04:54:26",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
         "pubdate": "Thu, 25 Apr 2024 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "McDonalds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#McDonalds",
-        "pubdate": "Thu, 25 Apr 2024 12:00:00 +1000"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Dawn Service",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dawn%20Service",
+        "title": "Dawn service",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dawn%20service",
         "pubdate": "Wed, 24 Apr 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Terry Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Terry%20Hill",
+        "pubdate": "Wed, 24 Apr 2024 15:00:00 +1000"
       }
     ]
   ]
