@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 12:45:25",
+  "lastUpdate": "25-04-2024 , 12:54:43",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
+        "pubdate": "Thu, 25 Apr 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Somnox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Somnox",
         "pubdate": "Thu, 25 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kosovo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kosovo",
+        "pubdate": "Thu, 25 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Kosovo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kosovo",
-        "pubdate": "Thu, 25 Apr 2024 12:00:00 +0200"
+        "title": "Pedro Sanchez Espagne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pedro%20Sanchez%20Espagne",
+        "pubdate": "Thu, 25 Apr 2024 14:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
         "pubdate": "Wed, 24 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Guy Verhofstadt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guy%20Verhofstadt",
-        "pubdate": "Wed, 24 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Wed, 24 Apr 2024 22:00:00 +0200"
       }
     ]
   ]
