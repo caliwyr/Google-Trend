@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-04-2024 , 00:38:16",
+  "lastUpdate": "25-04-2024 , 01:39:54",
   "data": [
-    [
-      {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo",
-        "pubdate": "Wed, 24 Apr 2024 17:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Liverpool",
@@ -20,6 +13,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United",
         "pubdate": "Wed, 24 Apr 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Independiente del Valle x Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Independiente%20del%20Valle%20x%20Palmeiras",
+        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0500"
       }
     ],
     [
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "DET",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#DET",
-        "pubdate": "Wed, 24 Apr 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Independiente del Valle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Independiente%20del%20Valle",
-        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
         "pubdate": "Wed, 24 Apr 2024 13:00:00 -0500"
@@ -66,9 +52,44 @@
     ],
     [
       {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racing",
+        "pubdate": "Wed, 24 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "DET",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#DET",
+        "pubdate": "Wed, 24 Apr 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bragantino x Sportivo Luqueño",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino%20x%20Sportivo%20Luque%C3%B1o",
+        "pubdate": "Wed, 24 Apr 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Laura Cardoso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Laura%20Cardoso",
         "pubdate": "Wed, 24 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nacional",
+        "pubdate": "Wed, 24 Apr 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtics",
+        "pubdate": "Wed, 24 Apr 2024 19:00:00 -0500"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Jogo do São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
+        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "24 de abril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#24%20de%20abril",
         "pubdate": "Wed, 24 Apr 2024 07:00:00 -0500"
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Jogo do São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20S%C3%A3o%20Paulo",
-        "pubdate": "Wed, 24 Apr 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Stellar Blade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Stellar%20Blade",
         "pubdate": "Wed, 24 Apr 2024 18:00:00 -0500"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Jurgenfeld Ateliê",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jurgenfeld%20Ateli%C3%AA",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia do Chimarrão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Chimarr%C3%A3o",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lira",
-        "pubdate": "Wed, 24 Apr 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coquimbo Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coquimbo%20Unido",
-        "pubdate": "Wed, 24 Apr 2024 17:00:00 -0500"
+        "title": "Antonio Oliveira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Antonio%20Oliveira",
+        "pubdate": "Wed, 24 Apr 2024 12:00:00 -0500"
       }
     ]
   ]
