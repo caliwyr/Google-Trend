@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 15:48:50",
+  "lastUpdate": "25-04-2024 , 15:57:46",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "NFL Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20Draft",
+        "pubdate": "Thu, 25 Apr 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Billie%20Eilish",
         "pubdate": "Thu, 25 Apr 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harvey%20Weinstein",
+        "pubdate": "Thu, 25 Apr 2024 10:00:00 -0400"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harvey%20Weinstein",
-        "pubdate": "Thu, 25 Apr 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Bombardier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bombardier",
         "pubdate": "Thu, 25 Apr 2024 08:00:00 -0400"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Loch Ness Monster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Loch%20Ness%20Monster",
-        "pubdate": "Wed, 24 Apr 2024 11:00:00 -0400"
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
+        "pubdate": "Wed, 24 Apr 2024 17:00:00 -0400"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Meta stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
-        "pubdate": "Wed, 24 Apr 2024 17:00:00 -0400"
+        "title": "Loch Ness Monster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Loch%20Ness%20Monster",
+        "pubdate": "Wed, 24 Apr 2024 11:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics",
         "pubdate": "Wed, 24 Apr 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "TikTok ban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TikTok%20ban",
-        "pubdate": "Wed, 24 Apr 2024 12:00:00 -0400"
       }
     ]
   ]
