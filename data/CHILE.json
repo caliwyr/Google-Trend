@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2024 , 23:46:58",
+  "lastUpdate": "26-04-2024 , 23:56:17",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense",
+        "pubdate": "Fri, 26 Apr 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Devolucion de impuestos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Devolucion%20de%20impuestos",
         "pubdate": "Fri, 26 Apr 2024 11:00:00 -0400"
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Liga",
-        "pubdate": "Fri, 26 Apr 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Xiaomi 14 Ultra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Xiaomi%2014%20Ultra",
         "pubdate": "Fri, 26 Apr 2024 07:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Union Española",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-        "pubdate": "Fri, 26 Apr 2024 15:00:00 -0400"
       }
     ],
     [
@@ -69,6 +62,13 @@
         "title": "Under Armour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Under%20Armour",
         "pubdate": "Fri, 26 Apr 2024 07:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Union Española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
+        "pubdate": "Fri, 26 Apr 2024 15:00:00 -0400"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense",
-        "pubdate": "Thu, 25 Apr 2024 18:00:00 -0400"
+        "title": "Cobresal  Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20%20Talleres",
+        "pubdate": "Thu, 25 Apr 2024 07:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Cobresal  Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20%20Talleres",
-        "pubdate": "Thu, 25 Apr 2024 07:00:00 -0400"
+        "title": "Cerro  Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cerro%20%20Fluminense",
+        "pubdate": "Thu, 25 Apr 2024 18:00:00 -0400"
       }
     ]
   ]
